@@ -5,29 +5,29 @@ PageProcessor::Application.routes.draw do
 
   # get "pages/index"
 
-  match 'pages/:zoo_id' => 'subjects#show'
+  get 'pages/:zoo_id' => 'subjects#show'
   
-  match 'diaries/' => 'groups#index'
-  match 'diaries/map' => 'groups#full_map'
-  match 'diaries/casualties' => 'groups#casualty_map'
-  match 'diaries/:zoo_id/export' => 'public#export'
-  match 'diaries/:zoo_id/map' => 'groups#map'
-  match 'diaries/:zoo_id/csv' => 'public#csv'
-  match 'diaries/:zoo_id(/:page)' => 'groups#show', defaults: { page: 1 }
+  get 'diaries/' => 'groups#index'
+  get 'diaries/map' => 'groups#full_map'
+  get 'diaries/casualties' => 'groups#casualty_map'
+  get 'diaries/:zoo_id/export' => 'public#export'
+  get 'diaries/:zoo_id/map' => 'groups#map'
+  get 'diaries/:zoo_id/csv' => 'public#csv'
+  get 'diaries/:zoo_id(/:page)' => 'groups#show', defaults: { page: 1 }
   
-  match 'places/' => 'groups#place_map'
+  get 'places/' => 'groups#place_map'
   
-  match 'public/' => 'public#index'
+  get 'public/' => 'public#index'
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
   # Sample of regular route:
-  #   match 'products/:id' => 'catalog#view'
+  #   get 'products/:id' => 'catalog#view'
   # Keep in mind you can assign values other than :controller and :action
 
   # Sample of named route:
-  #   match 'products/:id/purchase' => 'catalog#purchase', :as => :purchase
+  #   get 'products/:id/purchase' => 'catalog#purchase', :as => :purchase
   # This route can be invoked with purchase_url(:id => product.id)
 
   # Sample resource route (maps HTTP verbs to controller actions automatically):
@@ -74,5 +74,5 @@ PageProcessor::Application.routes.draw do
 
   # This is a legacy wild controller route that's not recommended for RESTful applications.
   # Note: This route will make all actions in every controller accessible via GET requests.
-  # match ':controller(/:action(/:id))(.:format)'
+  # get ':controller(/:action(/:id))(.:format)'
 end
