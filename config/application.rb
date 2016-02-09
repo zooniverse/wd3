@@ -60,11 +60,6 @@ module PageProcessor
     # parameters by using an attr_accessible or attr_protected declaration.
     # config.active_record.whitelist_attributes = true
 
-    # Enable the asset pipeline
-    config.assets.enabled = false
-
-    # Version of your assets, change this if you want to expire all your assets
-    config.assets.version = '1.0'
     
     config.generators do |g|
       g.orm :mongo_mapper
@@ -97,5 +92,8 @@ module PageProcessor
         Place.ensure_index [[:label, 1]], :sparse => true
         Place.ensure_index [[:compare, 1]], :sparse => true
     end
+    
+    config.assets.precompile += %w( main.css )
+    config.assets.precompile += %w( application.js )
   end
 end
