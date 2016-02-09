@@ -94,6 +94,5 @@ module PageProcessor
     end
     
     config.assets.precompile += %w( main.css )
-    config.assets.precompile += %w( application.js )
   end
 end
