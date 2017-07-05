@@ -7,11 +7,19 @@ class Group
   key :metadata, Hash
   
   def start_date
-    Time.at self.metadata["start_date"]
+    date = self.metadata["start_date"]
+    if date.is_a? String
+      date = DateTime.parse date
+    end
+    Time.at date
   end
   
   def end_date
-    Time.at self.metadata["end_date"]
+    date = self.metadata["end_date"]
+    if date.is_a? String
+      date = DateTime.parse date
+    end
+    Time.at date
   end
   
   def pages( page = 0 )
