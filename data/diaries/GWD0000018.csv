@@ -1,0 +1,381 @@
+Order,Page,Page type,Page number,Count,DateTime,Date,Place,Lat/Lon,Time,Type,Label,Data,GeoID,GeoName,GeoCoords
+1,AWD00007iy,cover,1,2,,,,[],,diaryDate,1 Oct 1915,"{""day""=>[""1""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+1,AWD00007jl,cover,2,4,,,,[],,diaryDate,1 Oct 1915,"{""day""=>[""1""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+3,AWD00007jg,"other, cover",4,3,,,,[],,date,1 Dec 1915,{},,,
+6,AWD00007j9,other,5,2,,,,[],,diaryDate,15 Nov 1915,"{""day""=>[""15""], ""month""=>[""Nov""], ""year""=>[""1915""]}",,,
+1,AWD00007j2,diary,6,7,1915-10-01 00:00:00 UTC,1 Oct 1915,"","[0.0, 0.0]","",diaryDate,1 Oct 1915,"{""day""=>[""1""], ""month""=>[""Oct""], ""year""=>[""1915""]}",2985684,Pozières,"[2.72929, 50.04047]"
+4,AWD00007j2,diary,6,2,1915-10-02 00:00:00 UTC,2 Oct 1915,"","[0.0, 0.0]","",diaryDate,2 Oct 1915,"{""day""=>[""2""], ""month""=>[""Oct""], ""year""=>[""1915""]}",2985684,Pozières,"[2.72929, 50.04047]"
+5,AWD00007j2,diary,6,6,1915-10-02 00:00:00 UTC,2 Oct 1915,"","[0.0, 0.0]","",person,Lieutenant J Grant,"{""first""=>[""J""], ""surname""=>[""Grant""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+6,AWD00007j2,diary,6,4,1915-10-02 00:00:00 UTC,2 Oct 1915,"","[0.0, 0.0]","",diaryDate,2 Oct 1915,"{""day""=>[""2""], ""month""=>[""Oct""], ""year""=>[""1915""]}",2985684,Pozières,"[2.72929, 50.04047]"
+8,AWD00007j2,diary,6,5,1915-10-02 00:00:00 UTC,2 Oct 1915,"","[0.0, 0.0]","",activity,repair,{},2985684,Pozières,"[2.72929, 50.04047]"
+9,AWD00007j2,diary,6,3,1915-10-02 16:30:00 UTC,2 Oct 1915,"","[0.0, 0.0]",0430PM,time,0430PM,{},2985684,Pozières,"[2.72929, 50.04047]"
+10,AWD00007j2,diary,6,2,1915-10-02 16:30:00 UTC,2 Oct 1915,"","[0.0, 0.0]",0430PM,place,"Sansbury Wood, Sanctuary Wood ","{""place""=>[""Sansbury Wood"", ""Sanctuary Wood ""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+11,AWD00007j2,diary,6,2,1915-10-02 16:30:00 UTC,2 Oct 1915,Rin,"[0.0, 0.0]",0430PM,place,Rin,"{""place""=>[""Rin""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+12,AWD00007j2,diary,6,6,1915-10-03 00:00:00 UTC,3 Oct 1915,Rin,"[0.0, 0.0]","",diaryDate,3 Oct 1915,"{""day""=>[""3""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+13,AWD00007j2,diary,6,6,1915-10-04 00:00:00 UTC,4 Oct 1915,Rin,"[0.0, 0.0]","",diaryDate,4 Oct 1915,"{""day""=>[""4""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+15,AWD00007j2,diary,6,6,1915-10-05 00:00:00 UTC,5 Oct 1915,Rin,"[0.0, 0.0]","",diaryDate,5 Oct 1915,"{""day""=>[""5""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+16,AWD00007j2,diary,6,2,1915-10-06 00:00:00 UTC,6 Oct 1915,Rin,"[0.0, 0.0]","",diaryDate,6 Oct 1915,"{""day""=>[""6""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+17,AWD00007j2,diary,6,5,1915-10-06 00:00:00 UTC,6 Oct 1915,Rin,"[0.0, 0.0]","",person,Captain R D Ross,"{""first""=>[""R D""], ""surname""=>[""Ross""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+18,AWD00007j2,diary,6,4,1915-10-06 00:00:00 UTC,6 Oct 1915,Rin,"[0.0, 0.0]","",diaryDate,6 Oct 1915,"{""day""=>[""6""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+20,AWD00007j2,diary,6,3,1915-10-06 16:30:00 UTC,6 Oct 1915,Rin,"[0.0, 0.0]",0430PM,time,0430PM,{},,,
+21,AWD00007j2,diary,6,2,1915-10-06 16:30:00 UTC,6 Oct 1915,Rin,"[0.0, 0.0]",0430PM,place,"Sansbury Wood, Sanctuary Wood ","{""place""=>[""Sansbury Wood"", ""Sanctuary Wood ""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+22,AWD00007j2,diary,6,2,1915-10-06 16:30:00 UTC,6 Oct 1915,Rin,"[0.0, 0.0]",0430PM,activity,repair,{},,,
+23,AWD00007j2,diary,6,3,1915-10-06 16:30:00 UTC,6 Oct 1915,Rin,"[0.0, 0.0]",0430PM,person,Lieutenant J Grant,"{""first""=>[""J""], ""surname""=>[""Grant""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+25,AWD00007j2,diary,6,6,1915-10-07 00:00:00 UTC,7 Oct 1915,Rin,"[0.0, 0.0]","",diaryDate,7 Oct 1915,"{""day""=>[""7""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+27,AWD00007j2,diary,6,2,1915-10-08 00:00:00 UTC,8 Oct 1915,Rin,"[0.0, 0.0]","",diaryDate,8 Oct 1915,"{""day""=>[""8""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+29,AWD00007j2,diary,6,4,1915-10-08 00:00:00 UTC,8 Oct 1915,Rin,"[0.0, 0.0]","",diaryDate,8 Oct 1915,"{""day""=>[""8""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+30,AWD00007j2,diary,6,6,1915-10-09 00:00:00 UTC,9 Oct 1915,Rin,"[0.0, 0.0]","",diaryDate,9 Oct 1915,"{""day""=>[""9""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+31,AWD00007j2,diary,6,6,1915-10-10 00:00:00 UTC,10 Oct 1915,Rin,"[0.0, 0.0]","",diaryDate,10 Oct 1915,"{""day""=>[""10""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+32,AWD00007j2,diary,6,2,1915-10-11 00:00:00 UTC,11 Oct 1915,Rin,"[0.0, 0.0]","",diaryDate,11 Oct 1915,"{""day""=>[""11""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+33,AWD00007j2,diary,6,3,1915-10-11 00:00:00 UTC,11 Oct 1915,Rin,"[0.0, 0.0]","",person,"Lieutenant J Grant, GRANT, grant","{""first""=>[""J""], ""surname""=>[""Grant"", ""GRANT"", ""grant""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+34,AWD00007j2,diary,6,4,1915-10-11 00:00:00 UTC,11 Oct 1915,Rin,"[0.0, 0.0]","",diaryDate,11 Oct 1915,"{""day""=>[""11""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+36,AWD00007j2,diary,6,3,1915-10-11 16:15:00 UTC,11 Oct 1915,Rin,"[0.0, 0.0]",0415PM,time,0415PM,{},,,
+37,AWD00007j2,diary,6,3,1915-10-11 16:15:00 UTC,11 Oct 1915,Rin,"[0.0, 0.0]",0415PM,activity,repair,{},,,
+38,AWD00007j2,diary,6,2,1915-10-11 16:15:00 UTC,11 Oct 1915,Rin,"[0.0, 0.0]",0415PM,place,"Sansbury Wood, SANCTUARY WOOD","{""place""=>[""Sansbury Wood"", ""SANCTUARY WOOD""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+39,AWD00007j2,diary,6,4,1915-10-11 16:15:00 UTC,11 Oct 1915,Rin,"[0.0, 0.0]",0415PM,person,"Captain R D ROSO, Rees, Ross, ross","{""first""=>[""R D""], ""surname""=>[""ROSO"", ""Rees"", ""Ross"", ""ross""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+40,AWD00007j2,diary,6,6,1915-10-12 00:00:00 UTC,12 Oct 1915,Rin,"[0.0, 0.0]","",diaryDate,12 Oct 1915,"{""day""=>[""12""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+41,AWD00007j2,diary,6,6,1915-10-13 00:00:00 UTC,13 Oct 1915,Rin,"[0.0, 0.0]","",diaryDate,13 Oct 1915,"{""day""=>[""13""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+42,AWD00007j2,diary,6,6,1915-10-14 00:00:00 UTC,14 Oct 1915,Rin,"[0.0, 0.0]","",diaryDate,14 Oct 1915,"{""day""=>[""14""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+43,AWD00007j2,diary,6,6,1915-10-15 00:00:00 UTC,15 Oct 1915,Rin,"[0.0, 0.0]","",diaryDate,15 Oct 1915,"{""day""=>[""15""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+44,AWD00007j2,diary,6,2,1915-10-16 00:00:00 UTC,16 Oct 1915,Rin,"[0.0, 0.0]","",diaryDate,16 Oct 1915,"{""day""=>[""16""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+45,AWD00007j2,diary,6,4,1915-10-16 00:00:00 UTC,16 Oct 1915,Rin,"[0.0, 0.0]","",person,"Captain R D ROSO, Rees, ross, Ross","{""first""=>[""R D""], ""surname""=>[""ROSO"", ""Rees"", ""ross"", ""Ross""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+46,AWD00007j2,diary,6,4,1915-10-16 00:00:00 UTC,16 Oct 1915,Rin,"[0.0, 0.0]","",diaryDate,16 Oct 1915,"{""day""=>[""16""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+48,AWD00007j2,diary,6,3,1915-10-16 16:15:00 UTC,16 Oct 1915,Rin,"[0.0, 0.0]",0415PM,time,0415PM,{},,,
+49,AWD00007j2,diary,6,3,1915-10-16 16:15:00 UTC,16 Oct 1915,Rin,"[0.0, 0.0]",0415PM,activity,repair,{},,,
+51,AWD00007j2,diary,6,2,1915-10-16 16:15:00 UTC,16 Oct 1915,Rin,"[0.0, 0.0]",0415PM,place,"Sansbury Wood, SANCTUARY WOOD","{""place""=>[""Sansbury Wood"", ""SANCTUARY WOOD""], ""location""=>[""true"", ""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+52,AWD00007j2,diary,6,2,1915-10-16 16:15:00 UTC,16 Oct 1915,Rin,"[0.0, 0.0]",0415PM,person,"Lieutenant J, Grant, grant","{""first""=>[""J"", """"], ""surname""=>[""Grant"", ""grant""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+53,AWD00007j2,diary,6,6,1915-10-17 00:00:00 UTC,17 Oct 1915,Rin,"[0.0, 0.0]","",diaryDate,17 Oct 1915,"{""day""=>[""17""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+2,AWD00007jh,diary,7,6,1915-10-18 00:00:00 UTC,18 Oct 1915,Rin,"[0.0, 0.0]","",diaryDate,18 Oct 1915,"{""day""=>[""18""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+4,AWD00007jh,diary,7,2,1915-10-18 00:00:00 UTC,18 Oct 1915,Rin,"[0.0, 0.0]","",place,"3 DIVISION , 3rd Division","{""place""=>[""3 DIVISION "", ""3rd Division""], ""location""=>[""true"", ""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+5,AWD00007jh,diary,7,5,1915-10-19 00:00:00 UTC,19 Oct 1915,Rin,"[0.0, 0.0]","",diaryDate,19 Oct 1915,"{""day""=>[""19""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+7,AWD00007jh,diary,7,5,1915-10-20 00:00:00 UTC,20 Oct 1915,Rin,"[0.0, 0.0]","",diaryDate,20 Oct 1915,"{""day""=>[""20""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+10,AWD00007jh,diary,7,5,1915-10-21 00:00:00 UTC,21 Oct 1915,Rin,"[0.0, 0.0]","",diaryDate,21 Oct 1915,"{""day""=>[""21""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+11,AWD00007jh,diary,7,4,1915-10-21 00:00:00 UTC,21 Oct 1915,Rin,"[0.0, 0.0]","",place,"Bentuary Wood, bentuary wood, centuary Wood, SANCTUARY WOOD","{""place""=>[""Bentuary Wood"", ""bentuary wood"", ""centuary Wood"", ""SANCTUARY WOOD""], ""location""=>[""true"", ""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+12,AWD00007jh,diary,7,2,1915-10-21 20:45:00 UTC,21 Oct 1915,Rin,"[0.0, 0.0]",0845PM,time,0845PM,{},,,
+16,AWD00007jh,diary,7,3,1915-10-21 20:45:00 UTC,21 Oct 1915,Rin,"[0.0, 0.0]",0845PM,activity,repair,{},,,
+19,AWD00007jh,diary,7,2,1915-10-21 20:45:00 UTC,21 Oct 1915,"Nottingham Road , nottingham road","[0.0, 0.0]",0845PM,place,"Nottingham Road , nottingham road","{""place""=>[""Nottingham Road "", ""nottingham road""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+22,AWD00007jh,diary,7,2,1915-10-21 20:45:00 UTC,21 Oct 1915,"Dawson Street, dawson street","[0.0, 0.0]",0845PM,place,"Dawson Street, dawson street","{""place""=>[""Dawson Street"", ""dawson street""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+23,AWD00007jh,diary,7,2,1915-10-21 20:45:00 UTC,21 Oct 1915,"Robb Street, robb street","[0.0, 0.0]",0845PM,place,"Robb Street, robb street","{""place""=>[""Robb Street"", ""robb street""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+26,AWD00007jh,diary,7,2,1915-10-21 20:45:00 UTC,21 Oct 1915,"Boden Street, boden street","[0.0, 0.0]",0845PM,place,"Boden Street, boden street","{""place""=>[""Boden Street"", ""boden street""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+33,AWD00007jh,diary,7,3,1915-10-21 20:45:00 UTC,21 Oct 1915,"Boden Street, boden street","[0.0, 0.0]",0845PM,domestic,accomodation,{},,,
+35,AWD00007jh,diary,7,2,1915-10-21 20:45:00 UTC,21 Oct 1915,"Warington Avenue, warington avenue","[0.0, 0.0]",0845PM,place,"Warington Avenue, warington avenue","{""place""=>[""Warington Avenue"", ""warington avenue""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+37,AWD00007jh,diary,7,3,1915-10-21 17:30:00 UTC,21 Oct 1915,"Warington Avenue, warington avenue","[0.0, 0.0]",0530PM,time,0530PM,{},,,
+40,AWD00007jh,diary,7,2,1915-10-21 20:46:00 UTC,21 Oct 1915,"Warington Avenue, warington avenue","[0.0, 0.0]",0846PM,time,0846PM,{},,,
+42,AWD00007jh,diary,7,2,1915-10-21 20:46:00 UTC,21 Oct 1915,"Warington Avenue, warington avenue","[0.0, 0.0]",0846PM,casualties,wounded: 2,{},,,
+43,AWD00007jh,diary,7,2,1915-10-21 20:46:00 UTC,21 Oct 1915,"Warington Avenue, warington avenue","[0.0, 0.0]",0846PM,person,  ,"{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+47,AWD00007jh,diary,7,5,1915-10-22 00:00:00 UTC,22 Oct 1915,"Warington Avenue, warington avenue","[0.0, 0.0]","",diaryDate,22 Oct 1915,"{""day""=>[""22""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+48,AWD00007jh,diary,7,2,1915-10-22 17:30:00 UTC,22 Oct 1915,"Warington Avenue, warington avenue","[0.0, 0.0]",0530PM,time,0530PM,{},,,
+50,AWD00007jh,diary,7,2,1915-10-22 17:30:00 UTC,22 Oct 1915,"Warington Avenue, warington avenue","[0.0, 0.0]",0530PM,domestic,parades,{},,,
+52,AWD00007jh,diary,7,2,1915-10-22 17:30:00 UTC,22 Oct 1915,"Warington Avenue, warington avenue","[0.0, 0.0]",0530PM,place,"Winnezeele , Winnezeele","{""place""=>[""Winnezeele "", ""Winnezeele""], ""location""=>[""false"", ""true""], ""name""=>[""Winnezeele"", """"], ""lat""=>[""50.841"", """"], ""long""=>[""2.55118"", """"], ""id""=>[""2967341"", """"]}",,,
+53,AWD00007jh,diary,7,2,1915-10-22 17:30:00 UTC,22 Oct 1915,"Warington Avenue, warington avenue","[0.0, 0.0]",0530PM,activity,movement,{},,,
+54,AWD00007jh,diary,7,2,1915-10-22 17:30:00 UTC,22 Oct 1915,"Warington Avenue, warington avenue","[0.0, 0.0]",0530PM,mapRef,sheet: 27,{},,,
+56,AWD00007jh,diary,7,2,1915-10-22 17:30:00 UTC,22 Oct 1915,Rin,"[0.0, 0.0]",0530PM,place,Rin,"{""place""=>[""Rin""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+57,AWD00007jh,diary,7,2,1915-10-22 17:30:00 UTC,22 Oct 1915,Rin,"[0.0, 0.0]",0530PM,reference,Map 27,{},,,
+61,AWD00007jh,diary,7,5,1915-10-23 00:00:00 UTC,23 Oct 1915,Rin,"[0.0, 0.0]","",diaryDate,23 Oct 1915,"{""day""=>[""23""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+62,AWD00007jh,diary,7,2,1915-10-23 14:00:00 UTC,23 Oct 1915,Rin,"[0.0, 0.0]",0200PM,time,0200PM,{},,,
+66,AWD00007jh,diary,7,2,1915-10-23 14:00:00 UTC,23 Oct 1915,Rin,"[0.0, 0.0]",0200PM,gridRef,J 23,{},,,
+69,AWD00007jh,diary,7,2,1915-10-23 14:00:00 UTC,23 Oct 1915,Rin,"[0.0, 0.0]",0200PM,person,  ,"{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+73,AWD00007jh,diary,7,5,1915-10-24 00:00:00 UTC,24 Oct 1915,Rin,"[0.0, 0.0]","",diaryDate,24 Oct 1915,"{""day""=>[""24""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+76,AWD00007jh,diary,7,5,1915-10-25 00:00:00 UTC,25 Oct 1915,Rin,"[0.0, 0.0]","",diaryDate,25 Oct 1915,"{""day""=>[""25""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+78,AWD00007jh,diary,7,5,1915-10-26 00:00:00 UTC,26 Oct 1915,Rin,"[0.0, 0.0]","",diaryDate,26 Oct 1915,"{""day""=>[""26""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+80,AWD00007jh,diary,7,6,1915-10-27 00:00:00 UTC,27 Oct 1915,Rin,"[0.0, 0.0]","",diaryDate,27 Oct 1915,"{""day""=>[""27""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+81,AWD00007jh,diary,7,6,1915-10-28 00:00:00 UTC,28 Oct 1915,Rin,"[0.0, 0.0]","",diaryDate,28 Oct 1915,"{""day""=>[""28""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+82,AWD00007jh,diary,7,6,1915-10-29 00:00:00 UTC,29 Oct 1915,Rin,"[0.0, 0.0]","",diaryDate,29 Oct 1915,"{""day""=>[""29""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+83,AWD00007jh,diary,7,5,1915-10-30 00:00:00 UTC,30 Oct 1915,Rin,"[0.0, 0.0]","",diaryDate,30 Oct 1915,"{""day""=>[""30""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+84,AWD00007jh,diary,7,5,1915-10-31 00:00:00 UTC,31 Oct 1915,Rin,"[0.0, 0.0]","",diaryDate,31 Oct 1915,"{""day""=>[""31""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+1,AWD00007ix,cover,8,2,,,,[],,date,1 Oct 1915,{},,,
+2,AWD00007jj,diary,9,2,1915-11-01 00:00:00 UTC,1 Nov 1915,Rin,"[0.0, 0.0]","",diaryDate,1 Nov 1915,"{""day""=>[""1""], ""month""=>[""Nov""], ""year""=>[""1915""]}",,,
+4,AWD00007jj,diary,9,2,1915-11-02 00:00:00 UTC,2 Nov 1915,Rin,"[0.0, 0.0]","",diaryDate,2 Nov 1915,"{""day""=>[""2""], ""month""=>[""Nov""], ""year""=>[""1915""]}",,,
+5,AWD00007jj,diary,9,2,1915-11-03 00:00:00 UTC,3 Nov 1915,Rin,"[0.0, 0.0]","",diaryDate,3 Nov 1915,"{""day""=>[""3""], ""month""=>[""Nov""], ""year""=>[""1915""]}",,,
+6,AWD00007jj,diary,9,2,1915-11-04 00:00:00 UTC,4 Nov 1915,Rin,"[0.0, 0.0]","",diaryDate,4 Nov 1915,"{""day""=>[""4""], ""month""=>[""Nov""], ""year""=>[""1915""]}",,,
+7,AWD00007jj,diary,9,2,1915-11-05 00:00:00 UTC,5 Nov 1915,Rin,"[0.0, 0.0]","",diaryDate,5 Nov 1915,"{""day""=>[""5""], ""month""=>[""Nov""], ""year""=>[""1915""]}",,,
+8,AWD00007jj,diary,9,2,1915-11-05 13:00:00 UTC,5 Nov 1915,Rin,"[0.0, 0.0]",0100PM,time,0100PM,{},,,
+12,AWD00007jj,diary,9,2,1915-11-06 00:00:00 UTC,6 Nov 1915,Rin,"[0.0, 0.0]","",diaryDate,6 Nov 1915,"{""day""=>[""6""], ""month""=>[""Nov""], ""year""=>[""1915""]}",,,
+13,AWD00007jj,diary,9,2,1915-11-07 00:00:00 UTC,7 Nov 1915,Rin,"[0.0, 0.0]","",diaryDate,7 Nov 1915,"{""day""=>[""7""], ""month""=>[""Nov""], ""year""=>[""1915""]}",,,
+14,AWD00007jj,diary,9,2,1915-11-08 00:00:00 UTC,8 Nov 1915,Rin,"[0.0, 0.0]","",diaryDate,8 Nov 1915,"{""day""=>[""8""], ""month""=>[""Nov""], ""year""=>[""1915""]}",,,
+15,AWD00007jj,diary,9,2,1915-11-09 00:00:00 UTC,9 Nov 1915,Rin,"[0.0, 0.0]","",diaryDate,9 Nov 1915,"{""day""=>[""9""], ""month""=>[""Nov""], ""year""=>[""1915""]}",,,
+16,AWD00007jj,diary,9,2,1915-11-10 00:00:00 UTC,10 Nov 1915,Rin,"[0.0, 0.0]","",diaryDate,10 Nov 1915,"{""day""=>[""10""], ""month""=>[""Nov""], ""year""=>[""1915""]}",,,
+17,AWD00007jj,diary,9,2,1915-11-11 00:00:00 UTC,11 Nov 1915,Rin,"[0.0, 0.0]","",diaryDate,11 Nov 1915,"{""day""=>[""11""], ""month""=>[""Nov""], ""year""=>[""1915""]}",,,
+18,AWD00007jj,diary,9,2,1915-11-12 00:00:00 UTC,12 Nov 1915,Rin,"[0.0, 0.0]","",diaryDate,12 Nov 1915,"{""day""=>[""12""], ""month""=>[""Nov""], ""year""=>[""1915""]}",,,
+19,AWD00007jj,diary,9,2,1915-11-13 00:00:00 UTC,13 Nov 1915,Rin,"[0.0, 0.0]","",diaryDate,13 Nov 1915,"{""day""=>[""13""], ""month""=>[""Nov""], ""year""=>[""1915""]}",,,
+20,AWD00007jj,diary,9,2,1915-11-14 00:00:00 UTC,14 Nov 1915,Rin,"[0.0, 0.0]","",diaryDate,14 Nov 1915,"{""day""=>[""14""], ""month""=>[""Nov""], ""year""=>[""1915""]}",,,
+22,AWD00007jj,diary,9,2,1915-11-15 00:00:00 UTC,15 Nov 1915,Rin,"[0.0, 0.0]","",diaryDate,15 Nov 1915,"{""day""=>[""15""], ""month""=>[""Nov""], ""year""=>[""1915""]}",,,
+23,AWD00007jj,diary,9,2,1915-11-16 00:00:00 UTC,16 Nov 1915,Rin,"[0.0, 0.0]","",diaryDate,16 Nov 1915,"{""day""=>[""16""], ""month""=>[""Nov""], ""year""=>[""1915""]}",,,
+24,AWD00007jj,diary,9,3,1915-11-16 00:00:00 UTC,16 Nov 1915,Rin,"[0.0, 0.0]","",domestic,parades,{},,,
+28,AWD00007jj,diary,9,2,1915-11-16 00:00:00 UTC,16 Nov 1915,Rin,"[0.0, 0.0]","",domestic,inspections,{},,,
+29,AWD00007jj,diary,9,2,1915-11-16 00:00:00 UTC,16 Nov 1915,Rin,"[0.0, 0.0]","",unit,"8 Brigade, 8th Brigade","{""name""=>[""8 Brigade"", ""8th Brigade""], ""context""=>[""joined"", ""other""]}",,,
+31,AWD00007jj,diary,9,2,1915-11-16 00:00:00 UTC,16 Nov 1915,Rin,"[0.0, 0.0]","",domestic,medical,{},,,
+32,AWD00007jj,diary,9,2,1915-11-18 00:00:00 UTC,18 Nov 1915,Rin,"[0.0, 0.0]","",diaryDate,18 Nov 1915,"{""day""=>[""18""], ""month""=>[""Nov""], ""year""=>[""1915""]}",,,
+1,AWD00007jm,"diary, blank",10,3,,,,[],,diaryDate,19 Nov 1915,"{""day""=>[""19""], ""month""=>[""Nov""], ""year""=>[""1915""]}",,,
+3,AWD00007jm,"diary, blank",10,2,,,,[],,diaryDate,20 Nov 1915,"{""day""=>[""20""], ""month""=>[""Nov""], ""year""=>[""1915""]}",,,
+4,AWD00007jm,"diary, blank",10,2,,,,[],,diaryDate,21 Nov 1915,"{""day""=>[""21""], ""month""=>[""Nov""], ""year""=>[""1915""]}",,,
+5,AWD00007jm,"diary, blank",10,2,,,,[],,diaryDate,22 Nov 1915,"{""day""=>[""22""], ""month""=>[""Nov""], ""year""=>[""1915""]}",,,
+9,AWD00007jm,"diary, blank",10,3,,,,[],,domestic,parades,{},,,
+12,AWD00007jm,"diary, blank",10,2,,,,[],,diaryDate,23 Nov 1915,"{""day""=>[""23""], ""month""=>[""Nov""], ""year""=>[""1915""]}",,,
+13,AWD00007jm,"diary, blank",10,2,,,,[],,diaryDate,24 Nov 1915,"{""day""=>[""24""], ""month""=>[""Nov""], ""year""=>[""1915""]}",,,
+14,AWD00007jm,"diary, blank",10,2,,,,[],,diaryDate,25 Nov 1915,"{""day""=>[""25""], ""month""=>[""Nov""], ""year""=>[""1915""]}",,,
+15,AWD00007jm,"diary, blank",10,3,,,,[],,domestic,parades,{},,,
+18,AWD00007jm,"diary, blank",10,2,,,,[],,diaryDate,26 Nov 1915,"{""day""=>[""26""], ""month""=>[""Nov""], ""year""=>[""1915""]}",,,
+20,AWD00007jm,"diary, blank",10,2,,,,[],,diaryDate,27 Nov 1915,"{""day""=>[""27""], ""month""=>[""Nov""], ""year""=>[""1915""]}",,,
+21,AWD00007jm,"diary, blank",10,2,,,,[],,diaryDate,28 Nov 1915,"{""day""=>[""28""], ""month""=>[""Nov""], ""year""=>[""1915""]}",,,
+22,AWD00007jm,"diary, blank",10,2,,,,[],,diaryDate,29 Nov 1915,"{""day""=>[""29""], ""month""=>[""Nov""], ""year""=>[""1915""]}",,,
+26,AWD00007jm,"diary, blank",10,2,,,,[],,diaryDate,30 Nov 1915,"{""day""=>[""30""], ""month""=>[""Nov""], ""year""=>[""1915""]}",,,
+2,AWD00007j4,diary,12,2,,"1 Oct,Dec 1915",Rin,"[0.0, 0.0]","",diaryDate,"1 Oct,Dec 1915","{""day""=>[""1""], ""month""=>[""Oct"", ""Dec""], ""year""=>[""1915""]}",,,
+3,AWD00007j4,diary,12,2,1915-10-01 00:00:00 UTC,1 Oct 1915,Rin,"[0.0, 0.0]","",diaryDate,1 Oct 1915,"{""day""=>[""1""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+4,AWD00007j4,diary,12,3,1915-10-01 00:00:00 UTC,1 Oct 1915,Rin,"[0.0, 0.0]","",activity,other,{},,,
+16,AWD00007j4,diary,12,2,,"13 Oct,Dec 1915",Rin,"[0.0, 0.0]","",diaryDate,"13 Oct,Dec 1915","{""day""=>[""13""], ""month""=>[""Oct"", ""Dec""], ""year""=>[""1915""]}",,,
+17,AWD00007j4,diary,12,2,1915-10-13 00:00:00 UTC,13 Oct 1915,Rin,"[0.0, 0.0]","",diaryDate,13 Oct 1915,"{""day""=>[""13""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+19,AWD00007j4,diary,12,3,1915-10-13 00:00:00 UTC,13 Oct 1915,Rin,"[0.0, 0.0]","",activity,other,{},,,
+20,AWD00007j4,diary,12,4,1915-10-13 00:00:00 UTC,13 Oct 1915,Hazebrouke,"[0.0, 0.0]","",place,Hazebrouke,"{""place""=>[""Hazebrouke""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+25,AWD00007j4,diary,12,2,,"19 Oct,Dec 1915",Hazebrouke,"[0.0, 0.0]","",diaryDate,"19 Oct,Dec 1915","{""day""=>[""19""], ""month""=>[""Oct"", ""Dec""], ""year""=>[""1915""]}",,,
+26,AWD00007j4,diary,12,2,1915-10-19 00:00:00 UTC,19 Oct 1915,Hazebrouke,"[0.0, 0.0]","",diaryDate,19 Oct 1915,"{""day""=>[""19""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+27,AWD00007j4,diary,12,3,1915-10-19 00:00:00 UTC,19 Oct 1915,Hazebrouke,"[0.0, 0.0]","",activity,other,{},,,
+28,AWD00007j4,diary,12,4,1915-10-20 00:00:00 UTC,20 Oct 1915,Hazebrouke,"[0.0, 0.0]","",diaryDate,20 Oct 1915,"{""day""=>[""20""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+29,AWD00007j4,diary,12,3,1915-10-20 00:00:00 UTC,20 Oct 1915,Hazebrouke,"[0.0, 0.0]","",activity,movement,{},,,
+30,AWD00007j4,diary,12,4,1915-10-20 00:00:00 UTC,20 Oct 1915,Hazebrouke,"[0.0, 0.0]","",person,Major  Naring,"{""first""=>[""""], ""surname""=>[""Naring""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""C Squadron,North Irish Horse""]}",,,
+31,AWD00007j4,diary,12,3,1915-10-20 00:00:00 UTC,20 Oct 1915,Brugges,"[0.0, 0.0]","",place,Brugges,"{""place""=>[""Brugges""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+1,AWD00007jd,diary,14,2,1916-01-01 00:00:00 UTC,1 Jan 1916,Brugges,"[0.0, 0.0]","",diaryDate,1 Jan 1916,"{""day""=>[""1""], ""month""=>[""Jan""], ""year""=>[""1916""]}",,,
+2,AWD00007jd,diary,14,2,1916-01-02 00:00:00 UTC,2 Jan 1916,Brugges,"[0.0, 0.0]","",diaryDate,2 Jan 1916,"{""day""=>[""2""], ""month""=>[""Jan""], ""year""=>[""1916""]}",,,
+3,AWD00007jd,diary,14,2,1916-01-02 00:00:00 UTC,2 Jan 1916,Brugges,"[0.0, 0.0]","",domestic,parades,{},,,
+5,AWD00007jd,diary,14,2,1916-01-02 00:00:00 UTC,2 Jan 1916,Brugges,"[0.0, 0.0]","",person,"Private  ROONEY, Pooney","{""first""=>[""""], ""surname""=>[""ROONEY"", ""Pooney""], ""rank""=>[""Private""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+7,AWD00007jd,diary,14,2,1916-01-02 00:00:00 UTC,2 Jan 1916,Brugges,"[0.0, 0.0]","",mapRef,sheet: 28,{},,,
+10,AWD00007jd,diary,14,2,1916-01-03 00:00:00 UTC,3 Jan 1916,Brugges,"[0.0, 0.0]","",diaryDate,3 Jan 1916,"{""day""=>[""3""], ""month""=>[""Jan""], ""year""=>[""1916""]}",,,
+12,AWD00007jd,diary,14,4,1916-01-05 00:00:00 UTC,5 Jan 1916,Brugges,"[0.0, 0.0]","",diaryDate,5 Jan 1916,"{""day""=>[""5""], ""month""=>[""Jan""], ""year""=>[""1916""]}",,,
+13,AWD00007jd,diary,14,2,1916-01-06 00:00:00 UTC,6 Jan 1916,Brugges,"[0.0, 0.0]","",diaryDate,6 Jan 1916,"{""day""=>[""6""], ""month""=>[""Jan""], ""year""=>[""1916""]}",,,
+14,AWD00007jd,diary,14,2,1916-01-07 00:00:00 UTC,7 Jan 1916,Brugges,"[0.0, 0.0]","",diaryDate,7 Jan 1916,"{""day""=>[""7""], ""month""=>[""Jan""], ""year""=>[""1916""]}",,,
+15,AWD00007jd,diary,14,2,1916-01-08 00:00:00 UTC,8 Jan 1916,Brugges,"[0.0, 0.0]","",diaryDate,8 Jan 1916,"{""day""=>[""8""], ""month""=>[""Jan""], ""year""=>[""1916""]}",,,
+16,AWD00007jd,diary,14,2,1916-01-09 00:00:00 UTC,9 Jan 1916,Brugges,"[0.0, 0.0]","",diaryDate,9 Jan 1916,"{""day""=>[""9""], ""month""=>[""Jan""], ""year""=>[""1916""]}",,,
+17,AWD00007jd,diary,14,2,1916-01-10 00:00:00 UTC,10 Jan 1916,Brugges,"[0.0, 0.0]","",diaryDate,10 Jan 1916,"{""day""=>[""10""], ""month""=>[""Jan""], ""year""=>[""1916""]}",,,
+18,AWD00007jd,diary,14,2,1916-01-11 00:00:00 UTC,11 Jan 1916,Brugges,"[0.0, 0.0]","",diaryDate,11 Jan 1916,"{""day""=>[""11""], ""month""=>[""Jan""], ""year""=>[""1916""]}",,,
+19,AWD00007jd,diary,14,2,1916-01-12 00:00:00 UTC,12 Jan 1916,Brugges,"[0.0, 0.0]","",diaryDate,12 Jan 1916,"{""day""=>[""12""], ""month""=>[""Jan""], ""year""=>[""1916""]}",,,
+20,AWD00007jd,diary,14,2,1916-01-13 00:00:00 UTC,13 Jan 1916,Brugges,"[0.0, 0.0]","",diaryDate,13 Jan 1916,"{""day""=>[""13""], ""month""=>[""Jan""], ""year""=>[""1916""]}",,,
+21,AWD00007jd,diary,14,2,1916-01-14 00:00:00 UTC,14 Jan 1916,Brugges,"[0.0, 0.0]","",diaryDate,14 Jan 1916,"{""day""=>[""14""], ""month""=>[""Jan""], ""year""=>[""1916""]}",,,
+22,AWD00007jd,diary,14,2,1916-01-15 00:00:00 UTC,15 Jan 1916,Brugges,"[0.0, 0.0]","",diaryDate,15 Jan 1916,"{""day""=>[""15""], ""month""=>[""Jan""], ""year""=>[""1916""]}",,,
+23,AWD00007jd,diary,14,2,1916-01-16 00:00:00 UTC,16 Jan 1916,Brugges,"[0.0, 0.0]","",diaryDate,16 Jan 1916,"{""day""=>[""16""], ""month""=>[""Jan""], ""year""=>[""1916""]}",,,
+24,AWD00007jd,diary,14,2,1916-01-17 00:00:00 UTC,17 Jan 1916,Brugges,"[0.0, 0.0]","",diaryDate,17 Jan 1916,"{""day""=>[""17""], ""month""=>[""Jan""], ""year""=>[""1916""]}",,,
+25,AWD00007jd,diary,14,2,1916-01-18 00:00:00 UTC,18 Jan 1916,Brugges,"[0.0, 0.0]","",diaryDate,18 Jan 1916,"{""day""=>[""18""], ""month""=>[""Jan""], ""year""=>[""1916""]}",,,
+26,AWD00007jd,diary,14,2,1916-01-19 00:00:00 UTC,19 Jan 1916,Brugges,"[0.0, 0.0]","",diaryDate,19 Jan 1916,"{""day""=>[""19""], ""month""=>[""Jan""], ""year""=>[""1916""]}",,,
+27,AWD00007jd,diary,14,2,1916-01-20 00:00:00 UTC,20 Jan 1916,Brugges,"[0.0, 0.0]","",diaryDate,20 Jan 1916,"{""day""=>[""20""], ""month""=>[""Jan""], ""year""=>[""1916""]}",,,
+28,AWD00007jd,diary,14,2,1916-01-21 00:00:00 UTC,21 Jan 1916,Brugges,"[0.0, 0.0]","",diaryDate,21 Jan 1916,"{""day""=>[""21""], ""month""=>[""Jan""], ""year""=>[""1916""]}",,,
+29,AWD00007jd,diary,14,2,1916-01-22 00:00:00 UTC,22 Jan 1916,Brugges,"[0.0, 0.0]","",diaryDate,22 Jan 1916,"{""day""=>[""22""], ""month""=>[""Jan""], ""year""=>[""1916""]}",,,
+30,AWD00007jd,diary,14,2,1916-01-23 00:00:00 UTC,23 Jan 1916,Brugges,"[0.0, 0.0]","",diaryDate,23 Jan 1916,"{""day""=>[""23""], ""month""=>[""Jan""], ""year""=>[""1916""]}",,,
+31,AWD00007jd,diary,14,2,1916-01-24 00:00:00 UTC,24 Jan 1916,Brugges,"[0.0, 0.0]","",diaryDate,24 Jan 1916,"{""day""=>[""24""], ""month""=>[""Jan""], ""year""=>[""1916""]}",,,
+32,AWD00007jd,diary,14,2,1916-01-25 00:00:00 UTC,25 Jan 1916,Brugges,"[0.0, 0.0]","",diaryDate,25 Jan 1916,"{""day""=>[""25""], ""month""=>[""Jan""], ""year""=>[""1916""]}",,,
+33,AWD00007jd,diary,14,2,1916-01-26 00:00:00 UTC,26 Jan 1916,Brugges,"[0.0, 0.0]","",diaryDate,26 Jan 1916,"{""day""=>[""26""], ""month""=>[""Jan""], ""year""=>[""1916""]}",,,
+34,AWD00007jd,diary,14,2,1916-01-27 00:00:00 UTC,27 Jan 1916,Brugges,"[0.0, 0.0]","",diaryDate,27 Jan 1916,"{""day""=>[""27""], ""month""=>[""Jan""], ""year""=>[""1916""]}",,,
+36,AWD00007jd,diary,14,2,1916-01-28 00:00:00 UTC,28 Jan 1916,Brugges,"[0.0, 0.0]","",diaryDate,28 Jan 1916,"{""day""=>[""28""], ""month""=>[""Jan""], ""year""=>[""1916""]}",,,
+37,AWD00007jd,diary,14,2,1916-01-29 00:00:00 UTC,29 Jan 1916,Brugges,"[0.0, 0.0]","",diaryDate,29 Jan 1916,"{""day""=>[""29""], ""month""=>[""Jan""], ""year""=>[""1916""]}",,,
+38,AWD00007jd,diary,14,2,1916-01-30 00:00:00 UTC,30 Jan 1916,Brugges,"[0.0, 0.0]","",diaryDate,30 Jan 1916,"{""day""=>[""30""], ""month""=>[""Jan""], ""year""=>[""1916""]}",,,
+39,AWD00007jd,diary,14,2,1916-01-31 00:00:00 UTC,31 Jan 1916,Brugges,"[0.0, 0.0]","",diaryDate,31 Jan 1916,"{""day""=>[""31""], ""month""=>[""Jan""], ""year""=>[""1916""]}",,,
+1,AWD00007jk,diary,15,4,1916-02-01 00:00:00 UTC,1 Feb 1916,Brugges,"[0.0, 0.0]","",diaryDate,1 Feb 1916,"{""day""=>[""1""], ""month""=>[""Feb""], ""year""=>[""1916""]}",,,
+2,AWD00007jk,diary,15,3,1916-02-02 00:00:00 UTC,2 Feb 1916,Brugges,"[0.0, 0.0]","",diaryDate,2 Feb 1916,"{""day""=>[""2""], ""month""=>[""Feb""], ""year""=>[""1916""]}",,,
+3,AWD00007jk,diary,15,3,1916-02-03 00:00:00 UTC,3 Feb 1916,Brugges,"[0.0, 0.0]","",diaryDate,3 Feb 1916,"{""day""=>[""3""], ""month""=>[""Feb""], ""year""=>[""1916""]}",,,
+4,AWD00007jk,diary,15,3,1916-02-03 00:00:00 UTC,3 Feb 1916,Brugges,"[0.0, 0.0]","",domestic,other,{},,,
+6,AWD00007jk,diary,15,4,1916-02-04 00:00:00 UTC,4 Feb 1916,Brugges,"[0.0, 0.0]","",diaryDate,4 Feb 1916,"{""day""=>[""4""], ""month""=>[""Feb""], ""year""=>[""1916""]}",,,
+7,AWD00007jk,diary,15,2,,"5 Feb,Oct 1916",Brugges,"[0.0, 0.0]","",diaryDate,"5 Feb,Oct 1916","{""day""=>[""5""], ""month""=>[""Feb"", ""Oct""], ""year""=>[""1916""]}",,,
+8,AWD00007jk,diary,15,2,1916-02-05 00:00:00 UTC,5 Feb 1916,Brugges,"[0.0, 0.0]","",diaryDate,5 Feb 1916,"{""day""=>[""5""], ""month""=>[""Feb""], ""year""=>[""1916""]}",,,
+9,AWD00007jk,diary,15,3,1916-02-05 00:00:00 UTC,5 Feb 1916,Aneke,"[0.0, 0.0]","",place,Aneke,"{""place""=>[""Aneke""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+10,AWD00007jk,diary,15,4,1916-02-06 00:00:00 UTC,6 Feb 1916,Aneke,"[0.0, 0.0]","",diaryDate,6 Feb 1916,"{""day""=>[""6""], ""month""=>[""Feb""], ""year""=>[""1916""]}",,,
+11,AWD00007jk,diary,15,5,1916-02-06 00:00:00 UTC,6 Feb 1916,Aneke,"[0.0, 0.0]","",domestic,parades,{},,,
+13,AWD00007jk,diary,15,4,1916-02-06 00:00:00 UTC,6 Feb 1916,Aneke,"[0.0, 0.0]","",activity,movement,{},,,
+14,AWD00007jk,diary,15,4,1916-02-06 00:00:00 UTC,6 Feb 1916,"Saint Martin, St Martin, ST.MARTIN, st martin","[0.0, 0.0]","",place,"Saint Martin, St Martin, ST.MARTIN, st martin","{""place""=>[""Saint Martin"", ""St Martin"", ""ST.MARTIN"", ""st martin""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+15,AWD00007jk,diary,15,4,1916-02-07 00:00:00 UTC,7 Feb 1916,"Saint Martin, St Martin, ST.MARTIN, st martin","[0.0, 0.0]","",diaryDate,7 Feb 1916,"{""day""=>[""7""], ""month""=>[""Feb""], ""year""=>[""1916""]}",,,
+16,AWD00007jk,diary,15,3,1916-02-08 00:00:00 UTC,8 Feb 1916,"Saint Martin, St Martin, ST.MARTIN, st martin","[0.0, 0.0]","",diaryDate,8 Feb 1916,"{""day""=>[""8""], ""month""=>[""Feb""], ""year""=>[""1916""]}",,,
+19,AWD00007jk,diary,15,4,1916-02-09 00:00:00 UTC,9 Feb 1916,"Saint Martin, St Martin, ST.MARTIN, st martin","[0.0, 0.0]","",diaryDate,9 Feb 1916,"{""day""=>[""9""], ""month""=>[""Feb""], ""year""=>[""1916""]}",,,
+20,AWD00007jk,diary,15,4,1916-02-10 00:00:00 UTC,10 Feb 1916,"Saint Martin, St Martin, ST.MARTIN, st martin","[0.0, 0.0]","",diaryDate,10 Feb 1916,"{""day""=>[""10""], ""month""=>[""Feb""], ""year""=>[""1916""]}",,,
+21,AWD00007jk,diary,15,2,1916-02-10 00:00:00 UTC,10 Feb 1916,"Saint Martin, St Martin, ST.MARTIN, st martin","[0.0, 0.0]","",domestic,parades,{},,,
+24,AWD00007jk,diary,15,4,1916-02-11 00:00:00 UTC,11 Feb 1916,"Saint Martin, St Martin, ST.MARTIN, st martin","[0.0, 0.0]","",diaryDate,11 Feb 1916,"{""day""=>[""11""], ""month""=>[""Feb""], ""year""=>[""1916""]}",,,
+25,AWD00007jk,diary,15,4,1916-02-12 00:00:00 UTC,12 Feb 1916,"Saint Martin, St Martin, ST.MARTIN, st martin","[0.0, 0.0]","",diaryDate,12 Feb 1916,"{""day""=>[""12""], ""month""=>[""Feb""], ""year""=>[""1916""]}",,,
+26,AWD00007jk,diary,15,4,1916-02-12 00:00:00 UTC,12 Feb 1916,"Saint Martin, St Martin, ST.MARTIN, st martin","[0.0, 0.0]","",activity,training,{},,,
+28,AWD00007jk,diary,15,4,1916-02-13 00:00:00 UTC,13 Feb 1916,"Saint Martin, St Martin, ST.MARTIN, st martin","[0.0, 0.0]","",diaryDate,13 Feb 1916,"{""day""=>[""13""], ""month""=>[""Feb""], ""year""=>[""1916""]}",,,
+29,AWD00007jk,diary,15,3,1916-02-14 00:00:00 UTC,14 Feb 1916,"Saint Martin, St Martin, ST.MARTIN, st martin","[0.0, 0.0]","",diaryDate,14 Feb 1916,"{""day""=>[""14""], ""month""=>[""Feb""], ""year""=>[""1916""]}",,,
+30,AWD00007jk,diary,15,3,1916-02-15 00:00:00 UTC,15 Feb 1916,"Saint Martin, St Martin, ST.MARTIN, st martin","[0.0, 0.0]","",diaryDate,15 Feb 1916,"{""day""=>[""15""], ""month""=>[""Feb""], ""year""=>[""1916""]}",,,
+31,AWD00007jk,diary,15,3,1916-02-16 00:00:00 UTC,16 Feb 1916,"Saint Martin, St Martin, ST.MARTIN, st martin","[0.0, 0.0]","",diaryDate,16 Feb 1916,"{""day""=>[""16""], ""month""=>[""Feb""], ""year""=>[""1916""]}",,,
+32,AWD00007jk,diary,15,4,1916-02-16 00:00:00 UTC,16 Feb 1916,"Saint Martin, St Martin, ST.MARTIN, st martin","[0.0, 0.0]","",activity,training,{},,,
+33,AWD00007jk,diary,15,3,1916-02-17 00:00:00 UTC,17 Feb 1916,"Saint Martin, St Martin, ST.MARTIN, st martin","[0.0, 0.0]","",diaryDate,17 Feb 1916,"{""day""=>[""17""], ""month""=>[""Feb""], ""year""=>[""1916""]}",,,
+34,AWD00007jk,diary,15,3,1916-02-18 00:00:00 UTC,18 Feb 1916,"Saint Martin, St Martin, ST.MARTIN, st martin","[0.0, 0.0]","",diaryDate,18 Feb 1916,"{""day""=>[""18""], ""month""=>[""Feb""], ""year""=>[""1916""]}",,,
+35,AWD00007jk,diary,15,3,1916-02-19 00:00:00 UTC,19 Feb 1916,"Saint Martin, St Martin, ST.MARTIN, st martin","[0.0, 0.0]","",diaryDate,19 Feb 1916,"{""day""=>[""19""], ""month""=>[""Feb""], ""year""=>[""1916""]}",,,
+36,AWD00007jk,diary,15,3,1916-02-19 00:00:00 UTC,19 Feb 1916,"Saint Martin, St Martin, ST.MARTIN, st martin","[0.0, 0.0]","",activity,training,{},,,
+37,AWD00007jk,diary,15,2,,"20 Oct,Feb 1916","Saint Martin, St Martin, ST.MARTIN, st martin","[0.0, 0.0]","",diaryDate,"20 Oct,Feb 1916","{""day""=>[""20""], ""month""=>[""Oct"", ""Feb""], ""year""=>[""1916""]}",,,
+38,AWD00007jk,diary,15,3,1916-02-21 00:00:00 UTC,21 Feb 1916,"Saint Martin, St Martin, ST.MARTIN, st martin","[0.0, 0.0]","",diaryDate,21 Feb 1916,"{""day""=>[""21""], ""month""=>[""Feb""], ""year""=>[""1916""]}",,,
+39,AWD00007jk,diary,15,3,1916-02-22 00:00:00 UTC,22 Feb 1916,"Saint Martin, St Martin, ST.MARTIN, st martin","[0.0, 0.0]","",diaryDate,22 Feb 1916,"{""day""=>[""22""], ""month""=>[""Feb""], ""year""=>[""1916""]}",,,
+40,AWD00007jk,diary,15,4,1916-02-22 00:00:00 UTC,22 Feb 1916,"Saint Martin, St Martin, ST.MARTIN, st martin","[0.0, 0.0]","",activity,training,{},,,
+41,AWD00007jk,diary,15,3,1916-02-23 00:00:00 UTC,23 Feb 1916,"Saint Martin, St Martin, ST.MARTIN, st martin","[0.0, 0.0]","",diaryDate,23 Feb 1916,"{""day""=>[""23""], ""month""=>[""Feb""], ""year""=>[""1916""]}",,,
+42,AWD00007jk,diary,15,3,1916-02-24 00:00:00 UTC,24 Feb 1916,"Saint Martin, St Martin, ST.MARTIN, st martin","[0.0, 0.0]","",diaryDate,24 Feb 1916,"{""day""=>[""24""], ""month""=>[""Feb""], ""year""=>[""1916""]}",,,
+43,AWD00007jk,diary,15,2,,"25 Oct,Feb 1916","Saint Martin, St Martin, ST.MARTIN, st martin","[0.0, 0.0]","",diaryDate,"25 Oct,Feb 1916","{""day""=>[""25""], ""month""=>[""Oct"", ""Feb""], ""year""=>[""1916""]}",,,
+44,AWD00007jk,diary,15,3,1916-02-26 00:00:00 UTC,26 Feb 1916,"Saint Martin, St Martin, ST.MARTIN, st martin","[0.0, 0.0]","",diaryDate,26 Feb 1916,"{""day""=>[""26""], ""month""=>[""Feb""], ""year""=>[""1916""]}",,,
+45,AWD00007jk,diary,15,3,1916-02-26 00:00:00 UTC,26 Feb 1916,"Saint Martin, St Martin, ST.MARTIN, st martin","[0.0, 0.0]","",activity,training,{},,,
+46,AWD00007jk,diary,15,3,1916-02-27 00:00:00 UTC,27 Feb 1916,"Saint Martin, St Martin, ST.MARTIN, st martin","[0.0, 0.0]","",diaryDate,27 Feb 1916,"{""day""=>[""27""], ""month""=>[""Feb""], ""year""=>[""1916""]}",,,
+47,AWD00007jk,diary,15,3,1916-02-28 00:00:00 UTC,28 Feb 1916,"Saint Martin, St Martin, ST.MARTIN, st martin","[0.0, 0.0]","",diaryDate,28 Feb 1916,"{""day""=>[""28""], ""month""=>[""Feb""], ""year""=>[""1916""]}",,,
+48,AWD00007jk,diary,15,3,1916-02-28 00:00:00 UTC,28 Feb 1916,"Saint Martin, St Martin, ST.MARTIN, st martin","[0.0, 0.0]","",activity,training,{},,,
+49,AWD00007jk,diary,15,4,1916-02-29 00:00:00 UTC,29 Feb 1916,"Saint Martin, St Martin, ST.MARTIN, st martin","[0.0, 0.0]","",diaryDate,29 Feb 1916,"{""day""=>[""29""], ""month""=>[""Feb""], ""year""=>[""1916""]}",,,
+1,AWD00007jf,diary,17,4,1916-03-01 00:00:00 UTC,1 Mar 1916,"Saint Martin, St Martin, ST.MARTIN, st martin","[0.0, 0.0]","",diaryDate,1 Mar 1916,"{""day""=>[""1""], ""month""=>[""Mar""], ""year""=>[""1916""]}",,,
+5,AWD00007jf,diary,17,2,1916-03-01 00:00:00 UTC,1 Mar 1916,"Saint Martin, St Martin, ST.MARTIN, st martin","[0.0, 0.0]","",activity,training,{},,,
+6,AWD00007jf,diary,17,2,1916-03-02 00:00:00 UTC,2 Mar 1916,"Saint Martin, St Martin, ST.MARTIN, st martin","[0.0, 0.0]","",diaryDate,2 Mar 1916,"{""day""=>[""2""], ""month""=>[""Mar""], ""year""=>[""1916""]}",,,
+8,AWD00007jf,diary,17,2,1916-03-03 00:00:00 UTC,3 Mar 1916,"Saint Martin, St Martin, ST.MARTIN, st martin","[0.0, 0.0]","",diaryDate,3 Mar 1916,"{""day""=>[""3""], ""month""=>[""Mar""], ""year""=>[""1916""]}",,,
+9,AWD00007jf,diary,17,2,1916-03-04 00:00:00 UTC,4 Mar 1916,"Saint Martin, St Martin, ST.MARTIN, st martin","[0.0, 0.0]","",diaryDate,4 Mar 1916,"{""day""=>[""4""], ""month""=>[""Mar""], ""year""=>[""1916""]}",,,
+10,AWD00007jf,diary,17,2,1916-03-05 00:00:00 UTC,5 Mar 1916,"Saint Martin, St Martin, ST.MARTIN, st martin","[0.0, 0.0]","",diaryDate,5 Mar 1916,"{""day""=>[""5""], ""month""=>[""Mar""], ""year""=>[""1916""]}",,,
+11,AWD00007jf,diary,17,3,1916-03-06 00:00:00 UTC,6 Mar 1916,"Saint Martin, St Martin, ST.MARTIN, st martin","[0.0, 0.0]","",diaryDate,6 Mar 1916,"{""day""=>[""6""], ""month""=>[""Mar""], ""year""=>[""1916""]}",,,
+12,AWD00007jf,diary,17,3,1916-03-07 00:00:00 UTC,7 Mar 1916,"Saint Martin, St Martin, ST.MARTIN, st martin","[0.0, 0.0]","",diaryDate,7 Mar 1916,"{""day""=>[""7""], ""month""=>[""Mar""], ""year""=>[""1916""]}",,,
+13,AWD00007jf,diary,17,2,1916-03-07 13:00:00 UTC,7 Mar 1916,"Saint Martin, St Martin, ST.MARTIN, st martin","[0.0, 0.0]",0100PM,time,0100PM,{},,,
+14,AWD00007jf,diary,17,2,1916-03-07 13:00:00 UTC,7 Mar 1916,"Saint Martin, St Martin, ST.MARTIN, st martin","[0.0, 0.0]",0100PM,place,"bayenghem, Bayenghem","{""place""=>[""bayenghem"", ""Bayenghem""], ""location""=>[""false"", ""true""], ""name""=>[""Winnezeele"", ""Bayenghem-lès-Éperlecques""], ""lat""=>[""50.841"", ""50.80814""], ""long""=>[""2.55118"", ""2.1208""], ""id""=>[""2967341"", ""3034487""]}",,,
+17,AWD00007jf,diary,17,2,1916-03-08 00:00:00 UTC,8 Mar 1916,"Saint Martin, St Martin, ST.MARTIN, st martin","[0.0, 0.0]","",diaryDate,8 Mar 1916,"{""day""=>[""8""], ""month""=>[""Mar""], ""year""=>[""1916""]}",,,
+20,AWD00007jf,diary,17,3,1916-03-09 00:00:00 UTC,9 Mar 1916,"Saint Martin, St Martin, ST.MARTIN, st martin","[0.0, 0.0]","",diaryDate,9 Mar 1916,"{""day""=>[""9""], ""month""=>[""Mar""], ""year""=>[""1916""]}",,,
+21,AWD00007jf,diary,17,3,1916-03-10 00:00:00 UTC,10 Mar 1916,"Saint Martin, St Martin, ST.MARTIN, st martin","[0.0, 0.0]","",diaryDate,10 Mar 1916,"{""day""=>[""10""], ""month""=>[""Mar""], ""year""=>[""1916""]}",,,
+23,AWD00007jf,diary,17,3,1916-03-11 00:00:00 UTC,11 Mar 1916,"Saint Martin, St Martin, ST.MARTIN, st martin","[0.0, 0.0]","",diaryDate,11 Mar 1916,"{""day""=>[""11""], ""month""=>[""Mar""], ""year""=>[""1916""]}",,,
+24,AWD00007jf,diary,17,3,1916-03-11 08:30:00 UTC,11 Mar 1916,"Saint Martin, St Martin, ST.MARTIN, st martin","[0.0, 0.0]",0830AM,time,0830AM,{},,,
+27,AWD00007jf,diary,17,2,1916-03-11 08:30:00 UTC,11 Mar 1916,"Saint Martin, St Martin, ST.MARTIN, st martin","[0.0, 0.0]",0830AM,place,"hartiford, Hartiford","{""place""=>[""hartiford"", ""Hartiford""], ""location""=>[""false"", ""true""], ""name""=>[""Winnezeele"", ""Bayenghem-lès-Éperlecques""], ""lat""=>[""50.841"", ""50.80814""], ""long""=>[""2.55118"", ""2.1208""], ""id""=>[""2967341"", ""3034487""]}",,,
+28,AWD00007jf,diary,17,3,1916-03-12 00:00:00 UTC,12 Mar 1916,"Saint Martin, St Martin, ST.MARTIN, st martin","[0.0, 0.0]","",diaryDate,12 Mar 1916,"{""day""=>[""12""], ""month""=>[""Mar""], ""year""=>[""1916""]}",,,
+29,AWD00007jf,diary,17,2,1916-03-12 09:00:00 UTC,12 Mar 1916,"Saint Martin, St Martin, ST.MARTIN, st martin","[0.0, 0.0]",0900AM,time,0900AM,{},,,
+32,AWD00007jf,diary,17,3,1916-03-13 00:00:00 UTC,13 Mar 1916,"Saint Martin, St Martin, ST.MARTIN, st martin","[0.0, 0.0]","",diaryDate,13 Mar 1916,"{""day""=>[""13""], ""month""=>[""Mar""], ""year""=>[""1916""]}",,,
+34,AWD00007jf,diary,17,2,1916-03-13 00:00:00 UTC,13 Mar 1916,"Saint Martin, St Martin, ST.MARTIN, st martin","[0.0, 0.0]","",gridRef,R 10 a 2 5,{},,,
+36,AWD00007jf,diary,17,2,1916-03-14 00:00:00 UTC,14 Mar 1916,"Saint Martin, St Martin, ST.MARTIN, st martin","[0.0, 0.0]","",diaryDate,14 Mar 1916,"{""day""=>[""14""], ""month""=>[""Mar""], ""year""=>[""1916""]}",,,
+37,AWD00007jf,diary,17,2,1916-03-15 00:00:00 UTC,15 Mar 1916,"Saint Martin, St Martin, ST.MARTIN, st martin","[0.0, 0.0]","",diaryDate,15 Mar 1916,"{""day""=>[""15""], ""month""=>[""Mar""], ""year""=>[""1916""]}",,,
+38,AWD00007jf,diary,17,3,1916-03-16 00:00:00 UTC,16 Mar 1916,"Saint Martin, St Martin, ST.MARTIN, st martin","[0.0, 0.0]","",diaryDate,16 Mar 1916,"{""day""=>[""16""], ""month""=>[""Mar""], ""year""=>[""1916""]}",,,
+2,AWD00007j0,diary,18,3,1916-03-17 00:00:00 UTC,17 Mar 1916,"Saint Martin, St Martin, ST.MARTIN, st martin","[0.0, 0.0]","",diaryDate,17 Mar 1916,"{""day""=>[""17""], ""month""=>[""Mar""], ""year""=>[""1916""]}",,,
+3,AWD00007j0,diary,18,2,1916-03-17 16:30:00 UTC,17 Mar 1916,"Saint Martin, St Martin, ST.MARTIN, st martin","[0.0, 0.0]",0430PM,time,0430PM,{},,,
+6,AWD00007j0,diary,18,2,1916-03-17 16:30:00 UTC,17 Mar 1916,"Saint Martin, St Martin, ST.MARTIN, st martin","[0.0, 0.0]",0430PM,person,"Major  Hoet-Waring, Halt-Waring","{""first""=>[""""], ""surname""=>[""Hoet-Waring"", ""Halt-Waring""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+7,AWD00007j0,diary,18,3,1916-03-17 16:30:00 UTC,17 Mar 1916,Boeschepe,"[2.7, 50.8]",0430PM,place,Boeschepe,"{""place""=>[""Boeschepe""], ""location""=>[""true""], ""name""=>[""Boeschepe""], ""lat""=>[""50.8""], ""long""=>[""2.7""], ""id""=>[""3032146""]}",3032146,Boeschepe,"[2.7, 50.8]"
+8,AWD00007j0,diary,18,3,1916-03-17 16:30:00 UTC,17 Mar 1916,Boeschepe,"[2.7, 50.8]",0430PM,place,"voormezeele, voormezele, Voormezeele","{""place""=>[""voormezeele"", ""voormezele"", ""Voormezeele""], ""location""=>[""false""], ""name""=>[""Voormezele""], ""lat""=>[""50.81681""], ""long""=>[""2.87616""], ""id""=>[""2784394""]}",3032146,Boeschepe,"[2.7, 50.8]"
+9,AWD00007j0,diary,18,2,1916-03-17 16:30:00 UTC,17 Mar 1916,Boeschepe,"[2.7, 50.8]",0430PM,activity,repair,{},3032146,Boeschepe,"[2.7, 50.8]"
+13,AWD00007j0,diary,18,3,1916-03-18 00:00:00 UTC,18 Mar 1916,Boeschepe,"[2.7, 50.8]","",diaryDate,18 Mar 1916,"{""day""=>[""18""], ""month""=>[""Mar""], ""year""=>[""1916""]}",3032146,Boeschepe,"[2.7, 50.8]"
+14,AWD00007j0,diary,18,2,1916-03-18 00:00:00 UTC,18 Mar 1916,Boeschepe,"[2.7, 50.8]","",activity,other,{},3032146,Boeschepe,"[2.7, 50.8]"
+15,AWD00007j0,diary,18,3,1916-03-19 00:00:00 UTC,19 Mar 1916,Boeschepe,"[2.7, 50.8]","",diaryDate,19 Mar 1916,"{""day""=>[""19""], ""month""=>[""Mar""], ""year""=>[""1916""]}",3032146,Boeschepe,"[2.7, 50.8]"
+16,AWD00007j0,diary,18,2,1916-03-19 15:45:00 UTC,19 Mar 1916,Boeschepe,"[2.7, 50.8]",0345PM,time,0345PM,{},3032146,Boeschepe,"[2.7, 50.8]"
+17,AWD00007j0,diary,18,3,1916-03-19 15:45:00 UTC,19 Mar 1916,Boeschepe,"[2.7, 50.8]",0345PM,person,Captain J Grant,"{""first""=>[""J""], ""surname""=>[""Grant""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",3032146,Boeschepe,"[2.7, 50.8]"
+18,AWD00007j0,diary,18,2,1916-03-19 15:45:00 UTC,19 Mar 1916,Boeschepe,"[2.7, 50.8]",0345PM,gridRef,I 20 c 6 2,{},3032146,Boeschepe,"[2.7, 50.8]"
+20,AWD00007j0,diary,18,3,1916-03-20 00:00:00 UTC,20 Mar 1916,Boeschepe,"[2.7, 50.8]","",diaryDate,20 Mar 1916,"{""day""=>[""20""], ""month""=>[""Mar""], ""year""=>[""1916""]}",3032146,Boeschepe,"[2.7, 50.8]"
+21,AWD00007j0,diary,18,2,1916-03-20 17:30:00 UTC,20 Mar 1916,Boeschepe,"[2.7, 50.8]",0530PM,time,0530PM,{},3032146,Boeschepe,"[2.7, 50.8]"
+23,AWD00007j0,diary,18,2,1916-03-20 17:30:00 UTC,20 Mar 1916,Boeschepe,"[2.7, 50.8]",0530PM,person,Major  Waring,"{""first""=>[""""], ""surname""=>[""Waring""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",3032146,Boeschepe,"[2.7, 50.8]"
+24,AWD00007j0,diary,18,4,1916-03-20 17:30:00 UTC,20 Mar 1916,Boeschepe,"[2.7, 50.8]",0530PM,place,"voormezele, Voormezeele","{""place""=>[""voormezele"", ""Voormezeele""], ""location""=>[""true"", ""false""], ""name""=>[""Voormezele""], ""lat""=>[""50.81681""], ""long""=>[""2.87616""], ""id""=>[""2784394""]}",3032146,Boeschepe,"[2.7, 50.8]"
+25,AWD00007j0,diary,18,3,1916-03-21 00:00:00 UTC,21 Mar 1916,Boeschepe,"[2.7, 50.8]","",diaryDate,21 Mar 1916,"{""day""=>[""21""], ""month""=>[""Mar""], ""year""=>[""1916""]}",3032146,Boeschepe,"[2.7, 50.8]"
+26,AWD00007j0,diary,18,2,1916-03-21 17:15:00 UTC,21 Mar 1916,Boeschepe,"[2.7, 50.8]",0515PM,time,0515PM,{},3032146,Boeschepe,"[2.7, 50.8]"
+28,AWD00007j0,diary,18,3,1916-03-21 17:15:00 UTC,21 Mar 1916,Boeschepe,"[2.7, 50.8]",0515PM,person,Captain R A B Henry,"{""first""=>[""R A B""], ""surname""=>[""Henry""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",3032146,Boeschepe,"[2.7, 50.8]"
+29,AWD00007j0,diary,18,3,1916-03-22 00:00:00 UTC,22 Mar 1916,Boeschepe,"[2.7, 50.8]","",diaryDate,22 Mar 1916,"{""day""=>[""22""], ""month""=>[""Mar""], ""year""=>[""1916""]}",3032146,Boeschepe,"[2.7, 50.8]"
+30,AWD00007j0,diary,18,2,1916-03-22 17:30:00 UTC,22 Mar 1916,Boeschepe,"[2.7, 50.8]",0530PM,time,0530PM,{},3032146,Boeschepe,"[2.7, 50.8]"
+34,AWD00007j0,diary,18,2,1916-03-22 17:30:00 UTC,22 Mar 1916,Boeschepe,"[2.7, 50.8]",0530PM,place,"Voormezeele, voormezele","{""place""=>[""Voormezeele"", ""voormezele""], ""location""=>[""false"", ""true""], ""name""=>[""Voormezele""], ""lat""=>[""50.81681""], ""long""=>[""2.87616""], ""id""=>[""2784394""]}",3032146,Boeschepe,"[2.7, 50.8]"
+35,AWD00007j0,diary,18,3,1916-03-23 00:00:00 UTC,23 Mar 1916,Boeschepe,"[2.7, 50.8]","",diaryDate,23 Mar 1916,"{""day""=>[""23""], ""month""=>[""Mar""], ""year""=>[""1916""]}",3032146,Boeschepe,"[2.7, 50.8]"
+37,AWD00007j0,diary,18,2,1916-03-24 00:00:00 UTC,24 Mar 1916,Boeschepe,"[2.7, 50.8]","",diaryDate,24 Mar 1916,"{""day""=>[""24""], ""month""=>[""Mar""], ""year""=>[""1916""]}",3032146,Boeschepe,"[2.7, 50.8]"
+38,AWD00007j0,diary,18,3,1916-03-25 00:00:00 UTC,25 Mar 1916,Boeschepe,"[2.7, 50.8]","",diaryDate,25 Mar 1916,"{""day""=>[""25""], ""month""=>[""Mar""], ""year""=>[""1916""]}",3032146,Boeschepe,"[2.7, 50.8]"
+39,AWD00007j0,diary,18,3,1916-03-26 00:00:00 UTC,26 Mar 1916,Boeschepe,"[2.7, 50.8]","",diaryDate,26 Mar 1916,"{""day""=>[""26""], ""month""=>[""Mar""], ""year""=>[""1916""]}",3032146,Boeschepe,"[2.7, 50.8]"
+42,AWD00007j0,diary,18,3,1916-03-26 00:00:00 UTC,26 Mar 1916,Boeschepe,"[2.7, 50.8]","",place,"dickebusche, DICKEBUSCHE, Dickebusche","{""place""=>[""dickebusche"", ""DICKEBUSCHE"", ""Dickebusche""], ""location""=>[""false""], ""name""=>[""Voormezele""], ""lat""=>[""50.81681""], ""long""=>[""2.87616""], ""id""=>[""2784394""]}",3032146,Boeschepe,"[2.7, 50.8]"
+45,AWD00007j0,diary,18,3,1916-03-27 00:00:00 UTC,27 Mar 1916,Boeschepe,"[2.7, 50.8]","",diaryDate,27 Mar 1916,"{""day""=>[""27""], ""month""=>[""Mar""], ""year""=>[""1916""]}",3032146,Boeschepe,"[2.7, 50.8]"
+46,AWD00007j0,diary,18,3,1916-03-28 00:00:00 UTC,28 Mar 1916,Boeschepe,"[2.7, 50.8]","",diaryDate,28 Mar 1916,"{""day""=>[""28""], ""month""=>[""Mar""], ""year""=>[""1916""]}",3032146,Boeschepe,"[2.7, 50.8]"
+1,AWD00007iz,diary,20,3,1916-03-29 00:00:00 UTC,29 Mar 1916,Boeschepe,"[2.7, 50.8]","",diaryDate,29 Mar 1916,"{""day""=>[""29""], ""month""=>[""Mar""], ""year""=>[""1916""]}",3032146,Boeschepe,"[2.7, 50.8]"
+2,AWD00007iz,diary,20,2,1916-03-29 00:00:00 UTC,29 Mar 1916,Boeschepe,"[2.7, 50.8]","",place,"DICKEBUSCHE, Dickebusche","{""place""=>[""DICKEBUSCHE"", ""Dickebusche""], ""location""=>[""false""], ""name""=>[""Winnezeele"", """"], ""lat""=>[""50.841"", """"], ""long""=>[""2.55118"", """"], ""id""=>[""2967341"", """"]}",3032146,Boeschepe,"[2.7, 50.8]"
+6,AWD00007iz,diary,20,2,1916-03-30 00:00:00 UTC,30 Mar 1916,Boeschepe,"[2.7, 50.8]","",diaryDate,30 Mar 1916,"{""day""=>[""30""], ""month""=>[""Mar""], ""year""=>[""1916""]}",3032146,Boeschepe,"[2.7, 50.8]"
+7,AWD00007iz,diary,20,3,1916-03-31 00:00:00 UTC,31 Mar 1916,Boeschepe,"[2.7, 50.8]","",diaryDate,31 Mar 1916,"{""day""=>[""31""], ""month""=>[""Mar""], ""year""=>[""1916""]}",3032146,Boeschepe,"[2.7, 50.8]"
+6,AWD00007je,diary,21,5,1916-04-01 00:00:00 UTC,1 Apr 1916,Boeschepe,"[2.7, 50.8]","",diaryDate,1 Apr 1916,"{""day""=>[""1""], ""month""=>[""Apr""], ""year""=>[""1916""]}",3032146,Boeschepe,"[2.7, 50.8]"
+8,AWD00007je,diary,21,2,1916-04-01 00:00:00 UTC,1 Apr 1916,Boeschepe,"[2.7, 50.8]","",unit,3rd Division,"{""name""=>[""3rd Division""], ""context""=>[""other""]}",3032146,Boeschepe,"[2.7, 50.8]"
+9,AWD00007je,diary,21,2,1916-04-01 00:00:00 UTC,1 Apr 1916,Boeschepe,"[2.7, 50.8]","",activity,quiet,{},3032146,Boeschepe,"[2.7, 50.8]"
+10,AWD00007je,diary,21,3,1916-04-02 00:00:00 UTC,2 Apr 1916,Boeschepe,"[2.7, 50.8]","",diaryDate,2 Apr 1916,"{""day""=>[""2""], ""month""=>[""Apr""], ""year""=>[""1916""]}",3032146,Boeschepe,"[2.7, 50.8]"
+11,AWD00007je,diary,21,4,1916-04-03 00:00:00 UTC,3 Apr 1916,Boeschepe,"[2.7, 50.8]","",diaryDate,3 Apr 1916,"{""day""=>[""3""], ""month""=>[""Apr""], ""year""=>[""1916""]}",3032146,Boeschepe,"[2.7, 50.8]"
+13,AWD00007je,diary,21,4,1916-04-04 00:00:00 UTC,4 Apr 1916,Boeschepe,"[2.7, 50.8]","",diaryDate,4 Apr 1916,"{""day""=>[""4""], ""month""=>[""Apr""], ""year""=>[""1916""]}",3032146,Boeschepe,"[2.7, 50.8]"
+14,AWD00007je,diary,21,2,1916-04-04 00:00:00 UTC,4 Apr 1916,Boeschepe,"[2.7, 50.8]","",activity,quiet,{},3032146,Boeschepe,"[2.7, 50.8]"
+16,AWD00007je,diary,21,4,1916-04-05 00:00:00 UTC,5 Apr 1916,Boeschepe,"[2.7, 50.8]","",diaryDate,5 Apr 1916,"{""day""=>[""5""], ""month""=>[""Apr""], ""year""=>[""1916""]}",3032146,Boeschepe,"[2.7, 50.8]"
+17,AWD00007je,diary,21,4,1916-04-06 00:00:00 UTC,6 Apr 1916,Boeschepe,"[2.7, 50.8]","",diaryDate,6 Apr 1916,"{""day""=>[""6""], ""month""=>[""Apr""], ""year""=>[""1916""]}",3032146,Boeschepe,"[2.7, 50.8]"
+18,AWD00007je,diary,21,3,1916-04-06 00:00:00 UTC,6 Apr 1916,Boeschepe,"[2.7, 50.8]","",activity,quiet,{},3032146,Boeschepe,"[2.7, 50.8]"
+19,AWD00007je,diary,21,4,1916-04-07 00:00:00 UTC,7 Apr 1916,Boeschepe,"[2.7, 50.8]","",diaryDate,7 Apr 1916,"{""day""=>[""7""], ""month""=>[""Apr""], ""year""=>[""1916""]}",3032146,Boeschepe,"[2.7, 50.8]"
+20,AWD00007je,diary,21,4,1916-04-08 00:00:00 UTC,8 Apr 1916,Boeschepe,"[2.7, 50.8]","",diaryDate,8 Apr 1916,"{""day""=>[""8""], ""month""=>[""Apr""], ""year""=>[""1916""]}",3032146,Boeschepe,"[2.7, 50.8]"
+21,AWD00007je,diary,21,2,1916-04-08 00:00:00 UTC,8 Apr 1916,Boeschepe,"[2.7, 50.8]","",activity,quiet,{},3032146,Boeschepe,"[2.7, 50.8]"
+24,AWD00007je,diary,21,4,1916-04-09 00:00:00 UTC,9 Apr 1916,Boeschepe,"[2.7, 50.8]","",diaryDate,9 Apr 1916,"{""day""=>[""9""], ""month""=>[""Apr""], ""year""=>[""1916""]}",3032146,Boeschepe,"[2.7, 50.8]"
+26,AWD00007je,diary,21,5,1916-04-09 00:00:00 UTC,9 Apr 1916,Hartiford,"[0.0, 0.0]","",place,Hartiford,"{""place""=>[""Hartiford""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+28,AWD00007je,diary,21,4,1916-04-10 00:00:00 UTC,10 Apr 1916,Hartiford,"[0.0, 0.0]","",diaryDate,10 Apr 1916,"{""day""=>[""10""], ""month""=>[""Apr""], ""year""=>[""1916""]}",,,
+29,AWD00007je,diary,21,5,1916-04-10 00:00:00 UTC,10 Apr 1916,Hartiford,"[0.0, 0.0]","",activity,movement,{},,,
+34,AWD00007je,diary,21,5,1916-04-11 00:00:00 UTC,11 Apr 1916,Hartiford,"[0.0, 0.0]","",diaryDate,11 Apr 1916,"{""day""=>[""11""], ""month""=>[""Apr""], ""year""=>[""1916""]}",,,
+36,AWD00007je,diary,21,2,1916-04-11 00:00:00 UTC,11 Apr 1916,Hartiford,"[0.0, 0.0]","",activity,other,{},,,
+37,AWD00007je,diary,21,5,1916-04-12 00:00:00 UTC,12 Apr 1916,Hartiford,"[0.0, 0.0]","",diaryDate,12 Apr 1916,"{""day""=>[""12""], ""month""=>[""Apr""], ""year""=>[""1916""]}",,,
+38,AWD00007je,diary,21,5,1916-04-12 00:00:00 UTC,12 Apr 1916,Alquines,"[1.99317, 50.7411]","",place,Alquines,"{""place""=>[""Alquines""], ""location""=>[""true""], ""name""=>[""Alquines""], ""lat""=>[""50.7411""], ""long""=>[""1.99317""], ""id""=>[""3038036""]}",3038036,Alquines,"[1.99317, 50.7411]"
+39,AWD00007je,diary,21,2,1916-04-12 00:00:00 UTC,12 Apr 1916,Alquines,"[1.99317, 50.7411]","",unit,2nd Cav Division,"{""name""=>[""2nd Cav Division""], ""context""=>[""other""]}",3038036,Alquines,"[1.99317, 50.7411]"
+40,AWD00007je,diary,21,3,1916-04-12 00:00:00 UTC,12 Apr 1916,Alquines,"[1.99317, 50.7411]","",activity,movement,{},3038036,Alquines,"[1.99317, 50.7411]"
+42,AWD00007je,diary,21,5,1916-04-12 00:00:00 UTC,12 Apr 1916,Alquines,"[1.99317, 50.7411]","",unit,2nd Cavalry Division,"{""name""=>[""2nd Cavalry Division""], ""context""=>[""other""]}",3038036,Alquines,"[1.99317, 50.7411]"
+43,AWD00007je,diary,21,6,1916-04-12 00:00:00 UTC,12 Apr 1916,Alquines,"[1.99317, 50.7411]","",activity,training,{},3038036,Alquines,"[1.99317, 50.7411]"
+44,AWD00007je,diary,21,3,1916-04-13 00:00:00 UTC,13 Apr 1916,Alquines,"[1.99317, 50.7411]","",diaryDate,13 Apr 1916,"{""day""=>[""13""], ""month""=>[""Apr""], ""year""=>[""1916""]}",3038036,Alquines,"[1.99317, 50.7411]"
+45,AWD00007je,diary,21,3,1916-04-26 00:00:00 UTC,26 Apr 1916,Alquines,"[1.99317, 50.7411]","",diaryDate,26 Apr 1916,"{""day""=>[""26""], ""month""=>[""Apr""], ""year""=>[""1916""]}",3038036,Alquines,"[1.99317, 50.7411]"
+47,AWD00007je,diary,21,5,1916-04-27 00:00:00 UTC,27 Apr 1916,Alquines,"[1.99317, 50.7411]","",diaryDate,27 Apr 1916,"{""day""=>[""27""], ""month""=>[""Apr""], ""year""=>[""1916""]}",3038036,Alquines,"[1.99317, 50.7411]"
+48,AWD00007je,diary,21,2,1916-04-27 00:00:00 UTC,27 Apr 1916,Alquines,"[1.99317, 50.7411]","",unit,3rd Division,"{""name""=>[""3rd Division""], ""context""=>[""other""]}",3038036,Alquines,"[1.99317, 50.7411]"
+49,AWD00007je,diary,21,4,1916-04-27 00:00:00 UTC,27 Apr 1916,Hartiford,"[1.99317, 50.7411]","",place,Hartiford,"{""place""=>[""Hartiford""], ""location""=>[""true""], ""name""=>[""Alquines""], ""lat""=>[""50.7411""], ""long""=>[""1.99317""], ""id""=>[""3038036""]}",,,
+51,AWD00007je,diary,21,5,1916-04-28 00:00:00 UTC,28 Apr 1916,Hartiford,"[1.99317, 50.7411]","",diaryDate,28 Apr 1916,"{""day""=>[""28""], ""month""=>[""Apr""], ""year""=>[""1916""]}",,,
+52,AWD00007je,diary,21,7,1916-04-28 00:00:00 UTC,28 Apr 1916,Hartiford,"[1.99317, 50.7411]","",activity,movement,{},,,
+53,AWD00007je,diary,21,2,1916-04-28 00:00:00 UTC,28 Apr 1916,Hartiford,"[1.99317, 50.7411]","",domestic,accomodation,{},,,
+55,AWD00007je,diary,21,5,1916-04-28 00:00:00 UTC,28 Apr 1916,Westoutre,"[2.74647, 50.79722]","",place,Westoutre,"{""place""=>[""Westoutre""], ""location""=>[""true""], ""name""=>[""Westouter""], ""lat""=>[""50.79722""], ""long""=>[""2.74647""], ""id""=>[""2783781""]}",2783781,Westouter,"[2.74647, 50.79722]"
+61,AWD00007je,diary,21,5,1916-04-29 00:00:00 UTC,29 Apr 1916,Westoutre,"[2.74647, 50.79722]","",diaryDate,29 Apr 1916,"{""day""=>[""29""], ""month""=>[""Apr""], ""year""=>[""1916""]}",2783781,Westouter,"[2.74647, 50.79722]"
+62,AWD00007je,diary,21,2,1916-04-29 00:00:00 UTC,29 Apr 1916,Westoutre,"[2.74647, 50.79722]","",unit,"""","{""name""=>[""\""""], ""context""=>[""other""]}",2783781,Westouter,"[2.74647, 50.79722]"
+66,AWD00007je,diary,21,5,1916-04-29 00:00:00 UTC,29 Apr 1916,Kemmel,"[2.82714, 50.78333]","",place,Kemmel,"{""place""=>[""Kemmel""], ""location""=>[""true""], ""name""=>[""Kemmel""], ""lat""=>[""50.78333""], ""long""=>[""2.82714""], ""id""=>[""2794579""]}",2967492,Wallon-Cappel,"[2.4741, 50.7268]"
+67,AWD00007je,diary,21,4,1916-04-29 00:00:00 UTC,29 Apr 1916,Kemmel,"[2.82714, 50.78333]","",unit,Yorkshire Hussars,"{""name""=>[""Yorkshire Hussars""], ""context""=>[""relieved""]}",2967492,Wallon-Cappel,"[2.4741, 50.7268]"
+71,AWD00007je,diary,21,5,1916-04-29 00:00:00 UTC,29 Apr 1916,Bailleul,"[2.73594, 50.73592]","",place,Bailleul,"{""place""=>[""Bailleul""], ""location""=>[""true""], ""name""=>[""Bailleul""], ""lat""=>[""50.73592""], ""long""=>[""2.73594""], ""id""=>[""3035359""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+72,AWD00007je,diary,21,4,1916-04-29 00:00:00 UTC,29 Apr 1916,Bailleul,"[2.73594, 50.73592]","",person,"Captain  Pritchard, Uprichard, Ufritchard, Aprichard","{""first""=>[""""], ""surname""=>[""Pritchard"", ""Uprichard"", ""Ufritchard"", ""Aprichard""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+74,AWD00007je,diary,21,2,1916-04-29 00:00:00 UTC,29 Apr 1916,Bailleul,"[2.73594, 50.73592]","",unit,"24th Div HQ, 24 Div HQ","{""name""=>[""24th Div HQ"", ""24 Div HQ""], ""context""=>[""other"", ""relieved""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+76,AWD00007je,diary,21,2,1916-04-29 00:00:00 UTC,29 Apr 1916,Bailleul,"[2.73594, 50.73592]","",activity,movement,{},2794579,Kemmel,"[2.82714, 50.78333]"
+83,AWD00007je,diary,21,6,1916-04-30 00:00:00 UTC,30 Apr 1916,Bailleul,"[2.73594, 50.73592]","",diaryDate,30 Apr 1916,"{""day""=>[""30""], ""month""=>[""Apr""], ""year""=>[""1916""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+85,AWD00007je,diary,21,2,1916-04-30 00:00:00 UTC,30 Apr 1916,Bailleul,"[2.73594, 50.73592]","",activity,other,{},2794579,Kemmel,"[2.82714, 50.78333]"
+1,AWD00007jo,diary,22,2,1916-05-01 00:00:00 UTC,1 May 1916,Bailleul,"[2.73594, 50.73592]","",diaryDate,1 May 1916,"{""day""=>[""1""], ""month""=>[""May""], ""year""=>[""1916""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+2,AWD00007jo,diary,22,2,1916-05-01 00:00:00 UTC,1 May 1916,Bailleul,"[2.73594, 50.73592]","",place,"Westoutre, WESTOUTRE","{""place""=>[""Westoutre"", ""WESTOUTRE""], ""location""=>[""true"", ""false""], ""name""=>[""Westouter"", ""Winnezeele""], ""lat""=>[""50.79722"", ""50.841""], ""long""=>[""2.74647"", ""2.55118""], ""id""=>[""2783781"", ""2967341""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+3,AWD00007jo,diary,22,2,1916-05-01 00:00:00 UTC,1 May 1916,Bailleul,"[2.73594, 50.73592]","",person,"Captain R A B HENRY, Henry","{""first""=>[""R A B""], ""surname""=>[""HENRY"", ""Henry""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author"", ""other""], ""unit""=>[""""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+4,AWD00007jo,diary,22,2,1916-05-02 00:00:00 UTC,2 May 1916,Bailleul,"[2.73594, 50.73592]","",diaryDate,2 May 1916,"{""day""=>[""2""], ""month""=>[""May""], ""year""=>[""1916""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+6,AWD00007jo,diary,22,2,1916-05-02 00:00:00 UTC,2 May 1916,Bailleul,"[2.73594, 50.73592]","",place,"Kemmel, KEMMEL","{""place""=>[""Kemmel"", ""KEMMEL""], ""location""=>[""false""], ""name""=>[""Kemmel"", ""Winnezeele""], ""lat""=>[""50.78333"", ""50.841""], ""long""=>[""2.82714"", ""2.55118""], ""id""=>[""2794579"", ""2967341""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+7,AWD00007jo,diary,22,2,1916-05-03 00:00:00 UTC,3 May 1916,Bailleul,"[2.73594, 50.73592]","",diaryDate,3 May 1916,"{""day""=>[""3""], ""month""=>[""May""], ""year""=>[""1916""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+9,AWD00007jo,diary,22,2,1916-05-07 00:00:00 UTC,7 May 1916,Bailleul,"[2.73594, 50.73592]","",diaryDate,7 May 1916,"{""day""=>[""7""], ""month""=>[""May""], ""year""=>[""1916""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+10,AWD00007jo,diary,22,2,1916-05-08 00:00:00 UTC,8 May 1916,Bailleul,"[2.73594, 50.73592]","",diaryDate,8 May 1916,"{""day""=>[""8""], ""month""=>[""May""], ""year""=>[""1916""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+12,AWD00007jo,diary,22,2,1916-05-08 00:00:00 UTC,8 May 1916,Bailleul,"[2.73594, 50.73592]","",place,"Busnes, BUSNES","{""place""=>[""Busnes"", ""BUSNES""], ""location""=>[""true"", ""false""], ""name""=>[""Busnes"", ""Winnezeele""], ""lat""=>[""50.58781"", ""50.841""], ""long""=>[""2.51827"", ""2.55118""], ""id""=>[""3029473"", ""2967341""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+13,AWD00007jo,diary,22,2,1916-05-09 00:00:00 UTC,9 May 1916,Bailleul,"[2.73594, 50.73592]","",diaryDate,9 May 1916,"{""day""=>[""9""], ""month""=>[""May""], ""year""=>[""1916""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+14,AWD00007jo,diary,22,2,1916-05-09 00:00:00 UTC,9 May 1916,Bailleul,"[2.73594, 50.73592]","",place,"Herlin le Sec, HERLIN LE SEC","{""place""=>[""Herlin le Sec"", ""HERLIN LE SEC""], ""location""=>[""true"", ""false""], ""name""=>[""Herlin-le-Sec"", ""Winnezeele""], ""lat""=>[""50.35526"", ""50.841""], ""long""=>[""2.32966"", ""2.55118""], ""id""=>[""3013440"", ""2967341""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+15,AWD00007jo,diary,22,2,1916-05-09 00:00:00 UTC,9 May 1916,Bailleul,"[2.73594, 50.73592]","",activity,movement,{},2794579,Kemmel,"[2.82714, 50.78333]"
+16,AWD00007jo,diary,22,3,1916-05-10 00:00:00 UTC,10 May 1916,Bailleul,"[2.73594, 50.73592]","",diaryDate,10 May 1916,"{""day""=>[""10""], ""month""=>[""May""], ""year""=>[""1916""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+17,AWD00007jo,diary,22,2,1916-05-10 00:00:00 UTC,10 May 1916,Bailleul,"[2.73594, 50.73592]","",unit,"49th (West Riding) Division, 49TH (WEST RIDING) DIVISION","{""name""=>[""49th (West Riding) Division"", ""49TH (WEST RIDING) DIVISION""], ""context""=>[""other"", ""joined""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+18,AWD00007jo,diary,22,2,1916-05-10 00:00:00 UTC,10 May 1916,Bailleul,"[2.73594, 50.73592]","",place,"Val de Maison, VAL DE MAISON","{""place""=>[""Val de Maison"", ""VAL DE MAISON""], ""location""=>[""true"", ""false""], ""name""=>[""Herlin-le-Sec"", ""Winnezeele""], ""lat""=>[""50.35526"", ""50.841""], ""long""=>[""2.32966"", ""2.55118""], ""id""=>[""3013440"", ""2967341""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+22,AWD00007jo,diary,22,2,1916-05-17 00:00:00 UTC,17 May 1916,Bailleul,"[2.73594, 50.73592]","",diaryDate,17 May 1916,"{""day""=>[""17""], ""month""=>[""May""], ""year""=>[""1916""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+23,AWD00007jo,diary,22,2,1916-05-18 00:00:00 UTC,18 May 1916,Bailleul,"[2.73594, 50.73592]","",diaryDate,18 May 1916,"{""day""=>[""18""], ""month""=>[""May""], ""year""=>[""1916""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+26,AWD00007jo,diary,22,3,1916-05-18 00:00:00 UTC,18 May 1916,Bailleul,"[2.73594, 50.73592]","",unit,"153rd Brigade RFA, 153RD BRIGADE, 173rd Brigade RFA","{""name""=>[""153rd Brigade RFA"", ""153RD BRIGADE"", ""173rd Brigade RFA""], ""context""=>[""other""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+29,AWD00007jo,diary,22,2,1916-05-19 00:00:00 UTC,19 May 1916,Bailleul,"[2.73594, 50.73592]","",diaryDate,19 May 1916,"{""day""=>[""19""], ""month""=>[""May""], ""year""=>[""1916""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+30,AWD00007jo,diary,22,2,1916-05-20 00:00:00 UTC,20 May 1916,Bailleul,"[2.73594, 50.73592]","",diaryDate,20 May 1916,"{""day""=>[""20""], ""month""=>[""May""], ""year""=>[""1916""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+31,AWD00007jo,diary,22,2,1916-05-20 00:00:00 UTC,20 May 1916,Bailleul,"[2.73594, 50.73592]","",activity,other,{},2794579,Kemmel,"[2.82714, 50.78333]"
+35,AWD00007jo,diary,22,2,1916-05-21 00:00:00 UTC,21 May 1916,Bailleul,"[2.73594, 50.73592]","",diaryDate,21 May 1916,"{""day""=>[""21""], ""month""=>[""May""], ""year""=>[""1916""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+38,AWD00007jo,diary,22,2,1916-05-22 00:00:00 UTC,22 May 1916,Bailleul,"[2.73594, 50.73592]","",diaryDate,22 May 1916,"{""day""=>[""22""], ""month""=>[""May""], ""year""=>[""1916""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+40,AWD00007jo,diary,22,2,1916-05-24 00:00:00 UTC,24 May 1916,Bailleul,"[2.73594, 50.73592]","",diaryDate,24 May 1916,"{""day""=>[""24""], ""month""=>[""May""], ""year""=>[""1916""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+1,AWD00007j1,diary,23,2,1916-05-01 00:00:00 UTC,1 May 1916,Bailleul,"[2.73594, 50.73592]","",diaryDate,1 May 1916,"{""day""=>[""1""], ""month""=>[""May""], ""year""=>[""1916""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+2,AWD00007j1,diary,23,4,1916-05-25 00:00:00 UTC,25 May 1916,Bailleul,"[2.73594, 50.73592]","",diaryDate,25 May 1916,"{""day""=>[""25""], ""month""=>[""May""], ""year""=>[""1916""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+4,AWD00007j1,diary,23,4,1916-05-26 00:00:00 UTC,26 May 1916,Bailleul,"[2.73594, 50.73592]","",diaryDate,26 May 1916,"{""day""=>[""26""], ""month""=>[""May""], ""year""=>[""1916""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+5,AWD00007j1,diary,23,5,1916-05-27 00:00:00 UTC,27 May 1916,Bailleul,"[2.73594, 50.73592]","",diaryDate,27 May 1916,"{""day""=>[""27""], ""month""=>[""May""], ""year""=>[""1916""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+7,AWD00007j1,diary,23,3,1916-05-27 00:00:00 UTC,27 May 1916,Bailleul,"[2.73594, 50.73592]","",person,Captain F S Ulrichard,"{""first""=>[""F S""], ""surname""=>[""Ulrichard""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+8,AWD00007j1,diary,23,3,1916-05-27 00:00:00 UTC,27 May 1916,Bailleul,"[2.73594, 50.73592]","",person,Captain J Grant,"{""first""=>[""J""], ""surname""=>[""Grant""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+9,AWD00007j1,diary,23,4,1916-05-27 00:00:00 UTC,27 May 1916,Bailleul,"[2.73594, 50.73592]","",place,"Martinsart, MARTINSART","{""place""=>[""Martinsart"", ""MARTINSART""], ""location""=>[""false""], ""name""=>["""", ""Winnezeele""], ""lat""=>["""", ""50.841""], ""long""=>["""", ""2.55118""], ""id""=>["""", ""2967341""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+10,AWD00007j1,diary,23,5,1916-05-28 00:00:00 UTC,28 May 1916,Bailleul,"[2.73594, 50.73592]","",diaryDate,28 May 1916,"{""day""=>[""28""], ""month""=>[""May""], ""year""=>[""1916""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+12,AWD00007j1,diary,23,5,1916-05-31 00:00:00 UTC,31 May 1916,Bailleul,"[2.73594, 50.73592]","",diaryDate,31 May 1916,"{""day""=>[""31""], ""month""=>[""May""], ""year""=>[""1916""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+13,AWD00007j1,diary,23,2,1916-05-31 00:00:00 UTC,31 May 1916,Bailleul,"[2.73594, 50.73592]","",person,Major H Manning ,"{""first""=>[""H""], ""surname""=>[""Manning ""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+1,AWD00007j5,diary,24,7,1916-06-01 00:00:00 UTC,1 Jun 1916,Bailleul,"[2.73594, 50.73592]","",diaryDate,1 Jun 1916,"{""day""=>[""1""], ""month""=>[""Jun""], ""year""=>[""1916""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+3,AWD00007j5,diary,24,2,1916-06-01 00:00:00 UTC,1 Jun 1916,Bailleul,"[2.73594, 50.73592]","",mapRef,"sheet: 57 D, scale: M 36 A",{},2794579,Kemmel,"[2.82714, 50.78333]"
+4,AWD00007j5,diary,24,2,1916-06-01 00:00:00 UTC,1 Jun 1916,Bailleul,"[2.73594, 50.73592]","",activity,movement,{},2794579,Kemmel,"[2.82714, 50.78333]"
+5,AWD00007j5,diary,24,2,1916-06-01 00:00:00 UTC,1 Jun 1916,"VAL DE MAISON , Valdemaison","[2.55118, 50.841]","",place,"VAL DE MAISON , Valdemaison","{""place""=>[""VAL DE MAISON "", ""Valdemaison""], ""location""=>[""true""], ""name""=>[""Winnezeele"", """"], ""lat""=>[""50.841"", """"], ""long""=>[""2.55118"", """"], ""id""=>[""2967341"", """"]}",,,
+7,AWD00007j5,diary,24,2,1916-06-01 00:00:00 UTC,1 Jun 1916,"VAL DE MAISON , Valdemaison","[2.55118, 50.841]","",mapRef,sheet: 57D,{},,,
+8,AWD00007j5,diary,24,2,1916-06-01 00:00:00 UTC,1 Jun 1916,"VAL DE MAISON , Valdemaison","[2.55118, 50.841]","",gridRef,P 34 d,{},,,
+9,AWD00007j5,diary,24,2,1916-06-01 00:00:00 UTC,1 Jun 1916,"VAL DE MAISON , Valdemaison","[2.55118, 50.841]","",mapRef,"sheet: 57 D, scale: P34 D",{},,,
+12,AWD00007j5,diary,24,5,1916-06-01 00:00:00 UTC,1 Jun 1916,"Hedauville, HEDAUVILLE","[2.55118, 50.841]","",place,"Hedauville, HEDAUVILLE","{""place""=>[""Hedauville"", ""HEDAUVILLE""], ""location""=>[""true""], ""name""=>[""Winnezeele"", """"], ""lat""=>[""50.841"", """"], ""long""=>[""2.55118"", """"], ""id""=>[""2967341"", """"]}",3013597,Hédauville,"[2.56767, 50.04584]"
+13,AWD00007j5,diary,24,3,1916-06-01 00:00:00 UTC,1 Jun 1916,"Hedauville, HEDAUVILLE","[2.55118, 50.841]","",unit,36TH ULSTER,"{""name""=>[""36TH ULSTER""], ""context""=>[""joined""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+17,AWD00007j5,diary,24,5,1916-06-02 00:00:00 UTC,2 Jun 1916,"Hedauville, HEDAUVILLE","[2.55118, 50.841]","",diaryDate,2 Jun 1916,"{""day""=>[""2""], ""month""=>[""Jun""], ""year""=>[""1916""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+19,AWD00007j5,diary,24,5,1916-06-03 00:00:00 UTC,3 Jun 1916,"Hedauville, HEDAUVILLE","[2.55118, 50.841]","",diaryDate,3 Jun 1916,"{""day""=>[""3""], ""month""=>[""Jun""], ""year""=>[""1916""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+20,AWD00007j5,diary,24,2,1916-06-03 00:00:00 UTC,3 Jun 1916,"Hedauville, HEDAUVILLE","[2.55118, 50.841]","",person,"Captain F G Pritchard, Uprichard","{""first""=>[""F G""], ""surname""=>[""Pritchard"", ""Uprichard""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author"", ""other""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+21,AWD00007j5,diary,24,2,1916-06-03 00:00:00 UTC,3 Jun 1916,"Hedauville, HEDAUVILLE","[2.55118, 50.841]","",gridRef,W 3 a,{},3013597,Hédauville,"[2.56767, 50.04584]"
+22,AWD00007j5,diary,24,2,1916-06-03 00:00:00 UTC,3 Jun 1916,"Hedauville, HEDAUVILLE","[2.55118, 50.841]","",mapRef,"sheet: 57 D, scale: W 3A",{},3013597,Hédauville,"[2.56767, 50.04584]"
+23,AWD00007j5,diary,24,2,1916-06-03 00:00:00 UTC,3 Jun 1916,"Hedauville, HEDAUVILLE","[2.55118, 50.841]","",place,Martinsart,"{""place""=>[""Martinsart""], ""location""=>[""false"", ""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+25,AWD00007j5,diary,24,5,1916-06-04 00:00:00 UTC,4 Jun 1916,"Hedauville, HEDAUVILLE","[2.55118, 50.841]","",diaryDate,4 Jun 1916,"{""day""=>[""4""], ""month""=>[""Jun""], ""year""=>[""1916""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+26,AWD00007j5,diary,24,2,1916-06-08 00:00:00 UTC,8 Jun 1916,"Hedauville, HEDAUVILLE","[2.55118, 50.841]","",diaryDate,8 Jun 1916,"{""day""=>[""8""], ""month""=>[""Jun""], ""year""=>[""1916""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+29,AWD00007j5,diary,24,4,1916-06-09 00:00:00 UTC,9 Jun 1916,"Hedauville, HEDAUVILLE","[2.55118, 50.841]","",diaryDate,9 Jun 1916,"{""day""=>[""9""], ""month""=>[""Jun""], ""year""=>[""1916""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+31,AWD00007j5,diary,24,3,1916-06-09 00:00:00 UTC,9 Jun 1916,"Hedauville, HEDAUVILLE","[2.55118, 50.841]","",activity,other,{},3013597,Hédauville,"[2.56767, 50.04584]"
+32,AWD00007j5,diary,24,5,1916-06-10 00:00:00 UTC,10 Jun 1916,"Hedauville, HEDAUVILLE","[2.55118, 50.841]","",diaryDate,10 Jun 1916,"{""day""=>[""10""], ""month""=>[""Jun""], ""year""=>[""1916""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+33,AWD00007j5,diary,24,3,1916-06-10 00:00:00 UTC,10 Jun 1916,"Hedauville, HEDAUVILLE","[2.55118, 50.841]","",unit,36th Division,"{""name""=>[""36th Division""], ""context""=>[""joined""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+34,AWD00007j5,diary,24,2,1916-06-15 00:00:00 UTC,15 Jun 1916,"Hedauville, HEDAUVILLE","[2.55118, 50.841]","",diaryDate,15 Jun 1916,"{""day""=>[""15""], ""month""=>[""Jun""], ""year""=>[""1916""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+35,AWD00007j5,diary,24,2,1916-06-16 00:00:00 UTC,16 Jun 1916,"Hedauville, HEDAUVILLE","[2.55118, 50.841]","",diaryDate,16 Jun 1916,"{""day""=>[""16""], ""month""=>[""Jun""], ""year""=>[""1916""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+37,AWD00007j5,diary,24,3,1916-06-16 00:00:00 UTC,16 Jun 1916,"Hedauville, HEDAUVILLE","[2.55118, 50.841]","",diaryDate,16 Jun 1916,"{""day""=>[""16""], ""month""=>[""Jun""], ""year""=>[""1916""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+38,AWD00007j5,diary,24,4,1916-06-16 00:00:00 UTC,16 Jun 1916,FORCEVILLE,"[2.55118, 50.841]","",place,FORCEVILLE,"{""place""=>[""FORCEVILLE""], ""location""=>[""true""], ""name""=>[""Winnezeele"", """"], ""lat""=>[""50.841"", """"], ""long""=>[""2.55118"", """"], ""id""=>[""2967341"", """"]}",3017790,Forceville,"[2.55746, 50.06049]"
+39,AWD00007j5,diary,24,2,1916-06-16 00:00:00 UTC,16 Jun 1916,FORCEVILLE,"[2.55118, 50.841]","",activity,movement,{},3017790,Forceville,"[2.55746, 50.06049]"
+40,AWD00007j5,diary,24,2,1916-06-16 00:00:00 UTC,16 Jun 1916,FORCEVILLE,"[2.55118, 50.841]","",gridRef,P 21,{},3017790,Forceville,"[2.55746, 50.06049]"
+42,AWD00007j5,diary,24,2,1916-06-16 00:00:00 UTC,16 Jun 1916,FORCEVILLE,"[2.55118, 50.841]","",mapRef,"sheet: 57 D, scale: P21 CENTRAL",{},3017790,Forceville,"[2.55746, 50.06049]"
+43,AWD00007j5,diary,24,4,1916-06-17 00:00:00 UTC,17 Jun 1916,FORCEVILLE,"[2.55118, 50.841]","",diaryDate,17 Jun 1916,"{""day""=>[""17""], ""month""=>[""Jun""], ""year""=>[""1916""]}",3017790,Forceville,"[2.55746, 50.06049]"
+47,AWD00007j5,diary,24,5,1916-06-20 00:00:00 UTC,20 Jun 1916,FORCEVILLE,"[2.55118, 50.841]","",diaryDate,20 Jun 1916,"{""day""=>[""20""], ""month""=>[""Jun""], ""year""=>[""1916""]}",3017790,Forceville,"[2.55746, 50.06049]"
+48,AWD00007j5,diary,24,5,1916-06-21 00:00:00 UTC,21 Jun 1916,FORCEVILLE,"[2.55118, 50.841]","",diaryDate,21 Jun 1916,"{""day""=>[""21""], ""month""=>[""Jun""], ""year""=>[""1916""]}",3017790,Forceville,"[2.55746, 50.06049]"
+49,AWD00007j5,diary,24,4,1916-06-21 00:00:00 UTC,21 Jun 1916,TOUTENCOURT,"[2.55118, 50.841]","",place,TOUTENCOURT,"{""place""=>[""TOUTENCOURT""], ""location""=>[""true""], ""name""=>[""Winnezeele""], ""lat""=>[""50.841""], ""long""=>[""2.55118""], ""id""=>[""2967341""]}",2972140,Toutencourt,"[2.46044, 50.03542]"
+50,AWD00007j5,diary,24,2,1916-06-21 00:00:00 UTC,21 Jun 1916,TOUTENCOURT,"[2.55118, 50.841]","",activity,movement,{},2972140,Toutencourt,"[2.46044, 50.03542]"
+52,AWD00007j5,diary,24,4,1916-06-21 00:00:00 UTC,21 Jun 1916,TOUTENCOURT,"[2.55118, 50.841]","",unit,"6TH ENNISKILLEN DRAGOONS, 6th Inniskilling Dragoons","{""name""=>[""6TH ENNISKILLEN DRAGOONS"", ""6th Inniskilling Dragoons""], ""context""=>[""joined""]}",2972140,Toutencourt,"[2.46044, 50.03542]"
+58,AWD00007j5,diary,24,5,1916-06-22 00:00:00 UTC,22 Jun 1916,TOUTENCOURT,"[2.55118, 50.841]","",diaryDate,22 Jun 1916,"{""day""=>[""22""], ""month""=>[""Jun""], ""year""=>[""1916""]}",2972140,Toutencourt,"[2.46044, 50.03542]"
+61,AWD00007j5,diary,24,5,1916-06-30 00:00:00 UTC,30 Jun 1916,TOUTENCOURT,"[2.55118, 50.841]","",diaryDate,30 Jun 1916,"{""day""=>[""30""], ""month""=>[""Jun""], ""year""=>[""1916""]}",2972140,Toutencourt,"[2.46044, 50.03542]"

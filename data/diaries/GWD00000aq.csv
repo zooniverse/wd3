@@ -1,0 +1,102 @@
+Order,Page,Page type,Page number,Count,DateTime,Date,Place,Lat/Lon,Time,Type,Label,Data,GeoID,GeoName,GeoCoords
+2,AWD0001ly0,diary,3,6,1916-01-01 00:00:00 UTC,1 Jan 1916,"","[0.0, 0.0]","",diaryDate,1 Jan 1916,"{""day""=>[""1""], ""month""=>[""Jan""], ""year""=>[""1916""]}",2985684,Pozières,"[2.72929, 50.04047]"
+3,AWD0001ly0,diary,3,6,1916-01-01 00:00:00 UTC,1 Jan 1916,"","[0.0, 0.0]","",person,Private A Walden,"{""first""=>[""A""], ""surname""=>[""Walden""], ""rank""=>[""Private""], ""number""=>[""""], ""reason""=>[""award""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+5,AWD0001ly0,diary,3,7,1916-01-01 00:00:00 UTC,1 Jan 1916,"","[0.0, 0.0]","",person,Captain G K Olliver,"{""first""=>[""G K""], ""surname""=>[""Olliver""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""award""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+6,AWD0001ly0,diary,3,7,1916-01-01 00:00:00 UTC,1 Jan 1916,"","[0.0, 0.0]","",person,Corporal A Worsdell,"{""first""=>[""A""], ""surname""=>[""Worsdell""], ""rank""=>[""Corporal""], ""number""=>[""""], ""reason""=>[""award""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+10,AWD0001ly0,diary,3,7,1916-01-02 00:00:00 UTC,2 Jan 1916,"","[0.0, 0.0]","",diaryDate,2 Jan 1916,"{""day""=>[""2""], ""month""=>[""Jan""], ""year""=>[""1916""]}",2985684,Pozières,"[2.72929, 50.04047]"
+11,AWD0001ly0,diary,3,6,1916-01-02 00:00:00 UTC,2 Jan 1916,"","[0.0, 0.0]","",person,Captain J M Poneford,"{""first""=>[""J M""], ""surname""=>[""Poneford""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+13,AWD0001ly0,diary,3,8,1916-01-02 00:00:00 UTC,2 Jan 1916,"","[0.0, 0.0]","",person,Major E R A Hall,"{""first""=>[""E R A""], ""surname""=>[""Hall""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""promotion""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+16,AWD0001ly0,diary,3,4,1916-01-14 00:00:00 UTC,14 Jan 1916,"","[0.0, 0.0]","",diaryDate,14 Jan 1916,"{""day""=>[""14""], ""month""=>[""Jan""], ""year""=>[""1916""]}",2985684,Pozières,"[2.72929, 50.04047]"
+17,AWD0001ly0,diary,3,3,1915-02-13 00:00:00 UTC,13 Feb 1915,"","[0.0, 0.0]","",diaryDate,13 Feb 1915,"{""day""=>[""13""], ""month""=>[""Feb""], ""year""=>[""1915""]}",2985684,Pozières,"[2.72929, 50.04047]"
+18,AWD0001ly0,diary,3,8,1915-02-13 00:00:00 UTC,13 Feb 1915,"","[0.0, 0.0]","",person,Lieutenant W Hill,"{""first""=>[""W""], ""surname""=>[""Hill""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""promotion""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+21,AWD0001ly0,diary,3,2,1916-01-14 00:00:00 UTC,14 Jan 1916,"","[0.0, 0.0]","",diaryDate,14 Jan 1916,"{""day""=>[""14""], ""month""=>[""Jan""], ""year""=>[""1916""]}",2985684,Pozières,"[2.72929, 50.04047]"
+22,AWD0001ly0,diary,3,7,1916-02-03 00:00:00 UTC,3 Feb 1916,"","[0.0, 0.0]","",diaryDate,3 Feb 1916,"{""day""=>[""3""], ""month""=>[""Feb""], ""year""=>[""1916""]}",2985684,Pozières,"[2.72929, 50.04047]"
+23,AWD0001ly0,diary,3,6,1916-02-03 00:00:00 UTC,3 Feb 1916,Cavillon,"[2.08352, 49.92144]","",place,Cavillon,"{""place""=>[""Cavillon""], ""location""=>[""true""], ""name""=>[""Cavillon""], ""lat""=>[""49.92144""], ""long""=>[""2.08352""], ""id""=>[""3028103""]}",3028103,Cavillon,"[2.08352, 49.92144]"
+24,AWD0001ly0,diary,3,6,1916-02-03 00:00:00 UTC,3 Feb 1916,Sailly Laurette,"[2.60895, 49.91226]","",place,Sailly Laurette,"{""place""=>[""Sailly Laurette""], ""location""=>[""true""], ""name""=>[""Sailly-Laurette""], ""lat""=>[""49.91226""], ""long""=>[""2.60895""], ""id""=>[""2981961""]}",2981961,Sailly-Laurette,"[2.60895, 49.91226]"
+26,AWD0001ly0,diary,3,7,1916-02-03 00:00:00 UTC,3 Feb 1916,Sailly Laurette,"[2.60895, 49.91226]","",activity,movement,{},2981961,Sailly-Laurette,"[2.60895, 49.91226]"
+28,AWD0001ly0,diary,3,2,1916-02-03 00:00:00 UTC,3 Feb 1916,Sailly Laurette,"[2.60895, 49.91226]","",activity,working,{},2981961,Sailly-Laurette,"[2.60895, 49.91226]"
+33,AWD0001ly0,diary,3,4,1916-02-03 00:00:00 UTC,3 Feb 1916,Sailly Laurette,"[2.60895, 49.91226]","",place,Poulainville,"{""place""=>[""Poulainville""], ""location""=>[""true"", ""false""], ""name""=>[""Poulainville""], ""lat""=>[""49.94746""], ""long""=>[""2.31373""], ""id""=>[""2985821""]}",2981961,Sailly-Laurette,"[2.60895, 49.91226]"
+34,AWD0001ly0,diary,3,5,1916-02-03 00:00:00 UTC,3 Feb 1916,Mericourt,"[0.0, 0.0]","",place,Mericourt,"{""place""=>[""Mericourt""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2991869,Morcourt,"[2.65065, 49.89196]"
+37,AWD0001ly0,diary,3,3,1916-02-03 00:00:00 UTC,3 Feb 1916,"SAILLY LAURETTE, sailly laurette, Sailly Laurette","[2.60895, 49.91226]","",place,"SAILLY LAURETTE, sailly laurette, Sailly Laurette","{""place""=>[""SAILLY LAURETTE"", ""sailly laurette"", ""Sailly Laurette""], ""location""=>[""true""], ""name""=>[""Sailly-Laurette""], ""lat""=>[""49.91226""], ""long""=>[""2.60895""], ""id""=>[""2981961""]}",2981961,Sailly-Laurette,"[2.60895, 49.91226]"
+38,AWD0001ly0,diary,3,9,1916-03-06 00:00:00 UTC,6 Mar 1916,"SAILLY LAURETTE, sailly laurette, Sailly Laurette","[2.60895, 49.91226]","",diaryDate,6 Mar 1916,"{""day""=>[""6""], ""month""=>[""Mar""], ""year""=>[""1916""]}",2981961,Sailly-Laurette,"[2.60895, 49.91226]"
+39,AWD0001ly0,diary,3,3,1916-03-06 00:00:00 UTC,6 Mar 1916,"SAILLY LAURETTE, sailly laurette, Sailly Laurette","[2.60895, 49.91226]","",activity,movement,{},2981961,Sailly-Laurette,"[2.60895, 49.91226]"
+40,AWD0001ly0,diary,3,2,1916-03-06 00:00:00 UTC,6 Mar 1916,"SAILLY LAURETTE, sailly laurette, Sailly Laurette","[2.60895, 49.91226]","",activity,working,{},2981961,Sailly-Laurette,"[2.60895, 49.91226]"
+42,AWD0001ly0,diary,3,5,1916-03-06 00:00:00 UTC,6 Mar 1916,Sailly Laurette,"[2.60895, 49.91226]","",place,Sailly Laurette,"{""place""=>[""Sailly Laurette""], ""location""=>[""true""], ""name""=>[""Sailly-Laurette""], ""lat""=>[""49.91226""], ""long""=>[""2.60895""], ""id""=>[""2981961""]}",2981961,Sailly-Laurette,"[2.60895, 49.91226]"
+43,AWD0001ly0,diary,3,5,1916-03-06 00:00:00 UTC,6 Mar 1916,Buire Sur L'ancre,"[2.60895, 49.91226]","",place,Buire Sur L'ancre,"{""place""=>[""Buire Sur L'ancre""], ""location""=>[""true""], ""name""=>[""Sailly-Laurette""], ""lat""=>[""49.91226""], ""long""=>[""2.60895""], ""id""=>[""2981961""]}",3029607,Querrieu,"[2.59152, 49.96517]"
+45,AWD0001ly0,diary,3,3,1916-03-06 00:00:00 UTC,6 Mar 1916,Buire,"[2.59152, 49.96517]","",place,Buire,"{""place""=>[""Buire""], ""location""=>[""true""], ""name""=>[""Buire-sur-l'Ancre""], ""lat""=>[""49.96517""], ""long""=>[""2.59152""], ""id""=>[""3029607""]}",3030108,Brie,"[0.24107, 45.73804]"
+48,AWD0001ly0,diary,3,2,1916-03-06 00:00:00 UTC,6 Mar 1916,Buire,"[2.59152, 49.96517]","",orders,move,{},3030108,Brie,"[0.24107, 45.73804]"
+49,AWD0001ly0,diary,3,6,1916-03-31 00:00:00 UTC,31 Mar 1916,Buire,"[2.59152, 49.96517]","",diaryDate,31 Mar 1916,"{""day""=>[""31""], ""month""=>[""Mar""], ""year""=>[""1916""]}",3030108,Brie,"[0.24107, 45.73804]"
+50,AWD0001ly0,diary,3,11,1916-03-31 00:00:00 UTC,31 Mar 1916,Buire,"[2.59152, 49.96517]","",activity,movement,{},3030108,Brie,"[0.24107, 45.73804]"
+52,AWD0001ly0,diary,3,2,1916-03-31 00:00:00 UTC,31 Mar 1916,Buire,"[2.59152, 49.96517]","",place,"Buire-Sur-, Buire","{""place""=>[""Buire-Sur-"", ""Buire""], ""location""=>[""false"", ""true""], ""name""=>[""Buire-sur-l'Ancre""], ""lat""=>[""49.96517""], ""long""=>[""2.59152""], ""id""=>[""3029607""]}",3030108,Brie,"[0.24107, 45.73804]"
+53,AWD0001ly0,diary,3,6,1916-03-31 00:00:00 UTC,31 Mar 1916,Vaux-sur-Somme,"[2.54952, 49.92206]","",place,Vaux-sur-Somme,"{""place""=>[""Vaux-sur-Somme""], ""location""=>[""true""], ""name""=>[""Vaux-sur-Somme""], ""lat""=>[""49.92206""], ""long""=>[""2.54952""], ""id""=>[""2970311""]}",2970311,Vaux-sur-Somme,"[2.54952, 49.92206]"
+54,AWD0001ly0,diary,3,3,1916-03-31 00:00:00 UTC,31 Mar 1916,Vaux-sur-Somme,"[2.54952, 49.92206]","",activity,construction,{},2970311,Vaux-sur-Somme,"[2.54952, 49.92206]"
+55,AWD0001ly0,diary,3,2,1916-03-31 00:00:00 UTC,31 Mar 1916,Vaux-sur-Somme,"[2.54952, 49.92206]","",activity,working,{},2970311,Vaux-sur-Somme,"[2.54952, 49.92206]"
+56,AWD0001ly0,diary,3,7,1916-04-01 00:00:00 UTC,1 Apr 1916,Vaux-sur-Somme,"[2.54952, 49.92206]","",diaryDate,1 Apr 1916,"{""day""=>[""1""], ""month""=>[""Apr""], ""year""=>[""1916""]}",2970311,Vaux-sur-Somme,"[2.54952, 49.92206]"
+57,AWD0001ly0,diary,3,8,1916-04-01 00:00:00 UTC,1 Apr 1916,Vaux-sur-Somme,"[2.54952, 49.92206]","",person,Sergeant W Montague,"{""first""=>[""W""], ""surname""=>[""Montague""], ""rank""=>[""Sergeant""], ""number""=>[""1279""], ""reason""=>[""award""], ""unit""=>[""""]}",2970311,Vaux-sur-Somme,"[2.54952, 49.92206]"
+59,AWD0001ly0,diary,3,8,1916-04-01 00:00:00 UTC,1 Apr 1916,Vaux-sur-Somme,"[2.54952, 49.92206]","",person,Company Quarter Master Sergeant S Markham,"{""first""=>[""S""], ""surname""=>[""Markham""], ""rank""=>[""Company Quarter Master Sergeant""], ""number""=>[""2100""], ""reason""=>[""award""], ""unit""=>[""""]}",2970311,Vaux-sur-Somme,"[2.54952, 49.92206]"
+60,AWD0001ly0,diary,3,8,1916-04-01 00:00:00 UTC,1 Apr 1916,Vaux-sur-Somme,"[2.54952, 49.92206]","",person,Private T Nash,"{""first""=>[""T""], ""surname""=>[""Nash""], ""rank""=>[""Private""], ""number""=>[""1297""], ""reason""=>[""award""], ""unit""=>[""""]}",2970311,Vaux-sur-Somme,"[2.54952, 49.92206]"
+1,AWD0001lxz,report,4,5,,,,[],,title,Information regarding company,{},,,
+2,AWD0001lxz,report,4,4,,,,[],,date,5 Nov 1915,{},,,
+6,AWD0001lxz,report,4,2,,,,[],,date,29 Oct 1915,{},,,
+13,AWD0001lxz,report,4,3,,,,[],,date,12 Sep 1914,{},,,
+14,AWD0001lxz,report,4,7,,,,[],,person,Captain L Peel,"{""first""=>[""L""], ""surname""=>[""Peel""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+15,AWD0001lxz,report,4,7,,,,[],,person,Lieutenant J M Ponsford,"{""first""=>[""J M""], ""surname""=>[""Ponsford""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+16,AWD0001lxz,report,4,7,,,,[],,person,Lieutenant G K Olliver,"{""first""=>[""G K""], ""surname""=>[""Olliver""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+17,AWD0001lxz,report,4,6,,,,[],,person,Second Lieutenant M K A Lloyd,"{""first""=>[""M K A""], ""surname""=>[""Lloyd""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+18,AWD0001lxz,report,4,7,,,,[],,person,Second Lieutenant P S L Sutcliffe,"{""first""=>[""P S L""], ""surname""=>[""Sutcliffe""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+20,AWD0001lxz,report,4,8,,,,[],,person,Second Lieutenant W G M Dobie,"{""first""=>[""W G M""], ""surname""=>[""Dobie""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+22,AWD0001lxz,report,4,2,,,,[],,date,5 Oct 1914,{},,,
+23,AWD0001lxz,report,4,2,,,,[],,date,12 Sep 1914,{},,,
+24,AWD0001lxz,report,4,2,,,,[],,date,6 Oct 1914,{},,,
+26,AWD0001lxz,report,4,2,,,,[],,date,14 Oct 1915,{},,,
+27,AWD0001lxz,report,4,2,,,,[],,date,10 Mar 1915,{},,,
+28,AWD0001lxz,report,4,2,,,,[],,date,9 May 1915,{},,,
+29,AWD0001lxz,report,4,2,,,,[],,date,15 May 1915,{},,,
+30,AWD0001lxz,report,4,2,,,,[],,date,13 Jun 1915,{},,,
+31,AWD0001lxz,report,4,2,,,,[],,date,25 Sep 1915,{},,,
+1,AWD0001ly1,report,5,4,,,,[],,title,Information regarding company,{},,,
+2,AWD0001ly1,report,5,5,,,,[],,date,5 Nov 1915,{},,,
+3,AWD0001ly1,report,5,2,,,,[],,date,24 Oct 1914,{},,,
+4,AWD0001ly1,report,5,6,,,,[],,person,Captain L Peel,"{""first""=>[""L""], ""surname""=>[""Peel""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",,,
+5,AWD0001ly1,report,5,6,,,,[],,person,"Lieutenant G K OLLIVER, Olliver","{""first""=>[""G K""], ""surname""=>[""OLLIVER"", ""Olliver""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+6,AWD0001ly1,report,5,2,,,,[],,date,25 Sep 1915,{},,,
+7,AWD0001ly1,report,5,5,,,,[],,person,Captain L Peel,"{""first""=>[""L""], ""surname""=>[""Peel""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""award""], ""unit""=>[""""]}",,,
+8,AWD0001ly1,report,5,5,,,,[],,person,Lieutenant J M Ponsford,"{""first""=>[""J M""], ""surname""=>[""Ponsford""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""award""], ""unit""=>[""""]}",,,
+10,AWD0001ly1,report,5,7,,,,[],,person,Corporal A Worsdell,"{""first""=>[""A""], ""surname""=>[""Worsdell""], ""rank""=>[""Corporal""], ""number""=>[""1309""], ""reason""=>[""award""], ""unit""=>[""""]}",,,
+11,AWD0001ly1,report,5,2,,,,[],,date,9 May 1915,{},,,
+12,AWD0001ly1,report,5,7,,,,[],,person,Private A Walden,"{""first""=>[""A""], ""surname""=>[""Walden""], ""rank""=>[""Private""], ""number""=>[""1304""], ""reason""=>[""award""], ""unit""=>[""""]}",,,
+13,AWD0001ly1,report,5,7,,,,[],,person,Sergeant T Young,"{""first""=>[""T""], ""surname""=>[""Young""], ""rank""=>[""Sergeant""], ""number""=>[""517""], ""reason""=>[""award""], ""unit""=>[""""]}",,,
+14,AWD0001ly1,report,5,2,,,,[],,date,25 Sep 1915,{},,,
+15,AWD0001ly1,report,5,7,,,,[],,person,Corporal W Wales,"{""first""=>[""W""], ""surname""=>[""Wales""], ""rank""=>[""Corporal""], ""number""=>[""9261""], ""reason""=>[""award""], ""unit""=>[""""]}",,,
+16,AWD0001ly1,report,5,2,,,,[],,date,29 Dec 1914,{},,,
+17,AWD0001ly1,report,5,6,,,,[],,person,Lieutenant W Hill,"{""first""=>[""W""], ""surname""=>[""Hill""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",,,
+19,AWD0001ly1,report,5,8,,,,[],,person,Captain E R A Hall,"{""first""=>[""E R A""], ""surname""=>[""Hall""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+22,AWD0001ly1,report,5,2,,,,[],,date,5 Nov 1915,{},,,
+2,AWD0001ly3,report,6,4,,,,[],,date,5 Nov 1915,{},,,
+5,AWD0001ly3,report,6,8,,,,[],,person,"Major A Daly, DALY","{""first""=>[""A""], ""surname""=>[""Daly"", ""DALY""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+8,AWD0001ly3,report,6,4,,,,[],,date,12 Dec 1914,{},,,
+10,AWD0001ly3,report,6,6,,,,[],,person,Captain L Peel,"{""first""=>[""L""], ""surname""=>[""Peel""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""commander"", ""combat""], ""unit""=>[""""]}",,,
+15,AWD0001ly3,report,6,2,,,,[],,person,"Major E R A Hall, HALL","{""first""=>[""E R A""], ""surname""=>[""Hall"", ""HALL""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""author"", ""commander""], ""unit""=>["""", ""7TH DIVNL COY.  A.C.C.""]}",,,
+19,AWD0001ly3,report,6,2,,,,[],,date,5 Nov 1915,{},,,
+2,AWD0001ly5,report,7,2,,,,[],,date,29 Oct 1915,{},,,
+4,AWD0001ly5,report,7,2,,,,[],,date,29 Oct 1915,{},,,
+15,AWD0001ly5,report,7,2,,,,[],,person,Major  ,"{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other"", ""commander""], ""unit""=>[""army cyclists corps records hounslow"", """"]}",,,
+16,AWD0001ly5,report,7,2,,,,[],,person,"Major g,G farrance, Fauance","{""first""=>[""g"", ""G""], ""surname""=>[""farrance"", ""Fauance""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other"", ""author""], ""unit""=>[""Army Cyclist Corps Records Hounslow"", ""Army Cyclist Corp Records  Hounslow""]}",,,
+17,AWD0001ly5,report,7,5,,,,[],,date,29 Oct 1915,{},,,
+19,AWD0001ly5,report,7,6,,,,[],,person,"Major Ronald,Ronald M Heath","{""first""=>[""Ronald"", ""Ronald M""], ""surname""=>[""Heath""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+20,AWD0001ly5,report,7,4,,,,[],,date,8 Nov 1915,{},,,
+1,AWD0001ly6,cover,9,2,,,,[],,date,7 Nov 1915,{},,,
+9,AWD0001ly6,cover,9,2,,,,[],,date,7 Nov 1915,{},,,
+2,AWD0001ly2,"report, diary",10,2,,,,[],,date,11 Nov 1915,{},,,
+3,AWD0001ly2,"report, diary",10,2,,,,[],,date,7 Nov 1915,{},,,
+5,AWD0001ly2,"report, diary",10,2,,,,[],,diaryDate,7 Nov 1915,"{""day""=>[""7""], ""month""=>[""Nov""], ""year""=>[""1915""]}",,,
+6,AWD0001ly2,"report, diary",10,3,,,,[],,diaryDate,26 Sep 1915,"{""day""=>[""26""], ""month""=>[""Sep""], ""year""=>[""1915""]}",,,
+7,AWD0001ly2,"report, diary",10,2,,,,[],,activity,movement,{},,,
+9,AWD0001ly2,"report, diary",10,3,,,,[],,place,Hulluch,"{""place""=>[""Hulluch""], ""location""=>[""true""], ""name""=>[""Hulluch""], ""lat""=>[""50.48961""], ""long""=>[""2.81232""], ""id""=>[""3013001""]}",,,
+13,AWD0001ly2,"report, diary",10,2,,,,[],,diaryDate,25 Sep 1915,"{""day""=>[""25""], ""month""=>[""Sep""], ""year""=>[""1915""]}",,,
+17,AWD0001ly2,"report, diary",10,2,,,,[],,activity,working,{},,,
+18,AWD0001ly2,"report, diary",10,2,,,,[],,activity,clearing,{},,,
+19,AWD0001ly2,"report, diary",10,2,,,,[],,diaryDate,27 Sep 1915,"{""day""=>[""27""], ""month""=>[""Sep""], ""year""=>[""1915""]}",,,
+27,AWD0001ly2,"report, diary",10,3,,,,[],,person,"Major ~,e r a, Pahall, hall, pascall ?","{""first""=>[""~"", ""e r a"", """"], ""surname""=>[""Pahall"", ""hall"", ""pascall ?""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""7th Div Coy ACC"", ""7th Divnl. Coy. A C C "", ""7th divisional company""]}",,,
+29,AWD0001ly2,"report, diary",10,2,,,,[],,diaryDate,7 Nov 1915,"{""day""=>[""7""], ""month""=>[""Nov""], ""year""=>[""1915""]}",,,
+30,AWD0001ly2,"report, diary",10,3,,,,[],,date,7 Nov 1915,{},,,

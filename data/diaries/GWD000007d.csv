@@ -1,0 +1,326 @@
+Order,Page,Page type,Page number,Count,DateTime,Date,Place,Lat/Lon,Time,Type,Label,Data,GeoID,GeoName,GeoCoords
+1,AWD00014d8,diary,6,5,1914-08-21 00:00:00 UTC,21 Aug 1914,"","[0.0, 0.0]","",diaryDate,21 Aug 1914,"{""day""=>[""21""], ""month""=>[""Aug""], ""year""=>[""1914""]}",2985684,Pozières,"[2.72929, 50.04047]"
+2,AWD00014d8,diary,6,3,1914-08-21 12:15:00 UTC,21 Aug 1914,"","[0.0, 0.0]",1215PM,time,1215PM,{},2985684,Pozières,"[2.72929, 50.04047]"
+3,AWD00014d8,diary,6,5,1914-08-21 12:15:00 UTC,21 Aug 1914,Rouen,"[1.09932, 49.44313]",1215PM,place,Rouen,"{""place""=>[""Rouen""], ""location""=>[""true""], ""name""=>[""Rouen""], ""lat""=>[""49.44313""], ""long""=>[""1.09932""], ""id""=>[""2982652""]}",2989877,Noyon,"[3.0, 49.58333]"
+7,AWD00014d8,diary,6,3,1914-08-21 20:30:00 UTC,21 Aug 1914,Rouen,"[1.09932, 49.44313]",0830PM,time,0830PM,{},2989877,Noyon,"[3.0, 49.58333]"
+10,AWD00014d8,diary,6,2,1914-08-21 20:30:00 UTC,21 Aug 1914,Rouen,"[1.09932, 49.44313]",0830PM,activity,movement,{},2989877,Noyon,"[3.0, 49.58333]"
+11,AWD00014d8,diary,6,4,1914-08-22 00:00:00 UTC,22 Aug 1914,Rouen,"[1.09932, 49.44313]","",diaryDate,22 Aug 1914,"{""day""=>[""22""], ""month""=>[""Aug""], ""year""=>[""1914""]}",2989877,Noyon,"[3.0, 49.58333]"
+13,AWD00014d8,diary,6,2,1914-08-22 04:35:00 UTC,22 Aug 1914,Rouen,"[1.09932, 49.44313]",0435AM,time,0435AM,{},2989877,Noyon,"[3.0, 49.58333]"
+14,AWD00014d8,diary,6,5,1914-08-22 04:35:00 UTC,22 Aug 1914,Amiens,"[2.3, 49.9]",0435AM,place,Amiens,"{""place""=>[""Amiens""], ""location""=>[""true""], ""name""=>[""Amiens""], ""lat""=>[""49.9""], ""long""=>[""2.3""], ""id""=>[""3037854""]}",3037854,Amiens,"[2.3, 49.9]"
+15,AWD00014d8,diary,6,3,1914-08-22 09:00:00 UTC,22 Aug 1914,Amiens,"[2.3, 49.9]",0900AM,time,0900AM,{},3037854,Amiens,"[2.3, 49.9]"
+16,AWD00014d8,diary,6,3,1914-08-22 09:00:00 UTC,22 Aug 1914,Amiens,"[2.3, 49.9]",0900AM,unit,19th Infantry Brigade,"{""name""=>[""19th Infantry Brigade""], ""context""=>[""other"", ""joined"", ""billeted""]}",3037854,Amiens,"[2.3, 49.9]"
+17,AWD00014d8,diary,6,3,1914-08-22 10:15:00 UTC,22 Aug 1914,Amiens,"[2.3, 49.9]",1015AM,time,1015AM,{},3037854,Amiens,"[2.3, 49.9]"
+25,AWD00014d8,diary,6,2,1914-08-22 06:00:00 UTC,22 Aug 1914,Amiens,"[2.3, 49.9]",0600AM,time,0600AM,{},3037854,Amiens,"[2.3, 49.9]"
+26,AWD00014d8,diary,6,2,1914-08-22 06:00:00 UTC,22 Aug 1914,Amiens,"[2.3, 49.9]",0600AM,place,Valenciennes,"{""place""=>[""Valenciennes""], ""location""=>[""false"", ""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3037854,Amiens,"[2.3, 49.9]"
+27,AWD00014d8,diary,6,4,1914-08-22 06:00:00 UTC,22 Aug 1914,Amiens,"[2.3, 49.9]",0600AM,activity,movement,{},3037854,Amiens,"[2.3, 49.9]"
+28,AWD00014d8,diary,6,2,1914-08-22 06:00:00 UTC,22 Aug 1914,Amiens,"[2.3, 49.9]",0600AM,place,"Belgian Frontier, Belgium Frontier","{""place""=>[""Belgian Frontier"", ""Belgium Frontier""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3037854,Amiens,"[2.3, 49.9]"
+32,AWD00014d8,diary,6,2,1914-08-22 06:00:00 UTC,22 Aug 1914,blanc ,"[1.09932, 49.44313]",0600AM,place,blanc ,"{""place""=>[""blanc ""], ""location""=>[""true""], ""name""=>[""Rouen"", """"], ""lat""=>[""49.44313"", """"], ""long""=>[""1.09932"", """"], ""id""=>[""2982652"", """"]}",,,
+33,AWD00014d8,diary,6,2,1914-08-22 06:00:00 UTC,22 Aug 1914,blanc ,"[1.09932, 49.44313]",0600AM,domestic,accomodation,{},,,
+37,AWD00014d8,diary,6,3,1914-08-23 00:00:00 UTC,23 Aug 1914,blanc ,"[1.09932, 49.44313]","",diaryDate,23 Aug 1914,"{""day""=>[""23""], ""month""=>[""Aug""], ""year""=>[""1914""]}",,,
+1,AWD00014dq,diary,7,6,1914-08-23 00:00:00 UTC,23 Aug 1914,blanc ,"[1.09932, 49.44313]","",diaryDate,23 Aug 1914,"{""day""=>[""23""], ""month""=>[""Aug""], ""year""=>[""1914""]}",,,
+2,AWD00014dq,diary,7,6,1914-08-23 00:30:00 UTC,23 Aug 1914,blanc ,"[1.09932, 49.44313]",1230AM,time,1230AM,{},,,
+4,AWD00014dq,diary,7,5,1914-08-23 00:30:00 UTC,23 Aug 1914,blanc ,"[1.09932, 49.44313]",1230AM,activity,movement,{},,,
+7,AWD00014dq,diary,7,6,1914-08-24 00:00:00 UTC,24 Aug 1914,blanc ,"[1.09932, 49.44313]","",diaryDate,24 Aug 1914,"{""day""=>[""24""], ""month""=>[""Aug""], ""year""=>[""1914""]}",,,
+10,AWD00014dq,diary,7,2,1914-08-24 00:00:00 UTC,24 Aug 1914,blanc ,"[1.09932, 49.44313]","",place,"Athis, athers","{""place""=>[""Athis"", ""athers""], ""location""=>[""false"", ""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+11,AWD00014dq,diary,7,4,1914-08-24 12:00:00 UTC,24 Aug 1914,blanc ,"[1.09932, 49.44313]",1200PM,time,1200PM,{},,,
+13,AWD00014dq,diary,7,7,1914-08-24 12:00:00 UTC,24 Aug 1914,Roisin,"[0.0, 0.0]",1200PM,place,Roisin,"{""place""=>[""Roisin""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2787850,Roisin,"[3.69553, 50.33237]"
+14,AWD00014dq,diary,7,3,1914-08-24 00:00:00 UTC,24 Aug 1914,Roisin,"[0.0, 0.0]","",diaryDate,24 Aug 1914,"{""day""=>[""24""], ""month""=>[""Aug""], ""year""=>[""1914""]}",2787850,Roisin,"[3.69553, 50.33237]"
+15,AWD00014dq,diary,7,4,1914-08-24 13:00:00 UTC,24 Aug 1914,Roisin,"[0.0, 0.0]",0100PM,time,0100PM,{},2787850,Roisin,"[3.69553, 50.33237]"
+18,AWD00014dq,diary,7,4,1914-08-24 14:00:00 UTC,24 Aug 1914,Roisin,"[0.0, 0.0]",0200PM,time,0200PM,{},2787850,Roisin,"[3.69553, 50.33237]"
+19,AWD00014dq,diary,7,3,1914-08-24 00:00:00 UTC,24 Aug 1914,Roisin,"[0.0, 0.0]","",diaryDate,24 Aug 1914,"{""day""=>[""24""], ""month""=>[""Aug""], ""year""=>[""1914""]}",2787850,Roisin,"[3.69553, 50.33237]"
+23,AWD00014dq,diary,7,3,1914-08-24 00:00:00 UTC,24 Aug 1914,Villiers,"[0.0, 0.0]","",place,Villiers,"{""place""=>[""Villiers""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2968212,Villiers,"[1.1849, 46.88758]"
+25,AWD00014dq,diary,7,3,1914-08-24 00:00:00 UTC,24 Aug 1914,Villiers,"[0.0, 0.0]","",activity,movement,{},2968212,Villiers,"[1.1849, 46.88758]"
+26,AWD00014dq,diary,7,6,1914-08-24 16:15:00 UTC,24 Aug 1914,Villiers,"[0.0, 0.0]",0415PM,time,0415PM,{},2968212,Villiers,"[1.1849, 46.88758]"
+29,AWD00014dq,diary,7,2,1914-08-24 00:00:00 UTC,24 Aug 1914,Villiers,"[0.0, 0.0]","",diaryDate,24 Aug 1914,"{""day""=>[""24""], ""month""=>[""Aug""], ""year""=>[""1914""]}",2968212,Villiers,"[1.1849, 46.88758]"
+30,AWD00014dq,diary,7,2,1914-08-24 00:00:00 UTC,24 Aug 1914,Villiers,"[0.0, 0.0]","",activity,movement,{},2968212,Villiers,"[1.1849, 46.88758]"
+31,AWD00014dq,diary,7,2,1914-08-24 00:00:00 UTC,24 Aug 1914,Taenlin,"[0.0, 0.0]","",place,Taenlin,"{""place""=>[""Taenlin""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+32,AWD00014dq,diary,7,5,1914-08-24 00:00:00 UTC,24 Aug 1914,Taenlin,"[0.0, 0.0]","",diaryDate,24 Aug 1914,"{""day""=>[""24""], ""month""=>[""Aug""], ""year""=>[""1914""]}",,,
+33,AWD00014dq,diary,7,5,1914-08-24 19:15:00 UTC,24 Aug 1914,Taenlin,"[0.0, 0.0]",0715PM,time,0715PM,{},,,
+36,AWD00014dq,diary,7,3,1914-08-24 04:00:00 UTC,24 Aug 1914,Taenlin,"[0.0, 0.0]",0400AM,time,0400AM,{},,,
+39,AWD00014dq,diary,7,6,1914-08-25 00:00:00 UTC,25 Aug 1914,Taenlin,"[0.0, 0.0]","",diaryDate,25 Aug 1914,"{""day""=>[""25""], ""month""=>[""Aug""], ""year""=>[""1914""]}",,,
+42,AWD00014dq,diary,7,3,1914-08-25 00:00:00 UTC,25 Aug 1914,Taenlin,"[0.0, 0.0]","",activity,withdraw,{},,,
+45,AWD00014dq,diary,7,3,1914-08-25 05:00:00 UTC,25 Aug 1914,Taenlin,"[0.0, 0.0]",0500AM,time,0500AM,{},,,
+47,AWD00014dq,diary,7,2,1914-08-25 00:00:00 UTC,"25 Aug 1914, 2014",Taenlin,"[0.0, 0.0]","",diaryDate,"25 Aug 1914, 2014","{""day""=>[""25""], ""month""=>[""Aug""], ""year""=>[""1914"", ""2014""]}",,,
+48,AWD00014dq,diary,7,5,1914-08-25 00:00:00 UTC,"25 Aug 1914, 2014",Taenlin,"[0.0, 0.0]","",activity,movement,{},,,
+53,AWD00014dq,diary,7,4,,"25 Aug 1914, 2014",Taenlin,"[0.0, 0.0]",0700PM,time,0700PM,{},,,
+55,AWD00014dq,diary,7,2,1914-08-25 00:00:00 UTC,25 Aug 1914,Taenlin,"[0.0, 0.0]","",diaryDate,25 Aug 1914,"{""day""=>[""25""], ""month""=>[""Aug""], ""year""=>[""1914""]}",,,
+56,AWD00014dq,diary,7,4,1914-08-25 00:00:00 UTC,25 Aug 1914,"Le Carteau, Le Cateau","[0.0, 0.0]","",place,"Le Carteau, Le Cateau","{""place""=>[""Le Carteau"", ""Le Cateau""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3004835,Le Cateau-Cambrésis,"[3.55, 50.1]"
+4,AWD00014db,diary,8,5,1914-08-25 00:00:00 UTC,25 Aug 1914,"Le Carteau, Le Cateau","[0.0, 0.0]","",diaryDate,25 Aug 1914,"{""day""=>[""25""], ""month""=>[""Aug""], ""year""=>[""1914""]}",3004835,Le Cateau-Cambrésis,"[3.55, 50.1]"
+6,AWD00014db,diary,8,4,1914-08-25 21:00:00 UTC,25 Aug 1914,"Le Carteau, Le Cateau","[0.0, 0.0]",0900PM,time,0900PM,{},3004835,Le Cateau-Cambrésis,"[3.55, 50.1]"
+8,AWD00014db,diary,8,6,1914-08-25 21:00:00 UTC,25 Aug 1914,"Le Cateau, Le Carteau","[0.0, 0.0]",0900PM,place,"Le Cateau, Le Carteau","{""place""=>[""Le Cateau"", ""Le Carteau""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+9,AWD00014db,diary,8,2,1914-08-25 00:00:00 UTC,25 Aug 1914,"Le Cateau, Le Carteau","[0.0, 0.0]","",diaryDate,25 Aug 1914,"{""day""=>[""25""], ""month""=>[""Aug""], ""year""=>[""1914""]}",,,
+10,AWD00014db,diary,8,3,1914-08-25 23:00:00 UTC,25 Aug 1914,"Le Cateau, Le Carteau","[0.0, 0.0]",1100PM,time,1100PM,{},,,
+13,AWD00014db,diary,8,6,1914-08-26 00:00:00 UTC,26 Aug 1914,"Le Cateau, Le Carteau","[0.0, 0.0]","",diaryDate,26 Aug 1914,"{""day""=>[""26""], ""month""=>[""Aug""], ""year""=>[""1914""]}",,,
+14,AWD00014db,diary,8,5,1914-08-26 06:00:00 UTC,26 Aug 1914,"Le Cateau, Le Carteau","[0.0, 0.0]",0600AM,time,0600AM,{},,,
+16,AWD00014db,diary,8,3,1914-08-26 06:00:00 UTC,26 Aug 1914,"Le Cateau, Le Carteau","[0.0, 0.0]",0600AM,activity,withdraw,{},,,
+19,AWD00014db,diary,8,2,1914-08-26 00:00:00 UTC,26 Aug 1914,"Le Cateau, Le Carteau","[0.0, 0.0]","",diaryDate,26 Aug 1914,"{""day""=>[""26""], ""month""=>[""Aug""], ""year""=>[""1914""]}",,,
+22,AWD00014db,diary,8,3,1914-08-26 07:15:00 UTC,26 Aug 1914,"Le Cateau, Le Carteau","[0.0, 0.0]",0715AM,time,0715AM,{},,,
+23,AWD00014db,diary,8,2,1914-08-26 07:15:00 UTC,26 Aug 1914,Le Carteau,"[0.0, 0.0]",0715AM,place,Le Carteau,"{""place""=>[""Le Carteau""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+28,AWD00014db,diary,8,2,1914-08-26 07:15:00 UTC,26 Aug 1914,Le Carteau,"[0.0, 0.0]",0715AM,place,Le Carteau,"{""place""=>[""Le Carteau""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+29,AWD00014db,diary,8,2,1914-08-26 00:00:00 UTC,26 Aug 1914,Le Carteau,"[0.0, 0.0]","",diaryDate,26 Aug 1914,"{""day""=>[""26""], ""month""=>[""Aug""], ""year""=>[""1914""]}",,,
+30,AWD00014db,diary,8,4,1914-08-26 17:15:00 UTC,26 Aug 1914,Le Carteau,"[0.0, 0.0]",0515PM,time,0515PM,{},,,
+32,AWD00014db,diary,8,2,1914-08-26 17:15:00 UTC,26 Aug 1914,Le Carteau,"[0.0, 0.0]",0515PM,place,Le Carteau,"{""place""=>[""Le Carteau""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+33,AWD00014db,diary,8,2,1914-08-26 17:15:00 UTC,26 Aug 1914,Le Carteau,"[0.0, 0.0]",0515PM,activity,withdraw,{},,,
+35,AWD00014db,diary,8,4,1914-08-26 17:15:00 UTC,26 Aug 1914,St Quentin,"[0.0, 0.0]",0515PM,place,St Quentin,"{""place""=>[""St Quentin""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2977295,Saint-Quentin,"[3.28757, 49.84889]"
+37,AWD00014db,diary,8,2,1914-08-26 00:00:00 UTC,26 Aug 1914,St Quentin,"[0.0, 0.0]","",diaryDate,26 Aug 1914,"{""day""=>[""26""], ""month""=>[""Aug""], ""year""=>[""1914""]}",2977295,Saint-Quentin,"[3.28757, 49.84889]"
+38,AWD00014db,diary,8,4,1914-08-26 21:00:00 UTC,26 Aug 1914,St Quentin,"[0.0, 0.0]",0900PM,time,0900PM,{},2977295,Saint-Quentin,"[3.28757, 49.84889]"
+40,AWD00014db,diary,8,3,1914-08-26 21:00:00 UTC,26 Aug 1914,"L'Estroy, L'Estory, L'Estrury","[0.0, 0.0]",0900PM,place,"L'Estroy, L'Estory, L'Estrury","{""place""=>[""L'Estroy"", ""L'Estory"", ""L'Estrury""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+42,AWD00014db,diary,8,6,1914-08-27 00:00:00 UTC,27 Aug 1914,"L'Estroy, L'Estory, L'Estrury","[0.0, 0.0]","",diaryDate,27 Aug 1914,"{""day""=>[""27""], ""month""=>[""Aug""], ""year""=>[""1914""]}",,,
+43,AWD00014db,diary,8,5,1914-08-27 04:00:00 UTC,27 Aug 1914,"L'Estroy, L'Estory, L'Estrury","[0.0, 0.0]",0400AM,time,0400AM,{},,,
+44,AWD00014db,diary,8,2,1914-08-27 04:00:00 UTC,27 Aug 1914,L'Estory,"[0.0, 0.0]",0400AM,place,L'Estory,"{""place""=>[""L'Estory""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+48,AWD00014db,diary,8,2,1914-08-27 04:00:00 UTC,27 Aug 1914,L'Estory,"[0.0, 0.0]",0400AM,place,St Quentin,"{""place""=>[""St Quentin""], ""location""=>[""false"", ""true""], ""name""=>[""Cugny"", """"], ""lat""=>[""49.70761"", """"], ""long""=>[""3.15266"", """"], ""id""=>[""3022146"", """"]}",,,
+49,AWD00014db,diary,8,4,1914-08-27 17:00:00 UTC,27 Aug 1914,L'Estory,"[0.0, 0.0]",0500PM,time,0500PM,{},,,
+52,AWD00014db,diary,8,2,1914-08-27 00:00:00 UTC,27 Aug 1914,L'Estory,"[0.0, 0.0]","",diaryDate,27 Aug 1914,"{""day""=>[""27""], ""month""=>[""Aug""], ""year""=>[""1914""]}",,,
+54,AWD00014db,diary,8,2,1914-08-27 00:00:00 UTC,27 Aug 1914,L'Estory,"[0.0, 0.0]","",place,Cugny,"{""place""=>[""Cugny""], ""location""=>[""false""], ""name""=>["""", ""Cugny""], ""lat""=>["""", ""49.70761""], ""long""=>["""", ""3.15266""], ""id""=>["""", ""3022146""]}",,,
+1,AWD00014dk,diary,9,6,1914-08-28 00:00:00 UTC,28 Aug 1914,L'Estory,"[0.0, 0.0]","",diaryDate,28 Aug 1914,"{""day""=>[""28""], ""month""=>[""Aug""], ""year""=>[""1914""]}",,,
+2,AWD00014dk,diary,9,3,1914-08-28 00:00:00 UTC,28 Aug 1914,Cugny,"[0.0, 0.0]","",place,Cugny,"{""place""=>[""Cugny""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3022146,Cugny,"[3.15266, 49.70761]"
+3,AWD00014dk,diary,9,4,1914-08-28 00:00:00 UTC,28 Aug 1914,Cugny,"[0.0, 0.0]","",activity,movement,{},3022146,Cugny,"[3.15266, 49.70761]"
+4,AWD00014dk,diary,9,4,1914-08-28 10:00:00 UTC,28 Aug 1914,Cugny,"[0.0, 0.0]",1000AM,time,1000AM,{},3022146,Cugny,"[3.15266, 49.70761]"
+8,AWD00014dk,diary,9,2,1914-08-28 10:00:00 UTC,28 Aug 1914,Cugny,"[0.0, 0.0]",1000AM,place,Nouyon,"{""place""=>[""Nouyon""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3022146,Cugny,"[3.15266, 49.70761]"
+9,AWD00014dk,diary,9,5,1914-08-28 10:00:00 UTC,28 Aug 1914,Cugny,"[0.0, 0.0]",1000AM,place,Pontoise,"{""place""=>[""Pontoise""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3022146,Cugny,"[3.15266, 49.70761]"
+10,AWD00014dk,diary,9,2,1914-08-28 00:00:00 UTC,28 Aug 1914,Cugny,"[0.0, 0.0]","",diaryDate,28 Aug 1914,"{""day""=>[""28""], ""month""=>[""Aug""], ""year""=>[""1914""]}",3022146,Cugny,"[3.15266, 49.70761]"
+11,AWD00014dk,diary,9,5,1914-08-28 18:00:00 UTC,28 Aug 1914,Cugny,"[0.0, 0.0]",0600PM,time,0600PM,{},3022146,Cugny,"[3.15266, 49.70761]"
+13,AWD00014dk,diary,9,2,1914-08-28 18:00:00 UTC,28 Aug 1914,Cugny,"[0.0, 0.0]",0600PM,domestic,accomodation,{},3022146,Cugny,"[3.15266, 49.70761]"
+14,AWD00014dk,diary,9,6,1914-08-29 00:00:00 UTC,29 Aug 1914,Cugny,"[0.0, 0.0]","",diaryDate,29 Aug 1914,"{""day""=>[""29""], ""month""=>[""Aug""], ""year""=>[""1914""]}",3022146,Cugny,"[3.15266, 49.70761]"
+15,AWD00014dk,diary,9,3,1914-08-29 10:00:00 UTC,29 Aug 1914,Cugny,"[0.0, 0.0]",1000AM,time,1000AM,{},3022146,Cugny,"[3.15266, 49.70761]"
+17,AWD00014dk,diary,9,3,1914-08-29 10:00:00 UTC,29 Aug 1914,Pontoise,"[0.0, 0.0]",1000AM,place,Pontoise,"{""place""=>[""Pontoise""], ""location""=>[""true""], ""name""=>[""Cugny"", """", ""Pontoise""], ""lat""=>[""49.70761"", """", ""49.05""], ""long""=>[""3.15266"", """", ""2.1""], ""id""=>[""3022146"", """", ""2986140""]}",2986140,Pontoise,"[2.1, 49.05]"
+18,AWD00014dk,diary,9,2,1914-08-29 10:00:00 UTC,29 Aug 1914,Pontoise,"[0.0, 0.0]",1000AM,domestic,inspections,{},2986140,Pontoise,"[2.1, 49.05]"
+23,AWD00014dk,diary,9,2,1914-08-29 00:00:00 UTC,29 Aug 1914,Pontoise,"[0.0, 0.0]","",diaryDate,29 Aug 1914,"{""day""=>[""29""], ""month""=>[""Aug""], ""year""=>[""1914""]}",2986140,Pontoise,"[2.1, 49.05]"
+24,AWD00014dk,diary,9,5,1914-08-29 20:00:00 UTC,29 Aug 1914,Pontoise,"[0.0, 0.0]",0800PM,time,0800PM,{},2986140,Pontoise,"[2.1, 49.05]"
+25,AWD00014dk,diary,9,2,1914-08-29 20:00:00 UTC,29 Aug 1914,Pontoise,"[0.0, 0.0]",0800PM,place,Carlefont,"{""place""=>[""Carlefont""], ""location""=>[""true"", ""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2986140,Pontoise,"[2.1, 49.05]"
+26,AWD00014dk,diary,9,2,1914-08-29 20:00:00 UTC,29 Aug 1914,Pontoise,"[2.1, 49.05]",0800PM,place,Pontoise,"{""place""=>[""Pontoise""], ""location""=>[""true""], ""name""=>[""Pontoise""], ""lat""=>[""49.05""], ""long""=>[""2.1""], ""id""=>[""2986140""]}",2986140,Pontoise,"[2.1, 49.05]"
+27,AWD00014dk,diary,9,3,1914-08-29 20:00:00 UTC,29 Aug 1914,Pontoise,"[2.1, 49.05]",0800PM,activity,movement,{},2986140,Pontoise,"[2.1, 49.05]"
+28,AWD00014dk,diary,9,2,1914-08-29 00:00:00 UTC,29 Aug 1914,Pontoise,"[2.1, 49.05]","",diaryDate,29 Aug 1914,"{""day""=>[""29""], ""month""=>[""Aug""], ""year""=>[""1914""]}",2986140,Pontoise,"[2.1, 49.05]"
+29,AWD00014dk,diary,9,3,1914-08-29 23:00:00 UTC,29 Aug 1914,Pontoise,"[2.1, 49.05]",1100PM,time,1100PM,{},2986140,Pontoise,"[2.1, 49.05]"
+32,AWD00014dk,diary,9,3,1914-08-29 23:00:00 UTC,29 Aug 1914,Pontoise,"[2.1, 49.05]",1100PM,place,Carlefont,"{""place""=>[""Carlefont""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2986140,Pontoise,"[2.1, 49.05]"
+33,AWD00014dk,diary,9,5,1914-08-30 00:00:00 UTC,30 Aug 1914,Pontoise,"[2.1, 49.05]","",diaryDate,30 Aug 1914,"{""day""=>[""30""], ""month""=>[""Aug""], ""year""=>[""1914""]}",2986140,Pontoise,"[2.1, 49.05]"
+34,AWD00014dk,diary,9,5,1914-08-30 03:00:00 UTC,30 Aug 1914,Pontoise,"[2.1, 49.05]",0300AM,time,0300AM,{},2986140,Pontoise,"[2.1, 49.05]"
+36,AWD00014dk,diary,9,2,1914-08-30 03:00:00 UTC,30 Aug 1914,Pontoise,"[2.1, 49.05]",0300AM,activity,movement,{},2986140,Pontoise,"[2.1, 49.05]"
+37,AWD00014dk,diary,9,4,1914-08-30 03:00:00 UTC,30 Aug 1914,Couloisy,"[0.0, 0.0]",0300AM,place,Couloisy,"{""place""=>[""Couloisy""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3023253,Couloisy,"[3.02724, 49.39962]"
+38,AWD00014dk,diary,9,2,1914-08-30 00:00:00 UTC,30 Aug 1914,Couloisy,"[0.0, 0.0]","",diaryDate,30 Aug 1914,"{""day""=>[""30""], ""month""=>[""Aug""], ""year""=>[""1914""]}",3023253,Couloisy,"[3.02724, 49.39962]"
+39,AWD00014dk,diary,9,5,1914-08-30 17:30:00 UTC,30 Aug 1914,Couloisy,"[0.0, 0.0]",0530PM,time,0530PM,{},3023253,Couloisy,"[3.02724, 49.39962]"
+40,AWD00014dk,diary,9,5,1914-08-31 00:00:00 UTC,31 Aug 1914,Couloisy,"[0.0, 0.0]","",diaryDate,31 Aug 1914,"{""day""=>[""31""], ""month""=>[""Aug""], ""year""=>[""1914""]}",3023253,Couloisy,"[3.02724, 49.39962]"
+41,AWD00014dk,diary,9,4,1914-08-31 00:00:00 UTC,31 Aug 1914,Couloisy,"[3.02724, 49.39962]","",place,Couloisy,"{""place""=>[""Couloisy""], ""location""=>[""true""], ""name""=>[""Couloisy""], ""lat""=>[""49.39962""], ""long""=>[""3.02724""], ""id""=>[""3023253""]}",3023253,Couloisy,"[3.02724, 49.39962]"
+42,AWD00014dk,diary,9,5,1914-08-31 06:00:00 UTC,31 Aug 1914,Couloisy,"[3.02724, 49.39962]",0600AM,time,0600AM,{},3023253,Couloisy,"[3.02724, 49.39962]"
+43,AWD00014dk,diary,9,2,1914-08-31 06:00:00 UTC,31 Aug 1914,Couloisy,"[3.02724, 49.39962]",0600AM,activity,movement,{},3023253,Couloisy,"[3.02724, 49.39962]"
+44,AWD00014dk,diary,9,4,1914-08-31 00:00:00 UTC,31 Aug 1914,Couloisy,"[3.02724, 49.39962]","",diaryDate,31 Aug 1914,"{""day""=>[""31""], ""month""=>[""Aug""], ""year""=>[""1914""]}",3023253,Couloisy,"[3.02724, 49.39962]"
+46,AWD00014dk,diary,9,3,1914-08-31 19:15:00 UTC,31 Aug 1914,Couloisy,"[3.02724, 49.39962]",0715PM,time,0715PM,{},3023253,Couloisy,"[3.02724, 49.39962]"
+47,AWD00014dk,diary,9,2,1914-08-31 19:15:00 UTC,31 Aug 1914,"Kerberie, Kertbrie","[0.0, 0.0]",0715PM,place,"Kerberie, Kertbrie","{""place""=>[""Kerberie"", ""Kertbrie""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+52,AWD00014dk,diary,9,2,1914-08-31 19:15:00 UTC,31 Aug 1914,"Kerberie, Kertbrie","[0.0, 0.0]",0715PM,person,"Lieutenant H E,H Irwin, Girwin","{""first""=>[""H E"", ""H""], ""surname""=>[""Irwin"", ""Girwin""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>["""", ""19th Infantry Brigade""]}",,,
+1,AWD00014ds,diary,12,6,1914-09-01 00:00:00 UTC,1 Sep 1914,"Kerberie, Kertbrie","[0.0, 0.0]","",diaryDate,1 Sep 1914,"{""day""=>[""1""], ""month""=>[""Sep""], ""year""=>[""1914""]}",,,
+3,AWD00014ds,diary,12,3,1914-09-01 00:00:00 UTC,1 Sep 1914,"Kerberie, Kertbrie","[0.0, 0.0]","",activity,movement,{},,,
+6,AWD00014ds,diary,12,4,1914-09-01 04:00:00 UTC,1 Sep 1914,"Kerberie, Kertbrie","[0.0, 0.0]",0400AM,time,0400AM,{},,,
+7,AWD00014ds,diary,12,7,1914-09-01 04:00:00 UTC,1 Sep 1914,Verberie,"[2.7321, 49.31115]",0400AM,place,Verberie,"{""place""=>[""Verberie""], ""location""=>[""true""], ""name""=>[""Verberie""], ""lat""=>[""49.31115""], ""long""=>[""2.7321""], ""id""=>[""2970018""]}",2970018,Verberie,"[2.7321, 49.31115]"
+8,AWD00014ds,diary,12,3,1914-09-01 05:00:00 UTC,1 Sep 1914,Verberie,"[2.7321, 49.31115]",0500AM,time,0500AM,{},2970018,Verberie,"[2.7321, 49.31115]"
+9,AWD00014ds,diary,12,2,1914-09-01 05:00:00 UTC,1 Sep 1914,Verberie,"[2.7321, 49.31115]",0500AM,activity,fire,{},2970018,Verberie,"[2.7321, 49.31115]"
+14,AWD00014ds,diary,12,2,1914-09-01 00:00:00 UTC,1 Sep 1914,Verberie,"[2.7321, 49.31115]","",diaryDate,1 Sep 1914,"{""day""=>[""1""], ""month""=>[""Sep""], ""year""=>[""1914""]}",2970018,Verberie,"[2.7321, 49.31115]"
+16,AWD00014ds,diary,12,4,1914-09-01 23:30:00 UTC,1 Sep 1914,Verberie,"[2.7321, 49.31115]",1130PM,time,1130PM,{},2970018,Verberie,"[2.7321, 49.31115]"
+17,AWD00014ds,diary,12,3,1914-09-01 23:30:00 UTC,1 Sep 1914,Verberie,"[2.7321, 49.31115]",1130PM,place,Verberie,"{""place""=>[""Verberie""], ""location""=>[""true""], ""name""=>[""Verberie""], ""lat""=>[""49.31115""], ""long""=>[""2.7321""], ""id""=>[""2970018""]}",2970018,Verberie,"[2.7321, 49.31115]"
+18,AWD00014ds,diary,12,4,1914-09-01 23:30:00 UTC,1 Sep 1914,Verberie,"[2.7321, 49.31115]",1130PM,activity,movement,{},2970018,Verberie,"[2.7321, 49.31115]"
+19,AWD00014ds,diary,12,5,1914-09-02 00:00:00 UTC,2 Sep 1914,Verberie,"[2.7321, 49.31115]","",diaryDate,2 Sep 1914,"{""day""=>[""2""], ""month""=>[""Sep""], ""year""=>[""1914""]}",2970018,Verberie,"[2.7321, 49.31115]"
+21,AWD00014ds,diary,12,3,1914-09-02 06:00:00 UTC,2 Sep 1914,Verberie,"[2.7321, 49.31115]",0600AM,time,0600AM,{},2970018,Verberie,"[2.7321, 49.31115]"
+24,AWD00014ds,diary,12,2,1914-09-02 06:00:00 UTC,2 Sep 1914,"Dammartin, Dammonton","[0.0, 0.0]",0600AM,place,"Dammartin, Dammonton","{""place""=>[""Dammartin"", ""Dammonton""], ""location""=>[""true""], ""name""=>[""Villeneuve-sous-Dammartin"", ""Verberie""], ""lat""=>[""49.03501"", ""49.31115""], ""long""=>[""2.641"", ""2.7321""], ""id""=>[""2968523"", ""2970018""]}",,,
+28,AWD00014ds,diary,12,3,1914-09-02 22:00:00 UTC,2 Sep 1914,"Dammartin, Dammonton","[0.0, 0.0]",1000PM,time,1000PM,{},,,
+30,AWD00014ds,diary,12,3,1914-09-02 22:00:00 UTC,2 Sep 1914,Dammonton,"[2.7321, 49.31115]",1000PM,place,Dammonton,"{""place""=>[""Dammonton""], ""location""=>[""true""], ""name""=>[""Verberie""], ""lat""=>[""49.31115""], ""long""=>[""2.7321""], ""id""=>[""2970018""]}",,,
+31,AWD00014ds,diary,12,2,1914-09-02 22:00:00 UTC,2 Sep 1914,Dammonton,"[2.7321, 49.31115]",1000PM,activity,movement,{},,,
+33,AWD00014ds,diary,12,2,1914-09-03 00:00:00 UTC,3 Sep 1914,Dammonton,"[2.7321, 49.31115]","",diaryDate,3 Sep 1914,"{""day""=>[""3""], ""month""=>[""Sep""], ""year""=>[""1914""]}",,,
+34,AWD00014ds,diary,12,4,1914-09-03 05:30:00 UTC,3 Sep 1914,Dammonton,"[2.7321, 49.31115]",0530AM,time,0530AM,{},,,
+36,AWD00014ds,diary,12,2,1914-09-02 00:00:00 UTC,2 Sep 1914,Dammonton,"[2.7321, 49.31115]","",diaryDate,2 Sep 1914,"{""day""=>[""2""], ""month""=>[""Sep""], ""year""=>[""1914""]}",,,
+37,AWD00014ds,diary,12,3,1914-09-03 00:00:00 UTC,3 Sep 1914,Dammonton,"[2.7321, 49.31115]","",diaryDate,3 Sep 1914,"{""day""=>[""3""], ""month""=>[""Sep""], ""year""=>[""1914""]}",,,
+38,AWD00014ds,diary,12,3,1914-09-03 00:00:00 UTC,3 Sep 1914,Lagny,"[0.0, 0.0]","",place,Lagny,"{""place""=>[""Lagny""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3009070,Lagny,"[2.91578, 49.61349]"
+41,AWD00014ds,diary,12,5,1914-09-04 00:00:00 UTC,4 Sep 1914,Lagny,"[0.0, 0.0]","",diaryDate,4 Sep 1914,"{""day""=>[""4""], ""month""=>[""Sep""], ""year""=>[""1914""]}",3009070,Lagny,"[2.91578, 49.61349]"
+42,AWD00014ds,diary,12,4,1914-09-04 23:00:00 UTC,4 Sep 1914,Lagny,"[0.0, 0.0]",1100PM,time,1100PM,{},3009070,Lagny,"[2.91578, 49.61349]"
+46,AWD00014ds,diary,12,3,1914-09-04 23:00:00 UTC,4 Sep 1914,Lagny,"[2.91578, 49.61349]",1100PM,place,Lagny,"{""place""=>[""Lagny""], ""location""=>[""true""], ""name""=>[""Lagny""], ""lat""=>[""49.61349""], ""long""=>[""2.91578""], ""id""=>[""3009070""]}",3009070,Lagny,"[2.91578, 49.61349]"
+47,AWD00014ds,diary,12,3,1914-09-04 23:00:00 UTC,4 Sep 1914,Lagny,"[2.91578, 49.61349]",1100PM,activity,movement,{},3009070,Lagny,"[2.91578, 49.61349]"
+48,AWD00014ds,diary,12,4,1914-09-04 07:00:00 UTC,4 Sep 1914,Lagny,"[2.91578, 49.61349]",0700AM,time,0700AM,{},3009070,Lagny,"[2.91578, 49.61349]"
+50,AWD00014ds,diary,12,5,1914-09-05 00:00:00 UTC,5 Sep 1914,Lagny,"[2.91578, 49.61349]","",diaryDate,5 Sep 1914,"{""day""=>[""5""], ""month""=>[""Sep""], ""year""=>[""1914""]}",3009070,Lagny,"[2.91578, 49.61349]"
+52,AWD00014ds,diary,12,3,1914-09-05 00:00:00 UTC,5 Sep 1914,Lagny,"[2.91578, 49.61349]","",activity,resting,{},3009070,Lagny,"[2.91578, 49.61349]"
+3,AWD00014du,diary,13,5,1914-09-05 00:00:00 UTC,5 Sep 1914,Lagny,"[2.91578, 49.61349]","",diaryDate,5 Sep 1914,"{""day""=>[""5""], ""month""=>[""Sep""], ""year""=>[""1914""]}",3009070,Lagny,"[2.91578, 49.61349]"
+4,AWD00014du,diary,13,6,1914-09-05 10:00:00 UTC,5 Sep 1914,Lagny,"[2.91578, 49.61349]",1000AM,time,1000AM,{},3009070,Lagny,"[2.91578, 49.61349]"
+6,AWD00014du,diary,13,2,1914-09-05 10:00:00 UTC,5 Sep 1914,Brie-Comte,"[2.61667, 48.68333]",1000AM,place,Brie-Comte,"{""place""=>[""Brie-Comte""], ""location""=>[""true""], ""name""=>[""Brie-Comte-Robert""], ""lat""=>[""48.68333""], ""long""=>[""2.61667""], ""id""=>[""3030101""]}",3030101,Brie-Comte-Robert,"[2.61667, 48.68333]"
+7,AWD00014du,diary,13,6,1914-09-05 10:00:00 UTC,5 Sep 1914,Brie-Comte,"[2.61667, 48.68333]",1000AM,activity,movement,{},3030101,Brie-Comte-Robert,"[2.61667, 48.68333]"
+8,AWD00014du,diary,13,5,1914-09-05 10:45:00 UTC,5 Sep 1914,Brie-Comte,"[2.61667, 48.68333]",1045AM,time,1045AM,{},3030101,Brie-Comte-Robert,"[2.61667, 48.68333]"
+10,AWD00014du,diary,13,3,1914-09-05 00:00:00 UTC,5 Sep 1914,Brie-Comte,"[2.61667, 48.68333]","",diaryDate,5 Sep 1914,"{""day""=>[""5""], ""month""=>[""Sep""], ""year""=>[""1914""]}",3030101,Brie-Comte-Robert,"[2.61667, 48.68333]"
+12,AWD00014du,diary,13,3,1914-09-05 00:00:00 UTC,5 Sep 1914,Grisy,"[-0.06228, 49.0025]","",place,Grisy,"{""place""=>[""Grisy""], ""location""=>[""true""], ""name""=>[""Grisy""], ""lat""=>[""49.0025""], ""long""=>[""-0.06228""], ""id""=>[""3014602""]}",,,
+15,AWD00014du,diary,13,6,1914-09-06 00:00:00 UTC,6 Sep 1914,Grisy,"[-0.06228, 49.0025]","",diaryDate,6 Sep 1914,"{""day""=>[""6""], ""month""=>[""Sep""], ""year""=>[""1914""]}",,,
+17,AWD00014du,diary,13,6,1914-09-06 06:30:00 UTC,6 Sep 1914,Grisy,"[-0.06228, 49.0025]",0630AM,time,0630AM,{},,,
+19,AWD00014du,diary,13,3,1914-09-06 06:30:00 UTC,6 Sep 1914,Grisy,"[-0.06228, 49.0025]",0630AM,activity,movement,{},,,
+20,AWD00014du,diary,13,4,1914-09-06 00:00:00 UTC,6 Sep 1914,Grisy,"[-0.06228, 49.0025]","",diaryDate,6 Sep 1914,"{""day""=>[""6""], ""month""=>[""Sep""], ""year""=>[""1914""]}",,,
+22,AWD00014du,diary,13,5,1914-09-06 12:00:00 UTC,6 Sep 1914,Grisy,"[-0.06228, 49.0025]",1200PM,time,1200PM,{},,,
+23,AWD00014du,diary,13,2,1914-09-06 12:30:00 UTC,6 Sep 1914,Grisy,"[-0.06228, 49.0025]",1230PM,time,1230PM,{},,,
+25,AWD00014du,diary,13,3,1914-09-06 12:30:00 UTC,6 Sep 1914,Ozoir la Ferriere,"[0.0, 0.0]",1230PM,place,Ozoir la Ferriere,"{""place""=>[""Ozoir la Ferriere""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2988867,Ozoir-la-Ferrière,"[2.66871, 48.76699]"
+28,AWD00014du,diary,13,6,1914-09-06 22:15:00 UTC,6 Sep 1914,Ozoir la Ferriere,"[0.0, 0.0]",1015PM,time,1015PM,{},2988867,Ozoir-la-Ferrière,"[2.66871, 48.76699]"
+29,AWD00014du,diary,13,8,1914-09-06 22:15:00 UTC,6 Sep 1914,Ozoir la Ferriere,"[0.0, 0.0]",1015PM,activity,movement,{},2988867,Ozoir-la-Ferrière,"[2.66871, 48.76699]"
+30,AWD00014du,diary,13,3,1914-09-06 00:00:00 UTC,6 Sep 1914,Ozoir la Ferriere,"[0.0, 0.0]","",diaryDate,6 Sep 1914,"{""day""=>[""6""], ""month""=>[""Sep""], ""year""=>[""1914""]}",2988867,Ozoir-la-Ferrière,"[2.66871, 48.76699]"
+31,AWD00014du,diary,13,4,1914-09-06 00:00:00 UTC,6 Sep 1914,Ozoir la Ferriere,"[0.0, 0.0]",1200AM,time,1200AM,{},2988867,Ozoir-la-Ferrière,"[2.66871, 48.76699]"
+36,AWD00014du,diary,13,7,1914-09-07 00:00:00 UTC,7 Sep 1914,Ozoir la Ferriere,"[0.0, 0.0]","",diaryDate,7 Sep 1914,"{""day""=>[""7""], ""month""=>[""Sep""], ""year""=>[""1914""]}",2988867,Ozoir-la-Ferrière,"[2.66871, 48.76699]"
+37,AWD00014du,diary,13,6,1914-09-07 06:00:00 UTC,7 Sep 1914,Ozoir la Ferriere,"[0.0, 0.0]",0600AM,time,0600AM,{},2988867,Ozoir-la-Ferrière,"[2.66871, 48.76699]"
+39,AWD00014du,diary,13,7,1914-09-07 06:00:00 UTC,7 Sep 1914,Ozoir la Ferriere,"[0.0, 0.0]",0600AM,activity,movement,{},2988867,Ozoir-la-Ferrière,"[2.66871, 48.76699]"
+42,AWD00014du,diary,13,5,1914-09-07 18:00:00 UTC,7 Sep 1914,Ozoir la Ferriere,"[0.0, 0.0]",0600PM,time,0600PM,{},2988867,Ozoir-la-Ferrière,"[2.66871, 48.76699]"
+43,AWD00014du,diary,13,2,1914-09-07 18:00:00 UTC,7 Sep 1914,Ozoir la Ferriere,"[0.0, 0.0]",0600PM,place,"VILLIERS, Villiers","{""place""=>[""VILLIERS"", ""Villiers""], ""location""=>[""false"", ""true""], ""name""=>[""Villiers-sur-Morin""], ""lat""=>[""48.86099""], ""long""=>[""2.87773""], ""id""=>[""2968140""]}",2988867,Ozoir-la-Ferrière,"[2.66871, 48.76699]"
+44,AWD00014du,diary,13,2,1914-09-07 18:00:00 UTC,7 Sep 1914,Villiers sur Morin,"[0.0, 0.0]",0600PM,place,Villiers sur Morin,"{""place""=>[""Villiers sur Morin""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2968140,Villiers-sur-Morin,"[2.87773, 48.86099]"
+45,AWD00014du,diary,13,2,1914-09-07 06:00:00 UTC,7 Sep 1914,Villiers sur Morin,"[0.0, 0.0]",0600AM,time,0600AM,{},2968140,Villiers-sur-Morin,"[2.87773, 48.86099]"
+47,AWD00014du,diary,13,2,1914-09-07 06:00:00 UTC,7 Sep 1914,Villiers sur Morin,"[0.0, 0.0]",0600AM,domestic,rations,{},2968140,Villiers-sur-Morin,"[2.87773, 48.86099]"
+7,AWD00014di,diary,14,6,1914-09-08 00:00:00 UTC,8 Sep 1914,Villiers sur Morin,"[0.0, 0.0]","",diaryDate,8 Sep 1914,"{""day""=>[""8""], ""month""=>[""Sep""], ""year""=>[""1914""]}",2968140,Villiers-sur-Morin,"[2.87773, 48.86099]"
+8,AWD00014di,diary,14,5,1914-09-08 06:00:00 UTC,8 Sep 1914,Villiers sur Morin,"[0.0, 0.0]",0600AM,time,0600AM,{},2968140,Villiers-sur-Morin,"[2.87773, 48.86099]"
+9,AWD00014di,diary,14,3,1914-09-08 06:00:00 UTC,8 Sep 1914,"VILLIERS, villiers sur, villiers","[2.87773, 48.86099]",0600AM,place,"VILLIERS, villiers sur, villiers","{""place""=>[""VILLIERS"", ""villiers sur"", ""villiers""], ""location""=>[""true""], ""name""=>[""Villiers-sur-Morin""], ""lat""=>[""48.86099""], ""long""=>[""2.87773""], ""id""=>[""2968140""]}",2968212,Villiers,"[1.1849, 46.88758]"
+11,AWD00014di,diary,14,5,1914-09-08 06:00:00 UTC,8 Sep 1914,"VILLIERS, villiers sur, villiers","[2.87773, 48.86099]",0600AM,activity,movement,{},2968212,Villiers,"[1.1849, 46.88758]"
+13,AWD00014di,diary,14,2,1914-09-08 06:00:00 UTC,8 Sep 1914,"VILLIERS, villiers sur, villiers","[2.87773, 48.86099]",0600AM,person,  ,"{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""""], ""number""=>[""""], ""reason""=>[""departed_posted"", ""returned_leave""], ""unit""=>[""83rd Brigade"", """"]}",2968212,Villiers,"[1.1849, 46.88758]"
+15,AWD00014di,diary,14,5,1914-09-08 12:00:00 UTC,8 Sep 1914,"VILLIERS, villiers sur, villiers","[2.87773, 48.86099]",1200PM,time,1200PM,{},2968212,Villiers,"[1.1849, 46.88758]"
+16,AWD00014di,diary,14,6,1914-09-08 12:00:00 UTC,8 Sep 1914,Pierre Levee,"[3.03841, 48.89962]",1200PM,place,Pierre Levee,"{""place""=>[""Pierre Levee""], ""location""=>[""true""], ""name""=>[""Pierre-Levée""], ""lat""=>[""48.89962""], ""long""=>[""3.03841""], ""id""=>[""2987255""]}",2987255,Pierre-Levée,"[3.03841, 48.89962]"
+17,AWD00014di,diary,14,2,1914-09-08 12:00:00 UTC,8 Sep 1914,Pierre Levee,"[3.03841, 48.89962]",1200PM,person,",Warrant Officer Class II  ","{""first""=>[""""], ""surname""=>[""""], ""rank""=>["""", ""Warrant Officer Class II""], ""number""=>[""""], ""reason""=>[""departed_posted""], ""unit""=>[""No 11 Remount section"", ""5th Corps Concetration camp""]}",2987255,Pierre-Levée,"[3.03841, 48.89962]"
+18,AWD00014di,diary,14,2,1914-09-08 12:00:00 UTC,8 Sep 1914,Pierre Levee,"[3.03841, 48.89962]",1200PM,activity,resting,{},2987255,Pierre-Levée,"[3.03841, 48.89962]"
+19,AWD00014di,diary,14,2,1914-09-08 12:00:00 UTC,8 Sep 1914,Pierre Levee,"[3.03841, 48.89962]",1200PM,domestic,accomodation,{},2987255,Pierre-Levée,"[3.03841, 48.89962]"
+21,AWD00014di,diary,14,2,1914-09-08 12:00:00 UTC,8 Sep 1914,Pierre Levee,"[3.03841, 48.89962]",1200PM,person,  ,"{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""""], ""number""=>[""""], ""reason""=>[""departed_posted"", ""resigned""], ""unit""=>[""20 Casualty Clearing Station"", """"]}",2987255,Pierre-Levée,"[3.03841, 48.89962]"
+22,AWD00014di,diary,14,2,1914-09-09 00:00:00 UTC,9 Sep 1914,Pierre Levee,"[3.03841, 48.89962]","",diaryDate,9 Sep 1914,"{""day""=>[""9""], ""month""=>[""Sep""], ""year""=>[""1914""]}",2987255,Pierre-Levée,"[3.03841, 48.89962]"
+24,AWD00014di,diary,14,4,1914-09-09 00:00:00 UTC,9 Sep 1914,Pierre Levee,"[3.03841, 48.89962]","",diaryDate,9 Sep 1914,"{""day""=>[""9""], ""month""=>[""Sep""], ""year""=>[""1914""]}",2987255,Pierre-Levée,"[3.03841, 48.89962]"
+25,AWD00014di,diary,14,2,1914-09-09 00:00:00 UTC,9 Sep 1914,Pierre Levee,"[3.03841, 48.89962]","",activity,resupplying,{},2987255,Pierre-Levée,"[3.03841, 48.89962]"
+27,AWD00014di,diary,14,5,1914-09-09 00:00:00 UTC,9 Sep 1914,pierre levee,"[3.03841, 48.89962]","",place,pierre levee,"{""place""=>[""pierre levee""], ""location""=>[""true""], ""name""=>[""Pierre-Levée""], ""lat""=>[""48.89962""], ""long""=>[""3.03841""], ""id""=>[""2987255""]}",2987255,Pierre-Levée,"[3.03841, 48.89962]"
+30,AWD00014di,diary,14,5,1914-09-09 21:30:00 UTC,9 Sep 1914,pierre levee,"[3.03841, 48.89962]",0930PM,time,0930PM,{},2987255,Pierre-Levée,"[3.03841, 48.89962]"
+31,AWD00014di,diary,14,6,1914-09-09 21:30:00 UTC,9 Sep 1914,pierre levee,"[3.03841, 48.89962]",0930PM,activity,movement,{},2987255,Pierre-Levée,"[3.03841, 48.89962]"
+37,AWD00014di,diary,14,2,1914-09-09 22:15:00 UTC,9 Sep 1914,pierre levee,"[3.03841, 48.89962]",1015PM,time,1015PM,{},2987255,Pierre-Levée,"[3.03841, 48.89962]"
+38,AWD00014di,diary,14,3,1914-09-09 10:15:00 UTC,9 Sep 1914,pierre levee,"[3.03841, 48.89962]",1015AM,time,1015AM,{},2987255,Pierre-Levée,"[3.03841, 48.89962]"
+39,AWD00014di,diary,14,5,1914-09-09 10:15:00 UTC,9 Sep 1914,Coulommiers,"[3.08498, 48.81451]",1015AM,place,Coulommiers,"{""place""=>[""Coulommiers""], ""location""=>[""true""], ""name""=>[""Coulommiers""], ""lat""=>[""48.81451""], ""long""=>[""3.08498""], ""id""=>[""3023240""]}",3023242,Coulommier,"[1.37785, 48.23912]"
+40,AWD00014di,diary,14,6,1914-09-10 00:00:00 UTC,10 Sep 1914,Coulommiers,"[3.08498, 48.81451]","",diaryDate,10 Sep 1914,"{""day""=>[""10""], ""month""=>[""Sep""], ""year""=>[""1914""]}",3023242,Coulommier,"[1.37785, 48.23912]"
+41,AWD00014di,diary,14,2,1914-09-10 00:00:00 UTC,10 Sep 1914,Coulommiers,"[3.08498, 48.81451]","",activity,resting,{},3023242,Coulommier,"[1.37785, 48.23912]"
+42,AWD00014di,diary,14,2,1914-09-10 00:00:00 UTC,10 Sep 1914,Coulommiers,"[3.08498, 48.81451]","",domestic,accomodation,{},3023242,Coulommier,"[1.37785, 48.23912]"
+43,AWD00014di,diary,14,2,1914-09-10 00:00:00 UTC,10 Sep 1914,Coulommiers,"[3.08498, 48.81451]","",activity,other,{},3023242,Coulommier,"[1.37785, 48.23912]"
+45,AWD00014di,diary,14,2,1914-09-10 00:00:00 UTC,10 Sep 1914,Coulommiers,"[3.08498, 48.81451]","",person,  ,"{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""""], ""number""=>[""""], ""reason""=>[""departed_posted""], ""unit""=>[""15th Brigade"", """"]}",3023242,Coulommier,"[1.37785, 48.23912]"
+46,AWD00014di,diary,14,6,1914-09-10 14:00:00 UTC,10 Sep 1914,Coulommiers,"[3.08498, 48.81451]",0200PM,time,0200PM,{},3023242,Coulommier,"[1.37785, 48.23912]"
+48,AWD00014di,diary,14,2,1914-09-10 14:00:00 UTC,10 Sep 1914,Coulommiers,"[3.08498, 48.81451]",0200PM,place,"coulommiers, Coulommiers","{""place""=>[""coulommiers"", ""Coulommiers""], ""location""=>[""false"", ""true""], ""name""=>[""Coulommiers"", """"], ""lat""=>[""48.81451"", """"], ""long""=>[""3.08498"", """"], ""id""=>[""3023240"", """"]}",3023242,Coulommier,"[1.37785, 48.23912]"
+49,AWD00014di,diary,14,6,1914-09-10 14:00:00 UTC,10 Sep 1914,Coulommiers,"[3.08498, 48.81451]",0200PM,activity,movement,{},3023242,Coulommier,"[1.37785, 48.23912]"
+56,AWD00014di,diary,14,3,1914-09-10 00:00:00 UTC,10 Sep 1914,Coulommiers,"[3.08498, 48.81451]","",diaryDate,10 Sep 1914,"{""day""=>[""10""], ""month""=>[""Sep""], ""year""=>[""1914""]}",3023242,Coulommier,"[1.37785, 48.23912]"
+57,AWD00014di,diary,14,4,1914-09-10 20:00:00 UTC,10 Sep 1914,Coulommiers,"[3.08498, 48.81451]",0800PM,time,0800PM,{},3023242,Coulommier,"[1.37785, 48.23912]"
+60,AWD00014di,diary,14,3,1914-09-10 20:00:00 UTC,10 Sep 1914,Coulommiers,"[3.08498, 48.81451]",0800PM,domestic,accomodation,{},3023242,Coulommier,"[1.37785, 48.23912]"
+61,AWD00014di,diary,14,2,1914-09-10 20:00:00 UTC,10 Sep 1914,Coulommiers,"[3.08498, 48.81451]",0800PM,activity,resting,{},3023242,Coulommier,"[1.37785, 48.23912]"
+64,AWD00014di,diary,14,6,1914-09-11 00:00:00 UTC,11 Sep 1914,Coulommiers,"[3.08498, 48.81451]","",diaryDate,11 Sep 1914,"{""day""=>[""11""], ""month""=>[""Sep""], ""year""=>[""1914""]}",3023242,Coulommier,"[1.37785, 48.23912]"
+65,AWD00014di,diary,14,4,1914-09-11 10:15:00 UTC,11 Sep 1914,Coulommiers,"[3.08498, 48.81451]",1015AM,time,1015AM,{},3023242,Coulommier,"[1.37785, 48.23912]"
+69,AWD00014di,diary,14,7,1914-09-11 10:15:00 UTC,11 Sep 1914,Coulommiers,"[3.08498, 48.81451]",1015AM,activity,movement,{},3023242,Coulommier,"[1.37785, 48.23912]"
+73,AWD00014di,diary,14,3,1914-09-11 10:15:00 UTC,11 Sep 1914,Coulommiers,"[3.08498, 48.81451]",1015AM,person,  ,"{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""""], ""number""=>[""""], ""reason""=>[""departed_sick"", ""resigned"", ""returned_hospital""], ""unit""=>[""""]}",3023242,Coulommier,"[1.37785, 48.23912]"
+74,AWD00014di,diary,14,7,1914-09-12 00:00:00 UTC,12 Sep 1914,Coulommiers,"[3.08498, 48.81451]","",diaryDate,12 Sep 1914,"{""day""=>[""12""], ""month""=>[""Sep""], ""year""=>[""1914""]}",3023242,Coulommier,"[1.37785, 48.23912]"
+75,AWD00014di,diary,14,3,1914-09-12 11:30:00 UTC,12 Sep 1914,Coulommiers,"[3.08498, 48.81451]",1130AM,time,1130AM,{},3023242,Coulommier,"[1.37785, 48.23912]"
+78,AWD00014di,diary,14,3,1914-09-12 11:30:00 UTC,12 Sep 1914,"Chosy, Chouy, Chauny","[0.0, 0.0]",1130AM,place,"Chosy, Chouy, Chauny","{""place""=>[""Chosy"", ""Chouy"", ""Chauny""], ""location""=>[""true""], ""name""=>["""", ""Chouy"", ""Chauny""], ""lat""=>["""", ""49.20738"", ""49.61514""], ""long""=>["""", ""3.24714"", ""3.21857""], ""id""=>["""", ""3025009"", ""3025860""]}",3025860,Chauny,"[3.21857, 49.61514]"
+84,AWD00014di,diary,14,3,1914-09-12 11:30:00 UTC,12 Sep 1914,"Chosy, Chouy, Chauny","[0.0, 0.0]",1130AM,person,  ,"{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""""], ""number""=>[""""], ""reason""=>[""departed_posted""], ""unit""=>[""83rd Brigade"", """", ""Army of the Rhine""]}",3025860,Chauny,"[3.21857, 49.61514]"
+86,AWD00014di,diary,14,2,1914-09-12 11:30:00 UTC,12 Sep 1914,"Chosy, Chouy, Chauny","[0.0, 0.0]",1130AM,weather,rain,{},3025860,Chauny,"[3.21857, 49.61514]"
+1,AWD00014da,diary,15,6,1914-09-12 00:00:00 UTC,12 Sep 1914,"Chosy, Chouy, Chauny","[0.0, 0.0]","",diaryDate,12 Sep 1914,"{""day""=>[""12""], ""month""=>[""Sep""], ""year""=>[""1914""]}",3025860,Chauny,"[3.21857, 49.61514]"
+2,AWD00014da,diary,15,5,1914-09-12 00:00:00 UTC,12 Sep 1914,Chouy,"[3.24714, 49.20738]","",place,Chouy,"{""place""=>[""Chouy""], ""location""=>[""true""], ""name""=>["""", ""Chouy""], ""lat""=>["""", ""49.20738""], ""long""=>["""", ""3.24714""], ""id""=>["""", ""3025009""]}",3025009,Chouy,"[3.24714, 49.20738]"
+4,AWD00014da,diary,15,6,1914-09-12 14:00:00 UTC,12 Sep 1914,Chouy,"[3.24714, 49.20738]",0200PM,time,0200PM,{},3025009,Chouy,"[3.24714, 49.20738]"
+5,AWD00014da,diary,15,8,1914-09-12 14:00:00 UTC,12 Sep 1914,Chouy,"[3.24714, 49.20738]",0200PM,activity,movement,{},3025009,Chouy,"[3.24714, 49.20738]"
+9,AWD00014da,diary,15,6,1914-09-12 14:00:00 UTC,12 Sep 1914,Chouy,"[3.24714, 49.20738]",0200PM,weather,rain,{},3025009,Chouy,"[3.24714, 49.20738]"
+10,AWD00014da,diary,15,3,1914-09-12 00:00:00 UTC,12 Sep 1914,Chouy,"[3.24714, 49.20738]","",diaryDate,12 Sep 1914,"{""day""=>[""12""], ""month""=>[""Sep""], ""year""=>[""1914""]}",3025009,Chouy,"[3.24714, 49.20738]"
+12,AWD00014da,diary,15,6,1914-09-12 20:00:00 UTC,12 Sep 1914,Chouy,"[3.24714, 49.20738]",0800PM,time,0800PM,{},3025009,Chouy,"[3.24714, 49.20738]"
+13,AWD00014da,diary,15,3,1914-09-12 20:00:00 UTC,12 Sep 1914,Noyant,"[0.0, 0.0]",0800PM,place,Noyant,"{""place""=>[""Noyant""], ""location""=>[""true""], ""name""=>[""Chouy"", """", ""Noyant""], ""lat""=>[""49.20738"", """", ""47.51048""], ""long""=>[""3.24714"", """", ""0.11771""], ""id""=>[""3025009"", """", ""2989913""]}",2989913,Noyant,"[0.11771, 47.51048]"
+14,AWD00014da,diary,15,2,1914-09-12 20:00:00 UTC,12 Sep 1914,Noyant,"[0.0, 0.0]",0800PM,activity,resting,{},2989913,Noyant,"[0.11771, 47.51048]"
+16,AWD00014da,diary,15,5,1914-09-13 00:00:00 UTC,13 Sep 1914,Noyant,"[0.0, 0.0]","",diaryDate,13 Sep 1914,"{""day""=>[""13""], ""month""=>[""Sep""], ""year""=>[""1914""]}",2989913,Noyant,"[0.11771, 47.51048]"
+17,AWD00014da,diary,15,2,1914-09-13 00:00:00 UTC,13 Sep 1914,Noyant,"[0.0, 0.0]","",activity,resting,{},2989913,Noyant,"[0.11771, 47.51048]"
+19,AWD00014da,diary,15,2,1914-09-13 00:00:00 UTC,13 Sep 1914,Noyant,"[0.0, 0.0]","",place,Noyant,"{""place""=>[""Noyant""], ""location""=>[""false""], ""name""=>[""Noyant""], ""lat""=>[""47.51048""], ""long""=>[""0.11771""], ""id""=>[""2989913""]}",2989913,Noyant,"[0.11771, 47.51048]"
+22,AWD00014da,diary,15,4,1914-09-13 10:15:00 UTC,13 Sep 1914,Noyant,"[0.0, 0.0]",1015AM,time,1015AM,{},2989913,Noyant,"[0.11771, 47.51048]"
+25,AWD00014da,diary,15,4,1914-09-14 00:00:00 UTC,14 Sep 1914,Noyant,"[0.0, 0.0]","",diaryDate,14 Sep 1914,"{""day""=>[""14""], ""month""=>[""Sep""], ""year""=>[""1914""]}",2989913,Noyant,"[0.11771, 47.51048]"
+27,AWD00014da,diary,15,7,1914-09-14 00:00:00 UTC,14 Sep 1914,Noyant,"[0.0, 0.0]","",activity,movement,{},2989913,Noyant,"[0.11771, 47.51048]"
+28,AWD00014da,diary,15,6,1914-09-14 11:00:00 UTC,14 Sep 1914,Noyant,"[0.0, 0.0]",1100AM,time,1100AM,{},2989913,Noyant,"[0.11771, 47.51048]"
+29,AWD00014da,diary,15,4,1914-09-14 11:00:00 UTC,14 Sep 1914,Noyant,"[0.0, 0.0]",1100AM,place,Septmonts,"{""place""=>[""Septmonts""], ""location""=>[""false"", ""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2989913,Noyant,"[0.11771, 47.51048]"
+31,AWD00014da,diary,15,6,1914-09-14 21:00:00 UTC,14 Sep 1914,Noyant,"[0.0, 0.0]",0900PM,time,0900PM,{},2989913,Noyant,"[0.11771, 47.51048]"
+32,AWD00014da,diary,15,4,1914-09-14 21:00:00 UTC,14 Sep 1914,Noyant,"[0.0, 0.0]",0900PM,activity,movement,{},2989913,Noyant,"[0.11771, 47.51048]"
+33,AWD00014da,diary,15,6,1914-09-14 23:00:00 UTC,14 Sep 1914,Noyant,"[0.0, 0.0]",1100PM,time,1100PM,{},2989913,Noyant,"[0.11771, 47.51048]"
+34,AWD00014da,diary,15,4,1914-09-14 23:00:00 UTC,14 Sep 1914,Venizel,"[0.0, 0.0]",1100PM,place,Venizel,"{""place""=>[""Venizel""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2970071,Venizel,"[3.39321, 49.36583]"
+36,AWD00014da,diary,15,7,1914-09-15 00:00:00 UTC,15 Sep 1914,Venizel,"[0.0, 0.0]","",diaryDate,15 Sep 1914,"{""day""=>[""15""], ""month""=>[""Sep""], ""year""=>[""1914""]}",2970071,Venizel,"[3.39321, 49.36583]"
+37,AWD00014da,diary,15,5,1914-09-15 09:00:00 UTC,15 Sep 1914,Venizel,"[0.0, 0.0]",0900AM,time,0900AM,{},2970071,Venizel,"[3.39321, 49.36583]"
+41,AWD00014da,diary,15,6,1914-09-16 00:00:00 UTC,16 Sep 1914,Venizel,"[0.0, 0.0]","",diaryDate,16 Sep 1914,"{""day""=>[""16""], ""month""=>[""Sep""], ""year""=>[""1914""]}",2970071,Venizel,"[3.39321, 49.36583]"
+42,AWD00014da,diary,15,2,1914-09-16 00:00:00 UTC,16 Sep 1914,Venizel,"[0.0, 0.0]","",domestic,inspections,{},2970071,Venizel,"[3.39321, 49.36583]"
+43,AWD00014da,diary,15,3,1914-09-18 00:00:00 UTC,18 Sep 1914,Venizel,"[0.0, 0.0]","",diaryDate,18 Sep 1914,"{""day""=>[""18""], ""month""=>[""Sep""], ""year""=>[""1914""]}",2970071,Venizel,"[3.39321, 49.36583]"
+44,AWD00014da,diary,15,3,1914-09-17 00:00:00 UTC,17 Sep 1914,Venizel,"[0.0, 0.0]","",diaryDate,17 Sep 1914,"{""day""=>[""17""], ""month""=>[""Sep""], ""year""=>[""1914""]}",2970071,Venizel,"[3.39321, 49.36583]"
+45,AWD00014da,diary,15,2,1914-09-17 00:00:00 UTC,17 Sep 1914,Venizel,"[0.0, 0.0]","",activity,other,{},2970071,Venizel,"[3.39321, 49.36583]"
+47,AWD00014da,diary,15,3,1914-09-17 00:00:00 UTC,17 Sep 1914,Venizel,"[3.39321, 49.36583]","",place,Venizel,"{""place""=>[""Venizel""], ""location""=>[""true""], ""name""=>[""Venizel""], ""lat""=>[""49.36583""], ""long""=>[""3.39321""], ""id""=>[""2970071""]}",2970071,Venizel,"[3.39321, 49.36583]"
+49,AWD00014da,diary,15,5,1914-09-19 00:00:00 UTC,19 Sep 1914,Venizel,"[3.39321, 49.36583]","",diaryDate,19 Sep 1914,"{""day""=>[""19""], ""month""=>[""Sep""], ""year""=>[""1914""]}",2970071,Venizel,"[3.39321, 49.36583]"
+1,AWD00014cv,diary,16,7,1914-09-20 00:00:00 UTC,20 Sep 1914,Venizel,"[3.39321, 49.36583]","",diaryDate,20 Sep 1914,"{""day""=>[""20""], ""month""=>[""Sep""], ""year""=>[""1914""]}",2970071,Venizel,"[3.39321, 49.36583]"
+2,AWD00014cv,diary,16,6,1914-09-20 00:00:00 UTC,20 Sep 1914,Venizel,"[3.39321, 49.36583]","",place,Venizel,"{""place""=>[""Venizel""], ""location""=>[""true""], ""name""=>["""", ""Venizel""], ""lat""=>["""", ""49.36583""], ""long""=>["""", ""3.39321""], ""id""=>["""", ""2970071""]}",2970071,Venizel,"[3.39321, 49.36583]"
+3,AWD00014cv,diary,16,6,1914-09-20 20:00:00 UTC,20 Sep 1914,Venizel,"[3.39321, 49.36583]",0800PM,time,0800PM,{},2970071,Venizel,"[3.39321, 49.36583]"
+4,AWD00014cv,diary,16,3,1914-09-20 20:00:00 UTC,20 Sep 1914,Venizel,"[3.39321, 49.36583]",0800PM,activity,movement,{},2970071,Venizel,"[3.39321, 49.36583]"
+5,AWD00014cv,diary,16,2,1914-09-20 20:00:00 UTC,20 Sep 1914,Venizel,"[3.39321, 49.36583]",0800PM,place,Septmonts,"{""place""=>[""Septmonts""], ""location""=>[""true"", ""false""], ""name""=>[""Septmonts"", """"], ""lat""=>[""49.33488"", """"], ""long""=>[""3.35797"", """"], ""id""=>[""2975007"", """"]}",2970071,Venizel,"[3.39321, 49.36583]"
+7,AWD00014cv,diary,16,5,1914-09-20 22:15:00 UTC,20 Sep 1914,Venizel,"[3.39321, 49.36583]",1015PM,time,1015PM,{},2970071,Venizel,"[3.39321, 49.36583]"
+8,AWD00014cv,diary,16,2,1914-09-20 22:15:00 UTC,20 Sep 1914,Venizel,"[3.39321, 49.36583]",1015PM,domestic,accomodation,{},2970071,Venizel,"[3.39321, 49.36583]"
+10,AWD00014cv,diary,16,3,1914-09-20 22:15:00 UTC,20 Sep 1914,Septmonts,"[0.0, 0.0]",1015PM,place,Septmonts,"{""place""=>[""Septmonts""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2975007,Septmonts,"[3.35797, 49.33488]"
+12,AWD00014cv,diary,16,7,1914-09-21 00:00:00 UTC,21 Sep 1914,Septmonts,"[0.0, 0.0]","",diaryDate,21 Sep 1914,"{""day""=>[""21""], ""month""=>[""Sep""], ""year""=>[""1914""]}",2975007,Septmonts,"[3.35797, 49.33488]"
+13,AWD00014cv,diary,16,2,1914-09-21 00:00:00 UTC,21 Sep 1914,Septmonts,"[0.0, 0.0]","",activity,resupplying,{},2975007,Septmonts,"[3.35797, 49.33488]"
+15,AWD00014cv,diary,16,7,1914-09-22 00:00:00 UTC,22 Sep 1914,Septmonts,"[0.0, 0.0]","",diaryDate,22 Sep 1914,"{""day""=>[""22""], ""month""=>[""Sep""], ""year""=>[""1914""]}",2975007,Septmonts,"[3.35797, 49.33488]"
+19,AWD00014cv,diary,16,6,1914-09-23 00:00:00 UTC,23 Sep 1914,Septmonts,"[0.0, 0.0]","",diaryDate,23 Sep 1914,"{""day""=>[""23""], ""month""=>[""Sep""], ""year""=>[""1914""]}",2975007,Septmonts,"[3.35797, 49.33488]"
+21,AWD00014cv,diary,16,3,1914-09-23 00:00:00 UTC,23 Sep 1914,Septmonts,"[0.0, 0.0]","",domestic,inspections,{},2975007,Septmonts,"[3.35797, 49.33488]"
+25,AWD00014cv,diary,16,2,1914-09-23 00:00:00 UTC,23 Sep 1914,Septmonts,"[0.0, 0.0]","",domestic,inspections,{},2975007,Septmonts,"[3.35797, 49.33488]"
+26,AWD00014cv,diary,16,7,1914-09-24 00:00:00 UTC,24 Sep 1914,Septmonts,"[0.0, 0.0]","",diaryDate,24 Sep 1914,"{""day""=>[""24""], ""month""=>[""Sep""], ""year""=>[""1914""]}",2975007,Septmonts,"[3.35797, 49.33488]"
+29,AWD00014cv,diary,16,7,1914-09-25 00:00:00 UTC,25 Sep 1914,Septmonts,"[0.0, 0.0]","",diaryDate,25 Sep 1914,"{""day""=>[""25""], ""month""=>[""Sep""], ""year""=>[""1914""]}",2975007,Septmonts,"[3.35797, 49.33488]"
+34,AWD00014cv,diary,16,6,1914-09-26 00:00:00 UTC,26 Sep 1914,Septmonts,"[0.0, 0.0]","",diaryDate,26 Sep 1914,"{""day""=>[""26""], ""month""=>[""Sep""], ""year""=>[""1914""]}",2975007,Septmonts,"[3.35797, 49.33488]"
+1,AWD00014cs,diary,17,7,1914-09-27 00:00:00 UTC,27 Sep 1914,Septmonts,"[0.0, 0.0]","",diaryDate,27 Sep 1914,"{""day""=>[""27""], ""month""=>[""Sep""], ""year""=>[""1914""]}",2975007,Septmonts,"[3.35797, 49.33488]"
+2,AWD00014cs,diary,17,6,1914-09-27 00:00:00 UTC,27 Sep 1914,Septmonts,"[3.35797, 49.33488]","",place,Septmonts,"{""place""=>[""Septmonts""], ""location""=>[""true""], ""name""=>["""", ""Septmonts""], ""lat""=>["""", ""49.33488""], ""long""=>["""", ""3.35797""], ""id""=>["""", ""2975007""]}",2975007,Septmonts,"[3.35797, 49.33488]"
+3,AWD00014cs,diary,17,4,1914-09-27 00:00:00 UTC,27 Sep 1914,Septmonts,"[3.35797, 49.33488]","",domestic,inspections,{},2975007,Septmonts,"[3.35797, 49.33488]"
+8,AWD00014cs,diary,17,7,1914-09-28 00:00:00 UTC,28 Sep 1914,Septmonts,"[3.35797, 49.33488]","",diaryDate,28 Sep 1914,"{""day""=>[""28""], ""month""=>[""Sep""], ""year""=>[""1914""]}",2975007,Septmonts,"[3.35797, 49.33488]"
+9,AWD00014cs,diary,17,3,1914-09-28 00:00:00 UTC,28 Sep 1914,Septmonts,"[0.0, 0.0]","",place,Septmonts,"{""place""=>[""Septmonts""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2975007,Septmonts,"[3.35797, 49.33488]"
+11,AWD00014cs,diary,17,7,1914-09-29 00:00:00 UTC,29 Sep 1914,Septmonts,"[0.0, 0.0]","",diaryDate,29 Sep 1914,"{""day""=>[""29""], ""month""=>[""Sep""], ""year""=>[""1914""]}",2975007,Septmonts,"[3.35797, 49.33488]"
+13,AWD00014cs,diary,17,4,1914-09-29 09:45:00 UTC,29 Sep 1914,Septmonts,"[0.0, 0.0]",0945AM,time,0945AM,{},2975007,Septmonts,"[3.35797, 49.33488]"
+16,AWD00014cs,diary,17,6,1914-09-30 00:00:00 UTC,30 Sep 1914,Septmonts,"[0.0, 0.0]","",diaryDate,30 Sep 1914,"{""day""=>[""30""], ""month""=>[""Sep""], ""year""=>[""1914""]}",2975007,Septmonts,"[3.35797, 49.33488]"
+19,AWD00014cs,diary,17,6,1914-09-30 00:00:00 UTC,30 Sep 1914,Septmonts,"[0.0, 0.0]","",person,Colonel  Butler,"{""first""=>[""""], ""surname""=>[""Butler""], ""rank""=>[""Colonel""], ""number""=>[""""], ""reason""=>[""commander"", ""other""], ""unit""=>[""""]}",2975007,Septmonts,"[3.35797, 49.33488]"
+20,AWD00014cs,diary,17,2,1914-09-30 00:00:00 UTC,30 Sep 1914,Septmonts,"[0.0, 0.0]","",domestic,inspections,{},2975007,Septmonts,"[3.35797, 49.33488]"
+21,AWD00014cs,diary,17,4,1914-09-30 00:00:00 UTC,30 Sep 1914,Septmonts,"[0.0, 0.0]","",person,"Lieutenant H G,H E Irwin","{""first""=>[""H G"", ""H E""], ""surname""=>[""Irwin""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""V O I/C 19TH INFANTRY  BRIGADE"", """", ""19 Infantry Brigade"", ""19th Infantry Brigade""]}",2975007,Septmonts,"[3.35797, 49.33488]"
+3,AWD00014dv,signals,18,2,,,,[],,date,21 Sep 1914,{},,,
+7,AWD00014dv,signals,18,2,,,,[],,signals,other,{},,,
+11,AWD00014dv,signals,18,5,,,,[],,time,0930AM,{},,,
+12,AWD00014dv,signals,18,4,,,,[],,person,Brigadier General J Moore,"{""first""=>[""J""], ""surname""=>[""Moore""], ""rank""=>[""Brigadier General""], ""number""=>[""""], ""reason""=>[""other"", ""commander""], ""unit""=>[""""]}",,,
+5,AWD00014d0,signals,19,4,,,,[],,signals,other,{},,,
+10,AWD00014d0,signals,19,3,,,,[],,time,1145AM,{},,,
+11,AWD00014d0,signals,19,2,,,,[],,person,"Brigadier General  Moore, MOORE","{""first""=>[""""], ""surname""=>[""Moore"", ""MOORE""], ""rank""=>[""Brigadier General""], ""number""=>[""""], ""reason""=>[""other"", ""commander""], ""unit""=>[""""]}",,,
+2,AWD00014df,signals,20,2,,,,[],,date,21 Sep 1914,{},,,
+3,AWD00014df,signals,20,3,,,,[],,signals,other,{},,,
+4,AWD00014df,signals,20,2,,,,[],,person,"Brigadier General ,J MOORE, Moore","{""first""=>["""", ""J""], ""surname""=>[""MOORE"", ""Moore""], ""rank""=>[""Brigadier General""], ""number""=>[""""], ""reason""=>[""commander"", ""other""], ""unit""=>[""D V S"", """"]}",,,
+5,AWD00014df,signals,20,5,,,,[],,time,1245AM,{},,,
+7,AWD00014df,signals,20,2,,,,[],,person,"Brigadier General,  Moore","{""first""=>[""""], ""surname""=>[""Moore""], ""rank""=>[""Brigadier General"", """"], ""number""=>[""""], ""reason""=>[""other"", ""commander""], ""unit""=>[""""]}",,,
+1,AWD00014d9,signals,21,3,,,,[],,date,21 Sep 1914,{},,,
+2,AWD00014d9,signals,21,5,,,,[],,signals,other,{},,,
+4,AWD00014d9,signals,21,6,,,,[],,time,1200PM,{},,,
+6,AWD00014d9,signals,21,4,,,,[],,person,"Brigadier General J, Moore","{""first""=>[""J"", """"], ""surname""=>[""Moore""], ""rank""=>[""Brigadier General""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+1,AWD00014dm,signals,22,3,,,,[],,date,21 Sep 1914,{},,,
+3,AWD00014dm,signals,22,5,,,,[],,signals,other,{},,,
+5,AWD00014dm,signals,22,3,,,,[],,person,Brigadier General  Moore,"{""first""=>[""""], ""surname""=>[""Moore""], ""rank""=>[""Brigadier General""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+6,AWD00014dm,signals,22,7,,,,[],,time,0300PM,{},,,
+2,AWD00014d4,signals,23,2,,,,[],,date,21 Sep 1914,{},,,
+3,AWD00014d4,signals,23,5,,,,[],,person,Lieutenant  Irwin,"{""first""=>[""""], ""surname""=>[""Irwin""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+7,AWD00014d4,signals,23,7,,,,[],,time,0330PM,{},,,
+8,AWD00014d4,signals,23,6,,,,[],,person,Brigadier General J Moore,"{""first""=>[""J""], ""surname""=>[""Moore""], ""rank""=>[""Brigadier General""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+2,AWD00014dp,signals,24,2,,,,[],,date,21 Sep 1914,{},,,
+4,AWD00014dp,signals,24,5,,,,[],,signals,other,{},,,
+2,AWD00014dd,signals,25,2,,,,[],,signals,other,{},,,
+1,AWD00014cw,signals,26,3,,,,[],,date,21 Sep 1914,{},,,
+2,AWD00014cw,signals,26,5,,,,[],,signals,other,{},,,
+4,AWD00014d2,signals,27,3,,,,[],,date,21 Sep 1914,{},,,
+5,AWD00014d2,signals,27,4,,,,[],,signals,other,{},,,
+2,AWD00014dr,signals,28,2,,,,[],,date,21 Sep 1914,{},,,
+4,AWD00014dr,signals,28,4,,,,[],,signals,other,{},,,
+3,AWD00014eo,signals,29,2,,,,[],,date,21 Sep 1914,{},,,
+5,AWD00014eo,signals,29,4,,,,[],,signals,other,{},,,
+2,AWD00014cz,signals,30,3,,,,[],,date,21 Sep 1914,{},,,
+3,AWD00014cz,signals,30,2,,,,[],,signals,other,{},,,
+5,AWD00014cz,signals,30,2,,,,[],,signals,other,{},,,
+2,AWD00014cx,signals,31,2,,,,[],,date,21 Sep 1914,{},,,
+3,AWD00014do,signals,32,2,,,,[],,date,21 Sep 1914,{},,,
+5,AWD00014do,signals,32,3,,,,[],,signals,other,{},,,
+3,AWD00014dc,signals,33,2,,,,[],,date,21 Sep 1914,{},,,
+5,AWD00014dc,signals,33,3,,,,[],,signals,other,{},,,
+4,AWD00014d1,signals,34,2,,,,[],,date,21 Sep 1914,{},,,
+5,AWD00014d1,signals,34,3,,,,[],,signals,other,{},,,
+3,AWD00014dw,signals,35,2,,,,[],,date,21 Sep 1914,{},,,
+6,AWD00014dw,signals,35,2,,,,[],,place,Amiens San,"{""place""=>[""Amiens San""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+9,AWD00014dw,signals,35,2,,,,[],,signals,other,{},,,
+3,AWD00014dj,signals,36,2,,,,[],,date,21 Sep 1914,{},,,
+5,AWD00014dj,signals,36,2,,,,[],,signals,other,{},,,
+7,AWD00014dj,signals,36,2,,,,[],,signals,other,{},,,
+3,AWD00014dh,signals,37,2,,,,[],,date,21 Sep 1914,{},,,
+5,AWD00014dh,signals,37,5,,,,[],,signals,other,{},,,
+1,AWD00014d7,signals,38,7,,,,[],,person,General  Haig,"{""first""=>[""""], ""surname""=>[""Haig""], ""rank""=>[""General""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+2,AWD00014d7,signals,38,3,,,,[],,date,22 Sep 1914,{},,,
+5,AWD00014d7,signals,38,2,,,,[],,signals,other,{},,,
+6,AWD00014d7,signals,38,7,,,,[],,person,Captain  Mosley,"{""first""=>[""""], ""surname""=>[""Mosley""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+7,AWD00014d7,signals,38,7,,,,[],,person,Captain  O'Rorke,"{""first""=>[""""], ""surname""=>[""O'Rorke""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+10,AWD00014d7,signals,38,5,,,,[],,person,Brigadier General J Moore,"{""first""=>[""J""], ""surname""=>[""Moore""], ""rank""=>[""Brigadier General""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+2,AWD00014dl,signals,39,3,,,,[],,date,22 Sep 1914,{},,,
+3,AWD00014dl,signals,39,7,,,,[],,person,Captain  O'Rorke,"{""first""=>[""""], ""surname""=>[""O'Rorke""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+7,AWD00014dl,signals,39,3,,,,[],,signals,other,{},,,
+8,AWD00014dl,signals,39,3,,,,[],,time,0845AM,{},,,
+9,AWD00014dl,signals,39,5,,,,[],,person,Brigadier General J Moore,"{""first""=>[""J""], ""surname""=>[""Moore""], ""rank""=>[""Brigadier General""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,

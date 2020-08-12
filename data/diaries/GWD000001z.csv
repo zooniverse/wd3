@@ -1,0 +1,964 @@
+Order,Page,Page type,Page number,Count,DateTime,Date,Place,Lat/Lon,Time,Type,Label,Data,GeoID,GeoName,GeoCoords
+2,AWD0000aq1,diary,572,5,1917-09-01 00:00:00 UTC,1 Sep 1917,"","[0.0, 0.0]","",diaryDate,1 Sep 1917,"{""day""=>[""1""], ""month""=>[""Sep""], ""year""=>[""1917""]}",2985684,Pozières,"[2.72929, 50.04047]"
+4,AWD0000aq1,diary,572,4,1917-09-01 00:00:00 UTC,1 Sep 1917,Barossa Camp,"[0.0, 0.0]","",place,Barossa Camp,"{""place""=>[""Barossa Camp""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+7,AWD0000aq1,diary,572,4,1917-09-01 00:00:00 UTC,1 Sep 1917,Barossa Camp,"[0.0, 0.0]","",activity,training,{},,,
+8,AWD0000aq1,diary,572,4,1917-09-02 00:00:00 UTC,2 Sep 1917,Barossa Camp,"[0.0, 0.0]","",diaryDate,2 Sep 1917,"{""day""=>[""2""], ""month""=>[""Sep""], ""year""=>[""1917""]}",,,
+9,AWD0000aq1,diary,572,2,1917-09-02 00:00:00 UTC,2 Sep 1917,Barossa Camp,"[0.0, 0.0]","",place,Barossa Camp,"{""place""=>[""Barossa Camp""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+11,AWD0000aq1,diary,572,3,1917-09-02 00:00:00 UTC,2 Sep 1917,Barossa Camp,"[0.0, 0.0]","",domestic,religion,{},,,
+12,AWD0000aq1,diary,572,3,1917-09-02 10:15:00 UTC,2 Sep 1917,Barossa Camp,"[0.0, 0.0]",1015AM,time,1015AM,{},,,
+14,AWD0000aq1,diary,572,5,1917-09-02 10:15:00 UTC,2 Sep 1917,Barossa Camp,"[0.0, 0.0]",1015AM,activity,training,{},,,
+15,AWD0000aq1,diary,572,5,1917-09-03 00:00:00 UTC,3 Sep 1917,Barossa Camp,"[0.0, 0.0]","",diaryDate,3 Sep 1917,"{""day""=>[""3""], ""month""=>[""Sep""], ""year""=>[""1917""]}",,,
+19,AWD0000aq1,diary,572,2,1917-09-04 00:00:00 UTC,"4 Sep 1917, 1916",Barossa Camp,"[0.0, 0.0]","",diaryDate,"4 Sep 1917, 1916","{""day""=>[""4""], ""month""=>[""Sep""], ""year""=>[""1917"", ""1916""]}",,,
+20,AWD0000aq1,diary,572,2,1917-09-04 00:00:00 UTC,4 Sep 1917,Barossa Camp,"[0.0, 0.0]","",diaryDate,4 Sep 1917,"{""day""=>[""4""], ""month""=>[""Sep""], ""year""=>[""1917""]}",,,
+22,AWD0000aq1,diary,572,4,1917-09-04 00:00:00 UTC,4 Sep 1917,Barossa Camp,"[0.0, 0.0]","",activity,movement,{},,,
+23,AWD0000aq1,diary,572,2,1917-09-04 00:00:00 UTC,4 Sep 1917,Barossa Camp,"[0.0, 0.0]","",place,Barossa Camp,"{""place""=>[""Barossa Camp""], ""location""=>[""true"", ""false""], ""name""=>["""", ""Berles-au-Bois""], ""lat""=>["""", ""50.19772""], ""long""=>["""", ""2.62818""], ""id""=>["""", ""3033345""]}",,,
+24,AWD0000aq1,diary,572,4,1917-09-05 00:00:00 UTC,5 Sep 1917,Barossa Camp,"[0.0, 0.0]","",diaryDate,5 Sep 1917,"{""day""=>[""5""], ""month""=>[""Sep""], ""year""=>[""1917""]}",,,
+25,AWD0000aq1,diary,572,5,1917-09-05 00:00:00 UTC,5 Sep 1917,Berles-au-Bois,"[0.0, 0.0]","",place,Berles-au-Bois,"{""place""=>[""Berles-au-Bois""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3033345,Berles-au-Bois,"[2.62818, 50.19772]"
+27,AWD0000aq1,diary,572,3,1917-09-05 00:00:00 UTC,5 Sep 1917,Berles au bois,"[0.0, 0.0]","",place,Berles au bois,"{""place""=>[""Berles au bois""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3033345,Berles-au-Bois,"[2.62818, 50.19772]"
+29,AWD0000aq1,diary,572,3,1917-09-05 00:00:00 UTC,5 Sep 1917,Pammier,"[0.0, 0.0]","",place,Pammier,"{""place""=>[""Pammier""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+30,AWD0000aq1,diary,572,2,1917-09-05 00:00:00 UTC,5 Sep 1917,"Berles-Au-Bois, Berles-au-Bois","[0.0, 0.0]","",place,"Berles-Au-Bois, Berles-au-Bois","{""place""=>[""Berles-Au-Bois"", ""Berles-au-Bois""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3033345,Berles-au-Bois,"[2.62818, 50.19772]"
+33,AWD0000aq1,diary,572,4,1917-09-06 00:00:00 UTC,6 Sep 1917,"Berles-Au-Bois, Berles-au-Bois","[0.0, 0.0]","",diaryDate,6 Sep 1917,"{""day""=>[""6""], ""month""=>[""Sep""], ""year""=>[""1917""]}",3033345,Berles-au-Bois,"[2.62818, 50.19772]"
+35,AWD0000aq1,diary,572,3,1917-09-06 00:00:00 UTC,6 Sep 1917,"Berles-Au-Bois, Berles-au-Bois","[0.0, 0.0]","",domestic,inspections,{},3033345,Berles-au-Bois,"[2.62818, 50.19772]"
+38,AWD0000aq1,diary,572,4,1917-09-06 00:00:00 UTC,6 Sep 1917,"Berles-Au-Bois, Berles-au-Bois","[0.0, 0.0]","",person,Second Lieutenant W Fowler,"{""first""=>[""W""], ""surname""=>[""Fowler""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_sick""], ""unit""=>[""""]}",3033345,Berles-au-Bois,"[2.62818, 50.19772]"
+39,AWD0000aq1,diary,572,2,1916-09-05 00:00:00 UTC,5 Sep 1916,"Berles-Au-Bois, Berles-au-Bois","[0.0, 0.0]","",diaryDate,5 Sep 1916,"{""day""=>[""5""], ""month""=>[""Sep""], ""year""=>[""1916""]}",3033345,Berles-au-Bois,"[2.62818, 50.19772]"
+40,AWD0000aq1,diary,572,2,1916-09-05 00:00:00 UTC,5 Sep 1916,"Berles-Au-Bois, Berles-au-Bois","[0.0, 0.0]","",activity,training,{},3033345,Berles-au-Bois,"[2.62818, 50.19772]"
+41,AWD0000aq1,diary,572,3,1917-09-07 00:00:00 UTC,7 Sep 1917,"Berles-Au-Bois, Berles-au-Bois","[0.0, 0.0]","",diaryDate,7 Sep 1917,"{""day""=>[""7""], ""month""=>[""Sep""], ""year""=>[""1917""]}",3033345,Berles-au-Bois,"[2.62818, 50.19772]"
+44,AWD0000aq1,diary,572,4,1917-09-08 00:00:00 UTC,8 Sep 1917,"Berles-Au-Bois, Berles-au-Bois","[0.0, 0.0]","",diaryDate,8 Sep 1917,"{""day""=>[""8""], ""month""=>[""Sep""], ""year""=>[""1917""]}",3033345,Berles-au-Bois,"[2.62818, 50.19772]"
+45,AWD0000aq1,diary,572,3,1917-09-08 00:00:00 UTC,8 Sep 1917,"Berles-Au-Bois, Berles-au-Bois","[0.0, 0.0]","",domestic,parades,{},3033345,Berles-au-Bois,"[2.62818, 50.19772]"
+48,AWD0000aq1,diary,572,3,1917-09-09 00:00:00 UTC,9 Sep 1917,"Berles-Au-Bois, Berles-au-Bois","[0.0, 0.0]","",diaryDate,9 Sep 1917,"{""day""=>[""9""], ""month""=>[""Sep""], ""year""=>[""1917""]}",3033345,Berles-au-Bois,"[2.62818, 50.19772]"
+50,AWD0000aq1,diary,572,4,1917-09-09 00:00:00 UTC,9 Sep 1917,"Berles-Au-Bois, Berles-au-Bois","[0.0, 0.0]","",activity,training,{},3033345,Berles-au-Bois,"[2.62818, 50.19772]"
+51,AWD0000aq1,diary,572,2,1917-09-09 00:00:00 UTC,9 Sep 1917,"Berles-Au-Bois, Berles-au-Bois","[0.0, 0.0]","",domestic,other,{},3033345,Berles-au-Bois,"[2.62818, 50.19772]"
+53,AWD0000aq1,diary,572,5,1917-09-09 00:00:00 UTC,9 Sep 1917,"Berles-Au-Bois, Berles-au-Bois","[0.0, 0.0]","",person,Second Lieutenant B R Moore,"{""first""=>[""B R""], ""surname""=>[""Moore""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_sick""], ""unit""=>[""""]}",3033345,Berles-au-Bois,"[2.62818, 50.19772]"
+54,AWD0000aq1,diary,572,3,1917-09-14 00:00:00 UTC,14 Sep 1917,"Berles-Au-Bois, Berles-au-Bois","[0.0, 0.0]","",diaryDate,14 Sep 1917,"{""day""=>[""14""], ""month""=>[""Sep""], ""year""=>[""1917""]}",3033345,Berles-au-Bois,"[2.62818, 50.19772]"
+55,AWD0000aq1,diary,572,2,1916-09-11 00:00:00 UTC,"11 Sep 1916, 1917","Berles-Au-Bois, Berles-au-Bois","[0.0, 0.0]","",diaryDate,"11 Sep 1916, 1917","{""day""=>[""11""], ""month""=>[""Sep""], ""year""=>[""1916"", ""1917""]}",3033345,Berles-au-Bois,"[2.62818, 50.19772]"
+57,AWD0000aq1,diary,572,2,1916-09-11 00:00:00 UTC,"11 Sep 1916, 1917","Berles-Au-Bois, Berles-au-Bois","[0.0, 0.0]","",person,  ,"{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",3033345,Berles-au-Bois,"[2.62818, 50.19772]"
+58,AWD0000aq1,diary,572,3,1916-09-13 00:00:00 UTC,13 Sep 1916,"Berles-Au-Bois, Berles-au-Bois","[0.0, 0.0]","",diaryDate,13 Sep 1916,"{""day""=>[""13""], ""month""=>[""Sep""], ""year""=>[""1916""]}",3033345,Berles-au-Bois,"[2.62818, 50.19772]"
+60,AWD0000aq1,diary,572,4,1916-09-13 00:00:00 UTC,13 Sep 1916,"Berles-Au-Bois, Berles-au-Bois","[0.0, 0.0]","",person,Second Lieutenant R M C Smith,"{""first""=>[""R M C""], ""surname""=>[""Smith""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_sick""], ""unit""=>[""""]}",3033345,Berles-au-Bois,"[2.62818, 50.19772]"
+2,AWD0000at0,diary,573,2,,"13 Oct,Sep 1917, 1916","Berles-Au-Bois, Berles-au-Bois","[0.0, 0.0]","",diaryDate,"13 Oct,Sep 1917, 1916","{""day""=>[""13""], ""month""=>[""Oct"", ""Sep""], ""year""=>[""1917"", ""1916""]}",3033345,Berles-au-Bois,"[2.62818, 50.19772]"
+3,AWD0000at0,diary,573,4,,"13 Oct,Sep 1917, 1916","Berles-Au-Bois, Berles-au-Bois","[0.0, 0.0]","",activity,training,{},3033345,Berles-au-Bois,"[2.62818, 50.19772]"
+4,AWD0000at0,diary,573,4,1916-09-15 00:00:00 UTC,"15 Sep 1916, 1917","Berles-Au-Bois, Berles-au-Bois","[0.0, 0.0]","",diaryDate,"15 Sep 1916, 1917","{""day""=>[""15""], ""month""=>[""Sep""], ""year""=>[""1916"", ""1917""]}",3033345,Berles-au-Bois,"[2.62818, 50.19772]"
+5,AWD0000at0,diary,573,2,1916-09-15 00:00:00 UTC,"15 Sep 1916, 1917","Berles-Au-Bois, Berles-au-Bois","[0.0, 0.0]","",domestic,parades,{},3033345,Berles-au-Bois,"[2.62818, 50.19772]"
+7,AWD0000at0,diary,573,3,1916-09-15 00:00:00 UTC,"15 Sep 1916, 1917","Berles-Au-Bois, Berles-au-Bois","[0.0, 0.0]","",activity,training,{},3033345,Berles-au-Bois,"[2.62818, 50.19772]"
+13,AWD0000at0,diary,573,5,1917-09-16 00:00:00 UTC,16 Sep 1917,"Berles-Au-Bois, Berles-au-Bois","[0.0, 0.0]","",diaryDate,16 Sep 1917,"{""day""=>[""16""], ""month""=>[""Sep""], ""year""=>[""1917""]}",3033345,Berles-au-Bois,"[2.62818, 50.19772]"
+14,AWD0000at0,diary,573,4,1917-09-16 00:00:00 UTC,16 Sep 1917,"Berles-Au-Bois, Berles-au-Bois","[0.0, 0.0]","",domestic,religion,{},3033345,Berles-au-Bois,"[2.62818, 50.19772]"
+19,AWD0000at0,diary,573,2,1917-09-16 00:00:00 UTC,16 Sep 1917,"Berles-Au-Bois, Berles-au-Bois","[0.0, 0.0]","",domestic,sport,{},3033345,Berles-au-Bois,"[2.62818, 50.19772]"
+21,AWD0000at0,diary,573,5,1917-09-17 00:00:00 UTC,17 Sep 1917,"Berles-Au-Bois, Berles-au-Bois","[0.0, 0.0]","",diaryDate,17 Sep 1917,"{""day""=>[""17""], ""month""=>[""Sep""], ""year""=>[""1917""]}",3033345,Berles-au-Bois,"[2.62818, 50.19772]"
+23,AWD0000at0,diary,573,6,1917-09-17 00:00:00 UTC,17 Sep 1917,"Berles-Au-Bois, Berles-au-Bois","[0.0, 0.0]","",activity,training,{},3033345,Berles-au-Bois,"[2.62818, 50.19772]"
+24,AWD0000at0,diary,573,2,1917-09-17 00:00:00 UTC,17 Sep 1917,"Berles-Au-Bois, Berles-au-Bois","[0.0, 0.0]","",domestic,sport,{},3033345,Berles-au-Bois,"[2.62818, 50.19772]"
+28,AWD0000at0,diary,573,6,1917-09-18 00:00:00 UTC,18 Sep 1917,"Berles-Au-Bois, Berles-au-Bois","[0.0, 0.0]","",diaryDate,18 Sep 1917,"{""day""=>[""18""], ""month""=>[""Sep""], ""year""=>[""1917""]}",3033345,Berles-au-Bois,"[2.62818, 50.19772]"
+29,AWD0000at0,diary,573,2,1917-09-18 00:00:00 UTC,18 Sep 1917,"Berles au Bois, Berles-au-bois","[0.0, 0.0]","",place,"Berles au Bois, Berles-au-bois","{""place""=>[""Berles au Bois"", ""Berles-au-bois""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3033345,Berles-au-Bois,"[2.62818, 50.19772]"
+31,AWD0000at0,diary,573,5,1917-09-18 00:00:00 UTC,18 Sep 1917,"Berles au Bois, Berles-au-bois","[0.0, 0.0]","",activity,movement,{},3033345,Berles-au-Bois,"[2.62818, 50.19772]"
+32,AWD0000at0,diary,573,2,1917-09-18 00:00:00 UTC,18 Sep 1917,Mondicourt,"[0.0, 0.0]","",place,Mondicourt,"{""place""=>[""Mondicourt""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2993355,Mondicourt,"[2.46198, 50.17196]"
+34,AWD0000at0,diary,573,4,1917-09-19 00:00:00 UTC,19 Sep 1917,Mondicourt,"[0.0, 0.0]","",diaryDate,19 Sep 1917,"{""day""=>[""19""], ""month""=>[""Sep""], ""year""=>[""1917""]}",2993355,Mondicourt,"[2.46198, 50.17196]"
+36,AWD0000at0,diary,573,2,1917-09-19 00:00:00 UTC,19 Sep 1917,Mondicourt,"[0.0, 0.0]","",domestic,inspections,{},2993355,Mondicourt,"[2.46198, 50.17196]"
+40,AWD0000at0,diary,573,4,1917-09-20 00:00:00 UTC,20 Sep 1917,Mondicourt,"[0.0, 0.0]","",diaryDate,20 Sep 1917,"{""day""=>[""20""], ""month""=>[""Sep""], ""year""=>[""1917""]}",2993355,Mondicourt,"[2.46198, 50.17196]"
+41,AWD0000at0,diary,573,2,1917-09-20 00:00:00 UTC,20 Sep 1917,Mondicourt,"[0.0, 0.0]","",place,Prattle Camp,"{""place""=>[""Prattle Camp""], ""location""=>[""true"", ""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2993355,Mondicourt,"[2.46198, 50.17196]"
+42,AWD0000at0,diary,573,3,1917-09-20 00:00:00 UTC,20 Sep 1917,Mondicourt,"[0.0, 0.0]","",activity,movement,{},2993355,Mondicourt,"[2.46198, 50.17196]"
+44,AWD0000at0,diary,573,4,1917-09-20 00:00:00 UTC,20 Sep 1917,Mondicourt,"[0.0, 0.0]","",place,Mondicourt,"{""place""=>[""Mondicourt""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2993355,Mondicourt,"[2.46198, 50.17196]"
+45,AWD0000at0,diary,573,3,1917-09-20 00:00:00 UTC,20 Sep 1917,Mondicourt,"[0.0, 0.0]","",place,Belgium,"{""place""=>[""Belgium""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2993355,Mondicourt,"[2.46198, 50.17196]"
+47,AWD0000at0,diary,573,4,1917-09-20 00:00:00 UTC,20 Sep 1917,Mondicourt,"[0.0, 0.0]","",place,Hopoutre,"{""place""=>[""Hopoutre""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2993355,Mondicourt,"[2.46198, 50.17196]"
+48,AWD0000at0,diary,573,4,1917-09-20 00:00:00 UTC,20 Sep 1917,Mondicourt,"[0.0, 0.0]","",place,Poperinghe,"{""place""=>[""Poperinghe""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2993355,Mondicourt,"[2.46198, 50.17196]"
+50,AWD0000at0,diary,573,2,1917-09-20 00:00:00 UTC,20 Sep 1917,Mondicourt,"[0.0, 0.0]","",place,Prattle,"{""place""=>[""Prattle""], ""location""=>[""false"", ""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2993355,Mondicourt,"[2.46198, 50.17196]"
+53,AWD0000at0,diary,573,4,1917-09-20 00:00:00 UTC,20 Sep 1917,Prattle Camp,"[0.0, 0.0]","",place,Prattle Camp,"{""place""=>[""Prattle Camp""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+2,AWD0000aqo,diary,574,2,1917-09-20 00:00:00 UTC,20 Sep 1917,Prattle Camp,"[0.0, 0.0]","",domestic,hygiene,{},,,
+3,AWD0000aqo,diary,574,4,1917-09-21 00:00:00 UTC,21 Sep 1917,Prattle Camp,"[0.0, 0.0]","",diaryDate,21 Sep 1917,"{""day""=>[""21""], ""month""=>[""Sep""], ""year""=>[""1917""]}",,,
+6,AWD0000aqo,diary,574,2,1917-09-21 00:00:00 UTC,21 Sep 1917,Prattle Camp,"[0.0, 0.0]","",activity,other,{},,,
+7,AWD0000aqo,diary,574,5,1917-09-22 00:00:00 UTC,22 Sep 1917,Prattle Camp,"[0.0, 0.0]","",diaryDate,22 Sep 1917,"{""day""=>[""22""], ""month""=>[""Sep""], ""year""=>[""1917""]}",,,
+9,AWD0000aqo,diary,574,5,1917-09-22 00:00:00 UTC,22 Sep 1917,Prattle Camp,"[0.0, 0.0]","",activity,training,{},,,
+10,AWD0000aqo,diary,574,5,1917-09-23 00:00:00 UTC,23 Sep 1917,Prattle Camp,"[0.0, 0.0]","",diaryDate,23 Sep 1917,"{""day""=>[""23""], ""month""=>[""Sep""], ""year""=>[""1917""]}",,,
+12,AWD0000aqo,diary,574,4,1917-09-23 00:00:00 UTC,23 Sep 1917,Prattle Camp,"[0.0, 0.0]","",domestic,religion,{},,,
+13,AWD0000aqo,diary,574,2,1917-09-23 10:00:00 UTC,23 Sep 1917,Prattle Camp,"[0.0, 0.0]",1000AM,time,1000AM,{},,,
+14,AWD0000aqo,diary,574,2,1917-09-23 10:00:00 UTC,23 Sep 1917,Prattle Camp,"[0.0, 0.0]",1000AM,activity,training,{},,,
+15,AWD0000aqo,diary,574,5,1917-09-24 00:00:00 UTC,24 Sep 1917,Prattle Camp,"[0.0, 0.0]","",diaryDate,24 Sep 1917,"{""day""=>[""24""], ""month""=>[""Sep""], ""year""=>[""1917""]}",,,
+16,AWD0000aqo,diary,574,4,1917-09-24 00:00:00 UTC,24 Sep 1917,Prattle Camp,"[0.0, 0.0]","",activity,training,{},,,
+17,AWD0000aqo,diary,574,4,1917-09-24 00:00:00 UTC,24 Sep 1917,Prattle Camp,"[0.0, 0.0]","",person,Second Lieutenant N D Evans,"{""first""=>[""N D""], ""surname""=>[""Evans""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_posted""], ""unit""=>[""2nd Lancs. Fus."", ""Posted to 2nd Lancs Fus."", ""2nd Lancashire Fusiliers"", ""2Bn Lancashire Fusiliers""]}",,,
+19,AWD0000aqo,diary,574,5,1917-09-26 00:00:00 UTC,26 Sep 1917,Prattle Camp,"[0.0, 0.0]","",diaryDate,26 Sep 1917,"{""day""=>[""26""], ""month""=>[""Sep""], ""year""=>[""1917""]}",,,
+20,AWD0000aqo,diary,574,3,1917-09-26 00:00:00 UTC,26 Sep 1917,Prattle Camp,"[0.0, 0.0]","",domestic,hygiene,{},,,
+22,AWD0000aqo,diary,574,4,1917-09-26 00:00:00 UTC,26 Sep 1917,Prattle Camp,"[0.0, 0.0]","",person,Second Lieutenant F C Lillywhite,"{""first""=>[""F C""], ""surname""=>[""Lillywhite""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",,,
+24,AWD0000aqo,diary,574,2,1917-09-27 00:00:00 UTC,27 Sep 1917,Prattle Camp,"[0.0, 0.0]","",diaryDate,27 Sep 1917,"{""day""=>[""27""], ""month""=>[""Sep""], ""year""=>[""1917""]}",,,
+25,AWD0000aqo,diary,574,3,1917-09-27 00:00:00 UTC,27 Sep 1917,Prattle Camp,"[0.0, 0.0]","",diaryDate,27 Sep 1917,"{""day""=>[""27""], ""month""=>[""Sep""], ""year""=>[""1917""]}",,,
+26,AWD0000aqo,diary,574,3,1917-09-27 00:00:00 UTC,27 Sep 1917,Prattle Camp,"[0.0, 0.0]","",activity,training,{},,,
+28,AWD0000aqo,diary,574,4,1917-09-27 00:00:00 UTC,27 Sep 1917,Prattle Camp,"[0.0, 0.0]","",domestic,inspections,{},,,
+29,AWD0000aqo,diary,574,2,1917-09-27 00:00:00 UTC,27 Sep 1917,Prattle Camp,"[0.0, 0.0]","",person,"Major General T G Matheson, Mattison","{""first""=>[""T G""], ""surname""=>[""Matheson"", ""Mattison""], ""rank""=>[""Major General""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""4th Dividion"", ""4th Division""]}",,,
+32,AWD0000aqo,diary,574,2,1917-09-28 00:00:00 UTC,28 Sep 1917,Prattle Camp,"[0.0, 0.0]","",diaryDate,28 Sep 1917,"{""day""=>[""28""], ""month""=>[""Sep""], ""year""=>[""1917""]}",,,
+33,AWD0000aqo,diary,574,4,1917-09-28 00:00:00 UTC,28 Sep 1917,Redan Camp,"[0.0, 0.0]","",place,Redan Camp,"{""place""=>[""Redan Camp""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+34,AWD0000aqo,diary,574,4,1917-09-28 00:00:00 UTC,28 Sep 1917,Redan Camp,"[0.0, 0.0]","",diaryDate,28 Sep 1917,"{""day""=>[""28""], ""month""=>[""Sep""], ""year""=>[""1917""]}",,,
+35,AWD0000aqo,diary,574,4,1917-09-28 00:00:00 UTC,28 Sep 1917,Redan Camp,"[0.0, 0.0]","",activity,movement,{},,,
+36,AWD0000aqo,diary,574,4,1917-09-28 00:00:00 UTC,28 Sep 1917,Redan Camp,"[0.0, 0.0]","",place,Proven,"{""place""=>[""Proven""], ""location""=>[""true"", ""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+37,AWD0000aqo,diary,574,2,1917-09-28 00:00:00 UTC,28 Sep 1917,Redan Camp,"[0.0, 0.0]","",activity,movement,{},,,
+39,AWD0000aqo,diary,574,3,1917-09-28 00:00:00 UTC,28 Sep 1917,Elverdinghe,"[0.0, 0.0]","",place,Elverdinghe,"{""place""=>[""Elverdinghe""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2795100,Ieper,"[2.88569, 50.85114]"
+41,AWD0000aqo,diary,574,3,1917-09-28 00:00:00 UTC,28 Sep 1917,Redan Camp,"[0.0, 0.0]","",place,Redan Camp,"{""place""=>[""Redan Camp""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+50,AWD0000aqo,diary,574,2,1917-09-28 00:00:00 UTC,28 Sep 1917,Redan Camp,"[0.0, 0.0]","",domestic,sport,{},,,
+51,AWD0000aqo,diary,574,5,1917-09-29 00:00:00 UTC,29 Sep 1917,Redan Camp,"[0.0, 0.0]","",diaryDate,29 Sep 1917,"{""day""=>[""29""], ""month""=>[""Sep""], ""year""=>[""1917""]}",,,
+52,AWD0000aqo,diary,574,4,1917-09-29 00:00:00 UTC,29 Sep 1917,Redan Camp,"[0.0, 0.0]","",activity,training,{},,,
+55,AWD0000aqo,diary,574,5,1917-09-30 00:00:00 UTC,30 Sep 1917,Redan Camp,"[0.0, 0.0]","",diaryDate,30 Sep 1917,"{""day""=>[""30""], ""month""=>[""Sep""], ""year""=>[""1917""]}",,,
+56,AWD0000aqo,diary,574,3,1917-09-30 00:00:00 UTC,30 Sep 1917,Redan Camp,"[0.0, 0.0]","",domestic,religion,{},,,
+57,AWD0000aqo,diary,574,2,1917-09-30 00:00:00 UTC,30 Sep 1917,Redan Camp,"[0.0, 0.0]","",domestic,parades,{},,,
+58,AWD0000aqo,diary,574,2,1917-09-30 00:00:00 UTC,30 Sep 1917,Redan Camp,"[0.0, 0.0]","",activity,other,{},,,
+6,AWD0000ato,diary,575,5,1917-09-30 00:00:00 UTC,30 Sep 1917,Redan Camp,"[0.0, 0.0]","",person,Sergeant W Cummins,"{""first""=>[""W""], ""surname""=>[""Cummins""], ""rank""=>[""Sergeant""], ""number""=>[""""], ""reason""=>[""promotion""], ""unit""=>[""""]}",,,
+9,AWD0000ato,diary,575,3,1917-09-30 00:00:00 UTC,30 Sep 1917,Redan Camp,"[0.0, 0.0]","",activity,strength,{},,,
+12,AWD0000ato,diary,575,4,1917-09-30 00:00:00 UTC,30 Sep 1917,Redan Camp,"[0.0, 0.0]","",casualties,sick: 34,{},,,
+14,AWD0000ato,diary,575,2,1917-09-30 00:00:00 UTC,30 Sep 1917,Redan Camp,"[0.0, 0.0]","",diaryDate,30 Sep 1917,"{""day""=>[""30""], ""month""=>[""Sep""], ""year""=>[""1917""]}",,,
+18,AWD0000ato,diary,575,6,1917-09-30 00:00:00 UTC,30 Sep 1917,Redan Camp,"[0.0, 0.0]","",person,Second Lieutenant L B Leech,"{""first""=>[""L B""], ""surname""=>[""Leech""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""promotion""], ""unit""=>[""""]}",,,
+19,AWD0000ato,diary,575,5,1917-09-30 00:00:00 UTC,30 Sep 1917,Redan Camp,"[0.0, 0.0]","",person,Second Lieutenant N C Denton,"{""first""=>[""N C""], ""surname""=>[""Denton""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""promotion""], ""unit""=>[""""]}",,,
+21,AWD0000ato,diary,575,5,1917-09-30 00:00:00 UTC,30 Sep 1917,Redan Camp,"[0.0, 0.0]","",person,Second Lieutenant D G M Fraser-Luchie,"{""first""=>[""D G M""], ""surname""=>[""Fraser-Luchie""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""promotion""], ""unit""=>[""""]}",,,
+22,AWD0000ato,diary,575,2,1917-09-30 00:00:00 UTC,30 Sep 1917,Redan Camp,"[0.0, 0.0]","",person,"Lieutenant Colonel ,R Fellows ?, Fellows","{""first""=>["""", ""R""], ""surname""=>[""Fellows ?"", ""Fellows""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""author"", ""other""], ""unit""=>[""Commanding 1st Battalion Rifle Brigade"", ""1st Bn The Rifle Brigade""]}",,,
+24,AWD0000ato,diary,575,3,1917-09-30 00:00:00 UTC,30 Sep 1917,Redan Camp,"[0.0, 0.0]","",person,"Lieutenant Colonel,,Lieutenant  ","{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""Lieutenant Colonel"", """", ""Lieutenant""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+25,AWD0000ato,diary,575,5,1917-09-30 00:00:00 UTC,30 Sep 1917,Redan Camp,"[0.0, 0.0]","",person,Second Lieutenant W L Shaw,"{""first""=>[""W L""], ""surname""=>[""Shaw""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""promotion""], ""unit""=>[""""]}",,,
+26,AWD0000ato,diary,575,5,1917-09-30 00:00:00 UTC,30 Sep 1917,Redan Camp,"[0.0, 0.0]","",person,Second Lieutenant G W Glover DSO,"{""first""=>[""G W""], ""surname""=>[""Glover DSO""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""promotion""], ""unit""=>[""""]}",,,
+27,AWD0000ato,diary,575,6,1917-09-30 00:00:00 UTC,30 Sep 1917,Redan Camp,"[0.0, 0.0]","",person,Second Lieutenant L H Adams,"{""first""=>[""L H""], ""surname""=>[""Adams""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""promotion""], ""unit""=>[""""]}",,,
+3,AWD0000aso,orders,576,2,,,,[],,orders,attack,{},,,
+4,AWD0000aso,orders,576,2,,,,[],,orders,move,{},,,
+5,AWD0000aso,orders,576,4,,,,[],,date,30 Sep 1917,{},,,
+6,AWD0000aso,orders,576,2,,,,[],,date,30 Sep 1916,{},,,
+2,AWD0000atc,report,577,2,,,,[],,title,Captured War Material,{},,,
+5,AWD0000atc,report,577,2,,,,[],,date,27 Sep 1917,{},,,
+4,AWD0000aqj,other,578,2,,,,[],,date,23 Sep 1917,{},,,
+4,AWD0000apw,other,580,2,,,,[],,reference,EAGLE TR.,{},,,
+5,AWD0000apw,other,580,2,,,,[],,reference,10th RB,{},,,
+4,AWD0000aqm,orders,581,5,,,,[],,orders,move,{},,,
+6,AWD0000aqm,orders,581,2,,,,[],,orders,move,{},,,
+6,AWD0000aqp,orders,582,5,,,,[],,date,30 Sep 1917,{},,,
+5,AWD0000aro,orders,583,2,,,,[],,orders,move,{},,,
+12,AWD0000aro,orders,583,2,,,,[],,unit,1st Somerset Light Infantry,"{""name""=>[""1st Somerset Light Infantry""], ""context""=>[""joined""]}",,,
+6,AWD0000aq6,orders,584,3,,,,[],,person,Lieutenant Colonel R T Fellowes,"{""first""=>[""R T""], ""surname""=>[""Fellowes""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>["""", ""1st Battalion, The Rifle Brigade"", ""1st Bn Rifle Brigade""]}",,,
+10,AWD0000aq6,orders,584,2,,,,[],,date,30 Sep 1917,{},,,
+19,AWD0000aq6,orders,584,2,,,,[],,gridRef,u 93 b 8 0,{},,,
+1,AWD0000asy,orders,585,2,,,,[],,orders,other,{},,,
+7,AWD0000asy,orders,585,3,,,,[],,date,30 Sep 1917,{},,,
+21,AWD0000asy,orders,585,2,,,,[],,person,"Captain  Dawson, Danson","{""first""=>[""""], ""surname""=>[""Dawson"", ""Danson""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>["""", ""1st Btn Rifle Brigade""]}",,,
+2,AWD0000aq2,orders,586,3,,,,[],,orders,other,{},,,
+1,AWD0000ass,diary,587,7,1917-10-01 00:00:00 UTC,1 Oct 1917,Redan Camp,"[0.0, 0.0]","",diaryDate,1 Oct 1917,"{""day""=>[""1""], ""month""=>[""Oct""], ""year""=>[""1917""]}",,,
+2,AWD0000ass,diary,587,6,1917-10-01 00:00:00 UTC,1 Oct 1917,Redan Camp,"[0.0, 0.0]","",person,  ,"{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""The Kings Own Reg""]}",,,
+3,AWD0000ass,diary,587,4,1917-10-01 00:00:00 UTC,1 Oct 1917,Redan Camp,"[0.0, 0.0]","",diaryDate,1 Oct 1917,"{""day""=>[""1""], ""month""=>[""Oct""], ""year""=>[""1917""]}",,,
+4,AWD0000ass,diary,587,5,1917-10-01 00:00:00 UTC,1 Oct 1917,Redan Camp,"[0.0, 0.0]","",place,Langemark ,"{""place""=>[""Langemark ""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+6,AWD0000ass,diary,587,8,1917-10-01 00:00:00 UTC,1 Oct 1917,Redan Camp,"[0.0, 0.0]","",place,Langemark ,"{""place""=>[""Langemark ""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+7,AWD0000ass,diary,587,2,1917-10-01 00:00:00 UTC,1 Oct 1917,Redan Camp,"[0.0, 0.0]","",reference,Appendix I,{},,,
+8,AWD0000ass,diary,587,6,1917-10-01 00:00:00 UTC,1 Oct 1917,Langemark,"[0.0, 0.0]","",place,Langemark,"{""place""=>[""Langemark""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2793392,Langemark,"[2.91965, 50.9131]"
+9,AWD0000ass,diary,587,2,1917-10-01 00:00:00 UTC,1 Oct 1917,Langemark,"[0.0, 0.0]","",unit,"1st, Bn","{""name""=>[""1st"", ""Bn""], ""context""=>[""relieved_by"", ""relieved""]}",2793392,Langemark,"[2.91965, 50.9131]"
+10,AWD0000ass,diary,587,2,1917-10-01 00:00:00 UTC,1 Oct 1917,Langemark,"[0.0, 0.0]","",activity,movement,{},2793392,Langemark,"[2.91965, 50.9131]"
+14,AWD0000ass,diary,587,8,1917-10-01 00:00:00 UTC,1 Oct 1917,Langemark,"[0.0, 0.0]","",reference,Appendix 1,{},2793392,Langemark,"[2.91965, 50.9131]"
+16,AWD0000ass,diary,587,2,1917-10-01 00:00:00 UTC,1 Oct 1917,Langemark,"[0.0, 0.0]","",activity,line,{},2793392,Langemark,"[2.91965, 50.9131]"
+17,AWD0000ass,diary,587,10,1917-10-02 00:00:00 UTC,2 Oct 1917,Langemark,"[0.0, 0.0]","",diaryDate,2 Oct 1917,"{""day""=>[""2""], ""month""=>[""Oct""], ""year""=>[""1917""]}",2793392,Langemark,"[2.91965, 50.9131]"
+18,AWD0000ass,diary,587,2,1917-10-02 00:00:00 UTC,2 Oct 1917,Langemark,"[0.0, 0.0]","",activity,fire,{},2793392,Langemark,"[2.91965, 50.9131]"
+19,AWD0000ass,diary,587,6,1917-10-02 00:00:00 UTC,2 Oct 1917,Langemark,"[0.0, 0.0]","",activity,enemy_activity,{},2793392,Langemark,"[2.91965, 50.9131]"
+21,AWD0000ass,diary,587,10,1917-10-03 00:00:00 UTC,3 Oct 1917,Langemark,"[0.0, 0.0]","",diaryDate,3 Oct 1917,"{""day""=>[""3""], ""month""=>[""Oct""], ""year""=>[""1917""]}",2793392,Langemark,"[2.91965, 50.9131]"
+27,AWD0000ass,diary,587,6,1917-10-03 00:00:00 UTC,3 Oct 1917,Langemark,"[0.0, 0.0]","",person,  ,"{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""1st Hampshire Regiment""]}",2793392,Langemark,"[2.91965, 50.9131]"
+30,AWD0000ass,diary,587,3,1917-10-03 00:00:00 UTC,3 Oct 1917,Candle Trench,"[0.0, 0.0]","",place,Candle Trench,"{""place""=>[""Candle Trench""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+32,AWD0000ass,diary,587,2,1917-10-03 00:00:00 UTC,3 Oct 1917,Candle Trench,"[0.0, 0.0]","",reference,Appendix II,{},,,
+39,AWD0000ass,diary,587,7,1917-10-03 00:00:00 UTC,3 Oct 1917,Candle Trench,"[0.0, 0.0]","",reference,Appendix 2,{},,,
+40,AWD0000ass,diary,587,3,1917-10-03 00:00:00 UTC,3 Oct 1917,Candle Trench,"[0.0, 0.0]","",place,Jolie Farm,"{""place""=>[""Jolie Farm""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+41,AWD0000ass,diary,587,2,1917-10-03 00:00:00 UTC,3 Oct 1917,Candle Trench,"[0.0, 0.0]","",gridRef,C 9 a 25 80,{},,,
+44,AWD0000ass,diary,587,10,1917-10-04 00:00:00 UTC,4 Oct 1917,Candle Trench,"[0.0, 0.0]","",diaryDate,4 Oct 1917,"{""day""=>[""4""], ""month""=>[""Oct""], ""year""=>[""1917""]}",,,
+45,AWD0000ass,diary,587,8,1917-10-04 06:00:00 UTC,4 Oct 1917,Candle Trench,"[0.0, 0.0]",0600AM,time,0600AM,{},,,
+46,AWD0000ass,diary,587,11,1917-10-04 06:00:00 UTC,4 Oct 1917,Candle Trench,"[0.0, 0.0]",0600AM,activity,attack,{},,,
+48,AWD0000ass,diary,587,2,1917-10-04 06:00:00 UTC,4 Oct 1917,Candle Trench,"[0.0, 0.0]",0600AM,reference,Appendix III,{},,,
+49,AWD0000ass,diary,587,7,1917-10-04 06:00:00 UTC,4 Oct 1917,Candle Trench,"[0.0, 0.0]",0600AM,reference,Appendix 3,{},,,
+51,AWD0000ass,diary,587,7,1917-10-05 00:00:00 UTC,5 Oct 1917,Candle Trench,"[0.0, 0.0]","",diaryDate,5 Oct 1917,"{""day""=>[""5""], ""month""=>[""Oct""], ""year""=>[""1917""]}",,,
+52,AWD0000ass,diary,587,2,1917-10-05 00:00:00 UTC,5 Oct 1917,Candle Trench,"[0.0, 0.0]","",reference,Appendix IV,{},,,
+53,AWD0000ass,diary,587,3,1917-10-05 00:00:00 UTC,5 Oct 1917,Candle Trench,"[0.0, 0.0]","",diaryDate,5 Oct 1917,"{""day""=>[""5""], ""month""=>[""Oct""], ""year""=>[""1917""]}",,,
+54,AWD0000ass,diary,587,2,1917-10-05 00:00:00 UTC,5 Oct 1917,Candle Trench,"[0.0, 0.0]","",activity,movement,{},,,
+56,AWD0000ass,diary,587,5,1917-10-05 00:00:00 UTC,5 Oct 1917,Candle Trench,"[0.0, 0.0]","",person,  ,"{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""1st Hampshire Regiment""]}",,,
+59,AWD0000ass,diary,587,7,1917-10-05 00:00:00 UTC,5 Oct 1917,Candle Trench,"[0.0, 0.0]","",reference,Appendix 4,{},,,
+62,AWD0000ass,diary,587,5,1917-10-05 00:00:00 UTC,5 Oct 1917,Candle Trench,"[0.0, 0.0]","",activity,line,{},,,
+63,AWD0000ass,diary,587,7,1917-10-05 00:00:00 UTC,5 Oct 1917,Candle Trench,"[0.0, 0.0]","",person,  ,"{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""B Company""]}",,,
+64,AWD0000ass,diary,587,2,1917-10-05 00:00:00 UTC,5 Oct 1917,Candle Trench,"[0.0, 0.0]","",activity,line,{},,,
+65,AWD0000ass,diary,587,10,1917-10-06 00:00:00 UTC,6 Oct 1917,Candle Trench,"[0.0, 0.0]","",diaryDate,6 Oct 1917,"{""day""=>[""6""], ""month""=>[""Oct""], ""year""=>[""1917""]}",,,
+66,AWD0000ass,diary,587,5,1917-10-06 00:00:00 UTC,6 Oct 1917,Candle Trench,"[0.0, 0.0]","",person,  ,"{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""Ist Warwick Regiment""]}",,,
+71,AWD0000ass,diary,587,3,1917-10-06 00:00:00 UTC,6 Oct 1917,Candle Trench,"[0.0, 0.0]","",place,19 Metre Hill,"{""place""=>[""19 Metre Hill""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+73,AWD0000ass,diary,587,5,1917-10-07 00:00:00 UTC,7 Oct 1917,Candle Trench,"[0.0, 0.0]","",diaryDate,7 Oct 1917,"{""day""=>[""7""], ""month""=>[""Oct""], ""year""=>[""1917""]}",,,
+74,AWD0000ass,diary,587,7,1917-10-07 00:00:00 UTC,7 Oct 1917,Candle Trench,"[0.0, 0.0]","",person,  ,"{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""2nd Essex Regiment""]}",,,
+75,AWD0000ass,diary,587,5,1917-10-07 00:00:00 UTC,7 Oct 1917,Candle Trench,"[0.0, 0.0]","",diaryDate,7 Oct 1917,"{""day""=>[""7""], ""month""=>[""Oct""], ""year""=>[""1917""]}",,,
+76,AWD0000ass,diary,587,6,1917-10-07 00:00:00 UTC,7 Oct 1917,Candle Trench,"[0.0, 0.0]","",person,  ,"{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""2nd Lancashire Fusiliers""]}",,,
+77,AWD0000ass,diary,587,6,1917-10-07 00:00:00 UTC,7 Oct 1917,Candle Trench,"[0.0, 0.0]","",reference,Appendix 5,{},,,
+79,AWD0000ass,diary,587,2,1917-10-07 00:00:00 UTC,7 Oct 1917,Candle Trench,"[0.0, 0.0]","",activity,movement,{},,,
+82,AWD0000ass,diary,587,2,1917-10-07 00:00:00 UTC,7 Oct 1917,Candle Trench,"[0.0, 0.0]","",unit,"2nd Essex Reet, 2nd Essex Regt","{""name""=>[""2nd Essex Reet"", ""2nd Essex Regt""], ""context""=>[""relieved"", ""relieved_by""]}",,,
+84,AWD0000ass,diary,587,3,1917-10-07 00:00:00 UTC,7 Oct 1917,Candle Trench,"[0.0, 0.0]","",unit,2nd Lancashire Fusiliers,"{""name""=>[""2nd Lancashire Fusiliers""], ""context""=>[""relieved""]}",,,
+85,AWD0000ass,diary,587,2,1917-10-07 00:00:00 UTC,7 Oct 1917,Candle Trench,"[0.0, 0.0]","",activity,withdraw,{},,,
+87,AWD0000ass,diary,587,5,1917-10-08 00:00:00 UTC,8 Oct 1917,Candle Trench,"[0.0, 0.0]","",diaryDate,8 Oct 1917,"{""day""=>[""8""], ""month""=>[""Oct""], ""year""=>[""1917""]}",,,
+88,AWD0000ass,diary,587,4,1917-10-08 00:00:00 UTC,8 Oct 1917,Candle Trench,"[0.0, 0.0]","",place,Redan Camp,"{""place""=>[""Redan Camp""], ""location""=>[""true"", ""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+91,AWD0000ass,diary,587,3,1917-10-08 00:00:00 UTC,8 Oct 1917,Candle Trench,"[0.0, 0.0]","",place,Redan,"{""place""=>[""Redan""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+92,AWD0000ass,diary,587,5,1917-10-08 00:00:00 UTC,8 Oct 1917,Candle Trench,"[0.0, 0.0]","",diaryDate,8 Oct 1917,"{""day""=>[""8""], ""month""=>[""Oct""], ""year""=>[""1917""]}",,,
+93,AWD0000ass,diary,587,4,1917-10-08 00:00:00 UTC,8 Oct 1917,Redan Camp,"[0.0, 0.0]","",place,Redan Camp,"{""place""=>[""Redan Camp""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+96,AWD0000ass,diary,587,3,1917-10-08 00:00:00 UTC,8 Oct 1917,Redan Camp,"[0.0, 0.0]","",activity,other,{},,,
+97,AWD0000ass,diary,587,10,1917-10-09 00:00:00 UTC,9 Oct 1917,Redan Camp,"[0.0, 0.0]","",diaryDate,9 Oct 1917,"{""day""=>[""9""], ""month""=>[""Oct""], ""year""=>[""1917""]}",,,
+99,AWD0000ass,diary,587,2,1917-10-09 05:20:00 UTC,9 Oct 1917,Redan Camp,"[0.0, 0.0]",0520AM,time,0520AM,{},,,
+100,AWD0000ass,diary,587,9,1917-10-09 05:20:00 UTC,9 Oct 1917,Redan Camp,"[0.0, 0.0]",0520AM,activity,other,{},,,
+101,AWD0000ass,diary,587,11,1917-10-10 00:00:00 UTC,10 Oct 1917,Redan Camp,"[0.0, 0.0]","",diaryDate,10 Oct 1917,"{""day""=>[""10""], ""month""=>[""Oct""], ""year""=>[""1917""]}",,,
+103,AWD0000ass,diary,587,2,1917-10-10 00:00:00 UTC,10 Oct 1917,Redan Camp,"[0.0, 0.0]","",activity,movement,{},,,
+106,AWD0000ass,diary,587,4,1917-10-10 00:00:00 UTC,10 Oct 1917,Redan Camp,"[0.0, 0.0]","",place,Candle Trench,"{""place""=>[""Candle Trench""], ""location""=>[""true"", ""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+1,AWD0000asw,diary,588,9,1917-10-11 00:00:00 UTC,11 Oct 1917,Redan Camp,"[0.0, 0.0]","",diaryDate,11 Oct 1917,"{""day""=>[""11""], ""month""=>[""Oct""], ""year""=>[""1917""]}",,,
+3,AWD0000asw,diary,588,8,1917-10-11 00:00:00 UTC,11 Oct 1917,Candle Trench,"[0.0, 0.0]","",place,Candle Trench,"{""place""=>[""Candle Trench""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+5,AWD0000asw,diary,588,3,1917-10-11 00:00:00 UTC,11 Oct 1917,Candle Trench,"[0.0, 0.0]","",place,Jolie Farm,"{""place""=>[""Jolie Farm""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+9,AWD0000asw,diary,588,3,1917-10-11 00:00:00 UTC,11 Oct 1917,Candle Trench,"[0.0, 0.0]","",unit,"1Bn Essex Regt, 1st Essex Regt, 1st Essex Rgt","{""name""=>[""1Bn Essex Regt"", ""1st Essex Regt"", ""1st Essex Rgt""], ""context""=>[""relieved""]}",,,
+11,AWD0000asw,diary,588,3,1917-10-11 00:00:00 UTC,11 Oct 1917,Candle Trench,"[0.0, 0.0]","",place,Louis farm,"{""place""=>[""Louis farm""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+13,AWD0000asw,diary,588,8,1917-10-12 00:00:00 UTC,12 Oct 1917,Candle Trench,"[0.0, 0.0]","",diaryDate,12 Oct 1917,"{""day""=>[""12""], ""month""=>[""Oct""], ""year""=>[""1917""]}",,,
+14,AWD0000asw,diary,588,7,1917-10-12 00:00:00 UTC,12 Oct 1917,Candle Trench,"[0.0, 0.0]","",activity,attack,{},,,
+15,AWD0000asw,diary,588,7,1917-10-12 05:25:00 UTC,12 Oct 1917,Candle Trench,"[0.0, 0.0]",0525AM,time,0525AM,{},,,
+17,AWD0000asw,diary,588,4,1917-10-12 05:25:00 UTC,12 Oct 1917,Langemark,"[0.0, 0.0]",0525AM,place,Langemark,"{""place""=>[""Langemark""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2793392,Langemark,"[2.91965, 50.9131]"
+20,AWD0000asw,diary,588,2,1917-10-12 05:25:00 UTC,12 Oct 1917,Langemark,"[0.0, 0.0]",0525AM,reference,Appendix 6,{},2793392,Langemark,"[2.91965, 50.9131]"
+21,AWD0000asw,diary,588,8,1917-10-13 00:00:00 UTC,13 Oct 1917,Langemark,"[0.0, 0.0]","",diaryDate,13 Oct 1917,"{""day""=>[""13""], ""month""=>[""Oct""], ""year""=>[""1917""]}",2793392,Langemark,"[2.91965, 50.9131]"
+22,AWD0000asw,diary,588,2,1917-10-13 00:00:00 UTC,13 Oct 1917,Langemark,"[0.0, 0.0]","",activity,movement,{},2793392,Langemark,"[2.91965, 50.9131]"
+23,AWD0000asw,diary,588,3,1917-10-13 00:00:00 UTC,13 Oct 1917,Leipzig Camp,"[0.0, 0.0]","",place,Leipzig Camp,"{""place""=>[""Leipzig Camp""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+26,AWD0000asw,diary,588,2,1917-10-13 00:00:00 UTC,13 Oct 1917,Leipzig Camp,"[0.0, 0.0]","",activity,other,{},,,
+27,AWD0000asw,diary,588,8,1917-10-14 00:00:00 UTC,14 Oct 1917,Leipzig Camp,"[0.0, 0.0]","",diaryDate,14 Oct 1917,"{""day""=>[""14""], ""month""=>[""Oct""], ""year""=>[""1917""]}",,,
+28,AWD0000asw,diary,588,4,1917-10-14 00:00:00 UTC,14 Oct 1917,Leipzig Camp,"[0.0, 0.0]","",activity,enemy_activity,{},,,
+29,AWD0000asw,diary,588,4,1917-10-14 00:00:00 UTC,14 Oct 1917,Leipzig Camp,"[0.0, 0.0]","",activity,fire,{},,,
+31,AWD0000asw,diary,588,2,1917-10-14 00:00:00 UTC,14 Oct 1917,Leipzig Camp,"[0.0, 0.0]","",place,Leipzig Camp,"{""place""=>[""Leipzig Camp""], ""location""=>[""true"", ""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+32,AWD0000asw,diary,588,2,1917-10-14 00:00:00 UTC,14 Oct 1917,Leipzig Camp,"[0.0, 0.0]","",casualties,killed: 11,{},,,
+33,AWD0000asw,diary,588,3,1917-10-14 00:00:00 UTC,14 Oct 1917,"Liepzig Camp, Leipzig Camp, Leipzis Camp","[2.91965, 50.9131]","",place,"Liepzig Camp, Leipzig Camp, Leipzis Camp","{""place""=>[""Liepzig Camp"", ""Leipzig Camp"", ""Leipzis Camp""], ""location""=>[""true""], ""name""=>[""Langemark""], ""lat""=>[""50.9131""], ""long""=>[""2.91965""], ""id""=>[""2793392""]}",,,
+36,AWD0000asw,diary,588,3,1917-10-14 00:00:00 UTC,14 Oct 1917,"Liepzig Camp, Leipzig Camp, Leipzis Camp","[2.91965, 50.9131]","",place,"Elverdinghe , Elverdinghe, Elverdinge","{""place""=>[""Elverdinghe "", ""Elverdinghe"", ""Elverdinge""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+37,AWD0000asw,diary,588,3,1917-10-14 00:00:00 UTC,14 Oct 1917,Proven,"[0.0, 0.0]","",place,Proven,"{""place""=>[""Proven""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2788559,Proven,"[2.65721, 50.88976]"
+40,AWD0000asw,diary,588,2,1917-10-14 00:00:00 UTC,14 Oct 1917,Proven,"[0.0, 0.0]","",activity,movement,{},2788559,Proven,"[2.65721, 50.88976]"
+41,AWD0000asw,diary,588,2,1917-10-14 00:00:00 UTC,14 Oct 1917,Proven,"[0.0, 0.0]","",place,Penton Camp,"{""place""=>[""Penton Camp""], ""location""=>[""true"", ""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2788559,Proven,"[2.65721, 50.88976]"
+42,AWD0000asw,diary,588,4,1917-10-14 00:00:00 UTC,14 Oct 1917,Proven,"[2.91965, 50.9131]","",place,Proven,"{""place""=>[""Proven""], ""location""=>[""true""], ""name""=>["""", ""Langemark""], ""lat""=>["""", ""50.9131""], ""long""=>["""", ""2.91965""], ""id""=>["""", ""2793392""]}",2788559,Proven,"[2.65721, 50.88976]"
+44,AWD0000asw,diary,588,4,1917-10-14 00:00:00 UTC,14 Oct 1917,Proven,"[2.91965, 50.9131]","",place,Herzeele,"{""place""=>[""Herzeele""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2788559,Proven,"[2.65721, 50.88976]"
+45,AWD0000asw,diary,588,2,1917-10-14 00:00:00 UTC,14 Oct 1917,Proven,"[2.91965, 50.9131]","",place,"poperinghe, Poperinge","{""place""=>[""poperinghe"", ""Poperinge""], ""location""=>[""false"", ""true""], ""name""=>[""Aldershot"", """"], ""lat""=>[""51.24827"", """"], ""long""=>[""-0.76389"", """"], ""id""=>[""2657540"", """"]}",2788559,Proven,"[2.65721, 50.88976]"
+46,AWD0000asw,diary,588,8,1917-10-15 00:00:00 UTC,15 Oct 1917,Proven,"[2.91965, 50.9131]","",diaryDate,15 Oct 1917,"{""day""=>[""15""], ""month""=>[""Oct""], ""year""=>[""1917""]}",2788559,Proven,"[2.65721, 50.88976]"
+47,AWD0000asw,diary,588,6,1917-10-15 00:00:00 UTC,15 Oct 1917,Poperinghe,"[0.0, 0.0]","",place,Poperinghe,"{""place""=>[""Poperinghe""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2788726,Poperinge,"[2.72659, 50.85386]"
+48,AWD0000asw,diary,588,5,1917-10-15 00:00:00 UTC,15 Oct 1917,Poperinghe,"[0.0, 0.0]","",activity,movement,{},2788726,Poperinge,"[2.72659, 50.85386]"
+51,AWD0000asw,diary,588,8,1917-10-16 00:00:00 UTC,16 Oct 1917,Poperinghe,"[0.0, 0.0]","",diaryDate,16 Oct 1917,"{""day""=>[""16""], ""month""=>[""Oct""], ""year""=>[""1917""]}",2788726,Poperinge,"[2.72659, 50.85386]"
+54,AWD0000asw,diary,588,5,1917-10-16 00:00:00 UTC,16 Oct 1917,Poperinghe,"[0.0, 0.0]","",activity,other,{},2788726,Poperinge,"[2.72659, 50.85386]"
+55,AWD0000asw,diary,588,8,1917-10-17 00:00:00 UTC,17 Oct 1917,Poperinghe,"[0.0, 0.0]","",diaryDate,17 Oct 1917,"{""day""=>[""17""], ""month""=>[""Oct""], ""year""=>[""1917""]}",2788726,Poperinge,"[2.72659, 50.85386]"
+57,AWD0000asw,diary,588,7,1917-10-18 00:00:00 UTC,18 Oct 1917,Poperinghe,"[0.0, 0.0]","",diaryDate,18 Oct 1917,"{""day""=>[""18""], ""month""=>[""Oct""], ""year""=>[""1917""]}",2788726,Poperinge,"[2.72659, 50.85386]"
+59,AWD0000asw,diary,588,3,1917-10-18 00:00:00 UTC,18 Oct 1917,Poperinghe,"[0.0, 0.0]","",place,"peselhoek, Pesel Hoek, Peselhoek","{""place""=>[""peselhoek"", ""Pesel Hoek"", ""Peselhoek""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2788726,Poperinge,"[2.72659, 50.85386]"
+60,AWD0000asw,diary,588,4,1917-10-18 16:25:00 UTC,18 Oct 1917,Poperinghe,"[0.0, 0.0]",0425PM,time,0425PM,{},2788726,Poperinge,"[2.72659, 50.85386]"
+61,AWD0000asw,diary,588,4,1917-10-18 16:25:00 UTC,18 Oct 1917,Peselhoek,"[2.91965, 50.9131]",0425PM,place,Peselhoek,"{""place""=>[""Peselhoek""], ""location""=>[""true""], ""name""=>["""", ""Langemark""], ""lat""=>["""", ""50.9131""], ""long""=>["""", ""2.91965""], ""id""=>["""", ""2793392""]}",2789151,Peselhoek,"[2.73333, 50.86667]"
+62,AWD0000asw,diary,588,3,1917-10-18 16:25:00 UTC,18 Oct 1917,Peselhoek,"[2.91965, 50.9131]",0425PM,activity,movement,{},2789151,Peselhoek,"[2.73333, 50.86667]"
+65,AWD0000asw,diary,588,6,1917-10-19 00:00:00 UTC,19 Oct 1917,Peselhoek,"[2.91965, 50.9131]","",diaryDate,19 Oct 1917,"{""day""=>[""19""], ""month""=>[""Oct""], ""year""=>[""1917""]}",2789151,Peselhoek,"[2.73333, 50.86667]"
+66,AWD0000asw,diary,588,4,1917-10-19 00:00:00 UTC,19 Oct 1917,Peselhoek,"[2.91965, 50.9131]","",place,"Maroguil, Maroeuil, Marozir, Maroevil","{""place""=>[""Maroguil"", ""Maroeuil"", ""Marozir"", ""Maroevil""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2789151,Peselhoek,"[2.73333, 50.86667]"
+67,AWD0000asw,diary,588,5,1917-10-19 04:25:00 UTC,19 Oct 1917,Peselhoek,"[2.91965, 50.9131]",0425AM,time,0425AM,{},2789151,Peselhoek,"[2.73333, 50.86667]"
+68,AWD0000asw,diary,588,4,1917-10-19 04:25:00 UTC,19 Oct 1917,Peselhoek,"[2.91965, 50.9131]",0425AM,place,Maroeuil,"{""place""=>[""Maroeuil""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2789151,Peselhoek,"[2.73333, 50.86667]"
+3,AWD0000atj,diary,589,3,1917-10-19 00:00:00 UTC,19 Oct 1917,Peselhoek,"[2.91965, 50.9131]","",diaryDate,19 Oct 1917,"{""day""=>[""19""], ""month""=>[""Oct""], ""year""=>[""1917""]}",2789151,Peselhoek,"[2.73333, 50.86667]"
+6,AWD0000atj,diary,589,2,1917-10-19 00:00:00 UTC,19 Oct 1917,Warlus,"[2.91965, 50.9131]","",place,Warlus,"{""place""=>[""Warlus""], ""location""=>[""true""], ""name""=>[""Langemark"", """"], ""lat""=>[""50.9131"", """"], ""long""=>[""2.91965"", """"], ""id""=>[""2793392"", """"]}",2967451,Warlus,"[2.66872, 50.27482]"
+9,AWD0000atj,diary,589,3,1917-10-19 00:00:00 UTC,19 Oct 1917,Walrus,"[0.0, 0.0]","",place,Walrus,"{""place""=>[""Walrus""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+10,AWD0000atj,diary,589,5,1917-10-20 00:00:00 UTC,20 Oct 1917,Walrus,"[0.0, 0.0]","",diaryDate,20 Oct 1917,"{""day""=>[""20""], ""month""=>[""Oct""], ""year""=>[""1917""]}",,,
+11,AWD0000atj,diary,589,2,1917-10-20 00:00:00 UTC,20 Oct 1917,Walrus,"[0.0, 0.0]","",domestic,sport,{},,,
+12,AWD0000atj,diary,589,2,1917-10-20 00:00:00 UTC,20 Oct 1917,Walrus,"[0.0, 0.0]","",domestic,parades,{},,,
+13,AWD0000atj,diary,589,4,1917-10-20 00:00:00 UTC,20 Oct 1917,Walrus,"[0.0, 0.0]","",activity,training,{},,,
+14,AWD0000atj,diary,589,4,1917-10-20 00:00:00 UTC,20 Oct 1917,Walrus,"[0.0, 0.0]","",activity,reconnoitered,{},,,
+16,AWD0000atj,diary,589,3,1917-10-20 00:00:00 UTC,20 Oct 1917,Walrus,"[0.0, 0.0]","",place,Brown Line,"{""place""=>[""Brown Line""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+17,AWD0000atj,diary,589,5,1917-10-21 00:00:00 UTC,21 Oct 1917,Walrus,"[0.0, 0.0]","",diaryDate,21 Oct 1917,"{""day""=>[""21""], ""month""=>[""Oct""], ""year""=>[""1917""]}",,,
+18,AWD0000atj,diary,589,3,1917-10-21 00:00:00 UTC,21 Oct 1917,Walrus,"[0.0, 0.0]","",domestic,religion,{},,,
+26,AWD0000atj,diary,589,4,1917-10-22 00:00:00 UTC,22 Oct 1917,Walrus,"[0.0, 0.0]","",diaryDate,22 Oct 1917,"{""day""=>[""22""], ""month""=>[""Oct""], ""year""=>[""1917""]}",,,
+28,AWD0000atj,diary,589,6,1917-10-22 00:00:00 UTC,22 Oct 1917,Brown Line,"[0.0, 0.0]","",place,Brown Line,"{""place""=>[""Brown Line""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3036784,Arras,"[2.78186, 50.29301]"
+29,AWD0000atj,diary,589,6,1917-10-22 00:00:00 UTC,22 Oct 1917,Brown Line,"[0.0, 0.0]","",activity,movement,{},3036784,Arras,"[2.78186, 50.29301]"
+30,AWD0000atj,diary,589,3,1917-10-22 00:00:00 UTC,22 Oct 1917,Warlus,"[0.0, 0.0]","",place,Warlus,"{""place""=>[""Warlus""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2967451,Warlus,"[2.66872, 50.27482]"
+31,AWD0000atj,diary,589,2,1917-10-22 00:00:00 UTC,22 Oct 1917,Warlus,"[0.0, 0.0]","",unit,"9th Essex Regt, 9Bn Essex Regt","{""name""=>[""9th Essex Regt"", ""9Bn Essex Regt""], ""context""=>[""relieved""]}",2967451,Warlus,"[2.66872, 50.27482]"
+36,AWD0000atj,diary,589,3,1917-10-22 00:00:00 UTC,22 Oct 1917,Warlus,"[0.0, 0.0]","",place,Ronville,"{""place""=>[""Ronville""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2967451,Warlus,"[2.66872, 50.27482]"
+39,AWD0000atj,diary,589,4,1917-10-23 00:00:00 UTC,23 Oct 1917,Warlus,"[0.0, 0.0]","",diaryDate,23 Oct 1917,"{""day""=>[""23""], ""month""=>[""Oct""], ""year""=>[""1917""]}",2967451,Warlus,"[2.66872, 50.27482]"
+41,AWD0000atj,diary,589,3,1917-10-23 00:00:00 UTC,23 Oct 1917,Warlus,"[0.0, 0.0]","",unit,"7Bn Royal Sussex Regt, 7th Royal Sussex Regt, 7th Royal Sussex regt.","{""name""=>[""7Bn Royal Sussex Regt"", ""7th Royal Sussex Regt"", ""7th Royal Sussex regt.""], ""context""=>[""relieved""]}",2967451,Warlus,"[2.66872, 50.27482]"
+42,AWD0000atj,diary,589,2,1917-10-23 00:00:00 UTC,23 Oct 1917,Warlus,"[0.0, 0.0]","",unit,"7th Royal Sussex Regiment, The Royal Sussex Regiment","{""name""=>[""7th Royal Sussex Regiment"", ""The Royal Sussex Regiment""], ""context""=>[""relieved""]}",2967451,Warlus,"[2.66872, 50.27482]"
+43,AWD0000atj,diary,589,3,1917-10-23 00:00:00 UTC,23 Oct 1917,Brown Line,"[0.0, 0.0]","",place,Brown Line,"{""place""=>[""Brown Line""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3036784,Arras,"[2.78186, 50.29301]"
+45,AWD0000atj,diary,589,2,1917-10-23 00:00:00 UTC,23 Oct 1917,Brown Line,"[0.0, 0.0]","",reference,Appendix IX,{},3036784,Arras,"[2.78186, 50.29301]"
+48,AWD0000atj,diary,589,2,1917-10-23 00:00:00 UTC,23 Oct 1917,Brown Line,"[0.0, 0.0]","",place,"Arras-Cambrai Road, Arras-Cambria Road","{""place""=>[""Arras-Cambrai Road"", ""Arras-Cambria Road""], ""location""=>[""false"", ""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3036784,Arras,"[2.78186, 50.29301]"
+49,AWD0000atj,diary,589,2,1917-10-24 00:00:00 UTC,24 Oct 1917,Brown Line,"[0.0, 0.0]","",diaryDate,24 Oct 1917,"{""day""=>[""24""], ""month""=>[""Oct""], ""year""=>[""1917""]}",3036784,Arras,"[2.78186, 50.29301]"
+51,AWD0000atj,diary,589,2,1917-10-24 00:00:00 UTC,24 Oct 1917,Brown Line,"[0.0, 0.0]","",diaryDate,24 Oct 1917,"{""day""=>[""24""], ""month""=>[""Oct""], ""year""=>[""1917""]}",3036784,Arras,"[2.78186, 50.29301]"
+54,AWD0000atj,diary,589,3,1917-10-24 00:00:00 UTC,24 Oct 1917,Brown Line,"[0.0, 0.0]","",activity,other,{},3036784,Arras,"[2.78186, 50.29301]"
+56,AWD0000atj,diary,589,2,1917-10-30 00:00:00 UTC,30 Oct 1917,Brown Line,"[0.0, 0.0]","",diaryDate,30 Oct 1917,"{""day""=>[""30""], ""month""=>[""Oct""], ""year""=>[""1917""]}",3036784,Arras,"[2.78186, 50.29301]"
+61,AWD0000atj,diary,589,5,1917-10-31 00:00:00 UTC,31 Oct 1917,Brown Line,"[0.0, 0.0]","",diaryDate,31 Oct 1917,"{""day""=>[""31""], ""month""=>[""Oct""], ""year""=>[""1917""]}",3036784,Arras,"[2.78186, 50.29301]"
+64,AWD0000atj,diary,589,3,1917-10-31 00:00:00 UTC,31 Oct 1917,Brown Line,"[0.0, 0.0]","",unit,1st Som. L. I.,"{""name""=>[""1st Som. L. I.""], ""context""=>[""relieved""]}",3036784,Arras,"[2.78186, 50.29301]"
+68,AWD0000atj,diary,589,2,1917-10-31 00:00:00 UTC,31 Oct 1917,Brown Line,"[0.0, 0.0]","",reference,Appendix X,{},3036784,Arras,"[2.78186, 50.29301]"
+69,AWD0000atj,diary,589,3,1917-10-31 00:00:00 UTC,31 Oct 1917,Monchy,"[0.0, 0.0]","",place,Monchy,"{""place""=>[""Monchy""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2993397,Monchy,"[1.66667, 49.88333]"
+4,AWD0000aqy,orders,590,2,,,,[],,orders,move,{},,,
+6,AWD0000aqy,orders,590,3,,,,[],,person,Lieutenant Colonel R T Fellowes,"{""first""=>[""R T""], ""surname""=>[""Fellowes""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>["""", ""1st Battalion the Rifle Brigade"", ""1Bn Rifle Brigade""]}",,,
+8,AWD0000aqy,orders,590,2,,,,[],,reference,Langemarck Map,{},,,
+11,AWD0000aqy,orders,590,4,,,,[],,date,30 Sep 1917,{},,,
+15,AWD0000aqy,orders,590,2,,,,[],,person,  ,"{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""The Duke of Wellington Regiment"", ""The Kings Own Regiment""]}",,,
+1,AWD0000apn,orders,592,2,,,,[],,orders,move,{},,,
+9,AWD0000apn,orders,592,5,,,,[],,date,2 Oct 1917,{},,,
+4,AWD0000atw,orders,593,2,,,,[],,person,"Lieutenant Colonel R T Fellowes DSO MC, Fellowes DSO M C","{""first""=>[""R T""], ""surname""=>[""Fellowes DSO MC"", ""Fellowes DSO M C""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""author"", ""other""], ""unit""=>[""1st Battalion The Rifle Brigade"", ""Commanding 1st Btn Rifle Brigade""]}",,,
+6,AWD0000atw,orders,593,2,,,,[],,person,"Lieutenant Colonel R T,R C FELLOWES, Fellowes","{""first""=>[""R T"", ""R C""], ""surname""=>[""FELLOWES"", ""Fellowes""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>["""", ""1st BN The Rifles Brigade""]}",,,
+9,AWD0000atw,orders,593,3,,,,[],,date,30 Sep 1917,{},,,
+1,AWD0000ati,orders,594,2,,,,[],,orders,attack,{},,,
+1,AWD0000ark,orders,595,2,,,,[],,reference,Amendments to Battalion Operation Orders,{},,,
+4,AWD0000ark,orders,595,5,,,,[],,date,30 Sep 1917,{},,,
+6,AWD0000ark,orders,595,2,,,,[],,orders,attack,{},,,
+6,AWD0000arf,orders,596,2,,,,[],,orders,other,{},,,
+7,AWD0000arf,orders,596,5,,,,[],,person,Lieutenant Colonel R T Fellows,"{""first""=>[""R T""], ""surname""=>[""Fellows""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""1st batt rifle brigade"", ""1st Battalion, The Rifle Brigade"", ""1st. Batt. Rifle Brigade"", ""1st BTN The Rifles"", """"]}",,,
+9,AWD0000arf,orders,596,6,,,,[],,date,1 Oct 1917,{},,,
+10,AWD0000arf,orders,596,2,,,,[],,reference,Langemarck and Broembeek Maps,{},,,
+5,AWD0000arh,other,600,2,,,,[],,unit,33rd BDE,"{""name""=>[""33rd BDE""], ""context""=>[""joined""]}",,,
+7,AWD0000aqt,orders,601,2,,,,[],,date,30 Sep 1917,{},,,
+8,AWD0000arr,report,602,2,,,,[],,date,4 Oct 1917,{},,,
+9,AWD0000arr,report,602,3,,,,[],,date,7 Oct 1917,{},,,
+21,AWD0000arr,report,602,4,,,,[],,person,Lieutenant C J Chamberlain,"{""first""=>[""C J""], ""surname""=>[""Chamberlain""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",,,
+22,AWD0000arr,report,602,3,,,,[],,person,Captain J W Egerton-Green,"{""first""=>[""J W""], ""surname""=>[""Egerton-Green""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""casualty_died""], ""unit""=>[""""]}",,,
+24,AWD0000arr,report,602,4,,,,[],,person,Second Lieutenant D E F O'Brien,"{""first""=>[""D E F""], ""surname""=>[""O'Brien""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+25,AWD0000arr,report,602,4,,,,[],,person,Lieutenant L B Leech,"{""first""=>[""L B""], ""surname""=>[""Leech""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+26,AWD0000arr,report,602,2,,,,[],,person,Second Lieutenant D Heald,"{""first""=>[""D""], ""surname""=>[""Heald""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_died"", ""casualty_kia""], ""unit""=>[""""]}",,,
+28,AWD0000arr,report,602,4,,,,[],,person,Second Lieutenant F J Kersley,"{""first""=>[""F J""], ""surname""=>[""Kersley""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+4,AWD0000asu,orders,605,4,,,,[],,person,"Captain J A Warron, Darron, Dawson, Darrow ?","{""first""=>[""J A""], ""surname""=>[""Warron"", ""Darron"", ""Dawson"", ""Darrow ?""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author"", ""other""], ""unit""=>[""1st Bn The Rifle Brigade""]}",,,
+13,AWD0000aqc,report,607,2,,,,[],,date,13 Oct 1917,{},,,
+17,AWD0000aqc,report,607,5,,,,[],,person,General Carton de Wiart,"{""first""=>[""Carton""], ""surname""=>[""de Wiart""], ""rank""=>[""General""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+61,AWD0000aqc,report,607,6,,,,[],,person,Captain R Leetham,"{""first""=>[""R""], ""surname""=>[""Leetham""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",,,
+62,AWD0000aqc,report,607,5,,,,[],,person,Second Lieutenant J B Greenup,"{""first""=>[""J B""], ""surname""=>[""Greenup""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",,,
+64,AWD0000aqc,report,607,6,,,,[],,person,Second Lieutenant C R Philip,"{""first""=>[""C R""], ""surname""=>[""Philip""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+6,AWD0000ath,orders,608,3,,,,[],,person,Lieutenant Colonel R T Fellowes,"{""first""=>[""R T""], ""surname""=>[""Fellowes""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""1st Battalion The Rifle Brigade"", ""1 Bn Rifle Brigade"", ""1st Batt. The Rifle Brigade""]}",,,
+7,AWD0000ath,orders,608,2,,,,[],,person,"Lieutenant Colonel R T Fellows DSC., MC.,, Fellowes DSO  MC","{""first""=>[""R T""], ""surname""=>[""Fellows DSC., MC.,"", ""Fellowes DSO  MC""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""author"", ""other""], ""unit""=>[""1st Battalion The Rifles Brigade"", ""Commanding 1st Btn. The Rifle Brigade.""]}",,,
+10,AWD0000ath,orders,608,2,,,,[],,reference,28 NW and 51 C,{},,,
+12,AWD0000ath,orders,608,5,,,,[],,date,17 Oct 1917,{},,,
+14,AWD0000ath,orders,608,5,,,,[],,orders,move,{},,,
+18,AWD0000ath,orders,608,5,,,,[],,person,Lieutenant D G M Fraser-Luckie,"{""first""=>[""D G M""], ""surname""=>[""Fraser-Luckie""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+3,AWD0000asl,orders,609,6,,,,[],,person,"Lieutenant Colonel R T Fellowes, Fellows","{""first""=>[""R T""], ""surname""=>[""Fellowes"", ""Fellows""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""1st Battalion, The Rifle Brigade""]}",,,
+5,AWD0000asl,orders,609,2,,,,[],,person,"Lieutenant Colonel R T Fellows D.S.C., M.C.,, Fellowes DSO MC","{""first""=>[""R T""], ""surname""=>[""Fellows D.S.C., M.C.,"", ""Fellowes DSO MC""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""1st Battalion, The Rifles Brigade"", ""Commanding 1st Btn. The Rifle Brigade.""]}",,,
+9,AWD0000asl,orders,609,8,,,,[],,date,31 Oct 1917,{},,,
+13,AWD0000asl,orders,609,7,,,,[],,orders,move,{},,,
+24,AWD0000asl,orders,609,2,,,,[],,orders,routine,{},,,
+25,AWD0000asl,orders,609,6,,,,[],,person,Lieutenant L H Adams,"{""first""=>[""L H""], ""surname""=>[""Adams""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+27,AWD0000asl,orders,609,6,,,,[],,person,Lieutenant D G M Fraser-Luckie,"{""first""=>[""D G M""], ""surname""=>[""Fraser-Luckie""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+3,AWD0000aqu,orders,610,2,,,,[],,orders,other,{},,,
+6,AWD0000ash,orders,611,4,,,,[],,person,Lieutenant Colonel R T Fellowes,"{""first""=>[""R T""], ""surname""=>[""Fellowes""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""1st Batallion The Rifle Brigade"", ""1st Battalion, The Rifle Brigade"", """", ""1st Batallion, Rifle Bridage""]}",,,
+11,AWD0000ash,orders,611,4,,,,[],,date,22 Oct 1917,{},,,
+13,AWD0000ash,orders,611,3,,,,[],,orders,move,{},,,
+16,AWD0000ash,orders,611,5,,,,[],,person,Second Lieutenant G J Cole,"{""first""=>[""G J""], ""surname""=>[""Cole""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+6,AWD0000atf,orders,612,4,,,,[],,person,"Lieutenant Colonel R T Fellowes, Fellows","{""first""=>[""R T""], ""surname""=>[""Fellowes"", ""Fellows""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""1st Batallion The Rifle Brigade"", ""1st Batt. The Rifle Brigade"", """", ""1st Batallion, Rifle Brigade""]}",,,
+10,AWD0000atf,orders,612,6,,,,[],,date,30 Oct 1917,{},,,
+12,AWD0000atf,orders,612,2,,,,[],,orders,move,{},,,
+17,AWD0000atf,orders,612,3,,,,[],,person,Second Lieutenant G J Cole,"{""first""=>[""G J""], ""surname""=>[""Cole""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""combat"", ""author"", ""other""], ""unit""=>[""""]}",,,
+1,AWD0000asi,orders,613,3,,,,[],,date,30 Oct 1917,{},,,
+5,AWD0000asi,orders,613,2,,,,[],,orders,routine,{},,,
+5,AWD0000asz,orders,614,5,,,,[],,person,Lieutenant Colonel R T Fellows,"{""first""=>[""R T""], ""surname""=>[""Fellows""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""1st Battalion, The Rifle Brigade"", ""1st. Battalion, The Rifle Brigade"", ""1st Batallion The Rifle Brigade"", ""1st Batt. The Rifle Brigade"", """"]}",,,
+9,AWD0000asz,orders,614,6,,,,[],,date,1 Oct 1917,{},,,
+10,AWD0000asz,orders,614,2,,,,[],,orders,move,{},,,
+15,AWD0000asz,orders,614,2,,,,[],,person,Second Lieutenant G J Cole,"{""first""=>[""G J""], ""surname""=>[""Cole""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+16,AWD0000asz,orders,614,2,,,,[],,orders,attack,{},,,
+26,AWD0000asz,orders,614,2,,,,[],,reference,Ferdan House,{},,,
+7,AWD0000arl,orders,615,2,,,,[],,person,Captain J A Dawson,"{""first""=>[""J A""], ""surname""=>[""Dawson""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""1st Batt. The Rifle Brigade"", ""1st Battalion, The Rifle Brigade""]}",,,
+1,AWD0000ar8,orders,617,3,,,,[],,orders,move,{},,,
+2,AWD0000ar8,orders,617,2,,,,[],,reference,Appendix II,{},,,
+3,AWD0000ar8,orders,617,5,,,,[],,person,Lieutenant Colonel R T Fellowes,"{""first""=>[""R T""], ""surname""=>[""Fellowes""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+7,AWD0000ar8,orders,617,4,,,,[],,date,2 Oct 1917,{},,,
+8,AWD0000ar8,orders,617,2,,,,[],,orders,move,{},,,
+16,AWD0000ar8,orders,617,2,,,,[],,person,Second Lieutenant  O'Brien,"{""first""=>[""""], ""surname""=>[""O'Brien""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+1,AWD0000as4,report,618,2,,,,[],,reference,Appendix IV,{},,,
+2,AWD0000as4,report,618,2,,,,[],,title,"1st Battalion, The Rifle Brigade",{},,,
+9,AWD0000as4,report,618,2,,,,[],,title,Official Account of the part taken by the above Battalion in the operations North East of Ypres,{},,,
+11,AWD0000as4,report,618,4,,,,[],,date,4 Oct 1917,{},,,
+13,AWD0000as4,report,618,2,,,,[],,date,7 Oct 1917,{},,,
+25,AWD0000as4,report,618,2,,,,[],,reference,Jolie Farm,{},,,
+33,AWD0000as4,report,618,2,,,,[],,reference,Royal Warwickshire Regiment,{},,,
+42,AWD0000as4,report,618,2,,,,[],,date,5 Oct 1917,{},,,
+60,AWD0000as4,report,618,2,,,,[],,reference,6th Border Regiment,{},,,
+64,AWD0000as4,report,618,2,,,,[],,reference,Tragique Farm,{},,,
+67,AWD0000as4,report,618,2,,,,[],,date,7 Oct 1917,{},,,
+79,AWD0000as4,report,618,7,,,,[],,person,Lieutenant C J Chamberlain,"{""first""=>[""C J""], ""surname""=>[""Chamberlain""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",,,
+80,AWD0000as4,report,618,7,,,,[],,person,Captain J W Egerton-Green,"{""first""=>[""J W""], ""surname""=>[""Egerton-Green""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""casualty_died""], ""unit""=>[""""]}",,,
+81,AWD0000as4,report,618,3,,,,[],,person,"Lieutenant The Hon D E F O O'Brien, Brien, O Brien","{""first""=>[""The Hon D E F O""], ""surname""=>[""O'Brien"", ""Brien"", ""O Brien""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+82,AWD0000as4,report,618,7,,,,[],,person,Lieutenant L B Leech,"{""first""=>[""L B""], ""surname""=>[""Leech""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+83,AWD0000as4,report,618,4,,,,[],,person,"Second Lieutenant  Brien, O'Brien","{""first""=>[""""], ""surname""=>[""Brien"", ""O'Brien""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+84,AWD0000as4,report,618,7,,,,[],,person,Lieutenant D Heald,"{""first""=>[""D""], ""surname""=>[""Heald""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_died""], ""unit""=>[""""]}",,,
+85,AWD0000as4,report,618,7,,,,[],,person, F J Kersley,"{""first""=>[""F J""], ""surname""=>[""Kersley""], ""rank""=>[""""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+2,AWD0000atg,orders,619,2,,,,[],,orders,move,{},,,
+1,AWD0000atp,orders,620,3,,,,[],,orders,move,{},,,
+5,AWD0000apv,orders,621,2,,,,[],,person,"Captain  J.A., ","{""first""=>[""""], ""surname""=>[""J.A."", """"], ""rank""=>[""Captain""], ""number""=>[""Dawson"", """"], ""reason""=>[""author""], ""unit""=>["""", ""The Rifle Brigade""]}",,,
+7,AWD0000ar5,report,622,4,,,,[],,date,13 Oct 1917,{},,,
+13,AWD0000ar5,report,622,2,,,,[],,person,"General carson,Carton de Wiart De Wiart, ","{""first""=>[""carson"", ""Carton de Wiart""], ""surname""=>[""De Wiart"", """"], ""rank""=>[""General""], ""number""=>[""V.C,  D.S.O"", """"], ""reason""=>[""other""], ""unit""=>[""!st Battalion, The rifle brigade"", """"]}",,,
+14,AWD0000ar5,report,622,2,,,,[],,person,"General Carton, de Wiart VC DSO, Carton de Wiart, V.C., D.S.O","{""first""=>[""Carton"", """"], ""surname""=>[""de Wiart VC DSO"", ""Carton de Wiart, V.C., D.S.O""], ""rank""=>[""General""], ""number""=>[""""], ""reason""=>[""other"", ""combat""], ""unit""=>["""", ""19th Infantry Brigade""]}",,,
+22,AWD0000ar5,report,622,3,,,,[],,time,0540AM,{},,,
+23,AWD0000ar5,report,622,3,,,,[],,activity,attack,{},,,
+41,AWD0000ar5,report,622,3,,,,[],,person,Captain R Leetham,"{""first""=>[""R""], ""surname""=>[""Leetham""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",,,
+42,AWD0000ar5,report,622,3,,,,[],,person,"Second Lieutenant J B,J B Greenup,J S Greenup","{""first""=>[""J B"", ""J B Greenup"", ""J S""], ""surname""=>[""Greenup""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_kia""], ""unit""=>[""1st Battalion Rifle Brigade"", """", ""1st Battalion Thye Rifle Brigade""]}",,,
+44,AWD0000ar5,report,622,3,,,,[],,person,Second Lieutenant C R Philip,"{""first""=>[""C R""], ""surname""=>[""Philip""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+47,AWD0000ar5,report,622,2,,,,[],,place,"Poperinghe, POPERINOHE","{""place""=>[""Poperinghe"", ""POPERINOHE""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+2,AWD0000atq,orders,623,3,,,,[],,reference,Appendix VII,{},,,
+8,AWD0000atq,orders,623,3,,,,[],,person,Lieutenant Colonel R T Fellowes,"{""first""=>[""R T""], ""surname""=>[""Fellowes""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+9,AWD0000atq,orders,623,5,,,,[],,date,17 Oct 1917,{},,,
+1,AWD0000atk,orders,624,2,,,,[],,reference,Appendix VIII,{},,,
+7,AWD0000atk,orders,624,5,,,,[],,person,Lieutenant Colonel R T Fellowes,"{""first""=>[""R T""], ""surname""=>[""Fellowes""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>["""", ""1st Battalion, The Rifle Brigade""]}",,,
+9,AWD0000atk,orders,624,7,,,,[],,date,21 Oct 1917,{},,,
+6,AWD0000aqd,orders,626,2,,,,[],,person,"Lieutenant Colonel R T,S T Fellows, FELLOWS","{""first""=>[""R T"", ""S T""], ""surname""=>[""Fellows"", ""FELLOWS""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""other"", ""author""], ""unit""=>[""1st Batt. The Rifle Brigade"", """"]}",,,
+10,AWD0000aqd,orders,626,3,,,,[],,date,22 Oct 1917,{},,,
+6,AWD0000arq,orders,627,3,,,,[],,date,26 Oct 1917,{},,,
+5,AWD0000as1,orders,629,2,,,,[],,person,Lieutenant Colonel  ,"{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""author"", ""other""], ""unit""=>["""", ""1st Battalion, The Rifle Brigade""]}",,,
+1,AWD0000at3,report,630,2,,,,[],,reference,Appendix XII,{},,,
+2,AWD0000at3,report,630,3,,,,[],,title,Casualties during October 1917,{},,,
+7,AWD0000at3,report,630,2,,,,[],,diaryDate,12 Oct 1917,"{""day""=>[""12""], ""month""=>[""Oct""], ""year""=>[""1917""]}",,,
+8,AWD0000at3,report,630,6,,,,[],,person,Captain R Leetham,"{""first""=>[""R""], ""surname""=>[""Leetham""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",,,
+9,AWD0000at3,report,630,2,,,,[],,diaryDate,5 Oct 1917,"{""day""=>[""5""], ""month""=>[""Oct""], ""year""=>[""1917""]}",,,
+10,AWD0000at3,report,630,6,,,,[],,person,Captain J W Egerton-Green,"{""first""=>[""J W""], ""surname""=>[""Egerton-Green""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+11,AWD0000at3,report,630,2,,,,[],,diaryDate,3 Oct 1917,"{""day""=>[""3""], ""month""=>[""Oct""], ""year""=>[""1917""]}",,,
+12,AWD0000at3,report,630,6,,,,[],,person,Lieutenant L B Leech,"{""first""=>[""L B""], ""surname""=>[""Leech""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+13,AWD0000at3,report,630,2,,,,[],,diaryDate,12 Oct 1917,"{""day""=>[""12""], ""month""=>[""Oct""], ""year""=>[""1917""]}",,,
+14,AWD0000at3,report,630,6,,,,[],,person,Second Lieutenant J B Greenup,"{""first""=>[""J B""], ""surname""=>[""Greenup""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",,,
+15,AWD0000at3,report,630,2,,,,[],,diaryDate,4 Oct 1917,"{""day""=>[""4""], ""month""=>[""Oct""], ""year""=>[""1917""]}",,,
+16,AWD0000at3,report,630,6,,,,[],,person,Second Lieutenant F J Kersley,"{""first""=>[""F J""], ""surname""=>[""Kersley""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+17,AWD0000at3,report,630,2,,,,[],,diaryDate,5 Oct 1917,"{""day""=>[""5""], ""month""=>[""Oct""], ""year""=>[""1917""]}",,,
+18,AWD0000at3,report,630,5,,,,[],,person,Second Lieutenant D E F O'Brien,"{""first""=>[""D E F""], ""surname""=>[""O'Brien""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+20,AWD0000at3,report,630,2,,,,[],,diaryDate,12 Oct 1917,"{""day""=>[""12""], ""month""=>[""Oct""], ""year""=>[""1917""]}",,,
+21,AWD0000at3,report,630,6,,,,[],,person,Second Lieutenant G R Philip,"{""first""=>[""G R""], ""surname""=>[""Philip""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+22,AWD0000at3,report,630,2,,,,[],,diaryDate,6 Oct 1917,"{""day""=>[""6""], ""month""=>[""Oct""], ""year""=>[""1917""]}",,,
+23,AWD0000at3,report,630,6,,,,[],,person,Lieutenant C J Chamberlain,"{""first""=>[""C J""], ""surname""=>[""Chamberlain""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",,,
+24,AWD0000at3,report,630,6,,,,[],,person,Second Lieutenant D Heald,"{""first""=>[""D""], ""surname""=>[""Heald""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+25,AWD0000at3,report,630,2,,,,[],,diaryDate,5 Oct 1917,"{""day""=>[""5""], ""month""=>[""Oct""], ""year""=>[""1917""]}",,,
+26,AWD0000at3,report,630,2,,,,[],,casualties,"killed: 62, wounded: 184, missing: 14",{},,,
+3,AWD0000ase,report,631,2,,,,[],,title,Reinforcements during October 1917,{},,,
+8,AWD0000ase,report,631,4,,,,[],,person,Second Lieutenant J A Lawton,"{""first""=>[""J A""], ""surname""=>[""Lawton""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",,,
+9,AWD0000ase,report,631,4,,,,[],,person,Second Lieutenant G H Mercer,"{""first""=>[""G H""], ""surname""=>[""Mercer""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",,,
+10,AWD0000ase,report,631,4,,,,[],,person,Second Lieutenant H G Garraty,"{""first""=>[""H G""], ""surname""=>[""Garraty""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",,,
+12,AWD0000ase,report,631,4,,,,[],,person,Second Lieutenant V J Wheeler,"{""first""=>[""V J""], ""surname""=>[""Wheeler""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",,,
+14,AWD0000ase,report,631,4,,,,[],,person,Second Lieutenant M L L Wynne,"{""first""=>[""M L L""], ""surname""=>[""Wynne""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",,,
+15,AWD0000ase,report,631,4,,,,[],,person,Lieutenant F J Hill,"{""first""=>[""F J""], ""surname""=>[""Hill""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",,,
+18,AWD0000ase,report,631,4,,,,[],,person,Second Lieutenant J A Taylor,"{""first""=>[""J A""], ""surname""=>[""Taylor""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",,,
+19,AWD0000ase,report,631,4,,,,[],,person,Second Lieutenant A C Turner,"{""first""=>[""A C""], ""surname""=>[""Turner""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",,,
+20,AWD0000ase,report,631,4,,,,[],,person,Second Lieutenant E A Mallett,"{""first""=>[""E A""], ""surname""=>[""Mallett""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",,,
+22,AWD0000ase,report,631,4,,,,[],,person,Second Lieutenant H C V Sharpe,"{""first""=>[""H C V""], ""surname""=>[""Sharpe""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",,,
+24,AWD0000ase,report,631,4,,,,[],,person,Second Lieutenant W S McCrea,"{""first""=>[""W S""], ""surname""=>[""McCrea""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",,,
+4,AWD0000ar0,orders,632,2,,,,[],,orders,move,{},,,
+5,AWD0000ar0,orders,632,2,,,,[],,reference,Appendix 10,{},,,
+6,AWD0000ar0,orders,632,4,,,,[],,person,Lieutenant Colonel R T Fellowes,"{""first""=>[""R T""], ""surname""=>[""Fellowes""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""1st Battalion, The Rifle Brigade""]}",,,
+10,AWD0000ar0,orders,632,5,,,,[],,date,30 Oct 1917,{},,,
+13,AWD0000ar0,orders,632,2,,,,[],,date,31 Oct 1917,{},,,
+18,AWD0000ar0,orders,632,2,,,,[],,person,Second Lieutenant G J Cole,"{""first""=>[""G J""], ""surname""=>[""Cole""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""1st Battalion, The Rifle Brigade"", """"]}",,,
+6,AWD0000arn,orders,633,2,,,,[],,person,"Captain J A Davisin ?, Davison","{""first""=>[""J A""], ""surname""=>[""Davisin ?"", ""Davison""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other"", ""author""], ""unit""=>[""1st Btn. The Rifle Brigade"", ""1st Battalion, The Rifle Brigade""]}",,,
+2,AWD0000asc,diary,634,4,1917-11-01 00:00:00 UTC,1 Nov 1917,Monchy,"[0.0, 0.0]","",diaryDate,1 Nov 1917,"{""day""=>[""1""], ""month""=>[""Nov""], ""year""=>[""1917""]}",2993397,Monchy,"[1.66667, 49.88333]"
+3,AWD0000asc,diary,634,2,1917-11-01 00:00:00 UTC,1 Nov 1917,Monchy Sector,"[2.91965, 50.9131]","",place,Monchy Sector,"{""place""=>[""Monchy Sector""], ""location""=>[""true""], ""name""=>["""", ""Langemark""], ""lat""=>["""", ""50.9131""], ""long""=>["""", ""2.91965""], ""id""=>["""", ""2793392""]}",,,
+6,AWD0000asc,diary,634,2,1917-11-01 02:00:00 UTC,1 Nov 1917,Monchy Sector,"[2.91965, 50.9131]",0200AM,time,0200AM,{},,,
+11,AWD0000asc,diary,634,2,1917-11-03 00:00:00 UTC,3 Nov 1917,Monchy Sector,"[2.91965, 50.9131]","",diaryDate,3 Nov 1917,"{""day""=>[""3""], ""month""=>[""Nov""], ""year""=>[""1917""]}",,,
+12,AWD0000asc,diary,634,3,1917-11-03 00:00:00 UTC,3 Nov 1917,Monchy Sector,"[2.91965, 50.9131]","",place,Twin Copse,"{""place""=>[""Twin Copse""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+14,AWD0000asc,diary,634,2,1917-11-04 00:00:00 UTC,4 Nov 1917,Monchy Sector,"[2.91965, 50.9131]","",diaryDate,4 Nov 1917,"{""day""=>[""4""], ""month""=>[""Nov""], ""year""=>[""1917""]}",,,
+15,AWD0000asc,diary,634,2,1917-11-04 01:35:00 UTC,4 Nov 1917,Monchy Sector,"[2.91965, 50.9131]",0135AM,time,0135AM,{},,,
+17,AWD0000asc,diary,634,2,1917-11-04 01:35:00 UTC,4 Nov 1917,Monchy Sector,"[2.91965, 50.9131]",0135AM,casualties,killed: 4,{},,,
+21,AWD0000asc,diary,634,3,1917-11-04 01:35:00 UTC,4 Nov 1917,Monchy Sector,"[2.91965, 50.9131]",0135AM,activity,fire,{},,,
+23,AWD0000asc,diary,634,4,1917-11-04 01:35:00 UTC,4 Nov 1917,Monchy Sector,"[2.91965, 50.9131]",0135AM,unit,1st Hampshire Regiment,"{""name""=>[""1st Hampshire Regiment""], ""context""=>[""other""]}",,,
+26,AWD0000asc,diary,634,2,1917-11-04 01:35:00 UTC,4 Nov 1917,Monchy Sector,"[2.91965, 50.9131]",0135AM,place,Shrapnel Trench,"{""place""=>[""Shrapnel Trench""], ""location""=>[""true"", ""false""], ""name""=>[""Arras"", """"], ""lat""=>[""50.29301"", """"], ""long""=>[""2.78186"", """"], ""id""=>[""3036784"", """"]}",,,
+34,AWD0000asc,diary,634,2,1917-11-04 01:35:00 UTC,4 Nov 1917,Monchy Sector,"[2.91965, 50.9131]",0135AM,activity,fire,{},,,
+36,AWD0000asc,diary,634,2,1917-11-08 00:00:00 UTC,8 Nov 1917,Monchy Sector,"[2.91965, 50.9131]","",diaryDate,8 Nov 1917,"{""day""=>[""8""], ""month""=>[""Nov""], ""year""=>[""1917""]}",,,
+42,AWD0000asc,diary,634,4,1917-11-08 00:00:00 UTC,8 Nov 1917,Monchy Sector,"[2.91965, 50.9131]","",activity,movement,{},,,
+46,AWD0000asc,diary,634,2,1917-11-08 00:00:00 UTC,8 Nov 1917,Monchy Sector,"[2.91965, 50.9131]","",place,"Arras, ARRAS","{""place""=>[""Arras"", ""ARRAS""], ""location""=>[""false"", ""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+50,AWD0000asc,diary,634,3,1917-11-08 00:00:00 UTC,"8 Nov 1917, 1914, 1916",Monchy Sector,"[2.91965, 50.9131]","",diaryDate,"8 Nov 1917, 1914, 1916","{""day""=>[""8""], ""month""=>[""Nov""], ""year""=>[""1917"", ""1914"", ""1916""]}",,,
+51,AWD0000asc,diary,634,4,1917-11-09 00:00:00 UTC,9 Nov 1917,Monchy Sector,"[2.91965, 50.9131]","",diaryDate,9 Nov 1917,"{""day""=>[""9""], ""month""=>[""Nov""], ""year""=>[""1917""]}",,,
+52,AWD0000asc,diary,634,5,1917-11-09 00:00:00 UTC,9 Nov 1917,Arras,"[0.0, 0.0]","",place,Arras,"{""place""=>[""Arras""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2967451,Warlus,"[2.66872, 50.27482]"
+54,AWD0000asc,diary,634,4,1917-11-09 00:00:00 UTC,9 Nov 1917,Arras,"[0.0, 0.0]","",activity,training,{},2967451,Warlus,"[2.66872, 50.27482]"
+56,AWD0000asc,diary,634,3,1917-11-09 00:00:00 UTC,9 Nov 1917,"ACHICOURT, Achicort, achicourt","[0.0, 0.0]","",place,"ACHICOURT, Achicort, achicourt","{""place""=>[""ACHICOURT"", ""Achicort"", ""achicourt""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3038703,Achicourt,"[2.75779, 50.27429]"
+57,AWD0000asc,diary,634,3,1917-11-09 00:00:00 UTC,9 Nov 1917,"Beaurains, Beauraine, BEANRAINS","[0.0, 0.0]","",place,"Beaurains, Beauraine, BEANRAINS","{""place""=>[""Beaurains"", ""Beauraine"", ""BEANRAINS""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+61,AWD0000asc,diary,634,3,1917-11-24 00:00:00 UTC,"24 Nov 1917, 1916, 1914","Beaurains, Beauraine, BEANRAINS","[0.0, 0.0]","",diaryDate,"24 Nov 1917, 1916, 1914","{""day""=>[""24""], ""month""=>[""Nov""], ""year""=>[""1917"", ""1916"", ""1914""]}",,,
+2,AWD0000asq,diary,635,6,1914-11-09 00:00:00 UTC,"9 Nov 1914, 1917","Beaurains, Beauraine, BEANRAINS","[0.0, 0.0]","",diaryDate,"9 Nov 1914, 1917","{""day""=>[""9""], ""month""=>[""Nov""], ""year""=>[""1914"", ""1917""]}",,,
+3,AWD0000asq,diary,635,4,1914-11-09 00:00:00 UTC,"9 Nov 1914, 1917","Beaurains, Beauraine, BEANRAINS","[0.0, 0.0]","",domestic,inspections,{},,,
+4,AWD0000asq,diary,635,5,1914-11-09 00:00:00 UTC,"9 Nov 1914, 1917",Arras,"[0.0, 0.0]","",place,Arras,"{""place""=>[""Arras""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2967451,Warlus,"[2.66872, 50.27482]"
+5,AWD0000asq,diary,635,3,1914-11-17 00:00:00 UTC,17 Nov 1914,Arras,"[0.0, 0.0]","",diaryDate,17 Nov 1914,"{""day""=>[""17""], ""month""=>[""Nov""], ""year""=>[""1914""]}",2967451,Warlus,"[2.66872, 50.27482]"
+7,AWD0000asq,diary,635,3,1914-11-17 00:00:00 UTC,17 Nov 1914,Arras,"[0.0, 0.0]","",activity,training,{},2967451,Warlus,"[2.66872, 50.27482]"
+8,AWD0000asq,diary,635,3,1914-11-17 00:00:00 UTC,17 Nov 1914,Arras,"[0.0, 0.0]","",domestic,parades,{},2967451,Warlus,"[2.66872, 50.27482]"
+9,AWD0000asq,diary,635,2,1914-11-17 00:00:00 UTC,17 Nov 1914,Arras,"[0.0, 0.0]","",domestic,other,{},2967451,Warlus,"[2.66872, 50.27482]"
+11,AWD0000asq,diary,635,3,1914-11-17 00:00:00 UTC,17 Nov 1914,Butte de Tir,"[0.0, 0.0]","",place,Butte de Tir,"{""place""=>[""Butte de Tir""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+14,AWD0000asq,diary,635,2,1917-11-24 00:00:00 UTC,24 Nov 1917,Butte de Tir,"[0.0, 0.0]","",diaryDate,24 Nov 1917,"{""day""=>[""24""], ""month""=>[""Nov""], ""year""=>[""1917""]}",,,
+18,AWD0000asq,diary,635,2,1917-11-24 00:00:00 UTC,24 Nov 1917,Butte de Tir,"[0.0, 0.0]","",domestic,parades,{},,,
+23,AWD0000asq,diary,635,3,1914-11-19 00:00:00 UTC,19 Nov 1914,Butte de Tir,"[0.0, 0.0]","",diaryDate,19 Nov 1914,"{""day""=>[""19""], ""month""=>[""Nov""], ""year""=>[""1914""]}",,,
+24,AWD0000asq,diary,635,2,1914-11-19 00:00:00 UTC,19 Nov 1914,Butte de Tir,"[0.0, 0.0]","",activity,other,{},,,
+25,AWD0000asq,diary,635,2,1914-11-19 00:00:00 UTC,19 Nov 1914,Butte de Tir,"[0.0, 0.0]","",activity,withdraw,{},,,
+26,AWD0000asq,diary,635,2,1914-11-19 00:00:00 UTC,19 Nov 1914,Butte de Tir,"[0.0, 0.0]","",place,"MONCHY, Monchy","{""place""=>[""MONCHY"", ""Monchy""], ""location""=>[""true"", ""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+39,AWD0000asq,diary,635,2,1914-11-24 00:00:00 UTC,"24 Nov 1914, 1917",Butte de Tir,"[0.0, 0.0]","",diaryDate,"24 Nov 1914, 1917","{""day""=>[""24""], ""month""=>[""Nov""], ""year""=>[""1914"", ""1917""]}",,,
+40,AWD0000asq,diary,635,2,1914-11-24 00:00:00 UTC,"24 Nov 1914, 1917",Butte de Tir,"[0.0, 0.0]","",unit,"2nd Bn The Essex Regiment, 2nd Btn. The Essex Regiment","{""name""=>[""2nd Bn The Essex Regiment"", ""2nd Btn. The Essex Regiment""], ""context""=>[""relieved""]}",,,
+41,AWD0000asq,diary,635,3,1914-11-24 00:00:00 UTC,"24 Nov 1914, 1917",Butte de Tir,"[0.0, 0.0]","",place,Monchy,"{""place""=>[""Monchy""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+42,AWD0000asq,diary,635,2,1914-11-24 00:00:00 UTC,"24 Nov 1914, 1917",Monchy Defences,"[0.0, 0.0]","",place,Monchy Defences,"{""place""=>[""Monchy Defences""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2972571,Tilloy-lès-Mofflaines,"[2.81456, 50.27519]"
+44,AWD0000asq,diary,635,5,1914-11-24 00:00:00 UTC,24 Nov 1914,Monchy Defences,"[0.0, 0.0]","",diaryDate,24 Nov 1914,"{""day""=>[""24""], ""month""=>[""Nov""], ""year""=>[""1914""]}",2972571,Tilloy-lès-Mofflaines,"[2.81456, 50.27519]"
+46,AWD0000asq,diary,635,2,1914-11-24 00:00:00 UTC,24 Nov 1914,Monchy Defences,"[0.0, 0.0]","",place,Monchy,"{""place""=>[""Monchy""], ""location""=>[""false"", ""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2972571,Tilloy-lès-Mofflaines,"[2.81456, 50.27519]"
+50,AWD0000asq,diary,635,2,1914-11-24 00:00:00 UTC,24 Nov 1914,Monchy Defences,"[0.0, 0.0]","",activity,repair,{},2972571,Tilloy-lès-Mofflaines,"[2.81456, 50.27519]"
+55,AWD0000asq,diary,635,2,1914-11-24 00:00:00 UTC,24 Nov 1914,Monchy Defences,"[0.0, 0.0]","",place,"Monchy, Monchy ","{""place""=>[""Monchy"", ""Monchy ""], ""location""=>[""false"", ""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2972571,Tilloy-lès-Mofflaines,"[2.81456, 50.27519]"
+58,AWD0000asq,diary,635,2,1914-11-24 00:00:00 UTC,24 Nov 1914,Monchy Defences,"[0.0, 0.0]","",activity,other,{},2972571,Tilloy-lès-Mofflaines,"[2.81456, 50.27519]"
+61,AWD0000asq,diary,635,3,1917-11-28 00:00:00 UTC,28 Nov 1917,Monchy Defences,"[0.0, 0.0]","",diaryDate,28 Nov 1917,"{""day""=>[""28""], ""month""=>[""Nov""], ""year""=>[""1917""]}",2972571,Tilloy-lès-Mofflaines,"[2.81456, 50.27519]"
+65,AWD0000asq,diary,635,3,1917-11-28 00:00:00 UTC,28 Nov 1917,Monchy Defences,"[0.0, 0.0]","",unit,"8th Battalion, The Seaforth Highlanders, 8th Battalion, Seaforth Highlanders, 8TH BATTALLION THE SEAFORTH HIGHLANDERS","{""name""=>[""8th Battalion, The Seaforth Highlanders"", ""8th Battalion, Seaforth Highlanders"", ""8TH BATTALLION THE SEAFORTH HIGHLANDERS""], ""context""=>[""relieved""]}",2972571,Tilloy-lès-Mofflaines,"[2.81456, 50.27519]"
+67,AWD0000asq,diary,635,2,1917-11-28 00:00:00 UTC,28 Nov 1917,Monchy Defences,"[0.0, 0.0]","",unit,"Somerset light infantry, SOMERSET LIGHT INFANTRY","{""name""=>[""Somerset light infantry"", ""SOMERSET LIGHT INFANTRY""], ""context""=>[""other"", ""relieved_by""]}",2972571,Tilloy-lès-Mofflaines,"[2.81456, 50.27519]"
+72,AWD0000asq,diary,635,2,1917-11-28 00:00:00 UTC,28 Nov 1917,Monchy Defences,"[0.0, 0.0]","",unit,"8Bn Seaforth Highlanders, Seaforth highlanders","{""name""=>[""8Bn Seaforth Highlanders"", ""Seaforth highlanders""], ""context""=>[""relieved"", ""other""]}",2972571,Tilloy-lès-Mofflaines,"[2.81456, 50.27519]"
+1,AWD0000aq8,diary,636,4,1917-11-29 00:00:00 UTC,29 Nov 1917,Monchy Defences,"[0.0, 0.0]","",diaryDate,29 Nov 1917,"{""day""=>[""29""], ""month""=>[""Nov""], ""year""=>[""1917""]}",2972571,Tilloy-lès-Mofflaines,"[2.81456, 50.27519]"
+9,AWD0000aq8,diary,636,3,1917-11-29 00:00:00 UTC,29 Nov 1917,Front Line,"[0.0, 0.0]","",place,Front Line,"{""place""=>[""Front Line""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3036784,Arras,"[2.78186, 50.29301]"
+11,AWD0000aq8,diary,636,2,1917-11-29 00:00:00 UTC,29 Nov 1917,Front Line,"[0.0, 0.0]","",place,"Bit. Lane, Bit Lane","{""place""=>[""Bit. Lane"", ""Bit Lane""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3036784,Arras,"[2.78186, 50.29301]"
+12,AWD0000aq8,diary,636,2,1917-11-29 00:00:00 UTC,29 Nov 1917,Front Line,"[0.0, 0.0]","",gridRef,I 31 d 9 1,{},3036784,Arras,"[2.78186, 50.29301]"
+13,AWD0000aq8,diary,636,2,1917-11-29 00:00:00 UTC,"29 Nov 1917, 1914",Front Line,"[0.0, 0.0]","",diaryDate,"29 Nov 1917, 1914","{""day""=>[""29""], ""month""=>[""Nov""], ""year""=>[""1917"", ""1914""]}",3036784,Arras,"[2.78186, 50.29301]"
+14,AWD0000aq8,diary,636,4,,"29 Nov 1917, 1914",Front Line,"[0.0, 0.0]",1200PM,time,1200PM,{},3036784,Arras,"[2.78186, 50.29301]"
+15,AWD0000aq8,diary,636,2,,"29 Nov 1917, 1914",Front Line,"[0.0, 0.0]",0335PM,time,0335PM,{},3036784,Arras,"[2.78186, 50.29301]"
+20,AWD0000aq8,diary,636,4,,"29 Nov 1917, 1914",Front Line,"[0.0, 0.0]",0335PM,activity,fire,{},3036784,Arras,"[2.78186, 50.29301]"
+27,AWD0000aq8,diary,636,3,1917-11-30 00:00:00 UTC,30 Nov 1917,Front Line,"[0.0, 0.0]","",diaryDate,30 Nov 1917,"{""day""=>[""30""], ""month""=>[""Nov""], ""year""=>[""1917""]}",3036784,Arras,"[2.78186, 50.29301]"
+28,AWD0000aq8,diary,636,2,1917-11-30 00:00:00 UTC,30 Nov 1917,Front Line,"[0.0, 0.0]","",activity,attack,{},3036784,Arras,"[2.78186, 50.29301]"
+29,AWD0000aq8,diary,636,3,1917-11-30 00:00:00 UTC,30 Nov 1917,Front Line,"[0.0, 0.0]","",activity,fire,{},3036784,Arras,"[2.78186, 50.29301]"
+31,AWD0000aq8,diary,636,2,1917-11-30 06:00:00 UTC,30 Nov 1917,Front Line,"[0.0, 0.0]",0600AM,time,0600AM,{},3036784,Arras,"[2.78186, 50.29301]"
+35,AWD0000aq8,diary,636,3,1917-11-30 15:45:00 UTC,30 Nov 1917,Front Line,"[0.0, 0.0]",0345PM,time,0345PM,{},3036784,Arras,"[2.78186, 50.29301]"
+36,AWD0000aq8,diary,636,3,1917-11-30 15:45:00 UTC,30 Nov 1917,Front Line,"[0.0, 0.0]",0345PM,place,Monchy Trench,"{""place""=>[""Monchy Trench""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3036784,Arras,"[2.78186, 50.29301]"
+43,AWD0000aq8,diary,636,2,1917-11-30 15:45:00 UTC,30 Nov 1917,Front Line,"[0.0, 0.0]",0345PM,activity,fire,{},3036784,Arras,"[2.78186, 50.29301]"
+46,AWD0000aq8,diary,636,3,1917-11-30 15:45:00 UTC,30 Nov 1917,Front Line,"[0.0, 0.0]",0345PM,person,Second Lieutenant G Cole,"{""first""=>[""G""], ""surname""=>[""Cole""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""1st Rifle Brigade""]}",3036784,Arras,"[2.78186, 50.29301]"
+5,AWD0000apo,orders,638,6,,,,[],,person,Major H S C Peyton,"{""first""=>[""H S C""], ""surname""=>[""Peyton""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+7,AWD0000apo,orders,638,6,,,,[],,date,3 Nov 1917,{},,,
+8,AWD0000apo,orders,638,4,,,,[],,orders,move,{},,,
+11,AWD0000apo,orders,638,2,,,,[],,reference,Vine Avenue,{},,,
+15,AWD0000apo,orders,638,4,,,,[],,person,Captain J A Davison,"{""first""=>[""J A""], ""surname""=>[""Davison""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other"", ""author""], ""unit""=>[""1st Btn. The Rifle Brigade."", ""1st Batallion, Rifle Brigade"", ""1st Battalion, Rifle Brigade"", ""1st Battalion, The Rifle Brigade""]}",,,
+5,AWD0000as8,orders,639,7,,,,[],,person,Major H S C Peyton,"{""first""=>[""H S C""], ""surname""=>[""Peyton""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""1st Battalion, The Rifle Brigade""]}",,,
+7,AWD0000as8,orders,639,6,,,,[],,date,7 Nov 1917,{},,,
+7,AWD0000asa,orders,640,6,,,,[],,person,Captain J A Davison,"{""first""=>[""J A""], ""surname""=>[""Davison""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""1st Battalion, The Rifle Brigade""]}",,,
+3,AWD0000atz,orders,641,3,,,,[],,orders,move,{},,,
+6,AWD0000atz,orders,641,7,,,,[],,person,Major H S C Peyton,"{""first""=>[""H S C""], ""surname""=>[""Peyton""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+9,AWD0000atz,orders,641,7,,,,[],,date,19 Nov 1917,{},,,
+12,AWD0000atz,orders,641,2,,,,[],,person,Major Harry Peyton,"{""first""=>[""Harry""], ""surname""=>[""Peyton""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""1st Bn The Rifle Brigade"", ""1st Battalion, The Rifle Brigade""]}",,,
+4,AWD0000ara,orders,643,7,,,,[],,person,Major H S C Peyton,"{""first""=>[""H S C""], ""surname""=>[""Peyton""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""1st Battalion, The Rifle Brigade""]}",,,
+8,AWD0000ara,orders,643,5,,,,[],,date,21 Nov 1917,{},,,
+11,AWD0000ara,orders,643,5,,,,[],,person,Captain J A Dawson,"{""first""=>[""J A""], ""surname""=>[""Dawson""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""1st Battalion, The Rifle Brigade""]}",,,
+2,AWD0000atn,orders,646,2,,,,[],,reference,App. V,{},,,
+4,AWD0000atn,orders,646,6,,,,[],,person,Major H S C Peyton,"{""first""=>[""H S C""], ""surname""=>[""Peyton""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+7,AWD0000atn,orders,646,2,,,,[],,reference,"Ref ""J"" Corps T.S. 87(c) Sheets 51B N.W. & S.W.",{},,,
+8,AWD0000atn,orders,646,6,,,,[],,date,23 Nov 1917,{},,,
+9,AWD0000atn,orders,646,3,,,,[],,orders,move,{},,,
+5,AWD0000apk,orders,647,3,,,,[],,person,Second Lieutenant C N Etheridge,"{""first""=>[""C N""], ""surname""=>[""Etheridge""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+6,AWD0000apk,orders,647,4,,,,[],,person,Captain J A Dawson,"{""first""=>[""J A""], ""surname""=>[""Dawson""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""1st Battalion, The Rifle Brigade"", ""1st Batt. The Rifle Brigade"", """", ""1st Btn. The Rifle Brigade.""]}",,,
+1,AWD0000at4,orders,648,2,,,,[],,orders,other,{},,,
+3,AWD0000at4,orders,648,7,,,,[],,person,Major H S C Peyton,"{""first""=>[""H S C""], ""surname""=>[""Peyton""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""1st Battalion, The Rifle Brigade"", """"]}",,,
+7,AWD0000at4,orders,648,6,,,,[],,date,28 Nov 1917,{},,,
+8,AWD0000at4,orders,648,2,,,,[],,orders,move,{},,,
+5,AWD0000asv,orders,649,3,,,,[],,person,Sergeant  Shadbolt,"{""first""=>[""""], ""surname""=>[""Shadbolt""], ""rank""=>[""Sergeant""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+7,AWD0000asv,orders,649,2,,,,[],,orders,routine,{},,,
+11,AWD0000asv,orders,649,3,,,,[],,person,Captain J A Dawson,"{""first""=>[""J A""], ""surname""=>[""Dawson""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""1st Batt. The Rifle Brigade"", ""1st Battalion, The Rifle Brigade"", ""1st Btn. The Rifle Brigade.""]}",,,
+1,AWD0000aqv,orders,650,2,,,,[],,orders,attack,{},,,
+7,AWD0000aqv,orders,650,2,,,,[],,person,"Lieutenant Colonel J C, Fellowes, Fellows","{""first""=>[""J C"", """"], ""surname""=>[""Fellowes"", ""Fellows""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""author"", ""other""], ""unit""=>[""1st Battalion, The Rifle Brigade"", ""1st Bn The Rifle Brigade""]}",,,
+2,AWD0000arc,orders,651,2,,,,[],,reference,170.12,{},,,
+3,AWD0000arc,orders,651,4,,,,[],,person,Major H S C Peyton,"{""first""=>[""H S C""], ""surname""=>[""Peyton""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""1st Bn The Rifle Brigade""]}",,,
+5,AWD0000arc,orders,651,4,,,,[],,date,28 Nov 1917,{},,,
+6,AWD0000arc,orders,651,2,,,,[],,orders,attack,{},,,
+10,AWD0000arc,orders,651,2,,,,[],,person,"Captain ,J A Davidson, DAVISON","{""first""=>["""", ""J A""], ""surname""=>[""Davidson"", ""DAVISON""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>["""", ""1st Btn. The Rifle Brigade""]}",,,
+4,AWD0000apx,orders,652,4,,,,[],,person,Sergeant  Shadbolt,"{""first""=>[""""], ""surname""=>[""Shadbolt""], ""rank""=>[""Sergeant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+5,AWD0000apx,orders,652,2,,,,[],,orders,routine,{},,,
+7,AWD0000apx,orders,652,4,,,,[],,person,Captain J A Dawson,"{""first""=>[""J A""], ""surname""=>[""Dawson""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""1st Battalion, The Rifle Brigade""]}",,,
+6,AWD0000asn,orders,653,5,,,,[],,person,Major H S C Peyton,"{""first""=>[""H S C""], ""surname""=>[""Peyton""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""1st Battalion, The Rifle Brigade"", """"]}",,,
+11,AWD0000asn,orders,653,5,,,,[],,date,28 Nov 1917,{},,,
+13,AWD0000asn,orders,653,2,,,,[],,orders,move,{},,,
+31,AWD0000asn,orders,653,2,,,,[],,unit,3/10th Batallion Middlesex Regiment,"{""name""=>[""3/10th Batallion Middlesex Regiment""], ""context""=>[""relieved""]}",,,
+2,AWD0000asd,orders,654,2,,,,[],,date,24 Nov 1917,{},,,
+15,AWD0000asd,orders,654,2,,,,[],,date,24 Nov 1917,{},,,
+16,AWD0000asd,orders,654,3,,,,[],,person,"Captain J A Dansum, Danson, Dawson","{""first""=>[""J A""], ""surname""=>[""Dansum"", ""Danson"", ""Dawson""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""1st Battalion, The Rifle Brigade""]}",,,
+7,AWD0000aqg,orders,655,4,,,,[],,person,Second Lieutenant C N Etheridge,"{""first""=>[""C N""], ""surname""=>[""Etheridge""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+9,AWD0000aqg,orders,655,4,,,,[],,person,Captain J A Dawson,"{""first""=>[""J A""], ""surname""=>[""Dawson""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other"", ""author""], ""unit""=>[""1st Battalion, The Rifle Brigade""]}",,,
+1,AWD0000ate,orders,656,2,,,,[],,reference,Appendix IX,{},,,
+4,AWD0000ate,orders,656,2,,,,[],,reference,Appendix V,{},,,
+6,AWD0000ate,orders,656,6,,,,[],,person,Major H S C Peyton,"{""first""=>[""H S C""], ""surname""=>[""Peyton""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""1st Battalion, The Rifle Brigade""]}",,,
+7,AWD0000ate,orders,656,2,,,,[],,reference,"Ref. ""J"" Corps T.S. 87(c) Sheets 51B. N.W. & S.W.",{},,,
+11,AWD0000ate,orders,656,6,,,,[],,date,23 Nov 1917,{},,,
+14,AWD0000ate,orders,656,3,,,,[],,orders,move,{},,,
+23,AWD0000ate,orders,656,4,,,,[],,person,Second Lieutenant G J Cole,"{""first""=>[""G J""], ""surname""=>[""Cole""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other"", ""author""], ""unit""=>[""""]}",,,
+3,AWD0000asg,orders,657,6,,,,[],,person,Major H S C Peyton,"{""first""=>[""H S C""], ""surname""=>[""Peyton""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other"", ""author""], ""unit""=>[""1st Battalion, The Rifle Brigade""]}",,,
+4,AWD0000asg,orders,657,2,,,,[],,reference,Hamblain-Les-Pres,{},,,
+7,AWD0000asg,orders,657,7,,,,[],,date,21 Nov 1917,{},,,
+12,AWD0000asg,orders,657,3,,,,[],,person,Captain J A Dawson,"{""first""=>[""J A""], ""surname""=>[""Dawson""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""1st Battalion, The Rifle Brigade""]}",,,
+1,AWD0000arz,orders,658,2,,,,[],,orders,other,{},,,
+3,AWD0000arz,orders,658,4,,,,[],,person,Major H S C Peyton,"{""first""=>[""H S C""], ""surname""=>[""Peyton""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""1st Battalion The Rifle Brigade"", ""1st Battalion, The Rifle Brigade"", ""1st Battailion, The Rifle Brigade"", """"]}",,,
+6,AWD0000arz,orders,658,4,,,,[],,date,19 Nov 1917,{},,,
+9,AWD0000arz,orders,658,2,,,,[],,date,10 Nov 1917,{},,,
+2,AWD0000arw,report,660,2,,,,[],,title,Casualties for November,{},,,
+5,AWD0000arw,report,660,2,,,,[],,date,6 Nov 1917,{},,,
+6,AWD0000arw,report,660,2,,,,[],,diaryDate,4 Nov 1917,"{""day""=>[""4""], ""month""=>[""Nov""], ""year""=>[""1917""]}",,,
+7,AWD0000arw,report,660,7,,,,[],,person,Second Lieutenant F H Hayden,"{""first""=>[""F H""], ""surname""=>[""Hayden""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",,,
+11,AWD0000arw,report,660,2,,,,[],,diaryDate,21 Nov 1917,"{""day""=>[""21""], ""month""=>[""Nov""], ""year""=>[""1917""]}",,,
+13,AWD0000arw,report,660,6,,,,[],,person,Lieutenant W L Shaw,"{""first""=>[""W L""], ""surname""=>[""Shaw""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_sick""], ""unit""=>[""""]}",,,
+14,AWD0000arw,report,660,6,,,,[],,person,Second Lieutenant H G Garrett,"{""first""=>[""H G""], ""surname""=>[""Garrett""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_sick""], ""unit""=>[""""]}",,,
+15,AWD0000arw,report,660,2,,,,[],,diaryDate,16 Nov 1917,"{""day""=>[""16""], ""month""=>[""Nov""], ""year""=>[""1917""]}",,,
+23,AWD0000arw,report,660,4,,,,[],,person,Second Lieutenant G J Cole,"{""first""=>[""G J""], ""surname""=>[""Cole""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""1st Battalion, The Rifle Brigade""]}",,,
+25,AWD0000arw,report,660,2,,,,[],,date,21 Nov 1917,{},,,
+1,AWD0000ata,"report, diary",661,3,,,,[],,reference,Appendix III,{},,,
+2,AWD0000ata,"report, diary",661,4,,,,[],,diaryDate,17 Nov 1917,"{""day""=>[""17""], ""month""=>[""Nov""], ""year""=>[""1917""]}",,,
+3,AWD0000ata,"report, diary",661,4,,,,[],,date,17 Nov 1917,{},,,
+8,AWD0000ata,"report, diary",661,6,,,,[],,person,Captain H M Craigmile,"{""first""=>[""H M""], ""surname""=>[""Craigmile""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""award""], ""unit""=>[""""]}",,,
+9,AWD0000ata,"report, diary",661,2,,,,[],,person,Captain Alexander Murray Craigmile,"{""first""=>[""Alexander Murray""], ""surname""=>[""Craigmile""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""award""], ""unit""=>[""""]}",,,
+10,AWD0000ata,"report, diary",661,8,,,,[],,person,Sergeant  Buss,"{""first""=>[""""], ""surname""=>[""Buss""], ""rank""=>[""Sergeant""], ""number""=>[""4845""], ""reason""=>[""award""], ""unit""=>[""""]}",,,
+11,AWD0000ata,"report, diary",661,8,,,,[],,person,Sergeant  Waters,"{""first""=>[""""], ""surname""=>[""Waters""], ""rank""=>[""Sergeant""], ""number""=>[""""], ""reason""=>[""award""], ""unit""=>[""""]}",,,
+12,AWD0000ata,"report, diary",661,7,,,,[],,person,Corporal  Tutt,"{""first""=>[""""], ""surname""=>[""Tutt""], ""rank""=>[""Corporal""], ""number""=>[""14712""], ""reason""=>[""award""], ""unit""=>[""""]}",,,
+13,AWD0000ata,"report, diary",661,6,,,,[],,person,Corporal  Goodacre,"{""first""=>[""""], ""surname""=>[""Goodacre""], ""rank""=>[""Corporal""], ""number""=>[""16303""], ""reason""=>[""award""], ""unit""=>[""""]}",,,
+15,AWD0000ata,"report, diary",661,8,,,,[],,person,Rifleman  Marshall,"{""first""=>[""""], ""surname""=>[""Marshall""], ""rank""=>[""Rifleman""], ""number""=>[""203482""], ""reason""=>[""award""], ""unit""=>[""""]}",,,
+16,AWD0000ata,"report, diary",661,8,,,,[],,person,Rifleman  Mendes,"{""first""=>[""""], ""surname""=>[""Mendes""], ""rank""=>[""Rifleman""], ""number""=>[""203484""], ""reason""=>[""award""], ""unit""=>[""""]}",,,
+17,AWD0000ata,"report, diary",661,8,,,,[],,person,Rifleman  Marsh,"{""first""=>[""""], ""surname""=>[""Marsh""], ""rank""=>[""Rifleman""], ""number""=>[""28274""], ""reason""=>[""award""], ""unit""=>[""""]}",,,
+18,AWD0000ata,"report, diary",661,8,,,,[],,person,"Rifleman  Burkenshaw, Burtenshaw","{""first""=>[""""], ""surname""=>[""Burkenshaw"", ""Burtenshaw""], ""rank""=>[""Rifleman""], ""number""=>[""613""], ""reason""=>[""award""], ""unit""=>[""""]}",,,
+19,AWD0000ata,"report, diary",661,8,,,,[],,person,Rifleman  Avery,"{""first""=>[""""], ""surname""=>[""Avery""], ""rank""=>[""Rifleman""], ""number""=>[""27556""], ""reason""=>[""award""], ""unit""=>[""""]}",,,
+20,AWD0000ata,"report, diary",661,7,,,,[],,person,Rifleman  Robbins,"{""first""=>[""""], ""surname""=>[""Robbins""], ""rank""=>[""Rifleman""], ""number""=>[""985""], ""reason""=>[""award""], ""unit""=>[""""]}",,,
+2,AWD0000aqz,report,662,2,,,,[],,title,bons,{},,,
+6,AWD0000aqz,report,662,5,,,,[],,person,Captain T B Heward,"{""first""=>[""T B""], ""surname""=>[""Heward""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",,,
+7,AWD0000aqz,report,662,2,,,,[],,date,1 Nov 1917,{},,,
+9,AWD0000aqz,report,662,3,,,,[],,person,Second Lieutenant W H Corris,"{""first""=>[""W H""], ""surname""=>[""Corris""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",,,
+10,AWD0000aqz,report,662,5,,,,[],,date,1 Nov 1917,{},,,
+11,AWD0000aqz,report,662,2,,,,[],,person,Second Lieutenant T W Collis,"{""first""=>[""T W""], ""surname""=>[""Collis""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",,,
+12,AWD0000aqz,report,662,2,,,,[],,date,2 Nov 1917,{},,,
+13,AWD0000aqz,report,662,5,,,,[],,person,Second Lieutenant A E Salter,"{""first""=>[""A E""], ""surname""=>[""Salter""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",,,
+14,AWD0000aqz,report,662,2,,,,[],,date,6 Nov 1917,{},,,
+15,AWD0000aqz,report,662,2,,,,[],,date,9 Nov 1917,{},,,
+17,AWD0000aqz,report,662,5,,,,[],,person,Second Lieutenant A G Waymouth,"{""first""=>[""A G""], ""surname""=>[""Waymouth""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",,,
+18,AWD0000aqz,report,662,6,,,,[],,date,15 Nov 1917,{},,,
+19,AWD0000aqz,report,662,5,,,,[],,person,Second Lieutenant A B Laver,"{""first""=>[""A B""], ""surname""=>[""Laver""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",,,
+21,AWD0000aqz,report,662,5,,,,[],,person,Second Lieutenant C F Bailey,"{""first""=>[""C F""], ""surname""=>[""Bailey""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",,,
+22,AWD0000aqz,report,662,5,,,,[],,date,16 Nov 1917,{},,,
+24,AWD0000aqz,report,662,5,,,,[],,person,Second Lieutenant D K Davy,"{""first""=>[""D K""], ""surname""=>[""Davy""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",,,
+25,AWD0000aqz,report,662,3,,,,[],,date,28 Nov 1917,{},,,
+1,AWD0000as6,report,663,2,,,,[],,reference,Appendix XIV,{},,,
+4,AWD0000as6,report,663,3,,,,[],,title,Sick during October 1917,{},,,
+6,AWD0000as6,report,663,5,,,,[],,person,Second Lieutenant C N Etheridge,"{""first""=>[""C N""], ""surname""=>[""Etheridge""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_sick""], ""unit""=>[""""]}",,,
+5,AWD0000atm,orders,664,3,,,,[],,orders,move,{},,,
+11,AWD0000atm,orders,664,2,,,,[],,time,0200PM,{},,,
+17,AWD0000atm,orders,664,2,,,,[],,domestic,rations,{},,,
+19,AWD0000atm,orders,664,2,,,,[],,domestic,uniform,{},,,
+22,AWD0000atm,orders,664,5,,,,[],,person,Sergeant  Shadbolt,"{""first""=>[""""], ""surname""=>[""Shadbolt""], ""rank""=>[""Sergeant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+31,AWD0000atm,orders,664,4,,,,[],,person,Captain J A Dawson,"{""first""=>[""J A""], ""surname""=>[""Dawson""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other"", ""author""], ""unit""=>[""1st Battalion, The Rifle Brigade""]}",,,
+7,AWD0000aq4,orders,665,7,,,,[],,person,Major H S C Peyton,"{""first""=>[""H S C""], ""surname""=>[""Peyton""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""1st Battalion, The Rifle Brigade""]}",,,
+11,AWD0000aq4,orders,665,7,,,,[],,date,7 Nov 1917,{},,,
+3,AWD0000ars,orders,666,2,,,,[],,reference,Appendix I,{},,,
+4,AWD0000ars,orders,666,3,,,,[],,orders,move,{},,,
+5,AWD0000ars,orders,666,6,,,,[],,person,Major H S C Peyton,"{""first""=>[""H S C""], ""surname""=>[""Peyton""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other"", ""author""], ""unit""=>[""""]}",,,
+9,AWD0000ars,orders,666,5,,,,[],,date,3 Nov 1917,{},,,
+24,AWD0000ars,orders,666,3,,,,[],,person,Captain J A Dawson,"{""first""=>[""J A""], ""surname""=>[""Dawson""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>["""", ""1st Battalion, The Rifle Brigade"", ""1st Batt., The Rifle Brigade""]}",,,
+3,AWD0000as9,diary,670,5,1917-12-01 00:00:00 UTC,1 Dec 1917,Front Line,"[0.0, 0.0]","",diaryDate,1 Dec 1917,"{""day""=>[""1""], ""month""=>[""Dec""], ""year""=>[""1917""]}",3036784,Arras,"[2.78186, 50.29301]"
+4,AWD0000as9,diary,670,3,1917-12-01 00:00:00 UTC,1 Dec 1917,"MONCHY B SECTOR, Monchy N. Sector, Monchy, N. Sector","[0.0, 0.0]","",place,"MONCHY B SECTOR, Monchy N. Sector, Monchy, N. Sector","{""place""=>[""MONCHY B SECTOR"", ""Monchy N. Sector"", ""Monchy, N. Sector""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+5,AWD0000as9,diary,670,3,1917-12-01 00:00:00 UTC,1 Dec 1917,"MONCHY B SECTOR, Monchy N. Sector, Monchy, N. Sector","[0.0, 0.0]","",diaryDate,1 Dec 1917,"{""day""=>[""1""], ""month""=>[""Dec""], ""year""=>[""1917""]}",,,
+7,AWD0000as9,diary,670,2,1917-12-01 00:00:00 UTC,1 Dec 1917,"MONCHY B SECTOR, Monchy N. Sector, Monchy, N. Sector","[0.0, 0.0]","",activity,quiet,{},,,
+8,AWD0000as9,diary,670,2,1917-12-01 19:00:00 UTC,1 Dec 1917,"MONCHY B SECTOR, Monchy N. Sector, Monchy, N. Sector","[0.0, 0.0]",0700PM,time,0700PM,{},,,
+13,AWD0000as9,diary,670,2,1917-12-01 19:00:00 UTC,1 Dec 1917,"MONCHY B SECTOR, Monchy N. Sector, Monchy, N. Sector","[0.0, 0.0]",0700PM,place,"Long Trench, Long Trenches","{""place""=>[""Long Trench"", ""Long Trenches""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+18,AWD0000as9,diary,670,2,1917-12-01 19:00:00 UTC,1 Dec 1917,"MONCHY B SECTOR, Monchy N. Sector, Monchy, N. Sector","[0.0, 0.0]",0700PM,activity,attack,{},,,
+23,AWD0000as9,diary,670,2,1917-12-01 19:00:00 UTC,1 Dec 1917,"MONCHY B SECTOR, Monchy N. Sector, Monchy, N. Sector","[0.0, 0.0]",0700PM,activity,fire,{},,,
+24,AWD0000as9,diary,670,2,1917-12-01 20:30:00 UTC,1 Dec 1917,"MONCHY B SECTOR, Monchy N. Sector, Monchy, N. Sector","[0.0, 0.0]",0830PM,time,0830PM,{},,,
+27,AWD0000as9,diary,670,2,1917-12-01 20:30:00 UTC,1 Dec 1917,"MONCHY B SECTOR, Monchy N. Sector, Monchy, N. Sector","[0.0, 0.0]",0830PM,activity,attack,{},,,
+33,AWD0000as9,diary,670,2,1917-12-01 20:30:00 UTC,1 Dec 1917,"MONCHY B SECTOR, Monchy N. Sector, Monchy, N. Sector","[0.0, 0.0]",0830PM,activity,enemy_activity,{},,,
+34,AWD0000as9,diary,670,6,1917-12-02 00:00:00 UTC,2 Dec 1917,"MONCHY B SECTOR, Monchy N. Sector, Monchy, N. Sector","[0.0, 0.0]","",diaryDate,2 Dec 1917,"{""day""=>[""2""], ""month""=>[""Dec""], ""year""=>[""1917""]}",,,
+35,AWD0000as9,diary,670,3,1917-12-02 00:00:00 UTC,2 Dec 1917,"MONCHY B SECTOR, Monchy N. Sector, Monchy, N. Sector","[0.0, 0.0]","",activity,quiet,{},,,
+36,AWD0000as9,diary,670,2,1917-12-02 00:00:00 UTC,2 Dec 1917,"MONCHY B SECTOR, Monchy N. Sector, Monchy, N. Sector","[0.0, 0.0]","",reference,Appendix I,{},,,
+43,AWD0000as9,diary,670,3,1917-12-02 00:00:00 UTC,2 Dec 1917,"MONCHY B SECTOR, Monchy N. Sector, Monchy, N. Sector","[0.0, 0.0]","",unit,"1st Battalion, Somerset Light Infantry","{""name""=>[""1st Battalion, Somerset Light Infantry""], ""context""=>[""relieved_by""]}",,,
+44,AWD0000as9,diary,670,2,1917-12-02 00:00:00 UTC,2 Dec 1917,"MONCHY B SECTOR, Monchy N. Sector, Monchy, N. Sector","[0.0, 0.0]","",reference,Appendix II,{},,,
+45,AWD0000as9,diary,670,4,1917-12-02 00:00:00 UTC,2 Dec 1917,"MONCHY B SECTOR, Monchy N. Sector, Monchy, N. Sector","[0.0, 0.0]","",place,Wilderness Camp,"{""place""=>[""Wilderness Camp""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+47,AWD0000as9,diary,670,6,1917-12-03 00:00:00 UTC,3 Dec 1917,"MONCHY B SECTOR, Monchy N. Sector, Monchy, N. Sector","[0.0, 0.0]","",diaryDate,3 Dec 1917,"{""day""=>[""3""], ""month""=>[""Dec""], ""year""=>[""1917""]}",,,
+51,AWD0000as9,diary,670,4,1917-12-03 00:00:00 UTC,3 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",place,Wilderness Camp,"{""place""=>[""Wilderness Camp""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3036784,Arras,"[2.78186, 50.29301]"
+54,AWD0000as9,diary,670,5,1917-12-04 00:00:00 UTC,4 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",diaryDate,4 Dec 1917,"{""day""=>[""4""], ""month""=>[""Dec""], ""year""=>[""1917""]}",3036784,Arras,"[2.78186, 50.29301]"
+56,AWD0000as9,diary,670,2,1917-12-04 00:00:00 UTC,4 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",place,Brown Line,"{""place""=>[""Brown Line""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3036784,Arras,"[2.78186, 50.29301]"
+59,AWD0000as9,diary,670,2,1917-12-04 00:00:00 UTC,4 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",activity,repair,{},3036784,Arras,"[2.78186, 50.29301]"
+1,AWD0000at6,diary,671,6,1917-12-05 00:00:00 UTC,5 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",diaryDate,5 Dec 1917,"{""day""=>[""5""], ""month""=>[""Dec""], ""year""=>[""1917""]}",3036784,Arras,"[2.78186, 50.29301]"
+2,AWD0000at6,diary,671,2,1917-12-05 00:00:00 UTC,5 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",place,Brown Line,"{""place""=>[""Brown Line""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3036784,Arras,"[2.78186, 50.29301]"
+4,AWD0000at6,diary,671,4,1917-12-05 00:00:00 UTC,5 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",activity,repair,{},3036784,Arras,"[2.78186, 50.29301]"
+5,AWD0000at6,diary,671,3,1917-12-05 00:00:00 UTC,5 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",activity,fire,{},3036784,Arras,"[2.78186, 50.29301]"
+8,AWD0000at6,diary,671,4,1917-12-05 00:00:00 UTC,5 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",reference,Appendix III,{},3036784,Arras,"[2.78186, 50.29301]"
+11,AWD0000at6,diary,671,2,1917-12-05 00:00:00 UTC,5 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",place,Wilderness Camp,"{""place""=>[""Wilderness Camp""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3036784,Arras,"[2.78186, 50.29301]"
+12,AWD0000at6,diary,671,4,1917-12-05 00:00:00 UTC,5 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",reference,Appendix IV,{},3036784,Arras,"[2.78186, 50.29301]"
+15,AWD0000at6,diary,671,6,1917-12-06 00:00:00 UTC,6 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",diaryDate,6 Dec 1917,"{""day""=>[""6""], ""month""=>[""Dec""], ""year""=>[""1917""]}",3036784,Arras,"[2.78186, 50.29301]"
+16,AWD0000at6,diary,671,2,1917-12-06 00:00:00 UTC,6 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",place,Monchy,"{""place""=>[""Monchy""], ""location""=>[""false"", ""true""], ""name""=>[""Huppy"", ""Bus-lès-Artois""], ""lat""=>[""50.02523"", ""50.1039""], ""long""=>[""1.76386"", ""2.5424""], ""id""=>[""3012970"", ""6620185""]}",3036784,Arras,"[2.78186, 50.29301]"
+17,AWD0000at6,diary,671,2,1917-12-06 00:00:00 UTC,6 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",unit,"1st Battalion, Somerset Light Infantry, 1st Battalion Somerset Light Infantry","{""name""=>[""1st Battalion, Somerset Light Infantry"", ""1st Battalion Somerset Light Infantry""], ""context""=>[""relieved""]}",3036784,Arras,"[2.78186, 50.29301]"
+19,AWD0000at6,diary,671,3,1917-12-06 00:00:00 UTC,6 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",unit,1st Bn The Somerset Light Infantry,"{""name""=>[""1st Bn The Somerset Light Infantry""], ""context""=>[""relieved""]}",3036784,Arras,"[2.78186, 50.29301]"
+20,AWD0000at6,diary,671,2,1917-12-06 00:00:00 UTC,6 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",place,"Monchy N. Sector, Monchy. N. Sector","{""place""=>[""Monchy N. Sector"", ""Monchy. N. Sector""], ""location""=>[""true"", ""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3036784,Arras,"[2.78186, 50.29301]"
+21,AWD0000at6,diary,671,3,1917-12-06 00:00:00 UTC,6 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",activity,line,{},3036784,Arras,"[2.78186, 50.29301]"
+22,AWD0000at6,diary,671,2,1917-12-06 00:00:00 UTC,6 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",gridRef,I 31 d 9 1,{},3036784,Arras,"[2.78186, 50.29301]"
+23,AWD0000at6,diary,671,2,1917-12-06 00:00:00 UTC,6 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",place,Case Alley,"{""place""=>[""Case Alley""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3036784,Arras,"[2.78186, 50.29301]"
+24,AWD0000at6,diary,671,4,1917-12-06 00:00:00 UTC,6 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",gridRef,O 2 d 45 65,{},3036784,Arras,"[2.78186, 50.29301]"
+25,AWD0000at6,diary,671,2,1917-12-06 00:00:00 UTC,6 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",place,Bit Lane,"{""place""=>[""Bit Lane""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3036784,Arras,"[2.78186, 50.29301]"
+30,AWD0000at6,diary,671,3,1917-12-06 00:00:00 UTC,6 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",reference,Ref. J Corps T.S. No 103(c) attached,{},3036784,Arras,"[2.78186, 50.29301]"
+32,AWD0000at6,diary,671,2,1917-12-06 00:00:00 UTC,6 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",place,Curb Switch Reserve,"{""place""=>[""Curb Switch Reserve""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3036784,Arras,"[2.78186, 50.29301]"
+33,AWD0000at6,diary,671,2,1917-12-06 00:00:00 UTC,6 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",place,"Dale Trench, Dale trench","{""place""=>[""Dale Trench"", ""Dale trench""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3036784,Arras,"[2.78186, 50.29301]"
+34,AWD0000at6,diary,671,2,1917-12-06 00:00:00 UTC,6 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",place,Happy Valley,"{""place""=>[""Happy Valley""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3036784,Arras,"[2.78186, 50.29301]"
+35,AWD0000at6,diary,671,2,1917-12-06 00:00:00 UTC,6 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",unit,"1st Battalion, The Hampshire Regiment, 1st Battalion The Hampshire Regiment","{""name""=>[""1st Battalion, The Hampshire Regiment"", ""1st Battalion The Hampshire Regiment""], ""context""=>[""left""]}",3036784,Arras,"[2.78186, 50.29301]"
+36,AWD0000at6,diary,671,3,1917-12-06 00:00:00 UTC,6 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",gridRef,i 31 c 2 1,{},3036784,Arras,"[2.78186, 50.29301]"
+37,AWD0000at6,diary,671,2,1917-12-06 00:00:00 UTC,6 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",unit,1st Bn The Hampshire Regt,"{""name""=>[""1st Bn The Hampshire Regt""], ""context""=>[""left""]}",3036784,Arras,"[2.78186, 50.29301]"
+40,AWD0000at6,diary,671,2,1917-12-06 00:00:00 UTC,6 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",unit,"2nd Battalion, The Duke of Wellington's Regiment, 2nd Battalion The Duke of Wellington's Regiment","{""name""=>[""2nd Battalion, The Duke of Wellington's Regiment"", ""2nd Battalion The Duke of Wellington's Regiment""], ""context""=>[""right""]}",3036784,Arras,"[2.78186, 50.29301]"
+41,AWD0000at6,diary,671,2,1917-12-06 00:00:00 UTC,6 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",unit,"2nd Bn The Duke of Wellington's Regt, 2nd Bn The Duke of Wellington Regt","{""name""=>[""2nd Bn The Duke of Wellington's Regt"", ""2nd Bn The Duke of Wellington Regt""], ""context""=>[""right""]}",3036784,Arras,"[2.78186, 50.29301]"
+45,AWD0000at6,diary,671,3,1917-12-06 00:00:00 UTC,6 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",activity,fire,{},3036784,Arras,"[2.78186, 50.29301]"
+46,AWD0000at6,diary,671,4,1917-12-06 00:00:00 UTC,6 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",activity,quiet,{},3036784,Arras,"[2.78186, 50.29301]"
+47,AWD0000at6,diary,671,2,1917-12-06 18:30:00 UTC,6 Dec 1917,Wilderness Camp,"[0.0, 0.0]",0630PM,time,0630PM,{},3036784,Arras,"[2.78186, 50.29301]"
+49,AWD0000at6,diary,671,6,1917-12-07 00:00:00 UTC,7 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",diaryDate,7 Dec 1917,"{""day""=>[""7""], ""month""=>[""Dec""], ""year""=>[""1917""]}",3036784,Arras,"[2.78186, 50.29301]"
+50,AWD0000at6,diary,671,4,1917-12-07 00:00:00 UTC,7 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",activity,enemy_activity,{},3036784,Arras,"[2.78186, 50.29301]"
+51,AWD0000at6,diary,671,6,1917-12-07 00:00:00 UTC,7 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",activity,repair,{},3036784,Arras,"[2.78186, 50.29301]"
+52,AWD0000at6,diary,671,4,1917-12-07 00:00:00 UTC,7 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",activity,reconnoitered,{},3036784,Arras,"[2.78186, 50.29301]"
+53,AWD0000at6,diary,671,3,1917-12-07 00:00:00 UTC,7 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",activity,attack,{},3036784,Arras,"[2.78186, 50.29301]"
+54,AWD0000at6,diary,671,2,1917-12-07 23:00:00 UTC,7 Dec 1917,Wilderness Camp,"[0.0, 0.0]",1100PM,time,1100PM,{},3036784,Arras,"[2.78186, 50.29301]"
+55,AWD0000at6,diary,671,2,1917-12-07 04:00:00 UTC,7 Dec 1917,Wilderness Camp,"[0.0, 0.0]",0400AM,time,0400AM,{},3036784,Arras,"[2.78186, 50.29301]"
+1,AWD0000apz,diary,672,3,1917-12-08 00:00:00 UTC,8 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",diaryDate,8 Dec 1917,"{""day""=>[""8""], ""month""=>[""Dec""], ""year""=>[""1917""]}",3036784,Arras,"[2.78186, 50.29301]"
+2,AWD0000apz,diary,672,2,1917-12-08 00:00:00 UTC,8 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",activity,attack,{},3036784,Arras,"[2.78186, 50.29301]"
+3,AWD0000apz,diary,672,3,1917-12-08 00:00:00 UTC,8 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",diaryDate,8 Dec 1917,"{""day""=>[""8""], ""month""=>[""Dec""], ""year""=>[""1917""]}",3036784,Arras,"[2.78186, 50.29301]"
+4,AWD0000apz,diary,672,3,1917-12-08 00:00:00 UTC,8 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",activity,enemy_activity,{},3036784,Arras,"[2.78186, 50.29301]"
+8,AWD0000apz,diary,672,2,1917-12-08 00:00:00 UTC,8 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",place,Orchard,"{""place""=>[""Orchard""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3036784,Arras,"[2.78186, 50.29301]"
+9,AWD0000apz,diary,672,2,1917-12-08 00:00:00 UTC,8 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",place,East Reserve,"{""place""=>[""East Reserve""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3036784,Arras,"[2.78186, 50.29301]"
+11,AWD0000apz,diary,672,2,1917-12-08 00:00:00 UTC,8 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",activity,fire,{},3036784,Arras,"[2.78186, 50.29301]"
+12,AWD0000apz,diary,672,3,1917-12-08 00:00:00 UTC,8 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",reference,Ref. J. Corps T.S. No. 103(c) attached,{},3036784,Arras,"[2.78186, 50.29301]"
+13,AWD0000apz,diary,672,2,1917-12-08 00:00:00 UTC,8 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",gridRef,I 32 c,{},3036784,Arras,"[2.78186, 50.29301]"
+15,AWD0000apz,diary,672,4,1917-12-08 00:00:00 UTC,8 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",activity,attack,{},3036784,Arras,"[2.78186, 50.29301]"
+19,AWD0000apz,diary,672,3,1917-12-08 00:00:00 UTC,8 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",activity,quiet,{},3036784,Arras,"[2.78186, 50.29301]"
+21,AWD0000apz,diary,672,2,1917-12-08 00:00:00 UTC,8 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",place,"Fox Trench, Fox Trenches","{""place""=>[""Fox Trench"", ""Fox Trenches""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3036784,Arras,"[2.78186, 50.29301]"
+24,AWD0000apz,diary,672,3,1917-12-08 00:00:00 UTC,8 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",reference,Appendix V,{},3036784,Arras,"[2.78186, 50.29301]"
+26,AWD0000apz,diary,672,2,1917-12-08 00:00:00 UTC,8 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",unit,"A Company, I Company","{""name""=>[""A Company"", ""I Company""], ""context""=>[""relieved"", ""relieved_by""]}",3036784,Arras,"[2.78186, 50.29301]"
+27,AWD0000apz,diary,672,2,1917-12-08 00:00:00 UTC,8 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",activity,other,{},3036784,Arras,"[2.78186, 50.29301]"
+28,AWD0000apz,diary,672,6,1917-12-09 00:00:00 UTC,9 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",diaryDate,9 Dec 1917,"{""day""=>[""9""], ""month""=>[""Dec""], ""year""=>[""1917""]}",3036784,Arras,"[2.78186, 50.29301]"
+29,AWD0000apz,diary,672,2,1917-12-09 00:00:00 UTC,9 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",activity,repair,{},3036784,Arras,"[2.78186, 50.29301]"
+30,AWD0000apz,diary,672,4,1917-12-09 00:00:00 UTC,9 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",activity,enemy_activity,{},3036784,Arras,"[2.78186, 50.29301]"
+35,AWD0000apz,diary,672,3,1917-12-09 00:00:00 UTC,9 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",gridRef,O 2 c 85 90,{},3036784,Arras,"[2.78186, 50.29301]"
+38,AWD0000apz,diary,672,3,1917-12-09 00:00:00 UTC,9 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",reference,Appendix Va,{},3036784,Arras,"[2.78186, 50.29301]"
+41,AWD0000apz,diary,672,6,1917-12-10 00:00:00 UTC,10 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",diaryDate,10 Dec 1917,"{""day""=>[""10""], ""month""=>[""Dec""], ""year""=>[""1917""]}",3036784,Arras,"[2.78186, 50.29301]"
+42,AWD0000apz,diary,672,3,1917-12-10 00:00:00 UTC,10 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",activity,enemy_activity,{},3036784,Arras,"[2.78186, 50.29301]"
+44,AWD0000apz,diary,672,3,1917-12-10 00:00:00 UTC,10 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",place,Monchy,"{""place""=>[""Monchy""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3036784,Arras,"[2.78186, 50.29301]"
+45,AWD0000apz,diary,672,3,1917-12-10 00:00:00 UTC,10 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",activity,quiet,{},3036784,Arras,"[2.78186, 50.29301]"
+46,AWD0000apz,diary,672,2,1917-12-10 00:00:00 UTC,10 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",unit,Household Battalion,"{""name""=>[""Household Battalion""], ""context""=>[""relieved_by""]}",3036784,Arras,"[2.78186, 50.29301]"
+53,AWD0000apz,diary,672,3,1917-12-10 00:00:00 UTC,10 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",unit,11th Infantry Brigade,"{""name""=>[""11th Infantry Brigade""], ""context""=>[""other""]}",3036784,Arras,"[2.78186, 50.29301]"
+57,AWD0000apz,diary,672,2,1917-12-10 00:00:00 UTC,10 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",unit,Household Battalion,"{""name""=>[""Household Battalion""], ""context""=>[""relieved_by""]}",3036784,Arras,"[2.78186, 50.29301]"
+61,AWD0000apz,diary,672,5,1917-12-10 00:00:00 UTC,10 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",place,Arras,"{""place""=>[""Arras""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3036784,Arras,"[2.78186, 50.29301]"
+63,AWD0000apz,diary,672,3,1917-12-10 00:00:00 UTC,10 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",activity,movement,{},3036784,Arras,"[2.78186, 50.29301]"
+2,AWD0000au0,diary,673,6,1917-12-11 00:00:00 UTC,11 Dec 1917,Wilderness Camp,"[0.0, 0.0]","",diaryDate,11 Dec 1917,"{""day""=>[""11""], ""month""=>[""Dec""], ""year""=>[""1917""]}",3036784,Arras,"[2.78186, 50.29301]"
+4,AWD0000au0,diary,673,4,1917-12-11 00:00:00 UTC,11 Dec 1917,Arras,"[2.78186, 50.29301]","",place,Arras,"{""place""=>[""Arras""], ""location""=>[""true""], ""name""=>[""Arras""], ""lat""=>[""50.29301""], ""long""=>[""2.78186""], ""id""=>[""3036784""]}",2967451,Warlus,"[2.66872, 50.27482]"
+5,AWD0000au0,diary,673,4,1917-12-11 00:00:00 UTC,11 Dec 1917,Arras,"[2.78186, 50.29301]","",domestic,parades,{},2967451,Warlus,"[2.66872, 50.27482]"
+6,AWD0000au0,diary,673,3,1917-12-11 06:15:00 UTC,11 Dec 1917,Arras,"[2.78186, 50.29301]",0615AM,time,0615AM,{},2967451,Warlus,"[2.66872, 50.27482]"
+10,AWD0000au0,diary,673,2,1917-12-11 08:30:00 UTC,11 Dec 1917,Arras,"[2.78186, 50.29301]",0830AM,time,0830AM,{},2967451,Warlus,"[2.66872, 50.27482]"
+14,AWD0000au0,diary,673,2,1917-12-11 08:30:00 UTC,11 Dec 1917,Arras,"[2.78186, 50.29301]",0830AM,place,"Schramm Barracks, Arras, Schraam barracks, arras","{""place""=>[""Schramm Barracks, Arras"", ""Schraam barracks, arras""], ""location""=>[""false"", ""true""], ""name""=>["""", ""Aldershot""], ""lat""=>["""", ""51.24827""], ""long""=>["""", ""-0.76389""], ""id""=>["""", ""2657540""]}",2967451,Warlus,"[2.66872, 50.27482]"
+19,AWD0000au0,diary,673,3,1917-12-12 00:00:00 UTC,12 Dec 1917,Arras,"[2.78186, 50.29301]","",diaryDate,12 Dec 1917,"{""day""=>[""12""], ""month""=>[""Dec""], ""year""=>[""1917""]}",2967451,Warlus,"[2.66872, 50.27482]"
+22,AWD0000au0,diary,673,3,1917-12-12 00:00:00 UTC,12 Dec 1917,Arras,"[2.78186, 50.29301]","",diaryDate,12 Dec 1917,"{""day""=>[""12""], ""month""=>[""Dec""], ""year""=>[""1917""]}",2967451,Warlus,"[2.66872, 50.27482]"
+24,AWD0000au0,diary,673,4,1917-12-12 00:00:00 UTC,12 Dec 1917,Arras,"[2.78186, 50.29301]","",domestic,parades,{},2967451,Warlus,"[2.66872, 50.27482]"
+25,AWD0000au0,diary,673,3,1917-12-12 00:00:00 UTC,12 Dec 1917,Arras,"[2.78186, 50.29301]","",activity,training,{},2967451,Warlus,"[2.66872, 50.27482]"
+28,AWD0000au0,diary,673,6,1917-12-13 00:00:00 UTC,13 Dec 1917,Arras,"[2.78186, 50.29301]","",diaryDate,13 Dec 1917,"{""day""=>[""13""], ""month""=>[""Dec""], ""year""=>[""1917""]}",2967451,Warlus,"[2.66872, 50.27482]"
+29,AWD0000au0,diary,673,2,1917-12-13 06:15:00 UTC,13 Dec 1917,Arras,"[2.78186, 50.29301]",0615AM,time,0615AM,{},2967451,Warlus,"[2.66872, 50.27482]"
+31,AWD0000au0,diary,673,4,1917-12-13 06:15:00 UTC,13 Dec 1917,Arras,"[2.78186, 50.29301]",0615AM,domestic,parades,{},2967451,Warlus,"[2.66872, 50.27482]"
+33,AWD0000au0,diary,673,2,1917-12-13 06:15:00 UTC,13 Dec 1917,Arras,"[2.78186, 50.29301]",0615AM,activity,other,{},2967451,Warlus,"[2.66872, 50.27482]"
+34,AWD0000au0,diary,673,3,1917-12-13 06:15:00 UTC,13 Dec 1917,Arras,"[2.78186, 50.29301]",0615AM,domestic,hygiene,{},2967451,Warlus,"[2.66872, 50.27482]"
+37,AWD0000au0,diary,673,2,1917-12-13 06:15:00 UTC,13 Dec 1917,Arras,"[2.78186, 50.29301]",0615AM,domestic,other,{},2967451,Warlus,"[2.66872, 50.27482]"
+38,AWD0000au0,diary,673,5,1917-12-14 00:00:00 UTC,14 Dec 1917,Arras,"[2.78186, 50.29301]","",diaryDate,14 Dec 1917,"{""day""=>[""14""], ""month""=>[""Dec""], ""year""=>[""1917""]}",2967451,Warlus,"[2.66872, 50.27482]"
+39,AWD0000au0,diary,673,2,1917-12-14 06:15:00 UTC,14 Dec 1917,Arras,"[2.78186, 50.29301]",0615AM,time,0615AM,{},2967451,Warlus,"[2.66872, 50.27482]"
+40,AWD0000au0,diary,673,3,1917-12-14 06:15:00 UTC,14 Dec 1917,Arras,"[2.78186, 50.29301]",0615AM,domestic,parades,{},2967451,Warlus,"[2.66872, 50.27482]"
+44,AWD0000au0,diary,673,3,1917-12-14 06:15:00 UTC,14 Dec 1917,Arras,"[2.78186, 50.29301]",0615AM,activity,other,{},2967451,Warlus,"[2.66872, 50.27482]"
+45,AWD0000au0,diary,673,2,1917-12-14 06:15:00 UTC,14 Dec 1917,Arras,"[2.78186, 50.29301]",0615AM,activity,repair,{},2967451,Warlus,"[2.66872, 50.27482]"
+46,AWD0000au0,diary,673,5,1917-12-15 00:00:00 UTC,15 Dec 1917,Arras,"[2.78186, 50.29301]","",diaryDate,15 Dec 1917,"{""day""=>[""15""], ""month""=>[""Dec""], ""year""=>[""1917""]}",2967451,Warlus,"[2.66872, 50.27482]"
+49,AWD0000au0,diary,673,3,1917-12-15 06:15:00 UTC,15 Dec 1917,Arras,"[2.78186, 50.29301]",0615AM,time,0615AM,{},2967451,Warlus,"[2.66872, 50.27482]"
+51,AWD0000au0,diary,673,5,1917-12-15 06:15:00 UTC,15 Dec 1917,Arras,"[2.78186, 50.29301]",0615AM,domestic,parades,{},2967451,Warlus,"[2.66872, 50.27482]"
+52,AWD0000au0,diary,673,6,1917-12-16 00:00:00 UTC,16 Dec 1917,Arras,"[2.78186, 50.29301]","",diaryDate,16 Dec 1917,"{""day""=>[""16""], ""month""=>[""Dec""], ""year""=>[""1917""]}",2967451,Warlus,"[2.66872, 50.27482]"
+53,AWD0000au0,diary,673,3,1917-12-16 00:00:00 UTC,16 Dec 1917,Arras,"[2.78186, 50.29301]","",domestic,religion,{},2967451,Warlus,"[2.66872, 50.27482]"
+55,AWD0000au0,diary,673,2,1917-12-16 00:00:00 UTC,16 Dec 1917,Arras,"[2.78186, 50.29301]","",domestic,parades,{},2967451,Warlus,"[2.66872, 50.27482]"
+57,AWD0000au0,diary,673,2,1917-12-16 00:00:00 UTC,16 Dec 1917,Arras,"[2.78186, 50.29301]","",domestic,parades,{},2967451,Warlus,"[2.66872, 50.27482]"
+58,AWD0000au0,diary,673,2,1917-12-16 06:15:00 UTC,16 Dec 1917,Arras,"[2.78186, 50.29301]",0615AM,time,0615AM,{},2967451,Warlus,"[2.66872, 50.27482]"
+60,AWD0000au0,diary,673,6,1917-12-17 00:00:00 UTC,17 Dec 1917,Arras,"[2.78186, 50.29301]","",diaryDate,17 Dec 1917,"{""day""=>[""17""], ""month""=>[""Dec""], ""year""=>[""1917""]}",2967451,Warlus,"[2.66872, 50.27482]"
+61,AWD0000au0,diary,673,4,1917-12-17 00:00:00 UTC,17 Dec 1917,Arras,"[2.78186, 50.29301]","",domestic,parades,{},2967451,Warlus,"[2.66872, 50.27482]"
+65,AWD0000au0,diary,673,2,1917-12-17 00:00:00 UTC,17 Dec 1917,Arras,"[2.78186, 50.29301]","",activity,other,{},2967451,Warlus,"[2.66872, 50.27482]"
+67,AWD0000au0,diary,673,5,1917-12-17 00:00:00 UTC,17 Dec 1917,Arras,"[2.78186, 50.29301]","",reference,Appendix VI,{},2967451,Warlus,"[2.66872, 50.27482]"
+68,AWD0000au0,diary,673,6,1917-12-18 00:00:00 UTC,18 Dec 1917,Arras,"[2.78186, 50.29301]","",diaryDate,18 Dec 1917,"{""day""=>[""18""], ""month""=>[""Dec""], ""year""=>[""1917""]}",2967451,Warlus,"[2.66872, 50.27482]"
+69,AWD0000au0,diary,673,4,1917-12-18 00:00:00 UTC,18 Dec 1917,Les Fosses Farm,"[0.0, 0.0]","",place,Les Fosses Farm,"{""place""=>[""Les Fosses Farm""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+72,AWD0000au0,diary,673,2,1917-12-18 00:00:00 UTC,18 Dec 1917,Les Fosses Farm,"[0.0, 0.0]","",unit,"2nd Essex Regiment, 2ND ESSEX REGIMENT","{""name""=>[""2nd Essex Regiment"", ""2ND ESSEX REGIMENT""], ""context""=>[""relieved""]}",,,
+77,AWD0000au0,diary,673,2,1917-12-18 00:00:00 UTC,18 Dec 1917,Les Fosses Farm,"[0.0, 0.0]","",activity,line,{},,,
+78,AWD0000au0,diary,673,2,1917-12-18 00:00:00 UTC,18 Dec 1917,Les Fosses Farm,"[0.0, 0.0]","",reference,REF J corps T.S No 103 (c) attached,{},,,
+79,AWD0000au0,diary,673,2,1917-12-18 00:00:00 UTC,18 Dec 1917,Les Fosses Farm,"[0.0, 0.0]","",activity,movement,{},,,
+80,AWD0000au0,diary,673,2,1917-12-18 00:00:00 UTC,18 Dec 1917,Les Fosses Farm,"[0.0, 0.0]","",reference,J.CORPS T.S No103(c),{},,,
+83,AWD0000au0,diary,673,3,1917-12-18 00:00:00 UTC,18 Dec 1917,Les Fosses Farm,"[0.0, 0.0]","",place,Les Fosses Farm,"{""place""=>[""Les Fosses Farm""], ""location""=>[""false""], ""name""=>[""Bus-lès-Artois"", """", ""Arras""], ""lat""=>[""50.1039"", """", ""50.29301""], ""long""=>[""2.5424"", """", ""2.78186""], ""id""=>[""6620185"", """", ""3036784""]}",,,
+84,AWD0000au0,diary,673,2,1917-12-18 00:00:00 UTC,18 Dec 1917,Les Fosses Farm,"[0.0, 0.0]","",place,Spade Reserve,"{""place""=>[""Spade Reserve""], ""location""=>[""false""], ""name""=>[""Arras"", """"], ""lat""=>[""50.29301"", """"], ""long""=>[""2.78186"", """"], ""id""=>[""3036784"", """"]}",,,
+86,AWD0000au0,diary,673,2,1917-12-18 00:00:00 UTC,18 Dec 1917,Les Fosses Farm,"[0.0, 0.0]","",place,"Les Fosses Farm, Les Fosses farm","{""place""=>[""Les Fosses Farm"", ""Les Fosses farm""], ""location""=>[""false""], ""name""=>[""Arras"", """"], ""lat""=>[""50.29301"", """"], ""long""=>[""2.78186"", """"], ""id""=>[""3036784"", """"]}",,,
+89,AWD0000au0,diary,673,2,1917-12-18 00:00:00 UTC,18 Dec 1917,Les Fosses Farm,"[0.0, 0.0]","",place,"East Reserve, east Reserve","{""place""=>[""East Reserve"", ""east Reserve""], ""location""=>[""false""], ""name""=>[""Arras"", """"], ""lat""=>[""50.29301"", """"], ""long""=>[""2.78186"", """"], ""id""=>[""3036784"", """"]}",,,
+90,AWD0000au0,diary,673,2,1917-12-18 00:00:00 UTC,18 Dec 1917,Les Fosses Farm,"[0.0, 0.0]","",place,Fork Reserve,"{""place""=>[""Fork Reserve""], ""location""=>[""false""], ""name""=>[""Arras"", """"], ""lat""=>[""50.29301"", """"], ""long""=>[""2.78186"", """"], ""id""=>[""3036784"", """"]}",,,
+93,AWD0000au0,diary,673,5,1917-12-18 00:00:00 UTC,18 Dec 1917,Les Fosses Farm,"[0.0, 0.0]","",activity,quiet,{},,,
+2,AWD0000asx,diary,674,5,1917-12-19 00:00:00 UTC,19 Dec 1917,Les Fosses Farm,"[0.0, 0.0]","",diaryDate,19 Dec 1917,"{""day""=>[""19""], ""month""=>[""Dec""], ""year""=>[""1917""]}",,,
+4,AWD0000asx,diary,674,4,1917-12-19 00:00:00 UTC,19 Dec 1917,Les Fosses Farm,"[0.0, 0.0]","",activity,repair,{},,,
+5,AWD0000asx,diary,674,4,1917-12-19 00:00:00 UTC,19 Dec 1917,Les Fosses Farm,"[0.0, 0.0]","",activity,quiet,{},,,
+6,AWD0000asx,diary,674,4,1917-12-20 00:00:00 UTC,20 Dec 1917,Les Fosses Farm,"[0.0, 0.0]","",diaryDate,20 Dec 1917,"{""day""=>[""20""], ""month""=>[""Dec""], ""year""=>[""1917""]}",,,
+7,AWD0000asx,diary,674,3,1917-12-20 00:00:00 UTC,20 Dec 1917,Les Fosses Farm,"[0.0, 0.0]","",activity,enemy_activity,{},,,
+8,AWD0000asx,diary,674,5,1917-12-20 00:00:00 UTC,20 Dec 1917,Les Fosses Farm,"[0.0, 0.0]","",activity,repair,{},,,
+9,AWD0000asx,diary,674,4,1917-12-21 00:00:00 UTC,21 Dec 1917,Les Fosses Farm,"[0.0, 0.0]","",diaryDate,21 Dec 1917,"{""day""=>[""21""], ""month""=>[""Dec""], ""year""=>[""1917""]}",,,
+10,AWD0000asx,diary,674,2,1917-12-21 17:10:00 UTC,21 Dec 1917,Les Fosses Farm,"[0.0, 0.0]",0510PM,time,0510PM,{},,,
+11,AWD0000asx,diary,674,3,1917-12-21 17:10:00 UTC,21 Dec 1917,Les Fosses Farm,"[0.0, 0.0]",0510PM,activity,fire,{},,,
+12,AWD0000asx,diary,674,3,1917-12-21 17:10:00 UTC,21 Dec 1917,Les Fosses Farm,"[0.0, 0.0]",0510PM,activity,enemy_activity,{},,,
+16,AWD0000asx,diary,674,2,1917-12-21 17:10:00 UTC,21 Dec 1917,Les Fosses Farm,"[0.0, 0.0]",0510PM,casualties,killed: 1,{},,,
+19,AWD0000asx,diary,674,4,1917-12-22 00:00:00 UTC,22 Dec 1917,Les Fosses Farm,"[0.0, 0.0]","",diaryDate,22 Dec 1917,"{""day""=>[""22""], ""month""=>[""Dec""], ""year""=>[""1917""]}",,,
+22,AWD0000asx,diary,674,3,1917-12-22 00:00:00 UTC,22 Dec 1917,Les Fosses Farm,"[0.0, 0.0]","",activity,repair,{},,,
+26,AWD0000asx,diary,674,2,1917-12-22 00:00:00 UTC,22 Dec 1917,Les Fosses Farm,"[0.0, 0.0]","",place,Crater Subway,"{""place""=>[""Crater Subway""], ""location""=>[""false""], ""name""=>["""", ""Arras""], ""lat""=>["""", ""50.29301""], ""long""=>["""", ""2.78186""], ""id""=>["""", ""3036784""]}",,,
+31,AWD0000asx,diary,674,2,1917-12-22 00:00:00 UTC,22 Dec 1917,Les Fosses Farm,"[0.0, 0.0]","",place,Gordon Avenue,"{""place""=>[""Gordon Avenue""], ""location""=>[""false""], ""name""=>["""", ""Arras""], ""lat""=>["""", ""50.29301""], ""long""=>["""", ""2.78186""], ""id""=>["""", ""3036784""]}",,,
+33,AWD0000asx,diary,674,3,1917-12-22 00:00:00 UTC,22 Dec 1917,Les Fosses Farm,"[0.0, 0.0]","",place,Pommel Alley,"{""place""=>[""Pommel Alley""], ""location""=>[""false""], ""name""=>[""Arras""], ""lat""=>[""50.29301""], ""long""=>[""2.78186""], ""id""=>[""3036784""]}",,,
+34,AWD0000asx,diary,674,2,1917-12-22 00:00:00 UTC,22 Dec 1917,Les Fosses Farm,"[0.0, 0.0]","",place,Hoe Support,"{""place""=>[""Hoe Support""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+35,AWD0000asx,diary,674,2,1917-12-22 00:00:00 UTC,22 Dec 1917,Les Fosses Farm,"[0.0, 0.0]","",place,Pick Avenue,"{""place""=>[""Pick Avenue""], ""location""=>[""false""], ""name""=>[""Arras"", """"], ""lat""=>[""50.29301"", """"], ""long""=>[""2.78186"", """"], ""id""=>[""3036784"", """"]}",,,
+37,AWD0000asx,diary,674,2,1917-12-22 00:00:00 UTC,22 Dec 1917,Les Fosses Farm,"[0.0, 0.0]","",place,Gordon Avenue,"{""place""=>[""Gordon Avenue""], ""location""=>[""false""], ""name""=>["""", ""Arras""], ""lat""=>["""", ""50.29301""], ""long""=>["""", ""2.78186""], ""id""=>["""", ""3036784""]}",,,
+38,AWD0000asx,diary,674,3,1917-12-22 00:00:00 UTC,22 Dec 1917,Les Fosses Farm,"[0.0, 0.0]","",place,Pommel Alley,"{""place""=>[""Pommel Alley""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+39,AWD0000asx,diary,674,2,1917-12-22 00:00:00 UTC,22 Dec 1917,Les Fosses Farm,"[0.0, 0.0]","",place,Tites Copse,"{""place""=>[""Tites Copse""], ""location""=>[""false""], ""name""=>[""Arras"", """"], ""lat""=>[""50.29301"", """"], ""long""=>[""2.78186"", """"], ""id""=>[""3036784"", """"]}",,,
+40,AWD0000asx,diary,674,2,1917-12-22 00:00:00 UTC,22 Dec 1917,Les Fosses Farm,"[0.0, 0.0]","",activity,repair,{},,,
+41,AWD0000asx,diary,674,4,1917-12-22 00:00:00 UTC,22 Dec 1917,Les Fosses Farm,"[0.0, 0.0]","",activity,quiet,{},,,
+1,AWD0000aqn,diary,675,4,1917-12-23 00:00:00 UTC,23 Dec 1917,Les Fosses Farm,"[0.0, 0.0]","",diaryDate,23 Dec 1917,"{""day""=>[""23""], ""month""=>[""Dec""], ""year""=>[""1917""]}",,,
+3,AWD0000aqn,diary,675,4,1917-12-23 00:00:00 UTC,23 Dec 1917,Les Fosses Farm,"[0.0, 0.0]","",activity,repair,{},,,
+4,AWD0000aqn,diary,675,2,1917-12-23 00:00:00 UTC,23 Dec 1917,Les Fosses Farm,"[0.0, 0.0]","",activity,line,{},,,
+5,AWD0000aqn,diary,675,5,1917-12-23 00:00:00 UTC,23 Dec 1917,Les Fosses Farm,"[0.0, 0.0]","",activity,fire,{},,,
+6,AWD0000aqn,diary,675,2,1917-12-23 18:15:00 UTC,23 Dec 1917,Les Fosses Farm,"[0.0, 0.0]",0615PM,time,0615PM,{},,,
+7,AWD0000aqn,diary,675,4,1917-12-24 00:00:00 UTC,24 Dec 1917,Les Fosses Farm,"[0.0, 0.0]","",diaryDate,24 Dec 1917,"{""day""=>[""24""], ""month""=>[""Dec""], ""year""=>[""1917""]}",,,
+8,AWD0000aqn,diary,675,4,1917-12-24 00:00:00 UTC,24 Dec 1917,Les Fosses Farm,"[0.0, 0.0]","",activity,quiet,{},,,
+9,AWD0000aqn,diary,675,4,1917-12-24 00:00:00 UTC,24 Dec 1917,Les Fosses Farm,"[0.0, 0.0]","",activity,repair,{},,,
+11,AWD0000aqn,diary,675,4,1917-12-25 00:00:00 UTC,25 Dec 1917,Les Fosses Farm,"[0.0, 0.0]","",diaryDate,25 Dec 1917,"{""day""=>[""25""], ""month""=>[""Dec""], ""year""=>[""1917""]}",,,
+12,AWD0000aqn,diary,675,4,1917-12-25 00:00:00 UTC,25 Dec 1917,Les Fosses Farm,"[0.0, 0.0]","",activity,fire,{},,,
+18,AWD0000aqn,diary,675,2,1917-12-25 00:00:00 UTC,25 Dec 1917,Les Fosses Farm,"[0.0, 0.0]","",place,Crater Subway,"{""place""=>[""Crater Subway""], ""location""=>[""false""], ""name""=>["""", ""Arras""], ""lat""=>["""", ""50.29301""], ""long""=>["""", ""2.78186""], ""id""=>["""", ""3036784""]}",,,
+20,AWD0000aqn,diary,675,2,1917-12-25 00:00:00 UTC,25 Dec 1917,Les Fosses Farm,"[0.0, 0.0]","",reference,Subway,{},,,
+21,AWD0000aqn,diary,675,4,1917-12-25 00:00:00 UTC,25 Dec 1917,Les Fosses Farm,"[0.0, 0.0]","",place,Gordon Avenue,"{""place""=>[""Gordon Avenue""], ""location""=>[""false""], ""name""=>["""", ""Arras""], ""lat""=>["""", ""50.29301""], ""long""=>["""", ""2.78186""], ""id""=>["""", ""3036784""]}",,,
+22,AWD0000aqn,diary,675,2,1917-12-25 00:00:00 UTC,25 Dec 1917,Les Fosses Farm,"[0.0, 0.0]","",reference,Gordon Avenue,{},,,
+25,AWD0000aqn,diary,675,2,1917-12-25 00:00:00 UTC,25 Dec 1917,Les Fosses Farm,"[0.0, 0.0]","",place,Crater Subway,"{""place""=>[""Crater Subway""], ""location""=>[""false""], ""name""=>["""", ""Arras""], ""lat""=>["""", ""50.29301""], ""long""=>["""", ""2.78186""], ""id""=>["""", ""3036784""]}",,,
+29,AWD0000aqn,diary,675,4,1917-12-26 00:00:00 UTC,26 Dec 1917,Les Fosses Farm,"[0.0, 0.0]","",diaryDate,26 Dec 1917,"{""day""=>[""26""], ""month""=>[""Dec""], ""year""=>[""1917""]}",,,
+30,AWD0000aqn,diary,675,4,1917-12-26 00:00:00 UTC,26 Dec 1917,Les Fosses Farm,"[0.0, 0.0]","",activity,quiet,{},,,
+32,AWD0000aqn,diary,675,2,1917-12-26 00:00:00 UTC,26 Dec 1917,Les Fosses Farm,"[0.0, 0.0]","",unit,"1st Battalion, The Somerset Light Infantry, 1st Battalion The Somerset Light Infantry","{""name""=>[""1st Battalion, The Somerset Light Infantry"", ""1st Battalion The Somerset Light Infantry""], ""context""=>[""relieved_by""]}",,,
+41,AWD0000aqn,diary,675,2,1917-12-26 00:00:00 UTC,26 Dec 1917,Les Fosses Farm,"[0.0, 0.0]","",activity,resting,{},,,
+43,AWD0000aqn,diary,675,2,1917-12-26 00:00:00 UTC,26 Dec 1917,Les Fosses Farm,"[0.0, 0.0]","",domestic,accomodation,{},,,
+46,AWD0000aqn,diary,675,4,1917-12-27 00:00:00 UTC,27 Dec 1917,Les Fosses Farm,"[0.0, 0.0]","",diaryDate,27 Dec 1917,"{""day""=>[""27""], ""month""=>[""Dec""], ""year""=>[""1917""]}",,,
+47,AWD0000aqn,diary,675,2,1917-12-27 00:00:00 UTC,27 Dec 1917,Les Fosses Farm,"[0.0, 0.0]","",activity,repair,{},,,
+50,AWD0000aqn,diary,675,3,1917-12-27 00:00:00 UTC,27 Dec 1917,Les Fosses Farm,"[0.0, 0.0]","",weather,cold,{},,,
+51,AWD0000aqn,diary,675,3,1917-12-27 00:00:00 UTC,27 Dec 1917,Les Fosses Farm,"[0.0, 0.0]","",activity,fire,{},,,
+52,AWD0000aqn,diary,675,2,1917-12-27 00:00:00 UTC,27 Dec 1917,"Cambrai Rd, Cambrai Road","[2.78186, 50.29301]","",place,"Cambrai Rd, Cambrai Road","{""place""=>[""Cambrai Rd"", ""Cambrai Road""], ""location""=>[""true""], ""name""=>["""", ""Arras""], ""lat""=>["""", ""50.29301""], ""long""=>["""", ""2.78186""], ""id""=>["""", ""3036784""]}",3036784,Arras,"[2.78186, 50.29301]"
+56,AWD0000aqn,diary,675,4,1917-12-28 00:00:00 UTC,28 Dec 1917,"Cambrai Rd, Cambrai Road","[2.78186, 50.29301]","",diaryDate,28 Dec 1917,"{""day""=>[""28""], ""month""=>[""Dec""], ""year""=>[""1917""]}",3036784,Arras,"[2.78186, 50.29301]"
+57,AWD0000aqn,diary,675,2,1917-12-28 00:00:00 UTC,28 Dec 1917,"Cambrai Rd, Cambrai Road","[2.78186, 50.29301]","",activity,repair,{},3036784,Arras,"[2.78186, 50.29301]"
+60,AWD0000aqn,diary,675,3,1917-12-28 00:00:00 UTC,28 Dec 1917,"Cambrai Rd, Cambrai Road","[2.78186, 50.29301]","",place,Monchy,"{""place""=>[""Monchy""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3036784,Arras,"[2.78186, 50.29301]"
+68,AWD0000aqn,diary,675,2,1917-12-28 00:00:00 UTC,28 Dec 1917,"Cambrai Rd, Cambrai Road","[2.78186, 50.29301]","",place,Les Fosses Farm,"{""place""=>[""Les Fosses Farm""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3036784,Arras,"[2.78186, 50.29301]"
+1,AWD0000as3,diary,676,6,1917-12-29 00:00:00 UTC,29 Dec 1917,"Cambrai Rd, Cambrai Road","[2.78186, 50.29301]","",diaryDate,29 Dec 1917,"{""day""=>[""29""], ""month""=>[""Dec""], ""year""=>[""1917""]}",3036784,Arras,"[2.78186, 50.29301]"
+2,AWD0000as3,diary,676,2,1917-12-29 00:00:00 UTC,29 Dec 1917,"Cambrai Rd, Cambrai Road","[2.78186, 50.29301]","",activity,repair,{},3036784,Arras,"[2.78186, 50.29301]"
+5,AWD0000as3,diary,676,2,1917-12-29 00:00:00 UTC,29 Dec 1917,"Cambrai Rd, Cambrai Road","[2.78186, 50.29301]","",reference,Appendix X,{},3036784,Arras,"[2.78186, 50.29301]"
+6,AWD0000as3,diary,676,4,1917-12-30 00:00:00 UTC,30 Dec 1917,"Cambrai Rd, Cambrai Road","[2.78186, 50.29301]","",diaryDate,30 Dec 1917,"{""day""=>[""30""], ""month""=>[""Dec""], ""year""=>[""1917""]}",3036784,Arras,"[2.78186, 50.29301]"
+7,AWD0000as3,diary,676,3,1917-12-30 00:00:00 UTC,30 Dec 1917,"Cambrai Rd, Cambrai Road","[2.78186, 50.29301]","",unit,"1st Battalion The Somerset Light Infantry, 1ST BATTALION SOMERSET LIGHT INFANTRY, 1st Battalion, The Somerset Light Infantry","{""name""=>[""1st Battalion The Somerset Light Infantry"", ""1ST BATTALION SOMERSET LIGHT INFANTRY"", ""1st Battalion, The Somerset Light Infantry""], ""context""=>[""relieved""]}",3036784,Arras,"[2.78186, 50.29301]"
+10,AWD0000as3,diary,676,2,1917-12-30 00:00:00 UTC,30 Dec 1917,"Cambrai Rd, Cambrai Road","[2.78186, 50.29301]","",place,Gordon Avenue,"{""place""=>[""Gordon Avenue""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3036784,Arras,"[2.78186, 50.29301]"
+12,AWD0000as3,diary,676,2,1917-12-30 00:00:00 UTC,30 Dec 1917,"Cambrai Rd, Cambrai Road","[2.78186, 50.29301]","",place,Crater Subway,"{""place""=>[""Crater Subway""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3036784,Arras,"[2.78186, 50.29301]"
+16,AWD0000as3,diary,676,4,1917-12-30 00:00:00 UTC,30 Dec 1917,"Cambrai Rd, Cambrai Road","[2.78186, 50.29301]","",unit,"25th Battalion, Northumberland Fusiliers","{""name""=>[""25th Battalion, Northumberland Fusiliers""], ""context""=>[""right""]}",3036784,Arras,"[2.78186, 50.29301]"
+17,AWD0000as3,diary,676,2,1917-12-30 00:00:00 UTC,30 Dec 1917,"Cambrai Rd, Cambrai Road","[2.78186, 50.29301]","",place,Tites Copse,"{""place""=>[""Tites Copse""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3036784,Arras,"[2.78186, 50.29301]"
+18,AWD0000as3,diary,676,3,1917-12-30 00:00:00 UTC,30 Dec 1917,"Cambrai Rd, Cambrai Road","[2.78186, 50.29301]","",unit,1st Hampshire Regiment,"{""name""=>[""1st Hampshire Regiment""], ""context""=>[""left""]}",3036784,Arras,"[2.78186, 50.29301]"
+20,AWD0000as3,diary,676,2,1917-12-30 00:00:00 UTC,30 Dec 1917,"Cambrai Rd, Cambrai Road","[2.78186, 50.29301]","",place,"HOE Support, Hoe Dupport","{""place""=>[""HOE Support"", ""Hoe Dupport""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3036784,Arras,"[2.78186, 50.29301]"
+22,AWD0000as3,diary,676,2,1917-12-30 00:00:00 UTC,30 Dec 1917,"Cambrai Rd, Cambrai Road","[2.78186, 50.29301]","",place,Pommel Alley,"{""place""=>[""Pommel Alley""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3036784,Arras,"[2.78186, 50.29301]"
+23,AWD0000as3,diary,676,2,1917-12-30 00:00:00 UTC,30 Dec 1917,"Cambrai Rd, Cambrai Road","[2.78186, 50.29301]","",place,Saddle Support,"{""place""=>[""Saddle Support""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3036784,Arras,"[2.78186, 50.29301]"
+24,AWD0000as3,diary,676,4,1917-12-31 00:00:00 UTC,31 Dec 1917,"Cambrai Rd, Cambrai Road","[2.78186, 50.29301]","",diaryDate,31 Dec 1917,"{""day""=>[""31""], ""month""=>[""Dec""], ""year""=>[""1917""]}",3036784,Arras,"[2.78186, 50.29301]"
+26,AWD0000as3,diary,676,4,1917-12-31 00:00:00 UTC,31 Dec 1917,"Cambrai Rd, Cambrai Road","[2.78186, 50.29301]","",activity,fire,{},3036784,Arras,"[2.78186, 50.29301]"
+27,AWD0000as3,diary,676,4,1917-12-31 00:00:00 UTC,31 Dec 1917,"Cambrai Rd, Cambrai Road","[2.78186, 50.29301]","",activity,repair,{},3036784,Arras,"[2.78186, 50.29301]"
+29,AWD0000as3,diary,676,2,1917-12-31 00:00:00 UTC,31 Dec 1917,"Cambrai Rd, Cambrai Road","[2.78186, 50.29301]","",activity,attack,{},3036784,Arras,"[2.78186, 50.29301]"
+31,AWD0000as3,diary,676,2,1917-12-31 00:00:00 UTC,31 Dec 1917,"Cambrai Rd, Cambrai Road","[2.78186, 50.29301]","",place,Knife Trench,"{""place""=>[""Knife Trench""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3036784,Arras,"[2.78186, 50.29301]"
+32,AWD0000as3,diary,676,2,1917-12-31 00:00:00 UTC,31 Dec 1917,"Cambrai Rd, Cambrai Road","[2.78186, 50.29301]","",place,Badger Trench,"{""place""=>[""Badger Trench""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3036784,Arras,"[2.78186, 50.29301]"
+33,AWD0000as3,diary,676,2,1917-12-31 00:00:00 UTC,31 Dec 1917,"Cambrai Rd, Cambrai Road","[2.78186, 50.29301]","",place,Beetle Trench,"{""place""=>[""Beetle Trench""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3036784,Arras,"[2.78186, 50.29301]"
+34,AWD0000as3,diary,676,3,1917-12-31 00:00:00 UTC,31 Dec 1917,"Cambrai Rd, Cambrai Road","[2.78186, 50.29301]","",casualties,"killed: 6, wounded: 34, missing: 3",{},3036784,Arras,"[2.78186, 50.29301]"
+38,AWD0000as3,diary,676,4,1917-12-31 00:00:00 UTC,31 Dec 1917,"Cambrai Rd, Cambrai Road","[2.78186, 50.29301]","",person,Lieutenant Colonel R T Fellowes,"{""first""=>[""R T""], ""surname""=>[""Fellowes""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""1st Battalion, The Rifle Brigade"", """"]}",3036784,Arras,"[2.78186, 50.29301]"
+41,AWD0000as3,diary,676,4,1917-12-31 00:00:00 UTC,31 Dec 1917,"Cambrai Rd, Cambrai Road","[2.78186, 50.29301]","",activity,strength,{},3036784,Arras,"[2.78186, 50.29301]"
+2,AWD0000ar4,other,677,2,,,,[],,date,4 Oct 1917,{},,,
+5,AWD0000ask,orders,678,2,,,,[],,orders,other,{},,,
+7,AWD0000ask,orders,678,2,,,,[],,person,"Major Harry,Henry Peyton","{""first""=>[""Harry"", ""Henry""], ""surname""=>[""Peyton""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""1st Battalion, The Rifle Brigade"", ""1st Battalion the Rifle Brigade""]}",,,
+9,AWD0000ask,orders,678,4,,,,[],,date,2 Dec 1917,{},,,
+1,AWD0000aqa,diary,679,4,1917-12-31 00:00:00 UTC,31 Dec 1917,"Cambrai Rd, Cambrai Road","[2.78186, 50.29301]","",orders,move,{},3036784,Arras,"[2.78186, 50.29301]"
+3,AWD0000aqa,diary,679,3,1917-12-31 00:00:00 UTC,31 Dec 1917,"Cambrai Rd, Cambrai Road","[2.78186, 50.29301]","",person,Major H S C Peyton,"{""first""=>[""H S C""], ""surname""=>[""Peyton""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""1ST BATTALION THE RIFLE BRIGADE"", ""1st Battalion, The Rifle Brigade"", ""1st Batt., The Rifle Brigade""]}",3036784,Arras,"[2.78186, 50.29301]"
+4,AWD0000aqa,diary,679,6,1917-12-31 00:00:00 UTC,31 Dec 1917,"Cambrai Rd, Cambrai Road","[2.78186, 50.29301]","",person,Major  ,"{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",3036784,Arras,"[2.78186, 50.29301]"
+5,AWD0000aqa,diary,679,6,1917-12-02 00:00:00 UTC,2 Dec 1917,"Cambrai Rd, Cambrai Road","[2.78186, 50.29301]","",diaryDate,2 Dec 1917,"{""day""=>[""2""], ""month""=>[""Dec""], ""year""=>[""1917""]}",3036784,Arras,"[2.78186, 50.29301]"
+6,AWD0000aqa,diary,679,3,1917-12-02 00:00:00 UTC,2 Dec 1917,"Cambrai Rd, Cambrai Road","[2.78186, 50.29301]","",date,2 Dec 1917,{},3036784,Arras,"[2.78186, 50.29301]"
+8,AWD0000aqa,diary,679,6,1917-12-02 00:00:00 UTC,2 Dec 1917,"Cambrai Rd, Cambrai Road","[2.78186, 50.29301]","",activity,movement,{},3036784,Arras,"[2.78186, 50.29301]"
+9,AWD0000aqa,diary,679,6,1917-12-02 00:00:00 UTC,2 Dec 1917,"Cambrai Rd, Cambrai Road","[2.78186, 50.29301]","",unit,Sommerset Light Infantry,"{""name""=>[""Sommerset Light Infantry""], ""context""=>[""relieved""]}",3036784,Arras,"[2.78186, 50.29301]"
+13,AWD0000aqa,diary,679,6,1917-12-02 00:00:00 UTC,2 Dec 1917,"Cambrai Rd, Cambrai Road","[2.78186, 50.29301]","",place,"","{""place""=>[""""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3036784,Arras,"[2.78186, 50.29301]"
+11,AWD0000arv,orders,680,3,,,,[],,person,Captain J A Dawson,"{""first""=>[""J A""], ""surname""=>[""Dawson""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""1st Battalion the Rifle Brigade"", ""1st Batt., The Rifle Brigade"", ""1st Battalion, The Rifle Brigade""]}",,,
+1,AWD0000asj,orders,681,5,,,,[],,orders,move,{},,,
+3,AWD0000asj,orders,681,4,,,,[],,person,Lieutenant Colonel R T Fellowes,"{""first""=>[""R T""], ""surname""=>[""Fellowes""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""other"", ""author""], ""unit""=>[""1st Battalion, The Rifle Brigade"", ""1st Battalion Rifle Brigade"", ""1st Batt., The Rifle Brigade"", ""1st Battalion The Rifle brigade""]}",,,
+4,AWD0000asj,orders,681,7,,,,[],,date,5 Dec 1917,{},,,
+5,AWD0000asj,orders,681,3,,,,[],,reference,Appendix III,{},,,
+6,AWD0000asj,orders,681,2,,,,[],,orders,move,{},,,
+12,AWD0000asj,orders,681,2,,,,[],,person,Second Lieutenant  Cole,"{""first""=>[""""], ""surname""=>[""Cole""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+13,AWD0000asj,orders,681,2,,,,[],,orders,move,{},,,
+15,AWD0000asj,orders,681,4,,,,[],,orders,move,{},,,
+9,AWD0000ary,orders,682,3,,,,[],,person,Captain J A Dawson,"{""first""=>[""J A""], ""surname""=>[""Dawson""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""1st Battalion, The Rifle Brigade""]}",,,
+1,AWD0000aq7,orders,683,2,,,,[],,reference,Appendix IV,{},,,
+2,AWD0000aq7,orders,683,3,,,,[],,orders,move,{},,,
+3,AWD0000aq7,orders,683,4,,,,[],,person,Lieutenant Colonel R T Fellowes,"{""first""=>[""R T""], ""surname""=>[""Fellowes""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""author"", ""other""], ""unit""=>[""1st Battalion, The Rifle Brigade""]}",,,
+5,AWD0000aq7,orders,683,2,,,,[],,person,"Lieutenant Colonel R T Fellowes, D.S.O., M.C., FELLOWES DSO, MC","{""first""=>[""R T""], ""surname""=>[""Fellowes, D.S.O., M.C."", ""FELLOWES DSO, MC""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""1st Battalion, The Rifle Brigade"", ""1ST BATTALION THE RIFLE BRIGADE""]}",,,
+7,AWD0000aq7,orders,683,5,,,,[],,date,5 Dec 1917,{},,,
+12,AWD0000aq7,orders,683,2,,,,[],,orders,move,{},,,
+14,AWD0000aq7,orders,683,2,,,,[],,orders,move,{},,,
+15,AWD0000aq7,orders,683,3,,,,[],,orders,attack,{},,,
+21,AWD0000aq7,orders,683,3,,,,[],,person,Lieutenant Colonel R T Fellowes,"{""first""=>[""R T""], ""surname""=>[""Fellowes""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""1st Battalion, The Rifle Brigade"", """", ""1st Batt., The Rifle Brigade""]}",,,
+5,AWD0000as7,orders,684,3,,,,[],,person,Lieutenant Colonel R T Fellowes,"{""first""=>[""R T""], ""surname""=>[""Fellowes""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""1st Battalion, The Rifle Brigade""]}",,,
+6,AWD0000as7,orders,684,2,,,,[],,person,"Lieutenant Colonel R T FELLOWES DSO, MC, Fellowes DSO, MC","{""first""=>[""R T""], ""surname""=>[""FELLOWES DSO, MC"", ""Fellowes DSO, MC""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""author"", ""other""], ""unit""=>[""1ST BATTALION THE RIFLE BRIGADE"", """"]}",,,
+7,AWD0000as7,orders,684,2,,,,[],,date,9 Dec 1917,{},,,
+8,AWD0000as7,orders,684,2,,,,[],,date,8 Dec 1917,{},,,
+9,AWD0000as7,orders,684,3,,,,[],,person,Captain J A Dawson,"{""first""=>[""J A""], ""surname""=>[""Dawson""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""1st Battalion, The Rifle Brigade""]}",,,
+1,AWD0000aty,orders,685,2,,,,[],,orders,move,{},,,
+3,AWD0000aty,orders,685,2,,,,[],,person,"Lieutenant Colonel R T Fellowes DSO MC, Fellowes D.S.O., M.C.","{""first""=>[""R T""], ""surname""=>[""Fellowes DSO MC"", ""Fellowes D.S.O., M.C.""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""1st Battalion The Rifle Brigade"", ""1st battalion The Rifle Brigaded""]}",,,
+5,AWD0000aty,orders,685,3,,,,[],,person,Lieutenant Colonel R T Fellowes,"{""first""=>[""R T""], ""surname""=>[""Fellowes""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""1st Batt. The Rifle Brigade"", ""1st Battalion, The Rifle Brigade"", ""1st BAtt. Rifle Brigade""]}",,,
+12,AWD0000aty,orders,685,4,,,,[],,orders,move,{},,,
+13,AWD0000aty,orders,685,2,,,,[],,person,"Second Lieutenant E J,R J Gray","{""first""=>[""E J"", ""R J""], ""surname""=>[""Gray""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""1st Battalion The Rifle Brigade"", """"]}",,,
+14,AWD0000aty,orders,685,2,,,,[],,person,Second Lieutenant W H Corris,"{""first""=>[""W H""], ""surname""=>[""Corris""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""1st Battalion The Rifle Brigade"", """"]}",,,
+5,AWD0000ar2,orders,686,3,,,,[],,person,Captain J A Davison,"{""first""=>[""J A""], ""surname""=>[""Davison""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>["""", ""1st Batt., The Rifle Brigade"", ""1st battalion The Rifle Brigade""]}",,,
+2,AWD0000arm,orders,687,2,,,,[],,orders,move,{},,,
+4,AWD0000arm,orders,687,2,,,,[],,person,"Lieutenant Colonel R T Fellowes DSC MC, Fellowes, D.S.O, M.C.","{""first""=>[""R T""], ""surname""=>[""Fellowes DSC MC"", ""Fellowes, D.S.O, M.C.""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""other"", ""author""], ""unit""=>[""1st Battalion The Rifle Brigade"", ""1st Battalion, The Rifle Brigade""]}",,,
+10,AWD0000arm,orders,687,4,,,,[],,date,17 Dec 1917,{},,,
+16,AWD0000arm,orders,687,3,,,,[],,gridRef,"",{},,,
+17,AWD0000arm,orders,687,2,,,,[],,person,Sergeant  Shadbolt,"{""first""=>[""""], ""surname""=>[""Shadbolt""], ""rank""=>[""Sergeant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+18,AWD0000arm,orders,687,2,,,,[],,person,"Second Lieutenant G J,GJ Cole","{""first""=>[""G J"", ""GJ""], ""surname""=>[""Cole""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+1,AWD0000ar3,orders,688,3,,,,[],,date,17 Dec 1917,{},,,
+2,AWD0000ar3,orders,688,2,,,,[],,orders,move,{},,,
+4,AWD0000ar3,orders,688,3,,,,[],,person,Second Lieutenant E J Gray,"{""first""=>[""E J""], ""surname""=>[""Gray""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+5,AWD0000ar3,orders,688,3,,,,[],,person,Second Lieutenant W H Corris,"{""first""=>[""W H""], ""surname""=>[""Corris""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+7,AWD0000ar3,orders,688,2,,,,[],,person,"Captain J A Davison, Dawson","{""first""=>[""J A""], ""surname""=>[""Davison"", ""Dawson""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author"", ""other""], ""unit""=>[""1st Battalion, The Rifle Brigade"", ""1st Batt., The Rifle Brigade""]}",,,
+3,AWD0000arg,orders,689,2,,,,[],,person,"Lieutenant Colonel R T Fellowes, Fellows","{""first""=>[""R T""], ""surname""=>[""Fellowes"", ""Fellows""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""1st Battalion, The Rifle Brigade"", ""1st Batt., The Rifle Brigade""]}",,,
+5,AWD0000arg,orders,689,2,,,,[],,date,21 Dec 1917,{},,,
+8,AWD0000arg,orders,689,2,,,,[],,person,Sergeant  Shadbolt,"{""first""=>[""""], ""surname""=>[""Shadbolt""], ""rank""=>[""Sergeant""], ""number""=>[""""], ""reason""=>[""combat"", ""other""], ""unit""=>[""""]}",,,
+2,AWD0000apg,orders,690,6,,,,[],,date,21 Dec 1917,{},,,
+3,AWD0000apg,orders,690,2,,,,[],,person,Captain J A Dawson,"{""first""=>[""J A""], ""surname""=>[""Dawson""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author"", ""other""], ""unit""=>[""1st Brigade, The Rifle Brigade"", ""1st Rifle Brigade""]}",,,
+5,AWD0000aqr,orders,691,2,,,,[],,orders,other,{},,,
+3,AWD0000atv,orders,692,2,,,,[],,person,"Lieutenant Colonel R T,R A Fellowes, Fellows","{""first""=>[""R T"", ""R A""], ""surname""=>[""Fellowes"", ""Fellows""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""1st Battalion, The Rifle Brigade"", ""1st Batt., The Rifle Brigade""]}",,,
+5,AWD0000atv,orders,692,2,,,,[],,date,21 Dec 1917,{},,,
+6,AWD0000aqq,"orders, other",693,2,,,,[],,person,"Lieutenant Colonel R A,R T Fellows, Fellowes","{""first""=>[""R A"", ""R T""], ""surname""=>[""Fellows"", ""Fellowes""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""1st Batt., The Rifle Brigade"", """"]}",,,
+1,AWD0000as2,orders,694,2,,,,[],,orders,other,{},,,
+3,AWD0000as2,orders,694,5,,,,[],,person,Lieutenant Colonel R T Fellowes,"{""first""=>[""R T""], ""surname""=>[""Fellowes""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""1st Battalion The Rifle Brigade""]}",,,
+5,AWD0000as2,orders,694,2,,,,[],,reference,Appendix VIII,{},,,
+6,AWD0000as2,orders,694,4,,,,[],,date,25 Dec 1917,{},,,
+7,AWD0000as2,orders,694,2,,,,[],,date,25 Dec 1916,{},,,
+9,AWD0000as2,orders,694,6,,,,[],,person,Lieutenant GHG Crosfield,"{""first""=>[""GHG""], ""surname""=>[""Crosfield""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+5,AWD0000asf,orders,695,5,,,,[],,person,Lieutenant  Crosfield,"{""first""=>[""""], ""surname""=>[""Crosfield""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+7,AWD0000asf,orders,695,2,,,,[],,person,"Captain J A Damon, Dawson","{""first""=>[""J A""], ""surname""=>[""Damon"", ""Dawson""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author"", ""other""], ""unit""=>[""1st battalion, rifle brigade"", ""1st Batt., The Rifle Brigade""]}",,,
+8,AWD0000asf,orders,695,2,,,,[],,date,25 Dec 1917,{},,,
+8,AWD0000atl,orders,696,2,,,,[],,date,26 Dec 1917,{},,,
+2,AWD0000atu,orders,697,2,,,,[],,orders,attack,{},,,
+7,AWD0000atu,orders,697,2,,,,[],,date,26 Dec 1917,{},,,
+4,AWD0000aqb,orders,698,5,,,,[],,person,Lieutenant Colonel R T Fellowes,"{""first""=>[""R T""], ""surname""=>[""Fellowes""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""1st Battalion, The Rifle Brigade""]}",,,
+8,AWD0000aqb,orders,698,3,,,,[],,date,29 Dec 1917,{},,,
+4,AWD0000aqi,orders,699,2,,,,[],,person,"Captain J A,J M Dawson, Damon","{""first""=>[""J A"", ""J M""], ""surname""=>[""Dawson"", ""Damon""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other"", ""author""], ""unit""=>[""1st Batt., The Rifle Brigade"", """"]}",,,
+7,AWD0000aqi,orders,699,2,,,,[],,date,29 Dec 1917,{},,,
+6,AWD0000ar6,"orders, other",702,3,,,,[],,date,24 Oct 1917,{},,,
+16,AWD0000ar6,"orders, other",702,2,,,,[],,place,MUSKET RESERVE AND CURB SWITCH RESERVE,"{""place""=>[""MUSKET RESERVE AND CURB SWITCH RESERVE""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+19,AWD0000ar6,"orders, other",702,4,,,,[],,reference,1ST BATTALION THE RIFLE REGIMENT,{},,,
+24,AWD0000ar6,"orders, other",702,2,,,,[],,place,CANISTER,"{""place""=>[""CANISTER""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+4,AWD0000atx,orders,703,2,,,,[],,date,2 Dec 1917,{},,,
+1,AWD0000aq5,orders,704,2,,,,[],,orders,other,{},,,
+7,AWD0000aq5,orders,704,6,,,,[],,person,Major H S C Peyton,"{""first""=>[""H S C""], ""surname""=>[""Peyton""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other"", ""author""], ""unit""=>[""1st Battalion the Rifle Brigade"", ""1st Batt., The Rifle Brigade"", ""Commanding 1st Battalion The Rifle Brigade"", """", ""1st Battalion, The Rifle Brigade"", ""1st Battalion The Rifle Brigade""]}",,,
+9,AWD0000aq5,orders,704,7,,,,[],,date,2 Dec 1917,{},,,
+11,AWD0000aq5,orders,704,2,,,,[],,reference,Map J. Corps. T.S.,{},,,
+12,AWD0000aq5,orders,704,2,,,,[],,orders,move,{},,,
+14,AWD0000aq5,orders,704,6,,,,[],,orders,move,{},,,
+2,AWD0000aqx,orders,705,3,,,,[],,orders,other,{},,,
+3,AWD0000aqx,orders,705,2,,,,[],,orders,move,{},,,
+6,AWD0000aqx,orders,705,3,,,,[],,orders,other,{},,,
+7,AWD0000aqx,orders,705,2,,,,[],,person,"Captain J,JA Dawson, Davison","{""first""=>[""J"", ""JA""], ""surname""=>[""Dawson"", ""Davison""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other"", ""author""], ""unit""=>[""1st Bat.,The Rifle Brigade"", ""1st Battalion The Rifle Brigade""]}",,,
+3,AWD0000arb,orders,706,6,,,,[],,person,"Lieutenant Colonel R T Fellows, Fellowes","{""first""=>[""R T""], ""surname""=>[""Fellows"", ""Fellowes""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>["""", ""1st Battalion, The Rifle Brigade""]}",,,
+5,AWD0000arb,orders,706,5,,,,[],,date,5 Dec 1917,{},,,
+6,AWD0000arb,orders,706,2,,,,[],,orders,move,{},,,
+2,AWD0000at9,orders,707,3,,,,[],,date,5 Dec 1917,{},,,
+5,AWD0000at9,orders,707,3,,,,[],,person,Captain J A Dawson,"{""first""=>[""J A""], ""surname""=>[""Dawson""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""1st Battalion, The Rifle Brigade""]}",,,
+4,AWD0000ar9,orders,708,2,,,,[],,person,"Lieutenant Colonel R T,RT Fellows, Fellowes","{""first""=>[""R T"", ""RT""], ""surname""=>[""Fellows"", ""Fellowes""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""other"", ""author""], ""unit""=>[""1st Batt., The Rifle Brigade"", ""1st Battalion The Rifle Brigade""]}",,,
+5,AWD0000ar9,orders,708,3,,,,[],,date,5 Dec 1917,{},,,
+7,AWD0000ar9,orders,708,2,,,,[],,person,"Lieutenant Colonel R T,JG Fellows, Fellowes","{""first""=>[""R T"", ""JG""], ""surname""=>[""Fellows"", ""Fellowes""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""other"", ""author""], ""unit""=>[""1st Bat., The Rifle Brigade"", ""1st Battalion The Rifle Brigade""]}",,,
+4,AWD0000ast,orders,709,3,,,,[],,person,Lieutenant Colonel R T Fellowes,"{""first""=>[""R T""], ""surname""=>[""Fellowes""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""1st Battalion, The Rifle Brigade""]}",,,
+6,AWD0000ast,orders,709,3,,,,[],,date,8 Dec 1917,{},,,
+9,AWD0000ast,orders,709,3,,,,[],,person,Captain J A Dawson,"{""first""=>[""J A""], ""surname""=>[""Dawson""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""1st Battalion, The Rifle Brigade""]}",,,
+5,AWD0000apm,orders,710,4,,,,[],,person,"Lieutenant Colonel R T,R Fellowes, Fellows","{""first""=>[""R T"", ""R""], ""surname""=>[""Fellowes"", ""Fellows""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+9,AWD0000apm,orders,710,4,,,,[],,date,9 Dec 1917,{},,,
+12,AWD0000apm,orders,710,2,,,,[],,person,"Lieutenant,Second Lieutenant W,W H Corris","{""first""=>[""W"", ""W H""], ""surname""=>[""Corris""], ""rank""=>[""Lieutenant"", ""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+13,AWD0000apm,orders,710,2,,,,[],,person,"Second Lieutenant,Lieutenant E J,E Gray","{""first""=>[""E J"", ""E""], ""surname""=>[""Gray""], ""rank""=>[""Second Lieutenant"", ""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+4,AWD0000ar1,orders,711,2,,,,[],,orders,move,{},,,
+7,AWD0000ar1,orders,711,3,,,,[],,person,Captain J A Dawson,"{""first""=>[""J A""], ""surname""=>[""Dawson""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""1st Batt., The Rifle Brigade"", ""1st Battalion, The Rifle Brigade"", """"]}",,,
+2,AWD0000asp,orders,712,2,,,,[],,orders,other,{},,,
+5,AWD0000asp,orders,712,5,,,,[],,person,Lieutenant Colonel R T Fellowes,"{""first""=>[""R T""], ""surname""=>[""Fellowes""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+10,AWD0000asp,orders,712,4,,,,[],,date,17 Dec 1917,{},,,
+16,AWD0000asp,orders,712,2,,,,[],,place,"Feuchy Chapel Crossroads, feuchy Chapel Cross Roads","{""place""=>[""Feuchy Chapel Crossroads"", ""feuchy Chapel Cross Roads""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+19,AWD0000asp,orders,712,3,,,,[],,person,Sergeant  Shadbolt,"{""first""=>[""""], ""surname""=>[""Shadbolt""], ""rank""=>[""Sergeant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+20,AWD0000asp,orders,712,3,,,,[],,person,Second Lieutenant G J Cole,"{""first""=>[""G J""], ""surname""=>[""Cole""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+7,AWD0000aq3,orders,713,2,,,,[],,person,Second Lieutenant E J Gray,"{""first""=>[""E J""], ""surname""=>[""Gray""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+8,AWD0000aq3,orders,713,2,,,,[],,person,Second Lieutenant W H Corris,"{""first""=>[""W H""], ""surname""=>[""Corris""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+9,AWD0000aq3,orders,713,2,,,,[],,person,"Captain J A Dawson, Danson","{""first""=>[""J A""], ""surname""=>[""Dawson"", ""Danson""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other"", ""author""], ""unit""=>[""1st Batt., The Rifle Brigade"", ""1st Battalion, The Rifle Brigade""]}",,,
+4,AWD0000arj,orders,714,2,,,,[],,person,Lieutenant Colonel R T Fellowes DSO MC,"{""first""=>[""R T""], ""surname""=>[""Fellowes DSO MC""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""1st Battalion The Rifle Brigade"", """"]}",,,
+6,AWD0000arj,orders,714,5,,,,[],,person,Lieutenant Colonel R T Fellowes,"{""first""=>[""R T""], ""surname""=>[""Fellowes""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+7,AWD0000arj,orders,714,6,,,,[],,date,17 Dec 1917,{},,,
+1,AWD0000aqw,orders,715,2,,,,[],,reference,Appendix VII,{},,,
+6,AWD0000aqw,orders,715,7,,,,[],,person,Lieutenant Colonel R T Fellowes,"{""first""=>[""R T""], ""surname""=>[""Fellowes""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+7,AWD0000aqw,orders,715,7,,,,[],,date,31 Dec 1917,{},,,
+9,AWD0000aqw,orders,715,2,,,,[],,orders,move,{},,,
+2,AWD0000aq9,orders,716,4,,,,[],,date,21 Dec 1917,{},,,
+4,AWD0000aq9,orders,716,2,,,,[],,orders,routine,{},,,
+6,AWD0000aq9,orders,716,2,,,,[],,person,"Captain J D,J A Dansoi, Dawson","{""first""=>[""J D"", ""J A""], ""surname""=>[""Dansoi"", ""Dawson""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author"", ""other""], ""unit""=>[""1st Battalion The Rifle Brigade"", ""1st Batt., The Rifle Brigade""]}",,,
+3,AWD0000aqf,other,717,2,,,,[],,signals,other,{},,,
+3,AWD0000aql,orders,718,3,,,,[],,person,"Lieutenant Colonel R T Fellows, Fellowson, Fellowes","{""first""=>[""R T""], ""surname""=>[""Fellows"", ""Fellowson"", ""Fellowes""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""1st Batt., The Rifle Brigade"", ""1st Battalion The Rifle Brigade"", ""1st Battalion, The Rifle Brigade""]}",,,
+4,AWD0000aql,orders,718,3,,,,[],,date,21 Dec 1917,{},,,
+6,AWD0000arp,orders,719,2,,,,[],,reference,Appendix IX,{},,,
+9,AWD0000arp,orders,719,2,,,,[],,date,26 Dec 1917,{},,,
+1,AWD0000ats,orders,720,2,,,,[],,orders,attack,{},,,
+4,AWD0000ats,orders,720,3,,,,[],,person,Lieutenant Colonel R T Fellowes,"{""first""=>[""R T""], ""surname""=>[""Fellowes""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""1st Battalion, The Rifle Brigade""]}",,,
+5,AWD0000ats,orders,720,2,,,,[],,person,Lieutenant Colonel  ,"{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""other"", ""author""], ""unit""=>[""1st Battalion The Rifle Brigade"", ""1st battalion The Rifle Brigade""]}",,,
+4,AWD0000att,orders,721,3,,,,[],,person,Lieutenant Colonel R T Fellowes DSO MC,"{""first""=>[""R T""], ""surname""=>[""Fellowes DSO MC""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""1st Battalion The Rifle Brigade""]}",,,
+5,AWD0000att,orders,721,4,,,,[],,person,"Lieutenant Colonel R T Fellows, Fellowes","{""first""=>[""R T""], ""surname""=>[""Fellows"", ""Fellowes""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""author"", ""other""], ""unit""=>[""1st batt rifle brigade"", ""1st Battalion, The Rifle Brigade"", """", ""1st Batt., The Rifle Brigade""]}",,,
+6,AWD0000att,orders,721,2,,,,[],,date,20 Dec 1917,{},,,
+9,AWD0000att,orders,721,3,,,,[],,date,29 Dec 1917,{},,,
+14,AWD0000att,orders,721,3,,,,[],,person,"Second Lieutenant J G,G J,g Cole","{""first""=>[""J G"", ""G J"", ""g""], ""surname""=>[""Cole""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+1,AWD0000aqe,orders,722,3,,,,[],,person,Captain J A Davison,"{""first""=>[""J A""], ""surname""=>[""Davison""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""1st Battalion The Rifle Brigade""]}",,,
+2,AWD0000aqe,orders,722,4,,,,[],,date,29 Dec 1917,{},,,
+2,AWD0000aqh,"other, orders",723,2,,,,[],,orders,other,{},,,
+5,AWD0000aqh,"other, orders",723,2,,,,[],,reference,(para 7 B (7),{},,,
+7,AWD0000aqh,"other, orders",723,2,,,,[],,person,"Lieutenant Colonel R T Fellowes, Fellows","{""first""=>[""R T""], ""surname""=>[""Fellowes"", ""Fellows""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""author"", ""other""], ""unit""=>[""1st Battalion The Rifle Company"", ""1st batt., The Rifle Brigade""]}",,,
+8,AWD0000aqh,"other, orders",723,2,,,,[],,date,23 Dec 1917,{},,,
+3,AWD0000asm,orders,724,2,,,,[],,orders,standing,{},,,
+6,AWD0000asm,orders,724,5,,,,[],,person,Lieutenant Colonel R T Fellowes,"{""first""=>[""R T""], ""surname""=>[""Fellowes""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""1st Battalion The Rifle Brigade"", """"]}",,,
+7,AWD0000asm,orders,724,7,,,,[],,date,25 Dec 1917,{},,,
+11,AWD0000asm,orders,724,2,,,,[],,person,Sergeant  Cook,"{""first""=>[""""], ""surname""=>[""Cook""], ""rank""=>[""Sergeant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+12,AWD0000asm,orders,724,7,,,,[],,person,Lieutenant  Crosfield,"{""first""=>[""""], ""surname""=>[""Crosfield""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+4,AWD0000atr,orders,725,4,,,,[],,person,Lieutenant  Crosfield,"{""first""=>[""""], ""surname""=>[""Crosfield""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+5,AWD0000atr,orders,725,4,,,,[],,person,Captain J A Dawson,"{""first""=>[""J A""], ""surname""=>[""Dawson""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author"", ""other""], ""unit""=>[""1st battalion, rifle brigade"", ""1st Batt., The Rifle Brigade"", ""1st Battalion, The Rifle Brigade"", ""1st Battalion The Rifle Brigade""]}",,,
+6,AWD0000atr,orders,725,4,,,,[],,date,25 Dec 1917,{},,,

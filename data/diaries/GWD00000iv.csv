@@ -1,0 +1,341 @@
+Order,Page,Page type,Page number,Count,DateTime,Date,Place,Lat/Lon,Time,Type,Label,Data,GeoID,GeoName,GeoCoords
+5,AWD0002qr4,diary,664,2,,"","","[0.0, 0.0]","",person,"Captain H W J Barker, Barsker","{""first""=>[""H W J""], ""surname""=>[""Barker"", ""Barsker""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>["""", ""1 BATTALION LEICESTERSHIRE REGIMENT (Headquarters)""]}",2985684,Pozières,"[2.72929, 50.04047]"
+8,AWD0002qr4,diary,664,4,,"","","[0.0, 0.0]","",person,Lieutenant Colonel H B Brown,"{""first""=>[""H B""], ""surname""=>[""Brown""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+9,AWD0002qr4,diary,664,2,,"","","[0.0, 0.0]","",person,"Major,Major General J W E,E Mosse, Morse","{""first""=>[""J W E"", ""E""], ""surname""=>[""Mosse"", ""Morse""], ""rank""=>[""Major"", ""Major General""], ""number""=>[""""], ""reason""=>[""other"", ""joined""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+12,AWD0002qr4,diary,664,2,,"","","[0.0, 0.0]","",person,"Lieutenant R N Davis, Dam","{""first""=>[""R N""], ""surname""=>[""Davis"", ""Dam""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other"", ""joined""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+14,AWD0002qr4,diary,664,3,,"","","[0.0, 0.0]","",person,"Lieutenant D F M,D F> M,D S M Hackett, Hackett (T.O.), Hachett","{""first""=>[""D F M"", ""D F> M"", ""D S M""], ""surname""=>[""Hackett"", ""Hackett (T.O.)"", ""Hachett""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+15,AWD0002qr4,diary,664,3,,"","","[0.0, 0.0]","",person,Lieutenant F Taylor,"{""first""=>[""F""], ""surname""=>[""Taylor""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+16,AWD0002qr4,diary,664,3,,"","","[0.0, 0.0]","",person,Second Lieutenant P A Crouch,"{""first""=>[""P A""], ""surname""=>[""Crouch""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+17,AWD0002qr4,diary,664,3,,"","","[0.0, 0.0]","",person,Second Lieutenant E H Butler,"{""first""=>[""E H""], ""surname""=>[""Butler""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""A Coy"", ""1 BATTALION LEICESTERSHIRE REGIMENT (A Company)"", """"]}",2985684,Pozières,"[2.72929, 50.04047]"
+19,AWD0002qr4,diary,664,3,,"","","[0.0, 0.0]","",person,Captain S T Hartshorne,"{""first""=>[""S T""], ""surname""=>[""Hartshorne""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""A Coy"", ""1 BATTALION LEICESTERSHIRE REGIMENT (A Company)"", """"]}",2985684,Pozières,"[2.72929, 50.04047]"
+20,AWD0002qr4,diary,664,3,,"","","[0.0, 0.0]","",person,Lieutenant J D Vessey,"{""first""=>[""J D""], ""surname""=>[""Vessey""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""A Coy"", ""1 BATTALION LEICESTERSHIRE REGIMENT (A Company)"", """"]}",2985684,Pozières,"[2.72929, 50.04047]"
+21,AWD0002qr4,diary,664,3,,"","","[0.0, 0.0]","",person,Second Lieutenant C E Lancaster,"{""first""=>[""C E""], ""surname""=>[""Lancaster""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""A Coy"", ""1 BATTALION LEICESTERSHIRE REGIMENT (A Company)"", """"]}",2985684,Pozières,"[2.72929, 50.04047]"
+22,AWD0002qr4,diary,664,3,,"","","[0.0, 0.0]","",person,"Second Lieutenant A N Bagshaw, Bagahaw, Bayshaw","{""first""=>[""A N""], ""surname""=>[""Bagshaw"", ""Bagahaw"", ""Bayshaw""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""B Coy"", """", ""1 BATTALION LEICESTERSHIRE REGIMENT (B Company)""]}",2985684,Pozières,"[2.72929, 50.04047]"
+23,AWD0002qr4,diary,664,3,,"","","[0.0, 0.0]","",person,Second Lieutenant J H Connell,"{""first""=>[""J H""], ""surname""=>[""Connell""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""B Coy"", ""1 BATTALION LEICESTERSHIRE REGIMENT (B Company)"", """"]}",2985684,Pozières,"[2.72929, 50.04047]"
+24,AWD0002qr4,diary,664,3,,"","","[0.0, 0.0]","",person,"Lieutenant P A B Wilson, Wuson, Winxin","{""first""=>[""P A B""], ""surname""=>[""Wilson"", ""Wuson"", ""Winxin""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""B Coy"", ""1 BATTALION LEICESTERSHIRE REGIMENT (B Company)"", """"]}",2985684,Pozières,"[2.72929, 50.04047]"
+25,AWD0002qr4,diary,664,3,,"","","[0.0, 0.0]","",person,Captain J H John,"{""first""=>[""J H""], ""surname""=>[""John""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""1 BATTALION LEICESTERSHIRE REGIMENT (B Company)"", ""B Coy"", """"]}",2985684,Pozières,"[2.72929, 50.04047]"
+27,AWD0002qr4,diary,664,3,,"","","[0.0, 0.0]","",person,Second Lieutenant H A Sims,"{""first""=>[""H A""], ""surname""=>[""Sims""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""C Coy"", ""1 BATTALION LEICESTERSHIRE REGIMENT (C Company)"", """"]}",2985684,Pozières,"[2.72929, 50.04047]"
+28,AWD0002qr4,diary,664,3,,"","","[0.0, 0.0]","",person,Captain F E Shelton,"{""first""=>[""F E""], ""surname""=>[""Shelton""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>["""", ""C Coy"", ""1 BATTALION LEICESTERSHIRE REGIMENT (C Company)""]}",2985684,Pozières,"[2.72929, 50.04047]"
+29,AWD0002qr4,diary,664,3,,"","","[0.0, 0.0]","",person,Second Lieutenant C F Atter,"{""first""=>[""C F""], ""surname""=>[""Atter""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""C Coy"", ""1 BATTALION LEICESTERSHIRE REGIMENT (C Company)"", """"]}",2985684,Pozières,"[2.72929, 50.04047]"
+30,AWD0002qr4,diary,664,3,,"","","[0.0, 0.0]","",person,Second Lieutenant M Mills,"{""first""=>[""M""], ""surname""=>[""Mills""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""C Coy"", ""1 BATTALION LEICESTERSHIRE REGIMENT (C Company)"", """"]}",2985684,Pozières,"[2.72929, 50.04047]"
+32,AWD0002qr4,diary,664,2,,"","","[0.0, 0.0]","",person,"Second Lieutenant,Lieutenant A B Entwistle, Entwhistle","{""first""=>[""A B""], ""surname""=>[""Entwistle"", ""Entwhistle""], ""rank""=>[""Second Lieutenant"", ""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""D Coy"", ""1 BATTALION LEICESTERSHIRE REGIMENT (D Company)""]}",2985684,Pozières,"[2.72929, 50.04047]"
+33,AWD0002qr4,diary,664,3,,"","","[0.0, 0.0]","",person,"Second Lieutenant G Delmer, Delmer MB, Delman","{""first""=>[""G""], ""surname""=>[""Delmer"", ""Delmer MB"", ""Delman""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""D Coy"", ""1 BATTALION LEICESTERSHIRE REGIMENT (D Company)"", """"]}",2985684,Pozières,"[2.72929, 50.04047]"
+34,AWD0002qr4,diary,664,3,,"","","[0.0, 0.0]","",person,Second Lieutenant F N Spencer,"{""first""=>[""F N""], ""surname""=>[""Spencer""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""D Coy"", ""1 BATTALION LEICESTERSHIRE REGIMENT (D Company)"", """"]}",2985684,Pozières,"[2.72929, 50.04047]"
+35,AWD0002qr4,diary,664,2,,"","","[0.0, 0.0]","",person,"Second Lieutenant,Lieutenant T J Atkinson, Athenson","{""first""=>[""T J""], ""surname""=>[""Atkinson"", ""Athenson""], ""rank""=>[""Second Lieutenant"", ""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""D Coy"", ""1 BATTALION LEICESTERSHIRE REGIMENT (D Company)""]}",2985684,Pozières,"[2.72929, 50.04047]"
+1,AWD0002qrj,diary,665,4,1917-12-01 00:00:00 UTC,1 Dec 1917,"","[0.0, 0.0]","",diaryDate,1 Dec 1917,"{""day""=>[""1""], ""month""=>[""Dec""], ""year""=>[""1917""]}",2985684,Pozières,"[2.72929, 50.04047]"
+2,AWD0002qrj,diary,665,5,1917-12-01 00:00:00 UTC,1 Dec 1917,Nine Wood,"[0.0, 0.0]","",place,Nine Wood,"{""place""=>[""Nine Wood""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3032105,Boiry-Saint-Martin,"[2.76121, 50.20085]"
+3,AWD0002qrj,diary,665,2,1917-12-01 00:00:00 UTC,1 Dec 1917,Nine Wood,"[0.0, 0.0]","",activity,movement,{},3032105,Boiry-Saint-Martin,"[2.76121, 50.20085]"
+4,AWD0002qrj,diary,665,2,1917-12-01 00:00:00 UTC,1 Dec 1917,Nine Wood,"[0.0, 0.0]","",unit,9th Suffolk Regt,"{""name""=>[""9th Suffolk Regt""], ""context""=>[""joined""]}",3032105,Boiry-Saint-Martin,"[2.76121, 50.20085]"
+6,AWD0002qrj,diary,665,2,1917-12-01 00:00:00 UTC,1 Dec 1917,Nine Wood,"[0.0, 0.0]","",place,Nine Wood,"{""place""=>[""Nine Wood""], ""location""=>[""false"", ""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3032105,Boiry-Saint-Martin,"[2.76121, 50.20085]"
+8,AWD0002qrj,diary,665,3,1917-12-01 00:00:00 UTC,1 Dec 1917,Nine Wood,"[0.0, 0.0]","",unit,9th Suffolk Regt,"{""name""=>[""9th Suffolk Regt""], ""context""=>[""joined""]}",3032105,Boiry-Saint-Martin,"[2.76121, 50.20085]"
+10,AWD0002qrj,diary,665,4,1917-12-01 11:00:00 UTC,1 Dec 1917,Nine Wood,"[0.0, 0.0]",1100AM,time,1100AM,{},3032105,Boiry-Saint-Martin,"[2.76121, 50.20085]"
+11,AWD0002qrj,diary,665,3,1917-12-01 11:00:00 UTC,1 Dec 1917,Nine Wood,"[0.0, 0.0]",1100AM,activity,enemy_activity,{},3032105,Boiry-Saint-Martin,"[2.76121, 50.20085]"
+13,AWD0002qrj,diary,665,3,1917-12-01 11:00:00 UTC,1 Dec 1917,Gouzeaucourt,"[3.12351, 50.05606]",1100AM,place,Gouzeaucourt,"{""place""=>[""Gouzeaucourt""], ""location""=>[""true""], ""name""=>[""Gouzeaucourt""], ""lat""=>[""50.05606""], ""long""=>[""3.12351""], ""id""=>[""3015438""]}",3015438,Gouzeaucourt,"[3.12351, 50.05606]"
+15,AWD0002qrj,diary,665,4,1917-12-01 11:00:00 UTC,1 Dec 1917,Gouzeaucourt,"[3.12351, 50.05606]",1100AM,place,Bourlon Wood,"{""place""=>[""Bourlon Wood""], ""location""=>[""false"", ""true""], ""name""=>[""Gouzeaucourt"", """"], ""lat""=>[""50.05606"", """"], ""long""=>[""3.12351"", """"], ""id""=>[""3015438"", """"]}",3015438,Gouzeaucourt,"[3.12351, 50.05606]"
+17,AWD0002qrj,diary,665,4,1917-12-01 13:45:00 UTC,1 Dec 1917,Gouzeaucourt,"[3.12351, 50.05606]",0145PM,time,0145PM,{},3015438,Gouzeaucourt,"[3.12351, 50.05606]"
+18,AWD0002qrj,diary,665,3,1917-12-01 13:45:00 UTC,1 Dec 1917,Gouzeaucourt,"[3.12351, 50.05606]",0145PM,place,Cantaing,"{""place""=>[""Cantaing""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3015438,Gouzeaucourt,"[3.12351, 50.05606]"
+19,AWD0002qrj,diary,665,3,1917-12-01 13:45:00 UTC,1 Dec 1917,Gouzeaucourt,"[3.12351, 50.05606]",0145PM,activity,enemy_activity,{},3015438,Gouzeaucourt,"[3.12351, 50.05606]"
+23,AWD0002qrj,diary,665,2,1917-12-01 13:45:00 UTC,1 Dec 1917,Gouzeaucourt,"[3.12351, 50.05606]",0145PM,place,Nine Wood,"{""place""=>[""Nine Wood""], ""location""=>[""false"", ""true""], ""name""=>[""Cantaing-sur-Escaut"", """"], ""lat""=>[""50.14867"", """"], ""long""=>[""3.1675"", """"], ""id""=>[""3028792"", """"]}",3015438,Gouzeaucourt,"[3.12351, 50.05606]"
+24,AWD0002qrj,diary,665,4,1917-12-01 13:45:00 UTC,1 Dec 1917,Gouzeaucourt,"[3.12351, 50.05606]",0145PM,activity,fire,{},3015438,Gouzeaucourt,"[3.12351, 50.05606]"
+25,AWD0002qrj,diary,665,4,1917-12-01 17:00:00 UTC,1 Dec 1917,Gouzeaucourt,"[3.12351, 50.05606]",0500PM,time,0500PM,{},3015438,Gouzeaucourt,"[3.12351, 50.05606]"
+26,AWD0002qrj,diary,665,2,1917-12-01 17:00:00 UTC,1 Dec 1917,Gouzeaucourt,"[3.12351, 50.05606]",0500PM,activity,other,{},3015438,Gouzeaucourt,"[3.12351, 50.05606]"
+27,AWD0002qrj,diary,665,4,1917-12-01 17:30:00 UTC,1 Dec 1917,Gouzeaucourt,"[3.12351, 50.05606]",0530PM,time,0530PM,{},3015438,Gouzeaucourt,"[3.12351, 50.05606]"
+29,AWD0002qrj,diary,665,3,1917-12-01 23:20:00 UTC,1 Dec 1917,Gouzeaucourt,"[3.12351, 50.05606]",1120PM,time,1120PM,{},3015438,Gouzeaucourt,"[3.12351, 50.05606]"
+31,AWD0002qrj,diary,665,3,1917-12-02 00:00:00 UTC,2 Dec 1917,Gouzeaucourt,"[3.12351, 50.05606]","",diaryDate,2 Dec 1917,"{""day""=>[""2""], ""month""=>[""Dec""], ""year""=>[""1917""]}",3015438,Gouzeaucourt,"[3.12351, 50.05606]"
+35,AWD0002qrj,diary,665,2,1917-12-02 00:00:00 UTC,2 Dec 1917,Flesquieres Ridge,"[0.0, 0.0]","",place,Flesquieres Ridge,"{""place""=>[""Flesquieres Ridge""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+36,AWD0002qrj,diary,665,2,1917-12-02 00:30:00 UTC,2 Dec 1917,Flesquieres Ridge,"[0.0, 0.0]",1230AM,time,1230AM,{},,,
+37,AWD0002qrj,diary,665,4,1917-12-02 00:30:00 UTC,2 Dec 1917,Flesquieres Ridge,"[0.0, 0.0]",1230AM,activity,quiet,{},,,
+1,AWD0002qsf,diary,666,4,1917-12-02 00:00:00 UTC,2 Dec 1917,Flesquieres Ridge,"[0.0, 0.0]","",diaryDate,2 Dec 1917,"{""day""=>[""2""], ""month""=>[""Dec""], ""year""=>[""1917""]}",,,
+3,AWD0002qsf,diary,666,4,1917-12-02 00:00:00 UTC,2 Dec 1917,Flesquieres Ridge,"[0.0, 0.0]","",place,Flesquieres Ridge,"{""place""=>[""Flesquieres Ridge""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+5,AWD0002qsf,diary,666,2,1917-12-02 00:00:00 UTC,2 Dec 1917,Flesquieres Ridge,"[0.0, 0.0]","",place,"Premy - Flesquieres Ridge, Premy- Flesquieres  Ridge","{""place""=>[""Premy - Flesquieres Ridge"", ""Premy- Flesquieres  Ridge""], ""location""=>[""false"", ""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+9,AWD0002qsf,diary,666,3,1917-12-02 00:00:00 UTC,2 Dec 1917,Flesquieres Ridge,"[0.0, 0.0]","",activity,quiet,{},,,
+12,AWD0002qsf,diary,666,2,1917-12-02 00:00:00 UTC,2 Dec 1917,Flesquieres Ridge,"[0.0, 0.0]","",place,Marcoing,"{""place""=>[""Marcoing""], ""location""=>[""false"", ""true""], ""name""=>[""Marcoing""], ""lat""=>[""50.1211""], ""long""=>[""3.17321""], ""id""=>[""2995933""]}",,,
+13,AWD0002qsf,diary,666,4,1917-12-03 00:00:00 UTC,3 Dec 1917,Flesquieres Ridge,"[0.0, 0.0]","",diaryDate,3 Dec 1917,"{""day""=>[""3""], ""month""=>[""Dec""], ""year""=>[""1917""]}",,,
+14,AWD0002qsf,diary,666,3,1917-12-03 00:00:00 UTC,3 Dec 1917,Flesquieres Ridge,"[0.0, 0.0]","",activity,quiet,{},,,
+15,AWD0002qsf,diary,666,4,1917-12-03 15:55:00 UTC,3 Dec 1917,Flesquieres Ridge,"[0.0, 0.0]",0355PM,time,0355PM,{},,,
+17,AWD0002qsf,diary,666,3,1917-12-03 15:55:00 UTC,3 Dec 1917,Flesquieres Ridge,"[0.0, 0.0]",0355PM,place,Marcoing,"{""place""=>[""Marcoing""], ""location""=>[""false""], ""name""=>[""Marcoing""], ""lat""=>[""50.1211""], ""long""=>[""3.17321""], ""id""=>[""2995933""]}",,,
+18,AWD0002qsf,diary,666,4,1917-12-03 17:00:00 UTC,3 Dec 1917,Flesquieres Ridge,"[0.0, 0.0]",0500PM,time,0500PM,{},,,
+19,AWD0002qsf,diary,666,4,1917-12-04 00:00:00 UTC,4 Dec 1917,Flesquieres Ridge,"[0.0, 0.0]","",diaryDate,4 Dec 1917,"{""day""=>[""4""], ""month""=>[""Dec""], ""year""=>[""1917""]}",,,
+20,AWD0002qsf,diary,666,2,1917-12-04 00:00:00 UTC,4 Dec 1917,Flesquieres Ridge,"[0.0, 0.0]","",activity,quiet,{},,,
+21,AWD0002qsf,diary,666,3,1917-12-04 00:00:00 UTC,4 Dec 1917,Flesquieres Ridge,"[0.0, 0.0]","",activity,enemy_activity,{},,,
+22,AWD0002qsf,diary,666,4,1917-12-04 21:00:00 UTC,4 Dec 1917,Flesquieres Ridge,"[0.0, 0.0]",0900PM,time,0900PM,{},,,
+23,AWD0002qsf,diary,666,2,1917-12-04 21:00:00 UTC,4 Dec 1917,Flesquieres Ridge,"[0.0, 0.0]",0900PM,activity,withdraw,{},,,
+24,AWD0002qsf,diary,666,4,1917-12-04 23:25:00 UTC,4 Dec 1917,Flesquieres Ridge,"[0.0, 0.0]",1125PM,time,1125PM,{},,,
+1,AWD0002qrf,diary,667,4,1917-12-05 00:00:00 UTC,5 Dec 1917,Flesquieres Ridge,"[0.0, 0.0]","",diaryDate,5 Dec 1917,"{""day""=>[""5""], ""month""=>[""Dec""], ""year""=>[""1917""]}",,,
+2,AWD0002qrf,diary,667,4,1917-12-05 03:00:00 UTC,5 Dec 1917,Flesquieres Ridge,"[0.0, 0.0]",0300AM,time,0300AM,{},,,
+3,AWD0002qrf,diary,667,5,1917-12-05 03:00:00 UTC,5 Dec 1917,Flesquieres Ridge,"[0.0, 0.0]",0300AM,activity,movement,{},,,
+5,AWD0002qrf,diary,667,4,1917-12-05 04:30:00 UTC,5 Dec 1917,Flesquieres Ridge,"[0.0, 0.0]",0430AM,time,0430AM,{},,,
+7,AWD0002qrf,diary,667,2,1917-12-05 04:30:00 UTC,5 Dec 1917,Flesquieres Ridge,"[0.0, 0.0]",0430AM,unit,9th Suffolk Regt,"{""name""=>[""9th Suffolk Regt""], ""context""=>[""joined""]}",,,
+8,AWD0002qrf,diary,667,2,1917-12-05 04:30:00 UTC,5 Dec 1917,Flesquieres Ridge,"[0.0, 0.0]",0430AM,gridRef,L 28 a 3 8,{},,,
+9,AWD0002qrf,diary,667,2,1917-12-05 04:30:00 UTC,5 Dec 1917,Flesquieres Ridge,"[0.0, 0.0]",0430AM,gridRef,L 15 d 6 8,{},,,
+12,AWD0002qrf,diary,667,2,1917-12-05 04:30:00 UTC,5 Dec 1917,Flesquieres Ridge,"[0.0, 0.0]",0430AM,gridRef,L 21 a 10 42,{},,,
+13,AWD0002qrf,diary,667,5,1917-12-05 04:30:00 UTC,5 Dec 1917,Flesquieres Ridge,"[0.0, 0.0]",0430AM,gridRef,L 21 a 42 00,{},,,
+14,AWD0002qrf,diary,667,2,1917-12-05 04:30:00 UTC,5 Dec 1917,Flesquieres Ridge,"[0.0, 0.0]",0430AM,gridRef,L 21 c 80 30,{},,,
+15,AWD0002qrf,diary,667,2,1917-12-05 04:30:00 UTC,5 Dec 1917,Flesquieres Ridge,"[0.0, 0.0]",0430AM,gridRef,L 21 a 42 00,{},,,
+19,AWD0002qrf,diary,667,3,1917-12-05 16:45:00 UTC,5 Dec 1917,Flesquieres Ridge,"[0.0, 0.0]",0445PM,time,0445PM,{},,,
+22,AWD0002qrf,diary,667,4,1917-12-05 20:15:00 UTC,5 Dec 1917,Flesquieres Ridge,"[0.0, 0.0]",0815PM,time,0815PM,{},,,
+24,AWD0002qrf,diary,667,2,1917-12-05 20:15:00 UTC,5 Dec 1917,Flesquieres Ridge,"[0.0, 0.0]",0815PM,gridRef,L 21 c 80 30,{},,,
+25,AWD0002qrf,diary,667,5,1917-12-05 20:15:00 UTC,5 Dec 1917,Flesquieres Ridge,"[0.0, 0.0]",0815PM,gridRef,L 21 a 50 00,{},,,
+26,AWD0002qrf,diary,667,2,1917-12-05 20:15:00 UTC,5 Dec 1917,Flesquieres Ridge,"[0.0, 0.0]",0815PM,gridRef,L 21 b 05 70,{},,,
+27,AWD0002qrf,diary,667,2,1917-12-05 20:15:00 UTC,5 Dec 1917,Flesquieres Ridge,"[0.0, 0.0]",0815PM,gridRef,L 21 a 75 95,{},,,
+31,AWD0002qrf,diary,667,2,1917-12-05 20:15:00 UTC,5 Dec 1917,Flesquieres Ridge,"[0.0, 0.0]",0815PM,gridRef,L 21 a 10 50,{},,,
+33,AWD0002qrf,diary,667,2,1917-12-05 20:15:00 UTC,5 Dec 1917,Flesquieres Ridge,"[0.0, 0.0]",0815PM,gridRef,L 20 d 40 30,{},,,
+34,AWD0002qrf,diary,667,2,1917-12-05 20:15:00 UTC,5 Dec 1917,Flesquieres Ridge,"[0.0, 0.0]",0815PM,gridRef,L 20 d 15 70,{},,,
+1,AWD0002qrc,diary,668,4,1917-12-06 00:00:00 UTC,6 Dec 1917,Flesquieres Ridge,"[0.0, 0.0]","",diaryDate,6 Dec 1917,"{""day""=>[""6""], ""month""=>[""Dec""], ""year""=>[""1917""]}",,,
+2,AWD0002qrc,diary,668,4,1917-12-06 00:00:00 UTC,6 Dec 1917,Front Line,"[0.0, 0.0]","",place,Front Line,"{""place""=>[""Front Line""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3036784,Arras,"[2.78186, 50.29301]"
+4,AWD0002qrc,diary,668,5,1917-12-06 00:00:00 UTC,6 Dec 1917,Front Line,"[0.0, 0.0]","",activity,enemy_activity,{},3036784,Arras,"[2.78186, 50.29301]"
+5,AWD0002qrc,diary,668,4,1917-12-06 00:00:00 UTC,6 Dec 1917,Front Line,"[0.0, 0.0]","",place,Flesquieres,"{""place""=>[""Flesquieres""], ""location""=>[""false""], ""name""=>[""Flesquières""], ""lat""=>[""50.12268""], ""long""=>[""3.11593""], ""id""=>[""3018333""]}",3036784,Arras,"[2.78186, 50.29301]"
+7,AWD0002qrc,diary,668,3,1917-12-06 00:00:00 UTC,6 Dec 1917,Front Line,"[0.0, 0.0]","",activity,repair,{},3036784,Arras,"[2.78186, 50.29301]"
+9,AWD0002qrc,diary,668,4,1917-12-07 00:00:00 UTC,7 Dec 1917,Front Line,"[0.0, 0.0]","",diaryDate,7 Dec 1917,"{""day""=>[""7""], ""month""=>[""Dec""], ""year""=>[""1917""]}",3036784,Arras,"[2.78186, 50.29301]"
+10,AWD0002qrc,diary,668,5,1917-12-07 00:00:00 UTC,7 Dec 1917,Front Line,"[0.0, 0.0]","",weather,cold,{},3036784,Arras,"[2.78186, 50.29301]"
+13,AWD0002qrc,diary,668,3,1917-12-07 00:00:00 UTC,7 Dec 1917,Front Line,"[0.0, 0.0]","",place,MARCOING,"{""place""=>[""MARCOING""], ""location""=>[""false""], ""name""=>[""Marcoing""], ""lat""=>[""50.1211""], ""long""=>[""3.17321""], ""id""=>[""2995933""]}",3036784,Arras,"[2.78186, 50.29301]"
+14,AWD0002qrc,diary,668,2,1917-12-07 00:00:00 UTC,7 Dec 1917,Front Line,"[0.0, 0.0]","",activity,enemy_activity,{},3036784,Arras,"[2.78186, 50.29301]"
+18,AWD0002qrc,diary,668,2,1917-12-07 00:00:00 UTC,7 Dec 1917,Front Line,"[0.0, 0.0]","",activity,repair,{},3036784,Arras,"[2.78186, 50.29301]"
+23,AWD0002qrc,diary,668,2,1917-12-07 00:00:00 UTC,7 Dec 1917,Front Line,"[0.0, 0.0]","",activity,line,{},3036784,Arras,"[2.78186, 50.29301]"
+25,AWD0002qrc,diary,668,4,1917-12-08 00:00:00 UTC,8 Dec 1917,Front Line,"[0.0, 0.0]","",diaryDate,8 Dec 1917,"{""day""=>[""8""], ""month""=>[""Dec""], ""year""=>[""1917""]}",3036784,Arras,"[2.78186, 50.29301]"
+26,AWD0002qrc,diary,668,2,1917-12-08 00:00:00 UTC,8 Dec 1917,Front Line,"[0.0, 0.0]","",activity,quiet,{},3036784,Arras,"[2.78186, 50.29301]"
+28,AWD0002qrc,diary,668,3,1917-12-08 15:00:00 UTC,8 Dec 1917,Front Line,"[0.0, 0.0]",0300PM,time,0300PM,{},3036784,Arras,"[2.78186, 50.29301]"
+29,AWD0002qrc,diary,668,2,1917-12-08 15:00:00 UTC,8 Dec 1917,Front Line,"[0.0, 0.0]",0300PM,unit,2nd Sherwood Foresters,"{""name""=>[""2nd Sherwood Foresters""], ""context""=>[""other""]}",3036784,Arras,"[2.78186, 50.29301]"
+1,AWD0002qrs,diary,669,4,1917-12-08 00:00:00 UTC,8 Dec 1917,Front Line,"[0.0, 0.0]","",diaryDate,8 Dec 1917,"{""day""=>[""8""], ""month""=>[""Dec""], ""year""=>[""1917""]}",3036784,Arras,"[2.78186, 50.29301]"
+3,AWD0002qrs,diary,669,2,1917-12-08 00:00:00 UTC,8 Dec 1917,Front Line,"[0.0, 0.0]","",place,Front Line,"{""place""=>[""Front Line""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3036784,Arras,"[2.78186, 50.29301]"
+5,AWD0002qrs,diary,669,2,1917-12-08 00:00:00 UTC,8 Dec 1917,Front Line,"[0.0, 0.0]","",activity,working,{},3036784,Arras,"[2.78186, 50.29301]"
+6,AWD0002qrs,diary,669,3,1917-12-08 00:00:00 UTC,8 Dec 1917,Front Line,"[0.0, 0.0]","",weather,rain,{},3036784,Arras,"[2.78186, 50.29301]"
+7,AWD0002qrs,diary,669,4,1917-12-09 00:00:00 UTC,9 Dec 1917,Front Line,"[0.0, 0.0]","",diaryDate,9 Dec 1917,"{""day""=>[""9""], ""month""=>[""Dec""], ""year""=>[""1917""]}",3036784,Arras,"[2.78186, 50.29301]"
+10,AWD0002qrs,diary,669,3,1917-12-09 00:00:00 UTC,9 Dec 1917,Front Line,"[0.0, 0.0]","",activity,quiet,{},3036784,Arras,"[2.78186, 50.29301]"
+11,AWD0002qrs,diary,669,5,1917-12-09 20:30:00 UTC,9 Dec 1917,Front Line,"[0.0, 0.0]",0830PM,time,0830PM,{},3036784,Arras,"[2.78186, 50.29301]"
+12,AWD0002qrs,diary,669,3,1917-12-09 20:30:00 UTC,9 Dec 1917,Front Line,"[0.0, 0.0]",0830PM,activity,reconnoitered,{},3036784,Arras,"[2.78186, 50.29301]"
+13,AWD0002qrs,diary,669,3,1917-12-09 20:30:00 UTC,9 Dec 1917,Front Line,"[0.0, 0.0]",0830PM,activity,repair,{},3036784,Arras,"[2.78186, 50.29301]"
+14,AWD0002qrs,diary,669,4,1917-12-10 00:00:00 UTC,10 Dec 1917,Front Line,"[0.0, 0.0]","",diaryDate,10 Dec 1917,"{""day""=>[""10""], ""month""=>[""Dec""], ""year""=>[""1917""]}",3036784,Arras,"[2.78186, 50.29301]"
+16,AWD0002qrs,diary,669,3,1917-12-10 00:00:00 UTC,10 Dec 1917,Front Line,"[0.0, 0.0]","",activity,quiet,{},3036784,Arras,"[2.78186, 50.29301]"
+17,AWD0002qrs,diary,669,3,1917-12-10 00:00:00 UTC,10 Dec 1917,Front Line,"[0.0, 0.0]","",weather,fine,{},3036784,Arras,"[2.78186, 50.29301]"
+18,AWD0002qrs,diary,669,4,1917-12-10 00:00:00 UTC,10 Dec 1917,Front Line,"[0.0, 0.0]","",activity,enemy_activity,{},3036784,Arras,"[2.78186, 50.29301]"
+19,AWD0002qrs,diary,669,4,1917-12-11 00:00:00 UTC,11 Dec 1917,Front Line,"[0.0, 0.0]","",diaryDate,11 Dec 1917,"{""day""=>[""11""], ""month""=>[""Dec""], ""year""=>[""1917""]}",3036784,Arras,"[2.78186, 50.29301]"
+20,AWD0002qrs,diary,669,3,1917-12-11 00:00:00 UTC,11 Dec 1917,Front Line,"[0.0, 0.0]","",activity,quiet,{},3036784,Arras,"[2.78186, 50.29301]"
+22,AWD0002qrs,diary,669,4,1917-12-11 22:30:00 UTC,11 Dec 1917,Front Line,"[0.0, 0.0]",1030PM,time,1030PM,{},3036784,Arras,"[2.78186, 50.29301]"
+23,AWD0002qrs,diary,669,2,1917-12-11 22:30:00 UTC,11 Dec 1917,Front Line,"[0.0, 0.0]",1030PM,unit,6th Wiltshire Regt,"{""name""=>[""6th Wiltshire Regt""], ""context""=>[""other""]}",3036784,Arras,"[2.78186, 50.29301]"
+24,AWD0002qrs,diary,669,4,1917-12-12 00:00:00 UTC,12 Dec 1917,Front Line,"[0.0, 0.0]","",diaryDate,12 Dec 1917,"{""day""=>[""12""], ""month""=>[""Dec""], ""year""=>[""1917""]}",3036784,Arras,"[2.78186, 50.29301]"
+25,AWD0002qrs,diary,669,4,1917-12-12 01:30:00 UTC,12 Dec 1917,Front Line,"[0.0, 0.0]",0130AM,time,0130AM,{},3036784,Arras,"[2.78186, 50.29301]"
+27,AWD0002qrs,diary,669,2,1917-12-12 01:30:00 UTC,12 Dec 1917,Front Line,"[0.0, 0.0]",0130AM,unit,6th Wiltshire Regt,"{""name""=>[""6th Wiltshire Regt""], ""context""=>[""other"", ""relieved_by""]}",3036784,Arras,"[2.78186, 50.29301]"
+29,AWD0002qrs,diary,669,2,1917-12-12 01:30:00 UTC,12 Dec 1917,Front Line,"[0.0, 0.0]",0130AM,activity,quiet,{},3036784,Arras,"[2.78186, 50.29301]"
+1,AWD0002qs2,diary,670,4,1917-12-12 00:00:00 UTC,12 Dec 1917,Front Line,"[0.0, 0.0]","",diaryDate,12 Dec 1917,"{""day""=>[""12""], ""month""=>[""Dec""], ""year""=>[""1917""]}",3036784,Arras,"[2.78186, 50.29301]"
+2,AWD0002qs2,diary,670,3,1917-12-12 00:00:00 UTC,12 Dec 1917,Front Line,"[0.0, 0.0]","",place,Front Line,"{""place""=>[""Front Line""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3036784,Arras,"[2.78186, 50.29301]"
+4,AWD0002qs2,diary,670,2,1917-12-12 00:00:00 UTC,12 Dec 1917,Front Line,"[0.0, 0.0]","",activity,movement,{},3036784,Arras,"[2.78186, 50.29301]"
+5,AWD0002qs2,diary,670,3,1917-12-12 21:45:00 UTC,12 Dec 1917,Front Line,"[0.0, 0.0]",0945PM,time,0945PM,{},3036784,Arras,"[2.78186, 50.29301]"
+6,AWD0002qs2,diary,670,3,1917-12-12 21:45:00 UTC,12 Dec 1917,Front Line,"[0.0, 0.0]",0945PM,strength,"officer: 18, other: 482",{},3036784,Arras,"[2.78186, 50.29301]"
+7,AWD0002qs2,diary,670,4,1917-12-13 00:00:00 UTC,13 Dec 1917,Front Line,"[0.0, 0.0]","",diaryDate,13 Dec 1917,"{""day""=>[""13""], ""month""=>[""Dec""], ""year""=>[""1917""]}",3036784,Arras,"[2.78186, 50.29301]"
+8,AWD0002qs2,diary,670,4,1917-12-13 00:00:00 UTC,13 Dec 1917,Front Line,"[0.0, 0.0]","",activity,movement,{},3036784,Arras,"[2.78186, 50.29301]"
+9,AWD0002qs2,diary,670,3,1917-12-13 03:30:00 UTC,13 Dec 1917,Front Line,"[0.0, 0.0]",0330AM,time,0330AM,{},3036784,Arras,"[2.78186, 50.29301]"
+10,AWD0002qs2,diary,670,7,1917-12-13 03:30:00 UTC,13 Dec 1917,Etricourt,"[2.98569, 50.03327]",0330AM,place,Etricourt,"{""place""=>[""Etricourt""], ""location""=>[""true""], ""name""=>[""Étricourt-Manancourt""], ""lat""=>[""50.03327""], ""long""=>[""2.98569""], ""id""=>[""3019348""]}",3019348,Étricourt-Manancourt,"[2.98569, 50.03327]"
+11,AWD0002qs2,diary,670,2,1917-12-13 03:30:00 UTC,13 Dec 1917,Etricourt,"[2.98569, 50.03327]",0330AM,domestic,accomodation,{},3019348,Étricourt-Manancourt,"[2.98569, 50.03327]"
+12,AWD0002qs2,diary,670,3,1917-12-13 03:30:00 UTC,13 Dec 1917,Etricourt,"[2.98569, 50.03327]",0330AM,domestic,hygiene,{},3019348,Étricourt-Manancourt,"[2.98569, 50.03327]"
+14,AWD0002qs2,diary,670,3,1917-12-13 16:30:00 UTC,13 Dec 1917,Etricourt,"[2.98569, 50.03327]",0430PM,time,0430PM,{},3019348,Étricourt-Manancourt,"[2.98569, 50.03327]"
+15,AWD0002qs2,diary,670,3,1917-12-13 22:30:00 UTC,13 Dec 1917,Etricourt,"[2.98569, 50.03327]",1030PM,time,1030PM,{},3019348,Étricourt-Manancourt,"[2.98569, 50.03327]"
+16,AWD0002qs2,diary,670,2,1917-12-13 22:30:00 UTC,13 Dec 1917,Etricourt,"[2.98569, 50.03327]",1030PM,place,Basseux,"{""place""=>[""Basseux""], ""location""=>[""true"", ""false""], ""name""=>[""Basseux""], ""lat""=>[""50.22689""], ""long""=>[""2.64496""], ""id""=>[""3034676""]}",3019348,Étricourt-Manancourt,"[2.98569, 50.03327]"
+17,AWD0002qs2,diary,670,3,1917-12-13 23:30:00 UTC,13 Dec 1917,Etricourt,"[2.98569, 50.03327]",1130PM,time,1130PM,{},3019348,Étricourt-Manancourt,"[2.98569, 50.03327]"
+20,AWD0002qs2,diary,670,4,1917-12-14 00:00:00 UTC,14 Dec 1917,Etricourt,"[2.98569, 50.03327]","",diaryDate,14 Dec 1917,"{""day""=>[""14""], ""month""=>[""Dec""], ""year""=>[""1917""]}",3019348,Étricourt-Manancourt,"[2.98569, 50.03327]"
+21,AWD0002qs2,diary,670,3,1917-12-14 09:40:00 UTC,14 Dec 1917,Etricourt,"[2.98569, 50.03327]",0940AM,time,0940AM,{},3019348,Étricourt-Manancourt,"[2.98569, 50.03327]"
+22,AWD0002qs2,diary,670,3,1917-12-14 09:40:00 UTC,14 Dec 1917,Etricourt,"[2.98569, 50.03327]",0940AM,activity,movement,{},3019348,Étricourt-Manancourt,"[2.98569, 50.03327]"
+23,AWD0002qs2,diary,670,3,1917-12-14 09:40:00 UTC,14 Dec 1917,Etricourt,"[2.98569, 50.03327]",0940AM,place,Manancourt,"{""place""=>[""Manancourt""], ""location""=>[""false""], ""name""=>[""Manancourt""], ""lat""=>[""50.02497""], ""long""=>[""2.97714""], ""id""=>[""2996281""]}",3019348,Étricourt-Manancourt,"[2.98569, 50.03327]"
+25,AWD0002qs2,diary,670,5,1917-12-14 09:40:00 UTC,14 Dec 1917,Manancourt,"[2.97714, 50.02497]",0940AM,place,Manancourt,"{""place""=>[""Manancourt""], ""location""=>[""true""], ""name""=>[""Manancourt""], ""lat""=>[""50.02497""], ""long""=>[""2.97714""], ""id""=>[""2996281""]}",2996281,Manancourt,"[2.97714, 50.02497]"
+26,AWD0002qs2,diary,670,3,1917-12-14 11:30:00 UTC,14 Dec 1917,Manancourt,"[2.97714, 50.02497]",1130AM,time,1130AM,{},2996281,Manancourt,"[2.97714, 50.02497]"
+27,AWD0002qs2,diary,670,2,1917-12-14 11:30:00 UTC,14 Dec 1917,Manancourt,"[2.97714, 50.02497]",1130AM,place,"Manancourt, manancourt","{""place""=>[""Manancourt"", ""manancourt""], ""location""=>[""true"", ""false""], ""name""=>[""Manancourt""], ""lat""=>[""50.02497""], ""long""=>[""2.97714""], ""id""=>[""2996281""]}",2996281,Manancourt,"[2.97714, 50.02497]"
+29,AWD0002qs2,diary,670,4,1917-12-14 11:30:00 UTC,14 Dec 1917,Bellacourt,"[2.67847, 50.22924]",1130AM,place,Bellacourt,"{""place""=>[""Bellacourt""], ""location""=>[""true""], ""name""=>[""Bellacourt""], ""lat""=>[""50.22924""], ""long""=>[""2.67847""], ""id""=>[""3033762""]}",3033762,Bellacourt,"[2.67847, 50.22924]"
+30,AWD0002qs2,diary,670,2,1917-12-14 16:00:00 UTC,14 Dec 1917,Bellacourt,"[2.67847, 50.22924]",0400PM,time,0400PM,{},3033762,Bellacourt,"[2.67847, 50.22924]"
+31,AWD0002qs2,diary,670,3,1917-12-14 16:00:00 UTC,14 Dec 1917,Bellacourt,"[2.67847, 50.22924]",0400PM,place,Bellacourt,"{""place""=>[""Bellacourt""], ""location""=>[""false""], ""name""=>[""Bellacourt""], ""lat""=>[""50.22924""], ""long""=>[""2.67847""], ""id""=>[""3033762""]}",3033762,Bellacourt,"[2.67847, 50.22924]"
+34,AWD0002qs2,diary,670,2,1917-12-14 16:00:00 UTC,14 Dec 1917,Bellacourt,"[2.67847, 50.22924]",0400PM,domestic,accomodation,{},3033762,Bellacourt,"[2.67847, 50.22924]"
+35,AWD0002qs2,diary,670,4,1917-12-15 00:00:00 UTC,15 Dec 1917,Bellacourt,"[2.67847, 50.22924]","",diaryDate,15 Dec 1917,"{""day""=>[""15""], ""month""=>[""Dec""], ""year""=>[""1917""]}",3033762,Bellacourt,"[2.67847, 50.22924]"
+36,AWD0002qs2,diary,670,3,1917-12-15 00:00:00 UTC,15 Dec 1917,Bellacourt,"[2.67847, 50.22924]","",domestic,inspections,{},3033762,Bellacourt,"[2.67847, 50.22924]"
+37,AWD0002qs2,diary,670,2,1917-12-15 00:00:00 UTC,15 Dec 1917,Bellacourt,"[2.67847, 50.22924]","",domestic,uniform,{},3033762,Bellacourt,"[2.67847, 50.22924]"
+38,AWD0002qs2,diary,670,3,1917-12-15 00:00:00 UTC,15 Dec 1917,Bellacourt,"[2.67847, 50.22924]","",domestic,hygiene,{},3033762,Bellacourt,"[2.67847, 50.22924]"
+39,AWD0002qs2,diary,670,3,1917-12-15 00:00:00 UTC,15 Dec 1917,Bellacourt,"[2.67847, 50.22924]","",domestic,accomodation,{},3033762,Bellacourt,"[2.67847, 50.22924]"
+40,AWD0002qs2,diary,670,4,1917-12-16 00:00:00 UTC,16 Dec 1917,Bellacourt,"[2.67847, 50.22924]","",diaryDate,16 Dec 1917,"{""day""=>[""16""], ""month""=>[""Dec""], ""year""=>[""1917""]}",3033762,Bellacourt,"[2.67847, 50.22924]"
+41,AWD0002qs2,diary,670,3,1917-12-16 00:00:00 UTC,16 Dec 1917,Bellacourt,"[2.67847, 50.22924]","",domestic,religion,{},3033762,Bellacourt,"[2.67847, 50.22924]"
+42,AWD0002qs2,diary,670,3,1917-12-16 00:00:00 UTC,16 Dec 1917,Bellacourt,"[2.67847, 50.22924]","",activity,quiet,{},3033762,Bellacourt,"[2.67847, 50.22924]"
+1,AWD0002qrg,diary,671,4,1917-12-17 00:00:00 UTC,17 Dec 1917,Bellacourt,"[2.67847, 50.22924]","",diaryDate,17 Dec 1917,"{""day""=>[""17""], ""month""=>[""Dec""], ""year""=>[""1917""]}",3033762,Bellacourt,"[2.67847, 50.22924]"
+2,AWD0002qrg,diary,671,5,1917-12-17 00:00:00 UTC,17 Dec 1917,Bellacourt,"[2.67847, 50.22924]","",weather,cold,{},3033762,Bellacourt,"[2.67847, 50.22924]"
+3,AWD0002qrg,diary,671,4,1917-12-17 00:00:00 UTC,17 Dec 1917,Bellacourt,"[2.67847, 50.22924]","",activity,training,{},3033762,Bellacourt,"[2.67847, 50.22924]"
+4,AWD0002qrg,diary,671,4,1917-12-17 00:00:00 UTC,17 Dec 1917,Bellacourt,"[2.67847, 50.22924]","",place,Bellacourt,"{""place""=>[""Bellacourt""], ""location""=>[""true""], ""name""=>[""Bellacourt""], ""lat""=>[""50.22924""], ""long""=>[""2.67847""], ""id""=>[""3033762""]}",3033762,Bellacourt,"[2.67847, 50.22924]"
+7,AWD0002qrg,diary,671,5,1917-12-17 00:00:00 UTC,17 Dec 1917,Bellacourt,"[2.67847, 50.22924]","",person,Sergeant H Allway,"{""first""=>[""H""], ""surname""=>[""Allway""], ""rank""=>[""Sergeant""], ""number""=>[""16352""], ""reason""=>[""award""], ""unit""=>[""""]}",3033762,Bellacourt,"[2.67847, 50.22924]"
+8,AWD0002qrg,diary,671,5,1917-12-17 00:00:00 UTC,17 Dec 1917,Bellacourt,"[2.67847, 50.22924]","",person,Lance Sergeant W Harris,"{""first""=>[""W""], ""surname""=>[""Harris""], ""rank""=>[""Lance Sergeant""], ""number""=>[""5667""], ""reason""=>[""award""], ""unit""=>[""""]}",3033762,Bellacourt,"[2.67847, 50.22924]"
+9,AWD0002qrg,diary,671,5,1917-12-17 00:00:00 UTC,17 Dec 1917,Bellacourt,"[2.67847, 50.22924]","",person,Lance Sergeant A Foster,"{""first""=>[""A""], ""surname""=>[""Foster""], ""rank""=>[""Lance Sergeant""], ""number""=>[""10419""], ""reason""=>[""award""], ""unit""=>[""""]}",3033762,Bellacourt,"[2.67847, 50.22924]"
+10,AWD0002qrg,diary,671,5,1917-12-17 00:00:00 UTC,17 Dec 1917,Bellacourt,"[2.67847, 50.22924]","",person,Private T Palmer,"{""first""=>[""T""], ""surname""=>[""Palmer""], ""rank""=>[""Private""], ""number""=>[""9700""], ""reason""=>[""award""], ""unit""=>[""""]}",3033762,Bellacourt,"[2.67847, 50.22924]"
+11,AWD0002qrg,diary,671,5,1917-12-17 00:00:00 UTC,17 Dec 1917,Bellacourt,"[2.67847, 50.22924]","",person,Private G Hayes,"{""first""=>[""G""], ""surname""=>[""Hayes""], ""rank""=>[""Private""], ""number""=>[""19149""], ""reason""=>[""award""], ""unit""=>[""""]}",3033762,Bellacourt,"[2.67847, 50.22924]"
+12,AWD0002qrg,diary,671,5,1917-12-17 00:00:00 UTC,17 Dec 1917,Bellacourt,"[2.67847, 50.22924]","",person,Private G H Mitchell,"{""first""=>[""G H""], ""surname""=>[""Mitchell""], ""rank""=>[""Private""], ""number""=>[""25073""], ""reason""=>[""award""], ""unit""=>[""""]}",3033762,Bellacourt,"[2.67847, 50.22924]"
+13,AWD0002qrg,diary,671,5,1917-12-17 00:00:00 UTC,17 Dec 1917,Bellacourt,"[2.67847, 50.22924]","",person,Private F Hall,"{""first""=>[""F""], ""surname""=>[""Hall""], ""rank""=>[""Private""], ""number""=>[""241866""], ""reason""=>[""award""], ""unit""=>[""""]}",3033762,Bellacourt,"[2.67847, 50.22924]"
+14,AWD0002qrg,diary,671,2,1917-12-17 00:00:00 UTC,17 Dec 1917,Bellacourt,"[2.67847, 50.22924]","",domestic,hygiene,{},3033762,Bellacourt,"[2.67847, 50.22924]"
+15,AWD0002qrg,diary,671,4,1917-12-17 00:00:00 UTC,17 Dec 1917,Bellacourt,"[2.67847, 50.22924]","",place,Bertencourt,"{""place""=>[""Bertencourt""], ""location""=>[""false"", ""true""], ""name""=>["""", ""Bellacourt""], ""lat""=>["""", ""50.22924""], ""long""=>["""", ""2.67847""], ""id""=>["""", ""3033762""]}",3033762,Bellacourt,"[2.67847, 50.22924]"
+16,AWD0002qrg,diary,671,4,1917-12-18 00:00:00 UTC,18 Dec 1917,Bellacourt,"[2.67847, 50.22924]","",diaryDate,18 Dec 1917,"{""day""=>[""18""], ""month""=>[""Dec""], ""year""=>[""1917""]}",3033762,Bellacourt,"[2.67847, 50.22924]"
+17,AWD0002qrg,diary,671,5,1917-12-18 00:00:00 UTC,18 Dec 1917,Bellacourt,"[2.67847, 50.22924]","",activity,training,{},3033762,Bellacourt,"[2.67847, 50.22924]"
+19,AWD0002qrg,diary,671,9,1917-12-18 00:00:00 UTC,18 Dec 1917,Bellacourt,"[2.67847, 50.22924]","",weather,cold,{},3033762,Bellacourt,"[2.67847, 50.22924]"
+20,AWD0002qrg,diary,671,4,1917-12-19 00:00:00 UTC,19 Dec 1917,Bellacourt,"[2.67847, 50.22924]","",diaryDate,19 Dec 1917,"{""day""=>[""19""], ""month""=>[""Dec""], ""year""=>[""1917""]}",3033762,Bellacourt,"[2.67847, 50.22924]"
+21,AWD0002qrg,diary,671,2,1917-12-19 00:00:00 UTC,19 Dec 1917,Bellacourt,"[2.67847, 50.22924]","",activity,training,{},3033762,Bellacourt,"[2.67847, 50.22924]"
+1,AWD0002qs5,diary,672,4,1917-12-19 00:00:00 UTC,19 Dec 1917,Bellacourt,"[2.67847, 50.22924]","",diaryDate,19 Dec 1917,"{""day""=>[""19""], ""month""=>[""Dec""], ""year""=>[""1917""]}",3033762,Bellacourt,"[2.67847, 50.22924]"
+2,AWD0002qs5,diary,672,3,1917-12-19 00:00:00 UTC,19 Dec 1917,Bellacourt,"[2.67847, 50.22924]","",domestic,inspections,{},3033762,Bellacourt,"[2.67847, 50.22924]"
+3,AWD0002qs5,diary,672,4,1917-12-19 00:00:00 UTC,19 Dec 1917,"Bellacourt, BELLACOURT","[2.67847, 50.22924]","",place,"Bellacourt, BELLACOURT","{""place""=>[""Bellacourt"", ""BELLACOURT""], ""location""=>[""true""], ""name""=>[""Bellacourt""], ""lat""=>[""50.22924""], ""long""=>[""2.67847""], ""id""=>[""3033762""]}",3033762,Bellacourt,"[2.67847, 50.22924]"
+4,AWD0002qs5,diary,672,5,1917-12-19 00:00:00 UTC,19 Dec 1917,"Bellacourt, BELLACOURT","[2.67847, 50.22924]","",activity,training,{},3033762,Bellacourt,"[2.67847, 50.22924]"
+5,AWD0002qs5,diary,672,4,1917-12-20 00:00:00 UTC,20 Dec 1917,"Bellacourt, BELLACOURT","[2.67847, 50.22924]","",diaryDate,20 Dec 1917,"{""day""=>[""20""], ""month""=>[""Dec""], ""year""=>[""1917""]}",3033762,Bellacourt,"[2.67847, 50.22924]"
+8,AWD0002qs5,diary,672,2,1917-12-20 00:00:00 UTC,20 Dec 1917,"Bellacourt, BELLACOURT","[2.67847, 50.22924]","",activity,training,{},3033762,Bellacourt,"[2.67847, 50.22924]"
+11,AWD0002qs5,diary,672,4,1917-12-21 00:00:00 UTC,21 Dec 1917,"Bellacourt, BELLACOURT","[2.67847, 50.22924]","",diaryDate,21 Dec 1917,"{""day""=>[""21""], ""month""=>[""Dec""], ""year""=>[""1917""]}",3033762,Bellacourt,"[2.67847, 50.22924]"
+12,AWD0002qs5,diary,672,3,1917-12-21 00:00:00 UTC,21 Dec 1917,"Bellacourt, BELLACOURT","[2.67847, 50.22924]","",activity,training,{},3033762,Bellacourt,"[2.67847, 50.22924]"
+13,AWD0002qs5,diary,672,4,1917-12-22 00:00:00 UTC,22 Dec 1917,"Bellacourt, BELLACOURT","[2.67847, 50.22924]","",diaryDate,22 Dec 1917,"{""day""=>[""22""], ""month""=>[""Dec""], ""year""=>[""1917""]}",3033762,Bellacourt,"[2.67847, 50.22924]"
+14,AWD0002qs5,diary,672,2,1917-12-22 00:00:00 UTC,22 Dec 1917,"Bellacourt, BELLACOURT","[2.67847, 50.22924]","",domestic,inspections,{},3033762,Bellacourt,"[2.67847, 50.22924]"
+15,AWD0002qs5,diary,672,5,1917-12-22 00:00:00 UTC,22 Dec 1917,"Bellacourt, BELLACOURT","[2.67847, 50.22924]","",activity,training,{},3033762,Bellacourt,"[2.67847, 50.22924]"
+17,AWD0002qs5,diary,672,4,1917-12-23 00:00:00 UTC,23 Dec 1917,"Bellacourt, BELLACOURT","[2.67847, 50.22924]","",diaryDate,23 Dec 1917,"{""day""=>[""23""], ""month""=>[""Dec""], ""year""=>[""1917""]}",3033762,Bellacourt,"[2.67847, 50.22924]"
+18,AWD0002qs5,diary,672,3,1917-12-23 00:00:00 UTC,23 Dec 1917,"Bellacourt, BELLACOURT","[2.67847, 50.22924]","",domestic,religion,{},3033762,Bellacourt,"[2.67847, 50.22924]"
+19,AWD0002qs5,diary,672,4,1917-12-23 00:00:00 UTC,23 Dec 1917,"Bellacourt, BELLACOURT","[2.67847, 50.22924]","",weather,cold,{},3033762,Bellacourt,"[2.67847, 50.22924]"
+1,AWD0002qs0,diary,673,5,1917-12-24 00:00:00 UTC,24 Dec 1917,"Bellacourt, BELLACOURT","[2.67847, 50.22924]","",diaryDate,24 Dec 1917,"{""day""=>[""24""], ""month""=>[""Dec""], ""year""=>[""1917""]}",3033762,Bellacourt,"[2.67847, 50.22924]"
+2,AWD0002qs0,diary,673,4,1917-12-24 00:00:00 UTC,24 Dec 1917,"Bellacourt, BELLACOURT","[2.67847, 50.22924]","",place,"Bellacourt, BELLACOURT","{""place""=>[""Bellacourt"", ""BELLACOURT""], ""location""=>[""true""], ""name""=>[""Bellacourt""], ""lat""=>[""50.22924""], ""long""=>[""2.67847""], ""id""=>[""3033762""]}",3033762,Bellacourt,"[2.67847, 50.22924]"
+3,AWD0002qs0,diary,673,6,1917-12-24 00:00:00 UTC,24 Dec 1917,"Bellacourt, BELLACOURT","[2.67847, 50.22924]","",activity,training,{},3033762,Bellacourt,"[2.67847, 50.22924]"
+6,AWD0002qs0,diary,673,5,1917-12-25 00:00:00 UTC,25 Dec 1917,"Bellacourt, BELLACOURT","[2.67847, 50.22924]","",diaryDate,25 Dec 1917,"{""day""=>[""25""], ""month""=>[""Dec""], ""year""=>[""1917""]}",3033762,Bellacourt,"[2.67847, 50.22924]"
+8,AWD0002qs0,diary,673,2,1917-12-25 00:00:00 UTC,25 Dec 1917,"Bellacourt, BELLACOURT","[2.67847, 50.22924]","",domestic,religion,{},3033762,Bellacourt,"[2.67847, 50.22924]"
+11,AWD0002qs0,diary,673,5,1917-12-26 00:00:00 UTC,26 Dec 1917,"Bellacourt, BELLACOURT","[2.67847, 50.22924]","",diaryDate,26 Dec 1917,"{""day""=>[""26""], ""month""=>[""Dec""], ""year""=>[""1917""]}",3033762,Bellacourt,"[2.67847, 50.22924]"
+13,AWD0002qs0,diary,673,5,1917-12-26 00:00:00 UTC,26 Dec 1917,"Bellacourt, BELLACOURT","[2.67847, 50.22924]","",activity,training,{},3033762,Bellacourt,"[2.67847, 50.22924]"
+14,AWD0002qs0,diary,673,5,1917-12-27 00:00:00 UTC,27 Dec 1917,"Bellacourt, BELLACOURT","[2.67847, 50.22924]","",diaryDate,27 Dec 1917,"{""day""=>[""27""], ""month""=>[""Dec""], ""year""=>[""1917""]}",3033762,Bellacourt,"[2.67847, 50.22924]"
+15,AWD0002qs0,diary,673,5,1917-12-27 00:00:00 UTC,27 Dec 1917,"Bellacourt, BELLACOURT","[2.67847, 50.22924]","",activity,training,{},3033762,Bellacourt,"[2.67847, 50.22924]"
+16,AWD0002qs0,diary,673,5,1917-12-28 00:00:00 UTC,28 Dec 1917,"Bellacourt, BELLACOURT","[2.67847, 50.22924]","",diaryDate,28 Dec 1917,"{""day""=>[""28""], ""month""=>[""Dec""], ""year""=>[""1917""]}",3033762,Bellacourt,"[2.67847, 50.22924]"
+17,AWD0002qs0,diary,673,4,1917-12-28 00:00:00 UTC,28 Dec 1917,"Bellacourt, BELLACOURT","[2.67847, 50.22924]","",activity,training,{},3033762,Bellacourt,"[2.67847, 50.22924]"
+18,AWD0002qs0,diary,673,4,1917-12-28 00:00:00 UTC,28 Dec 1917,"Bellacourt, BELLACOURT","[2.67847, 50.22924]","",person,"Second Lieutenant A B Entwistle, ENTWISTLE","{""first""=>[""A B""], ""surname""=>[""Entwistle"", ""ENTWISTLE""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""award""], ""unit""=>[""""]}",3033762,Bellacourt,"[2.67847, 50.22924]"
+19,AWD0002qs0,diary,673,3,1917-12-28 00:00:00 UTC,28 Dec 1917,"Bellacourt, BELLACOURT","[2.67847, 50.22924]","",person,Company Sergeant Major J CARTER,"{""first""=>[""J""], ""surname""=>[""CARTER""], ""rank""=>[""Company Sergeant Major""], ""number""=>[""7869""], ""reason""=>[""award""], ""unit""=>[""""]}",3033762,Bellacourt,"[2.67847, 50.22924]"
+20,AWD0002qs0,diary,673,4,1917-12-28 00:00:00 UTC,28 Dec 1917,"Bellacourt, BELLACOURT","[2.67847, 50.22924]","",person,Lance Sergeant W Harris,"{""first""=>[""W""], ""surname""=>[""Harris""], ""rank""=>[""Lance Sergeant""], ""number""=>[""5667""], ""reason""=>[""award""], ""unit""=>[""""]}",3033762,Bellacourt,"[2.67847, 50.22924]"
+1,AWD0002qsl,diary,674,5,1917-12-28 00:00:00 UTC,28 Dec 1917,"Bellacourt, BELLACOURT","[2.67847, 50.22924]","",diaryDate,28 Dec 1917,"{""day""=>[""28""], ""month""=>[""Dec""], ""year""=>[""1917""]}",3033762,Bellacourt,"[2.67847, 50.22924]"
+2,AWD0002qsl,diary,674,2,1917-12-28 00:00:00 UTC,28 Dec 1917,"bellacourt, Bellacourt","[2.67847, 50.22924]","",place,"bellacourt, Bellacourt","{""place""=>[""bellacourt"", ""Bellacourt""], ""location""=>[""true""], ""name""=>[""Bellacourt""], ""lat""=>[""50.22924""], ""long""=>[""2.67847""], ""id""=>[""3033762""]}",3033762,Bellacourt,"[2.67847, 50.22924]"
+3,AWD0002qsl,diary,674,3,1917-12-28 21:00:00 UTC,28 Dec 1917,"bellacourt, Bellacourt","[2.67847, 50.22924]",0900PM,time,0900PM,{},3033762,Bellacourt,"[2.67847, 50.22924]"
+6,AWD0002qsl,diary,674,3,1917-12-28 21:00:00 UTC,28 Dec 1917,"bellacourt, Bellacourt","[2.67847, 50.22924]",0900PM,place,Courcelles,"{""place""=>[""Courcelles""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3033762,Bellacourt,"[2.67847, 50.22924]"
+7,AWD0002qsl,diary,674,5,1917-12-29 00:00:00 UTC,29 Dec 1917,"bellacourt, Bellacourt","[2.67847, 50.22924]","",diaryDate,29 Dec 1917,"{""day""=>[""29""], ""month""=>[""Dec""], ""year""=>[""1917""]}",3033762,Bellacourt,"[2.67847, 50.22924]"
+8,AWD0002qsl,diary,674,5,1917-12-29 00:00:00 UTC,29 Dec 1917,"bellacourt, Bellacourt","[2.67847, 50.22924]","",activity,training,{},3033762,Bellacourt,"[2.67847, 50.22924]"
+9,AWD0002qsl,diary,674,4,1917-12-29 00:00:00 UTC,29 Dec 1917,"bellacourt, Bellacourt","[2.67847, 50.22924]","",weather,cold,{},3033762,Bellacourt,"[2.67847, 50.22924]"
+10,AWD0002qsl,diary,674,2,1917-12-29 00:00:00 UTC,29 Dec 1917,"bellacourt, Bellacourt","[2.67847, 50.22924]","",activity,training,{},3033762,Bellacourt,"[2.67847, 50.22924]"
+11,AWD0002qsl,diary,674,5,1917-12-30 00:00:00 UTC,30 Dec 1917,"bellacourt, Bellacourt","[2.67847, 50.22924]","",diaryDate,30 Dec 1917,"{""day""=>[""30""], ""month""=>[""Dec""], ""year""=>[""1917""]}",3033762,Bellacourt,"[2.67847, 50.22924]"
+12,AWD0002qsl,diary,674,2,1917-12-30 00:00:00 UTC,30 Dec 1917,"bellacourt, Bellacourt","[2.67847, 50.22924]","",domestic,accomodation,{},3033762,Bellacourt,"[2.67847, 50.22924]"
+13,AWD0002qsl,diary,674,4,1917-12-30 00:00:00 UTC,30 Dec 1917,"bellacourt, Bellacourt","[2.67847, 50.22924]","",domestic,religion,{},3033762,Bellacourt,"[2.67847, 50.22924]"
+14,AWD0002qsl,diary,674,3,1917-12-30 00:00:00 UTC,30 Dec 1917,"bellacourt, Bellacourt","[2.67847, 50.22924]","",domestic,inspections,{},3033762,Bellacourt,"[2.67847, 50.22924]"
+15,AWD0002qsl,diary,674,2,1917-12-30 00:00:00 UTC,30 Dec 1917,"bellacourt, Bellacourt","[2.67847, 50.22924]","",domestic,uniform,{},3033762,Bellacourt,"[2.67847, 50.22924]"
+16,AWD0002qsl,diary,674,2,1917-12-30 00:00:00 UTC,30 Dec 1917,"bellacourt, Bellacourt","[2.67847, 50.22924]","",activity,quiet,{},3033762,Bellacourt,"[2.67847, 50.22924]"
+17,AWD0002qsl,diary,674,4,1917-12-30 21:00:00 UTC,30 Dec 1917,"bellacourt, Bellacourt","[2.67847, 50.22924]",0900PM,time,0900PM,{},3033762,Bellacourt,"[2.67847, 50.22924]"
+18,AWD0002qsl,diary,674,5,1917-12-31 00:00:00 UTC,31 Dec 1917,"bellacourt, Bellacourt","[2.67847, 50.22924]","",diaryDate,31 Dec 1917,"{""day""=>[""31""], ""month""=>[""Dec""], ""year""=>[""1917""]}",3033762,Bellacourt,"[2.67847, 50.22924]"
+19,AWD0002qsl,diary,674,5,1917-12-31 00:00:00 UTC,31 Dec 1917,"bellacourt, Bellacourt","[2.67847, 50.22924]","",activity,training,{},3033762,Bellacourt,"[2.67847, 50.22924]"
+22,AWD0002qsl,diary,674,4,1917-12-31 18:30:00 UTC,31 Dec 1917,"bellacourt, Bellacourt","[2.67847, 50.22924]",0630PM,time,0630PM,{},3033762,Bellacourt,"[2.67847, 50.22924]"
+25,AWD0002qsl,diary,674,4,1917-12-31 18:30:00 UTC,31 Dec 1917,"bellacourt, Bellacourt","[2.67847, 50.22924]",0630PM,person,"Major ,J H,J W E,S H ROSSE","{""first""=>["""", ""J H"", ""J W E"", ""S H""], ""surname""=>[""ROSSE""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",3033762,Bellacourt,"[2.67847, 50.22924]"
+2,AWD0002qrr,report,675,3,,,,[],,title,"Casualties for the month of December, 1917",{},,,
+6,AWD0002qrr,report,675,4,,,,[],,person,Captain C H O D Burrell,"{""first""=>[""C H O D""], ""surname""=>[""Burrell""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+7,AWD0002qrr,report,675,4,,,,[],,person,"Captain G N WYKES, Wykes","{""first""=>[""G N""], ""surname""=>[""WYKES"", ""Wykes""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+9,AWD0002qrr,report,675,2,,,,[],,person,"Second Lieutenant T J ATKINSON, Atkinson","{""first""=>[""T J""], ""surname""=>[""ATKINSON"", ""Atkinson""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+10,AWD0002qrr,report,675,4,,,,[],,person,Second Lieutenant A B Entwistle,"{""first""=>[""A B""], ""surname""=>[""Entwistle""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+11,AWD0002qrr,report,675,2,,,,[],,person,"Second Lieutenant, T J ATKINSON, Atkinson","{""first""=>[""T J""], ""surname""=>[""ATKINSON"", ""Atkinson""], ""rank""=>[""Second Lieutenant"", """"], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+12,AWD0002qrr,report,675,3,,,,[],,person,Second Lieutenant P A B Wrixon,"{""first""=>[""P A B""], ""surname""=>[""Wrixon""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+13,AWD0002qrr,report,675,3,,,,[],,person,Lieutenant C A Hines,"{""first""=>[""C A""], ""surname""=>[""Hines""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+1,AWD0002qrb,orders,676,2,,,,[],,orders,move,{},,,
+2,AWD0002qsm,orders,677,2,,,,[],,orders,move,{},,,
+4,AWD0002qsa,orders,678,3,,,,[],,date,1 Dec 1917,{},,,
+3,AWD0002qr7,signals,679,4,,,,[],,date,1 Dec 1917,{},,,
+6,AWD0002qr7,signals,679,3,,,,[],,unit,9th Norfolk Regiment,"{""name""=>[""9th Norfolk Regiment""], ""context""=>[""other""]}",,,
+8,AWD0002qr7,signals,679,2,,,,[],,unit,2nd Sherwood Foresters,"{""name""=>[""2nd Sherwood Foresters""], ""context""=>[""other""]}",,,
+9,AWD0002qr7,signals,679,2,,,,[],,unit,9th Suffolk Regiment,"{""name""=>[""9th Suffolk Regiment""], ""context""=>[""other""]}",,,
+1,AWD0002qrm,orders,680,3,,,,[],,orders,move,{},,,
+4,AWD0002qrm,orders,680,5,,,,[],,date,1 Dec 1917,{},,,
+5,AWD0002qrm,orders,680,2,,,,[],,orders,move,{},,,
+2,AWD0002qr8,signals,681,3,,,,[],,date,3 Dec 1917,{},,,
+3,AWD0002qr8,signals,681,2,,,,[],,signals,other,{},,,
+5,AWD0002qrt,orders,682,5,,,,[],,date,3 Dec 1917,{},,,
+2,AWD0002qs6,orders,683,2,,,,[],,orders,move,{},,,
+6,AWD0002qs6,orders,683,5,,,,[],,orders,withdraw,{},,,
+9,AWD0002qs6,orders,683,4,,,,[],,orders,withdraw,{},,,
+2,AWD0002qs8,orders,684,2,,,,[],,orders,withdraw,{},,,
+4,AWD0002qs8,orders,684,2,,,,[],,orders,entrench,{},,,
+5,AWD0002qs8,orders,684,2,,,,[],,orders,other,{},,,
+10,AWD0002qs8,orders,684,4,,,,[],,date,4 Dec 1917,{},,,
+3,AWD0002qsk,orders,685,2,,,,[],,orders,withdraw,{},,,
+4,AWD0002qsk,orders,685,5,,,,[],,date,4 Dec 1917,{},,,
+5,AWD0002qsb,orders,687,2,,,,[],,person,"Lieutenant R N,R Davis, DAVIES","{""first""=>[""R N"", ""R""], ""surname""=>[""Davis"", ""DAVIES""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+1,AWD0002qrv,orders,688,2,,,,[],,orders,other,{},,,
+5,AWD0002qrv,orders,688,2,,,,[],,date,6 Dec 1917,{},,,
+6,AWD0002qst,orders,689,5,,,,[],,date,5 Dec 1917,{},,,
+1,AWD0002qrz,orders,690,2,,,,[],,orders,move,{},,,
+5,AWD0002qrz,orders,690,5,,,,[],,date,5 Dec 1917,{},,,
+7,AWD0002qrw,orders,692,3,,,,[],,date,8 Dec 1917,{},,,
+1,AWD0002qsj,orders,693,3,,,,[],,orders,move,{},,,
+2,AWD0002qsj,orders,693,2,,,,[],,reference,Operation Order No. 262,{},,,
+3,AWD0002qsj,orders,693,4,,,,[],,date,8 Dec 1917,{},,,
+2,AWD0002qrx,orders,694,2,,,,[],,orders,move,{},,,
+3,AWD0002qrx,orders,694,2,,,,[],,reference,Operation Order No 263,{},,,
+4,AWD0002qrx,orders,694,6,,,,[],,date,9 Dec 1917,{},,,
+1,AWD0002qru,orders,695,2,,,,[],,orders,move,{},,,
+2,AWD0002qru,orders,695,2,,,,[],,reference,Operation Order No 264,{},,,
+4,AWD0002qru,orders,695,5,,,,[],,date,11 Dec 1917,{},,,
+1,AWD0002qrk,orders,696,2,,,,[],,orders,move,{},,,
+6,AWD0002qsn,orders,697,2,,,,[],,person,"Captain ,F E JONES, Jones","{""first""=>["""", ""F E""], ""surname""=>[""JONES"", ""Jones""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""commander"", ""author""], ""unit""=>["""", ""71st Inf. Bde.""]}",,,
+7,AWD0002qsn,orders,697,4,,,,[],,date,10 Dec 1917,{},,,
+2,AWD0002qso,signals,698,3,,,,[],,date,11 Dec 1917,{},,,
+3,AWD0002qso,signals,698,2,,,,[],,signals,order,{},,,
+5,AWD0002qso,signals,698,2,,,,[],,mapRef,"sheet: 57 c, scale: 1/40,000",{},,,
+6,AWD0002qso,signals,698,3,,,,[],,gridRef,v 8 b 4 6,{},,,
+2,AWD0002qrq,signals,699,2,,,,[],,unit,"Norfolks, Suffolks","{""name""=>[""Norfolks"", ""Suffolks""], ""context""=>[""other""]}",,,
+4,AWD0002qrq,signals,699,3,,,,[],,date,11 Dec 1917,{},,,
+8,AWD0002qrq,signals,699,2,,,,[],,unit,"9th R.W.F, 9th R W F","{""name""=>[""9th R.W.F"", ""9th R W F""], ""context""=>[""other""]}",,,
+11,AWD0002qrq,signals,699,2,,,,[],,unit,9th Cheshires,"{""name""=>[""9th Cheshires""], ""context""=>[""other""]}",,,
+2,AWD0002qsq,signals,700,3,,,,[],,date,12 Dec 1917,{},,,
+3,AWD0002qsq,signals,700,2,,,,[],,unit,6th Wilts,"{""name""=>[""6th Wilts""], ""context""=>[""other""]}",,,
+4,AWD0002qsr,orders,701,2,,,,[],,reference,71st Inf. Bde. No. 8020,{},,,
+8,AWD0002qsr,orders,701,3,,,,[],,person,"Captain J,W, Lidbury","{""first""=>[""J"", ""W"", """"], ""surname""=>[""Lidbury""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+9,AWD0002qsr,orders,701,3,,,,[],,date,8 Dec 1917,{},,,
+11,AWD0002qsr,orders,701,3,,,,[],,person,Captain  Jones,"{""first""=>[""""], ""surname""=>[""Jones""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+12,AWD0002qsr,orders,701,4,,,,[],,date,9 Dec 1917,{},,,
+2,AWD0002qrd,orders,702,3,,,,[],,orders,move,{},,,
+6,AWD0002qsp,orders,703,4,,,,[],,date,12 Dec 1917,{},,,
+1,AWD0002qry,orders,704,2,,,,[],,orders,move,{},,,
+4,AWD0002qry,orders,704,4,,,,[],,date,13 Dec 1917,{},,,
+5,AWD0002qry,orders,704,2,,,,[],,orders,move,{},,,
+6,AWD0002qry,orders,704,2,,,,[],,date,14 Dec 1917,{},,,
+8,AWD0002qsd,orders,705,4,,,,[],,person,"Captain  Jones, JONES","{""first""=>[""""], ""surname""=>[""Jones"", ""JONES""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""commander"", ""author""], ""unit""=>[""""]}",,,
+9,AWD0002qsd,orders,705,4,,,,[],,date,13 Dec 1917,{},,,
+1,AWD0002qs3,other,706,2,,,,[],,orders,move,{},,,
+1,AWD0002qrn,orders,707,3,,,,[],,orders,move,{},,,
+1,AWD0002qra,orders,708,2,,,,[],,orders,move,{},,,
+6,AWD0002qra,orders,708,2,,,,[],,orders,move,{},,,
+9,AWD0002qra,orders,708,4,,,,[],,date,13 Dec 1917,{},,,
+1,AWD0002qr6,orders,709,2,,,,[],,orders,move,{},,,
+2,AWD0002qr6,orders,709,4,,,,[],,date,13 Dec 1917,{},,,
+5,AWD0002qr6,orders,709,3,,,,[],,orders,move,{},,,
+7,AWD0002qr6,orders,709,3,,,,[],,person,Lieutenant P A Crouch,"{""first""=>[""P A""], ""surname""=>[""Crouch""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+8,AWD0002qr6,orders,709,3,,,,[],,person,Lieutenant C E Lancaster,"{""first""=>[""C E""], ""surname""=>[""Lancaster""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+9,AWD0002qr6,orders,709,3,,,,[],,person,Lieutenant C H Watson,"{""first""=>[""C H""], ""surname""=>[""Watson""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+7,AWD0002qsg,orders,710,2,,,,[],,date,1 Jan 1918,{},,,
+9,AWD0002qsg,orders,710,4,,,,[],,date,28 Dec 1917,{},,,
+1,AWD0002qrh,orders,711,2,,,,[],,orders,move,{},,,
+2,AWD0002qrh,orders,711,2,,,,[],,reference,Operation Order No 266,{},,,
+4,AWD0002qrh,orders,711,5,,,,[],,date,30 Dec 1917,{},,,
+5,AWD0002qrh,orders,711,2,,,,[],,orders,move,{},,,
+1,AWD0002qs9,orders,712,2,,,,[],,orders,move,{},,,
+3,AWD0002qs1,orders,713,2,,,,[],,orders,move,{},,,
+6,AWD0002qs1,orders,713,3,,,,[],,person,Captain  Jones,"{""first""=>[""""], ""surname""=>[""Jones""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+7,AWD0002qs1,orders,713,3,,,,[],,date,31 Dec 1917,{},,,
+3,AWD0002qsc,orders,714,2,,,,[],,orders,move,{},,,
+4,AWD0002qsc,orders,714,2,,,,[],,person,"Captain F E, Jones","{""first""=>[""F E"", """"], ""surname""=>[""Jones""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author"", ""commander""], ""unit""=>[""71st Inf. Bde."", """"]}",,,
+5,AWD0002qsc,orders,714,3,,,,[],,date,31 Dec 1917,{},,,
+1,AWD0002qrp,orders,715,3,,,,[],,orders,move,{},,,
+7,AWD0002qrp,orders,715,4,,,,[],,date,31 Dec 1917,{},,,
+1,AWD0002qri,orders,716,2,,,,[],,orders,move,{},,,
+2,AWD0002qri,orders,716,5,,,,[],,date,31 Dec 1917,{},,,
+3,AWD0002qri,orders,716,2,,,,[],,reference,Operation Order No 17/69,{},,,
+4,AWD0002qri,orders,716,3,,,,[],,orders,move,{},,,
+5,AWD0002qri,orders,716,3,,,,[],,person,Second Lieutenant G Colborne-Smith,"{""first""=>[""G""], ""surname""=>[""Colborne-Smith""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+6,AWD0002qri,orders,716,3,,,,[],,person,Second Lieutenant P A Crouch,"{""first""=>[""P A""], ""surname""=>[""Crouch""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+2,AWD0002qsi,diary,717,4,1917-12-31 18:30:00 UTC,31 Dec 1917,"bellacourt, Bellacourt","[2.67847, 50.22924]",0630PM,person, Arthur Bertram Entwistle,"{""first""=>[""Arthur Bertram""], ""surname""=>[""Entwistle""], ""rank""=>[""""], ""number""=>[""""], ""reason""=>[""award""], ""unit""=>[""""]}",3033762,Bellacourt,"[2.67847, 50.22924]"
+4,AWD0002qsi,diary,717,2,1917-12-31 18:30:00 UTC,31 Dec 1917,"bellacourt, Bellacourt","[2.67847, 50.22924]",0630PM,place,"HINDENBURG LINE, Hindenburg Line","{""place""=>[""HINDENBURG LINE"", ""Hindenburg Line""], ""location""=>[""false"", ""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3033762,Bellacourt,"[2.67847, 50.22924]"
+5,AWD0002qsi,diary,717,5,1917-12-31 18:30:00 UTC,31 Dec 1917,"bellacourt, Bellacourt","[2.67847, 50.22924]",0630PM,person,"Company Sergeant Major John CARTER, Carter","{""first""=>[""John""], ""surname""=>[""CARTER"", ""Carter""], ""rank""=>[""Company Sergeant Major""], ""number""=>[""7869""], ""reason""=>[""award""], ""unit""=>[""""]}",3033762,Bellacourt,"[2.67847, 50.22924]"
+3,AWD0002qre,diary,718,4,1917-12-31 18:30:00 UTC,31 Dec 1917,"bellacourt, Bellacourt","[2.67847, 50.22924]",0630PM,person,Sergeant HARRY ALLWAY,"{""first""=>[""HARRY""], ""surname""=>[""ALLWAY""], ""rank""=>[""Sergeant""], ""number""=>[""16352""], ""reason""=>[""award""], ""unit""=>[""""]}",3033762,Bellacourt,"[2.67847, 50.22924]"
+5,AWD0002qre,diary,718,2,1917-11-20 00:00:00 UTC,20 Nov 1917,"bellacourt, Bellacourt","[2.67847, 50.22924]","",diaryDate,20 Nov 1917,"{""day""=>[""20""], ""month""=>[""Nov""], ""year""=>[""1917""]}",3033762,Bellacourt,"[2.67847, 50.22924]"
+6,AWD0002qre,diary,718,4,1917-11-20 00:00:00 UTC,20 Nov 1917,"bellacourt, Bellacourt","[2.67847, 50.22924]","",person,Private FRANK HALL,"{""first""=>[""FRANK""], ""surname""=>[""HALL""], ""rank""=>[""Private""], ""number""=>[""241866""], ""reason""=>[""award""], ""unit""=>[""""]}",3033762,Bellacourt,"[2.67847, 50.22924]"
+2,AWD0002qrl,diary,719,4,1917-11-20 00:00:00 UTC,20 Nov 1917,"bellacourt, Bellacourt","[2.67847, 50.22924]","",person,Lance Sergeant ARTHUR FOSTER,"{""first""=>[""ARTHUR""], ""surname""=>[""FOSTER""], ""rank""=>[""Lance Sergeant""], ""number""=>[""10419""], ""reason""=>[""award""], ""unit""=>[""""]}",3033762,Bellacourt,"[2.67847, 50.22924]"
+7,AWD0002qrl,diary,719,3,1917-11-20 00:00:00 UTC,20 Nov 1917,"bellacourt, Bellacourt","[2.67847, 50.22924]","",person,Private THOMAS PALMER,"{""first""=>[""THOMAS""], ""surname""=>[""PALMER""], ""rank""=>[""Private""], ""number""=>[""9700""], ""reason""=>[""award""], ""unit""=>[""""]}",3033762,Bellacourt,"[2.67847, 50.22924]"
+12,AWD0002qrl,diary,719,3,1917-11-20 00:00:00 UTC,20 Nov 1917,"bellacourt, Bellacourt","[2.67847, 50.22924]","",person,Private  Hayes,"{""first""=>[""""], ""surname""=>[""Hayes""], ""rank""=>[""Private""], ""number""=>[""19149""], ""reason""=>[""combat""], ""unit""=>[""""]}",3033762,Bellacourt,"[2.67847, 50.22924]"
+13,AWD0002qrl,diary,719,2,1917-11-20 00:00:00 UTC,20 Nov 1917,"bellacourt, Bellacourt","[2.67847, 50.22924]","",person,Private  Palmer,"{""first""=>[""""], ""surname""=>[""Palmer""], ""rank""=>[""Private""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""""]}",3033762,Bellacourt,"[2.67847, 50.22924]"
+3,AWD0002qs7,diary,720,4,1917-11-20 00:00:00 UTC,20 Nov 1917,"bellacourt, Bellacourt","[2.67847, 50.22924]","",person,Private GEORGE HAYES,"{""first""=>[""GEORGE""], ""surname""=>[""HAYES""], ""rank""=>[""Private""], ""number""=>[""19149""], ""reason""=>[""award""], ""unit""=>[""""]}",3033762,Bellacourt,"[2.67847, 50.22924]"
+7,AWD0002qs7,diary,720,3,1917-11-20 00:00:00 UTC,20 Nov 1917,"bellacourt, Bellacourt","[2.67847, 50.22924]","",person,Private T Palmer,"{""first""=>[""T""], ""surname""=>[""Palmer""], ""rank""=>[""Private""], ""number""=>[""9700""], ""reason""=>[""combat""], ""unit""=>[""""]}",3033762,Bellacourt,"[2.67847, 50.22924]"
+8,AWD0002qs7,diary,720,4,1917-11-20 00:00:00 UTC,20 Nov 1917,"bellacourt, Bellacourt","[2.67847, 50.22924]","",person,Lance Sergeant WILLIAM HARRIS,"{""first""=>[""WILLIAM""], ""surname""=>[""HARRIS""], ""rank""=>[""Lance Sergeant""], ""number""=>[""5667""], ""reason""=>[""award""], ""unit""=>[""""]}",3033762,Bellacourt,"[2.67847, 50.22924]"
+2,AWD0002qsh,diary,721,4,1917-11-20 00:00:00 UTC,20 Nov 1917,"bellacourt, Bellacourt","[2.67847, 50.22924]","",person,Private GEORGE MITCHELL,"{""first""=>[""GEORGE""], ""surname""=>[""MITCHELL""], ""rank""=>[""Private""], ""number""=>[""25073""], ""reason""=>[""award""], ""unit""=>[""""]}",3033762,Bellacourt,"[2.67847, 50.22924]"
+4,AWD0002qsh,diary,721,2,1917-11-20 00:00:00 UTC,20 Nov 1917,"bellacourt, Bellacourt","[2.67847, 50.22924]","",place,HINDENBURG,"{""place""=>[""HINDENBURG""], ""location""=>[""false""], ""name""=>[""Hindenburg"", """"], ""lat""=>[""52.75458"", """"], ""long""=>[""11.92892"", """"], ""id""=>[""2904468"", """"]}",3033762,Bellacourt,"[2.67847, 50.22924]"
+6,AWD0002qsh,diary,721,3,1917-11-20 00:00:00 UTC,20 Nov 1917,"bellacourt, Bellacourt","[2.67847, 50.22924]","",person,"Lieutenant Colonel H BARRINGTON BROWN DSO, Barrington Brown, BROWN","{""first""=>[""H""], ""surname""=>[""BARRINGTON BROWN DSO"", ""Barrington Brown"", ""BROWN""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""award""], ""unit""=>[""""]}",3033762,Bellacourt,"[2.67847, 50.22924]"
+8,AWD0002qsh,diary,721,3,1917-11-20 00:00:00 UTC,20 Nov 1917,"bellacourt, Bellacourt","[2.67847, 50.22924]","",person,"Major J W E MOSSE MC, MOSSE, Mosse","{""first""=>[""J W E""], ""surname""=>[""MOSSE MC"", ""MOSSE"", ""Mosse""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""award""], ""unit""=>[""""]}",3033762,Bellacourt,"[2.67847, 50.22924]"
+9,AWD0002qsh,diary,721,3,1917-11-20 00:00:00 UTC,20 Nov 1917,"bellacourt, Bellacourt","[2.67847, 50.22924]","",person,Captain S T HARTSHORNE,"{""first""=>[""S T""], ""surname""=>[""HARTSHORNE""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""award""], ""unit""=>[""""]}",3033762,Bellacourt,"[2.67847, 50.22924]"
+10,AWD0002qsh,diary,721,3,1917-11-20 00:00:00 UTC,20 Nov 1917,"bellacourt, Bellacourt","[2.67847, 50.22924]","",person,Captain A WEYMAN,"{""first""=>[""A""], ""surname""=>[""WEYMAN""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""award""], ""unit""=>[""""]}",3033762,Bellacourt,"[2.67847, 50.22924]"

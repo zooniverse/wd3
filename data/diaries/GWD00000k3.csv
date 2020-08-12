@@ -1,0 +1,810 @@
+Order,Page,Page type,Page number,Count,DateTime,Date,Place,Lat/Lon,Time,Type,Label,Data,GeoID,GeoName,GeoCoords
+1,AWD0002x0w,diary,2,5,1915-06-19 00:00:00 UTC,19 Jun 1915,"","[0.0, 0.0]","",diaryDate,19 Jun 1915,"{""day""=>[""19""], ""month""=>[""Jun""], ""year""=>[""1915""]}",2985684,Pozières,"[2.72929, 50.04047]"
+2,AWD0002x0w,diary,2,4,1915-06-19 00:00:00 UTC,19 Jun 1915,"","[0.0, 0.0]","",unit,129th Baluchis,"{""name""=>[""129th Baluchis""], ""context""=>[""left""]}",2985684,Pozières,"[2.72929, 50.04047]"
+3,AWD0002x0w,diary,2,3,1915-06-19 00:00:00 UTC,19 Jun 1915,"","[0.0, 0.0]","",activity,movement,{},2985684,Pozières,"[2.72929, 50.04047]"
+6,AWD0002x0w,diary,2,2,1915-06-19 00:00:00 UTC,19 Jun 1915,"","[0.0, 0.0]","",activity,movement,{},2985684,Pozières,"[2.72929, 50.04047]"
+7,AWD0002x0w,diary,2,2,1915-06-19 00:00:00 UTC,19 Jun 1915,"","[0.0, 0.0]","",activity,reserve,{},2985684,Pozières,"[2.72929, 50.04047]"
+8,AWD0002x0w,diary,2,5,1915-06-19 18:00:00 UTC,19 Jun 1915,"","[0.0, 0.0]",0600PM,time,0600PM,{},2985684,Pozières,"[2.72929, 50.04047]"
+11,AWD0002x0w,diary,2,5,1915-06-19 21:00:00 UTC,19 Jun 1915,"","[0.0, 0.0]",0900PM,time,0900PM,{},2985684,Pozières,"[2.72929, 50.04047]"
+12,AWD0002x0w,diary,2,5,1915-06-19 21:00:00 UTC,19 Jun 1915,"","[0.0, 0.0]",0900PM,casualties,"killed: 1, wounded: 5",{},2985684,Pozières,"[2.72929, 50.04047]"
+13,AWD0002x0w,diary,2,5,1915-06-19 21:30:00 UTC,19 Jun 1915,"","[0.0, 0.0]",0930PM,time,0930PM,{},2985684,Pozières,"[2.72929, 50.04047]"
+15,AWD0002x0w,diary,2,3,1915-06-19 21:30:00 UTC,19 Jun 1915,"","[0.0, 0.0]",0930PM,unit,57th Rifles,"{""name""=>[""57th Rifles""], ""context""=>[""relieved_by""]}",2985684,Pozières,"[2.72929, 50.04047]"
+16,AWD0002x0w,diary,2,5,1915-06-19 23:30:00 UTC,19 Jun 1915,"","[0.0, 0.0]",1130PM,time,1130PM,{},2985684,Pozières,"[2.72929, 50.04047]"
+17,AWD0002x0w,diary,2,4,1915-06-19 23:30:00 UTC,19 Jun 1915,"","[0.0, 0.0]",1130PM,activity,movement,{},2985684,Pozières,"[2.72929, 50.04047]"
+18,AWD0002x0w,diary,2,3,1915-06-19 23:30:00 UTC,19 Jun 1915,"","[0.0, 0.0]",1130PM,activity,reserve,{},2985684,Pozières,"[2.72929, 50.04047]"
+19,AWD0002x0w,diary,2,3,1915-06-19 23:30:00 UTC,19 Jun 1915,Loretto Road,"[0.0, 0.0]",1130PM,place,Loretto Road,"{""place""=>[""Loretto Road""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2990589,"Neuve-Chapelle,","[2.78196, 50.58582]"
+20,AWD0002x0w,diary,2,4,1915-06-20 00:00:00 UTC,20 Jun 1915,Loretto Road,"[0.0, 0.0]","",diaryDate,20 Jun 1915,"{""day""=>[""20""], ""month""=>[""Jun""], ""year""=>[""1915""]}",2990589,"Neuve-Chapelle,","[2.78196, 50.58582]"
+21,AWD0002x0w,diary,2,5,1915-06-20 00:30:00 UTC,20 Jun 1915,Loretto Road,"[0.0, 0.0]",1230AM,time,1230AM,{},2990589,"Neuve-Chapelle,","[2.78196, 50.58582]"
+28,AWD0002x0w,diary,2,2,1915-06-20 00:30:00 UTC,20 Jun 1915,Loretto Road,"[0.0, 0.0]",1230AM,domestic,hygiene,{},2990589,"Neuve-Chapelle,","[2.78196, 50.58582]"
+30,AWD0002x0w,diary,2,4,1915-06-20 14:00:00 UTC,20 Jun 1915,Loretto Road,"[0.0, 0.0]",0200PM,time,0200PM,{},2990589,"Neuve-Chapelle,","[2.78196, 50.58582]"
+31,AWD0002x0w,diary,2,6,1915-06-20 14:00:00 UTC,20 Jun 1915,Loretto Road,"[0.0, 0.0]",0200PM,person,Captain  James,"{""first""=>[""""], ""surname""=>[""James""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",2990589,"Neuve-Chapelle,","[2.78196, 50.58582]"
+32,AWD0002x0w,diary,2,2,1915-06-20 14:00:00 UTC,20 Jun 1915,Loretto Road,"[0.0, 0.0]",0200PM,activity,resupplying,{},2990589,"Neuve-Chapelle,","[2.78196, 50.58582]"
+33,AWD0002x0w,diary,2,3,1915-06-20 14:00:00 UTC,20 Jun 1915,Loretto Road,"[0.0, 0.0]",0200PM,person,Lieutenant  Campbell,"{""first""=>[""""], ""surname""=>[""Campbell""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2990589,"Neuve-Chapelle,","[2.78196, 50.58582]"
+34,AWD0002x0w,diary,2,2,1915-06-20 14:00:00 UTC,20 Jun 1915,Port Arthur,"[0.0, 0.0]",0200PM,place,Port Arthur,"{""place""=>[""Port Arthur""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+36,AWD0002x0w,diary,2,3,1915-06-20 21:30:00 UTC,20 Jun 1915,Port Arthur,"[0.0, 0.0]",0930PM,time,0930PM,{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+38,AWD0002x0w,diary,2,2,1915-06-20 21:30:00 UTC,20 Jun 1915,Port Arthur,"[0.0, 0.0]",0930PM,activity,resupplying,{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+45,AWD0002x0w,diary,2,3,1915-06-20 21:30:00 UTC,20 Jun 1915,Port Arthur,"[0.0, 0.0]",0930PM,casualties,wounded: 2,{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+2,AWD0002x05,report,3,4,,,,[],,person,Corporal Harnam Singh,"{""first""=>[""Harnam""], ""surname""=>[""Singh""], ""rank""=>[""Corporal""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""2nd Patrol"", """"]}",,,
+1,AWD0002x0n,report,4,2,,,,[],,reference,attached to Appendix VI,{},,,
+5,AWD0002x0n,report,4,2,,,,[],,title,Report by Patrol on Enemy Defences between Point 63 & Oxford Street,{},,,
+6,AWD0002x0n,report,4,4,,,,[],,person,Lance Corporal Nur Hussain,"{""first""=>[""Nur""], ""surname""=>[""Hussain""], ""rank""=>[""Lance Corporal""], ""number""=>[""2331""], ""reason""=>[""other"", ""combat""], ""unit""=>[""89th Punjabis""]}",,,
+7,AWD0002x0n,report,4,4,,,,[],,person,Lance Corporal Ali Gaur Khan,"{""first""=>[""Ali Gaur""], ""surname""=>[""Khan""], ""rank""=>[""Lance Corporal""], ""number""=>[""2570""], ""reason""=>[""other"", ""combat""], ""unit""=>[""89th Punjabis""]}",,,
+8,AWD0002x0n,report,4,4,,,,[],,person,Private Channan Khan,"{""first""=>[""Channan""], ""surname""=>[""Khan""], ""rank""=>[""Private""], ""number""=>[""2530""], ""reason""=>[""other"", ""combat""], ""unit""=>[""89th Punjabis""]}",,,
+1,AWD0002wyf,report,5,3,,,,[],,reference,Appendix  VII,{},,,
+4,AWD0002wyf,report,5,2,,,,[],,date,28 Aug 1915,{},,,
+1,AWD0002wyw,diary,6,2,1915-06-20 21:30:00 UTC,20 Jun 1915,Port Arthur,"[0.0, 0.0]",0930PM,reference,Appendix VIII,{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+2,AWD0002wyw,diary,6,2,1915-06-20 21:30:00 UTC,20 Jun 1915,Port Arthur,"[0.0, 0.0]",0930PM,activity,fire,{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+5,AWD0002wyw,diary,6,2,1915-06-20 21:30:00 UTC,20 Jun 1915,Port Arthur,"[0.0, 0.0]",0930PM,gridRef,S 16 A 6 4,{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+6,AWD0002wyw,diary,6,4,1915-06-20 21:30:00 UTC,20 Jun 1915,Port Arthur,"[0.0, 0.0]",0930PM,activity,attack,{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+7,AWD0002wyw,diary,6,2,1915-06-20 21:30:00 UTC,20 Jun 1915,Port Arthur,"[0.0, 0.0]",0930PM,activity,reconnoitered,{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+9,AWD0002wyw,diary,6,2,1915-06-20 21:30:00 UTC,20 Jun 1915,Port Arthur,"[0.0, 0.0]",0930PM,place,"Ferme du Bois, Ferme Dubois","{""place""=>[""Ferme du Bois"", ""Ferme Dubois""], ""location""=>[""false""], ""name""=>["""", ""Herbesthal""], ""lat""=>["""", ""50.66562""], ""long""=>["""", ""5.98266""], ""id""=>["""", ""2796040""]}",2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+10,AWD0002wyw,diary,6,3,1915-06-20 21:30:00 UTC,20 Jun 1915,Port Arthur,"[0.0, 0.0]",0930PM,activity,fire,{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+11,AWD0002wyw,diary,6,2,1915-06-20 16:00:00 UTC,20 Jun 1915,Port Arthur,"[0.0, 0.0]",0400PM,time,0400PM,{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+17,AWD0002wyw,diary,6,2,1915-06-20 16:00:00 UTC,20 Jun 1915,Port Arthur,"[0.0, 0.0]",0400PM,activity,fire,{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+23,AWD0002wyw,diary,6,2,1915-06-20 16:00:00 UTC,20 Jun 1915,Port Arthur,"[0.0, 0.0]",0400PM,activity,enemy_activity,{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+29,AWD0002wyw,diary,6,2,1915-06-20 16:00:00 UTC,20 Jun 1915,Port Arthur,"[0.0, 0.0]",0400PM,gridRef,S 10 C 5 0,{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+31,AWD0002wyw,diary,6,2,1915-06-20 16:00:00 UTC,20 Jun 1915,Port Arthur,"[0.0, 0.0]",0400PM,gridRef,S 16 a 6 9,{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+33,AWD0002wyw,diary,6,4,1915-06-20 16:00:00 UTC,20 Jun 1915,Port Arthur,"[0.0, 0.0]",0400PM,activity,repair,{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+38,AWD0002wyw,diary,6,2,1915-06-20 16:00:00 UTC,20 Jun 1915,Port Arthur,"[0.0, 0.0]",0400PM,gridRef,S 16 A 3 7,{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+42,AWD0002wyw,diary,6,2,1915-08-29 00:00:00 UTC,29 Aug 1915,Port Arthur,"[0.0, 0.0]","",diaryDate,29 Aug 1915,"{""day""=>[""29""], ""month""=>[""Aug""], ""year""=>[""1915""]}",2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+43,AWD0002wyw,diary,6,2,1915-08-29 00:00:00 UTC,29 Aug 1915,Port Arthur,"[0.0, 0.0]","",date,29 Aug 1915,{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+3,AWD0002x0m,diary,7,2,1915-08-29 00:00:00 UTC,29 Aug 1915,Port Arthur,"[0.0, 0.0]","",unit,15th Lancers,"{""name""=>[""15th Lancers""], ""context""=>[""relieved_by""]}",2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+5,AWD0002x0m,diary,7,5,1915-08-29 00:00:00 UTC,29 Aug 1915,Port Arthur,"[0.0, 0.0]","",activity,attack,{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+6,AWD0002x0m,diary,7,2,1915-08-29 00:00:00 UTC,29 Aug 1915,Port Arthur,"[0.0, 0.0]","",gridRef,S 10 c 8 1,{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+7,AWD0002x0m,diary,7,2,1915-08-29 00:00:00 UTC,29 Aug 1915,Port Arthur,"[0.0, 0.0]","",activity,reconnoitered,{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+9,AWD0002x0m,diary,7,4,1915-08-29 00:00:00 UTC,29 Aug 1915,Port Arthur,"[0.0, 0.0]","",activity,working,{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+11,AWD0002x0m,diary,7,2,1915-08-29 00:00:00 UTC,29 Aug 1915,Port Arthur,"[0.0, 0.0]","",gridRef,S 16 a 61,{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+14,AWD0002x0m,diary,7,2,1915-08-29 00:00:00 UTC,29 Aug 1915,Port Arthur,"[0.0, 0.0]","",activity,reconnoitered,{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+15,AWD0002x0m,diary,7,3,1915-08-29 00:00:00 UTC,29 Aug 1915,Port Arthur,"[0.0, 0.0]","",activity,enemy_activity,{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+16,AWD0002x0m,diary,7,2,1915-08-29 00:00:00 UTC,29 Aug 1915,Port Arthur,"[0.0, 0.0]","",activity,fire,{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+21,AWD0002x0m,diary,7,3,1915-08-29 00:00:00 UTC,29 Aug 1915,Port Arthur,"[0.0, 0.0]","",activity,other,{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+24,AWD0002x0m,diary,7,3,1915-08-29 00:00:00 UTC,29 Aug 1915,Port Arthur,"[0.0, 0.0]","",activity,reconnoitered,{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+25,AWD0002x0m,diary,7,2,1915-08-29 00:00:00 UTC,29 Aug 1915,Port Arthur,"[0.0, 0.0]","",activity,repair,{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+28,AWD0002x0m,diary,7,2,1915-08-29 00:00:00 UTC,29 Aug 1915,Port Arthur,"[0.0, 0.0]","",activity,enemy_activity,{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+29,AWD0002x0m,diary,7,3,1915-08-29 00:00:00 UTC,29 Aug 1915,Port Arthur,"[0.0, 0.0]","",activity,repair,{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+33,AWD0002x0m,diary,7,2,1915-08-29 21:00:00 UTC,29 Aug 1915,Port Arthur,"[0.0, 0.0]",0900PM,time,0900PM,{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+36,AWD0002x0m,diary,7,3,1915-08-29 21:00:00 UTC,29 Aug 1915,Port Arthur,"[0.0, 0.0]",0900PM,activity,other,{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+37,AWD0002x0m,diary,7,2,1915-08-29 21:15:00 UTC,29 Aug 1915,Port Arthur,"[0.0, 0.0]",0915PM,time,0915PM,{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+39,AWD0002x0m,diary,7,2,1915-08-29 21:15:00 UTC,29 Aug 1915,Port Arthur,"[0.0, 0.0]",0915PM,gridRef,S 16 A 6 4,{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+40,AWD0002x0m,diary,7,2,1915-08-29 21:32:00 UTC,29 Aug 1915,Port Arthur,"[0.0, 0.0]",0932PM,time,0932PM,{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+41,AWD0002x0m,diary,7,2,1915-08-29 21:32:00 UTC,29 Aug 1915,Port Arthur,"[0.0, 0.0]",0932PM,activity,enemy_activity,{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+43,AWD0002x0m,diary,7,2,1915-08-29 21:32:00 UTC,29 Aug 1915,Port Arthur,"[0.0, 0.0]",0932PM,gridRef,S 16 a 6 1,{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+44,AWD0002x0m,diary,7,2,1915-08-29 22:25:00 UTC,29 Aug 1915,Port Arthur,"[0.0, 0.0]",1025PM,time,1025PM,{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+1,AWD0002wzf,diary,8,2,1915-08-29 22:25:00 UTC,29 Aug 1915,Port Arthur,"[0.0, 0.0]",1025PM,reference,Appendix X,{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+4,AWD0002wzf,diary,8,2,1915-08-29 22:25:00 UTC,29 Aug 1915,Port Arthur,"[0.0, 0.0]",1025PM,activity,attack,{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+15,AWD0002wzf,diary,8,2,1915-08-29 22:25:00 UTC,29 Aug 1915,Port Arthur,"[0.0, 0.0]",1025PM,activity,reconnoitered,{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+16,AWD0002wzf,diary,8,2,1915-08-29 22:25:00 UTC,29 Aug 1915,Port Arthur,"[0.0, 0.0]",1025PM,activity,fire,{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+18,AWD0002wzf,diary,8,2,1915-08-29 22:25:00 UTC,29 Aug 1915,Port Arthur,"[0.0, 0.0]",1025PM,activity,attack,{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+20,AWD0002wzf,diary,8,3,1915-08-29 17:30:00 UTC,29 Aug 1915,Port Arthur,"[0.0, 0.0]",0530PM,time,0530PM,{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+21,AWD0002wzf,diary,8,2,1915-08-29 17:30:00 UTC,29 Aug 1915,Port Arthur,"[0.0, 0.0]",0530PM,activity,enemy_activity,{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+24,AWD0002wzf,diary,8,2,1915-08-29 17:30:00 UTC,29 Aug 1915,Port Arthur,"[0.0, 0.0]",0530PM,gridRef,S 10 c 7 2,{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+30,AWD0002wzf,diary,8,2,1915-08-29 17:30:00 UTC,29 Aug 1915,Port Arthur,"[0.0, 0.0]",0530PM,activity,reconnoitered,{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+31,AWD0002wzf,diary,8,2,1915-08-29 17:30:00 UTC,29 Aug 1915,Port Arthur,"[0.0, 0.0]",0530PM,activity,enemy_activity,{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+34,AWD0002wzf,diary,8,3,1915-08-29 17:30:00 UTC,29 Aug 1915,Port Arthur,"[0.0, 0.0]",0530PM,activity,repair,{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+35,AWD0002wzf,diary,8,2,1915-08-29 17:30:00 UTC,29 Aug 1915,Port Arthur,"[0.0, 0.0]",0530PM,activity,construction,{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+37,AWD0002wzf,diary,8,2,1915-08-29 17:30:00 UTC,29 Aug 1915,Port Arthur,"[0.0, 0.0]",0530PM,activity,enemy_activity,{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+41,AWD0002wzf,diary,8,2,,"30 Sep,Aug 1915",Port Arthur,"[0.0, 0.0]","",diaryDate,"30 Sep,Aug 1915","{""day""=>[""30""], ""month""=>[""Sep"", ""Aug""], ""year""=>[""1915""]}",2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+43,AWD0002wzf,diary,8,2,,"30 Sep,Aug 1915",Port Arthur,"[0.0, 0.0]","",date,30 Sep 1915,{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+1,AWD0002wzi,diary,11,5,1915-09-01 00:00:00 UTC,1 Sep 1915,Port Arthur,"[0.0, 0.0]","",diaryDate,1 Sep 1915,"{""day""=>[""1""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+2,AWD0002wzi,diary,11,3,1915-09-01 00:00:00 UTC,1 Sep 1915,Port Arthur,"[0.0, 0.0]","",activity,line,{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+3,AWD0002wzi,diary,11,3,1915-09-01 00:00:00 UTC,1 Sep 1915,Rue du Bois,"[0.0, 0.0]","",place,Rue du Bois,"{""place""=>[""Rue du Bois""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3036903,Armentières,"[2.88214, 50.68568]"
+4,AWD0002wzi,diary,11,2,1915-09-01 00:00:00 UTC,1 Sep 1915,Rue du Bois,"[0.0, 0.0]","",activity,quiet,{},3036903,Armentières,"[2.88214, 50.68568]"
+5,AWD0002wzi,diary,11,3,1915-09-01 00:00:00 UTC,1 Sep 1915,Rue du Bois,"[0.0, 0.0]","",activity,reconnoitered,{},3036903,Armentières,"[2.88214, 50.68568]"
+6,AWD0002wzi,diary,11,4,1915-09-01 00:00:00 UTC,1 Sep 1915,Rue du Bois,"[0.0, 0.0]","",activity,attack,{},3036903,Armentières,"[2.88214, 50.68568]"
+7,AWD0002wzi,diary,11,2,1915-09-01 00:00:00 UTC,1 Sep 1915,Rue du Bois,"[0.0, 0.0]","",activity,enemy_activity,{},3036903,Armentières,"[2.88214, 50.68568]"
+11,AWD0002wzi,diary,11,5,1915-09-01 00:00:00 UTC,1 Sep 1915,Rue du Bois,"[0.0, 0.0]","",casualties,wounded: 6,{},3036903,Armentières,"[2.88214, 50.68568]"
+12,AWD0002wzi,diary,11,5,1915-09-02 00:00:00 UTC,2 Sep 1915,Rue du Bois,"[0.0, 0.0]","",diaryDate,2 Sep 1915,"{""day""=>[""2""], ""month""=>[""Sep""], ""year""=>[""1915""]}",3036903,Armentières,"[2.88214, 50.68568]"
+13,AWD0002wzi,diary,11,5,1915-09-02 00:00:00 UTC,2 Sep 1915,Rue du Bois,"[0.0, 0.0]","",activity,reconnoitered,{},3036903,Armentières,"[2.88214, 50.68568]"
+14,AWD0002wzi,diary,11,2,1915-09-02 00:00:00 UTC,2 Sep 1915,Rue du Bois,"[0.0, 0.0]","",activity,attack,{},3036903,Armentières,"[2.88214, 50.68568]"
+17,AWD0002wzi,diary,11,3,1915-09-02 00:00:00 UTC,2 Sep 1915,Rue du Bois,"[0.0, 0.0]","",casualties,wounded: 14,{},3036903,Armentières,"[2.88214, 50.68568]"
+18,AWD0002wzi,diary,11,5,1915-09-03 00:00:00 UTC,3 Sep 1915,Rue du Bois,"[0.0, 0.0]","",diaryDate,3 Sep 1915,"{""day""=>[""3""], ""month""=>[""Sep""], ""year""=>[""1915""]}",3036903,Armentières,"[2.88214, 50.68568]"
+19,AWD0002wzi,diary,11,2,1915-09-03 00:00:00 UTC,3 Sep 1915,Rue du Bois,"[0.0, 0.0]","",activity,quiet,{},3036903,Armentières,"[2.88214, 50.68568]"
+20,AWD0002wzi,diary,11,5,1915-09-03 00:00:00 UTC,3 Sep 1915,Rue du Bois,"[0.0, 0.0]","",weather,rain,{},3036903,Armentières,"[2.88214, 50.68568]"
+24,AWD0002wzi,diary,11,2,1915-09-03 00:00:00 UTC,3 Sep 1915,Rue du Bois,"[0.0, 0.0]","",casualties,wounded: 5,{},3036903,Armentières,"[2.88214, 50.68568]"
+25,AWD0002wzi,diary,11,3,1915-09-03 00:00:00 UTC,3 Sep 1915,Rue du Bois,"[0.0, 0.0]","",casualties,died: 2,{},3036903,Armentières,"[2.88214, 50.68568]"
+1,AWD0002wzt,diary,12,5,1915-09-04 00:00:00 UTC,4 Sep 1915,Rue du Bois,"[0.0, 0.0]","",diaryDate,4 Sep 1915,"{""day""=>[""4""], ""month""=>[""Sep""], ""year""=>[""1915""]}",3036903,Armentières,"[2.88214, 50.68568]"
+7,AWD0002wzt,diary,12,2,1915-09-04 00:00:00 UTC,4 Sep 1915,Rue du Bois,"[0.0, 0.0]","",activity,line,{},3036903,Armentières,"[2.88214, 50.68568]"
+8,AWD0002wzt,diary,12,4,1915-09-04 00:00:00 UTC,4 Sep 1915,Rue du Bois,"[0.0, 0.0]","",activity,reconnoitered,{},3036903,Armentières,"[2.88214, 50.68568]"
+10,AWD0002wzt,diary,12,3,1915-09-04 00:00:00 UTC,4 Sep 1915,Rue du Bois,"[0.0, 0.0]","",activity,repair,{},3036903,Armentières,"[2.88214, 50.68568]"
+11,AWD0002wzt,diary,12,4,1915-09-04 00:00:00 UTC,4 Sep 1915,Rue du Bois,"[0.0, 0.0]","",weather,rain,{},3036903,Armentières,"[2.88214, 50.68568]"
+15,AWD0002wzt,diary,12,2,1915-09-04 00:00:00 UTC,4 Sep 1915,Rue du Bois,"[0.0, 0.0]","",casualties,"killed: 1, wounded: 3",{},3036903,Armentières,"[2.88214, 50.68568]"
+16,AWD0002wzt,diary,12,3,1915-09-04 00:00:00 UTC,4 Sep 1915,Rue du Bois,"[0.0, 0.0]","",casualties,wounded: 3,{},3036903,Armentières,"[2.88214, 50.68568]"
+17,AWD0002wzt,diary,12,5,1915-09-05 00:00:00 UTC,5 Sep 1915,Rue du Bois,"[0.0, 0.0]","",diaryDate,5 Sep 1915,"{""day""=>[""5""], ""month""=>[""Sep""], ""year""=>[""1915""]}",3036903,Armentières,"[2.88214, 50.68568]"
+19,AWD0002wzt,diary,12,3,1915-09-05 00:00:00 UTC,5 Sep 1915,Rue du Bois,"[0.0, 0.0]","",activity,attack,{},3036903,Armentières,"[2.88214, 50.68568]"
+21,AWD0002wzt,diary,12,2,1915-09-05 00:00:00 UTC,5 Sep 1915,Rue du Bois,"[0.0, 0.0]","",unit,59th Battery,"{""name""=>[""59th Battery""], ""context""=>[""other"", ""joined""]}",3036903,Armentières,"[2.88214, 50.68568]"
+22,AWD0002wzt,diary,12,4,1915-09-05 00:00:00 UTC,5 Sep 1915,Rue du Bois,"[0.0, 0.0]","",activity,attack,{},3036903,Armentières,"[2.88214, 50.68568]"
+23,AWD0002wzt,diary,12,2,1915-09-05 00:00:00 UTC,5 Sep 1915,Rue du Bois,"[0.0, 0.0]","",place,Ferme du Bois,"{""place""=>[""Ferme du Bois""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3036903,Armentières,"[2.88214, 50.68568]"
+24,AWD0002wzt,diary,12,2,1915-09-05 00:00:00 UTC,5 Sep 1915,Rue du Bois,"[0.0, 0.0]","",activity,enemy_activity,{},3036903,Armentières,"[2.88214, 50.68568]"
+26,AWD0002wzt,diary,12,2,1915-09-05 00:00:00 UTC,5 Sep 1915,Rue du Bois,"[0.0, 0.0]","",casualties,wounded: 10,{},3036903,Armentières,"[2.88214, 50.68568]"
+27,AWD0002wzt,diary,12,4,1915-09-05 00:00:00 UTC,5 Sep 1915,Rue du Bois,"[0.0, 0.0]","",person,"Captain ,Fakir Fakir Mohammad, Muhammad, Fakir Muhammad, Mohammad","{""first""=>["""", ""Fakir""], ""surname""=>[""Fakir Mohammad"", ""Muhammad"", ""Fakir Muhammad"", ""Mohammad""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""casualty_died""], ""unit""=>[""""]}",3036903,Armentières,"[2.88214, 50.68568]"
+29,AWD0002wzt,diary,12,2,1915-09-05 00:00:00 UTC,5 Sep 1915,Rue du Bois,"[0.0, 0.0]","",casualties,wounded: 6,{},3036903,Armentières,"[2.88214, 50.68568]"
+31,AWD0002wzt,diary,12,5,1915-09-06 00:00:00 UTC,6 Sep 1915,Rue du Bois,"[0.0, 0.0]","",diaryDate,6 Sep 1915,"{""day""=>[""6""], ""month""=>[""Sep""], ""year""=>[""1915""]}",3036903,Armentières,"[2.88214, 50.68568]"
+33,AWD0002wzt,diary,12,3,1915-09-06 00:00:00 UTC,6 Sep 1915,Rue du Bois,"[0.0, 0.0]","",activity,repair,{},3036903,Armentières,"[2.88214, 50.68568]"
+34,AWD0002wzt,diary,12,2,1915-09-06 00:00:00 UTC,6 Sep 1915,Rue du Bois,"[0.0, 0.0]","",place,Boars Head,"{""place""=>[""Boars Head""], ""location""=>[""false"", ""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3036903,Armentières,"[2.88214, 50.68568]"
+36,AWD0002wzt,diary,12,3,1915-09-06 00:00:00 UTC,6 Sep 1915,Rue du Bois,"[0.0, 0.0]","",casualties,wounded: 6,{},3036903,Armentières,"[2.88214, 50.68568]"
+1,AWD0002wyx,diary,13,4,1915-06-21 00:00:00 UTC,21 Jun 1915,Rue du Bois,"[0.0, 0.0]","",diaryDate,21 Jun 1915,"{""day""=>[""21""], ""month""=>[""Jun""], ""year""=>[""1915""]}",3036903,Armentières,"[2.88214, 50.68568]"
+2,AWD0002wyx,diary,13,4,1915-06-21 07:00:00 UTC,21 Jun 1915,Rue du Bois,"[0.0, 0.0]",0700AM,time,0700AM,{},3036903,Armentières,"[2.88214, 50.68568]"
+4,AWD0002wyx,diary,13,2,1915-06-21 07:00:00 UTC,21 Jun 1915,Rue du Bois,"[0.0, 0.0]",0700AM,activity,working,{},3036903,Armentières,"[2.88214, 50.68568]"
+6,AWD0002wyx,diary,13,3,1915-06-21 07:00:00 UTC,21 Jun 1915,Rue du Bois,"[0.0, 0.0]",0700AM,domestic,hygiene,{},3036903,Armentières,"[2.88214, 50.68568]"
+7,AWD0002wyx,diary,13,4,1915-06-21 18:00:00 UTC,21 Jun 1915,Rue du Bois,"[0.0, 0.0]",0600PM,time,0600PM,{},3036903,Armentières,"[2.88214, 50.68568]"
+8,AWD0002wyx,diary,13,3,1915-06-21 00:00:00 UTC,21 Jun 1915,Rue du Bois,"[0.0, 0.0]",1200AM,time,1200AM,{},3036903,Armentières,"[2.88214, 50.68568]"
+9,AWD0002wyx,diary,13,2,1915-06-21 00:00:00 UTC,21 Jun 1915,Rue du Bois,"[0.0, 0.0]",1200AM,activity,construction,{},3036903,Armentières,"[2.88214, 50.68568]"
+11,AWD0002wyx,diary,13,5,1915-06-21 00:00:00 UTC,21 Jun 1915,Rue du Bois,"[0.0, 0.0]",1200AM,activity,working,{},3036903,Armentières,"[2.88214, 50.68568]"
+12,AWD0002wyx,diary,13,4,1915-06-21 21:00:00 UTC,21 Jun 1915,Rue du Bois,"[0.0, 0.0]",0900PM,time,0900PM,{},3036903,Armentières,"[2.88214, 50.68568]"
+15,AWD0002wyx,diary,13,4,1915-06-21 01:30:00 UTC,21 Jun 1915,Rue du Bois,"[0.0, 0.0]",0130AM,time,0130AM,{},3036903,Armentières,"[2.88214, 50.68568]"
+22,AWD0002wyx,diary,13,3,1915-06-22 00:00:00 UTC,22 Jun 1915,Rue du Bois,"[0.0, 0.0]","",diaryDate,22 Jun 1915,"{""day""=>[""22""], ""month""=>[""Jun""], ""year""=>[""1915""]}",3036903,Armentières,"[2.88214, 50.68568]"
+25,AWD0002wyx,diary,13,4,1915-06-22 22:00:00 UTC,22 Jun 1915,Rue du Bois,"[0.0, 0.0]",1000PM,time,1000PM,{},3036903,Armentières,"[2.88214, 50.68568]"
+26,AWD0002wyx,diary,13,3,1915-06-22 22:00:00 UTC,22 Jun 1915,Rue du Bois,"[0.0, 0.0]",1000PM,activity,working,{},3036903,Armentières,"[2.88214, 50.68568]"
+27,AWD0002wyx,diary,13,3,1915-06-22 22:00:00 UTC,22 Jun 1915,Rue du Bois,"[0.0, 0.0]",1000PM,unit,34th Pioneers,"{""name""=>[""34th Pioneers""], ""context""=>[""joined""]}",3036903,Armentières,"[2.88214, 50.68568]"
+30,AWD0002wyx,diary,13,4,1915-06-22 01:30:00 UTC,22 Jun 1915,Rue du Bois,"[0.0, 0.0]",0130AM,time,0130AM,{},3036903,Armentières,"[2.88214, 50.68568]"
+33,AWD0002wyx,diary,13,2,1915-06-22 01:30:00 UTC,22 Jun 1915,Rue du Bois,"[0.0, 0.0]",0130AM,casualties,"wounded: 1, sick: 1",{},3036903,Armentières,"[2.88214, 50.68568]"
+35,AWD0002wyx,diary,13,4,1915-06-23 00:00:00 UTC,23 Jun 1915,Rue du Bois,"[0.0, 0.0]","",diaryDate,23 Jun 1915,"{""day""=>[""23""], ""month""=>[""Jun""], ""year""=>[""1915""]}",3036903,Armentières,"[2.88214, 50.68568]"
+36,AWD0002wyx,diary,13,4,1915-06-23 00:00:00 UTC,23 Jun 1915,Rue du Bois,"[0.0, 0.0]","",person,Lieutenant  Campbell,"{""first""=>[""""], ""surname""=>[""Campbell""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",3036903,Armentières,"[2.88214, 50.68568]"
+37,AWD0002wyx,diary,13,4,1915-06-23 00:00:00 UTC,23 Jun 1915,Rue du Bois,"[0.0, 0.0]","",person,Captain  James,"{""first""=>[""""], ""surname""=>[""James""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",3036903,Armentières,"[2.88214, 50.68568]"
+38,AWD0002wyx,diary,13,3,1915-06-23 00:00:00 UTC,23 Jun 1915,Rue du Bois,"[0.0, 0.0]","",person,Lieutenant  Green,"{""first""=>[""""], ""surname""=>[""Green""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",3036903,Armentières,"[2.88214, 50.68568]"
+39,AWD0002wyx,diary,13,2,1915-06-23 00:00:00 UTC,23 Jun 1915,Rue du Bois,"[0.0, 0.0]","",place,Port Arthur,"{""place""=>[""Port Arthur""], ""location""=>[""false"", ""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3036903,Armentières,"[2.88214, 50.68568]"
+40,AWD0002wyx,diary,13,4,1915-06-23 00:00:00 UTC,23 Jun 1915,Rue du Bois,"[0.0, 0.0]","",activity,training,{},3036903,Armentières,"[2.88214, 50.68568]"
+43,AWD0002wyx,diary,13,2,1915-06-23 00:00:00 UTC,23 Jun 1915,Rue du Bois,"[0.0, 0.0]","",casualties,wounded: 1,{},3036903,Armentières,"[2.88214, 50.68568]"
+44,AWD0002wyx,diary,13,4,1915-06-23 21:30:00 UTC,23 Jun 1915,Rue du Bois,"[0.0, 0.0]",0930PM,time,0930PM,{},3036903,Armentières,"[2.88214, 50.68568]"
+45,AWD0002wyx,diary,13,3,1915-06-23 21:30:00 UTC,23 Jun 1915,Rue du Bois,"[0.0, 0.0]",0930PM,activity,reserve,{},3036903,Armentières,"[2.88214, 50.68568]"
+46,AWD0002wyx,diary,13,3,1915-06-23 21:30:00 UTC,23 Jun 1915,Rue du Bois,"[0.0, 0.0]",0930PM,activity,movement,{},3036903,Armentières,"[2.88214, 50.68568]"
+47,AWD0002wyx,diary,13,3,1915-06-23 21:30:00 UTC,23 Jun 1915,Rue du Bois,"[0.0, 0.0]",0930PM,activity,line,{},3036903,Armentières,"[2.88214, 50.68568]"
+48,AWD0002wyx,diary,13,3,1915-06-23 21:30:00 UTC,23 Jun 1915,Rue du Bois,"[0.0, 0.0]",0930PM,unit,129th Baluchis,"{""name""=>[""129th Baluchis""], ""context""=>[""relieved""]}",3036903,Armentières,"[2.88214, 50.68568]"
+51,AWD0002wyx,diary,13,4,1915-06-24 00:00:00 UTC,24 Jun 1915,Rue du Bois,"[0.0, 0.0]","",diaryDate,24 Jun 1915,"{""day""=>[""24""], ""month""=>[""Jun""], ""year""=>[""1915""]}",3036903,Armentières,"[2.88214, 50.68568]"
+53,AWD0002wyx,diary,13,3,1915-06-24 00:00:00 UTC,24 Jun 1915,Rue du Bois,"[0.0, 0.0]","",casualties,wounded: 2,{},3036903,Armentières,"[2.88214, 50.68568]"
+54,AWD0002wyx,diary,13,4,1915-06-25 00:00:00 UTC,25 Jun 1915,Rue du Bois,"[0.0, 0.0]","",diaryDate,25 Jun 1915,"{""day""=>[""25""], ""month""=>[""Jun""], ""year""=>[""1915""]}",3036903,Armentières,"[2.88214, 50.68568]"
+57,AWD0002wyx,diary,13,2,1915-06-25 21:15:00 UTC,25 Jun 1915,Rue du Bois,"[0.0, 0.0]",0915PM,time,0915PM,{},3036903,Armentières,"[2.88214, 50.68568]"
+60,AWD0002wyx,diary,13,2,1915-06-25 21:15:00 UTC,25 Jun 1915,Rue du Bois,"[0.0, 0.0]",0915PM,unit,Connaught Rangers,"{""name""=>[""Connaught Rangers""], ""context""=>[""relieved""]}",3036903,Armentières,"[2.88214, 50.68568]"
+64,AWD0002wyx,diary,13,4,1915-06-25 21:15:00 UTC,25 Jun 1915,Rue du Bois,"[0.0, 0.0]",0915PM,person,Captain E J Burdett,"{""first""=>[""E J""], ""surname""=>[""Burdett""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""casualty_kia""], ""unit""=>[""XIth Rajputs""]}",3036903,Armentières,"[2.88214, 50.68568]"
+1,AWD0002x0p,diary,14,5,1915-09-07 00:00:00 UTC,7 Sep 1915,Rue du Bois,"[0.0, 0.0]","",diaryDate,7 Sep 1915,"{""day""=>[""7""], ""month""=>[""Sep""], ""year""=>[""1915""]}",3036903,Armentières,"[2.88214, 50.68568]"
+2,AWD0002x0p,diary,14,3,1915-09-07 00:00:00 UTC,7 Sep 1915,Rue du Bois,"[0.0, 0.0]","",activity,quiet,{},3036903,Armentières,"[2.88214, 50.68568]"
+4,AWD0002x0p,diary,14,3,1915-09-07 00:00:00 UTC,7 Sep 1915,Rue du Bois,"[0.0, 0.0]","",place,Ferme du Bois,"{""place""=>[""Ferme du Bois""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3036903,Armentières,"[2.88214, 50.68568]"
+7,AWD0002x0p,diary,14,3,1915-09-07 00:00:00 UTC,7 Sep 1915,Rue du Bois,"[0.0, 0.0]","",activity,attack,{},3036903,Armentières,"[2.88214, 50.68568]"
+9,AWD0002x0p,diary,14,2,1915-09-07 00:00:00 UTC,7 Sep 1915,Rue du Bois,"[0.0, 0.0]","",activity,attack,{},3036903,Armentières,"[2.88214, 50.68568]"
+12,AWD0002x0p,diary,14,3,1915-09-07 00:00:00 UTC,7 Sep 1915,Rue du Bois,"[0.0, 0.0]","",casualties,"died: 1, wounded: 4",{},3036903,Armentières,"[2.88214, 50.68568]"
+13,AWD0002x0p,diary,14,5,1915-09-08 00:00:00 UTC,8 Sep 1915,Rue du Bois,"[0.0, 0.0]","",diaryDate,8 Sep 1915,"{""day""=>[""8""], ""month""=>[""Sep""], ""year""=>[""1915""]}",3036903,Armentières,"[2.88214, 50.68568]"
+15,AWD0002x0p,diary,14,5,1915-09-08 00:00:00 UTC,8 Sep 1915,Rue du Bois,"[0.0, 0.0]","",activity,fire,{},3036903,Armentières,"[2.88214, 50.68568]"
+16,AWD0002x0p,diary,14,3,1915-09-08 00:00:00 UTC,8 Sep 1915,Rue du Bois,"[0.0, 0.0]","",unit,59th Battery,"{""name""=>[""59th Battery""], ""context""=>[""other""]}",3036903,Armentières,"[2.88214, 50.68568]"
+17,AWD0002x0p,diary,14,2,1915-09-08 00:00:00 UTC,8 Sep 1915,Rue du Bois,"[0.0, 0.0]","",activity,attack,{},3036903,Armentières,"[2.88214, 50.68568]"
+18,AWD0002x0p,diary,14,3,1915-09-08 00:00:00 UTC,8 Sep 1915,Rue du Bois,"[0.0, 0.0]","",place,Ferme du Bois,"{""place""=>[""Ferme du Bois""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3036903,Armentières,"[2.88214, 50.68568]"
+19,AWD0002x0p,diary,14,4,1915-09-08 00:00:00 UTC,8 Sep 1915,Rue du Bois,"[0.0, 0.0]","",activity,reconnoitered,{},3036903,Armentières,"[2.88214, 50.68568]"
+20,AWD0002x0p,diary,14,4,1915-09-08 00:00:00 UTC,8 Sep 1915,Rue du Bois,"[0.0, 0.0]","",activity,attack,{},3036903,Armentières,"[2.88214, 50.68568]"
+23,AWD0002x0p,diary,14,3,1915-09-08 00:00:00 UTC,8 Sep 1915,Rue du Bois,"[0.0, 0.0]","",activity,enemy_activity,{},3036903,Armentières,"[2.88214, 50.68568]"
+24,AWD0002x0p,diary,14,5,1915-09-09 00:00:00 UTC,9 Sep 1915,Rue du Bois,"[0.0, 0.0]","",diaryDate,9 Sep 1915,"{""day""=>[""9""], ""month""=>[""Sep""], ""year""=>[""1915""]}",3036903,Armentières,"[2.88214, 50.68568]"
+25,AWD0002x0p,diary,14,4,1915-09-09 00:00:00 UTC,9 Sep 1915,Rue du Bois,"[0.0, 0.0]","",casualties,wounded: 3,{},3036903,Armentières,"[2.88214, 50.68568]"
+27,AWD0002x0p,diary,14,5,1915-09-09 00:00:00 UTC,9 Sep 1915,Rue du Bois,"[0.0, 0.0]","",activity,fire,{},3036903,Armentières,"[2.88214, 50.68568]"
+28,AWD0002x0p,diary,14,6,1915-09-09 00:00:00 UTC,9 Sep 1915,Rue du Bois,"[0.0, 0.0]","",unit,57th Rifles,"{""name""=>[""57th Rifles""], ""context""=>[""other"", ""relieved_by""]}",3036903,Armentières,"[2.88214, 50.68568]"
+29,AWD0002x0p,diary,14,3,1915-09-09 21:45:00 UTC,9 Sep 1915,Rue du Bois,"[0.0, 0.0]",0945PM,time,0945PM,{},3036903,Armentières,"[2.88214, 50.68568]"
+30,AWD0002x0p,diary,14,2,1915-09-09 21:45:00 UTC,9 Sep 1915,Rue du Bois,"[0.0, 0.0]",0945PM,activity,movement,{},3036903,Armentières,"[2.88214, 50.68568]"
+32,AWD0002x0p,diary,14,3,1915-09-09 21:45:00 UTC,9 Sep 1915,Rue du Bois,"[0.0, 0.0]",0945PM,activity,reserve,{},3036903,Armentières,"[2.88214, 50.68568]"
+33,AWD0002x0p,diary,14,2,1915-09-09 21:45:00 UTC,9 Sep 1915,Rue du Bois,"[0.0, 0.0]",0945PM,place,Fettes Road,"{""place""=>[""Fettes Road""], ""location""=>[""false"", ""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3036903,Armentières,"[2.88214, 50.68568]"
+1,AWD0002x03,diary,15,5,1915-09-09 00:00:00 UTC,9 Sep 1915,Rue du Bois,"[0.0, 0.0]","",diaryDate,9 Sep 1915,"{""day""=>[""9""], ""month""=>[""Sep""], ""year""=>[""1915""]}",3036903,Armentières,"[2.88214, 50.68568]"
+4,AWD0002x03,diary,15,3,1915-09-09 00:00:00 UTC,9 Sep 1915,"Richebourg-St-Vaast, Richebourg Saint Vaast, Richebourg St Vaast","[0.0, 0.0]","",place,"Richebourg-St-Vaast, Richebourg Saint Vaast, Richebourg St Vaast","{""place""=>[""Richebourg-St-Vaast"", ""Richebourg Saint Vaast"", ""Richebourg St Vaast""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",8260618,Richebourg-Saint-Vaast,"[2.73813, 50.57871]"
+6,AWD0002x03,diary,15,2,1915-09-09 00:00:00 UTC,9 Sep 1915,"Richebourg-St-Vaast, Richebourg Saint Vaast, Richebourg St Vaast","[0.0, 0.0]","",unit,"3 coy, 4 coy","{""name""=>[""3 coy"", ""4 coy""], ""context""=>[""other""]}",8260618,Richebourg-Saint-Vaast,"[2.73813, 50.57871]"
+7,AWD0002x03,diary,15,2,1915-09-09 00:00:00 UTC,9 Sep 1915,"Richebourg-St-Vaast, Richebourg Saint Vaast, Richebourg St Vaast","[0.0, 0.0]","",activity,reserve,{},8260618,Richebourg-Saint-Vaast,"[2.73813, 50.57871]"
+9,AWD0002x03,diary,15,3,1915-09-09 00:00:00 UTC,9 Sep 1915,Rue du Bois,"[0.0, 0.0]","",place,Rue du Bois,"{""place""=>[""Rue du Bois""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3036903,Armentières,"[2.88214, 50.68568]"
+20,AWD0002x03,diary,15,3,1915-09-09 00:00:00 UTC,9 Sep 1915,Rue du Bois,"[0.0, 0.0]","",activity,fire,{},3036903,Armentières,"[2.88214, 50.68568]"
+22,AWD0002x03,diary,15,2,1915-09-09 00:00:00 UTC,9 Sep 1915,Rue du Bois,"[0.0, 0.0]","",activity,fire,{},3036903,Armentières,"[2.88214, 50.68568]"
+23,AWD0002x03,diary,15,3,1915-09-09 00:00:00 UTC,9 Sep 1915,Rue du Bois,"[0.0, 0.0]","",activity,attack,{},3036903,Armentières,"[2.88214, 50.68568]"
+24,AWD0002x03,diary,15,2,1915-09-09 00:00:00 UTC,9 Sep 1915,Rue du Bois,"[0.0, 0.0]","",casualties,casualties: 0,{},3036903,Armentières,"[2.88214, 50.68568]"
+25,AWD0002x03,diary,15,5,1915-09-10 00:00:00 UTC,10 Sep 1915,Rue du Bois,"[0.0, 0.0]","",diaryDate,10 Sep 1915,"{""day""=>[""10""], ""month""=>[""Sep""], ""year""=>[""1915""]}",3036903,Armentières,"[2.88214, 50.68568]"
+27,AWD0002x03,diary,15,2,1915-09-10 00:00:00 UTC,10 Sep 1915,Rue du Bois,"[0.0, 0.0]","",domestic,accomodation,{},3036903,Armentières,"[2.88214, 50.68568]"
+28,AWD0002x03,diary,15,2,1915-09-10 00:00:00 UTC,10 Sep 1915,Rue du Bois,"[0.0, 0.0]","",domestic,other,{},3036903,Armentières,"[2.88214, 50.68568]"
+30,AWD0002x03,diary,15,5,1915-09-10 19:15:00 UTC,10 Sep 1915,Rue du Bois,"[0.0, 0.0]",0715PM,time,0715PM,{},3036903,Armentières,"[2.88214, 50.68568]"
+32,AWD0002x03,diary,15,3,1915-09-10 19:15:00 UTC,10 Sep 1915,Rue du Bois,"[0.0, 0.0]",0715PM,activity,working,{},3036903,Armentières,"[2.88214, 50.68568]"
+33,AWD0002x03,diary,15,3,1915-09-10 19:15:00 UTC,10 Sep 1915,Rue du Bois,"[0.0, 0.0]",0715PM,activity,repair,{},3036903,Armentières,"[2.88214, 50.68568]"
+34,AWD0002x03,diary,15,2,1915-09-10 19:15:00 UTC,10 Sep 1915,Rue du Bois,"[0.0, 0.0]",0715PM,casualties,casualties: 0,{},3036903,Armentières,"[2.88214, 50.68568]"
+1,AWD0002wyn,diary,16,5,1915-09-11 00:00:00 UTC,11 Sep 1915,Rue du Bois,"[0.0, 0.0]","",diaryDate,11 Sep 1915,"{""day""=>[""11""], ""month""=>[""Sep""], ""year""=>[""1915""]}",3036903,Armentières,"[2.88214, 50.68568]"
+2,AWD0002wyn,diary,16,2,1915-09-11 00:00:00 UTC,11 Sep 1915,Rue du Bois,"[0.0, 0.0]","",activity,reserve,{},3036903,Armentières,"[2.88214, 50.68568]"
+3,AWD0002wyn,diary,16,3,1915-09-11 00:00:00 UTC,11 Sep 1915,Rue du Bois,"[0.0, 0.0]","",activity,repair,{},3036903,Armentières,"[2.88214, 50.68568]"
+9,AWD0002wyn,diary,16,4,1915-09-11 00:00:00 UTC,11 Sep 1915,Rue du Bois,"[0.0, 0.0]","",person,Captain R F D Burnett,"{""first""=>[""R F D""], ""surname""=>[""Burnett""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""award""], ""unit""=>[""42nd Deoli Regt"", ""42nd D.E.O.L.I Regiment"", ""42nd Deoli Reg."", ""Awarded MC""]}",3036903,Armentières,"[2.88214, 50.68568]"
+11,AWD0002wyn,diary,16,3,1915-09-11 00:00:00 UTC,11 Sep 1915,Rue du Bois,"[0.0, 0.0]","",person,"Corporal Muhammad Sadik, D.S.M, Muhammad Sadik, Sadik","{""first""=>[""Muhammad""], ""surname""=>[""Sadik, D.S.M"", ""Muhammad Sadik"", ""Sadik""], ""rank""=>[""Corporal""], ""number""=>[""""], ""reason""=>[""award""], ""unit""=>[""""]}",3036903,Armentières,"[2.88214, 50.68568]"
+14,AWD0002wyn,diary,16,4,1915-09-11 00:00:00 UTC,11 Sep 1915,Rue du Bois,"[0.0, 0.0]","",person,"Private,other Indar, Indar Singh","{""first""=>[""Indar"", """"], ""surname""=>[""Indar Singh""], ""rank""=>[""Private"", ""other""], ""number""=>[""2316""], ""reason""=>[""award""], ""unit""=>[""""]}",3036903,Armentières,"[2.88214, 50.68568]"
+15,AWD0002wyn,diary,16,2,1915-09-12 00:00:00 UTC,12 Sep 1915,Rue du Bois,"[0.0, 0.0]","",diaryDate,12 Sep 1915,"{""day""=>[""12""], ""month""=>[""Sep""], ""year""=>[""1915""]}",3036903,Armentières,"[2.88214, 50.68568]"
+17,AWD0002wyn,diary,16,3,1915-09-12 00:00:00 UTC,12 Sep 1915,Rue du Bois,"[0.0, 0.0]","",diaryDate,12 Sep 1915,"{""day""=>[""12""], ""month""=>[""Sep""], ""year""=>[""1915""]}",3036903,Armentières,"[2.88214, 50.68568]"
+19,AWD0002wyn,diary,16,4,1915-09-12 00:00:00 UTC,12 Sep 1915,Rue du Bois,"[0.0, 0.0]","",activity,repair,{},3036903,Armentières,"[2.88214, 50.68568]"
+21,AWD0002wyn,diary,16,4,1915-09-12 00:00:00 UTC,12 Sep 1915,Rue du Bois,"[0.0, 0.0]","",activity,training,{},3036903,Armentières,"[2.88214, 50.68568]"
+23,AWD0002wyn,diary,16,4,1915-09-13 00:00:00 UTC,13 Sep 1915,Rue du Bois,"[0.0, 0.0]","",diaryDate,13 Sep 1915,"{""day""=>[""13""], ""month""=>[""Sep""], ""year""=>[""1915""]}",3036903,Armentières,"[2.88214, 50.68568]"
+24,AWD0002wyn,diary,16,2,1915-09-13 00:00:00 UTC,13 Sep 1915,Rue du Bois,"[0.0, 0.0]","",activity,reserve,{},3036903,Armentières,"[2.88214, 50.68568]"
+30,AWD0002wyn,diary,16,2,1915-09-18 00:00:00 UTC,18 Sep 1915,Rue du Bois,"[0.0, 0.0]","",diaryDate,18 Sep 1915,"{""day""=>[""18""], ""month""=>[""Sep""], ""year""=>[""1915""]}",3036903,Armentières,"[2.88214, 50.68568]"
+37,AWD0002wyn,diary,16,2,1915-09-18 00:00:00 UTC,18 Sep 1915,Rue du Bois,"[0.0, 0.0]","",casualties,wounded: 2,{},3036903,Armentières,"[2.88214, 50.68568]"
+1,AWD0002x0a,diary,17,2,1915-09-11 00:00:00 UTC,11 Sep 1915,Rue du Bois,"[0.0, 0.0]","",diaryDate,11 Sep 1915,"{""day""=>[""11""], ""month""=>[""Sep""], ""year""=>[""1915""]}",3036903,Armentières,"[2.88214, 50.68568]"
+3,AWD0002x0a,diary,17,2,1915-09-12 00:00:00 UTC,12 Sep 1915,Rue du Bois,"[0.0, 0.0]","",diaryDate,12 Sep 1915,"{""day""=>[""12""], ""month""=>[""Sep""], ""year""=>[""1915""]}",3036903,Armentières,"[2.88214, 50.68568]"
+4,AWD0002x0a,diary,17,2,1915-09-13 00:00:00 UTC,13 Sep 1915,Rue du Bois,"[0.0, 0.0]","",diaryDate,13 Sep 1915,"{""day""=>[""13""], ""month""=>[""Sep""], ""year""=>[""1915""]}",3036903,Armentières,"[2.88214, 50.68568]"
+1,AWD0002wzl,diary,18,5,1915-09-19 00:00:00 UTC,19 Sep 1915,Rue du Bois,"[0.0, 0.0]","",diaryDate,19 Sep 1915,"{""day""=>[""19""], ""month""=>[""Sep""], ""year""=>[""1915""]}",3036903,Armentières,"[2.88214, 50.68568]"
+2,AWD0002wzl,diary,18,4,1915-09-19 00:00:00 UTC,19 Sep 1915,Rue du Bois,"[0.0, 0.0]","",activity,reserve,{},3036903,Armentières,"[2.88214, 50.68568]"
+3,AWD0002wzl,diary,18,4,1915-09-19 00:00:00 UTC,19 Sep 1915,Rue du Bois,"[0.0, 0.0]","",activity,repair,{},3036903,Armentières,"[2.88214, 50.68568]"
+5,AWD0002wzl,diary,18,2,1915-09-20 00:00:00 UTC,20 Sep 1915,Rue du Bois,"[0.0, 0.0]","",diaryDate,20 Sep 1915,"{""day""=>[""20""], ""month""=>[""Sep""], ""year""=>[""1915""]}",3036903,Armentières,"[2.88214, 50.68568]"
+6,AWD0002wzl,diary,18,2,1915-09-20 00:00:00 UTC,20 Sep 1915,Rue du Bois,"[0.0, 0.0]","",activity,reserve,{},3036903,Armentières,"[2.88214, 50.68568]"
+7,AWD0002wzl,diary,18,2,1915-09-20 00:00:00 UTC,20 Sep 1915,Richebourg,"[2.74884, 50.56999]","",place,Richebourg,"{""place""=>[""Richebourg""], ""location""=>[""true""], ""name""=>[""Richebourg-l'Avoué""], ""lat""=>[""50.56999""], ""long""=>[""2.74884""], ""id""=>[""2983656""]}",2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+10,AWD0002wzl,diary,18,3,1915-09-23 00:00:00 UTC,23 Sep 1915,Richebourg,"[2.74884, 50.56999]","",diaryDate,23 Sep 1915,"{""day""=>[""23""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+14,AWD0002wzl,diary,18,2,1915-09-23 00:00:00 UTC,23 Sep 1915,Richebourg,"[2.74884, 50.56999]","",unit,57th Rifles,"{""name""=>[""57th Rifles""], ""context""=>[""relieved""]}",2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+15,AWD0002wzl,diary,18,2,1915-09-23 21:05:00 UTC,23 Sep 1915,Richebourg,"[2.74884, 50.56999]",0905PM,time,0905PM,{},2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+18,AWD0002wzl,diary,18,2,1915-09-23 21:05:00 UTC,23 Sep 1915,Richebourg,"[2.74884, 50.56999]",0905PM,casualties,wounded: 1,{},2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+19,AWD0002wzl,diary,18,3,1915-09-24 00:00:00 UTC,24 Sep 1915,Richebourg,"[2.74884, 50.56999]","",diaryDate,24 Sep 1915,"{""day""=>[""24""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+22,AWD0002wzl,diary,18,3,1915-09-24 00:00:00 UTC,24 Sep 1915,Richebourg,"[2.74884, 50.56999]","",person,Colonel  Campbell,"{""first""=>[""""], ""surname""=>[""Campbell""], ""rank""=>[""Colonel""], ""number""=>[""""], ""reason""=>[""departed_posted""], ""unit""=>[""""]}",2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+24,AWD0002wzl,diary,18,3,1915-09-24 00:00:00 UTC,24 Sep 1915,Richebourg,"[2.74884, 50.56999]","",person,Lieutenant Colonel E R B Murray,"{""first""=>[""E R B""], ""surname""=>[""Murray""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+29,AWD0002wzl,diary,18,2,1915-09-24 00:00:00 UTC,24 Sep 1915,Richebourg,"[2.74884, 50.56999]","",casualties,wounded: 4,{},2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+4,AWD0002wyb,diary,19,2,1915-09-24 04:30:00 UTC,24 Sep 1915,Richebourg,"[2.74884, 50.56999]",0430AM,time,0430AM,{},2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+5,AWD0002wyb,diary,19,4,1915-09-25 00:00:00 UTC,25 Sep 1915,Richebourg,"[2.74884, 50.56999]","",diaryDate,25 Sep 1915,"{""day""=>[""25""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+6,AWD0002wyb,diary,19,3,1915-09-25 00:00:00 UTC,25 Sep 1915,Richebourg,"[2.74884, 50.56999]","",activity,attack,{},2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+7,AWD0002wyb,diary,19,4,1915-09-25 05:56:00 UTC,25 Sep 1915,Richebourg,"[2.74884, 50.56999]",0556AM,time,0556AM,{},2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+8,AWD0002wyb,diary,19,2,1915-09-25 05:56:00 UTC,25 Sep 1915,Richebourg,"[2.74884, 50.56999]",0556AM,activity,attack,{},2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+10,AWD0002wyb,diary,19,4,1915-09-25 07:50:00 UTC,25 Sep 1915,Richebourg,"[2.74884, 50.56999]",0750AM,time,0750AM,{},2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+12,AWD0002wyb,diary,19,4,1915-09-25 07:50:00 UTC,25 Sep 1915,Richebourg,"[2.74884, 50.56999]",0750AM,activity,reconnoitered,{},2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+13,AWD0002wyb,diary,19,2,1915-09-25 07:55:00 UTC,25 Sep 1915,Richebourg,"[2.74884, 50.56999]",0755AM,time,0755AM,{},2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+14,AWD0002wyb,diary,19,2,1915-09-25 07:53:00 UTC,25 Sep 1915,Richebourg,"[2.74884, 50.56999]",0753AM,time,0753AM,{},2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+17,AWD0002wyb,diary,19,2,1915-09-25 08:05:00 UTC,25 Sep 1915,Richebourg,"[2.74884, 50.56999]",0805AM,time,0805AM,{},2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+18,AWD0002wyb,diary,19,2,1915-09-25 08:00:00 UTC,25 Sep 1915,Richebourg,"[2.74884, 50.56999]",0800AM,time,0800AM,{},2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+22,AWD0002wyb,diary,19,2,1915-09-26 00:00:00 UTC,26 Sep 1915,Richebourg,"[2.74884, 50.56999]","",diaryDate,26 Sep 1915,"{""day""=>[""26""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+25,AWD0002wyb,diary,19,3,1915-09-26 08:10:00 UTC,26 Sep 1915,Richebourg,"[2.74884, 50.56999]",0810AM,time,0810AM,{},2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+27,AWD0002wyb,diary,19,2,1915-09-26 04:30:00 UTC,26 Sep 1915,Richebourg,"[2.74884, 50.56999]",0430AM,time,0430AM,{},2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+29,AWD0002wyb,diary,19,3,1915-09-26 04:30:00 UTC,26 Sep 1915,Richebourg,"[2.74884, 50.56999]",0430AM,place,La Bassee,"{""place""=>[""La Bassee""], ""location""=>[""false""], ""name""=>[""La Bassée""], ""lat""=>[""50.53424""], ""long""=>[""2.8062""], ""id""=>[""3011307""]}",2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+30,AWD0002wyb,diary,19,3,1915-09-26 04:30:00 UTC,26 Sep 1915,Richebourg,"[2.74884, 50.56999]",0430AM,activity,reconnoitered,{},2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+31,AWD0002wyb,diary,19,2,1915-09-26 04:30:00 UTC,26 Sep 1915,Richebourg,"[2.74884, 50.56999]",0430AM,activity,enemy_activity,{},2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+32,AWD0002wyb,diary,19,2,1915-09-27 00:00:00 UTC,27 Sep 1915,Richebourg,"[2.74884, 50.56999]","",diaryDate,27 Sep 1915,"{""day""=>[""27""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+1,AWD0002x0h,diary,20,3,1915-09-25 00:00:00 UTC,25 Sep 1915,Richebourg,"[2.74884, 50.56999]","",diaryDate,25 Sep 1915,"{""day""=>[""25""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+2,AWD0002x0h,diary,20,4,1915-09-25 00:00:00 UTC,25 Sep 1915,Richebourg,"[2.74884, 50.56999]","",activity,reconnoitered,{},2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+4,AWD0002x0h,diary,20,3,1915-09-25 00:00:00 UTC,25 Sep 1915,Richebourg,"[2.74884, 50.56999]","",activity,attack,{},2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+5,AWD0002x0h,diary,20,4,1915-09-25 00:00:00 UTC,25 Sep 1915,Richebourg,"[2.74884, 50.56999]","",casualties,"killed: 2, wounded: 23",{},2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+6,AWD0002x0h,diary,20,5,1915-09-26 00:00:00 UTC,26 Sep 1915,Richebourg,"[2.74884, 50.56999]","",diaryDate,26 Sep 1915,"{""day""=>[""26""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+7,AWD0002x0h,diary,20,2,1915-09-26 00:00:00 UTC,26 Sep 1915,Richebourg,"[2.74884, 50.56999]","",activity,reconnoitered,{},2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+9,AWD0002x0h,diary,20,2,1915-09-26 00:00:00 UTC,26 Sep 1915,Richebourg,"[2.74884, 50.56999]","",activity,reconnoitered,{},2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+11,AWD0002x0h,diary,20,2,1915-09-26 00:00:00 UTC,26 Sep 1915,Richebourg,"[2.74884, 50.56999]","",activity,attack,{},2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+15,AWD0002x0h,diary,20,4,1915-09-26 00:00:00 UTC,26 Sep 1915,Richebourg,"[2.74884, 50.56999]","",person,"other,Lieutenant Jagdam, Singh, Jagdam Singh","{""first""=>[""Jagdam"", """"], ""surname""=>[""Singh"", ""Jagdam Singh""], ""rank""=>[""other"", ""Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+16,AWD0002x0h,diary,20,3,1915-09-26 00:00:00 UTC,26 Sep 1915,Richebourg,"[2.74884, 50.56999]","",casualties,wounded: 19,{},2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+18,AWD0002x0h,diary,20,4,1915-09-26 00:00:00 UTC,26 Sep 1915,Richebourg,"[2.74884, 50.56999]","",person,"Lieutenant,other Kesar, Kesar Shah","{""first""=>[""Kesar"", """"], ""surname""=>[""Kesar Shah""], ""rank""=>[""Lieutenant"", ""other""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+19,AWD0002x0h,diary,20,4,1915-09-27 00:00:00 UTC,27 Sep 1915,Richebourg,"[2.74884, 50.56999]","",diaryDate,27 Sep 1915,"{""day""=>[""27""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+20,AWD0002x0h,diary,20,3,1915-09-27 00:00:00 UTC,27 Sep 1915,Richebourg,"[2.74884, 50.56999]","",activity,reconnoitered,{},2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+22,AWD0002x0h,diary,20,2,1915-09-27 00:00:00 UTC,27 Sep 1915,Richebourg,"[2.74884, 50.56999]","",place,Champagne,"{""place""=>[""Champagne""], ""location""=>[""false""], ""name""=>[""Champagne"", ""La Bassée""], ""lat""=>[""48.76417"", ""50.53424""], ""long""=>[""1.56826"", ""2.8062""], ""id""=>[""3027259"", ""3011307""]}",2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+24,AWD0002x0h,diary,20,3,1915-09-27 00:00:00 UTC,27 Sep 1915,Richebourg,"[2.74884, 50.56999]","",place,La Bassee,"{""place""=>[""La Bassee""], ""location""=>[""false""], ""name""=>[""La Bassée""], ""lat""=>[""50.53424""], ""long""=>[""2.8062""], ""id""=>[""3011307""]}",2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+1,AWD0002wzc,diary,21,4,1915-09-27 00:00:00 UTC,27 Sep 1915,Richebourg,"[2.74884, 50.56999]","",diaryDate,27 Sep 1915,"{""day""=>[""27""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+6,AWD0002wzc,diary,21,5,1915-09-27 00:00:00 UTC,27 Sep 1915,Richebourg,"[2.74884, 50.56999]","",activity,reconnoitered,{},2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+8,AWD0002wzc,diary,21,2,1915-09-27 00:00:00 UTC,27 Sep 1915,Richebourg,"[2.74884, 50.56999]","",activity,attack,{},2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+9,AWD0002wzc,diary,21,3,1915-09-27 00:00:00 UTC,27 Sep 1915,Richebourg,"[2.74884, 50.56999]","",activity,enemy_activity,{},2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+11,AWD0002wzc,diary,21,2,1915-09-27 00:00:00 UTC,27 Sep 1915,Richebourg,"[2.74884, 50.56999]","",casualties,wounded: 6,{},2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+12,AWD0002wzc,diary,21,4,1915-09-27 00:00:00 UTC,27 Sep 1915,Richebourg,"[2.74884, 50.56999]","",person,Lieutenant Colonel  Campbell,"{""first""=>[""""], ""surname""=>[""Campbell""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+14,AWD0002wzc,diary,21,5,1915-09-28 00:00:00 UTC,28 Sep 1915,Richebourg,"[2.74884, 50.56999]","",diaryDate,28 Sep 1915,"{""day""=>[""28""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+20,AWD0002wzc,diary,21,4,1915-09-28 00:00:00 UTC,28 Sep 1915,Richebourg,"[2.74884, 50.56999]","",activity,reconnoitered,{},2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+22,AWD0002wzc,diary,21,4,1915-09-28 00:00:00 UTC,28 Sep 1915,Richebourg,"[2.74884, 50.56999]","",activity,attack,{},2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+24,AWD0002wzc,diary,21,4,1915-09-28 00:00:00 UTC,28 Sep 1915,Richebourg,"[2.74884, 50.56999]","",casualties,wounded: 7,{},2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+25,AWD0002wzc,diary,21,5,1915-09-29 00:00:00 UTC,29 Sep 1915,Richebourg,"[2.74884, 50.56999]","",diaryDate,29 Sep 1915,"{""day""=>[""29""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+28,AWD0002wzc,diary,21,5,1915-09-29 00:00:00 UTC,29 Sep 1915,Richebourg,"[2.74884, 50.56999]","",activity,fire,{},2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+30,AWD0002wzc,diary,21,3,1915-09-29 00:00:00 UTC,29 Sep 1915,Richebourg,"[2.74884, 50.56999]","",activity,reconnoitered,{},2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+1,AWD0002wzy,diary,22,4,1915-09-29 00:00:00 UTC,29 Sep 1915,Richebourg,"[2.74884, 50.56999]","",diaryDate,29 Sep 1915,"{""day""=>[""29""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+2,AWD0002wzy,diary,22,2,1915-09-29 00:00:00 UTC,29 Sep 1915,Richebourg,"[2.74884, 50.56999]","",activity,reconnoitered,{},2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+5,AWD0002wzy,diary,22,2,1915-09-29 00:00:00 UTC,29 Sep 1915,Richebourg,"[2.74884, 50.56999]","",activity,attack,{},2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+7,AWD0002wzy,diary,22,2,1915-09-29 00:00:00 UTC,29 Sep 1915,Richebourg,"[2.74884, 50.56999]","",casualties,wounded: 57,{},2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+8,AWD0002wzy,diary,22,3,1915-09-30 00:00:00 UTC,30 Sep 1915,Richebourg,"[2.74884, 50.56999]","",diaryDate,30 Sep 1915,"{""day""=>[""30""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+10,AWD0002wzy,diary,22,2,1915-09-30 00:00:00 UTC,30 Sep 1915,Richebourg,"[2.74884, 50.56999]","",activity,reconnoitered,{},2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+11,AWD0002wzy,diary,22,2,1915-09-30 00:00:00 UTC,30 Sep 1915,Richebourg,"[2.74884, 50.56999]","",activity,attack,{},2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+13,AWD0002wzy,diary,22,2,1915-09-30 00:00:00 UTC,30 Sep 1915,Richebourg,"[2.74884, 50.56999]","",activity,reconnoitered,{},2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+16,AWD0002wzy,diary,22,3,1915-09-30 00:00:00 UTC,30 Sep 1915,Richebourg,"[2.74884, 50.56999]","",activity,fire,{},2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+17,AWD0002wzy,diary,22,4,1915-09-30 00:00:00 UTC,30 Sep 1915,Richebourg,"[2.74884, 50.56999]","",casualties,wounded: 7,{},2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+1,AWD0002wyo,diary,24,5,1915-06-26 00:00:00 UTC,26 Jun 1915,Richebourg,"[2.74884, 50.56999]","",diaryDate,26 Jun 1915,"{""day""=>[""26""], ""month""=>[""Jun""], ""year""=>[""1915""]}",2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+3,AWD0002wyo,diary,24,5,1915-06-26 00:00:00 UTC,26 Jun 1915,Richebourg,"[2.74884, 50.56999]","",casualties,wounded: 4,{},2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+4,AWD0002wyo,diary,24,5,1915-07-27 00:00:00 UTC,27 Jul 1915,Richebourg,"[2.74884, 50.56999]","",diaryDate,27 Jul 1915,"{""day""=>[""27""], ""month""=>[""Jul""], ""year""=>[""1915""]}",2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+5,AWD0002wyo,diary,24,4,1915-07-27 03:00:00 UTC,27 Jul 1915,Richebourg,"[2.74884, 50.56999]",0300AM,time,0300AM,{},2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+9,AWD0002wyo,diary,24,3,1915-07-27 03:00:00 UTC,27 Jul 1915,Richebourg,"[2.74884, 50.56999]",0300AM,activity,movement,{},2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+10,AWD0002wyo,diary,24,2,1915-07-27 03:00:00 UTC,27 Jul 1915,Richebourg,"[2.74884, 50.56999]",0300AM,activity,line,{},2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+12,AWD0002wyo,diary,24,2,1915-07-27 03:00:00 UTC,27 Jul 1915,Richebourg,"[2.74884, 50.56999]",0300AM,unit,"129 Baluchis, 129 Beluchis","{""name""=>[""129 Baluchis"", ""129 Beluchis""], ""context""=>[""other"", ""relieved""]}",2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+14,AWD0002wyo,diary,24,5,1915-07-27 03:00:00 UTC,27 Jul 1915,Richebourg,"[2.74884, 50.56999]",0300AM,activity,reconnoitered,{},2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+17,AWD0002wyo,diary,24,2,1915-07-27 03:00:00 UTC,27 Jul 1915,Richebourg,"[2.74884, 50.56999]",0300AM,activity,fire,{},2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+18,AWD0002wyo,diary,24,3,1915-07-27 17:00:00 UTC,27 Jul 1915,Richebourg,"[2.74884, 50.56999]",0500PM,time,0500PM,{},2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+19,AWD0002wyo,diary,24,3,1915-07-27 13:45:00 UTC,27 Jul 1915,Richebourg,"[2.74884, 50.56999]",0145PM,time,0145PM,{},2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+20,AWD0002wyo,diary,24,5,1915-07-27 13:45:00 UTC,27 Jul 1915,Richebourg,"[2.74884, 50.56999]",0145PM,casualties,wounded: 8,{},2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+21,AWD0002wyo,diary,24,5,1915-07-28 00:00:00 UTC,28 Jul 1915,Richebourg,"[2.74884, 50.56999]","",diaryDate,28 Jul 1915,"{""day""=>[""28""], ""month""=>[""Jul""], ""year""=>[""1915""]}",2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+22,AWD0002wyo,diary,24,3,1915-07-28 00:00:00 UTC,28 Jul 1915,Richebourg,"[2.74884, 50.56999]","",activity,reconnoitered,{},2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+23,AWD0002wyo,diary,24,3,1915-07-28 00:00:00 UTC,28 Jul 1915,Richebourg,"[2.74884, 50.56999]","",activity,fire,{},2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+25,AWD0002wyo,diary,24,2,1915-07-28 16:00:00 UTC,28 Jul 1915,Richebourg,"[2.74884, 50.56999]",0400PM,time,0400PM,{},2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+27,AWD0002wyo,diary,24,3,1915-07-28 16:00:00 UTC,28 Jul 1915,Richebourg,"[2.74884, 50.56999]",0400PM,activity,movement,{},2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+28,AWD0002wyo,diary,24,2,1915-07-28 16:00:00 UTC,28 Jul 1915,Richebourg,"[2.74884, 50.56999]",0400PM,place,Bout Deville,"{""place""=>[""Bout Deville""], ""location""=>[""false"", ""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+30,AWD0002wyo,diary,24,3,1915-07-28 16:00:00 UTC,28 Jul 1915,Richebourg,"[2.74884, 50.56999]",0400PM,unit,1/1 Gurkha Rifles,"{""name""=>[""1/1 Gurkha Rifles""], ""context""=>[""relieved_by""]}",2983656,Richebourg-l'Avoué,"[2.74884, 50.56999]"
+32,AWD0002wyo,diary,24,2,1915-07-28 16:00:00 UTC,28 Jul 1915,Bout Deville,"[2.8062, 50.53424]",0400PM,place,Bout Deville,"{""place""=>[""Bout Deville""], ""location""=>[""true""], ""name""=>[""La Bassée"", """"], ""lat""=>[""50.53424"", """"], ""long""=>[""2.8062"", """"], ""id""=>[""3011307"", """"]}",,,
+33,AWD0002wyo,diary,24,2,1915-07-28 16:00:00 UTC,28 Jul 1915,Bout Deville,"[2.8062, 50.53424]",0400PM,activity,movement,{},,,
+34,AWD0002wyo,diary,24,4,1915-07-28 16:00:00 UTC,28 Jul 1915,Bout Deville,"[2.8062, 50.53424]",0400PM,casualties,wounded: 14,{},,,
+35,AWD0002wyo,diary,24,5,1915-07-29 00:00:00 UTC,29 Jul 1915,Bout Deville,"[2.8062, 50.53424]","",diaryDate,29 Jul 1915,"{""day""=>[""29""], ""month""=>[""Jul""], ""year""=>[""1915""]}",,,
+36,AWD0002wyo,diary,24,2,1915-07-29 00:00:00 UTC,29 Jul 1915,Bout Deville,"[2.8062, 50.53424]","",activity,reserve,{},,,
+39,AWD0002wyo,diary,24,2,1915-07-29 00:00:00 UTC,29 Jul 1915,Bout Deville,"[2.8062, 50.53424]","",person,"Major  Geoghegan, Geogegan","{""first""=>[""""], ""surname""=>[""Geoghegan"", ""Geogegan""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other"", ""returned_training""], ""unit""=>[""""]}",,,
+40,AWD0002wyo,diary,24,2,1915-07-29 00:00:00 UTC,29 Jul 1915,Bout Deville,"[2.8062, 50.53424]","",domestic,hygiene,{},,,
+42,AWD0002wyo,diary,24,2,,"30 Jun,Jul 1915",Bout Deville,"[2.8062, 50.53424]","",diaryDate,"30 Jun,Jul 1915","{""day""=>[""30""], ""month""=>[""Jun"", ""Jul""], ""year""=>[""1915""]}",,,
+43,AWD0002wyo,diary,24,3,1915-06-30 00:00:00 UTC,30 Jun 1915,Bout Deville,"[2.8062, 50.53424]","",diaryDate,30 Jun 1915,"{""day""=>[""30""], ""month""=>[""Jun""], ""year""=>[""1915""]}",,,
+45,AWD0002wyo,diary,24,2,1915-06-30 00:00:00 UTC,30 Jun 1915,Bout Deville,"[2.8062, 50.53424]","",domestic,parades,{},,,
+46,AWD0002wyo,diary,24,2,1915-06-30 00:00:00 UTC,30 Jun 1915,Bout Deville,"[2.8062, 50.53424]","",person,"Major  Geogegan, Geoghegan","{""first""=>[""""], ""surname""=>[""Geogegan"", ""Geoghegan""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+51,AWD0002wyo,diary,24,2,1915-06-30 20:00:00 UTC,30 Jun 1915,Bout Deville,"[2.8062, 50.53424]",0800PM,time,0800PM,{},,,
+52,AWD0002wyo,diary,24,3,1915-06-30 20:00:00 UTC,30 Jun 1915,Bout Deville,"[2.8062, 50.53424]",0800PM,person,Captain  James,"{""first""=>[""""], ""surname""=>[""James""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+53,AWD0002wyo,diary,24,2,1915-06-30 20:00:00 UTC,30 Jun 1915,Bout Deville,"[2.8062, 50.53424]",0800PM,activity,working,{},,,
+30,AWD0002wzm,report,25,2,,,,[],,date,1 Sep 1915,{},,,
+7,AWD0002wzz,report,26,3,,,,[],,person,Captain  Wood,"{""first""=>[""""], ""surname""=>[""Wood""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""""]}",,,
+21,AWD0002wzz,report,26,2,,,,[],,reference,Map Ref S 16 a 3.7,{},,,
+26,AWD0002wzz,report,26,2,,,,[],,date,2 Sep 1915,{},,,
+25,AWD0002x17,"report, other",27,2,,,,[],,date,3 Sep 1915,{},,,
+20,AWD0002x16,"report, other",28,2,,,,[],,date,4 Sep 1915,{},,,
+4,AWD0002x0b,"report, other",29,2,,,,[],,gridRef,"",{},,,
+10,AWD0002x0b,"report, other",29,2,,,,[],,date,5 Sep 1915,{},,,
+23,AWD0002wzn,"report, other",30,2,,,,[],,date,6 Sep 1915,{},,,
+19,AWD0002wyt,"report, other",31,2,,,,[],,gridRef,s 16 a 6 4,{},,,
+20,AWD0002wyt,"report, other",31,2,,,,[],,reference,Map Ref S 16 a 6.4,{},,,
+28,AWD0002wyt,"report, other",31,2,,,,[],,date,7 Sep 1915,{},,,
+3,AWD0002wyq,"report, other",32,2,,,,[],,reference,Map Ref S 16 a 6.1,{},,,
+5,AWD0002wyq,"report, other",32,2,,,,[],,date,8 Sep 1915,{},,,
+5,AWD0002x0g,"report, other",33,2,,,,[],,activity,attack,{},,,
+9,AWD0002x0g,"report, other",33,2,,,,[],,activity,attack,{},,,
+18,AWD0002x0g,"report, other",33,2,,,,[],,activity,fire,{},,,
+25,AWD0002x0g,"report, other",33,2,,,,[],,activity,enemy_activity,{},,,
+27,AWD0002x0g,"report, other",33,2,,,,[],,gridRef,S 16 a 6 4,{},,,
+28,AWD0002x0g,"report, other",33,2,,,,[],,reference,Map Ref S 16 a 6.4,{},,,
+5,AWD0002wyj,orders,36,4,,,,[],,date,23 Sep 1915,{},,,
+9,AWD0002wyj,orders,36,4,,,,[],,orders,attack,{},,,
+10,AWD0002wyj,orders,36,2,,,,[],,orders,other,{},,,
+11,AWD0002wyj,orders,36,2,,,,[],,orders,move,{},,,
+5,AWD0002x07,orders,38,2,,,,[],,orders,attack,{},,,
+8,AWD0002x07,orders,38,3,,,,[],,activity,other,{},,,
+5,AWD0002wzv,orders,39,2,,,,[],,orders,attack,{},,,
+7,AWD0002wzv,orders,39,2,,,,[],,person,"Captain,other  ","{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""Captain"", ""other""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+5,AWD0002wz0,report,40,2,,,,[],,title,Report by Patrol on Enemy Defences between Point 63 & Oxford Street,{},,,
+6,AWD0002wz0,report,40,4,,,,[],,person,Lance Corporal Nur Hussain,"{""first""=>[""Nur""], ""surname""=>[""Hussain""], ""rank""=>[""Lance Corporal""], ""number""=>[""2331""], ""reason""=>[""combat""], ""unit""=>[""""]}",,,
+7,AWD0002wz0,report,40,4,,,,[],,person,"Lance Corporal Ali Guar Khan, Ali Gaur Khan, Gaur Khan, Khan","{""first""=>[""Ali""], ""surname""=>[""Guar Khan"", ""Ali Gaur Khan"", ""Gaur Khan"", ""Khan""], ""rank""=>[""Lance Corporal""], ""number""=>[""2570""], ""reason""=>[""combat""], ""unit""=>[""""]}",,,
+8,AWD0002wz0,report,40,4,,,,[],,person,"Private Channan Channan Khan, Khan","{""first""=>[""Channan""], ""surname""=>[""Channan Khan"", ""Khan""], ""rank""=>[""Private""], ""number""=>[""2530""], ""reason""=>[""combat""], ""unit""=>[""""]}",,,
+14,AWD0002x0s,report,41,2,,,,[],,date,28 Aug 1915,{},,,
+1,AWD0002wz2,report,42,2,,,,[],,reference,Appendix VIII,{},,,
+27,AWD0002wz2,report,42,3,,,,[],,date,29 Aug 1915,{},,,
+9,AWD0002wzo,report,43,2,,,,[],,activity,enemy_activity,{},,,
+22,AWD0002wzo,report,43,2,,,,[],,activity,other,{},,,
+32,AWD0002wzo,report,43,2,,,,[],,date,30 Aug 1915,{},,,
+2,AWD0002wyp,report,44,2,,,,[],,reference,Appendix X,{},,,
+5,AWD0002wyp,report,44,2,,,,[],,activity,attack,{},,,
+19,AWD0002wyp,report,44,2,,,,[],,activity,other,{},,,
+20,AWD0002wyp,report,44,2,,,,[],,date,30 Sep 1915,{},,,
+3,AWD0002wzb,other,46,2,,,,[],,date,12 Jun 1915,{},,,
+4,AWD0002wzb,other,46,2,,,,[],,date,19 Jun 1915,{},,,
+1,AWD0002wys,diary,47,5,1915-09-01 00:00:00 UTC,1 Sep 1915,Bout Deville,"[2.8062, 50.53424]","",diaryDate,1 Sep 1915,"{""day""=>[""1""], ""month""=>[""Sep""], ""year""=>[""1915""]}",,,
+2,AWD0002wys,diary,47,2,1915-09-01 00:00:00 UTC,1 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",place,"Rue du Bois, Rue De Bois","{""place""=>[""Rue du Bois"", ""Rue De Bois""], ""location""=>[""true""], ""name""=>[""Acheux-en-Amiénois"", """"], ""lat""=>[""50.07279"", """"], ""long""=>[""2.53201"", """"], ""id""=>[""3038707"", """"]}",3036903,Armentières,"[2.88214, 50.68568]"
+3,AWD0002wys,diary,47,3,1915-09-01 00:00:00 UTC,1 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",activity,line,{},3036903,Armentières,"[2.88214, 50.68568]"
+4,AWD0002wys,diary,47,2,1915-09-01 00:00:00 UTC,1 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",activity,quiet,{},3036903,Armentières,"[2.88214, 50.68568]"
+6,AWD0002wys,diary,47,4,1915-09-01 00:00:00 UTC,1 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",activity,reconnoitered,{},3036903,Armentières,"[2.88214, 50.68568]"
+7,AWD0002wys,diary,47,2,1915-09-01 00:00:00 UTC,1 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",activity,attack,{},3036903,Armentières,"[2.88214, 50.68568]"
+9,AWD0002wys,diary,47,4,1915-09-01 00:00:00 UTC,1 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",casualties,wounded: 6,{},3036903,Armentières,"[2.88214, 50.68568]"
+10,AWD0002wys,diary,47,5,1915-09-02 00:00:00 UTC,2 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",diaryDate,2 Sep 1915,"{""day""=>[""2""], ""month""=>[""Sep""], ""year""=>[""1915""]}",3036903,Armentières,"[2.88214, 50.68568]"
+11,AWD0002wys,diary,47,3,1915-09-02 00:00:00 UTC,2 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",activity,reconnoitered,{},3036903,Armentières,"[2.88214, 50.68568]"
+13,AWD0002wys,diary,47,4,1915-09-02 00:00:00 UTC,2 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",casualties,wounded: 14,{},3036903,Armentières,"[2.88214, 50.68568]"
+14,AWD0002wys,diary,47,5,1915-09-03 00:00:00 UTC,3 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",diaryDate,3 Sep 1915,"{""day""=>[""3""], ""month""=>[""Sep""], ""year""=>[""1915""]}",3036903,Armentières,"[2.88214, 50.68568]"
+15,AWD0002wys,diary,47,2,1915-09-03 00:00:00 UTC,3 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",activity,quiet,{},3036903,Armentières,"[2.88214, 50.68568]"
+16,AWD0002wys,diary,47,3,1915-09-03 00:00:00 UTC,3 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",weather,rain,{},3036903,Armentières,"[2.88214, 50.68568]"
+17,AWD0002wys,diary,47,2,1915-09-03 00:00:00 UTC,3 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",casualties,wounded: 5,{},3036903,Armentières,"[2.88214, 50.68568]"
+18,AWD0002wys,diary,47,2,1915-09-03 00:00:00 UTC,3 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",casualties,"died: 2, wounded: 5",{},3036903,Armentières,"[2.88214, 50.68568]"
+2,AWD0002wyd,diary,48,2,1915-09-03 00:00:00 UTC,3 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",activity,attack,{},3036903,Armentières,"[2.88214, 50.68568]"
+3,AWD0002wyd,diary,48,4,1915-09-04 00:00:00 UTC,4 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",diaryDate,4 Sep 1915,"{""day""=>[""4""], ""month""=>[""Sep""], ""year""=>[""1915""]}",3036903,Armentières,"[2.88214, 50.68568]"
+4,AWD0002wyd,diary,48,2,1915-09-04 00:00:00 UTC,4 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",activity,fire,{},3036903,Armentières,"[2.88214, 50.68568]"
+6,AWD0002wyd,diary,48,2,1915-09-04 00:00:00 UTC,4 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",activity,reconnoitered,{},3036903,Armentières,"[2.88214, 50.68568]"
+8,AWD0002wyd,diary,48,3,1915-09-04 00:00:00 UTC,4 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",activity,repair,{},3036903,Armentières,"[2.88214, 50.68568]"
+9,AWD0002wyd,diary,48,2,1915-09-04 00:00:00 UTC,4 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",weather,rain,{},3036903,Armentières,"[2.88214, 50.68568]"
+12,AWD0002wyd,diary,48,3,1915-09-04 00:00:00 UTC,4 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",casualties,wounded: 3,{},3036903,Armentières,"[2.88214, 50.68568]"
+13,AWD0002wyd,diary,48,4,1915-09-05 00:00:00 UTC,5 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",diaryDate,5 Sep 1915,"{""day""=>[""5""], ""month""=>[""Sep""], ""year""=>[""1915""]}",3036903,Armentières,"[2.88214, 50.68568]"
+14,AWD0002wyd,diary,48,3,1915-09-05 00:00:00 UTC,5 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",activity,attack,{},3036903,Armentières,"[2.88214, 50.68568]"
+15,AWD0002wyd,diary,48,2,1915-09-05 00:00:00 UTC,5 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",activity,fire,{},3036903,Armentières,"[2.88214, 50.68568]"
+16,AWD0002wyd,diary,48,2,1915-09-05 00:00:00 UTC,5 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",unit,59th Battery,"{""name""=>[""59th Battery""], ""context""=>[""joined""]}",3036903,Armentières,"[2.88214, 50.68568]"
+17,AWD0002wyd,diary,48,3,1915-09-05 00:00:00 UTC,5 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",activity,attack,{},3036903,Armentières,"[2.88214, 50.68568]"
+22,AWD0002wyd,diary,48,3,1915-09-05 00:00:00 UTC,5 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",person,"other Fakir Ori, Muhammad, Mohammad","{""first""=>[""Fakir""], ""surname""=>[""Ori"", ""Muhammad"", ""Mohammad""], ""rank""=>[""other""], ""number""=>[""""], ""reason""=>[""casualty_died""], ""unit""=>[""""]}",3036903,Armentières,"[2.88214, 50.68568]"
+25,AWD0002wyd,diary,48,4,1915-09-06 00:00:00 UTC,6 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",diaryDate,6 Sep 1915,"{""day""=>[""6""], ""month""=>[""Sep""], ""year""=>[""1915""]}",3036903,Armentières,"[2.88214, 50.68568]"
+28,AWD0002wyd,diary,48,3,1915-09-06 00:00:00 UTC,6 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",activity,repair,{},3036903,Armentières,"[2.88214, 50.68568]"
+30,AWD0002wyd,diary,48,3,1915-09-06 00:00:00 UTC,6 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",casualties,wounded: 6,{},3036903,Armentières,"[2.88214, 50.68568]"
+1,AWD0002x04,diary,49,5,1915-09-07 00:00:00 UTC,7 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",diaryDate,7 Sep 1915,"{""day""=>[""7""], ""month""=>[""Sep""], ""year""=>[""1915""]}",3036903,Armentières,"[2.88214, 50.68568]"
+3,AWD0002x04,diary,49,3,1915-09-07 00:00:00 UTC,7 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",activity,attack,{},3036903,Armentières,"[2.88214, 50.68568]"
+7,AWD0002x04,diary,49,3,1915-09-07 00:00:00 UTC,7 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",casualties,"died: 1, wounded: 4",{},3036903,Armentières,"[2.88214, 50.68568]"
+11,AWD0002x04,diary,49,5,1915-09-08 00:00:00 UTC,8 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",diaryDate,8 Sep 1915,"{""day""=>[""8""], ""month""=>[""Sep""], ""year""=>[""1915""]}",3036903,Armentières,"[2.88214, 50.68568]"
+12,AWD0002x04,diary,49,3,1915-09-08 00:00:00 UTC,8 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",activity,fire,{},3036903,Armentières,"[2.88214, 50.68568]"
+16,AWD0002x04,diary,49,2,1915-09-08 00:00:00 UTC,8 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",activity,attack,{},3036903,Armentières,"[2.88214, 50.68568]"
+17,AWD0002x04,diary,49,3,1915-09-08 00:00:00 UTC,8 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",activity,reconnoitered,{},3036903,Armentières,"[2.88214, 50.68568]"
+19,AWD0002x04,diary,49,3,1915-09-08 00:00:00 UTC,8 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",activity,enemy_activity,{},3036903,Armentières,"[2.88214, 50.68568]"
+20,AWD0002x04,diary,49,3,1915-09-08 00:00:00 UTC,8 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",casualties,wounded: 3,{},3036903,Armentières,"[2.88214, 50.68568]"
+21,AWD0002x04,diary,49,5,1915-09-09 00:00:00 UTC,9 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",diaryDate,9 Sep 1915,"{""day""=>[""9""], ""month""=>[""Sep""], ""year""=>[""1915""]}",3036903,Armentières,"[2.88214, 50.68568]"
+22,AWD0002x04,diary,49,2,1915-09-09 00:00:00 UTC,9 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",activity,fire,{},3036903,Armentières,"[2.88214, 50.68568]"
+26,AWD0002x04,diary,49,4,1915-09-09 00:00:00 UTC,9 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",unit,57th Rifles,"{""name""=>[""57th Rifles""], ""context""=>[""relieved_by""]}",3036903,Armentières,"[2.88214, 50.68568]"
+1,AWD0002wzx,diary,50,3,1915-09-09 00:00:00 UTC,9 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",diaryDate,9 Sep 1915,"{""day""=>[""9""], ""month""=>[""Sep""], ""year""=>[""1915""]}",3036903,Armentières,"[2.88214, 50.68568]"
+25,AWD0002wzx,diary,50,2,1915-09-09 00:00:00 UTC,9 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",activity,fire,{},3036903,Armentières,"[2.88214, 50.68568]"
+33,AWD0002wzx,diary,50,2,1915-09-09 00:00:00 UTC,9 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",activity,attack,{},3036903,Armentières,"[2.88214, 50.68568]"
+35,AWD0002wzx,diary,50,3,1915-09-10 00:00:00 UTC,10 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",diaryDate,10 Sep 1915,"{""day""=>[""10""], ""month""=>[""Sep""], ""year""=>[""1915""]}",3036903,Armentières,"[2.88214, 50.68568]"
+41,AWD0002wzx,diary,50,2,1915-09-10 00:00:00 UTC,10 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",activity,working,{},3036903,Armentières,"[2.88214, 50.68568]"
+43,AWD0002wzx,diary,50,2,1915-09-10 00:00:00 UTC,10 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",activity,repair,{},3036903,Armentières,"[2.88214, 50.68568]"
+1,AWD0002wya,diary,51,3,1915-09-11 00:00:00 UTC,11 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",diaryDate,11 Sep 1915,"{""day""=>[""11""], ""month""=>[""Sep""], ""year""=>[""1915""]}",3036903,Armentières,"[2.88214, 50.68568]"
+2,AWD0002wya,diary,51,2,1915-09-11 00:00:00 UTC,11 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",activity,reserve,{},3036903,Armentières,"[2.88214, 50.68568]"
+9,AWD0002wya,diary,51,5,1915-09-11 00:00:00 UTC,11 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",person,Captain R F D Burnett,"{""first""=>[""R F D""], ""surname""=>[""Burnett""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""award""], ""unit""=>[""""]}",3036903,Armentières,"[2.88214, 50.68568]"
+11,AWD0002wya,diary,51,2,1915-09-11 00:00:00 UTC,11 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",person,"Corporal ,Muhammad Muhammad Sadik, Sadik","{""first""=>["""", ""Muhammad""], ""surname""=>[""Muhammad Sadik"", ""Sadik""], ""rank""=>[""Corporal""], ""number""=>[""""], ""reason""=>[""award""], ""unit""=>[""""]}",3036903,Armentières,"[2.88214, 50.68568]"
+12,AWD0002wya,diary,51,2,1915-09-11 00:00:00 UTC,11 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",person," Naik Muhammad Sadik, Sadir","{""first""=>[""Naik Muhammad""], ""surname""=>[""Sadik"", ""Sadir""], ""rank""=>[""""], ""number""=>[""""], ""reason""=>[""award""], ""unit""=>["""", ""2 INDIAN CAVALRY DIVISION: 119 (MEERUT) FIELD AMBULANCE""]}",3036903,Armentières,"[2.88214, 50.68568]"
+13,AWD0002wya,diary,51,4,1915-09-11 00:00:00 UTC,11 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",person,Private Indar Singh,"{""first""=>[""Indar""], ""surname""=>[""Singh""], ""rank""=>[""Private""], ""number""=>[""2316""], ""reason""=>[""award""], ""unit""=>[""""]}",3036903,Armentières,"[2.88214, 50.68568]"
+14,AWD0002wya,diary,51,3,1915-09-12 00:00:00 UTC,12 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",diaryDate,12 Sep 1915,"{""day""=>[""12""], ""month""=>[""Sep""], ""year""=>[""1915""]}",3036903,Armentières,"[2.88214, 50.68568]"
+15,AWD0002wya,diary,51,3,1915-09-12 00:00:00 UTC,12 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",activity,repair,{},3036903,Armentières,"[2.88214, 50.68568]"
+17,AWD0002wya,diary,51,2,1915-09-12 00:00:00 UTC,12 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",activity,working,{},3036903,Armentières,"[2.88214, 50.68568]"
+18,AWD0002wya,diary,51,2,1915-09-12 00:00:00 UTC,12 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",activity,training,{},3036903,Armentières,"[2.88214, 50.68568]"
+19,AWD0002wya,diary,51,3,1915-09-13 00:00:00 UTC,13 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",diaryDate,13 Sep 1915,"{""day""=>[""13""], ""month""=>[""Sep""], ""year""=>[""1915""]}",3036903,Armentières,"[2.88214, 50.68568]"
+21,AWD0002wya,diary,51,3,1915-09-13 00:00:00 UTC,13 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",activity,reserve,{},3036903,Armentières,"[2.88214, 50.68568]"
+22,AWD0002wya,diary,51,2,1915-09-13 00:00:00 UTC,13 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",activity,working,{},3036903,Armentières,"[2.88214, 50.68568]"
+23,AWD0002wya,diary,51,3,1915-09-13 00:00:00 UTC,13 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",activity,repair,{},3036903,Armentières,"[2.88214, 50.68568]"
+27,AWD0002wya,diary,51,2,1915-09-18 00:00:00 UTC,18 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",diaryDate,18 Sep 1915,"{""day""=>[""18""], ""month""=>[""Sep""], ""year""=>[""1915""]}",3036903,Armentières,"[2.88214, 50.68568]"
+28,AWD0002wya,diary,51,2,1915-09-18 00:00:00 UTC,18 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",person,"Sergeant,  Singh, Simgh","{""first""=>[""""], ""surname""=>[""Singh"", ""Simgh""], ""rank""=>[""Sergeant"", """"], ""number""=>[""""], ""reason""=>[""award""], ""unit""=>["""", ""2 INDIAN CAVALRY DIVISION: 119 (MEERUT) FIELD AMBULANCE""]}",3036903,Armentières,"[2.88214, 50.68568]"
+30,AWD0002wya,diary,51,2,1915-09-18 00:00:00 UTC,18 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",casualties,wounded: 2,{},3036903,Armentières,"[2.88214, 50.68568]"
+1,AWD0002x0y,diary,52,4,1915-09-19 00:00:00 UTC,19 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",diaryDate,19 Sep 1915,"{""day""=>[""19""], ""month""=>[""Sep""], ""year""=>[""1915""]}",3036903,Armentières,"[2.88214, 50.68568]"
+2,AWD0002x0y,diary,52,3,1915-09-19 00:00:00 UTC,19 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",activity,reserve,{},3036903,Armentières,"[2.88214, 50.68568]"
+3,AWD0002x0y,diary,52,2,1915-09-19 00:00:00 UTC,19 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",activity,repair,{},3036903,Armentières,"[2.88214, 50.68568]"
+6,AWD0002x0y,diary,52,2,1915-09-20 00:00:00 UTC,20 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",diaryDate,20 Sep 1915,"{""day""=>[""20""], ""month""=>[""Sep""], ""year""=>[""1915""]}",3036903,Armentières,"[2.88214, 50.68568]"
+7,AWD0002x0y,diary,52,2,1915-09-23 00:00:00 UTC,23 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",diaryDate,23 Sep 1915,"{""day""=>[""23""], ""month""=>[""Sep""], ""year""=>[""1915""]}",3036903,Armentières,"[2.88214, 50.68568]"
+12,AWD0002x0y,diary,52,2,1915-09-24 00:00:00 UTC,24 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",diaryDate,24 Sep 1915,"{""day""=>[""24""], ""month""=>[""Sep""], ""year""=>[""1915""]}",3036903,Armentières,"[2.88214, 50.68568]"
+13,AWD0002x0y,diary,52,2,1915-09-24 00:00:00 UTC,24 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",person,Colonel  Campbell,"{""first""=>[""""], ""surname""=>[""Campbell""], ""rank""=>[""Colonel""], ""number""=>[""""], ""reason""=>[""other"", ""joined""], ""unit""=>["""", ""2 INDIAN CAVALRY DIVISION: 119 (MEERUT) FIELD AMBULANCE""]}",3036903,Armentières,"[2.88214, 50.68568]"
+14,AWD0002x0y,diary,52,2,1915-09-24 00:00:00 UTC,24 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",person, E R B Murray,"{""first""=>[""E R B""], ""surname""=>[""Murray""], ""rank""=>[""""], ""number""=>[""""], ""reason""=>[""other"", ""commander""], ""unit""=>[""""]}",3036903,Armentières,"[2.88214, 50.68568]"
+1,AWD0002wz9,diary,53,4,1915-09-25 00:00:00 UTC,25 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",diaryDate,25 Sep 1915,"{""day""=>[""25""], ""month""=>[""Sep""], ""year""=>[""1915""]}",3036903,Armentières,"[2.88214, 50.68568]"
+3,AWD0002wz9,diary,53,4,1915-09-25 04:30:00 UTC,25 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]",0430AM,time,0430AM,{},3036903,Armentières,"[2.88214, 50.68568]"
+4,AWD0002wz9,diary,53,2,1915-09-25 04:30:00 UTC,25 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]",0430AM,activity,attack,{},3036903,Armentières,"[2.88214, 50.68568]"
+5,AWD0002wz9,diary,53,4,1915-09-25 05:56:00 UTC,25 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]",0556AM,time,0556AM,{},3036903,Armentières,"[2.88214, 50.68568]"
+7,AWD0002wz9,diary,53,2,1915-09-25 05:56:00 UTC,25 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]",0556AM,activity,attack,{},3036903,Armentières,"[2.88214, 50.68568]"
+8,AWD0002wz9,diary,53,2,1915-09-25 05:56:00 UTC,25 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]",0556AM,activity,line,{},3036903,Armentières,"[2.88214, 50.68568]"
+9,AWD0002wz9,diary,53,4,1915-09-25 07:50:00 UTC,25 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]",0750AM,time,0750AM,{},3036903,Armentières,"[2.88214, 50.68568]"
+10,AWD0002wz9,diary,53,4,1915-09-25 07:50:00 UTC,25 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]",0750AM,activity,reconnoitered,{},3036903,Armentières,"[2.88214, 50.68568]"
+11,AWD0002wz9,diary,53,4,1915-09-25 07:55:00 UTC,25 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]",0755AM,time,0755AM,{},3036903,Armentières,"[2.88214, 50.68568]"
+14,AWD0002wz9,diary,53,2,1915-09-25 08:00:00 UTC,25 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]",0800AM,time,0800AM,{},3036903,Armentières,"[2.88214, 50.68568]"
+19,AWD0002wz9,diary,53,2,1915-09-25 08:10:00 UTC,25 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]",0810AM,time,0810AM,{},3036903,Armentières,"[2.88214, 50.68568]"
+22,AWD0002wz9,diary,53,2,1915-09-25 08:10:00 UTC,25 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]",0810AM,activity,reconnoitered,{},3036903,Armentières,"[2.88214, 50.68568]"
+1,AWD0002x11,diary,54,3,1915-09-25 00:00:00 UTC,25 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",diaryDate,25 Sep 1915,"{""day""=>[""25""], ""month""=>[""Sep""], ""year""=>[""1915""]}",3036903,Armentières,"[2.88214, 50.68568]"
+3,AWD0002x11,diary,54,3,1915-09-25 00:00:00 UTC,25 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",activity,reconnoitered,{},3036903,Armentières,"[2.88214, 50.68568]"
+9,AWD0002x11,diary,54,4,1915-09-25 00:00:00 UTC,25 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",casualties,"killed: 2, wounded: 23",{},3036903,Armentières,"[2.88214, 50.68568]"
+10,AWD0002x11,diary,54,5,1915-09-26 00:00:00 UTC,26 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",diaryDate,26 Sep 1915,"{""day""=>[""26""], ""month""=>[""Sep""], ""year""=>[""1915""]}",3036903,Armentières,"[2.88214, 50.68568]"
+12,AWD0002x11,diary,54,2,1915-09-26 00:00:00 UTC,26 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",activity,reconnoitered,{},3036903,Armentières,"[2.88214, 50.68568]"
+19,AWD0002x11,diary,54,4,1915-09-26 00:00:00 UTC,26 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",person,Lieutenant Jagdam Singh,"{""first""=>[""Jagdam""], ""surname""=>[""Singh""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",3036903,Armentières,"[2.88214, 50.68568]"
+21,AWD0002x11,diary,54,4,1915-09-26 00:00:00 UTC,26 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",person,Lieutenant Kesar Shah,"{""first""=>[""Kesar""], ""surname""=>[""Shah""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3036903,Armentières,"[2.88214, 50.68568]"
+23,AWD0002x11,diary,54,4,1915-09-27 00:00:00 UTC,27 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",diaryDate,27 Sep 1915,"{""day""=>[""27""], ""month""=>[""Sep""], ""year""=>[""1915""]}",3036903,Armentières,"[2.88214, 50.68568]"
+24,AWD0002x11,diary,54,3,1915-09-27 00:00:00 UTC,27 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",activity,reconnoitered,{},3036903,Armentières,"[2.88214, 50.68568]"
+26,AWD0002x11,diary,54,2,1915-09-27 00:00:00 UTC,27 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",activity,enemy_activity,{},3036903,Armentières,"[2.88214, 50.68568]"
+28,AWD0002x11,diary,54,3,1915-09-27 00:00:00 UTC,27 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",place,La Bassee,"{""place""=>[""La Bassee""], ""location""=>[""false""], ""name""=>[""La Bassée""], ""lat""=>[""50.53424""], ""long""=>[""2.8062""], ""id""=>[""3011307""]}",3036903,Armentières,"[2.88214, 50.68568]"
+1,AWD0002wyh,diary,55,3,1915-09-27 00:00:00 UTC,27 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",diaryDate,27 Sep 1915,"{""day""=>[""27""], ""month""=>[""Sep""], ""year""=>[""1915""]}",3036903,Armentières,"[2.88214, 50.68568]"
+3,AWD0002wyh,diary,55,3,1915-09-27 00:00:00 UTC,27 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",activity,enemy_activity,{},3036903,Armentières,"[2.88214, 50.68568]"
+4,AWD0002wyh,diary,55,4,1915-09-27 00:00:00 UTC,27 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",activity,reconnoitered,{},3036903,Armentières,"[2.88214, 50.68568]"
+5,AWD0002wyh,diary,55,2,1915-09-27 00:00:00 UTC,27 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",activity,attack,{},3036903,Armentières,"[2.88214, 50.68568]"
+6,AWD0002wyh,diary,55,2,1915-09-27 00:00:00 UTC,27 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",activity,enemy_activity,{},3036903,Armentières,"[2.88214, 50.68568]"
+7,AWD0002wyh,diary,55,4,1915-09-27 00:00:00 UTC,27 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",casualties,wounded: 6,{},3036903,Armentières,"[2.88214, 50.68568]"
+9,AWD0002wyh,diary,55,5,1915-09-27 00:00:00 UTC,27 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",person,Lieutenant Colonel  Campbell,"{""first""=>[""""], ""surname""=>[""Campbell""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",3036903,Armentières,"[2.88214, 50.68568]"
+10,AWD0002wyh,diary,55,5,1915-09-28 00:00:00 UTC,28 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",diaryDate,28 Sep 1915,"{""day""=>[""28""], ""month""=>[""Sep""], ""year""=>[""1915""]}",3036903,Armentières,"[2.88214, 50.68568]"
+11,AWD0002wyh,diary,55,3,1915-09-28 00:00:00 UTC,28 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",activity,fire,{},3036903,Armentières,"[2.88214, 50.68568]"
+14,AWD0002wyh,diary,55,2,1915-09-28 00:00:00 UTC,28 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",activity,line,{},3036903,Armentières,"[2.88214, 50.68568]"
+15,AWD0002wyh,diary,55,4,1915-09-28 00:00:00 UTC,28 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",activity,reconnoitered,{},3036903,Armentières,"[2.88214, 50.68568]"
+16,AWD0002wyh,diary,55,2,1915-09-28 00:00:00 UTC,28 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",activity,attack,{},3036903,Armentières,"[2.88214, 50.68568]"
+20,AWD0002wyh,diary,55,5,1915-09-28 00:00:00 UTC,28 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",casualties,wounded: 7,{},3036903,Armentières,"[2.88214, 50.68568]"
+21,AWD0002wyh,diary,55,5,1915-09-29 00:00:00 UTC,29 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",diaryDate,29 Sep 1915,"{""day""=>[""29""], ""month""=>[""Sep""], ""year""=>[""1915""]}",3036903,Armentières,"[2.88214, 50.68568]"
+22,AWD0002wyh,diary,55,4,1915-09-29 00:00:00 UTC,29 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",activity,fire,{},3036903,Armentières,"[2.88214, 50.68568]"
+24,AWD0002wyh,diary,55,4,1915-09-29 00:00:00 UTC,29 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",activity,reconnoitered,{},3036903,Armentières,"[2.88214, 50.68568]"
+1,AWD0002x00,diary,56,4,1915-09-29 00:00:00 UTC,29 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",diaryDate,29 Sep 1915,"{""day""=>[""29""], ""month""=>[""Sep""], ""year""=>[""1915""]}",3036903,Armentières,"[2.88214, 50.68568]"
+6,AWD0002x00,diary,56,3,1915-09-29 00:00:00 UTC,29 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",activity,attack,{},3036903,Armentières,"[2.88214, 50.68568]"
+7,AWD0002x00,diary,56,2,1915-09-29 00:00:00 UTC,29 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",casualties,wounded: 5,{},3036903,Armentières,"[2.88214, 50.68568]"
+9,AWD0002x00,diary,56,4,1915-09-30 00:00:00 UTC,30 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",diaryDate,30 Sep 1915,"{""day""=>[""30""], ""month""=>[""Sep""], ""year""=>[""1915""]}",3036903,Armentières,"[2.88214, 50.68568]"
+10,AWD0002x00,diary,56,2,1915-09-30 00:00:00 UTC,30 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",activity,reconnoitered,{},3036903,Armentières,"[2.88214, 50.68568]"
+12,AWD0002x00,diary,56,3,1915-09-30 00:00:00 UTC,30 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",activity,attack,{},3036903,Armentières,"[2.88214, 50.68568]"
+15,AWD0002x00,diary,56,3,1915-09-30 00:00:00 UTC,30 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",activity,reconnoitered,{},3036903,Armentières,"[2.88214, 50.68568]"
+16,AWD0002x00,diary,56,5,1915-09-30 00:00:00 UTC,30 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",activity,fire,{},3036903,Armentières,"[2.88214, 50.68568]"
+17,AWD0002x00,diary,56,4,1915-09-30 00:00:00 UTC,30 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",casualties,wounded: 7,{},3036903,Armentières,"[2.88214, 50.68568]"
+19,AWD0002x00,diary,56,3,1915-09-30 00:00:00 UTC,30 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",person,Lieutenant Colonel  Campbell,"{""first""=>[""""], ""surname""=>[""Campbell""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",3036903,Armentières,"[2.88214, 50.68568]"
+2,AWD0002x01,signals,57,2,,,,[],,date,13 Sep 1915,{},,,
+5,AWD0002x01,signals,57,3,,,,[],,time,0525PM,{},,,
+4,AWD0002wyv,"diary, report",59,2,,,,[],,place,Boarshead,"{""place""=>[""Boarshead""], ""location""=>[""true""], ""name""=>[""Boarshead""], ""lat""=>[""51.07217""], ""long""=>[""0.18874""], ""id""=>[""10109474""]}",,,
+5,AWD0002wyv,"diary, report",59,2,,,,[],,time,0100AM,{},,,
+8,AWD0002wyv,"diary, report",59,2,,,,[],,activity,fire,{},,,
+9,AWD0002wyv,"diary, report",59,2,,,,[],,time,0900AM,{},,,
+11,AWD0002wyv,"diary, report",59,2,,,,[],,time,1045AM,{},,,
+13,AWD0002wyv,"diary, report",59,2,,,,[],,time,0245PM,{},,,
+16,AWD0002wyv,"diary, report",59,2,,,,[],,time,0500PM,{},,,
+18,AWD0002wyv,"diary, report",59,2,,,,[],,time,1030PM,{},,,
+21,AWD0002wyv,"diary, report",59,2,,,,[],,place,"Ferne Du Bois, Ferne du Bois","{""place""=>[""Ferne Du Bois"", ""Ferne du Bois""], ""location""=>[""true"", ""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+23,AWD0002wyv,"diary, report",59,2,,,,[],,date,1 Sep 1915,{},,,
+24,AWD0002wyv,"diary, report",59,2,,,,[],,diaryDate,"1 Oct,Sep 1915","{""day""=>[""1""], ""month""=>[""Oct"", ""Sep""], ""year""=>[""1915""]}",,,
+1,AWD0002wy9,report,60,2,,,,[],,reference,Appendix II,{},,,
+4,AWD0002wy9,report,60,2,,,,[],,activity,attack,{},,,
+7,AWD0002wy9,report,60,3,,,,[],,person,Captain  Wood,"{""first""=>[""""], ""surname""=>[""Wood""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""""]}",,,
+22,AWD0002wy9,report,60,2,,,,[],,activity,construction,{},,,
+25,AWD0002wy9,report,60,3,,,,[],,date,2 Sep 1915,{},,,
+1,AWD0002x08,report,61,2,,,,[],,reference,Appendix III,{},,,
+4,AWD0002x08,report,61,3,,,,[],,date,3 Sep 1915,{},,,
+2,AWD0002x0c,report,62,2,,,,[],,reference,Appendix IV,{},,,
+4,AWD0002x0c,report,62,3,,,,[],,date,4 Sep 1915,{},,,
+1,AWD0002x0k,report,63,2,,,,[],,reference,Appendix V,{},,,
+8,AWD0002x0k,report,63,2,,,,[],,activity,enemy_activity,{},,,
+11,AWD0002x0k,report,63,3,,,,[],,date,5 Sep 1915,{},,,
+1,AWD0002x0i,report,64,2,,,,[],,reference,Appendix VI,{},,,
+3,AWD0002x0i,report,64,3,,,,[],,date,6 Sep 1915,{},,,
+25,AWD0002x0r,report,65,2,,,,[],,date,7 Sep 1915,{},,,
+4,AWD0002wyz,diary,66,3,1915-09-30 23:35:00 UTC,30 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]",1135PM,time,1135PM,{},3036903,Armentières,"[2.88214, 50.68568]"
+7,AWD0002wyz,diary,66,2,1915-09-30 23:35:00 UTC,30 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]",1135PM,place,"Fme du Bois, Feme du Bois","{""place""=>[""Fme du Bois"", ""Feme du Bois""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3036903,Armentières,"[2.88214, 50.68568]"
+8,AWD0002wyz,diary,66,2,1915-09-30 23:35:00 UTC,30 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]",1135PM,activity,attack,{},3036903,Armentières,"[2.88214, 50.68568]"
+11,AWD0002wyz,diary,66,2,1915-09-30 17:00:00 UTC,30 Sep 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]",0500PM,time,0500PM,{},3036903,Armentières,"[2.88214, 50.68568]"
+23,AWD0002wyz,diary,66,2,,"8 Oct,Sep 1915","Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",diaryDate,"8 Oct,Sep 1915","{""day""=>[""8""], ""month""=>[""Oct"", ""Sep""], ""year""=>[""1915""]}",3036903,Armentières,"[2.88214, 50.68568]"
+1,AWD0002wzs,"report, diary",67,2,,,,[],,diaryDate,9 Sep 1915,"{""day""=>[""9""], ""month""=>[""Sep""], ""year""=>[""1915""]}",,,
+7,AWD0002wzs,"report, diary",67,2,,,,[],,activity,attack,{},,,
+8,AWD0002wzs,"report, diary",67,2,,,,[],,activity,fire,{},,,
+9,AWD0002wzs,"report, diary",67,2,,,,[],,time,1145PM,{},,,
+13,AWD0002wzs,"report, diary",67,2,,,,[],,activity,reconnoitered,{},,,
+17,AWD0002wzs,"report, diary",67,2,,,,[],,time,0825AM,{},,,
+18,AWD0002wzs,"report, diary",67,2,,,,[],,activity,attack,{},,,
+19,AWD0002wzs,"report, diary",67,2,,,,[],,activity,fire,{},,,
+27,AWD0002wzs,"report, diary",67,4,,,,[],,activity,enemy_activity,{},,,
+32,AWD0002wzs,"report, diary",67,2,,,,[],,activity,enemy_activity,{},,,
+3,AWD0002x0o,signals,68,2,,,,[],,signals,situation,{},,,
+4,AWD0002x0o,signals,68,2,,,,[],,time,0640PM,{},,,
+1,AWD0002x0t,orders,70,2,,,,[],,reference,Appendix XI,{},,,
+7,AWD0002x0t,orders,70,2,,,,[],,date,13 Sep 1915,{},,,
+8,AWD0002x0t,orders,70,2,,,,[],,orders,attack,{},,,
+4,AWD0002x09,orders,71,2,,,,[],,orders,entrench,{},,,
+2,AWD0002wze,orders,72,3,,,,[],,orders,attack,{},,,
+2,AWD0002wzg,orders,73,3,,,,[],,orders,attack,{},,,
+1,AWD0002wz7,diary,76,5,1915-11-01 00:00:00 UTC,1 Nov 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",diaryDate,1 Nov 1915,"{""day""=>[""1""], ""month""=>[""Nov""], ""year""=>[""1915""]}",3036903,Armentières,"[2.88214, 50.68568]"
+2,AWD0002wz7,diary,76,5,1915-11-01 00:00:00 UTC,1 Nov 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",activity,resting,{},3036903,Armentières,"[2.88214, 50.68568]"
+3,AWD0002wz7,diary,76,5,1915-11-01 00:00:00 UTC,1 Nov 1915,"Rue du Bois, Rue De Bois","[2.53201, 50.07279]","",activity,training,{},3036903,Armentières,"[2.88214, 50.68568]"
+4,AWD0002wz7,diary,76,4,1915-11-01 00:00:00 UTC,1 Nov 1915,La Gorgue,"[2.71502, 50.6379]","",place,La Gorgue,"{""place""=>[""La Gorgue""], ""location""=>[""true""], ""name""=>[""La Gorgue""], ""lat""=>[""50.6379""], ""long""=>[""2.71502""], ""id""=>[""3009050""]}",3009050,La Gorgue,"[2.71502, 50.6379]"
+6,AWD0002wz7,diary,76,2,1915-11-01 00:00:00 UTC,1 Nov 1915,La Gorgue,"[2.71502, 50.6379]","",place,La Gorgue,"{""place""=>[""La Gorgue""], ""location""=>[""true""], ""name""=>[""La Gorgue""], ""lat""=>[""50.6379""], ""long""=>[""2.71502""], ""id""=>[""3009050""]}",3009050,La Gorgue,"[2.71502, 50.6379]"
+8,AWD0002wz7,diary,76,2,1915-11-08 00:00:00 UTC,8 Nov 1915,La Gorgue,"[2.71502, 50.6379]","",diaryDate,8 Nov 1915,"{""day""=>[""8""], ""month""=>[""Nov""], ""year""=>[""1915""]}",3009050,La Gorgue,"[2.71502, 50.6379]"
+9,AWD0002wz7,diary,76,2,1915-11-07 00:00:00 UTC,7 Nov 1915,La Gorgue,"[2.71502, 50.6379]","",diaryDate,7 Nov 1915,"{""day""=>[""7""], ""month""=>[""Nov""], ""year""=>[""1915""]}",3009050,La Gorgue,"[2.71502, 50.6379]"
+10,AWD0002wz7,diary,76,2,1915-11-08 00:00:00 UTC,8 Nov 1915,La Gorgue,"[2.71502, 50.6379]","",diaryDate,8 Nov 1915,"{""day""=>[""8""], ""month""=>[""Nov""], ""year""=>[""1915""]}",3009050,La Gorgue,"[2.71502, 50.6379]"
+11,AWD0002wz7,diary,76,2,1915-11-08 10:23:00 UTC,8 Nov 1915,La Gorgue,"[2.71502, 50.6379]",1023AM,time,1023AM,{},3009050,La Gorgue,"[2.71502, 50.6379]"
+12,AWD0002wz7,diary,76,5,1915-11-08 10:23:00 UTC,8 Nov 1915,La Gorgue,"[2.71502, 50.6379]",1023AM,activity,movement,{},3009050,La Gorgue,"[2.71502, 50.6379]"
+13,AWD0002wz7,diary,76,3,1915-11-08 10:23:00 UTC,8 Nov 1915,La Gorgue,"[2.71502, 50.6379]",1023AM,place,Berguette,"{""place""=>[""Berguette""], ""location""=>[""false""], ""name""=>[""Berguette""], ""lat""=>[""50.60722""], ""long""=>[""2.47431""], ""id""=>[""3033360""]}",3009050,La Gorgue,"[2.71502, 50.6379]"
+14,AWD0002wz7,diary,76,5,1915-11-09 00:00:00 UTC,9 Nov 1915,La Gorgue,"[2.71502, 50.6379]","",diaryDate,9 Nov 1915,"{""day""=>[""9""], ""month""=>[""Nov""], ""year""=>[""1915""]}",3009050,La Gorgue,"[2.71502, 50.6379]"
+17,AWD0002wz7,diary,76,3,1915-11-09 00:00:00 UTC,9 Nov 1915,La Gorgue,"[2.71502, 50.6379]","",activity,resting,{},3009050,La Gorgue,"[2.71502, 50.6379]"
+18,AWD0002wz7,diary,76,2,1915-11-09 00:00:00 UTC,9 Nov 1915,La Gorgue,"[2.71502, 50.6379]","",domestic,accomodation,{},3009050,La Gorgue,"[2.71502, 50.6379]"
+19,AWD0002wz7,diary,76,4,1915-11-09 00:00:00 UTC,9 Nov 1915,Le Cornet Brassard,"[2.71502, 50.6379]","",place,Le Cornet Brassard,"{""place""=>[""Le Cornet Brassard""], ""location""=>[""true""], ""name""=>[""La Gorgue""], ""lat""=>[""50.6379""], ""long""=>[""2.71502""], ""id""=>[""3009050""]}",,,
+23,AWD0002wz7,diary,76,2,1915-11-09 00:00:00 UTC,9 Nov 1915,Le Cornet Brassard,"[2.71502, 50.6379]","",domestic,parades,{},,,
+26,AWD0002wz7,diary,76,3,1915-11-09 00:00:00 UTC,9 Nov 1915,Le Cornet Brassard,"[2.71502, 50.6379]","",domestic,medical,{},,,
+27,AWD0002wz7,diary,76,3,1915-11-17 00:00:00 UTC,17 Nov 1915,Le Cornet Brassard,"[2.71502, 50.6379]","",diaryDate,17 Nov 1915,"{""day""=>[""17""], ""month""=>[""Nov""], ""year""=>[""1915""]}",,,
+28,AWD0002wz7,diary,76,5,1915-11-18 00:00:00 UTC,18 Nov 1915,Le Cornet Brassard,"[2.71502, 50.6379]","",diaryDate,18 Nov 1915,"{""day""=>[""18""], ""month""=>[""Nov""], ""year""=>[""1915""]}",,,
+29,AWD0002wz7,diary,76,2,1915-11-18 10:45:00 UTC,18 Nov 1915,Le Cornet Brassard,"[2.71502, 50.6379]",1045AM,time,1045AM,{},,,
+30,AWD0002wz7,diary,76,5,1915-11-18 10:45:00 UTC,18 Nov 1915,Le Cornet Brassard,"[2.71502, 50.6379]",1045AM,activity,movement,{},,,
+32,AWD0002wz7,diary,76,2,1915-11-18 10:45:00 UTC,18 Nov 1915,Glomenghem,"[2.33692, 50.64503]",1045AM,place,Glomenghem,"{""place""=>[""Glomenghem""], ""location""=>[""true""], ""name""=>[""Glomenghem""], ""lat""=>[""50.64503""], ""long""=>[""2.33692""], ""id""=>[""3015799""]}",3015799,Glomenghem,"[2.33692, 50.64503]"
+33,AWD0002wz7,diary,76,2,1915-11-18 10:45:00 UTC,18 Nov 1915,Glomenghem,"[2.33692, 50.64503]",1045AM,place,Aire,"{""place""=>[""Aire""], ""location""=>[""false""], ""name""=>[""Aire-sur-la-Lys""], ""lat""=>[""50.63871""], ""long""=>[""2.39876""], ""id""=>[""3038393""]}",3015799,Glomenghem,"[2.33692, 50.64503]"
+34,AWD0002wz7,diary,76,5,1915-11-19 00:00:00 UTC,19 Nov 1915,Glomenghem,"[2.33692, 50.64503]","",diaryDate,19 Nov 1915,"{""day""=>[""19""], ""month""=>[""Nov""], ""year""=>[""1915""]}",3015799,Glomenghem,"[2.33692, 50.64503]"
+35,AWD0002wz7,diary,76,5,1915-11-19 00:00:00 UTC,19 Nov 1915,Glomenghem,"[2.33692, 50.64503]","",place,Glomenghem,"{""place""=>[""Glomenghem""], ""location""=>[""true""], ""name""=>[""Glomenghem""], ""lat""=>[""50.64503""], ""long""=>[""2.33692""], ""id""=>[""3015799""]}",3015799,Glomenghem,"[2.33692, 50.64503]"
+36,AWD0002wz7,diary,76,2,1915-11-19 00:00:00 UTC,19 Nov 1915,Glomenghem,"[2.33692, 50.64503]","",activity,resting,{},3015799,Glomenghem,"[2.33692, 50.64503]"
+39,AWD0002wz7,diary,76,3,1915-11-19 00:00:00 UTC,19 Nov 1915,Glomenghem,"[2.33692, 50.64503]","",activity,training,{},3015799,Glomenghem,"[2.33692, 50.64503]"
+40,AWD0002wz7,diary,76,3,1915-11-19 00:00:00 UTC,19 Nov 1915,Glomenghem,"[2.33692, 50.64503]","",domestic,parades,{},3015799,Glomenghem,"[2.33692, 50.64503]"
+41,AWD0002wz7,diary,76,3,1915-11-28 00:00:00 UTC,28 Nov 1915,Glomenghem,"[2.33692, 50.64503]","",diaryDate,28 Nov 1915,"{""day""=>[""28""], ""month""=>[""Nov""], ""year""=>[""1915""]}",3015799,Glomenghem,"[2.33692, 50.64503]"
+42,AWD0002wz7,diary,76,2,1915-11-28 00:00:00 UTC,28 Nov 1915,Glomenghem,"[2.33692, 50.64503]","",domestic,accomodation,{},3015799,Glomenghem,"[2.33692, 50.64503]"
+43,AWD0002wz7,diary,76,3,1915-11-29 00:00:00 UTC,29 Nov 1915,Glomenghem,"[2.33692, 50.64503]","",diaryDate,29 Nov 1915,"{""day""=>[""29""], ""month""=>[""Nov""], ""year""=>[""1915""]}",3015799,Glomenghem,"[2.33692, 50.64503]"
+45,AWD0002wz7,diary,76,2,1915-11-29 00:00:00 UTC,29 Nov 1915,Glomenghem,"[2.33692, 50.64503]","",diaryDate,29 Nov 1915,"{""day""=>[""29""], ""month""=>[""Nov""], ""year""=>[""1915""]}",3015799,Glomenghem,"[2.33692, 50.64503]"
+46,AWD0002wz7,diary,76,2,1915-11-29 09:10:00 UTC,29 Nov 1915,Glomenghem,"[2.33692, 50.64503]",0910AM,time,0910AM,{},3015799,Glomenghem,"[2.33692, 50.64503]"
+47,AWD0002wz7,diary,76,5,1915-11-29 09:10:00 UTC,29 Nov 1915,Glomenghem,"[2.33692, 50.64503]",0910AM,activity,movement,{},3015799,Glomenghem,"[2.33692, 50.64503]"
+48,AWD0002wz7,diary,76,2,1915-11-29 09:10:00 UTC,29 Nov 1915,"LUGYI, Lugy","[2.17519, 50.52301]",0910AM,place,"LUGYI, Lugy","{""place""=>[""LUGYI"", ""Lugy""], ""location""=>[""true""], ""name""=>["""", ""Lugy""], ""lat""=>["""", ""50.52301""], ""long""=>["""", ""2.17519""], ""id""=>["""", ""2997155""]}",2997155,Lugy,"[2.17519, 50.52301]"
+49,AWD0002wz7,diary,76,3,1915-11-30 00:00:00 UTC,30 Nov 1915,"LUGYI, Lugy","[2.17519, 50.52301]","",diaryDate,30 Nov 1915,"{""day""=>[""30""], ""month""=>[""Nov""], ""year""=>[""1915""]}",2997155,Lugy,"[2.17519, 50.52301]"
+50,AWD0002wz7,diary,76,5,1915-11-30 00:00:00 UTC,30 Nov 1915,"LUGYI, Lugyi","[2.33692, 50.64503]","",place,"LUGYI, Lugyi","{""place""=>[""LUGYI"", ""Lugyi""], ""location""=>[""true""], ""name""=>[""Glomenghem""], ""lat""=>[""50.64503""], ""long""=>[""2.33692""], ""id""=>[""3015799""]}",,,
+51,AWD0002wz7,diary,76,2,1915-11-30 00:00:00 UTC,30 Nov 1915,"LUGYI, Lugyi","[2.33692, 50.64503]","",diaryDate,30 Nov 1915,"{""day""=>[""30""], ""month""=>[""Nov""], ""year""=>[""1915""]}",,,
+52,AWD0002wz7,diary,76,2,1915-11-30 00:00:00 UTC,30 Nov 1915,"LUGYI, Lugyi","[2.33692, 50.64503]","",activity,resting,{},,,
+55,AWD0002wz7,diary,76,5,1915-11-30 00:00:00 UTC,30 Nov 1915,"LUGYI, Lugyi","[2.33692, 50.64503]","",person,Major N M Geoghegan,"{""first""=>[""N M""], ""surname""=>[""Geoghegan""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+3,AWD0002wzd,diary,80,2,1915-11-30 00:00:00 UTC,30 Nov 1915,"LUGYI, Lugyi","[2.33692, 50.64503]","",activity,line,{},,,
+4,AWD0002wzd,diary,80,4,1915-10-01 00:00:00 UTC,1 Oct 1915,"LUGYI, Lugyi","[2.33692, 50.64503]","",diaryDate,1 Oct 1915,"{""day""=>[""1""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+5,AWD0002wzd,diary,80,5,1915-10-01 00:00:00 UTC,1 Oct 1915,"LUGYI, Lugyi","[2.33692, 50.64503]","",activity,reconnoitered,{},,,
+6,AWD0002wzd,diary,80,2,1915-10-01 00:00:00 UTC,1 Oct 1915,"LUGYI, Lugyi","[2.33692, 50.64503]","",activity,enemy_activity,{},,,
+7,AWD0002wzd,diary,80,3,1915-10-01 00:00:00 UTC,1 Oct 1915,"LUGYI, Lugyi","[2.33692, 50.64503]","",activity,attack,{},,,
+9,AWD0002wzd,diary,80,2,1915-10-01 00:00:00 UTC,1 Oct 1915,"LUGYI, Lugyi","[2.33692, 50.64503]","",activity,enemy_activity,{},,,
+12,AWD0002wzd,diary,80,2,1915-10-01 00:00:00 UTC,1 Oct 1915,"LUGYI, Lugyi","[2.33692, 50.64503]","",casualties,wounded: 1,{},,,
+14,AWD0002wzd,diary,80,5,1915-10-02 00:00:00 UTC,2 Oct 1915,"LUGYI, Lugyi","[2.33692, 50.64503]","",diaryDate,2 Oct 1915,"{""day""=>[""2""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+15,AWD0002wzd,diary,80,2,1915-10-02 00:00:00 UTC,2 Oct 1915,"LUGYI, Lugyi","[2.33692, 50.64503]","",activity,line,{},,,
+18,AWD0002wzd,diary,80,3,1915-10-02 00:00:00 UTC,2 Oct 1915,"LUGYI, Lugyi","[2.33692, 50.64503]","",activity,attack,{},,,
+20,AWD0002wzd,diary,80,2,1915-10-02 00:00:00 UTC,2 Oct 1915,"LUGYI, Lugyi","[2.33692, 50.64503]","",casualties,wounded: 4,{},,,
+21,AWD0002wzd,diary,80,5,1915-10-03 00:00:00 UTC,3 Oct 1915,"LUGYI, Lugyi","[2.33692, 50.64503]","",diaryDate,3 Oct 1915,"{""day""=>[""3""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+22,AWD0002wzd,diary,80,3,1915-10-03 00:00:00 UTC,3 Oct 1915,"LUGYI, Lugyi","[2.33692, 50.64503]","",activity,fire,{},,,
+1,AWD0002wz5,diary,81,2,1915-10-03 00:00:00 UTC,3 Oct 1915,"LUGYI, Lugyi","[2.33692, 50.64503]","",diaryDate,3 Oct 1915,"{""day""=>[""3""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+3,AWD0002wz5,diary,81,2,1915-10-03 00:00:00 UTC,3 Oct 1915,"LUGYI, Lugyi","[2.33692, 50.64503]","",activity,fire,{},,,
+5,AWD0002wz5,diary,81,3,1915-10-03 00:00:00 UTC,3 Oct 1915,"LUGYI, Lugyi","[2.33692, 50.64503]","",diaryDate,3 Oct 1915,"{""day""=>[""3""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+9,AWD0002wz5,diary,81,4,1915-10-03 00:00:00 UTC,3 Oct 1915,"LUGYI, Lugyi","[2.33692, 50.64503]","",unit,8th South Staffords,"{""name""=>[""8th South Staffords""], ""context""=>[""relieved_by""]}",,,
+10,AWD0002wz5,diary,81,3,1915-10-03 00:00:00 UTC,3 Oct 1915,"LUGYI, Lugyi","[2.33692, 50.64503]","",activity,movement,{},,,
+13,AWD0002wz5,diary,81,2,1915-10-03 00:00:00 UTC,3 Oct 1915,"Chapelle Duelle, Chapelle Duvelle","[0.0, 0.0]","",place,"Chapelle Duelle, Chapelle Duvelle","{""place""=>[""Chapelle Duelle"", ""Chapelle Duvelle""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+15,AWD0002wz5,diary,81,2,1915-10-03 00:00:00 UTC,3 Oct 1915,Chapelle Duvelle,"[0.0, 0.0]","",place,Chapelle Duvelle,"{""place""=>[""Chapelle Duvelle""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+16,AWD0002wz5,diary,81,2,1915-10-03 00:00:00 UTC,3 Oct 1915,Chapelle Duvelle,"[0.0, 0.0]","",activity,movement,{},,,
+17,AWD0002wz5,diary,81,4,1915-10-03 00:00:00 UTC,3 Oct 1915,Chapelle Duvelle,"[0.0, 0.0]","",person,Lieutenant H H Green,"{""first""=>[""H H""], ""surname""=>[""Green""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+22,AWD0002wz5,diary,81,5,1915-10-04 00:00:00 UTC,4 Oct 1915,Chapelle Duvelle,"[0.0, 0.0]","",diaryDate,4 Oct 1915,"{""day""=>[""4""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+23,AWD0002wz5,diary,81,2,1915-10-04 00:00:00 UTC,4 Oct 1915,Chapelle Duvelle,"[0.0, 0.0]","",activity,resting,{},,,
+26,AWD0002wz5,diary,81,2,1915-10-04 00:00:00 UTC,4 Oct 1915,Chapelle Duvelle,"[0.0, 0.0]","",place,Rue du Ponch,"{""place""=>[""Rue du Ponch""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+1,AWD0002wyy,diary,82,5,1915-10-05 00:00:00 UTC,5 Oct 1915,Chapelle Duvelle,"[0.0, 0.0]","",diaryDate,5 Oct 1915,"{""day""=>[""5""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+3,AWD0002wyy,diary,82,2,1915-10-05 00:00:00 UTC,5 Oct 1915,Rue du Ponch,"[0.0, 0.0]","",place,Rue du Ponch,"{""place""=>[""Rue du Ponch""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+5,AWD0002wyy,diary,82,3,1915-10-05 00:00:00 UTC,5 Oct 1915,Rue du Ponch,"[0.0, 0.0]","",activity,movement,{},,,
+7,AWD0002wyy,diary,82,5,1915-10-06 00:00:00 UTC,6 Oct 1915,Rue du Ponch,"[0.0, 0.0]","",diaryDate,6 Oct 1915,"{""day""=>[""6""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+8,AWD0002wyy,diary,82,2,1915-10-06 00:00:00 UTC,6 Oct 1915,Rue du Ponch,"[0.0, 0.0]","",activity,movement,{},,,
+9,AWD0002wyy,diary,82,2,1915-10-06 00:00:00 UTC,6 Oct 1915,Rue du Ponch,"[0.0, 0.0]","",unit,Jullundur Bde.,"{""name""=>[""Jullundur Bde.""], ""context""=>[""joined""]}",,,
+11,AWD0002wyy,diary,82,3,1915-10-06 00:00:00 UTC,6 Oct 1915,Rue du Ponch,"[0.0, 0.0]","",activity,movement,{},,,
+13,AWD0002wyy,diary,82,3,1915-10-06 00:00:00 UTC,6 Oct 1915,Rue du Ponch,"[0.0, 0.0]","",activity,reserve,{},,,
+14,AWD0002wyy,diary,82,2,1915-10-06 00:00:00 UTC,6 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]","",place,Ludhiana Lodge,"{""place""=>[""Ludhiana Lodge""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+15,AWD0002wyy,diary,82,3,1915-10-06 00:00:00 UTC,6 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]","",unit,59th Rifles,"{""name""=>[""59th Rifles""], ""context""=>[""relieved""]}",,,
+16,AWD0002wyy,diary,82,5,1915-10-07 00:00:00 UTC,7 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]","",diaryDate,7 Oct 1915,"{""day""=>[""7""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+19,AWD0002wyy,diary,82,3,1915-10-07 00:00:00 UTC,7 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]","",activity,working,{},,,
+21,AWD0002wyy,diary,82,2,1915-10-11 00:00:00 UTC,11 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]","",diaryDate,11 Oct 1915,"{""day""=>[""11""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+22,AWD0002wyy,diary,82,3,1915-10-11 00:00:00 UTC,11 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]","",activity,training,{},,,
+1,AWD0002x0f,diary,84,5,1915-10-11 00:00:00 UTC,11 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]","",diaryDate,11 Oct 1915,"{""day""=>[""11""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+2,AWD0002x0f,diary,84,2,1915-10-11 00:00:00 UTC,11 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]","",activity,training,{},,,
+3,AWD0002x0f,diary,84,2,1915-10-11 00:00:00 UTC,11 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]","",diaryDate,11 Oct 1915,"{""day""=>[""11""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+9,AWD0002x0f,diary,84,2,1915-10-12 00:00:00 UTC,12 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]","",diaryDate,12 Oct 1915,"{""day""=>[""12""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+11,AWD0002x0f,diary,84,4,1915-10-12 00:00:00 UTC,12 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]","",diaryDate,12 Oct 1915,"{""day""=>[""12""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+13,AWD0002x0f,diary,84,5,1915-10-12 00:00:00 UTC,12 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]","",person,Lieutenant Colonel  Murray,"{""first""=>[""""], ""surname""=>[""Murray""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""departed_posted""], ""unit""=>[""58th Rifles""]}",,,
+14,AWD0002x0f,diary,84,5,1915-10-12 00:00:00 UTC,12 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]","",person,Captain  Conder,"{""first""=>[""""], ""surname""=>[""Conder""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""departed_posted""], ""unit""=>[""13th Ghurka Rifles""]}",,,
+15,AWD0002x0f,diary,84,5,1915-10-12 00:00:00 UTC,12 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]","",person,Lieutenant  Bampfield,"{""first""=>[""""], ""surname""=>[""Bampfield""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_posted""], ""unit""=>[""58th Rifles""]}",,,
+16,AWD0002x0f,diary,84,5,1915-10-12 00:00:00 UTC,12 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]","",person,Second Lieutenant  Humphrey,"{""first""=>[""""], ""surname""=>[""Humphrey""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",,,
+17,AWD0002x0f,diary,84,3,1915-10-12 00:00:00 UTC,12 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]","",activity,reserve,{},,,
+20,AWD0002x0f,diary,84,6,1915-10-13 00:00:00 UTC,13 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]","",diaryDate,13 Oct 1915,"{""day""=>[""13""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+24,AWD0002x0f,diary,84,3,1915-10-13 12:00:00 UTC,13 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]",1200PM,time,1200PM,{},,,
+26,AWD0002x0f,diary,84,3,1915-10-13 12:30:00 UTC,13 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]",1230PM,time,1230PM,{},,,
+27,AWD0002x0f,diary,84,4,1915-10-13 13:30:00 UTC,13 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]",0130PM,time,0130PM,{},,,
+28,AWD0002x0f,diary,84,3,1915-10-13 13:30:00 UTC,13 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]",0130PM,activity,attack,{},,,
+29,AWD0002x0f,diary,84,4,1915-10-13 13:45:00 UTC,13 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]",0145PM,time,0145PM,{},,,
+30,AWD0002x0f,diary,84,3,1915-10-13 13:56:00 UTC,13 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]",0156PM,time,0156PM,{},,,
+32,AWD0002x0f,diary,84,2,1915-10-13 13:56:00 UTC,13 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]",0156PM,activity,attack,{},,,
+33,AWD0002x0f,diary,84,4,1915-10-13 14:30:00 UTC,13 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]",0230PM,time,0230PM,{},,,
+40,AWD0002x0f,diary,84,2,1915-10-13 14:30:00 UTC,13 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]",0230PM,casualties,wounded: 4,{},,,
+1,AWD0002x0u,diary,85,5,1915-10-13 00:00:00 UTC,13 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]","",diaryDate,13 Oct 1915,"{""day""=>[""13""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+2,AWD0002x0u,diary,85,4,1915-10-13 00:00:00 UTC,13 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]","",person,Captain  Davson,"{""first""=>[""""], ""surname""=>[""Davson""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""departed_posted""], ""unit""=>[""58th Rifles""]}",,,
+3,AWD0002x0u,diary,85,4,1915-10-13 00:00:00 UTC,13 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]","",person,Captain  Martelli,"{""first""=>[""""], ""surname""=>[""Martelli""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""Queens Regt."", ""Queen's Regt."", ""Queen's Regiment"", """"]}",,,
+4,AWD0002x0u,diary,85,5,1915-10-14 00:00:00 UTC,14 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]","",diaryDate,14 Oct 1915,"{""day""=>[""14""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+5,AWD0002x0u,diary,85,4,1915-10-14 00:00:00 UTC,14 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]","",activity,reserve,{},,,
+6,AWD0002x0u,diary,85,4,1915-10-14 00:00:00 UTC,14 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]","",activity,working,{},,,
+7,AWD0002x0u,diary,85,4,1915-10-14 00:00:00 UTC,14 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]","",person,Captain  Burnett,"{""first""=>[""""], ""surname""=>[""Burnett""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+8,AWD0002x0u,diary,85,2,1915-10-14 00:00:00 UTC,14 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]","",casualties,wounded: 1,{},,,
+9,AWD0002x0u,diary,85,2,1915-10-14 00:00:00 UTC,14 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]","",activity,training,{},,,
+10,AWD0002x0u,diary,85,5,1915-10-15 00:00:00 UTC,15 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]","",diaryDate,15 Oct 1915,"{""day""=>[""15""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+11,AWD0002x0u,diary,85,2,1915-10-15 00:00:00 UTC,15 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]","",activity,reserve,{},,,
+12,AWD0002x0u,diary,85,4,1915-10-15 00:00:00 UTC,15 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]","",activity,working,{},,,
+13,AWD0002x0u,diary,85,4,1915-10-15 00:00:00 UTC,15 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]","",person,Captain Fakir Muhd,"{""first""=>[""Fakir""], ""surname""=>[""Muhd""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+14,AWD0002x0u,diary,85,2,1915-10-15 00:00:00 UTC,15 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]","",casualties,wounded: 1,{},,,
+16,AWD0002x0u,diary,85,4,1915-10-16 00:00:00 UTC,16 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]","",diaryDate,16 Oct 1915,"{""day""=>[""16""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+17,AWD0002x0u,diary,85,4,1915-10-16 00:00:00 UTC,16 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]","",activity,reserve,{},,,
+18,AWD0002x0u,diary,85,2,1915-10-16 00:00:00 UTC,16 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]","",place,Ludhiana Lodge,"{""place""=>[""Ludhiana Lodge""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+19,AWD0002x0u,diary,85,4,1915-10-16 00:00:00 UTC,16 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]","",activity,training,{},,,
+20,AWD0002x0u,diary,85,4,1915-10-16 00:00:00 UTC,16 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]","",activity,working,{},,,
+21,AWD0002x0u,diary,85,2,1915-10-19 00:00:00 UTC,19 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]","",diaryDate,19 Oct 1915,"{""day""=>[""19""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+22,AWD0002x0u,diary,85,5,1915-10-20 00:00:00 UTC,20 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]","",diaryDate,20 Oct 1915,"{""day""=>[""20""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+23,AWD0002x0u,diary,85,2,1915-10-20 17:00:00 UTC,20 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]",0500PM,time,0500PM,{},,,
+24,AWD0002x0u,diary,85,4,1915-10-20 17:00:00 UTC,20 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]",0500PM,activity,movement,{},,,
+27,AWD0002x0u,diary,85,3,1915-10-20 17:00:00 UTC,20 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]",0500PM,activity,line,{},,,
+28,AWD0002x0u,diary,85,5,1915-10-20 17:00:00 UTC,20 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]",0500PM,unit,57th Rifles,"{""name""=>[""57th Rifles""], ""context""=>[""relieved""]}",,,
+29,AWD0002x0u,diary,85,5,1915-10-21 00:00:00 UTC,21 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]","",diaryDate,21 Oct 1915,"{""day""=>[""21""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+33,AWD0002x0u,diary,85,4,1915-10-21 00:00:00 UTC,21 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]","",activity,fire,{},,,
+35,AWD0002x0u,diary,85,3,1915-10-21 00:00:00 UTC,21 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]","",activity,repair,{},,,
+37,AWD0002x0u,diary,85,3,1915-10-21 00:00:00 UTC,21 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]","",activity,repair,{},,,
+39,AWD0002x0u,diary,85,4,1915-10-21 00:00:00 UTC,21 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]","",unit,47th Sikhs,"{""name""=>[""47th Sikhs""], ""context""=>[""other""]}",,,
+2,AWD0002wyg,diary,86,5,1915-10-21 00:00:00 UTC,21 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]","",diaryDate,21 Oct 1915,"{""day""=>[""21""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+5,AWD0002wyg,diary,86,3,1915-10-21 00:00:00 UTC,21 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]","",casualties,wounded: 4,{},,,
+7,AWD0002wyg,diary,86,6,1915-10-22 00:00:00 UTC,22 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]","",diaryDate,22 Oct 1915,"{""day""=>[""22""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+8,AWD0002wyg,diary,86,3,1915-10-22 00:00:00 UTC,22 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]","",activity,repair,{},,,
+10,AWD0002wyg,diary,86,2,1915-10-22 00:00:00 UTC,22 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]","",activity,repair,{},,,
+12,AWD0002wyg,diary,86,5,1915-10-22 00:00:00 UTC,22 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]","",activity,reconnoitered,{},,,
+13,AWD0002wyg,diary,86,5,1915-10-22 00:00:00 UTC,22 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]","",casualties,wounded: 4,{},,,
+14,AWD0002wyg,diary,86,6,1915-10-23 00:00:00 UTC,23 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]","",diaryDate,23 Oct 1915,"{""day""=>[""23""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+15,AWD0002wyg,diary,86,2,1915-10-23 00:00:00 UTC,23 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]","",activity,quiet,{},,,
+19,AWD0002wyg,diary,86,4,1915-10-23 00:00:00 UTC,23 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]","",casualties,wounded: 2,{},,,
+20,AWD0002wyg,diary,86,6,1915-10-24 00:00:00 UTC,24 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]","",diaryDate,24 Oct 1915,"{""day""=>[""24""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+21,AWD0002wyg,diary,86,2,1915-10-24 00:00:00 UTC,24 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]","",activity,line,{},,,
+22,AWD0002wyg,diary,86,2,1915-10-24 00:00:00 UTC,24 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]","",activity,repair,{},,,
+23,AWD0002wyg,diary,86,3,1915-10-24 00:00:00 UTC,24 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]","",activity,working,{},,,
+27,AWD0002wyg,diary,86,6,1915-10-25 00:00:00 UTC,25 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]","",diaryDate,25 Oct 1915,"{""day""=>[""25""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+31,AWD0002wyg,diary,86,2,1915-10-25 00:00:00 UTC,25 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]","",activity,repair,{},,,
+32,AWD0002wyg,diary,86,3,1915-10-25 00:00:00 UTC,25 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]","",activity,attack,{},,,
+1,AWD0002wzk,diary,87,5,1915-10-26 00:00:00 UTC,26 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]","",diaryDate,26 Oct 1915,"{""day""=>[""26""], ""month""=>[""Oct""], ""year""=>[""1915""]}",,,
+3,AWD0002wzk,diary,87,2,1915-10-26 00:00:00 UTC,26 Oct 1915,Ludhiana Lodge,"[0.0, 0.0]","",activity,enemy_activity,{},,,
+4,AWD0002wzk,diary,87,4,1915-10-26 00:00:00 UTC,26 Oct 1915,Neuve Chapelle,"[2.78196, 50.58582]","",place,Neuve Chapelle,"{""place""=>[""Neuve Chapelle""], ""location""=>[""true""], ""name""=>[""Neuve-Chapelle""], ""lat""=>[""50.58582""], ""long""=>[""2.78196""], ""id""=>[""2990589""]}",2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+6,AWD0002wzk,diary,87,2,1915-10-26 00:00:00 UTC,26 Oct 1915,Neuve Chapelle,"[2.78196, 50.58582]","",activity,repair,{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+8,AWD0002wzk,diary,87,4,1915-10-26 00:00:00 UTC,26 Oct 1915,Neuve Chapelle,"[2.78196, 50.58582]","",person,Second Lieutenant  Bates,"{""first""=>[""""], ""surname""=>[""Bates""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+9,AWD0002wzk,diary,87,4,1915-10-26 00:00:00 UTC,26 Oct 1915,Neuve Chapelle,"[2.78196, 50.58582]","",person,Second Lieutenant  Wadley,"{""first""=>[""""], ""surname""=>[""Wadley""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+10,AWD0002wzk,diary,87,4,1915-10-26 00:00:00 UTC,26 Oct 1915,Neuve Chapelle,"[2.78196, 50.58582]","",casualties,"died: 1, wounded: 3",{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+11,AWD0002wzk,diary,87,3,1915-10-26 00:00:00 UTC,26 Oct 1915,Neuve Chapelle,"[2.78196, 50.58582]","",place,Neuve Chapelle,"{""place""=>[""Neuve Chapelle""], ""location""=>[""true""], ""name""=>[""Neuve-Chapelle""], ""lat""=>[""50.58582""], ""long""=>[""2.78196""], ""id""=>[""2990589""]}",2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+12,AWD0002wzk,diary,87,5,1915-10-27 00:00:00 UTC,27 Oct 1915,Neuve Chapelle,"[2.78196, 50.58582]","",diaryDate,27 Oct 1915,"{""day""=>[""27""], ""month""=>[""Oct""], ""year""=>[""1915""]}",2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+14,AWD0002wzk,diary,87,3,1915-10-27 00:00:00 UTC,27 Oct 1915,Neuve Chapelle,"[2.78196, 50.58582]","",activity,fire,{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+17,AWD0002wzk,diary,87,2,1915-10-27 00:00:00 UTC,27 Oct 1915,Neuve Chapelle,"[2.78196, 50.58582]","",place,Neuve Chapelle,"{""place""=>[""Neuve Chapelle""], ""location""=>[""true""], ""name""=>[""Neuve-Chapelle""], ""lat""=>[""50.58582""], ""long""=>[""2.78196""], ""id""=>[""2990589""]}",2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+18,AWD0002wzk,diary,87,4,1915-10-27 00:00:00 UTC,27 Oct 1915,Neuve Chapelle,"[2.78196, 50.58582]","",unit,59th Rifles,"{""name""=>[""59th Rifles""], ""context""=>[""relieved_by""]}",2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+19,AWD0002wzk,diary,87,3,1915-10-27 00:00:00 UTC,27 Oct 1915,Neuve Chapelle,"[2.78196, 50.58582]","",activity,movement,{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+23,AWD0002wzk,diary,87,4,1915-10-27 00:00:00 UTC,27 Oct 1915,Neuve Chapelle,"[2.78196, 50.58582]","",casualties,"died: 1, wounded: 5",{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+24,AWD0002wzk,diary,87,5,1915-10-28 00:00:00 UTC,28 Oct 1915,Neuve Chapelle,"[2.78196, 50.58582]","",diaryDate,28 Oct 1915,"{""day""=>[""28""], ""month""=>[""Oct""], ""year""=>[""1915""]}",2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+25,AWD0002wzk,diary,87,7,1915-10-28 00:00:00 UTC,28 Oct 1915,La Gorgue,"[2.71502, 50.6379]","",place,La Gorgue,"{""place""=>[""La Gorgue""], ""location""=>[""true""], ""name""=>[""La Gorgue""], ""lat""=>[""50.6379""], ""long""=>[""2.71502""], ""id""=>[""3009050""]}",3009050,La Gorgue,"[2.71502, 50.6379]"
+28,AWD0002wzk,diary,87,2,1915-10-28 00:00:00 UTC,28 Oct 1915,La Gorgue,"[2.71502, 50.6379]","",domestic,other,{},3009050,La Gorgue,"[2.71502, 50.6379]"
+31,AWD0002wzk,diary,87,2,1915-10-29 00:00:00 UTC,29 Oct 1915,La Gorgue,"[2.71502, 50.6379]","",diaryDate,29 Oct 1915,"{""day""=>[""29""], ""month""=>[""Oct""], ""year""=>[""1915""]}",3009050,La Gorgue,"[2.71502, 50.6379]"
+32,AWD0002wzk,diary,87,2,1915-10-29 00:00:00 UTC,29 Oct 1915,La Gorgue,"[2.71502, 50.6379]","",activity,clearing,{},3009050,La Gorgue,"[2.71502, 50.6379]"
+33,AWD0002wzk,diary,87,3,1915-10-29 00:00:00 UTC,29 Oct 1915,La Gorgue,"[2.71502, 50.6379]","",diaryDate,29 Oct 1915,"{""day""=>[""29""], ""month""=>[""Oct""], ""year""=>[""1915""]}",3009050,La Gorgue,"[2.71502, 50.6379]"
+35,AWD0002wzk,diary,87,3,1915-10-29 00:00:00 UTC,29 Oct 1915,La Gorgue,"[2.71502, 50.6379]","",activity,training,{},3009050,La Gorgue,"[2.71502, 50.6379]"
+36,AWD0002wzk,diary,87,4,1915-10-29 00:00:00 UTC,29 Oct 1915,La Gorgue,"[2.71502, 50.6379]","",domestic,inspections,{},3009050,La Gorgue,"[2.71502, 50.6379]"
+37,AWD0002wzk,diary,87,4,1915-10-29 00:00:00 UTC,29 Oct 1915,La Gorgue,"[2.71502, 50.6379]","",place,La Gorgue,"{""place""=>[""La Gorgue""], ""location""=>[""true""], ""name""=>[""La Gorgue""], ""lat""=>[""50.6379""], ""long""=>[""2.71502""], ""id""=>[""3009050""]}",3009050,La Gorgue,"[2.71502, 50.6379]"
+39,AWD0002wzk,diary,87,4,1915-10-30 00:00:00 UTC,30 Oct 1915,La Gorgue,"[2.71502, 50.6379]","",diaryDate,30 Oct 1915,"{""day""=>[""30""], ""month""=>[""Oct""], ""year""=>[""1915""]}",3009050,La Gorgue,"[2.71502, 50.6379]"
+41,AWD0002wzk,diary,87,4,1915-10-30 00:00:00 UTC,30 Oct 1915,La Gorgue,"[2.71502, 50.6379]","",domestic,parades,{},3009050,La Gorgue,"[2.71502, 50.6379]"
+42,AWD0002wzk,diary,87,2,1915-10-30 00:00:00 UTC,30 Oct 1915,La Gorgue,"[2.71502, 50.6379]","",domestic,inspections,{},3009050,La Gorgue,"[2.71502, 50.6379]"
+43,AWD0002wzk,diary,87,3,1915-10-30 00:00:00 UTC,30 Oct 1915,La Gorgue,"[2.71502, 50.6379]","",place,La Gorgue,"{""place""=>[""La Gorgue""], ""location""=>[""true""], ""name""=>[""La Gorgue""], ""lat""=>[""50.6379""], ""long""=>[""2.71502""], ""id""=>[""3009050""]}",3009050,La Gorgue,"[2.71502, 50.6379]"
+44,AWD0002wzk,diary,87,2,1915-10-30 00:00:00 UTC,30 Oct 1915,La Gorgue,"[2.71502, 50.6379]","",domestic,parades,{},3009050,La Gorgue,"[2.71502, 50.6379]"
+46,AWD0002wzk,diary,87,4,1915-10-30 00:00:00 UTC,30 Oct 1915,La Gorgue,"[2.71502, 50.6379]","",domestic,hygiene,{},3009050,La Gorgue,"[2.71502, 50.6379]"
+47,AWD0002wzk,diary,87,3,1915-10-30 00:00:00 UTC,30 Oct 1915,La Gorgue,"[2.71502, 50.6379]","",activity,training,{},3009050,La Gorgue,"[2.71502, 50.6379]"
+49,AWD0002wzk,diary,87,5,1915-10-31 00:00:00 UTC,31 Oct 1915,La Gorgue,"[2.71502, 50.6379]","",diaryDate,31 Oct 1915,"{""day""=>[""31""], ""month""=>[""Oct""], ""year""=>[""1915""]}",3009050,La Gorgue,"[2.71502, 50.6379]"
+50,AWD0002wzk,diary,87,4,1915-10-31 00:00:00 UTC,31 Oct 1915,La Gorgue,"[2.71502, 50.6379]","",place,La Gorgue,"{""place""=>[""La Gorgue""], ""location""=>[""true""], ""name""=>[""La Gorgue""], ""lat""=>[""50.6379""], ""long""=>[""2.71502""], ""id""=>[""3009050""]}",3009050,La Gorgue,"[2.71502, 50.6379]"
+51,AWD0002wzk,diary,87,2,1915-10-31 00:00:00 UTC,31 Oct 1915,La Gorgue,"[2.71502, 50.6379]","",activity,resting,{},3009050,La Gorgue,"[2.71502, 50.6379]"
+56,AWD0002wzk,diary,87,4,1915-10-31 00:00:00 UTC,31 Oct 1915,La Gorgue,"[2.71502, 50.6379]","",person,Captain P Wood,"{""first""=>[""P""], ""surname""=>[""Wood""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""commander"", ""author""], ""unit""=>[""""]}",3009050,La Gorgue,"[2.71502, 50.6379]"
+4,AWD0002x0z,report,89,2,,,,[],,date,21 Oct 1915,{},,,
+10,AWD0002x0z,report,89,2,,,,[],,activity,fire,{},,,
+1,AWD0002wzr,report,90,3,,,,[],,title,Daily Tactical Progress Report,{},,,
+2,AWD0002wzr,report,90,3,,,,[],,reference,appendix F,{},,,
+1,AWD0002x0x,report,91,2,,,,[],,reference,Appendix B,{},,,
+3,AWD0002x0x,report,91,4,,,,[],,date,22 Oct 1915,{},,,
+4,AWD0002x0x,report,91,2,,,,[],,title,Tactical Progress Report,{},,,
+9,AWD0002x1h,report,92,2,,,,[],,activity,fire,{},,,
+11,AWD0002wzq,report,93,2,,,,[],,date,23 Oct 1915,{},,,
+1,AWD0002x15,report,94,2,,,,[],,reference,Appendix D,{},,,
+3,AWD0002x15,report,94,3,,,,[],,title,Tactical Progress Report,{},,,
+4,AWD0002x15,report,94,3,,,,[],,date,24 Oct 1915,{},,,
+1,AWD0002x0v,report,95,2,,,,[],,reference,Appendix E,{},,,
+2,AWD0002x0v,report,95,2,,,,[],,title,APPENDIX E,{},,,
+3,AWD0002x0v,report,95,3,,,,[],,date,25 Oct 1915,{},,,
+9,AWD0002x02,"diary, report",96,2,,,,[],,activity,enemy_activity,{},,,
+17,AWD0002x02,"diary, report",96,2,,,,[],,activity,enemy_activity,{},,,
+3,AWD0002wzp,report,97,3,,,,[],,date,26 Oct 1915,{},,,
+5,AWD0002wzh,"diary, report",98,2,,,,[],,date,27 Oct 1915,{},,,
+2,AWD0002wzw,report,99,3,,,,[],,date,27 Oct 1915,{},,,
+1,AWD0002wyr,diary,102,6,1915-12-01 00:00:00 UTC,1 Dec 1915,La Gorgue,"[2.71502, 50.6379]","",diaryDate,1 Dec 1915,"{""day""=>[""1""], ""month""=>[""Dec""], ""year""=>[""1915""]}",3009050,La Gorgue,"[2.71502, 50.6379]"
+2,AWD0002wyr,diary,102,5,1915-12-01 00:00:00 UTC,1 Dec 1915,Lugyi,"[2.71502, 50.6379]","",place,Lugyi,"{""place""=>[""Lugyi""], ""location""=>[""true""], ""name""=>[""La Gorgue""], ""lat""=>[""50.6379""], ""long""=>[""2.71502""], ""id""=>[""3009050""]}",,,
+3,AWD0002wyr,diary,102,5,1915-12-01 00:00:00 UTC,1 Dec 1915,Lugyi,"[2.71502, 50.6379]","",activity,movement,{},,,
+4,AWD0002wyr,diary,102,2,1915-12-01 09:20:00 UTC,1 Dec 1915,Lugyi,"[2.71502, 50.6379]",0920AM,time,0920AM,{},,,
+5,AWD0002wyr,diary,102,3,1915-12-01 09:20:00 UTC,1 Dec 1915,Febvin-Palfart,"[2.31529, 50.5383]",0920AM,place,Febvin-Palfart,"{""place""=>[""Febvin-Palfart""], ""location""=>[""true""], ""name""=>[""Febvin-Palfart""], ""lat""=>[""50.5383""], ""long""=>[""2.31529""], ""id""=>[""3018795""]}",3018795,Febvin-Palfart,"[2.31529, 50.5383]"
+6,AWD0002wyr,diary,102,5,1915-12-02 00:00:00 UTC,2 Dec 1915,Febvin-Palfart,"[2.31529, 50.5383]","",diaryDate,2 Dec 1915,"{""day""=>[""2""], ""month""=>[""Dec""], ""year""=>[""1915""]}",3018795,Febvin-Palfart,"[2.31529, 50.5383]"
+7,AWD0002wyr,diary,102,3,1915-12-02 00:00:00 UTC,2 Dec 1915,Febvin-Palfart,"[2.31529, 50.5383]","",domestic,accomodation,{},3018795,Febvin-Palfart,"[2.31529, 50.5383]"
+9,AWD0002wyr,diary,102,2,1915-12-02 00:00:00 UTC,2 Dec 1915,Febvin-Palfart,"[2.31529, 50.5383]","",activity,resting,{},3018795,Febvin-Palfart,"[2.31529, 50.5383]"
+10,AWD0002wyr,diary,102,8,1915-12-02 00:00:00 UTC,2 Dec 1915,Febvin-Palfart,"[2.31529, 50.5383]","",place,Febvin-Palfart,"{""place""=>[""Febvin-Palfart""], ""location""=>[""true""], ""name""=>[""Febvin-Palfart""], ""lat""=>[""50.5383""], ""long""=>[""2.31529""], ""id""=>[""3018795""]}",3018795,Febvin-Palfart,"[2.31529, 50.5383]"
+11,AWD0002wyr,diary,102,3,1915-12-08 00:00:00 UTC,8 Dec 1915,Febvin-Palfart,"[2.31529, 50.5383]","",diaryDate,8 Dec 1915,"{""day""=>[""8""], ""month""=>[""Dec""], ""year""=>[""1915""]}",3018795,Febvin-Palfart,"[2.31529, 50.5383]"
+13,AWD0002wyr,diary,102,2,1915-12-08 00:00:00 UTC,8 Dec 1915,Febvin-Palfart,"[2.31529, 50.5383]","",place,Lillers,"{""place""=>[""Lillers""], ""location""=>[""true"", ""false""], ""name""=>[""Lillers""], ""lat""=>[""50.56345""], ""long""=>[""2.48042""], ""id""=>[""2998320""]}",3018795,Febvin-Palfart,"[2.31529, 50.5383]"
+14,AWD0002wyr,diary,102,5,1915-12-09 00:00:00 UTC,9 Dec 1915,Febvin-Palfart,"[2.31529, 50.5383]","",diaryDate,9 Dec 1915,"{""day""=>[""9""], ""month""=>[""Dec""], ""year""=>[""1915""]}",3018795,Febvin-Palfart,"[2.31529, 50.5383]"
+15,AWD0002wyr,diary,102,2,1915-12-09 14:00:00 UTC,9 Dec 1915,Febvin-Palfart,"[2.31529, 50.5383]",0200PM,time,0200PM,{},3018795,Febvin-Palfart,"[2.31529, 50.5383]"
+16,AWD0002wyr,diary,102,4,1915-12-09 14:00:00 UTC,9 Dec 1915,Febvin-Palfart,"[2.31529, 50.5383]",0200PM,person,Lieutenant  Campbell,"{""first""=>[""""], ""surname""=>[""Campbell""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other"", ""commander""], ""unit""=>[""""]}",3018795,Febvin-Palfart,"[2.31529, 50.5383]"
+19,AWD0002wyr,diary,102,2,1915-12-09 14:00:00 UTC,9 Dec 1915,Febvin-Palfart,"[2.31529, 50.5383]",0200PM,domestic,rations,{},3018795,Febvin-Palfart,"[2.31529, 50.5383]"
+20,AWD0002wyr,diary,102,2,1915-12-09 14:00:00 UTC,9 Dec 1915,Febvin-Palfart,"[2.31529, 50.5383]",0200PM,place,Marseilles,"{""place""=>[""Marseilles""], ""location""=>[""true"", ""false""], ""name""=>[""Marseille""], ""lat""=>[""43.29695""], ""long""=>[""5.38107""], ""id""=>[""2995469""]}",3018795,Febvin-Palfart,"[2.31529, 50.5383]"
+21,AWD0002wyr,diary,102,2,1915-12-10 00:00:00 UTC,10 Dec 1915,Febvin-Palfart,"[2.31529, 50.5383]","",diaryDate,10 Dec 1915,"{""day""=>[""10""], ""month""=>[""Dec""], ""year""=>[""1915""]}",3018795,Febvin-Palfart,"[2.31529, 50.5383]"
+22,AWD0002wyr,diary,102,7,1915-12-10 00:00:00 UTC,10 Dec 1915,Febvin-Palfart,"[2.31529, 50.5383]","",activity,movement,{},3018795,Febvin-Palfart,"[2.31529, 50.5383]"
+23,AWD0002wyr,diary,102,2,1915-12-10 00:00:00 UTC,10 Dec 1915,Febvin-Palfart,"[2.31529, 50.5383]","",place,Lillers,"{""place""=>[""Lillers""], ""location""=>[""true"", ""false""], ""name""=>[""Lillers""], ""lat""=>[""50.56345""], ""long""=>[""2.48042""], ""id""=>[""2998320""]}",3018795,Febvin-Palfart,"[2.31529, 50.5383]"
+24,AWD0002wyr,diary,102,3,1915-12-10 00:00:00 UTC,10 Dec 1915,Febvin-Palfart,"[2.31529, 50.5383]","",diaryDate,10 Dec 1915,"{""day""=>[""10""], ""month""=>[""Dec""], ""year""=>[""1915""]}",3018795,Febvin-Palfart,"[2.31529, 50.5383]"
+25,AWD0002wyr,diary,102,3,1915-12-10 00:00:00 UTC,10 Dec 1915,Febvin-Palfart,"[2.31529, 50.5383]","",place,Febvin-Palfart,"{""place""=>[""Febvin-Palfart""], ""location""=>[""true""], ""name""=>[""Febvin-Palfart""], ""lat""=>[""50.5383""], ""long""=>[""2.31529""], ""id""=>[""3018795""]}",3018795,Febvin-Palfart,"[2.31529, 50.5383]"
+26,AWD0002wyr,diary,102,2,1915-12-10 04:50:00 UTC,10 Dec 1915,Febvin-Palfart,"[2.31529, 50.5383]",0450AM,time,0450AM,{},3018795,Febvin-Palfart,"[2.31529, 50.5383]"
+27,AWD0002wyr,diary,102,2,1915-12-10 04:50:00 UTC,10 Dec 1915,Febvin-Palfart,"[2.31529, 50.5383]",0450AM,place,Marseilles,"{""place""=>[""Marseilles""], ""location""=>[""true"", ""false""], ""name""=>[""Marseille""], ""lat""=>[""43.29695""], ""long""=>[""5.38107""], ""id""=>[""2995469""]}",3018795,Febvin-Palfart,"[2.31529, 50.5383]"
+28,AWD0002wyr,diary,102,3,1915-12-10 04:50:00 UTC,10 Dec 1915,Febvin-Palfart,"[2.31529, 50.5383]",0450AM,person,Second Lieutenant  O'Reilly,"{""first""=>[""""], ""surname""=>[""O'Reilly""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",3018795,Febvin-Palfart,"[2.31529, 50.5383]"
+29,AWD0002wyr,diary,102,2,1915-12-10 04:50:00 UTC,10 Dec 1915,Febvin-Palfart,"[2.31529, 50.5383]",0450AM,activity,movement,{},3018795,Febvin-Palfart,"[2.31529, 50.5383]"
+30,AWD0002wyr,diary,102,6,1915-12-10 04:50:00 UTC,10 Dec 1915,Lillers,"[2.48042, 50.56345]",0450AM,place,Lillers,"{""place""=>[""Lillers""], ""location""=>[""true""], ""name""=>[""Lillers""], ""lat""=>[""50.56345""], ""long""=>[""2.48042""], ""id""=>[""2998320""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+31,AWD0002wyr,diary,102,2,1915-12-10 11:50:00 UTC,10 Dec 1915,Lillers,"[2.48042, 50.56345]",1150AM,time,1150AM,{},2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+32,AWD0002wyr,diary,102,5,1915-12-11 00:00:00 UTC,11 Dec 1915,Lillers,"[2.48042, 50.56345]","",diaryDate,11 Dec 1915,"{""day""=>[""11""], ""month""=>[""Dec""], ""year""=>[""1915""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+34,AWD0002wyr,diary,102,3,1915-12-11 00:00:00 UTC,11 Dec 1915,Lillers,"[2.48042, 50.56345]","",place,Marseilles,"{""place""=>[""Marseilles""], ""location""=>[""false""], ""name""=>[""Marseille""], ""lat""=>[""43.29695""], ""long""=>[""5.38107""], ""id""=>[""2995469""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+35,AWD0002wyr,diary,102,3,1915-12-12 00:00:00 UTC,12 Dec 1915,Lillers,"[2.48042, 50.56345]","",diaryDate,12 Dec 1915,"{""day""=>[""12""], ""month""=>[""Dec""], ""year""=>[""1915""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+36,AWD0002wyr,diary,102,7,1915-12-12 00:00:00 UTC,12 Dec 1915,Lillers,"[2.48042, 50.56345]","",activity,movement,{},2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+37,AWD0002wyr,diary,102,3,1915-12-13 00:00:00 UTC,13 Dec 1915,Lillers,"[2.48042, 50.56345]","",diaryDate,13 Dec 1915,"{""day""=>[""13""], ""month""=>[""Dec""], ""year""=>[""1915""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+39,AWD0002wyr,diary,102,6,1915-12-13 00:00:00 UTC,13 Dec 1915,Marseilles,"[5.38107, 43.29695]","",place,Marseilles,"{""place""=>[""Marseilles""], ""location""=>[""true""], ""name""=>[""Marseille""], ""lat""=>[""43.29695""], ""long""=>[""5.38107""], ""id""=>[""2995469""]}",2995469,Marseille,"[5.38107, 43.29695]"
+40,AWD0002wyr,diary,102,2,1915-12-13 21:00:00 UTC,13 Dec 1915,Marseilles,"[5.38107, 43.29695]",0900PM,time,0900PM,{},2995469,Marseille,"[5.38107, 43.29695]"
+41,AWD0002wyr,diary,102,2,1915-12-13 00:00:00 UTC,13 Dec 1915,Marseilles,"[5.38107, 43.29695]","",diaryDate,13 Dec 1915,"{""day""=>[""13""], ""month""=>[""Dec""], ""year""=>[""1915""]}",2995469,Marseille,"[5.38107, 43.29695]"
+42,AWD0002wyr,diary,102,2,1915-12-13 23:00:00 UTC,13 Dec 1915,Marseilles,"[5.38107, 43.29695]",1100PM,time,1100PM,{},2995469,Marseille,"[5.38107, 43.29695]"
+43,AWD0002wyr,diary,102,2,1915-12-15 00:00:00 UTC,15 Dec 1915,Marseilles,"[5.38107, 43.29695]","",diaryDate,15 Dec 1915,"{""day""=>[""15""], ""month""=>[""Dec""], ""year""=>[""1915""]}",2995469,Marseille,"[5.38107, 43.29695]"
+44,AWD0002wyr,diary,102,7,1915-12-15 00:00:00 UTC,15 Dec 1915,Marseilles,"[5.38107, 43.29695]","",activity,movement,{},2995469,Marseille,"[5.38107, 43.29695]"
+45,AWD0002wyr,diary,102,2,1915-12-15 00:00:00 UTC,15 Dec 1915,Marseilles,"[5.38107, 43.29695]","",place,Marseilles,"{""place""=>[""Marseilles""], ""location""=>[""true"", ""false""], ""name""=>[""Marseille""], ""lat""=>[""43.29695""], ""long""=>[""5.38107""], ""id""=>[""2995469""]}",2995469,Marseille,"[5.38107, 43.29695]"
+46,AWD0002wyr,diary,102,4,1915-12-15 00:00:00 UTC,15 Dec 1915,Marseilles,"[5.38107, 43.29695]","",diaryDate,15 Dec 1915,"{""day""=>[""15""], ""month""=>[""Dec""], ""year""=>[""1915""]}",2995469,Marseille,"[5.38107, 43.29695]"
+47,AWD0002wyr,diary,102,2,1915-12-15 00:00:00 UTC,15 Dec 1915,Marseilles,"[5.38107, 43.29695]","",place,Marseilles,"{""place""=>[""Marseilles""], ""location""=>[""true""], ""name""=>[""Marseille""], ""lat""=>[""43.29695""], ""long""=>[""5.38107""], ""id""=>[""2995469""]}",2995469,Marseille,"[5.38107, 43.29695]"
+49,AWD0002wyr,diary,102,5,1915-12-18 00:00:00 UTC,18 Dec 1915,Marseilles,"[5.38107, 43.29695]","",diaryDate,18 Dec 1915,"{""day""=>[""18""], ""month""=>[""Dec""], ""year""=>[""1915""]}",2995469,Marseille,"[5.38107, 43.29695]"
+50,AWD0002wyr,diary,102,2,1915-12-18 13:00:00 UTC,18 Dec 1915,Marseilles,"[5.38107, 43.29695]",0100PM,time,0100PM,{},2995469,Marseille,"[5.38107, 43.29695]"
+51,AWD0002wyr,diary,102,2,1915-12-18 13:00:00 UTC,18 Dec 1915,Marseilles,"[5.38107, 43.29695]",0100PM,activity,enemy_activity,{},2995469,Marseille,"[5.38107, 43.29695]"
+52,AWD0002wyr,diary,102,5,1915-12-19 00:00:00 UTC,19 Dec 1915,Marseilles,"[5.38107, 43.29695]","",diaryDate,19 Dec 1915,"{""day""=>[""19""], ""month""=>[""Dec""], ""year""=>[""1915""]}",2995469,Marseille,"[5.38107, 43.29695]"
+53,AWD0002wyr,diary,102,3,1915-12-19 00:00:00 UTC,19 Dec 1915,Marseilles,"[5.38107, 43.29695]","",activity,movement,{},2995469,Marseille,"[5.38107, 43.29695]"
+54,AWD0002wyr,diary,102,2,1915-12-19 00:00:00 UTC,19 Dec 1915,Marseilles,"[5.38107, 43.29695]","",place,Port Said,"{""place""=>[""Port Said""], ""location""=>[""true"", ""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2995469,Marseille,"[5.38107, 43.29695]"
+55,AWD0002wyr,diary,102,4,1915-12-19 00:00:00 UTC,19 Dec 1915,Alexandria,"[0.0, 0.0]","",place,Alexandria,"{""place""=>[""Alexandria""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2657513,Alexandria,"[-4.5864, 55.99379]"
+56,AWD0002wyr,diary,102,2,1915-12-19 16:30:00 UTC,19 Dec 1915,Alexandria,"[0.0, 0.0]",0430PM,time,0430PM,{},2657513,Alexandria,"[-4.5864, 55.99379]"
+57,AWD0002wyr,diary,102,3,1915-12-19 16:30:00 UTC,19 Dec 1915,Alexandria,"[0.0, 0.0]",0430PM,place,Basra,"{""place""=>[""Basra""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2657513,Alexandria,"[-4.5864, 55.99379]"
+58,AWD0002wyr,diary,102,5,1915-12-20 00:00:00 UTC,20 Dec 1915,Alexandria,"[0.0, 0.0]","",diaryDate,20 Dec 1915,"{""day""=>[""20""], ""month""=>[""Dec""], ""year""=>[""1915""]}",2657513,Alexandria,"[-4.5864, 55.99379]"
+59,AWD0002wyr,diary,102,2,1915-12-20 00:00:00 UTC,20 Dec 1915,Alexandria,"[0.0, 0.0]","",place,Port Said,"{""place""=>[""Port Said""], ""location""=>[""true"", ""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2657513,Alexandria,"[-4.5864, 55.99379]"
+60,AWD0002wyr,diary,102,2,1915-12-20 08:00:00 UTC,20 Dec 1915,Alexandria,"[0.0, 0.0]",0800AM,time,0800AM,{},2657513,Alexandria,"[-4.5864, 55.99379]"
+61,AWD0002wyr,diary,102,7,1915-12-20 08:00:00 UTC,20 Dec 1915,Port Said,"[0.0, 0.0]",0800AM,place,Port Said,"{""place""=>[""Port Said""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2995469,Marseille,"[5.38107, 43.29695]"
+62,AWD0002wyr,diary,102,2,1915-12-21 00:00:00 UTC,21 Dec 1915,Port Said,"[0.0, 0.0]","",diaryDate,21 Dec 1915,"{""day""=>[""21""], ""month""=>[""Dec""], ""year""=>[""1915""]}",2995469,Marseille,"[5.38107, 43.29695]"
+63,AWD0002wyr,diary,102,7,1915-12-21 00:00:00 UTC,21 Dec 1915,Port Said,"[0.0, 0.0]","",activity,movement,{},2995469,Marseille,"[5.38107, 43.29695]"
+64,AWD0002wyr,diary,102,4,1915-12-21 00:00:00 UTC,21 Dec 1915,Port Said,"[0.0, 0.0]","",diaryDate,21 Dec 1915,"{""day""=>[""21""], ""month""=>[""Dec""], ""year""=>[""1915""]}",2995469,Marseille,"[5.38107, 43.29695]"
+65,AWD0002wyr,diary,102,2,1915-12-21 12:00:00 UTC,21 Dec 1915,Port Said,"[0.0, 0.0]",1200PM,time,1200PM,{},2995469,Marseille,"[5.38107, 43.29695]"
+66,AWD0002wyr,diary,102,5,1915-12-22 00:00:00 UTC,22 Dec 1915,Port Said,"[0.0, 0.0]","",diaryDate,22 Dec 1915,"{""day""=>[""22""], ""month""=>[""Dec""], ""year""=>[""1915""]}",2995469,Marseille,"[5.38107, 43.29695]"
+67,AWD0002wyr,diary,102,2,1915-12-22 17:00:00 UTC,22 Dec 1915,Port Said,"[0.0, 0.0]",0500PM,time,0500PM,{},2995469,Marseille,"[5.38107, 43.29695]"
+68,AWD0002wyr,diary,102,2,1915-12-22 17:00:00 UTC,22 Dec 1915,Port Said,"[0.0, 0.0]",0500PM,domestic,rations,{},2995469,Marseille,"[5.38107, 43.29695]"
+69,AWD0002wyr,diary,102,2,1915-12-22 17:00:00 UTC,22 Dec 1915,Port Said,"[0.0, 0.0]",0500PM,place,Suez,"{""place""=>[""Suez""], ""location""=>[""true"", ""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2995469,Marseille,"[5.38107, 43.29695]"
+70,AWD0002wyr,diary,102,4,1915-12-22 17:00:00 UTC,22 Dec 1915,Port Said,"[0.0, 0.0]",0500PM,activity,movement,{},2995469,Marseille,"[5.38107, 43.29695]"
+71,AWD0002wyr,diary,102,3,1915-12-22 17:00:00 UTC,22 Dec 1915,Suez,"[0.0, 0.0]",0500PM,place,Suez,"{""place""=>[""Suez""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+72,AWD0002wyr,diary,102,2,1915-12-22 23:00:00 UTC,22 Dec 1915,Suez,"[0.0, 0.0]",1100PM,time,1100PM,{},,,
+73,AWD0002wyr,diary,102,4,1915-12-23 00:00:00 UTC,23 Dec 1915,Suez,"[0.0, 0.0]","",diaryDate,23 Dec 1915,"{""day""=>[""23""], ""month""=>[""Dec""], ""year""=>[""1915""]}",,,
+75,AWD0002wyr,diary,102,2,1915-12-23 00:00:00 UTC,23 Dec 1915,Basra,"[0.0, 0.0]","",place,Basra,"{""place""=>[""Basra""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+76,AWD0002wyr,diary,102,4,1915-12-23 00:00:00 UTC,23 Dec 1915,Basra,"[0.0, 0.0]","",activity,movement,{},,,
+77,AWD0002wyr,diary,102,2,1915-12-23 00:00:00 UTC,23 Dec 1915,Basra,"[0.0, 0.0]","",place,Basra,"{""place""=>[""Basra""], ""location""=>[""true"", ""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+78,AWD0002wyr,diary,102,5,1915-12-31 00:00:00 UTC,31 Dec 1915,Basra,"[0.0, 0.0]","",diaryDate,31 Dec 1915,"{""day""=>[""31""], ""month""=>[""Dec""], ""year""=>[""1915""]}",,,
+79,AWD0002wyr,diary,102,2,1915-12-31 00:00:00 UTC,31 Dec 1915,Basra,"[0.0, 0.0]","",person,"Major ,N M Geoghegan","{""first""=>["""", ""N M""], ""surname""=>[""Geoghegan""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""author"", ""commander""], ""unit""=>[""""]}",,,
+5,AWD0002wyi,diary,103,2,1915-12-31 00:00:00 UTC,31 Dec 1915,Basra,"[0.0, 0.0]","",activity,movement,{},,,
+9,AWD0002wyi,diary,103,2,1915-12-10 00:00:00 UTC,10 Dec 1915,Basra,"[0.0, 0.0]","",diaryDate,10 Dec 1915,"{""day""=>[""10""], ""month""=>[""Dec""], ""year""=>[""1915""]}",,,
+16,AWD0002wyi,diary,103,2,1915-12-13 00:00:00 UTC,13 Dec 1915,Basra,"[0.0, 0.0]","",diaryDate,13 Dec 1915,"{""day""=>[""13""], ""month""=>[""Dec""], ""year""=>[""1915""]}",,,
+29,AWD0002wyi,diary,103,2,1915-12-13 00:00:00 UTC,13 Dec 1915,Port Said,"[5.38107, 43.29695]","",place,Port Said,"{""place""=>[""Port Said""], ""location""=>[""true""], ""name""=>[""Marseille""], ""lat""=>[""43.29695""], ""long""=>[""5.38107""], ""id""=>[""2995469""]}",2995469,Marseille,"[5.38107, 43.29695]"
+32,AWD0002wyi,diary,103,2,1915-12-13 00:00:00 UTC,13 Dec 1915,Suez Channel,"[5.38107, 43.29695]","",place,Suez Channel,"{""place""=>[""Suez Channel""], ""location""=>[""true""], ""name""=>[""Marseille""], ""lat""=>[""43.29695""], ""long""=>[""5.38107""], ""id""=>[""2995469""]}",,,

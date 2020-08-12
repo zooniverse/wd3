@@ -1,0 +1,677 @@
+Order,Page,Page type,Page number,Count,DateTime,Date,Place,Lat/Lon,Time,Type,Label,Data,GeoID,GeoName,GeoCoords
+3,AWD0002j6b,diary,694,3,,"","","[0.0, 0.0]",0800AM,time,0800AM,{},2985684,Pozières,"[2.72929, 50.04047]"
+4,AWD0002j6b,diary,694,4,1917-04-01 00:00:00 UTC,1 Apr 1917,"","[0.0, 0.0]","",diaryDate,1 Apr 1917,"{""day""=>[""1""], ""month""=>[""Apr""], ""year""=>[""1917""]}",2985684,Pozières,"[2.72929, 50.04047]"
+5,AWD0002j6b,diary,694,7,1917-04-01 00:00:00 UTC,1 Apr 1917,Verdrel,"[2.61647, 50.42588]","",place,Verdrel,"{""place""=>[""Verdrel""], ""location""=>[""true""], ""name""=>[""Verdrel""], ""lat""=>[""50.42588""], ""long""=>[""2.61647""], ""id""=>[""2969965""]}",2969965,Verdrel,"[2.61647, 50.42588]"
+6,AWD0002j6b,diary,694,8,1917-04-01 00:00:00 UTC,1 Apr 1917,Verdrel,"[2.61647, 50.42588]","",weather,cold,{},2969965,Verdrel,"[2.61647, 50.42588]"
+8,AWD0002j6b,diary,694,4,1917-04-02 00:00:00 UTC,2 Apr 1917,Verdrel,"[2.61647, 50.42588]","",diaryDate,2 Apr 1917,"{""day""=>[""2""], ""month""=>[""Apr""], ""year""=>[""1917""]}",2969965,Verdrel,"[2.61647, 50.42588]"
+10,AWD0002j6b,diary,694,4,1917-04-02 00:00:00 UTC,2 Apr 1917,Verdrel,"[2.61647, 50.42588]","",weather,cold,{},2969965,Verdrel,"[2.61647, 50.42588]"
+11,AWD0002j6b,diary,694,2,1917-04-02 00:00:00 UTC,2 Apr 1917,"VERDREL, Verdrel","[2.61647, 50.42588]","",place,"VERDREL, Verdrel","{""place""=>[""VERDREL"", ""Verdrel""], ""location""=>[""true""], ""name""=>[""Verdrel""], ""lat""=>[""50.42588""], ""long""=>[""2.61647""], ""id""=>[""2969965""]}",2969965,Verdrel,"[2.61647, 50.42588]"
+14,AWD0002j6b,diary,694,3,1917-04-03 00:00:00 UTC,3 Apr 1917,"VERDREL, Verdrel","[2.61647, 50.42588]","",diaryDate,3 Apr 1917,"{""day""=>[""3""], ""month""=>[""Apr""], ""year""=>[""1917""]}",2969965,Verdrel,"[2.61647, 50.42588]"
+16,AWD0002j6b,diary,694,4,1917-04-03 00:00:00 UTC,3 Apr 1917,"VERDREL, Verdrel","[2.61647, 50.42588]","",place,Verdrel,"{""place""=>[""Verdrel""], ""location""=>[""true"", ""false""], ""name""=>[""Verdrel""], ""lat""=>[""50.42588""], ""long""=>[""2.61647""], ""id""=>[""2969965""]}",2969965,Verdrel,"[2.61647, 50.42588]"
+17,AWD0002j6b,diary,694,4,1917-04-03 15:00:00 UTC,3 Apr 1917,"VERDREL, Verdrel","[2.61647, 50.42588]",0300PM,time,0300PM,{},2969965,Verdrel,"[2.61647, 50.42588]"
+18,AWD0002j6b,diary,694,3,1917-04-03 15:00:00 UTC,3 Apr 1917,Verdrel,"[2.61647, 50.42588]",0300PM,place,Verdrel,"{""place""=>[""Verdrel""], ""location""=>[""true""], ""name""=>[""Verdrel""], ""lat""=>[""50.42588""], ""long""=>[""2.61647""], ""id""=>[""2969965""]}",2969965,Verdrel,"[2.61647, 50.42588]"
+19,AWD0002j6b,diary,694,3,1917-04-03 15:00:00 UTC,3 Apr 1917,Verdrel,"[2.61647, 50.42588]",0300PM,activity,movement,{},2969965,Verdrel,"[2.61647, 50.42588]"
+20,AWD0002j6b,diary,694,6,1917-04-03 15:00:00 UTC,3 Apr 1917,Verdrel,"[2.61647, 50.42588]",0300PM,place,Neuville-St-Vaast,"{""place""=>[""Neuville-St-Vaast""], ""location""=>[""false""], ""name""=>[""Neuville-Saint-Vaast""], ""lat""=>[""50.35756""], ""long""=>[""2.76261""], ""id""=>[""2990526""]}",2969965,Verdrel,"[2.61647, 50.42588]"
+21,AWD0002j6b,diary,694,4,1917-04-03 18:00:00 UTC,3 Apr 1917,Verdrel,"[2.61647, 50.42588]",0600PM,time,0600PM,{},2969965,Verdrel,"[2.61647, 50.42588]"
+22,AWD0002j6b,diary,694,2,1917-04-03 18:00:00 UTC,3 Apr 1917,Verdrel,"[2.61647, 50.42588]",0600PM,activity,line,{},2969965,Verdrel,"[2.61647, 50.42588]"
+25,AWD0002j6b,diary,694,3,1917-04-03 18:00:00 UTC,3 Apr 1917,Verdrel,"[2.61647, 50.42588]",0600PM,place,"NEUVILLE-SAINT-VAAST, Neuville-saint-vaast, Neuville-Saint-Vaast","{""place""=>[""NEUVILLE-SAINT-VAAST"", ""Neuville-saint-vaast"", ""Neuville-Saint-Vaast""], ""location""=>[""false""], ""name""=>[""Neuville-Saint-Vaast""], ""lat""=>[""50.35756""], ""long""=>[""2.76261""], ""id""=>[""2990526""]}",2969965,Verdrel,"[2.61647, 50.42588]"
+26,AWD0002j6b,diary,694,5,1917-04-03 18:00:00 UTC,3 Apr 1917,Verdrel,"[2.61647, 50.42588]",0600PM,place,Mont St Eloi,"{""place""=>[""Mont St Eloi""], ""location""=>[""false""], ""name""=>[""Mont-Saint-Éloi""], ""lat""=>[""50.35105""], ""long""=>[""2.69249""], ""id""=>[""2992001""]}",2969965,Verdrel,"[2.61647, 50.42588]"
+28,AWD0002j6b,diary,694,2,1917-04-03 18:00:00 UTC,3 Apr 1917,Verdrel,"[2.61647, 50.42588]",0600PM,place,Neuville,"{""place""=>[""Neuville""], ""location""=>[""false"", ""true""], ""name""=>["""", ""Neuville""], ""lat""=>["""", ""46.41857""], ""long""=>["""", ""2.8261""], ""id""=>["""", ""2990564""]}",2969965,Verdrel,"[2.61647, 50.42588]"
+30,AWD0002j6b,diary,694,4,1917-04-04 00:00:00 UTC,4 Apr 1917,Verdrel,"[2.61647, 50.42588]","",diaryDate,4 Apr 1917,"{""day""=>[""4""], ""month""=>[""Apr""], ""year""=>[""1917""]}",2969965,Verdrel,"[2.61647, 50.42588]"
+31,AWD0002j6b,diary,694,3,1917-04-04 00:00:00 UTC,4 Apr 1917,Verdrel,"[2.61647, 50.42588]","",place,Verdrel,"{""place""=>[""Verdrel""], ""location""=>[""true""], ""name""=>[""Verdrel""], ""lat""=>[""50.42588""], ""long""=>[""2.61647""], ""id""=>[""2969965""]}",2969965,Verdrel,"[2.61647, 50.42588]"
+32,AWD0002j6b,diary,694,2,1917-04-04 00:00:00 UTC,4 Apr 1917,Verdrel,"[2.61647, 50.42588]","",weather,fine,{},2969965,Verdrel,"[2.61647, 50.42588]"
+33,AWD0002j6b,diary,694,6,1917-04-04 00:00:00 UTC,4 Apr 1917,Verdrel,"[2.61647, 50.42588]","",person,Lieutenant C H Lewis,"{""first""=>[""C H""], ""surname""=>[""Lewis""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""120th Bty RFA"", """"]}",2969965,Verdrel,"[2.61647, 50.42588]"
+36,AWD0002j6b,diary,694,2,1917-04-04 00:00:00 UTC,4 Apr 1917,Verdrel,"[2.61647, 50.42588]","",activity,resupplying,{},2969965,Verdrel,"[2.61647, 50.42588]"
+38,AWD0002j6b,diary,694,4,1917-04-05 00:00:00 UTC,5 Apr 1917,Verdrel,"[2.61647, 50.42588]","",diaryDate,5 Apr 1917,"{""day""=>[""5""], ""month""=>[""Apr""], ""year""=>[""1917""]}",2969965,Verdrel,"[2.61647, 50.42588]"
+39,AWD0002j6b,diary,694,2,1917-04-05 00:00:00 UTC,5 Apr 1917,Verdrel,"[2.61647, 50.42588]","",weather,fine,{},2969965,Verdrel,"[2.61647, 50.42588]"
+40,AWD0002j6b,diary,694,10,1917-04-05 00:00:00 UTC,5 Apr 1917,La Targette,"[2.75013, 50.3549]","",place,La Targette,"{""place""=>[""La Targette""], ""location""=>[""true""], ""name""=>[""La Targette""], ""lat""=>[""50.3549""], ""long""=>[""2.75013""], ""id""=>[""3006312""]}",3006312,La Targette,"[2.75013, 50.3549]"
+41,AWD0002j6b,diary,694,3,1917-04-05 00:00:00 UTC,5 Apr 1917,La Targette,"[2.75013, 50.3549]","",activity,movement,{},3006312,La Targette,"[2.75013, 50.3549]"
+43,AWD0002j6b,diary,694,3,1917-04-05 00:00:00 UTC,5 Apr 1917,La Targette,"[2.75013, 50.3549]","",activity,construction,{},3006312,La Targette,"[2.75013, 50.3549]"
+2,AWD0002j6i,diary,695,4,1917-04-06 00:00:00 UTC,6 Apr 1917,La Targette,"[2.75013, 50.3549]","",diaryDate,6 Apr 1917,"{""day""=>[""6""], ""month""=>[""Apr""], ""year""=>[""1917""]}",3006312,La Targette,"[2.75013, 50.3549]"
+3,AWD0002j6i,diary,695,5,1917-04-06 08:00:00 UTC,6 Apr 1917,La Targette,"[2.75013, 50.3549]",0800AM,time,0800AM,{},3006312,La Targette,"[2.75013, 50.3549]"
+6,AWD0002j6i,diary,695,7,1917-04-06 08:00:00 UTC,6 Apr 1917,La Targette,"[2.75013, 50.3549]",0800AM,place,La Targette,"{""place""=>[""La Targette""], ""location""=>[""true""], ""name""=>[""La Targette""], ""lat""=>[""50.3549""], ""long""=>[""2.75013""], ""id""=>[""3006312""]}",3006312,La Targette,"[2.75013, 50.3549]"
+7,AWD0002j6i,diary,695,2,1917-04-06 08:00:00 UTC,6 Apr 1917,La Targette,"[2.75013, 50.3549]",0800AM,weather,overcast,{},3006312,La Targette,"[2.75013, 50.3549]"
+8,AWD0002j6i,diary,695,5,1917-04-06 08:00:00 UTC,6 Apr 1917,La Targette,"[2.75013, 50.3549]",0800AM,activity,fire,{},3006312,La Targette,"[2.75013, 50.3549]"
+9,AWD0002j6i,diary,695,3,1917-04-06 08:00:00 UTC,6 Apr 1917,La Targette,"[2.75013, 50.3549]",0800AM,person,Sergeant  Carter,"{""first""=>[""""], ""surname""=>[""Carter""], ""rank""=>[""Sergeant""], ""number""=>[""""], ""reason""=>[""award""], ""unit""=>[""120th Bty"", ""27th Brigade RFA  5th Division"", """"]}",3006312,La Targette,"[2.75013, 50.3549]"
+10,AWD0002j6i,diary,695,2,1917-04-06 08:00:00 UTC,6 Apr 1917,La Targette,"[2.75013, 50.3549]",0800AM,weather,rain,{},3006312,La Targette,"[2.75013, 50.3549]"
+13,AWD0002j6i,diary,695,4,1917-04-06 08:00:00 UTC,6 Apr 1917,La Targette,"[2.75013, 50.3549]",0800AM,person,"Sergeant  Avery, AMEY?, Anly, Aniy","{""first""=>[""""], ""surname""=>[""Avery"", ""AMEY?"", ""Anly"", ""Aniy""], ""rank""=>[""Sergeant""], ""number""=>[""""], ""reason""=>[""award""], ""unit""=>[""""]}",3006312,La Targette,"[2.75013, 50.3549]"
+14,AWD0002j6i,diary,695,4,1917-04-06 08:00:00 UTC,6 Apr 1917,La Targette,"[2.75013, 50.3549]",0800AM,person,Sergeant  Carter,"{""first""=>[""""], ""surname""=>[""Carter""], ""rank""=>[""Sergeant""], ""number""=>[""""], ""reason""=>[""award""], ""unit""=>[""""]}",3006312,La Targette,"[2.75013, 50.3549]"
+17,AWD0002j6i,diary,695,2,1917-04-06 08:00:00 UTC,6 Apr 1917,La Targette,"[2.75013, 50.3549]",0800AM,activity,quiet,{},3006312,La Targette,"[2.75013, 50.3549]"
+20,AWD0002j6i,diary,695,6,1917-04-07 00:00:00 UTC,7 Apr 1917,La Targette,"[2.75013, 50.3549]","",diaryDate,7 Apr 1917,"{""day""=>[""7""], ""month""=>[""Apr""], ""year""=>[""1917""]}",3006312,La Targette,"[2.75013, 50.3549]"
+21,AWD0002j6i,diary,695,4,1917-04-07 00:00:00 UTC,7 Apr 1917,La Targette,"[2.75013, 50.3549]","",place,La Targette,"{""place""=>[""La Targette""], ""location""=>[""true""], ""name""=>[""La Targette""], ""lat""=>[""50.3549""], ""long""=>[""2.75013""], ""id""=>[""3006312""]}",3006312,La Targette,"[2.75013, 50.3549]"
+22,AWD0002j6i,diary,695,5,1917-04-07 00:00:00 UTC,7 Apr 1917,La Targette,"[2.75013, 50.3549]","",weather,cold,{},3006312,La Targette,"[2.75013, 50.3549]"
+23,AWD0002j6i,diary,695,4,1917-04-07 08:00:00 UTC,7 Apr 1917,La Targette,"[2.75013, 50.3549]",0800AM,time,0800AM,{},3006312,La Targette,"[2.75013, 50.3549]"
+24,AWD0002j6i,diary,695,8,1917-04-07 08:00:00 UTC,7 Apr 1917,La Targette,"[2.75013, 50.3549]",0800AM,weather,fine,{},3006312,La Targette,"[2.75013, 50.3549]"
+25,AWD0002j6i,diary,695,4,1917-04-08 00:00:00 UTC,8 Apr 1917,La Targette,"[2.75013, 50.3549]","",diaryDate,8 Apr 1917,"{""day""=>[""8""], ""month""=>[""Apr""], ""year""=>[""1917""]}",3006312,La Targette,"[2.75013, 50.3549]"
+26,AWD0002j6i,diary,695,2,1917-03-31 00:00:00 UTC,31 Mar 1917,La Targette,"[2.75013, 50.3549]","",diaryDate,31 Mar 1917,"{""day""=>[""31""], ""month""=>[""Mar""], ""year""=>[""1917""]}",3006312,La Targette,"[2.75013, 50.3549]"
+30,AWD0002j6i,diary,695,7,1917-03-31 00:00:00 UTC,31 Mar 1917,La Targette,"[2.75013, 50.3549]","",person,Lieutenant C V Perry,"{""first""=>[""C V""], ""surname""=>[""Perry""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",3006312,La Targette,"[2.75013, 50.3549]"
+31,AWD0002j6i,diary,695,3,1917-03-31 00:00:00 UTC,31 Mar 1917,La Targette,"[2.75013, 50.3549]","",place,La Targette,"{""place""=>[""La Targette""], ""location""=>[""true""], ""name""=>[""La Targette""], ""lat""=>[""50.3549""], ""long""=>[""2.75013""], ""id""=>[""3006312""]}",3006312,La Targette,"[2.75013, 50.3549]"
+32,AWD0002j6i,diary,695,2,1917-03-31 00:00:00 UTC,31 Mar 1917,La Targette,"[2.75013, 50.3549]","",activity,fire,{},3006312,La Targette,"[2.75013, 50.3549]"
+34,AWD0002j6i,diary,695,6,1917-03-31 00:00:00 UTC,31 Mar 1917,La Targette,"[2.75013, 50.3549]","",person,Lieutenant P G E Warlurtor,"{""first""=>[""P G E""], ""surname""=>[""Warlurtor""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",3006312,La Targette,"[2.75013, 50.3549]"
+36,AWD0002j6i,diary,695,4,1917-04-09 00:00:00 UTC,9 Apr 1917,La Targette,"[2.75013, 50.3549]","",diaryDate,9 Apr 1917,"{""day""=>[""9""], ""month""=>[""Apr""], ""year""=>[""1917""]}",3006312,La Targette,"[2.75013, 50.3549]"
+38,AWD0002j6i,diary,695,3,1917-04-09 00:00:00 UTC,9 Apr 1917,La Targette,"[2.75013, 50.3549]","",place,La Targette,"{""place""=>[""La Targette""], ""location""=>[""false""], ""name""=>[""La Targette""], ""lat""=>[""50.3549""], ""long""=>[""2.75013""], ""id""=>[""3006312""]}",3006312,La Targette,"[2.75013, 50.3549]"
+39,AWD0002j6i,diary,695,2,1917-04-09 08:00:00 UTC,9 Apr 1917,La Targette,"[2.75013, 50.3549]",0800AM,time,0800AM,{},3006312,La Targette,"[2.75013, 50.3549]"
+40,AWD0002j6i,diary,695,4,1917-04-09 05:30:00 UTC,9 Apr 1917,La Targette,"[2.75013, 50.3549]",0530AM,time,0530AM,{},3006312,La Targette,"[2.75013, 50.3549]"
+41,AWD0002j6i,diary,695,7,1917-04-09 05:30:00 UTC,9 Apr 1917,La Targette,"[2.75013, 50.3549]",0530AM,activity,attack,{},3006312,La Targette,"[2.75013, 50.3549]"
+42,AWD0002j6i,diary,695,5,1917-04-09 09:00:00 UTC,9 Apr 1917,La Targette,"[2.75013, 50.3549]",0900AM,time,0900AM,{},3006312,La Targette,"[2.75013, 50.3549]"
+44,AWD0002j6i,diary,695,4,1917-04-09 09:00:00 UTC,9 Apr 1917,La Targette,"[2.75013, 50.3549]",0900AM,unit,"27 Canadian Battalion, 27th Canadian Battalion","{""name""=>[""27 Canadian Battalion"", ""27th Canadian Battalion""], ""context""=>[""joined""]}",3006312,La Targette,"[2.75013, 50.3549]"
+45,AWD0002j6i,diary,695,2,1917-04-09 09:00:00 UTC,9 Apr 1917,La Targette,"[2.75013, 50.3549]",0900AM,unit,"27 Canadian Bn, 27th Canadian Bn","{""name""=>[""27 Canadian Bn"", ""27th Canadian Bn""], ""context""=>[""relieved""]}",3006312,La Targette,"[2.75013, 50.3549]"
+46,AWD0002j6i,diary,695,2,1917-04-09 09:00:00 UTC,9 Apr 1917,La Targette,"[2.75013, 50.3549]",0900AM,activity,attack,{},3006312,La Targette,"[2.75013, 50.3549]"
+47,AWD0002j6i,diary,695,3,1917-04-09 09:00:00 UTC,9 Apr 1917,La Targette,"[2.75013, 50.3549]",0900AM,activity,achieved,{},3006312,La Targette,"[2.75013, 50.3549]"
+48,AWD0002j6i,diary,695,5,1917-04-09 09:00:00 UTC,9 Apr 1917,La Targette,"[2.75013, 50.3549]",0900AM,place,Farbus,"{""place""=>[""Farbus""], ""location""=>[""false""], ""name""=>[""Farbus""], ""lat""=>[""50.35632""], ""long""=>[""2.8248""], ""id""=>[""3019051""]}",3006312,La Targette,"[2.75013, 50.3549]"
+50,AWD0002j6i,diary,695,6,1917-04-09 09:00:00 UTC,9 Apr 1917,La Targette,"[2.75013, 50.3549]",0900AM,place,"Bois de la ville, Bois de la Ville","{""place""=>[""Bois de la ville"", ""Bois de la Ville""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3006312,La Targette,"[2.75013, 50.3549]"
+52,AWD0002j6i,diary,695,4,1917-04-09 14:00:00 UTC,9 Apr 1917,La Targette,"[2.75013, 50.3549]",0200PM,time,0200PM,{},3006312,La Targette,"[2.75013, 50.3549]"
+1,AWD0002j7p,diary,696,4,1917-04-09 08:00:00 UTC,9 Apr 1917,La Targette,"[2.75013, 50.3549]",0800AM,time,0800AM,{},3006312,La Targette,"[2.75013, 50.3549]"
+2,AWD0002j7p,diary,696,6,1917-04-10 00:00:00 UTC,10 Apr 1917,La Targette,"[2.75013, 50.3549]","",diaryDate,10 Apr 1917,"{""day""=>[""10""], ""month""=>[""Apr""], ""year""=>[""1917""]}",3006312,La Targette,"[2.75013, 50.3549]"
+3,AWD0002j7p,diary,696,7,1917-04-10 00:00:00 UTC,10 Apr 1917,La Targette,"[2.75013, 50.3549]","",weather,cold,{},3006312,La Targette,"[2.75013, 50.3549]"
+4,AWD0002j7p,diary,696,7,1917-04-10 00:00:00 UTC,10 Apr 1917,La Targette,"[2.75013, 50.3549]","",place,La Targette,"{""place""=>[""La Targette""], ""location""=>[""true""], ""name""=>[""La Targette""], ""lat""=>[""50.3549""], ""long""=>[""2.75013""], ""id""=>[""3006312""]}",3006312,La Targette,"[2.75013, 50.3549]"
+5,AWD0002j7p,diary,696,2,1917-04-10 00:00:00 UTC,10 Apr 1917,La Targette,"[2.75013, 50.3549]","",activity,quiet,{},3006312,La Targette,"[2.75013, 50.3549]"
+11,AWD0002j7p,diary,696,3,1917-04-10 00:00:00 UTC,10 Apr 1917,La Targette,"[2.75013, 50.3549]","",unit,2nd Canadian Division,"{""name""=>[""2nd Canadian Division""], ""context""=>[""joined""]}",3006312,La Targette,"[2.75013, 50.3549]"
+14,AWD0002j7p,diary,696,6,1917-04-11 00:00:00 UTC,11 Apr 1917,La Targette,"[2.75013, 50.3549]","",diaryDate,11 Apr 1917,"{""day""=>[""11""], ""month""=>[""Apr""], ""year""=>[""1917""]}",3006312,La Targette,"[2.75013, 50.3549]"
+15,AWD0002j7p,diary,696,6,1917-04-11 00:00:00 UTC,11 Apr 1917,La Targette,"[2.75013, 50.3549]","",activity,attack,{},3006312,La Targette,"[2.75013, 50.3549]"
+18,AWD0002j7p,diary,696,2,1917-04-11 08:00:00 UTC,11 Apr 1917,La Targette,"[2.75013, 50.3549]",0800AM,time,0800AM,{},3006312,La Targette,"[2.75013, 50.3549]"
+19,AWD0002j7p,diary,696,14,1917-04-11 08:00:00 UTC,11 Apr 1917,La Targette,"[2.75013, 50.3549]",0800AM,weather,cold,{},3006312,La Targette,"[2.75013, 50.3549]"
+20,AWD0002j7p,diary,696,5,1917-04-12 00:00:00 UTC,12 Apr 1917,La Targette,"[2.75013, 50.3549]","",diaryDate,12 Apr 1917,"{""day""=>[""12""], ""month""=>[""Apr""], ""year""=>[""1917""]}",3006312,La Targette,"[2.75013, 50.3549]"
+21,AWD0002j7p,diary,696,4,1917-04-12 00:00:00 UTC,12 Apr 1917,La Targette,"[2.75013, 50.3549]","",weather,rain,{},3006312,La Targette,"[2.75013, 50.3549]"
+24,AWD0002j7p,diary,696,3,1917-04-12 00:00:00 UTC,12 Apr 1917,La Targette,"[2.75013, 50.3549]","",casualties,wounded: 5,{},3006312,La Targette,"[2.75013, 50.3549]"
+26,AWD0002j7p,diary,696,6,1917-04-12 00:00:00 UTC,12 Apr 1917,La Targette,"[2.75013, 50.3549]","",person,"Sergeant  Moyniham, Moynihan","{""first""=>[""""], ""surname""=>[""Moyniham"", ""Moynihan""], ""rank""=>[""Sergeant""], ""number""=>[""""], ""reason""=>[""promotion""], ""unit""=>[""37th Battery"", ""37th Bty""]}",3006312,La Targette,"[2.75013, 50.3549]"
+27,AWD0002j7p,diary,696,6,1917-04-13 00:00:00 UTC,13 Apr 1917,La Targette,"[2.75013, 50.3549]","",diaryDate,13 Apr 1917,"{""day""=>[""13""], ""month""=>[""Apr""], ""year""=>[""1917""]}",3006312,La Targette,"[2.75013, 50.3549]"
+28,AWD0002j7p,diary,696,3,1917-04-13 00:00:00 UTC,13 Apr 1917,La Targette,"[2.75013, 50.3549]","",activity,enemy_activity,{},3006312,La Targette,"[2.75013, 50.3549]"
+32,AWD0002j7p,diary,696,2,1917-04-13 08:00:00 UTC,13 Apr 1917,La Targette,"[2.75013, 50.3549]",0800AM,time,0800AM,{},3006312,La Targette,"[2.75013, 50.3549]"
+33,AWD0002j7p,diary,696,11,1917-04-13 08:00:00 UTC,13 Apr 1917,La Targette,"[2.75013, 50.3549]",0800AM,weather,fine,{},3006312,La Targette,"[2.75013, 50.3549]"
+34,AWD0002j7p,diary,696,5,1917-04-14 00:00:00 UTC,14 Apr 1917,La Targette,"[2.75013, 50.3549]","",diaryDate,14 Apr 1917,"{""day""=>[""14""], ""month""=>[""Apr""], ""year""=>[""1917""]}",3006312,La Targette,"[2.75013, 50.3549]"
+35,AWD0002j7p,diary,696,4,1917-04-14 00:00:00 UTC,14 Apr 1917,La Targette,"[2.75013, 50.3549]","",weather,cold,{},3006312,La Targette,"[2.75013, 50.3549]"
+36,AWD0002j7p,diary,696,3,1917-04-14 00:00:00 UTC,14 Apr 1917,La Targette,"[2.75013, 50.3549]","",person,Colonel  ,"{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""Colonel""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",3006312,La Targette,"[2.75013, 50.3549]"
+37,AWD0002j7p,diary,696,4,1917-04-14 00:00:00 UTC,14 Apr 1917,La Targette,"[2.75013, 50.3549]","",activity,reconnoitered,{},3006312,La Targette,"[2.75013, 50.3549]"
+38,AWD0002j7p,diary,696,4,1917-04-14 00:00:00 UTC,14 Apr 1917,La Targette,"[2.75013, 50.3549]","",place,Vimy,"{""place""=>[""Vimy""], ""location""=>[""false"", ""true""], ""name""=>[""Vimy""], ""lat""=>[""50.37243""], ""long""=>[""2.81034""], ""id""=>[""2968070""]}",3006312,La Targette,"[2.75013, 50.3549]"
+40,AWD0002j7p,diary,696,2,1917-04-14 00:00:00 UTC,14 Apr 1917,La Targette,"[2.75013, 50.3549]","",activity,withdraw,{},3006312,La Targette,"[2.75013, 50.3549]"
+42,AWD0002j7p,diary,696,4,1917-04-14 16:30:00 UTC,14 Apr 1917,La Targette,"[2.75013, 50.3549]",0430PM,time,0430PM,{},3006312,La Targette,"[2.75013, 50.3549]"
+44,AWD0002j7p,diary,696,5,1917-04-14 16:30:00 UTC,14 Apr 1917,La Targette,"[2.75013, 50.3549]",0430PM,activity,movement,{},3006312,La Targette,"[2.75013, 50.3549]"
+45,AWD0002j7p,diary,696,4,1917-04-14 16:30:00 UTC,14 Apr 1917,La Targette,"[2.75013, 50.3549]",0430PM,gridRef,T 26 A 3 5,{},3006312,La Targette,"[2.75013, 50.3549]"
+49,AWD0002j7p,diary,696,4,1917-04-14 02:00:00 UTC,14 Apr 1917,La Targette,"[2.75013, 50.3549]",0200AM,time,0200AM,{},3006312,La Targette,"[2.75013, 50.3549]"
+2,AWD0002j5j,diary,697,6,1917-04-15 00:00:00 UTC,15 Apr 1917,La Targette,"[2.75013, 50.3549]","",diaryDate,15 Apr 1917,"{""day""=>[""15""], ""month""=>[""Apr""], ""year""=>[""1917""]}",3006312,La Targette,"[2.75013, 50.3549]"
+3,AWD0002j5j,diary,697,4,1917-04-15 08:00:00 UTC,15 Apr 1917,La Targette,"[2.75013, 50.3549]",0800AM,time,0800AM,{},3006312,La Targette,"[2.75013, 50.3549]"
+4,AWD0002j5j,diary,697,7,1917-04-15 08:00:00 UTC,15 Apr 1917,Vimy,"[2.81034, 50.37243]",0800AM,place,Vimy,"{""place""=>[""Vimy""], ""location""=>[""true""], ""name""=>[""Vimy""], ""lat""=>[""50.37243""], ""long""=>[""2.81034""], ""id""=>[""2968070""]}",2968070,Vimy,"[2.81034, 50.37243]"
+5,AWD0002j5j,diary,697,6,1917-04-15 08:00:00 UTC,15 Apr 1917,Vimy,"[2.81034, 50.37243]",0800AM,weather,rain,{},2968070,Vimy,"[2.81034, 50.37243]"
+6,AWD0002j5j,diary,697,6,1917-04-15 08:00:00 UTC,15 Apr 1917,Vimy,"[2.81034, 50.37243]",0800AM,person,Lieutenant H Hildage,"{""first""=>[""H""], ""surname""=>[""Hildage""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_kia""], ""unit""=>[""37th"", """"]}",2968070,Vimy,"[2.81034, 50.37243]"
+10,AWD0002j5j,diary,697,3,1917-04-15 08:00:00 UTC,15 Apr 1917,Vimy,"[2.81034, 50.37243]",0800AM,activity,movement,{},2968070,Vimy,"[2.81034, 50.37243]"
+11,AWD0002j5j,diary,697,6,1917-04-15 08:00:00 UTC,15 Apr 1917,Vimy,"[2.81034, 50.37243]",0800AM,place,"aux rietz, Aux Rietz","{""place""=>[""aux rietz"", ""Aux Rietz""], ""location""=>[""true"", ""false""], ""name""=>[""Vimy"", """"], ""lat""=>[""50.37243"", """"], ""long""=>[""2.81034"", """"], ""id""=>[""2968070"", """"]}",2968070,Vimy,"[2.81034, 50.37243]"
+12,AWD0002j5j,diary,697,3,1917-04-15 08:00:00 UTC,15 Apr 1917,Vimy,"[2.81034, 50.37243]",0800AM,activity,resupplying,{},2968070,Vimy,"[2.81034, 50.37243]"
+15,AWD0002j5j,diary,697,6,1917-04-16 00:00:00 UTC,16 Apr 1917,Vimy,"[2.81034, 50.37243]","",diaryDate,16 Apr 1917,"{""day""=>[""16""], ""month""=>[""Apr""], ""year""=>[""1917""]}",2968070,Vimy,"[2.81034, 50.37243]"
+16,AWD0002j5j,diary,697,3,1917-04-16 00:00:00 UTC,16 Apr 1917,Vimy,"[2.81034, 50.37243]","",activity,resupplying,{},2968070,Vimy,"[2.81034, 50.37243]"
+17,AWD0002j5j,diary,697,3,1917-04-16 00:00:00 UTC,16 Apr 1917,Vimy,"[2.81034, 50.37243]","",place,Vimy,"{""place""=>[""Vimy""], ""location""=>[""true""], ""name""=>[""Vimy""], ""lat""=>[""50.37243""], ""long""=>[""2.81034""], ""id""=>[""2968070""]}",2968070,Vimy,"[2.81034, 50.37243]"
+18,AWD0002j5j,diary,697,2,1917-04-16 08:00:00 UTC,16 Apr 1917,Vimy,"[2.81034, 50.37243]",0800AM,time,0800AM,{},2968070,Vimy,"[2.81034, 50.37243]"
+20,AWD0002j5j,diary,697,5,1917-04-16 08:00:00 UTC,16 Apr 1917,Vimy,"[2.81034, 50.37243]",0800AM,weather,rain,{},2968070,Vimy,"[2.81034, 50.37243]"
+21,AWD0002j5j,diary,697,6,1917-04-16 08:00:00 UTC,16 Apr 1917,Vimy,"[2.81034, 50.37243]",0800AM,weather,fine,{},2968070,Vimy,"[2.81034, 50.37243]"
+22,AWD0002j5j,diary,697,3,1917-04-16 08:00:00 UTC,16 Apr 1917,Vimy,"[2.81034, 50.37243]",0800AM,activity,movement,{},2968070,Vimy,"[2.81034, 50.37243]"
+24,AWD0002j5j,diary,697,3,1917-04-16 08:00:00 UTC,16 Apr 1917,Vimy,"[2.81034, 50.37243]",0800AM,place,Vimy,"{""place""=>[""Vimy""], ""location""=>[""true""], ""name""=>[""Vimy""], ""lat""=>[""50.37243""], ""long""=>[""2.81034""], ""id""=>[""2968070""]}",2968070,Vimy,"[2.81034, 50.37243]"
+25,AWD0002j5j,diary,697,5,1917-04-17 00:00:00 UTC,17 Apr 1917,Vimy,"[2.81034, 50.37243]","",diaryDate,17 Apr 1917,"{""day""=>[""17""], ""month""=>[""Apr""], ""year""=>[""1917""]}",2968070,Vimy,"[2.81034, 50.37243]"
+26,AWD0002j5j,diary,697,2,1917-04-17 08:00:00 UTC,17 Apr 1917,Vimy,"[2.81034, 50.37243]",0800AM,time,0800AM,{},2968070,Vimy,"[2.81034, 50.37243]"
+27,AWD0002j5j,diary,697,6,1917-04-17 08:00:00 UTC,17 Apr 1917,Vimy,"[2.81034, 50.37243]",0800AM,weather,rain,{},2968070,Vimy,"[2.81034, 50.37243]"
+29,AWD0002j5j,diary,697,4,1917-04-17 08:00:00 UTC,17 Apr 1917,Vimy,"[2.81034, 50.37243]",0800AM,activity,construction,{},2968070,Vimy,"[2.81034, 50.37243]"
+31,AWD0002j5j,diary,697,6,1917-04-17 08:00:00 UTC,17 Apr 1917,Vimy,"[2.81034, 50.37243]",0800AM,person,Colonel  Berkley,"{""first""=>[""""], ""surname""=>[""Berkley""], ""rank""=>[""Colonel""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",2968070,Vimy,"[2.81034, 50.37243]"
+34,AWD0002j5j,diary,697,5,1917-04-17 08:00:00 UTC,17 Apr 1917,Vimy,"[2.81034, 50.37243]",0800AM,place,Vimy,"{""place""=>[""Vimy""], ""location""=>[""true""], ""name""=>[""Vimy""], ""lat""=>[""50.37243""], ""long""=>[""2.81034""], ""id""=>[""2968070""]}",2968070,Vimy,"[2.81034, 50.37243]"
+35,AWD0002j5j,diary,697,4,1917-04-17 08:00:00 UTC,17 Apr 1917,Vimy,"[2.81034, 50.37243]",0800AM,activity,enemy_activity,{},2968070,Vimy,"[2.81034, 50.37243]"
+36,AWD0002j5j,diary,697,2,1917-04-17 08:00:00 UTC,17 Apr 1917,Vimy,"[2.81034, 50.37243]",0800AM,activity,fire,{},2968070,Vimy,"[2.81034, 50.37243]"
+37,AWD0002j5j,diary,697,6,1917-04-18 00:00:00 UTC,18 Apr 1917,Vimy,"[2.81034, 50.37243]","",diaryDate,18 Apr 1917,"{""day""=>[""18""], ""month""=>[""Apr""], ""year""=>[""1917""]}",2968070,Vimy,"[2.81034, 50.37243]"
+38,AWD0002j5j,diary,697,4,1917-04-18 00:00:00 UTC,18 Apr 1917,Vimy,"[2.81034, 50.37243]","",place,Vimy,"{""place""=>[""Vimy""], ""location""=>[""true""], ""name""=>[""Vimy""], ""lat""=>[""50.37243""], ""long""=>[""2.81034""], ""id""=>[""2968070""]}",2968070,Vimy,"[2.81034, 50.37243]"
+39,AWD0002j5j,diary,697,6,1917-04-18 00:00:00 UTC,18 Apr 1917,Vimy,"[2.81034, 50.37243]","",weather,rain,{},2968070,Vimy,"[2.81034, 50.37243]"
+40,AWD0002j5j,diary,697,4,1917-04-18 08:00:00 UTC,18 Apr 1917,Vimy,"[2.81034, 50.37243]",0800AM,time,0800AM,{},2968070,Vimy,"[2.81034, 50.37243]"
+41,AWD0002j5j,diary,697,6,1917-04-19 00:00:00 UTC,19 Apr 1917,Vimy,"[2.81034, 50.37243]","",diaryDate,19 Apr 1917,"{""day""=>[""19""], ""month""=>[""Apr""], ""year""=>[""1917""]}",2968070,Vimy,"[2.81034, 50.37243]"
+42,AWD0002j5j,diary,697,6,1917-04-19 00:00:00 UTC,19 Apr 1917,Vimy,"[2.81034, 50.37243]","",weather,fine,{},2968070,Vimy,"[2.81034, 50.37243]"
+43,AWD0002j5j,diary,697,4,1917-04-19 00:00:00 UTC,19 Apr 1917,Vimy,"[2.81034, 50.37243]","",activity,enemy_activity,{},2968070,Vimy,"[2.81034, 50.37243]"
+44,AWD0002j5j,diary,697,3,1917-04-19 00:00:00 UTC,19 Apr 1917,Vimy,"[2.81034, 50.37243]","",activity,fire,{},2968070,Vimy,"[2.81034, 50.37243]"
+45,AWD0002j5j,diary,697,2,1917-04-19 00:00:00 UTC,19 Apr 1917,Vimy,"[2.81034, 50.37243]","",casualties,wounded: 1,{},2968070,Vimy,"[2.81034, 50.37243]"
+48,AWD0002j5j,diary,697,7,1917-04-19 00:00:00 UTC,19 Apr 1917,Vimy,"[2.81034, 50.37243]","",person,Lieutenant H V Jaques,"{""first""=>[""H V""], ""surname""=>[""Jaques""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",2968070,Vimy,"[2.81034, 50.37243]"
+49,AWD0002j5j,diary,697,3,1917-04-19 22:00:00 UTC,19 Apr 1917,Vimy,"[2.81034, 50.37243]",1000PM,time,1000PM,{},2968070,Vimy,"[2.81034, 50.37243]"
+55,AWD0002j5j,diary,697,11,1917-04-19 22:00:00 UTC,19 Apr 1917,Vimy,"[2.81034, 50.37243]",1000PM,person,Second Lieutenant C M Taylor,"{""first""=>[""C M""], ""surname""=>[""Taylor""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_died""], ""unit""=>[""""]}",2968070,Vimy,"[2.81034, 50.37243]"
+58,AWD0002j5j,diary,697,5,1917-04-20 00:00:00 UTC,20 Apr 1917,Vimy,"[2.81034, 50.37243]","",diaryDate,20 Apr 1917,"{""day""=>[""20""], ""month""=>[""Apr""], ""year""=>[""1917""]}",2968070,Vimy,"[2.81034, 50.37243]"
+59,AWD0002j5j,diary,697,6,1917-04-20 00:00:00 UTC,20 Apr 1917,Vimy,"[2.81034, 50.37243]","",weather,fine,{},2968070,Vimy,"[2.81034, 50.37243]"
+61,AWD0002j5j,diary,697,2,1917-04-20 00:00:00 UTC,20 Apr 1917,Vimy,"[2.81034, 50.37243]","",gridRef,T 26 C,{},2968070,Vimy,"[2.81034, 50.37243]"
+62,AWD0002j5j,diary,697,5,1917-04-20 00:00:00 UTC,20 Apr 1917,Vimy,"[2.81034, 50.37243]","",place,Vimy,"{""place""=>[""Vimy""], ""location""=>[""true""], ""name""=>[""Vimy""], ""lat""=>[""50.37243""], ""long""=>[""2.81034""], ""id""=>[""2968070""]}",2968070,Vimy,"[2.81034, 50.37243]"
+63,AWD0002j5j,diary,697,2,1917-04-20 00:00:00 UTC,20 Apr 1917,Vimy,"[2.81034, 50.37243]","",activity,clearing,{},2968070,Vimy,"[2.81034, 50.37243]"
+65,AWD0002j5j,diary,697,2,1917-04-20 00:00:00 UTC,20 Apr 1917,Vimy,"[2.81034, 50.37243]","",unit,"106 Fuzls, 106 fugls (?)","{""name""=>[""106 Fuzls"", ""106 fugls (?)""], ""context""=>[""joined""]}",2968070,Vimy,"[2.81034, 50.37243]"
+66,AWD0002j5j,diary,697,4,1917-04-20 00:00:00 UTC,20 Apr 1917,Vimy,"[2.81034, 50.37243]","",gridRef,T 23 D,{},2968070,Vimy,"[2.81034, 50.37243]"
+67,AWD0002j5j,diary,697,2,1917-04-20 00:00:00 UTC,20 Apr 1917,Vimy,"[2.81034, 50.37243]","",gridRef,T 24 C,{},2968070,Vimy,"[2.81034, 50.37243]"
+68,AWD0002j5j,diary,697,4,1917-04-20 08:00:00 UTC,20 Apr 1917,Vimy,"[2.81034, 50.37243]",0800AM,time,0800AM,{},2968070,Vimy,"[2.81034, 50.37243]"
+70,AWD0002j5j,diary,697,6,1917-04-21 00:00:00 UTC,21 Apr 1917,Vimy,"[2.81034, 50.37243]","",diaryDate,21 Apr 1917,"{""day""=>[""21""], ""month""=>[""Apr""], ""year""=>[""1917""]}",2968070,Vimy,"[2.81034, 50.37243]"
+71,AWD0002j5j,diary,697,4,1917-04-21 00:00:00 UTC,21 Apr 1917,Vimy,"[2.81034, 50.37243]","",weather,overcast,{},2968070,Vimy,"[2.81034, 50.37243]"
+72,AWD0002j5j,diary,697,5,1917-04-21 00:00:00 UTC,21 Apr 1917,Vimy,"[2.81034, 50.37243]","",weather,cold,{},2968070,Vimy,"[2.81034, 50.37243]"
+73,AWD0002j5j,diary,697,5,1917-04-21 00:00:00 UTC,21 Apr 1917,Vimy,"[2.81034, 50.37243]","",person,Lieutenant  Eccles,"{""first""=>[""""], ""surname""=>[""Eccles""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2968070,Vimy,"[2.81034, 50.37243]"
+75,AWD0002j5j,diary,697,6,1917-04-21 00:00:00 UTC,21 Apr 1917,Vimy,"[2.81034, 50.37243]","",person,"Lieutenant R Hunter, HUNTER","{""first""=>[""R""], ""surname""=>[""Hunter"", ""HUNTER""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2968070,Vimy,"[2.81034, 50.37243]"
+77,AWD0002j5j,diary,697,2,1917-04-21 00:00:00 UTC,21 Apr 1917,Vimy,"[2.81034, 50.37243]","",person,"Captain W J,W ODLUM?, Todlum (?)","{""first""=>[""W J"", ""W""], ""surname""=>[""ODLUM?"", ""Todlum (?)""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",2968070,Vimy,"[2.81034, 50.37243]"
+2,AWD0002j58,diary,698,3,1917-04-21 08:00:00 UTC,21 Apr 1917,Vimy,"[2.81034, 50.37243]",0800AM,time,0800AM,{},2968070,Vimy,"[2.81034, 50.37243]"
+4,AWD0002j58,diary,698,5,1917-04-22 00:00:00 UTC,22 Apr 1917,Vimy,"[2.81034, 50.37243]","",diaryDate,22 Apr 1917,"{""day""=>[""22""], ""month""=>[""Apr""], ""year""=>[""1917""]}",2968070,Vimy,"[2.81034, 50.37243]"
+5,AWD0002j58,diary,698,6,1917-04-22 00:00:00 UTC,22 Apr 1917,Vimy,"[2.81034, 50.37243]","",weather,fine,{},2968070,Vimy,"[2.81034, 50.37243]"
+6,AWD0002j58,diary,698,4,1917-04-22 00:00:00 UTC,22 Apr 1917,Vimy,"[2.81034, 50.37243]","",weather,cold,{},2968070,Vimy,"[2.81034, 50.37243]"
+7,AWD0002j58,diary,698,7,1917-04-22 00:00:00 UTC,22 Apr 1917,Vimy,"[2.81034, 50.37243]","",place,Vimy,"{""place""=>[""Vimy""], ""location""=>[""true""], ""name""=>[""Vimy""], ""lat""=>[""50.37243""], ""long""=>[""2.81034""], ""id""=>[""2968070""]}",2968070,Vimy,"[2.81034, 50.37243]"
+9,AWD0002j58,diary,698,3,1917-04-22 00:00:00 UTC,22 Apr 1917,Vimy,"[2.81034, 50.37243]","",activity,resupplying,{},2968070,Vimy,"[2.81034, 50.37243]"
+10,AWD0002j58,diary,698,2,1917-04-22 00:00:00 UTC,22 Apr 1917,Vimy,"[2.81034, 50.37243]","",activity,fire,{},2968070,Vimy,"[2.81034, 50.37243]"
+13,AWD0002j58,diary,698,6,1917-04-23 00:00:00 UTC,23 Apr 1917,Vimy,"[2.81034, 50.37243]","",diaryDate,23 Apr 1917,"{""day""=>[""23""], ""month""=>[""Apr""], ""year""=>[""1917""]}",2968070,Vimy,"[2.81034, 50.37243]"
+14,AWD0002j58,diary,698,6,1917-04-23 00:00:00 UTC,23 Apr 1917,Vimy,"[2.81034, 50.37243]","",activity,fire,{},2968070,Vimy,"[2.81034, 50.37243]"
+15,AWD0002j58,diary,698,3,1917-04-23 00:00:00 UTC,23 Apr 1917,Vimy,"[2.81034, 50.37243]","",place,Vimy,"{""place""=>[""Vimy""], ""location""=>[""true""], ""name""=>[""Vimy""], ""lat""=>[""50.37243""], ""long""=>[""2.81034""], ""id""=>[""2968070""]}",2968070,Vimy,"[2.81034, 50.37243]"
+16,AWD0002j58,diary,698,2,1917-04-23 08:00:00 UTC,23 Apr 1917,Vimy,"[2.81034, 50.37243]",0800AM,time,0800AM,{},2968070,Vimy,"[2.81034, 50.37243]"
+17,AWD0002j58,diary,698,6,1917-04-23 08:00:00 UTC,23 Apr 1917,Vimy,"[2.81034, 50.37243]",0800AM,weather,fine,{},2968070,Vimy,"[2.81034, 50.37243]"
+19,AWD0002j58,diary,698,2,1917-04-23 08:00:00 UTC,23 Apr 1917,Vimy,"[2.81034, 50.37243]",0800AM,activity,fire,{},2968070,Vimy,"[2.81034, 50.37243]"
+20,AWD0002j58,diary,698,7,1917-04-23 08:00:00 UTC,23 Apr 1917,Vimy,"[2.81034, 50.37243]",0800AM,person,Major J McBride,"{""first""=>[""J""], ""surname""=>[""McBride""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",2968070,Vimy,"[2.81034, 50.37243]"
+21,AWD0002j58,diary,698,7,1917-04-23 08:00:00 UTC,23 Apr 1917,Vimy,"[2.81034, 50.37243]",0800AM,person,Captain G D Ferguson,"{""first""=>[""G D""], ""surname""=>[""Ferguson""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""casualty_kia""], ""unit""=>[""RAMC"", """"]}",2968070,Vimy,"[2.81034, 50.37243]"
+25,AWD0002j58,diary,698,2,1917-04-23 08:00:00 UTC,23 Apr 1917,Vimy,"[2.81034, 50.37243]",0800AM,casualties,non_combat: 1,{},2968070,Vimy,"[2.81034, 50.37243]"
+26,AWD0002j58,diary,698,7,1917-04-23 08:00:00 UTC,23 Apr 1917,Vimy,"[2.81034, 50.37243]",0800AM,person,Lieutenant H Hughes,"{""first""=>[""H""], ""surname""=>[""Hughes""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",2968070,Vimy,"[2.81034, 50.37243]"
+27,AWD0002j58,diary,698,7,1917-04-23 08:00:00 UTC,23 Apr 1917,Vimy,"[2.81034, 50.37243]",0800AM,person,Lieutenant C V Perry,"{""first""=>[""C V""], ""surname""=>[""Perry""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",2968070,Vimy,"[2.81034, 50.37243]"
+30,AWD0002j58,diary,698,4,1917-04-23 08:00:00 UTC,23 Apr 1917,Vimy,"[2.81034, 50.37243]",0800AM,activity,attack,{},2968070,Vimy,"[2.81034, 50.37243]"
+31,AWD0002j58,diary,698,5,1917-04-23 04:45:00 UTC,23 Apr 1917,Vimy,"[2.81034, 50.37243]",0445AM,time,0445AM,{},2968070,Vimy,"[2.81034, 50.37243]"
+32,AWD0002j58,diary,698,6,1917-04-23 04:45:00 UTC,23 Apr 1917,Vimy,"[2.81034, 50.37243]",0445AM,person,Captain M H Abell,"{""first""=>[""M H""], ""surname""=>[""Abell""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""120th Bty""]}",2968070,Vimy,"[2.81034, 50.37243]"
+34,AWD0002j58,diary,698,7,1917-04-23 04:45:00 UTC,23 Apr 1917,Vimy,"[2.81034, 50.37243]",0445AM,person,Second Lieutenant N W Just,"{""first""=>[""N W""], ""surname""=>[""Just""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""121 Bty""]}",2968070,Vimy,"[2.81034, 50.37243]"
+35,AWD0002j58,diary,698,7,1917-04-23 04:45:00 UTC,23 Apr 1917,Vimy,"[2.81034, 50.37243]",0445AM,person,Second Lieutenant J L Dickinson,"{""first""=>[""J L""], ""surname""=>[""Dickinson""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""37th Bty"", """"]}",2968070,Vimy,"[2.81034, 50.37243]"
+36,AWD0002j58,diary,698,7,1917-04-23 04:45:00 UTC,23 Apr 1917,Vimy,"[2.81034, 50.37243]",0445AM,person,Lieutenant G H Hadlock,"{""first""=>[""G H""], ""surname""=>[""Hadlock""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",2968070,Vimy,"[2.81034, 50.37243]"
+37,AWD0002j58,diary,698,6,1917-04-23 04:45:00 UTC,23 Apr 1917,Vimy,"[2.81034, 50.37243]",0445AM,person,Captain E Moreton,"{""first""=>[""E""], ""surname""=>[""Moreton""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""119th Bty""]}",2968070,Vimy,"[2.81034, 50.37243]"
+38,AWD0002j58,diary,698,5,1917-04-24 00:00:00 UTC,24 Apr 1917,Vimy,"[2.81034, 50.37243]","",diaryDate,24 Apr 1917,"{""day""=>[""24""], ""month""=>[""Apr""], ""year""=>[""1917""]}",2968070,Vimy,"[2.81034, 50.37243]"
+39,AWD0002j58,diary,698,3,1917-04-24 00:00:00 UTC,24 Apr 1917,Vimy,"[2.81034, 50.37243]","",place,Vimy,"{""place""=>[""Vimy""], ""location""=>[""true""], ""name""=>[""Vimy""], ""lat""=>[""50.37243""], ""long""=>[""2.81034""], ""id""=>[""2968070""]}",2968070,Vimy,"[2.81034, 50.37243]"
+40,AWD0002j58,diary,698,2,1917-04-24 08:00:00 UTC,24 Apr 1917,Vimy,"[2.81034, 50.37243]",0800AM,time,0800AM,{},2968070,Vimy,"[2.81034, 50.37243]"
+41,AWD0002j58,diary,698,6,1917-04-24 08:00:00 UTC,24 Apr 1917,Vimy,"[2.81034, 50.37243]",0800AM,weather,fine,{},2968070,Vimy,"[2.81034, 50.37243]"
+42,AWD0002j58,diary,698,6,1917-04-24 08:00:00 UTC,24 Apr 1917,Vimy,"[2.81034, 50.37243]",0800AM,activity,attack,{},2968070,Vimy,"[2.81034, 50.37243]"
+43,AWD0002j58,diary,698,2,1917-04-24 08:00:00 UTC,24 Apr 1917,Vimy,"[2.81034, 50.37243]",0800AM,person,",Captain W,W J Jodlum, ODLUM","{""first""=>[""W"", ""W J""], ""surname""=>[""Jodlum"", ""ODLUM""], ""rank""=>["""", ""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",2968070,Vimy,"[2.81034, 50.37243]"
+1,AWD0002j7v,diary,699,5,1917-04-25 00:00:00 UTC,25 Apr 1917,Vimy,"[2.81034, 50.37243]","",diaryDate,25 Apr 1917,"{""day""=>[""25""], ""month""=>[""Apr""], ""year""=>[""1917""]}",2968070,Vimy,"[2.81034, 50.37243]"
+2,AWD0002j7v,diary,699,4,1917-04-25 08:00:00 UTC,25 Apr 1917,Vimy,"[2.81034, 50.37243]",0800AM,time,0800AM,{},2968070,Vimy,"[2.81034, 50.37243]"
+3,AWD0002j7v,diary,699,7,1917-04-25 08:00:00 UTC,25 Apr 1917,Vimy,"[2.81034, 50.37243]",0800AM,place,Vimy,"{""place""=>[""Vimy""], ""location""=>[""true""], ""name""=>[""Vimy""], ""lat""=>[""50.37243""], ""long""=>[""2.81034""], ""id""=>[""2968070""]}",2968070,Vimy,"[2.81034, 50.37243]"
+4,AWD0002j7v,diary,699,3,1917-04-25 08:00:00 UTC,25 Apr 1917,Vimy,"[2.81034, 50.37243]",0800AM,activity,quiet,{},2968070,Vimy,"[2.81034, 50.37243]"
+5,AWD0002j7v,diary,699,3,1917-04-25 08:00:00 UTC,25 Apr 1917,Vimy,"[2.81034, 50.37243]",0800AM,weather,cold,{},2968070,Vimy,"[2.81034, 50.37243]"
+6,AWD0002j7v,diary,699,5,1917-04-25 08:00:00 UTC,25 Apr 1917,Vimy,"[2.81034, 50.37243]",0800AM,weather,overcast,{},2968070,Vimy,"[2.81034, 50.37243]"
+8,AWD0002j7v,diary,699,6,1917-04-25 08:00:00 UTC,25 Apr 1917,Vimy,"[2.81034, 50.37243]",0800AM,activity,fire,{},2968070,Vimy,"[2.81034, 50.37243]"
+9,AWD0002j7v,diary,699,2,1917-04-25 08:00:00 UTC,25 Apr 1917,Vimy,"[2.81034, 50.37243]",0800AM,unit,"119th Battery, 37th Battery","{""name""=>[""119th Battery"", ""37th Battery""], ""context""=>[""other""]}",2968070,Vimy,"[2.81034, 50.37243]"
+10,AWD0002j7v,diary,699,5,1917-04-26 00:00:00 UTC,26 Apr 1917,Vimy,"[2.81034, 50.37243]","",diaryDate,26 Apr 1917,"{""day""=>[""26""], ""month""=>[""Apr""], ""year""=>[""1917""]}",2968070,Vimy,"[2.81034, 50.37243]"
+11,AWD0002j7v,diary,699,3,1917-04-26 00:00:00 UTC,26 Apr 1917,Vimy,"[2.81034, 50.37243]","",place,Vimy,"{""place""=>[""Vimy""], ""location""=>[""true""], ""name""=>[""Vimy""], ""lat""=>[""50.37243""], ""long""=>[""2.81034""], ""id""=>[""2968070""]}",2968070,Vimy,"[2.81034, 50.37243]"
+12,AWD0002j7v,diary,699,2,1917-04-26 08:00:00 UTC,26 Apr 1917,Vimy,"[2.81034, 50.37243]",0800AM,time,0800AM,{},2968070,Vimy,"[2.81034, 50.37243]"
+13,AWD0002j7v,diary,699,6,1917-04-26 08:00:00 UTC,26 Apr 1917,Vimy,"[2.81034, 50.37243]",0800AM,weather,fine,{},2968070,Vimy,"[2.81034, 50.37243]"
+14,AWD0002j7v,diary,699,5,1917-04-26 08:00:00 UTC,26 Apr 1917,Vimy,"[2.81034, 50.37243]",0800AM,activity,fire,{},2968070,Vimy,"[2.81034, 50.37243]"
+17,AWD0002j7v,diary,699,4,1917-04-26 08:00:00 UTC,26 Apr 1917,Vimy,"[2.81034, 50.37243]",0800AM,casualties,wounded: 3,{},2968070,Vimy,"[2.81034, 50.37243]"
+18,AWD0002j7v,diary,699,5,1917-04-27 00:00:00 UTC,27 Apr 1917,Vimy,"[2.81034, 50.37243]","",diaryDate,27 Apr 1917,"{""day""=>[""27""], ""month""=>[""Apr""], ""year""=>[""1917""]}",2968070,Vimy,"[2.81034, 50.37243]"
+19,AWD0002j7v,diary,699,6,1917-04-27 00:00:00 UTC,27 Apr 1917,Vimy,"[2.81034, 50.37243]","",place,Vimy,"{""place""=>[""Vimy""], ""location""=>[""true""], ""name""=>[""Vimy""], ""lat""=>[""50.37243""], ""long""=>[""2.81034""], ""id""=>[""2968070""]}",2968070,Vimy,"[2.81034, 50.37243]"
+20,AWD0002j7v,diary,699,3,1917-04-27 08:00:00 UTC,27 Apr 1917,Vimy,"[2.81034, 50.37243]",0800AM,time,0800AM,{},2968070,Vimy,"[2.81034, 50.37243]"
+21,AWD0002j7v,diary,699,9,1917-04-27 08:00:00 UTC,27 Apr 1917,Vimy,"[2.81034, 50.37243]",0800AM,activity,fire,{},2968070,Vimy,"[2.81034, 50.37243]"
+23,AWD0002j7v,diary,699,12,1917-04-27 08:00:00 UTC,27 Apr 1917,Vimy,"[2.81034, 50.37243]",0800AM,weather,fine,{},2968070,Vimy,"[2.81034, 50.37243]"
+24,AWD0002j7v,diary,699,2,1917-04-27 08:00:00 UTC,27 Apr 1917,Vimy,"[2.81034, 50.37243]",0800AM,weather,cold,{},2968070,Vimy,"[2.81034, 50.37243]"
+25,AWD0002j7v,diary,699,4,1917-04-28 00:00:00 UTC,28 Apr 1917,Vimy,"[2.81034, 50.37243]","",diaryDate,28 Apr 1917,"{""day""=>[""28""], ""month""=>[""Apr""], ""year""=>[""1917""]}",2968070,Vimy,"[2.81034, 50.37243]"
+26,AWD0002j7v,diary,699,3,1917-04-28 00:00:00 UTC,28 Apr 1917,Vimy,"[2.81034, 50.37243]","",activity,fire,{},2968070,Vimy,"[2.81034, 50.37243]"
+27,AWD0002j7v,diary,699,3,1917-04-28 00:00:00 UTC,28 Apr 1917,Vimy,"[2.81034, 50.37243]","",activity,attack,{},2968070,Vimy,"[2.81034, 50.37243]"
+30,AWD0002j7v,diary,699,5,1917-04-28 00:00:00 UTC,28 Apr 1917,Vimy,"[2.81034, 50.37243]","",place,Arleux Loop,"{""place""=>[""Arleux Loop""], ""location""=>[""false""], ""name""=>[""Vimy""], ""lat""=>[""50.37243""], ""long""=>[""2.81034""], ""id""=>[""2968070""]}",2968070,Vimy,"[2.81034, 50.37243]"
+31,AWD0002j7v,diary,699,3,1917-04-28 04:25:00 UTC,28 Apr 1917,Vimy,"[2.81034, 50.37243]",0425AM,time,0425AM,{},2968070,Vimy,"[2.81034, 50.37243]"
+32,AWD0002j7v,diary,699,3,1917-04-28 04:25:00 UTC,28 Apr 1917,Vimy,"[2.81034, 50.37243]",0425AM,activity,achieved,{},2968070,Vimy,"[2.81034, 50.37243]"
+33,AWD0002j7v,diary,699,5,1917-04-28 04:25:00 UTC,28 Apr 1917,Vimy,"[2.81034, 50.37243]",0425AM,place,Arleux,"{""place""=>[""Arleux""], ""location""=>[""false""], ""name""=>["""", ""Arleux""], ""lat""=>["""", ""50.28037""], ""long""=>["""", ""3.10448""], ""id""=>["""", ""3036932""]}",2968070,Vimy,"[2.81034, 50.37243]"
+37,AWD0002j7v,diary,699,4,1917-04-29 00:00:00 UTC,29 Apr 1917,Vimy,"[2.81034, 50.37243]","",diaryDate,29 Apr 1917,"{""day""=>[""29""], ""month""=>[""Apr""], ""year""=>[""1917""]}",2968070,Vimy,"[2.81034, 50.37243]"
+39,AWD0002j7v,diary,699,4,1917-04-29 00:00:00 UTC,29 Apr 1917,Vimy,"[2.81034, 50.37243]","",activity,quiet,{},2968070,Vimy,"[2.81034, 50.37243]"
+40,AWD0002j7v,diary,699,6,1917-04-29 00:00:00 UTC,29 Apr 1917,Vimy,"[2.81034, 50.37243]","",place,Vimy,"{""place""=>[""Vimy""], ""location""=>[""true""], ""name""=>[""Vimy""], ""lat""=>[""50.37243""], ""long""=>[""2.81034""], ""id""=>[""2968070""]}",2968070,Vimy,"[2.81034, 50.37243]"
+41,AWD0002j7v,diary,699,5,1917-04-30 00:00:00 UTC,30 Apr 1917,Vimy,"[2.81034, 50.37243]","",diaryDate,30 Apr 1917,"{""day""=>[""30""], ""month""=>[""Apr""], ""year""=>[""1917""]}",2968070,Vimy,"[2.81034, 50.37243]"
+42,AWD0002j7v,diary,699,3,1917-04-30 08:00:00 UTC,30 Apr 1917,Vimy,"[2.81034, 50.37243]",0800AM,time,0800AM,{},2968070,Vimy,"[2.81034, 50.37243]"
+43,AWD0002j7v,diary,699,11,1917-04-30 08:00:00 UTC,30 Apr 1917,Vimy,"[2.81034, 50.37243]",0800AM,weather,fine,{},2968070,Vimy,"[2.81034, 50.37243]"
+45,AWD0002j7v,diary,699,6,1917-04-30 08:00:00 UTC,30 Apr 1917,Vimy,"[2.81034, 50.37243]",0800AM,activity,fire,{},2968070,Vimy,"[2.81034, 50.37243]"
+48,AWD0002j7v,diary,699,2,1917-04-30 08:00:00 UTC,30 Apr 1917,Vimy,"[2.81034, 50.37243]",0800AM,activity,repair,{},2968070,Vimy,"[2.81034, 50.37243]"
+50,AWD0002j7v,diary,699,3,1917-04-30 08:00:00 UTC,30 Apr 1917,Vimy,"[2.81034, 50.37243]",0800AM,activity,resupplying,{},2968070,Vimy,"[2.81034, 50.37243]"
+52,AWD0002j7v,diary,699,2,1917-04-30 08:00:00 UTC,30 Apr 1917,Vimy,"[2.81034, 50.37243]",0800AM,person,",Captain W,W J Jodlum (?), ODLUM","{""first""=>[""W"", ""W J""], ""surname""=>[""Jodlum (?)"", ""ODLUM""], ""rank""=>["""", ""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",2968070,Vimy,"[2.81034, 50.37243]"
+2,AWD0002j48,diary,700,3,1917-04-02 00:00:00 UTC,2 Apr 1917,Vimy,"[2.81034, 50.37243]","",diaryDate,2 Apr 1917,"{""day""=>[""2""], ""month""=>[""Apr""], ""year""=>[""1917""]}",2968070,Vimy,"[2.81034, 50.37243]"
+7,AWD0002j48,diary,700,2,1917-04-30 00:00:00 UTC,30 Apr 1917,Vimy,"[2.81034, 50.37243]","",diaryDate,30 Apr 1917,"{""day""=>[""30""], ""month""=>[""Apr""], ""year""=>[""1917""]}",2968070,Vimy,"[2.81034, 50.37243]"
+11,AWD0002j48,diary,700,2,1917-04-30 00:00:00 UTC,30 Apr 1917,Vimy,"[2.81034, 50.37243]","",casualties,killed: 1,{},2968070,Vimy,"[2.81034, 50.37243]"
+15,AWD0002j48,diary,700,2,1917-04-30 00:00:00 UTC,30 Apr 1917,Vimy,"[2.81034, 50.37243]","",unit,"119th Bt, 120th Bt","{""name""=>[""119th Bt"", ""120th Bt""], ""context""=>[""other""]}",2968070,Vimy,"[2.81034, 50.37243]"
+23,AWD0002j48,diary,700,2,1917-04-30 00:00:00 UTC,30 Apr 1917,Vimy,"[2.81034, 50.37243]","",casualties,killed: 1,{},2968070,Vimy,"[2.81034, 50.37243]"
+29,AWD0002j48,diary,700,2,1917-04-30 00:00:00 UTC,30 Apr 1917,Vimy,"[2.81034, 50.37243]","",title,Nominal Roll of Officers 30/4/17,{},2968070,Vimy,"[2.81034, 50.37243]"
+31,AWD0002j48,diary,700,4,1917-04-30 00:00:00 UTC,30 Apr 1917,Vimy,"[2.81034, 50.37243]","",unit,"119th Bt, 120th Bt, 37th Bt, 121th Bt","{""name""=>[""119th Bt"", ""120th Bt"", ""37th Bt"", ""121th Bt""], ""context""=>[""other""]}",2968070,Vimy,"[2.81034, 50.37243]"
+32,AWD0002j48,diary,700,3,1917-04-30 00:00:00 UTC,30 Apr 1917,Vimy,"[2.81034, 50.37243]","",person,Lieutenant Colonel J Berkley,"{""first""=>[""J""], ""surname""=>[""Berkley""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""HQ"", ""27th Bde RFA, HQ"", ""HQ, 27TH BRIGADE ROYAL FIELD ARTILLERY""]}",2968070,Vimy,"[2.81034, 50.37243]"
+33,AWD0002j48,diary,700,4,1917-04-30 00:00:00 UTC,30 Apr 1917,Vimy,"[2.81034, 50.37243]","",person,"Major T G Dubuisson, DUBUISSON","{""first""=>[""T G""], ""surname""=>[""Dubuisson"", ""DUBUISSON""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""27th Bde RFA, 119th Bty"", ""119 Battalion"", ""119th Bt"", ""119TH BATTERY, 27TH BRIGADE ROYAL FIELD ARTILLERY""]}",2968070,Vimy,"[2.81034, 50.37243]"
+34,AWD0002j48,diary,700,4,1917-04-30 00:00:00 UTC,30 Apr 1917,Vimy,"[2.81034, 50.37243]","",person,"Major M H Abell, ABELL","{""first""=>[""M H""], ""surname""=>[""Abell"", ""ABELL""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""27th Bde RFA, 120th Bty"", ""120 Battalion"", ""120TH BATTERY, 27TH BRIGADE ROYAL FIELD ARTILLERY"", ""120th Bt""]}",2968070,Vimy,"[2.81034, 50.37243]"
+35,AWD0002j48,diary,700,4,1917-04-30 00:00:00 UTC,30 Apr 1917,Vimy,"[2.81034, 50.37243]","",person,"Major G L Butler, BUTLER","{""first""=>[""G L""], ""surname""=>[""Butler"", ""BUTLER""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""121st Bt"", ""27th Bde RFA, 121th Bty"", ""121 Battalion"", ""121ST BATTERY, 27TH BRIGADE ROYAL FIELD ARTILLERY""]}",2968070,Vimy,"[2.81034, 50.37243]"
+36,AWD0002j48,diary,700,4,1917-04-30 00:00:00 UTC,30 Apr 1917,Vimy,"[2.81034, 50.37243]","",person,"Major M P Evans, EVANS","{""first""=>[""M P""], ""surname""=>[""Evans"", ""EVANS""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""27th Bde RFA, 37th Bty"", ""37nd Bt"", ""37TH BATTERY, 27TH BRIGADE ROYAL FIELD ARTILLERY"", ""37th""]}",2968070,Vimy,"[2.81034, 50.37243]"
+37,AWD0002j48,diary,700,4,1917-04-30 00:00:00 UTC,30 Apr 1917,Vimy,"[2.81034, 50.37243]","",person,"Captain W J Odlum, ODLUM","{""first""=>[""W J""], ""surname""=>[""Odlum"", ""ODLUM""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""27th Bde RFA, HQ"", ""HQ"", ""HQ, 27TH BRIGADE ROYAL FIELD ARTILLERY"", """"]}",2968070,Vimy,"[2.81034, 50.37243]"
+38,AWD0002j48,diary,700,4,1917-04-30 00:00:00 UTC,30 Apr 1917,Vimy,"[2.81034, 50.37243]","",person,"Captain E Moreton, MORETON","{""first""=>[""E""], ""surname""=>[""Moreton"", ""MORETON""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""27th Bde RFA, 119th Bty"", ""119th Bt"", ""119 Battalion"", ""119TH BATTERY, 27TH BRIGADE ROYAL FIELD ARTILLERY""]}",2968070,Vimy,"[2.81034, 50.37243]"
+39,AWD0002j48,diary,700,4,1917-04-30 00:00:00 UTC,30 Apr 1917,Vimy,"[2.81034, 50.37243]","",person,"Captain C E Tyson, TYSON","{""first""=>[""C E""], ""surname""=>[""Tyson"", ""TYSON""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""27th Bde RFA, 120th Bty"", ""120th Bt"", ""120 Battalion"", ""120TH BATTERY, 27TH BRIGADE ROYAL FIELD ARTILLERY""]}",2968070,Vimy,"[2.81034, 50.37243]"
+40,AWD0002j48,diary,700,4,1917-04-30 00:00:00 UTC,30 Apr 1917,Vimy,"[2.81034, 50.37243]","",person,"Captain J T Keay, KEAY","{""first""=>[""J T""], ""surname""=>[""Keay"", ""KEAY""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""121st Bt"", ""121 Battalion"", ""27th Bde RFA, 121th Bty"", ""121ST BATTERY, 27TH BRIGADE ROYAL FIELD ARTILLERY""]}",2968070,Vimy,"[2.81034, 50.37243]"
+41,AWD0002j48,diary,700,4,1917-04-30 00:00:00 UTC,30 Apr 1917,Vimy,"[2.81034, 50.37243]","",person,"Captain T N Paisley, PAISLEY","{""first""=>[""T N""], ""surname""=>[""Paisley"", ""PAISLEY""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""27th Bde RFA, 37th Bty"", ""37th"", ""37nd Bt"", ""37TH BATTERY, 27TH BRIGADE ROYAL FIELD ARTILLERY""]}",2968070,Vimy,"[2.81034, 50.37243]"
+42,AWD0002j48,diary,700,4,1917-04-30 00:00:00 UTC,30 Apr 1917,Vimy,"[2.81034, 50.37243]","",person,"Lieutenant G Reid, REID","{""first""=>[""G""], ""surname""=>[""Reid"", ""REID""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""HQ"", ""27th Bde RFA, HQ"", """", ""HQ, 27TH BRIGADE ROYAL FIELD ARTILLERY""]}",2968070,Vimy,"[2.81034, 50.37243]"
+43,AWD0002j48,diary,700,4,1917-04-30 00:00:00 UTC,30 Apr 1917,Vimy,"[2.81034, 50.37243]","",person,Lieutenant E P N JONES,"{""first""=>[""E P N""], ""surname""=>[""JONES""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""37th"", ""27th Bde RFA, 37th Bty"", ""37nd Bt"", ""37TH BATTERY, 27TH BRIGADE ROYAL FIELD ARTILLERY""]}",2968070,Vimy,"[2.81034, 50.37243]"
+44,AWD0002j48,diary,700,4,1917-04-30 00:00:00 UTC,30 Apr 1917,Vimy,"[2.81034, 50.37243]","",person,"Lieutenant P G E Warburton, WARBURTON","{""first""=>[""P G E""], ""surname""=>[""Warburton"", ""WARBURTON""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""27th Bde RFA, 119th Bty"", ""119th Bt"", ""119 Battalion"", ""119TH BATTERY, 27TH BRIGADE ROYAL FIELD ARTILLERY""]}",2968070,Vimy,"[2.81034, 50.37243]"
+45,AWD0002j48,diary,700,4,1917-04-30 00:00:00 UTC,30 Apr 1917,Vimy,"[2.81034, 50.37243]","",person,"Lieutenant T H B Kelly, KELLY","{""first""=>[""T H B""], ""surname""=>[""Kelly"", ""KELLY""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""27th Bde RFA, 120th Bty"", ""120 Battalion"", ""120th Bt"", ""120TH BATTERY, 27TH BRIGADE ROYAL FIELD ARTILLERY""]}",2968070,Vimy,"[2.81034, 50.37243]"
+46,AWD0002j48,diary,700,4,1917-04-30 00:00:00 UTC,30 Apr 1917,Vimy,"[2.81034, 50.37243]","",person,"Lieutenant R Whistler, WHISTLER","{""first""=>[""R""], ""surname""=>[""Whistler"", ""WHISTLER""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""27th Bde RFA, 121th Bty"", ""121 Battalion"", ""121st Bt"", ""121ST BATTERY, 27TH BRIGADE ROYAL FIELD ARTILLERY""]}",2968070,Vimy,"[2.81034, 50.37243]"
+47,AWD0002j48,diary,700,4,1917-04-30 00:00:00 UTC,30 Apr 1917,Vimy,"[2.81034, 50.37243]","",person,Lieutenant R H GRAY,"{""first""=>[""R H""], ""surname""=>[""GRAY""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""27th Bde RFA, 119th Bty"", ""119TH BATTERY, 27TH BRIGADE ROYAL FIELD ARTILLERY"", ""119 Battalion"", ""119th Bt""]}",2968070,Vimy,"[2.81034, 50.37243]"
+48,AWD0002j48,diary,700,4,1917-04-30 00:00:00 UTC,30 Apr 1917,Vimy,"[2.81034, 50.37243]","",person,Lieutenant R P Trustram,"{""first""=>[""R P""], ""surname""=>[""Trustram""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""121ST BATTERY, 27TH BRIGADE ROYAL FIELD ARTILLERY"", ""121 Battalion"", ""27th Bde RFA, 121th Bty"", ""121st Bt""]}",2968070,Vimy,"[2.81034, 50.37243]"
+49,AWD0002j48,diary,700,4,1917-04-30 00:00:00 UTC,30 Apr 1917,Vimy,"[2.81034, 50.37243]","",person,"Lieutenant G W MORRIS, Morris","{""first""=>[""G W""], ""surname""=>[""MORRIS"", ""Morris""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""37TH BATTERY, 27TH BRIGADE ROYAL FIELD ARTILLERY"", ""27th Bde RFA, 37th Bty"", ""37th"", ""37nd Bt""]}",2968070,Vimy,"[2.81034, 50.37243]"
+50,AWD0002j48,diary,700,4,1917-04-30 00:00:00 UTC,30 Apr 1917,Vimy,"[2.81034, 50.37243]","",person,"Lieutenant W A Smith, SMITH","{""first""=>[""W A""], ""surname""=>[""Smith"", ""SMITH""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""HQ (RAMC)"", ""27th Bde RFA, HQ"", """", ""HQ, 27TH BRIGADE ROYAL FIELD ARTILLERY""]}",2968070,Vimy,"[2.81034, 50.37243]"
+51,AWD0002j48,diary,700,4,1917-04-30 00:00:00 UTC,30 Apr 1917,Vimy,"[2.81034, 50.37243]","",person,"Lieutenant C WHITEHEAD, Whitehead","{""first""=>[""C""], ""surname""=>[""WHITEHEAD"", ""Whitehead""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""120 Batallion"", ""120th Bt"", ""27th Bde RFA, 120th Bty"", ""120TH BATTERY, 27TH BRIGADE ROYAL FIELD ARTILLERY""]}",2968070,Vimy,"[2.81034, 50.37243]"
+52,AWD0002j48,diary,700,4,1917-04-30 00:00:00 UTC,30 Apr 1917,Vimy,"[2.81034, 50.37243]","",person,Lieutenant A J T Eccles,"{""first""=>[""A J T""], ""surname""=>[""Eccles""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""27th Bde RFA, HQ"", ""HQ (RE)"", """", ""HQ, 27TH BRIGADE ROYAL FIELD ARTILLERY""]}",2968070,Vimy,"[2.81034, 50.37243]"
+53,AWD0002j48,diary,700,4,1917-04-30 00:00:00 UTC,30 Apr 1917,Vimy,"[2.81034, 50.37243]","",person,"Lieutenant L H Proctor, PROCTOR","{""first""=>[""L H""], ""surname""=>[""Proctor"", ""PROCTOR""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""27th Bde RFA, 119th Bty"", ""119TH BATTERY, 27TH BRIGADE ROYAL FIELD ARTILLERY"", ""119 Battalion"", ""119th Bt""]}",2968070,Vimy,"[2.81034, 50.37243]"
+54,AWD0002j48,diary,700,4,1917-04-30 00:00:00 UTC,30 Apr 1917,Vimy,"[2.81034, 50.37243]","",person,"Lieutenant C H LEWIS, Lewis","{""first""=>[""C H""], ""surname""=>[""LEWIS"", ""Lewis""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""120 Batallion"", ""120th Bt"", ""27th Bde RFA, 120th Bty"", ""120TH BATTERY, 27TH BRIGADE ROYAL FIELD ARTILLERY""]}",2968070,Vimy,"[2.81034, 50.37243]"
+55,AWD0002j48,diary,700,4,1917-04-30 00:00:00 UTC,30 Apr 1917,Vimy,"[2.81034, 50.37243]","",person,"Lieutenant N W Just, JUST","{""first""=>[""N W""], ""surname""=>[""Just"", ""JUST""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""27th Bde RFA, 121th Bty"", ""121st Bt"", ""121 Battalion"", ""121ST BATTERY, 27TH BRIGADE ROYAL FIELD ARTILLERY""]}",2968070,Vimy,"[2.81034, 50.37243]"
+56,AWD0002j48,diary,700,4,1917-04-30 00:00:00 UTC,30 Apr 1917,Vimy,"[2.81034, 50.37243]","",person,"Lieutenant J S Williams, WILLIAMS","{""first""=>[""J S""], ""surname""=>[""Williams"", ""WILLIAMS""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""27th Bde RFA, 37th Bty"", ""37nd Bt"", ""37th"", ""37TH BATTERY, 27TH BRIGADE ROYAL FIELD ARTILLERY""]}",2968070,Vimy,"[2.81034, 50.37243]"
+57,AWD0002j48,diary,700,4,1917-04-30 00:00:00 UTC,30 Apr 1917,Vimy,"[2.81034, 50.37243]","",person,"Lieutenant O V C Meysey-Thompson, MEYSEY-THOMPSON","{""first""=>[""O V C""], ""surname""=>[""Meysey-Thompson"", ""MEYSEY-THOMPSON""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""27th Bde RFA, 119th Bty"", ""119th Bt"", ""119 Battalion"", ""119TH BATTERY, 27TH BRIGADE ROYAL FIELD ARTILLERY""]}",2968070,Vimy,"[2.81034, 50.37243]"
+58,AWD0002j48,diary,700,4,1917-04-30 00:00:00 UTC,30 Apr 1917,Vimy,"[2.81034, 50.37243]","",person,"Lieutenant J D Boyd, BOYD","{""first""=>[""J D""], ""surname""=>[""Boyd"", ""BOYD""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""27th Bde RFA, 120th Bty"", ""120 Battalion"", ""120TH BATTERY, 27TH BRIGADE ROYAL FIELD ARTILLERY"", ""120th Bt""]}",2968070,Vimy,"[2.81034, 50.37243]"
+59,AWD0002j48,diary,700,4,1917-04-30 00:00:00 UTC,30 Apr 1917,Vimy,"[2.81034, 50.37243]","",person,"Lieutenant E H Hadlock, HADLOCK","{""first""=>[""E H""], ""surname""=>[""Hadlock"", ""HADLOCK""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""121st Bt"", ""27th Bde RFA, 121th Bty"", ""121 Battalion"", ""121ST BATTERY, 27TH BRIGADE ROYAL FIELD ARTILLERY""]}",2968070,Vimy,"[2.81034, 50.37243]"
+60,AWD0002j48,diary,700,4,1917-04-30 00:00:00 UTC,30 Apr 1917,Vimy,"[2.81034, 50.37243]","",person,"Lieutenant J L Dickinson, DICKINSON","{""first""=>[""J L""], ""surname""=>[""Dickinson"", ""DICKINSON""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""37nd Bt"", ""37TH BATTERY, 27TH BRIGADE ROYAL FIELD ARTILLERY"", ""27th Bde RFA, 37th Bty"", ""37th""]}",2968070,Vimy,"[2.81034, 50.37243]"
+61,AWD0002j48,diary,700,4,1917-04-30 00:00:00 UTC,30 Apr 1917,Vimy,"[2.81034, 50.37243]","",person,Lieutenant S C E LLOYD,"{""first""=>[""S C E""], ""surname""=>[""LLOYD""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""27th Bde RFA, 119th Bty"", ""119th Bt"", ""119 Battalion"", ""119TH BATTERY, 27TH BRIGADE ROYAL FIELD ARTILLERY""]}",2968070,Vimy,"[2.81034, 50.37243]"
+62,AWD0002j48,diary,700,4,1917-04-30 00:00:00 UTC,30 Apr 1917,Vimy,"[2.81034, 50.37243]","",person,"Lieutenant W M CRAIG, Craig","{""first""=>[""W M""], ""surname""=>[""CRAIG"", ""Craig""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""120 Battalion"", ""27th Bde RFA, 120th Bty"", ""120TH BATTERY, 27TH BRIGADE ROYAL FIELD ARTILLERY"", ""120th Bt""]}",2968070,Vimy,"[2.81034, 50.37243]"
+63,AWD0002j48,diary,700,4,1917-04-30 00:00:00 UTC,30 Apr 1917,Vimy,"[2.81034, 50.37243]","",person,"Lieutenant W S Salisbury, SALISBURY","{""first""=>[""W S""], ""surname""=>[""Salisbury"", ""SALISBURY""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""27th Bde RFA, 121th Bty"", ""121 Battalion"", ""121st Bt"", ""121ST BATTERY, 27TH BRIGADE ROYAL FIELD ARTILLERY""]}",2968070,Vimy,"[2.81034, 50.37243]"
+64,AWD0002j48,diary,700,4,1917-04-30 00:00:00 UTC,30 Apr 1917,Vimy,"[2.81034, 50.37243]","",person,"Lieutenant J W Lane, LANE","{""first""=>[""J W""], ""surname""=>[""Lane"", ""LANE""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""27th Bde RFA, 37th Bty"", ""37nd Bt"", ""37th"", ""37TH BATTERY, 27TH BRIGADE ROYAL FIELD ARTILLERY""]}",2968070,Vimy,"[2.81034, 50.37243]"
+2,AWD0002j6r,orders,716,3,,,,[],,person,Brigadier General H A Panet,"{""first""=>[""H A""], ""surname""=>[""Panet""], ""rank""=>[""Brigadier General""], ""number""=>[""""], ""reason""=>[""author"", ""commander"", ""other""], ""unit""=>[""2nd Canadian Division""]}",,,
+3,AWD0002j6r,orders,716,5,,,,[],,date,30 Mar 1917,{},,,
+5,AWD0002j6r,orders,716,2,,,,[],,reference,"France 1/20.000 Sheet 36.B., s.e. Sheet 51.B., n.w.",{},,,
+7,AWD0002j6r,orders,716,3,,,,[],,orders,other,{},,,
+10,AWD0002j6r,orders,716,2,,,,[],,orders,other,{},,,
+11,AWD0002j6r,orders,716,5,,,,[],,orders,move,{},,,
+13,AWD0002j6r,orders,716,6,,,,[],,orders,other,{},,,
+14,AWD0002j6r,orders,716,2,,,,[],,person,"Captain R F Puguid, Fuguid","{""first""=>[""R F""], ""surname""=>[""Puguid"", ""Fuguid""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""commander"", ""other""], ""unit""=>[""""]}",,,
+2,AWD0002j5e,"other, report",717,2,,,,[],,title,OBSERVATION POSTS in NEUVILLE St VAAST.,{},,,
+4,AWD0002j5e,"other, report",717,2,,,,[],,date,31 Mar 1917,{},,,
+1,AWD0002j8w,orders,719,8,,,,[],,orders,attack,{},,,
+1,AWD0002j6q,other,720,3,,,,[],,orders,attack,{},,,
+2,AWD0002j4w,other,721,3,,,,[],,orders,attack,{},,,
+1,AWD0002j7d,other,722,2,,,,[],,orders,attack,{},,,
+1,AWD0002j88,other,723,2,,,,[],,orders,attack,{},,,
+2,AWD0002j8u,other,724,2,,,,[],,orders,attack,{},,,
+1,AWD0002j6h,other,725,2,,,,[],,orders,attack,{},,,
+1,AWD0002j68,other,726,2,,,,[],,orders,attack,{},,,
+1,AWD0002j55,other,727,2,,,,[],,orders,attack,{},,,
+6,AWD0002j52,orders,729,3,,,,[],,orders,attack,{},,,
+8,AWD0002j52,orders,729,4,,,,[],,date,1 Apr 1917,{},,,
+9,AWD0002j52,orders,729,2,,,,[],,person,"Major ,R , A.","{""first""=>["""", ""R""], ""surname""=>["""", ""A.""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""Royal Artillery 5th Division""]}",,,
+3,AWD0002j4x,signals,730,7,,,,[],,date,8 Apr 1917,{},,,
+4,AWD0002j4x,signals,730,2,,,,[],,signals,order,{},,,
+6,AWD0002j4x,signals,730,5,,,,[],,time,0530AM,{},,,
+8,AWD0002j4x,signals,730,4,,,,[],,date,9 Apr 1917,{},,,
+1,AWD0002j5m,other,731,3,,,,[],,date,31 Mar 1917,{},,,
+2,AWD0002j5m,other,731,2,,,,[],,orders,attack,{},,,
+2,AWD0002j7i,other,732,2,,,,[],,orders,attack,{},,,
+2,AWD0002j5c,other,733,3,,,,[],,orders,attack,{},,,
+2,AWD0002j7n,other,734,2,,,,[],,orders,attack,{},,,
+4,AWD0002j7n,other,734,3,,,,[],,date,31 Mar 1917,{},,,
+5,AWD0002j7n,other,734,2,,,,[],,person,"Brigadier General H A,H PANET, Panet","{""first""=>[""H A"", ""H""], ""surname""=>[""PANET"", ""Panet""], ""rank""=>[""Brigadier General""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""C.R.A., 2nd Canadian Division"", ""CRA 2nd Canadian Division""]}",,,
+1,AWD0002j4p,other,735,3,,,,[],,orders,attack,{},,,
+1,AWD0002j7o,other,736,2,,,,[],,orders,attack,{},,,
+5,AWD0002j7o,other,736,2,,,,[],,person,"Major J, Wallace","{""first""=>[""J"", """"], ""surname""=>[""Wallace""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""author"", ""commander""], ""unit""=>[""5th Division Artillery"", ""5th Division""]}",,,
+7,AWD0002j7o,other,736,2,,,,[],,date,4 Apr 1917,{},,,
+1,AWD0002j5i,other,737,3,,,,[],,orders,attack,{},,,
+2,AWD0002j7c,orders,739,4,,,,[],,orders,attack,{},,,
+3,AWD0002j7c,orders,739,3,,,,[],,person,"Major J,R, Wallace","{""first""=>[""J"", ""R"", """"], ""surname""=>[""Wallace""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""Royal Artillery, 5th Division"", ""Royal Artillery"", """"]}",,,
+4,AWD0002j7c,orders,739,5,,,,[],,date,1 Apr 1917,{},,,
+1,AWD0002j6d,other,740,2,,,,[],,orders,attack,{},,,
+4,AWD0002j6t,orders,741,3,,,,[],,date,2 Apr 1917,{},,,
+1,AWD0002j77,orders,742,2,,,,[],,orders,attack,{},,,
+3,AWD0002j77,orders,742,5,,,,[],,date,1 Apr 1917,{},,,
+4,AWD0002j77,orders,742,2,,,,[],,orders,attack,{},,,
+3,AWD0002j4g,orders,743,4,,,,[],,orders,attack,{},,,
+1,AWD0002j6v,other,744,3,,,,[],,orders,attack,{},,,
+1,AWD0002j5x,other,745,3,,,,[],,orders,attack,{},,,
+2,AWD0002j7k,orders,746,2,,,,[],,date,1 Apr 1917,{},,,
+6,AWD0002j7k,orders,746,4,,,,[],,person,"Captain A Nellthorpe, NELLTHORPE","{""first""=>[""A""], ""surname""=>[""Nellthorpe"", ""NELLTHORPE""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+8,AWD0002j7k,orders,746,3,,,,[],,person,Major J Wallace,"{""first""=>[""J""], ""surname""=>[""Wallace""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""5th Division Artillery"", ""Royal Artillery"", """"]}",,,
+10,AWD0002j7k,orders,746,3,,,,[],,date,2 Apr 1917,{},,,
+3,AWD0002j4a,orders,747,4,,,,[],,orders,other,{},,,
+4,AWD0002j4a,orders,747,4,,,,[],,person,"Captain  Knox, KNOX","{""first""=>[""""], ""surname""=>[""Knox"", ""KNOX""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""departed_posted""], ""unit""=>[""6th Canadian Infantry Brigade""]}",,,
+5,AWD0002j4a,orders,747,4,,,,[],,person,"Second Lieutenant A H Gardner, GARDNER","{""first""=>[""A H""], ""surname""=>[""Gardner"", ""GARDNER""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_posted""], ""unit""=>[""31st Battalion""]}",,,
+6,AWD0002j4a,orders,747,4,,,,[],,person,"Lieutenant P G E Warburton, WARBURTON","{""first""=>[""P G E""], ""surname""=>[""Warburton"", ""WARBURTON""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_posted""], ""unit""=>[""28th Battalion""]}",,,
+7,AWD0002j4a,orders,747,4,,,,[],,person,"Lieutenant H H M Oliver, OLIVER","{""first""=>[""H H M""], ""surname""=>[""Oliver"", ""OLIVER""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_posted""], ""unit""=>[""29th Battalion""]}",,,
+8,AWD0002j4a,orders,747,4,,,,[],,person,"Second Lieutenant R E Trease, TREASE","{""first""=>[""R E""], ""surname""=>[""Trease"", ""TREASE""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_posted""], ""unit""=>[""27th Battalion""]}",,,
+10,AWD0002j4a,orders,747,3,,,,[],,person,"Major J,R, Wallace","{""first""=>[""J"", ""R"", """"], ""surname""=>[""Wallace""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""Royal Artillery, 5th Division"", ""27th Brigade Royal Artillery"", """"]}",,,
+12,AWD0002j4a,orders,747,5,,,,[],,date,3 Apr 1917,{},,,
+4,AWD0002j79,orders,748,2,,,,[],,orders,other,{},,,
+8,AWD0002j79,orders,748,5,,,,[],,person,Lieutenant Colonel Gordon Hall,"{""first""=>[""Gordon""], ""surname""=>[""Hall""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>["""", ""General Staff""]}",,,
+9,AWD0002j79,orders,748,5,,,,[],,date,3 Apr 1917,{},,,
+4,AWD0002j5k,orders,749,4,,,,[],,date,4 Apr 1917,{},,,
+9,AWD0002j5k,orders,749,3,,,,[],,person,Captain A F Duguid,"{""first""=>[""A F""], ""surname""=>[""Duguid""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""2nd Canadian Division artillery "", ""2nd Canadian Divnl Artillery"", ""2nd Canadian Div Artillery""]}",,,
+12,AWD0002j5k,orders,749,2,,,,[],,person,Major J Wallace,"{""first""=>[""J""], ""surname""=>[""Wallace""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""5th Division Arillery"", ""5th Divisional Artillery""]}",,,
+1,AWD0002j7g,orders,750,2,,,,[],,reference,HBM/1870/18,{},,,
+3,AWD0002j7g,orders,750,3,,,,[],,orders,attack,{},,,
+4,AWD0002j7g,orders,750,3,,,,[],,person,"Major J wallace, Wallace, WALLACE","{""first""=>[""J""], ""surname""=>[""wallace"", ""Wallace"", ""WALLACE""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""5th Division Artillery"", """", ""Royal Artillery 5th Division""]}",,,
+5,AWD0002j7g,orders,750,3,,,,[],,date,5 Apr 1917,{},,,
+4,AWD0002j67,orders,751,5,,,,[],,date,5 Apr 1917,{},,,
+5,AWD0002j67,orders,751,2,,,,[],,orders,attack,{},,,
+6,AWD0002j67,orders,751,3,,,,[],,person,"Captain W,A H, Duguid","{""first""=>[""W"", ""A H"", """"], ""surname""=>[""Duguid""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""2nd Canadian Artillery"", ""2nd Canadian Bivil(?) artillery"", """"]}",,,
+4,AWD0002j5z,orders,752,3,,,,[],,date,5 Apr 1917,{},,,
+7,AWD0002j5z,orders,752,2,,,,[],,person,Captain H Heron,"{""first""=>[""H""], ""surname""=>[""Heron""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author"", ""commander""], ""unit""=>["""", ""Canadian Corps""]}",,,
+8,AWD0002j5z,orders,752,3,,,,[],,person,Major J Wallace,"{""first""=>[""J""], ""surname""=>[""Wallace""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""5th Division Royal Artillery"", ""Royal Artillery 5th Division"", """"]}",,,
+9,AWD0002j5z,orders,752,3,,,,[],,date,6 Apr 1917,{},,,
+7,AWD0002j4o,orders,753,3,,,,[],,person,Major J Wallace,"{""first""=>[""J""], ""surname""=>[""Wallace""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""5th Division RA"", ""5th Divisional Artillery"", """"]}",,,
+8,AWD0002j4o,orders,753,3,,,,[],,date,7 Apr 1917,{},,,
+7,AWD0002j5p,orders,754,3,,,,[],,person,Major J Wallace,"{""first""=>[""J""], ""surname""=>[""Wallace""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""5th Division RA"", ""Royal Artillery 5th Division"", """"]}",,,
+8,AWD0002j5p,orders,754,3,,,,[],,date,7 Apr 1917,{},,,
+1,AWD0002j6x,orders,755,5,,,,[],,date,6 Apr 1917,{},,,
+6,AWD0002j6x,orders,755,2,,,,[],,person,"Captain ,A H Duguid, DUGUID","{""first""=>["""", ""A H""], ""surname""=>[""Duguid"", ""DUGUID""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author"", ""commander""], ""unit""=>["""", ""2nd Canadian Div'l Artillery""]}",,,
+1,AWD0002j5a,orders,756,3,,,,[],,orders,attack,{},,,
+3,AWD0002j5a,orders,756,5,,,,[],,person,Brigadier General H A Panet,"{""first""=>[""H A""], ""surname""=>[""Panet""], ""rank""=>[""Brigadier General""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""2nd Canadian Divisional Artillery""]}",,,
+5,AWD0002j5a,orders,756,6,,,,[],,date,6 Apr 1917,{},,,
+6,AWD0002j5a,orders,756,2,,,,[],,reference,BM/7/134,{},,,
+1,AWD0002jdg,orders,757,5,,,,[],,orders,attack,{},,,
+4,AWD0002jdg,orders,757,3,,,,[],,date,5 Apr 1917,{},,,
+3,AWD0002j6j,"other, orders",758,2,,,,[],,orders,attack,{},,,
+3,AWD0002j5b,"other, orders",759,2,,,,[],,orders,attack,{},,,
+3,AWD0002j7y,orders,760,2,,,,[],,orders,attack,{},,,
+3,AWD0002j65,orders,761,2,,,,[],,orders,attack,{},,,
+4,AWD0002j65,orders,761,2,,,,[],,reference,B.M. 7/134,{},,,
+5,AWD0002j65,orders,761,2,,,,[],,date,31 Mar 1917,{},,,
+2,AWD0002j8b,orders,762,4,,,,[],,orders,attack,{},,,
+2,AWD0002j8s,other,763,2,,,,[],,unit,"7th Cam Inf Bde, 8th Cam Inf Bde","{""name""=>[""7th Cam Inf Bde"", ""8th Cam Inf Bde""], ""context""=>[""other""]}",,,
+5,AWD0002j8s,other,763,3,,,,[],,unit,"5th Cam Inf Bde, 4th Cam Inf Bde, 13th Cam Inf Bde","{""name""=>[""5th Cam Inf Bde"", ""4th Cam Inf Bde"", ""13th Cam Inf Bde""], ""context""=>[""other""]}",,,
+2,AWD0002j7b,orders,764,3,,,,[],,reference,HBM/1870/21,{},,,
+5,AWD0002j7b,orders,764,2,,,,[],,orders,other,{},,,
+10,AWD0002j7b,orders,764,3,,,,[],,unit,"15th Brigade RFA, 27th Brigade RFA, 25th Brigade RFA","{""name""=>[""15th Brigade RFA"", ""27th Brigade RFA"", ""25th Brigade RFA""], ""context""=>[""other""]}",,,
+13,AWD0002j7b,orders,764,4,,,,[],,person,Lieutenant  Oliver,"{""first""=>[""""], ""surname""=>[""Oliver""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other"", ""departed_posted""], ""unit""=>[""29th Battalion""]}",,,
+15,AWD0002j7b,orders,764,4,,,,[],,person,Second Lieutenant  Trease,"{""first""=>[""""], ""surname""=>[""Trease""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other"", ""departed_posted""], ""unit""=>[""27th Battalion""]}",,,
+16,AWD0002j7b,orders,764,2,,,,[],,unit,"27th Brigade RFA, 28th Brigade RFA","{""name""=>[""27th Brigade RFA"", ""28th Brigade RFA""], ""context""=>[""other""]}",,,
+17,AWD0002j7b,orders,764,4,,,,[],,person,Lieutenant  Warburton,"{""first""=>[""""], ""surname""=>[""Warburton""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other"", ""departed_posted""], ""unit""=>[""28th Battalion"", ""28th Division""]}",,,
+18,AWD0002j7b,orders,764,4,,,,[],,person,Second Lieutenant  Gardner,"{""first""=>[""""], ""surname""=>[""Gardner""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other"", ""departed_posted""], ""unit""=>[""31st Battalion""]}",,,
+20,AWD0002j7b,orders,764,5,,,,[],,person,"Major ,R Wallace","{""first""=>["""", ""R""], ""surname""=>[""Wallace""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>["""", ""5th Division Royal Artillery""]}",,,
+21,AWD0002j7b,orders,764,3,,,,[],,date,7 Apr 1917,{},,,
+4,AWD0002j8a,orders,765,3,,,,[],,orders,attack,{},,,
+2,AWD0002j6n,other,766,2,,,,[],,reference,Ia/31737,{},,,
+4,AWD0002j6n,other,766,2,,,,[],,date,8 Apr 1917,{},,,
+1,AWD0002j4r,other,767,2,,,,[],,reference,Ia/31532,{},,,
+2,AWD0002j5s,orders,768,2,,,,[],,title,"Memoranda by G.O.C.R.A., Canadian Corps",{},,,
+3,AWD0002j5s,orders,768,2,,,,[],,orders,standing,{},,,
+8,AWD0002j5s,orders,768,2,,,,[],,orders,attack,{},,,
+9,AWD0002j5s,orders,768,7,,,,[],,person,Major A T DROOLE,"{""first""=>[""A T""], ""surname""=>[""DROOLE""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+10,AWD0002j5s,orders,768,5,,,,[],,date,6 Apr 1917,{},,,
+11,AWD0002j5s,orders,768,2,,,,[],,reference,HBM/1870/26,{},,,
+12,AWD0002j5s,orders,768,3,,,,[],,person,Major  Wallace,"{""first""=>[""""], ""surname""=>[""Wallace""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""5th Division RA"", ""5th Division"", """"]}",,,
+16,AWD0002j5s,orders,768,3,,,,[],,date,7 Apr 1917,{},,,
+4,AWD0002j5n,orders,769,2,,,,[],,reference,BBM/100,{},,,
+9,AWD0002j5n,orders,769,2,,,,[],,person,"Major J Walker, Walter","{""first""=>[""J""], ""surname""=>[""Walker"", ""Walter""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""5th Divisional Artillery"", """"]}",,,
+10,AWD0002j5n,orders,769,4,,,,[],,person,Major  Wallace,"{""first""=>[""""], ""surname""=>[""Wallace""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""5th Division Artillery"", """", ""5th Divisional Artillery"", ""R.A. 5th Divisional Artillery""]}",,,
+11,AWD0002j5n,orders,769,4,,,,[],,date,8 Apr 1917,{},,,
+2,AWD0002j71,report,770,2,,,,[],,reference,HBM/1902,{},,,
+3,AWD0002j71,report,770,2,,,,[],,reference,HB / 1902,{},,,
+15,AWD0002j71,report,770,3,,,,[],,person,Major  Smith,"{""first""=>[""""], ""surname""=>[""Smith""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""27th Battalion""]}",,,
+24,AWD0002j71,report,770,4,,,,[],,date,9 Apr 1917,{},,,
+25,AWD0002j71,report,770,6,,,,[],,person,Lieutenant R F Mason,"{""first""=>[""R F""], ""surname""=>[""Mason""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""author"", ""other"", ""commander""], ""unit""=>[""5th Divisional Artillery""]}",,,
+3,AWD0002j7f,orders,771,5,,,,[],,person,"Field Marshal Sir Douglas,Douglas Haig","{""first""=>[""Sir Douglas"", ""Douglas""], ""surname""=>[""Haig""], ""rank""=>[""Field Marshal""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+4,AWD0002j7f,orders,771,2,,,,[],,orders,other,{},,,
+9,AWD0002j7f,orders,771,2,,,,[],,date,10 Apr 1917,{},,,
+1,AWD0002j78,orders,772,2,,,,[],,orders,other,{},,,
+4,AWD0002j78,orders,772,3,,,,[],,person,General  NIVELLE,"{""first""=>[""""], ""surname""=>[""NIVELLE""], ""rank""=>[""General""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""Commander in Chief of Armies in the N. and N.E"", ""The Armies of the N. and N.E."", """"]}",,,
+5,AWD0002j78,orders,772,3,,,,[],,person,"Field Marshal DOUGLAS,Douglas,Sir Douglas HAIG","{""first""=>[""DOUGLAS"", ""Douglas"", ""Sir Douglas""], ""surname""=>[""HAIG""], ""rank""=>[""Field Marshal""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""Commander in Chief British Armies in France"", """", ""British Armies in France""]}",,,
+10,AWD0002j78,orders,772,3,,,,[],,date,12 Apr 1917,{},,,
+2,AWD0002j4f,"orders, other",773,3,,,,[],,orders,other,{},,,
+3,AWD0002j4f,"orders, other",773,4,,,,[],,person,"General H S HORNE, Horne","{""first""=>[""H S""], ""surname""=>[""HORNE"", ""Horne""], ""rank""=>[""General""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""First Army""]}",,,
+4,AWD0002j4f,"orders, other",773,3,,,,[],,date,11 Apr 1917,{},,,
+5,AWD0002j4f,"orders, other",773,3,,,,[],,person,"Field Marshal Sir Douglas,DOUGLAS,Douglas HAIG","{""first""=>[""Sir Douglas"", ""DOUGLAS"", ""Douglas""], ""surname""=>[""HAIG""], ""rank""=>[""Field Marshal""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""British Armies in France"", """", ""General Headquarters""]}",,,
+6,AWD0002j4f,"orders, other",773,4,,,,[],,person,"Major General P G TWINING, Twining","{""first""=>[""P G""], ""surname""=>[""TWINING"", ""Twining""], ""rank""=>[""Major General""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""First Army""]}",,,
+3,AWD0002j81,other,774,2,,,,[],,reference,HBM/1870/37,{},,,
+6,AWD0002j81,other,774,2,,,,[],,person,"Major R A,J Wallace","{""first""=>[""R A"", ""J""], ""surname""=>[""Wallace""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""author"", ""commander""], ""unit""=>[""5th Division Artillery"", ""5th Divisional Artillery""]}",,,
+7,AWD0002j81,other,774,3,,,,[],,date,14 Apr 1917,{},,,
+1,AWD0002j5o,signals,775,2,,,,[],,unit,"2th Brigade RFA, 27th Brigade R.F.A","{""name""=>[""2th Brigade RFA"", ""27th Brigade R.F.A""], ""context""=>[""other""]}",,,
+2,AWD0002j5o,signals,775,4,,,,[],,date,14 Apr 1917,{},,,
+4,AWD0002j5o,signals,775,2,,,,[],,unit,"2nd Canadian Div, 2nd Canadian Divn","{""name""=>[""2nd Canadian Div"", ""2nd Canadian Divn""], ""context""=>[""other""]}",,,
+6,AWD0002j5o,signals,775,3,,,,[],,signals,situation,{},,,
+9,AWD0002j5o,signals,775,2,,,,[],,gridRef,B 4 b 0 0,{},,,
+16,AWD0002j5o,signals,775,2,,,,[],,signals,order,{},,,
+18,AWD0002j5o,signals,775,3,,,,[],,unit,13th Corps,"{""name""=>[""13th Corps""], ""context""=>[""other""]}",,,
+20,AWD0002j5o,signals,775,2,,,,[],,gridRef,B 23 b 0 0,{},,,
+22,AWD0002j5o,signals,775,2,,,,[],,unit,5th Brigade,"{""name""=>[""5th Brigade""], ""context""=>[""other""]}",,,
+24,AWD0002j5o,signals,775,2,,,,[],,gridRef,T 13 d 0 0,{},,,
+26,AWD0002j5o,signals,775,4,,,,[],,person,Major J Wallace,"{""first""=>[""J""], ""surname""=>[""Wallace""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+1,AWD0002j7u,orders,776,6,,,,[],,date,10 Apr 1917,{},,,
+7,AWD0002j7u,orders,776,2,,,,[],,orders,withdraw,{},,,
+8,AWD0002j7u,orders,776,3,,,,[],,orders,move,{},,,
+2,AWD0002j4m,orders,777,2,,,,[],,date,10 Apr 1917,{},,,
+3,AWD0002j4m,orders,777,2,,,,[],,orders,move,{},,,
+3,AWD0002j4i,report,778,3,,,,[],,reference,I/R 1,{},,,
+4,AWD0002j4i,report,778,3,,,,[],,title,Intelligence Report,{},,,
+5,AWD0002j4i,report,778,5,,,,[],,date,10 Apr 1917,{},,,
+21,AWD0002j4i,report,778,3,,,,[],,person,"Lieutenant R,N O,R F Mason","{""first""=>[""R"", ""N O"", ""R F""], ""surname""=>[""Mason""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""5th Divisional RA"", ""5th Divisional Artillery"", """"]}",,,
+22,AWD0002j4i,report,778,2,,,,[],,date,10 Apr 1917,{},,,
+1,AWD0002j6c,report,779,4,,,,[],,title,Our Fire,{},,,
+2,AWD0002j6c,report,779,5,,,,[],,date,10 Apr 1917,{},,,
+2,AWD0002j4c,report,780,2,,,,[],,title,Our Fire,{},,,
+3,AWD0002j4c,report,780,2,,,,[],,title,Our Fire (Continued),{},,,
+11,AWD0002j5w,orders,781,3,,,,[],,person,Major J Wallace,"{""first""=>[""J""], ""surname""=>[""Wallace""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+13,AWD0002j5w,orders,781,4,,,,[],,date,10 Apr 1917,{},,,
+2,AWD0002j8o,orders,782,2,,,,[],,reference,HBM/1870/30,{},,,
+5,AWD0002j8o,orders,782,3,,,,[],,orders,other,{},,,
+7,AWD0002j8o,orders,782,2,,,,[],,person,"Major J Wallace, WALLACE","{""first""=>[""J""], ""surname""=>[""Wallace"", ""WALLACE""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander"", ""author""], ""unit""=>[""5th Divisional RA"", ""Royal Artillery 5th Division""]}",,,
+9,AWD0002j8o,orders,782,5,,,,[],,date,10 Apr 1917,{},,,
+2,AWD0002j6m,report,783,2,,,,[],,reference,I.R./2,{},,,
+5,AWD0002j6m,report,783,2,,,,[],,title,5th Divisional Artillery Intelligence Report,{},,,
+6,AWD0002j6m,report,783,2,,,,[],,title,Intelligence report,{},,,
+7,AWD0002j6m,report,783,3,,,,[],,date,11 Apr 1917,{},,,
+11,AWD0002j6m,report,783,4,,,,[],,person,Lieutenant R F Mason,"{""first""=>[""R F""], ""surname""=>[""Mason""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""5th Divisional Artillery""]}",,,
+2,AWD0002j7r,report,784,4,,,,[],,title,Our Fire,{},,,
+4,AWD0002j7r,report,784,5,,,,[],,date,11 Apr 1917,{},,,
+2,AWD0002j47,report,785,3,,,,[],,title,our fire (Continued),{},,,
+17,AWD0002j47,report,785,2,,,,[],,time,0141AM,{},,,
+5,AWD0002j4n,orders,786,2,,,,[],,orders,attack,{},,,
+9,AWD0002j4n,orders,786,2,,,,[],,person,"Major J, Wallace","{""first""=>[""J"", """"], ""surname""=>[""Wallace""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""author"", ""commander""], ""unit""=>[""5th Divisional Artillery"", """"]}",,,
+10,AWD0002j4n,orders,786,5,,,,[],,date,11 Apr 1917,{},,,
+1,AWD0002j72,report,788,4,,,,[],,title,5TH Divisional Artillery Intelligence Report,{},,,
+6,AWD0002j72,report,788,2,,,,[],,reference,I.R./3,{},,,
+7,AWD0002j72,report,788,6,,,,[],,date,12 Apr 1917,{},,,
+4,AWD0002j5h,report,789,5,,,,[],,person,Lieutenant R F Mason,"{""first""=>[""R F""], ""surname""=>[""Mason""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+5,AWD0002j5h,report,789,5,,,,[],,date,12 Apr 1917,{},,,
+1,AWD0002j6e,report,790,4,,,,[],,title,Hostile Batteries,{},,,
+2,AWD0002j8i,report,791,5,,,,[],,title,Our Fire,{},,,
+5,AWD0002j8i,report,791,5,,,,[],,date,12 Apr 1917,{},,,
+3,AWD0002j7j,report,792,3,,,,[],,title,Our fire (continued),{},,,
+1,AWD0002j83,report,793,2,,,,[],,reference,HBM/1005,{},,,
+7,AWD0002j83,report,793,2,,,,[],,title,Notes on a Map found on the Vimy Ridge 10th April 1917,{},,,
+9,AWD0002j83,report,793,2,,,,[],,date,10 Apr 1917,{},,,
+7,AWD0002j49,report,794,5,,,,[],,person,Lieutenant R Mason,"{""first""=>[""R""], ""surname""=>[""Mason""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+8,AWD0002j49,report,794,5,,,,[],,date,12 Apr 1917,{},,,
+1,AWD0002j8r,report,795,2,,,,[],,reference,HBM/1906,{},,,
+5,AWD0002j8r,report,795,4,,,,[],,person,Lieutenant R Mason,"{""first""=>[""R""], ""surname""=>[""Mason""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""Intelligence office 5th Divisional Artillery"", ""5th Div RA"", ""5th Divisional Artillery"", """"]}",,,
+6,AWD0002j8r,report,795,6,,,,[],,date,12 Apr 1917,{},,,
+1,AWD0002j54,orders,796,3,,,,[],,reference,HBM/1870/34,{},,,
+4,AWD0002j54,orders,796,3,,,,[],,orders,other,{},,,
+5,AWD0002j54,orders,796,5,,,,[],,person,Second Lieutenant  Knowles,"{""first""=>[""""], ""surname""=>[""Knowles""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+8,AWD0002j54,orders,796,2,,,,[],,person,"Major J Walker, Walters","{""first""=>[""J""], ""surname""=>[""Walker"", ""Walters""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""author"", ""commander""], ""unit""=>[""5th Div RA"", """"]}",,,
+9,AWD0002j54,orders,796,3,,,,[],,person,Major J Wallace,"{""first""=>[""J""], ""surname""=>[""Wallace""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""5th Divisional Artillery""]}",,,
+10,AWD0002j54,orders,796,3,,,,[],,date,12 Apr 1917,{},,,
+13,AWD0002j54,orders,796,3,,,,[],,date,12 Apr 1917,{},,,
+14,AWD0002j54,orders,796,4,,,,[],,person,Second Lieutenant C Whitehead,"{""first""=>[""C""], ""surname""=>[""Whitehead""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+4,AWD0002j84,orders,797,3,,,,[],,reference,HBM/1870/35,{},,,
+8,AWD0002j84,orders,797,3,,,,[],,person,"Major J wallace, Wallace, WALLACE","{""first""=>[""J""], ""surname""=>[""wallace"", ""Wallace"", ""WALLACE""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>["""", ""5th Div RA"", ""Royal Artillery 5th Division""]}",,,
+10,AWD0002j84,orders,797,5,,,,[],,date,12 Apr 1917,{},,,
+1,AWD0002j7x,report,798,2,,,,[],,reference,HBM/1870/32,{},,,
+4,AWD0002j7x,report,798,2,,,,[],,date,11 Apr 1917,{},,,
+1,AWD0002j6u,orders,799,3,,,,[],,orders,other,{},,,
+3,AWD0002j6u,orders,799,2,,,,[],,reference,BH/256,{},,,
+6,AWD0002j6u,orders,799,2,,,,[],,date,13 Apr 1917,{},,,
+8,AWD0002j6u,orders,799,2,,,,[],,person,"Second Lieutenant  Whitehead, WHITEHEAD","{""first""=>[""""], ""surname""=>[""Whitehead"", ""WHITEHEAD""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""commander"", ""other""], ""unit""=>[""""]}",,,
+9,AWD0002j6u,orders,799,3,,,,[],,person,"Captain ,U,W Jodlum","{""first""=>["""", ""U"", ""W""], ""surname""=>[""Jodlum""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>["""", ""RFA"", ""27th Brigade R.A.F.""]}",,,
+11,AWD0002j6u,orders,799,7,,,,[],,date,12 Apr 1917,{},,,
+2,AWD0002j56,orders,800,2,,,,[],,orders,other,{},,,
+5,AWD0002j56,orders,800,5,,,,[],,person,Field Marshal Douglas Haig,"{""first""=>[""Douglas""], ""surname""=>[""Haig""], ""rank""=>[""Field Marshal""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""British Armies in France"", """"]}",,,
+7,AWD0002j56,orders,800,2,,,,[],,reference,third army,{},,,
+8,AWD0002j56,orders,800,5,,,,[],,date,12 Apr 1917,{},,,
+2,AWD0002j6w,report,801,3,,,,[],,title,5th Divisional Artillery Intelligence Report,{},,,
+9,AWD0002j6w,report,801,6,,,,[],,date,13 Apr 1917,{},,,
+10,AWD0002j6w,report,801,7,,,,[],,person,Lieutenant R Mason,"{""first""=>[""R""], ""surname""=>[""Mason""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+11,AWD0002j6w,report,801,2,,,,[],,date,13 Apr 1917,{},,,
+1,AWD0002j6k,report,802,5,,,,[],,title,Hostile Batteries,{},,,
+1,AWD0002j4h,report,803,4,,,,[],,title,Our Fire,{},,,
+4,AWD0002j4h,report,803,6,,,,[],,date,13 Apr 1917,{},,,
+3,AWD0002j43,report,804,3,,,,[],,title,Our Fire (Continued),{},,,
+3,AWD0002j64,orders,806,2,,,,[],,reference,HBM/1870/36,{},,,
+5,AWD0002j64,orders,806,2,,,,[],,orders,attack,{},,,
+6,AWD0002j64,orders,806,2,,,,[],,orders,other,{},,,
+8,AWD0002j64,orders,806,3,,,,[],,person,"Brigadier General G H,A H,A Hussey","{""first""=>[""G H"", ""A H"", ""A""], ""surname""=>[""Hussey""], ""rank""=>[""Brigadier General""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""RA 5th Div"", """", ""5th divisional Artillery""]}",,,
+9,AWD0002j64,orders,806,7,,,,[],,date,13 Apr 1917,{},,,
+2,AWD0002j6f,orders,807,2,,,,[],,orders,move,{},,,
+5,AWD0002j6f,orders,807,3,,,,[],,unit,"1st Div., 4st Div., 24st Div.","{""name""=>[""1st Div."", ""4st Div."", ""24st Div.""], ""context""=>[""other""]}",,,
+17,AWD0002j6f,orders,807,5,,,,[],,person,Lieutenant Colonel A W Weber,"{""first""=>[""A W""], ""surname""=>[""Weber""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+20,AWD0002j6f,orders,807,2,,,,[],,reference,HBM/1870/37,{},,,
+21,AWD0002j6f,orders,807,4,,,,[],,person,"Major ,J Wallace","{""first""=>["""", ""J""], ""surname""=>[""Wallace""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""author"", ""commander""], ""unit""=>[""""]}",,,
+22,AWD0002j6f,orders,807,4,,,,[],,date,13 Apr 1917,{},,,
+3,AWD0002j73,report,808,2,,,,[],,reference,I.R/5,{},,,
+5,AWD0002j73,report,808,2,,,,[],,title,5th Divisional Artillery Intelligence Report,{},,,
+8,AWD0002j73,report,808,5,,,,[],,date,14 Apr 1917,{},,,
+9,AWD0002j73,report,808,7,,,,[],,person,Lieutenant R F Mason,"{""first""=>[""R F""], ""surname""=>[""Mason""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+10,AWD0002j73,report,808,4,,,,[],,date,14 Apr 1917,{},,,
+7,AWD0002j7l,orders,809,4,,,,[],,person,Brigadier General A H Hussey,"{""first""=>[""A H""], ""surname""=>[""Hussey""], ""rank""=>[""Brigadier General""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""5th Divisional Artillery""]}",,,
+8,AWD0002j7l,orders,809,2,,,,[],,orders,move,{},,,
+9,AWD0002j7l,orders,809,6,,,,[],,date,14 Apr 1917,{},,,
+11,AWD0002j7l,orders,809,5,,,,[],,person,"Major ,J Wallace","{""first""=>["""", ""J""], ""surname""=>[""Wallace""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+12,AWD0002j7l,orders,809,2,,,,[],,date,14 Apr 1917,{},,,
+1,AWD0002j8p,signals,810,6,,,,[],,time,1030PM,{},,,
+2,AWD0002j8p,signals,810,3,,,,[],,date,20 Apr 1917,{},,,
+4,AWD0002j8p,signals,810,3,,,,[],,date,20 Apr 1917,{},,,
+5,AWD0002j8p,signals,810,4,,,,[],,signals,order,{},,,
+6,AWD0002j8p,signals,810,2,,,,[],,time,0230PM,{},,,
+7,AWD0002j8p,signals,810,2,,,,[],,signals,order,{},,,
+8,AWD0002j8p,signals,810,2,,,,[],,time,0250PM,{},,,
+1,AWD0002j6z,report,811,2,,,,[],,title,5th Divisional artillery intelligence report,{},,,
+6,AWD0002j6z,report,811,4,,,,[],,date,15 Apr 1917,{},,,
+7,AWD0002j6z,report,811,3,,,,[],,reference,I.R. /6,{},,,
+15,AWD0002j6z,report,811,7,,,,[],,person,Lieutenant R F Mason,"{""first""=>[""R F""], ""surname""=>[""Mason""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+17,AWD0002j6z,report,811,2,,,,[],,date,15 Apr 1917,{},,,
+2,AWD0002j40,orders,812,2,,,,[],,orders,move,{},,,
+5,AWD0002j40,orders,812,4,,,,[],,person,Brigadier General A H Hussey,"{""first""=>[""A H""], ""surname""=>[""Hussey""], ""rank""=>[""Brigadier General""], ""number""=>[""""], ""reason""=>[""commander"", ""author""], ""unit""=>[""""]}",,,
+6,AWD0002j40,orders,812,5,,,,[],,date,15 Apr 1917,{},,,
+8,AWD0002j40,orders,812,7,,,,[],,orders,move,{},,,
+9,AWD0002j40,orders,812,4,,,,[],,person,Major J Wallace,"{""first""=>[""J""], ""surname""=>[""Wallace""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander"", ""author""], ""unit""=>[""""]}",,,
+10,AWD0002j40,orders,812,3,,,,[],,date,15 Apr 1917,{},,,
+1,AWD0002j4b,orders,813,3,,,,[],,date,15 Apr 1917,{},,,
+4,AWD0002j4b,orders,813,3,,,,[],,reference,HBM 1870/40,{},,,
+5,AWD0002j4b,orders,813,2,,,,[],,date,14 Apr 1917,{},,,
+10,AWD0002j4b,orders,813,3,,,,[],,person,"Major  Duquid, DUGUID, Duguid","{""first""=>[""""], ""surname""=>[""Duquid"", ""DUGUID"", ""Duguid""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>["""", ""2nd Canadian Divisional Artillery"", ""2nd Canadian Division Artillery""]}",,,
+1,AWD0002j53,orders,814,2,,,,[],,reference,HBM/1870/39,{},,,
+4,AWD0002j53,orders,814,4,,,,[],,person,Major J Wallace,"{""first""=>[""J""], ""surname""=>[""Wallace""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""author"", ""commander""], ""unit""=>[""5th Divisional Artillery""]}",,,
+6,AWD0002j53,orders,814,4,,,,[],,date,15 Apr 1917,{},,,
+1,AWD0002j61,orders,815,3,,,,[],,reference,HBM/1918/4,{},,,
+5,AWD0002j61,orders,815,4,,,,[],,person,Major J Wallace,"{""first""=>[""J""], ""surname""=>[""Wallace""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""author"", ""commander""], ""unit""=>[""5th Divisional Artillery""]}",,,
+6,AWD0002j61,orders,815,4,,,,[],,date,16 Apr 1917,{},,,
+5,AWD0002j5l,report,816,2,,,,[],,reference,IR/7,{},,,
+8,AWD0002j5l,report,816,4,,,,[],,date,16 Apr 1917,{},,,
+22,AWD0002j5l,report,816,2,,,,[],,activity,enemy_activity,{},,,
+35,AWD0002j5l,report,816,5,,,,[],,person,Lieutenant R F Mason,"{""first""=>[""R F""], ""surname""=>[""Mason""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+4,AWD0002j8v,report,817,2,,,,[],,title,Intelligence Report,{},,,
+7,AWD0002j8v,report,817,5,,,,[],,date,17 Apr 1917,{},,,
+10,AWD0002j5q,report,818,4,,,,[],,person,"Lieutenant R F Mason, MASON","{""first""=>[""R F""], ""surname""=>[""Mason"", ""MASON""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""5th Divisional Artillery""]}",,,
+11,AWD0002j5q,report,818,4,,,,[],,date,17 Apr 1917,{},,,
+3,AWD0002j7h,orders,819,2,,,,[],,orders,attack,{},,,
+4,AWD0002j7h,orders,819,2,,,,[],,orders,other,{},,,
+5,AWD0002j7h,orders,819,3,,,,[],,person,Major A Hussey,"{""first""=>[""A""], ""surname""=>[""Hussey""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""5th Div RA"", """", ""5th Division Artillery""]}",,,
+7,AWD0002j7h,orders,819,2,,,,[],,person,"Major,  ","{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""Major"", """"], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""5th Divisional Artillery"", """"]}",,,
+9,AWD0002j7h,orders,819,4,,,,[],,date,17 Apr 1917,{},,,
+4,AWD0002j82,orders,820,2,,,,[],,orders,attack,{},,,
+6,AWD0002j82,orders,820,4,,,,[],,person,Major J Wallace,"{""first""=>[""J""], ""surname""=>[""Wallace""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""author"", ""commander""], ""unit""=>[""5th Div RA"", """", ""5th division artillery"", ""5th Divisional Artillery""]}",,,
+7,AWD0002j82,orders,820,4,,,,[],,date,18 Apr 1917,{},,,
+5,AWD0002j6s,report,821,4,,,,[],,date,18 Apr 1917,{},,,
+16,AWD0002j6s,report,821,2,,,,[],,person,"Lieutenant R F,R Mason","{""first""=>[""R F"", ""R""], ""surname""=>[""Mason""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""5th Divisional Artillery"", ""5th Division Intelligence ""]}",,,
+5,AWD0002j7z,orders,822,2,,,,[],,orders,other,{},,,
+7,AWD0002j7z,orders,822,3,,,,[],,person,Major J Wallace,"{""first""=>[""J""], ""surname""=>[""Wallace""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+9,AWD0002j7z,orders,822,4,,,,[],,date,18 Apr 1917,{},,,
+5,AWD0002j8m,orders,823,2,,,,[],,person,"Major,Lieutenant J Wallace, WALLACE","{""first""=>[""J""], ""surname""=>[""Wallace"", ""WALLACE""], ""rank""=>[""Major"", ""Lieutenant""], ""number""=>[""""], ""reason""=>[""commander"", ""author""], ""unit""=>["""", ""5th Divisional Artillery""]}",,,
+8,AWD0002j8m,orders,823,2,,,,[],,date,19 Apr 1917,{},,,
+1,AWD0002j60,report,824,2,,,,[],,title,5th Divisional Artillery Intelligence Report,{},,,
+7,AWD0002j60,report,824,4,,,,[],,date,19 Apr 1917,{},,,
+12,AWD0002j60,report,824,4,,,,[],,person,Lieutenant R F Mason,"{""first""=>[""R F""], ""surname""=>[""Mason""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+13,AWD0002j60,report,824,2,,,,[],,date,19 Apr 1917,{},,,
+4,AWD0002j7s,orders,825,2,,,,[],,orders,other,{},,,
+6,AWD0002j7s,orders,825,4,,,,[],,person,"Major J, Wallace","{""first""=>[""J"", """"], ""surname""=>[""Wallace""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander"", ""author""], ""unit""=>[""""]}",,,
+7,AWD0002j7s,orders,825,4,,,,[],,date,19 Apr 1917,{},,,
+3,AWD0002j66,report,826,2,,,,[],,title,5th Divisional Artillery Intelligence Report,{},,,
+6,AWD0002j66,report,826,4,,,,[],,date,20 Apr 1917,{},,,
+7,AWD0002j66,report,826,4,,,,[],,person,Lieutenant R F Mason,"{""first""=>[""R F""], ""surname""=>[""Mason""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+4,AWD0002j5v,report,827,2,,,,[],,title,Intelligence report,{},,,
+6,AWD0002j5v,report,827,3,,,,[],,date,21 Apr 1917,{},,,
+7,AWD0002j5v,report,827,4,,,,[],,person,Lieutenant R F Mason,"{""first""=>[""R F""], ""surname""=>[""Mason""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+8,AWD0002j5v,report,827,2,,,,[],,date,21 Apr 1917,{},,,
+1,AWD0002j4v,report,828,3,,,,[],,title,Our Fire,{},,,
+1,AWD0002j4z,report,829,3,,,,[],,title,Hostile Fire,{},,,
+4,AWD0002j6g,orders,830,3,,,,[],,person,"Brigadier General A H,AH,A Hussey","{""first""=>[""A H"", ""AH"", ""A""], ""surname""=>[""Hussey""], ""rank""=>[""Brigadier General""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+5,AWD0002j6g,orders,830,4,,,,[],,date,21 Apr 1917,{},,,
+7,AWD0002j6g,orders,830,5,,,,[],,orders,attack,{},,,
+8,AWD0002j6g,orders,830,3,,,,[],,person,Major J Wallace,"{""first""=>[""J""], ""surname""=>[""Wallace""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+7,AWD0002j6y,report,831,4,,,,[],,date,21 Apr 1917,{},,,
+4,AWD0002j59,report,832,4,,,,[],,person,Lieutenant R F Mason,"{""first""=>[""R F""], ""surname""=>[""Mason""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>["""", ""5th Divisional Artillery""]}",,,
+7,AWD0002j59,report,832,4,,,,[],,date,22 Apr 1917,{},,,
+5,AWD0002j8t,report,833,4,,,,[],,date,23 Apr 1917,{},,,
+3,AWD0002j5f,report,834,4,,,,[],,person,Lieutenant R F Mason,"{""first""=>[""R F""], ""surname""=>[""Mason""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+5,AWD0002j5f,report,834,5,,,,[],,date,23 Apr 1917,{},,,
+3,AWD0002j5r,orders,835,3,,,,[],,orders,attack,{},,,
+6,AWD0002j5r,orders,835,3,,,,[],,person,Major J Wallace,"{""first""=>[""J""], ""surname""=>[""Wallace""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+8,AWD0002j5r,orders,835,4,,,,[],,date,24 Apr 1917,{},,,
+5,AWD0002j87,"orders, other",838,2,,,,[],,date,13 Apr 1917,{},,,
+8,AWD0002j87,"orders, other",838,4,,,,[],,date,14 Apr 1917,{},,,
+9,AWD0002j87,"orders, other",838,2,,,,[],,date,15 Apr 1917,{},,,
+13,AWD0002j87,"orders, other",838,2,,,,[],,date,11 Apr 1917,{},,,
+18,AWD0002j87,"orders, other",838,2,,,,[],,date,11 Apr 1917,{},,,
+21,AWD0002j87,"orders, other",838,2,,,,[],,person,"Field Marshal Sir Douglas Haig, HAIG","{""first""=>[""Sir Douglas""], ""surname""=>[""Haig"", ""HAIG""], ""rank""=>[""Field Marshal""], ""number""=>[""""], ""reason""=>[""commander"", ""author""], ""unit""=>["""", ""British Armies in France""]}",,,
+23,AWD0002j87,"orders, other",838,2,,,,[],,date,24 Apr 1917,{},,,
+3,AWD0002j4t,report,839,2,,,,[],,title,5th Divisional Artillery Intelligence Report,{},,,
+6,AWD0002j4t,report,839,5,,,,[],,date,24 Apr 1917,{},,,
+3,AWD0002j44,report,840,2,,,,[],,time,0400PM,{},,,
+8,AWD0002j44,report,840,5,,,,[],,person,Lieutenant R F Mason,"{""first""=>[""R F""], ""surname""=>[""Mason""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+11,AWD0002j44,report,840,4,,,,[],,date,24 Apr 1917,{},,,
+6,AWD0002j4l,report,841,3,,,,[],,date,25 Apr 1917,{},,,
+22,AWD0002j4d,report,842,4,,,,[],,person,Lieutenant R F Mason,"{""first""=>[""R F""], ""surname""=>[""Mason""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+25,AWD0002j4d,report,842,3,,,,[],,date,25 Apr 1917,{},,,
+1,AWD0002j57,report,843,2,,,,[],,title,Our Artillery Fire,{},,,
+6,AWD0002j4e,report,844,4,,,,[],,date,26 Apr 1917,{},,,
+9,AWD0002j4e,report,844,4,,,,[],,person,"Lieutenant R,R F Mason","{""first""=>[""R"", ""R F""], ""surname""=>[""Mason""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>["""", ""5th Divisional Artillery""]}",,,
+8,AWD0002j8d,report,845,2,,,,[],,time,0615PM,{},,,
+13,AWD0002j8d,report,845,2,,,,[],,place,vimy,"{""place""=>[""vimy""], ""location""=>[""true""], ""name""=>[""Vimy""], ""lat""=>[""50.37243""], ""long""=>[""2.81034""], ""id""=>[""2968070""]}",,,
+14,AWD0002j8d,report,845,2,,,,[],,place,farbus,"{""place""=>[""farbus""], ""location""=>[""false""], ""name""=>[""Farbus""], ""lat""=>[""50.35632""], ""long""=>[""2.8248""], ""id""=>[""3019051""]}",,,
+6,AWD0002j8e,report,846,3,,,,[],,date,27 Apr 1917,{},,,
+27,AWD0002j8e,report,846,3,,,,[],,person,"Lieutenant R F MASON, Mason, mason","{""first""=>[""R F""], ""surname""=>[""MASON"", ""Mason"", ""mason""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+1,AWD0002j8g,report,847,2,,,,[],,title,OUR ARTILLERY FIRE,{},,,
+2,AWD0002j45,orders,848,2,,,,[],,reference,HBM/1965/4,{},,,
+6,AWD0002j45,orders,848,4,,,,[],,person,Major J Wallace,"{""first""=>[""J""], ""surname""=>[""Wallace""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>["""", ""5th Divisional Artillery""]}",,,
+7,AWD0002j45,orders,848,4,,,,[],,date,27 Apr 1917,{},,,
+8,AWD0002j8h,report,849,4,,,,[],,date,28 Apr 1917,{},,,
+9,AWD0002j8h,report,849,2,,,,[],,date,26 Apr 1917,{},,,
+15,AWD0002j8h,report,849,2,,,,[],,place,Acheville,"{""place""=>[""Acheville""], ""location""=>[""true""], ""name""=>[""Acheville""], ""lat""=>[""50.384""], ""long""=>[""2.88268""], ""id""=>[""3038705""]}",,,
+20,AWD0002j8h,report,849,4,,,,[],,person,"Lieutenant R F Nason, MASON, mason, MAson","{""first""=>[""R F""], ""surname""=>[""Nason"", ""MASON"", ""mason"", ""MAson""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+21,AWD0002j8h,report,849,4,,,,[],,date,28 Apr 1917,{},,,
+1,AWD0002j4k,report,850,2,,,,[],,title,Our artillery fire,{},,,
+5,AWD0002j50,report,851,3,,,,[],,date,29 Apr 1917,{},,,
+8,AWD0002j50,report,851,2,,,,[],,activity,enemy_activity,{},,,
+18,AWD0002j50,report,851,3,,,,[],,activity,movement,{},,,
+24,AWD0002j50,report,851,4,,,,[],,activity,movement,{},,,
+28,AWD0002j50,report,851,2,,,,[],,activity,movement,{},,,
+29,AWD0002j50,report,851,2,,,,[],,time,0100PM,{},,,
+34,AWD0002j50,report,851,4,,,,[],,person,"Lieutenant R F MASON, Mason","{""first""=>[""R F""], ""surname""=>[""MASON"", ""Mason""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+3,AWD0002j69,report,854,2,,,,[],,reference,I.R.21,{},,,
+7,AWD0002j69,report,854,4,,,,[],,date,30 Apr 1917,{},,,
+15,AWD0002j69,report,854,4,,,,[],,person,"Lieutenant R F Mason, MASON","{""first""=>[""R F""], ""surname""=>[""Mason"", ""MASON""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>["""", ""5th Divisional Artillery""]}",,,
+16,AWD0002j69,report,854,2,,,,[],,date,30 Apr 1917,{},,,
+4,AWD0002j7a,orders,856,4,,,,[],,date,25 Apr 1917,{},,,
+6,AWD0002j7a,orders,856,2,,,,[],,orders,attack,{},,,
+8,AWD0002j7a,orders,856,3,,,,[],,orders,attack,{},,,
+6,AWD0002j5g,orders,857,4,,,,[],,person,"Major J, Wallace","{""first""=>[""J"", """"], ""surname""=>[""Wallace""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""5th Divisional Artillery"", """"]}",,,
+7,AWD0002j5g,orders,857,4,,,,[],,date,26 Apr 1917,{},,,
+4,AWD0002j62,orders,858,2,,,,[],,date,31 Mar 1917,{},,,
+8,AWD0002j62,orders,858,2,,,,[],,orders,attack,{},,,
+9,AWD0002j62,orders,858,3,,,,[],,person,Major J Wallace,"{""first""=>[""J""], ""surname""=>[""Wallace""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""5th Divisional Artillery"", """", ""5th divisional artillery""]}",,,
+10,AWD0002j62,orders,858,3,,,,[],,date,27 Apr 1917,{},,,
+1,AWD0002j41,orders,859,2,,,,[],,reference,B.M.7/256,{},,,
+3,AWD0002j41,orders,859,3,,,,[],,date,25 Apr 1917,{},,,
+6,AWD0002j41,orders,859,2,,,,[],,orders,attack,{},,,
+7,AWD0002j41,orders,859,4,,,,[],,person,Captain A F DUGUID,"{""first""=>[""A F""], ""surname""=>[""DUGUID""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+10,AWD0002j41,orders,859,3,,,,[],,person,Major J Wallace,"{""first""=>[""J""], ""surname""=>[""Wallace""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+11,AWD0002j41,orders,859,2,,,,[],,date,25 Apr 1917,{},,,
+2,AWD0002j6p,orders,860,2,,,,[],,orders,attack,{},,,
+3,AWD0002j6p,orders,860,2,,,,[],,person,"Second Lieutenant T,T N B Kelly","{""first""=>[""T"", ""T N B""], ""surname""=>[""Kelly""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_posted"", ""other""], ""unit""=>[""120 battery RFA"", ""120th Battery""]}",,,
+4,AWD0002j6p,orders,860,2,,,,[],,person,"Corporal,Colonel  Turner","{""first""=>[""""], ""surname""=>[""Turner""], ""rank""=>[""Corporal"", ""Colonel""], ""number""=>[""""], ""reason""=>[""other"", ""commander""], ""unit""=>[""Brigade HQ."", ""Brigade HQ""]}",,,
+5,AWD0002j6p,orders,860,2,,,,[],,person,"Captain  Alun, Gudlun","{""first""=>[""""], ""surname""=>[""Alun"", ""Gudlun""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""27th Brigade RFA"", """"]}",,,
+6,AWD0002j6p,orders,860,3,,,,[],,date,27 Apr 1917,{},,,
+1,AWD0002j5d,signals,861,2,,,,[],,date,27 Apr 1917,{},,,
+3,AWD0002j5d,signals,861,2,,,,[],,date,27 Apr 1917,{},,,
+5,AWD0002j5d,signals,861,3,,,,[],,time,0425AM,{},,,
+6,AWD0002j5d,signals,861,2,,,,[],,date,28 Apr 1917,{},,,
+7,AWD0002j5d,signals,861,3,,,,[],,signals,order,{},,,
+8,AWD0002j5d,signals,861,3,,,,[],,person,Major J Wallace,"{""first""=>[""J""], ""surname""=>[""Wallace""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+11,AWD0002j5d,signals,861,2,,,,[],,time,0330AM,{},,,
+6,AWD0002j76,orders,862,3,,,,[],,person,Major J Wallace,"{""first""=>[""J""], ""surname""=>[""Wallace""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+9,AWD0002j76,orders,862,2,,,,[],,date,27 Apr 1917,{},,,
+7,AWD0002j7m,orders,863,4,,,,[],,person,Major J Wallace,"{""first""=>[""J""], ""surname""=>[""Wallace""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+8,AWD0002j7m,orders,863,4,,,,[],,date,27 Apr 1917,{},,,
+1,AWD0002j5y,signals,864,3,,,,[],,signals,other,{},,,
+2,AWD0002j5y,signals,864,2,,,,[],,person,"Captain W, Alun, Yudlun","{""first""=>[""W"", """"], ""surname""=>[""Alun"", ""Yudlun""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""commander"", ""author""], ""unit""=>[""27th Brigade"", """"]}",,,
+7,AWD0002j51,orders,865,3,,,,[],,person,Captain H L Fetherstonhaugh,"{""first""=>[""H L""], ""surname""=>[""Fetherstonhaugh""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author"", ""other"", ""commander""], ""unit""=>[""Canadian Corps""]}",,,
+8,AWD0002j51,orders,865,3,,,,[],,person,Major J Wallace,"{""first""=>[""J""], ""surname""=>[""Wallace""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""5th Divisional Artillery"", ""5th divisional Artillery"", """"]}",,,
+9,AWD0002j51,orders,865,4,,,,[],,date,14 Apr 1917,{},,,
+2,AWD0002j89,orders,866,2,,,,[],,reference,HBM/1940/15,{},,,
+5,AWD0002j89,orders,866,3,,,,[],,date,20 Apr 1917,{},,,
+9,AWD0002j89,orders,866,4,,,,[],,person,Major  Stericker,"{""first""=>[""""], ""surname""=>[""Stericker""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+10,AWD0002j89,orders,866,3,,,,[],,person,Major J Wallace,"{""first""=>[""J""], ""surname""=>[""Wallace""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+11,AWD0002j89,orders,866,3,,,,[],,date,20 Apr 1917,{},,,
+4,AWD0002j8j,orders,867,2,,,,[],,orders,attack,{},,,
+8,AWD0002j8j,orders,867,4,,,,[],,person,Major J Wallace,"{""first""=>[""J""], ""surname""=>[""Wallace""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>["""", ""5th Divisional Artillery""]}",,,
+9,AWD0002j8j,orders,867,4,,,,[],,date,20 Apr 1917,{},,,
+4,AWD0002j80,orders,868,5,,,,[],,date,25 Apr 1917,{},,,
+8,AWD0002j80,orders,868,4,,,,[],,person,"Brigadier General E,EWB,,E W B Morrison","{""first""=>[""E"", ""EWB"", """", ""E W B""], ""surname""=>[""Morrison""], ""rank""=>[""Brigadier General""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""Canadian Corps"", ""G.O.C.R.A. Canadian Corps."", ""G.O.C.R.  Canadian Corps"", """"]}",,,

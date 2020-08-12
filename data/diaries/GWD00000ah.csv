@@ -1,0 +1,94 @@
+Order,Page,Page type,Page number,Count,DateTime,Date,Place,Lat/Lon,Time,Type,Label,Data,GeoID,GeoName,GeoCoords
+4,AWD0001knp,cover,2,2,,,,[],,date,5 Dec 1916,{},,,
+6,AWD0001knp,cover,2,2,,,,[],,date,12 Dec 1916,{},,,
+1,AWD0001knq,diary,3,11,1916-08-01 00:00:00 UTC,1 Aug 1916,"","[0.0, 0.0]","",diaryDate,1 Aug 1916,"{""day""=>[""1""], ""month""=>[""Aug""], ""year""=>[""1916""]}",2985684,Pozières,"[2.72929, 50.04047]"
+3,AWD0001knq,diary,3,3,1916-08-01 00:00:00 UTC,1 Aug 1916,"","[0.0, 0.0]","",domestic,parades,{},2985684,Pozières,"[2.72929, 50.04047]"
+4,AWD0001knq,diary,3,2,1916-08-01 00:00:00 UTC,1 Aug 1916,"","[0.0, 0.0]","",activity,other,{},2985684,Pozières,"[2.72929, 50.04047]"
+7,AWD0001knq,diary,3,6,1916-08-02 00:00:00 UTC,2 Aug 1916,"","[0.0, 0.0]","",diaryDate,2 Aug 1916,"{""day""=>[""2""], ""month""=>[""Aug""], ""year""=>[""1916""]}",2985684,Pozières,"[2.72929, 50.04047]"
+8,AWD0001knq,diary,3,3,1916-08-02 00:00:00 UTC,2 Aug 1916,"","[0.0, 0.0]","",domestic,inspections,{},2985684,Pozières,"[2.72929, 50.04047]"
+10,AWD0001knq,diary,3,2,1916-08-02 00:00:00 UTC,2 Aug 1916,"","[0.0, 0.0]","",activity,movement,{},2985684,Pozières,"[2.72929, 50.04047]"
+12,AWD0001knq,diary,3,7,1916-08-03 00:00:00 UTC,3 Aug 1916,"","[0.0, 0.0]","",diaryDate,3 Aug 1916,"{""day""=>[""3""], ""month""=>[""Aug""], ""year""=>[""1916""]}",2985684,Pozières,"[2.72929, 50.04047]"
+13,AWD0001knq,diary,3,5,1916-08-03 00:00:00 UTC,3 Aug 1916,"","[0.0, 0.0]","",activity,movement,{},2985684,Pozières,"[2.72929, 50.04047]"
+14,AWD0001knq,diary,3,2,1916-08-03 00:00:00 UTC,3 Aug 1916,"","[0.0, 0.0]","",domestic,inspections,{},2985684,Pozières,"[2.72929, 50.04047]"
+15,AWD0001knq,diary,3,7,1916-08-04 00:00:00 UTC,4 Aug 1916,"","[0.0, 0.0]","",diaryDate,4 Aug 1916,"{""day""=>[""4""], ""month""=>[""Aug""], ""year""=>[""1916""]}",2985684,Pozières,"[2.72929, 50.04047]"
+18,AWD0001knq,diary,3,3,1916-08-04 00:00:00 UTC,4 Aug 1916,"","[0.0, 0.0]","",activity,movement,{},2985684,Pozières,"[2.72929, 50.04047]"
+19,AWD0001knq,diary,3,2,1916-08-04 00:00:00 UTC,4 Aug 1916,"Puchvillers, Puchevillers","[2.41016, 50.05422]","",place,"Puchvillers, Puchevillers","{""place""=>[""Puchvillers"", ""Puchevillers""], ""location""=>[""true""], ""name""=>["""", ""Puchevillers""], ""lat""=>["""", ""50.05422""], ""long""=>["""", ""2.41016""], ""id""=>["""", ""2985156""]}",2985156,Puchevillers,"[2.41016, 50.05422]"
+20,AWD0001knq,diary,3,7,1916-08-05 00:00:00 UTC,5 Aug 1916,"Puchvillers, Puchevillers","[2.41016, 50.05422]","",diaryDate,5 Aug 1916,"{""day""=>[""5""], ""month""=>[""Aug""], ""year""=>[""1916""]}",2985156,Puchevillers,"[2.41016, 50.05422]"
+22,AWD0001knq,diary,3,2,1916-08-05 00:00:00 UTC,5 Aug 1916,"Puchvillers, Puchevillers","[2.41016, 50.05422]","",person,  ,"{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",2985156,Puchevillers,"[2.41016, 50.05422]"
+23,AWD0001knq,diary,3,2,1916-08-05 00:00:00 UTC,5 Aug 1916,"Puchvillers, Puchevillers","[2.41016, 50.05422]","",person,  Burfield,"{""first""=>[""""], ""surname""=>[""Burfield""], ""rank""=>[""""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""2nd Y & L"", """"]}",2985156,Puchevillers,"[2.41016, 50.05422]"
+27,AWD0001knq,diary,3,10,1916-08-05 00:00:00 UTC,5 Aug 1916,"Puchvillers, Puchevillers","[2.41016, 50.05422]","",activity,training,{},2985156,Puchevillers,"[2.41016, 50.05422]"
+28,AWD0001knq,diary,3,6,1916-08-06 00:00:00 UTC,6 Aug 1916,"Puchvillers, Puchevillers","[2.41016, 50.05422]","",diaryDate,6 Aug 1916,"{""day""=>[""6""], ""month""=>[""Aug""], ""year""=>[""1916""]}",2985156,Puchevillers,"[2.41016, 50.05422]"
+29,AWD0001knq,diary,3,7,1916-08-07 00:00:00 UTC,7 Aug 1916,"Puchvillers, Puchevillers","[2.41016, 50.05422]","",diaryDate,7 Aug 1916,"{""day""=>[""7""], ""month""=>[""Aug""], ""year""=>[""1916""]}",2985156,Puchevillers,"[2.41016, 50.05422]"
+30,AWD0001knq,diary,3,5,1916-08-07 00:00:00 UTC,7 Aug 1916,"Puchvillers, Puchevillers","[2.41016, 50.05422]","",activity,movement,{},2985156,Puchevillers,"[2.41016, 50.05422]"
+32,AWD0001knq,diary,3,2,1916-08-07 00:00:00 UTC,7 Aug 1916,"Acheux, Achense","[2.53201, 50.07279]","",place,"Acheux, Achense","{""place""=>[""Acheux"", ""Achense""], ""location""=>[""true""], ""name""=>[""Acheux-en-Amiénois"", """"], ""lat""=>[""50.07279"", """"], ""long""=>[""2.53201"", """"], ""id""=>[""3038707"", """"]}",3038707,Acheux-en-Amiénois,"[2.53201, 50.07279]"
+33,AWD0001knq,diary,3,2,1916-08-07 00:00:00 UTC,7 Aug 1916,"","[2.72659, 50.85386]","",place,"","{""place""=>[""""], ""location""=>[""true""], ""name""=>[""Poperinge""], ""lat""=>[""50.85386""], ""long""=>[""2.72659""], ""id""=>[""2788726""]}",2985684,Pozières,"[2.72929, 50.04047]"
+35,AWD0001knq,diary,3,5,1916-08-07 00:00:00 UTC,7 Aug 1916,"","[2.72659, 50.85386]","",activity,training,{},2985684,Pozières,"[2.72929, 50.04047]"
+36,AWD0001knq,diary,3,5,1916-08-08 00:00:00 UTC,8 Aug 1916,"","[2.72659, 50.85386]","",diaryDate,8 Aug 1916,"{""day""=>[""8""], ""month""=>[""Aug""], ""year""=>[""1916""]}",2985684,Pozières,"[2.72929, 50.04047]"
+38,AWD0001knq,diary,3,7,1916-08-09 00:00:00 UTC,9 Aug 1916,"","[2.72659, 50.85386]","",diaryDate,9 Aug 1916,"{""day""=>[""9""], ""month""=>[""Aug""], ""year""=>[""1916""]}",2985684,Pozières,"[2.72929, 50.04047]"
+39,AWD0001knq,diary,3,2,1916-08-09 00:00:00 UTC,9 Aug 1916,"","[2.72659, 50.85386]","",activity,line,{},2985684,Pozières,"[2.72929, 50.04047]"
+42,AWD0001knq,diary,3,2,1916-08-09 00:00:00 UTC,9 Aug 1916,"","[2.72659, 50.85386]","",activity,movement,{},2985684,Pozières,"[2.72929, 50.04047]"
+45,AWD0001knq,diary,3,7,1916-08-10 00:00:00 UTC,10 Aug 1916,"","[2.72659, 50.85386]","",diaryDate,10 Aug 1916,"{""day""=>[""10""], ""month""=>[""Aug""], ""year""=>[""1916""]}",2985684,Pozières,"[2.72929, 50.04047]"
+46,AWD0001knq,diary,3,9,1916-08-10 00:00:00 UTC,10 Aug 1916,"","[2.72659, 50.85386]","",activity,quiet,{},2985684,Pozières,"[2.72929, 50.04047]"
+47,AWD0001knq,diary,3,7,1916-08-10 00:00:00 UTC,10 Aug 1916,"","[2.72659, 50.85386]","",activity,attack,{},2985684,Pozières,"[2.72929, 50.04047]"
+48,AWD0001knq,diary,3,7,1916-08-10 00:00:00 UTC,10 Aug 1916,"","[2.72659, 50.85386]","",activity,repair,{},2985684,Pozières,"[2.72929, 50.04047]"
+49,AWD0001knq,diary,3,7,1916-08-11 00:00:00 UTC,11 Aug 1916,"","[2.72659, 50.85386]","",diaryDate,11 Aug 1916,"{""day""=>[""11""], ""month""=>[""Aug""], ""year""=>[""1916""]}",2985684,Pozières,"[2.72929, 50.04047]"
+50,AWD0001knq,diary,3,7,1916-08-12 00:00:00 UTC,12 Aug 1916,"","[2.72659, 50.85386]","",diaryDate,12 Aug 1916,"{""day""=>[""12""], ""month""=>[""Aug""], ""year""=>[""1916""]}",2985684,Pozières,"[2.72929, 50.04047]"
+51,AWD0001knq,diary,3,3,1916-08-12 00:00:00 UTC,12 Aug 1916,"","[2.72659, 50.85386]","",activity,quiet,{},2985684,Pozières,"[2.72929, 50.04047]"
+52,AWD0001knq,diary,3,3,1916-08-12 00:00:00 UTC,12 Aug 1916,"","[2.72659, 50.85386]","",activity,enemy_activity,{},2985684,Pozières,"[2.72929, 50.04047]"
+53,AWD0001knq,diary,3,7,1916-08-13 00:00:00 UTC,13 Aug 1916,"","[2.72659, 50.85386]","",diaryDate,13 Aug 1916,"{""day""=>[""13""], ""month""=>[""Aug""], ""year""=>[""1916""]}",2985684,Pozières,"[2.72929, 50.04047]"
+54,AWD0001knq,diary,3,6,1916-08-13 00:00:00 UTC,13 Aug 1916,"","[2.72659, 50.85386]","",activity,fire,{},2985684,Pozières,"[2.72929, 50.04047]"
+55,AWD0001knq,diary,3,4,1916-08-13 00:00:00 UTC,13 Aug 1916,"","[2.72659, 50.85386]","",activity,attack,{},2985684,Pozières,"[2.72929, 50.04047]"
+56,AWD0001knq,diary,3,7,1916-08-14 00:00:00 UTC,14 Aug 1916,"","[2.72659, 50.85386]","",diaryDate,14 Aug 1916,"{""day""=>[""14""], ""month""=>[""Aug""], ""year""=>[""1916""]}",2985684,Pozières,"[2.72929, 50.04047]"
+63,AWD0001knq,diary,3,3,1916-08-16 00:00:00 UTC,16 Aug 1916,"","[2.72659, 50.85386]","",diaryDate,16 Aug 1916,"{""day""=>[""16""], ""month""=>[""Aug""], ""year""=>[""1916""]}",2985684,Pozières,"[2.72929, 50.04047]"
+64,AWD0001knq,diary,3,4,1916-08-15 00:00:00 UTC,15 Aug 1916,"","[2.72659, 50.85386]","",diaryDate,15 Aug 1916,"{""day""=>[""15""], ""month""=>[""Aug""], ""year""=>[""1916""]}",2985684,Pozières,"[2.72929, 50.04047]"
+65,AWD0001knq,diary,3,3,1916-08-15 00:00:00 UTC,15 Aug 1916,"","[2.72659, 50.85386]","",activity,movement,{},2985684,Pozières,"[2.72929, 50.04047]"
+67,AWD0001knq,diary,3,2,1916-08-15 00:00:00 UTC,15 Aug 1916,"Beaumont, Bernmont","[0.0, 0.0]","",place,"Beaumont, Bernmont","{""place""=>[""Beaumont"", ""Bernmont""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+73,AWD0001knq,diary,3,2,1916-08-15 00:00:00 UTC,15 Aug 1916,"Beaumont, Bernmont","[0.0, 0.0]","",activity,attack,{},,,
+74,AWD0001knq,diary,3,3,1916-08-15 00:00:00 UTC,15 Aug 1916,"Beaumont, Bernmont","[0.0, 0.0]","",activity,repair,{},,,
+76,AWD0001knq,diary,3,3,1916-08-15 00:00:00 UTC,15 Aug 1916,"Beaumont, Bernmont","[0.0, 0.0]","",activity,attack,{},,,
+77,AWD0001knq,diary,3,6,1916-08-17 00:00:00 UTC,17 Aug 1916,"Beaumont, Bernmont","[0.0, 0.0]","",diaryDate,17 Aug 1916,"{""day""=>[""17""], ""month""=>[""Aug""], ""year""=>[""1916""]}",,,
+80,AWD0001knq,diary,3,3,1916-08-17 00:00:00 UTC,17 Aug 1916,"Beaumont, Bernmont","[0.0, 0.0]","",activity,attack,{},,,
+81,AWD0001knq,diary,3,3,1916-08-17 00:00:00 UTC,17 Aug 1916,"Beaumont, Bernmont","[0.0, 0.0]","",activity,quiet,{},,,
+84,AWD0001knq,diary,3,7,1916-08-18 00:00:00 UTC,18 Aug 1916,"Beaumont, Bernmont","[0.0, 0.0]","",diaryDate,18 Aug 1916,"{""day""=>[""18""], ""month""=>[""Aug""], ""year""=>[""1916""]}",,,
+85,AWD0001knq,diary,3,7,1916-08-19 00:00:00 UTC,19 Aug 1916,"Beaumont, Bernmont","[0.0, 0.0]","",diaryDate,19 Aug 1916,"{""day""=>[""19""], ""month""=>[""Aug""], ""year""=>[""1916""]}",,,
+86,AWD0001knq,diary,3,3,1916-08-19 00:00:00 UTC,19 Aug 1916,"Beaumont, Bernmont","[0.0, 0.0]","",activity,repair,{},,,
+88,AWD0001knq,diary,3,2,1916-08-19 00:00:00 UTC,19 Aug 1916,"Beaumont, Bernmont","[0.0, 0.0]","",activity,enemy_activity,{},,,
+89,AWD0001knq,diary,3,6,1916-08-20 00:00:00 UTC,20 Aug 1916,"Beaumont, Bernmont","[0.0, 0.0]","",diaryDate,20 Aug 1916,"{""day""=>[""20""], ""month""=>[""Aug""], ""year""=>[""1916""]}",,,
+90,AWD0001knq,diary,3,5,1916-08-20 00:00:00 UTC,20 Aug 1916,"Beaumont, Bernmont","[0.0, 0.0]","",activity,fire,{},,,
+91,AWD0001knq,diary,3,8,1916-08-21 00:00:00 UTC,21 Aug 1916,"Beaumont, Bernmont","[0.0, 0.0]","",diaryDate,21 Aug 1916,"{""day""=>[""21""], ""month""=>[""Aug""], ""year""=>[""1916""]}",,,
+93,AWD0001knq,diary,3,2,1916-08-21 00:00:00 UTC,21 Aug 1916,"Beaumont, Bernmont","[0.0, 0.0]","",person,"Lieutenant M A,M R Price","{""first""=>[""M A"", ""M R""], ""surname""=>[""Price""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_posted""], ""unit""=>[""""]}",,,
+1,AWD0001knn,diary,4,7,1916-08-22 00:00:00 UTC,22 Aug 1916,"Beaumont, Bernmont","[0.0, 0.0]","",diaryDate,22 Aug 1916,"{""day""=>[""22""], ""month""=>[""Aug""], ""year""=>[""1916""]}",,,
+2,AWD0001knn,diary,4,3,1916-08-22 00:00:00 UTC,22 Aug 1916,"Beaumont, Bernmont","[0.0, 0.0]","",activity,quiet,{},,,
+3,AWD0001knn,diary,4,2,1916-08-22 00:00:00 UTC,22 Aug 1916,"Beaumont, Bernmont","[0.0, 0.0]","",activity,attack,{},,,
+4,AWD0001knn,diary,4,6,1916-08-22 00:00:00 UTC,22 Aug 1916,Beaumont,"[0.0, 0.0]","",place,Beaumont,"{""place""=>[""Beaumont""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2802510,Beaumont,"[4.23926, 50.23699]"
+6,AWD0001knn,diary,4,4,1916-08-22 00:00:00 UTC,22 Aug 1916,Beaumont,"[0.0, 0.0]","",activity,repair,{},2802510,Beaumont,"[4.23926, 50.23699]"
+8,AWD0001knn,diary,4,2,1916-08-22 00:00:00 UTC,22 Aug 1916,Beaumont,"[0.0, 0.0]","",activity,fire,{},2802510,Beaumont,"[4.23926, 50.23699]"
+9,AWD0001knn,diary,4,6,1916-08-23 00:00:00 UTC,23 Aug 1916,Beaumont,"[0.0, 0.0]","",diaryDate,23 Aug 1916,"{""day""=>[""23""], ""month""=>[""Aug""], ""year""=>[""1916""]}",2802510,Beaumont,"[4.23926, 50.23699]"
+10,AWD0001knn,diary,4,3,1916-08-23 00:00:00 UTC,23 Aug 1916,Beaumont,"[0.0, 0.0]","",activity,attack,{},2802510,Beaumont,"[4.23926, 50.23699]"
+11,AWD0001knn,diary,4,3,1916-08-23 00:00:00 UTC,23 Aug 1916,Beaumont,"[0.0, 0.0]","",activity,repair,{},2802510,Beaumont,"[4.23926, 50.23699]"
+12,AWD0001knn,diary,4,2,1916-08-23 00:00:00 UTC,23 Aug 1916,Beaumont,"[0.0, 0.0]","",activity,fire,{},2802510,Beaumont,"[4.23926, 50.23699]"
+13,AWD0001knn,diary,4,6,1916-08-24 00:00:00 UTC,24 Aug 1916,Beaumont,"[0.0, 0.0]","",diaryDate,24 Aug 1916,"{""day""=>[""24""], ""month""=>[""Aug""], ""year""=>[""1916""]}",2802510,Beaumont,"[4.23926, 50.23699]"
+14,AWD0001knn,diary,4,3,1916-08-24 00:00:00 UTC,24 Aug 1916,Beaumont,"[0.0, 0.0]","",activity,quiet,{},2802510,Beaumont,"[4.23926, 50.23699]"
+15,AWD0001knn,diary,4,3,1916-08-24 00:00:00 UTC,24 Aug 1916,Beaumont,"[0.0, 0.0]","",activity,attack,{},2802510,Beaumont,"[4.23926, 50.23699]"
+17,AWD0001knn,diary,4,3,1916-08-24 00:00:00 UTC,24 Aug 1916,Beaumont,"[0.0, 0.0]","",activity,enemy_activity,{},2802510,Beaumont,"[4.23926, 50.23699]"
+18,AWD0001knn,diary,4,3,1916-08-24 00:00:00 UTC,24 Aug 1916,Beaumont,"[0.0, 0.0]","",activity,fire,{},2802510,Beaumont,"[4.23926, 50.23699]"
+20,AWD0001knn,diary,4,6,1916-08-25 00:00:00 UTC,25 Aug 1916,Beaumont,"[0.0, 0.0]","",diaryDate,25 Aug 1916,"{""day""=>[""25""], ""month""=>[""Aug""], ""year""=>[""1916""]}",2802510,Beaumont,"[4.23926, 50.23699]"
+21,AWD0001knn,diary,4,5,1916-08-25 00:00:00 UTC,25 Aug 1916,Beaumont,"[0.0, 0.0]","",activity,attack,{},2802510,Beaumont,"[4.23926, 50.23699]"
+23,AWD0001knn,diary,4,6,1916-08-26 00:00:00 UTC,26 Aug 1916,Beaumont,"[0.0, 0.0]","",diaryDate,26 Aug 1916,"{""day""=>[""26""], ""month""=>[""Aug""], ""year""=>[""1916""]}",2802510,Beaumont,"[4.23926, 50.23699]"
+24,AWD0001knn,diary,4,2,1916-08-26 00:00:00 UTC,26 Aug 1916,Beaumont,"[0.0, 0.0]","",activity,quiet,{},2802510,Beaumont,"[4.23926, 50.23699]"
+26,AWD0001knn,diary,4,3,1916-08-26 00:00:00 UTC,26 Aug 1916,Beaumont,"[0.0, 0.0]","",activity,movement,{},2802510,Beaumont,"[4.23926, 50.23699]"
+27,AWD0001knn,diary,4,5,1916-08-26 00:00:00 UTC,26 Aug 1916,Bertrancourt,"[2.55828, 50.09298]","",place,Bertrancourt,"{""place""=>[""Bertrancourt""], ""location""=>[""true""], ""name""=>[""Bertrancourt""], ""lat""=>[""50.09298""], ""long""=>[""2.55828""], ""id""=>[""3033168""]}",3033026,Béthancourt-en-Valois,"[2.87704, 49.2855]"
+28,AWD0001knn,diary,4,6,1916-08-27 00:00:00 UTC,27 Aug 1916,Bertrancourt,"[2.55828, 50.09298]","",diaryDate,27 Aug 1916,"{""day""=>[""27""], ""month""=>[""Aug""], ""year""=>[""1916""]}",3033026,Béthancourt-en-Valois,"[2.87704, 49.2855]"
+30,AWD0001knn,diary,4,2,1916-08-27 00:00:00 UTC,27 Aug 1916,Bertrancourt,"[2.55828, 50.09298]","",activity,withdraw,{},3033026,Béthancourt-en-Valois,"[2.87704, 49.2855]"
+31,AWD0001knn,diary,4,2,1916-08-27 00:00:00 UTC,27 Aug 1916,Bertrancourt,"[2.55828, 50.09298]","",unit,144th Trench Mortar Battery,"{""name""=>[""144th Trench Mortar Battery""], ""context""=>[""relieved_by""]}",3033026,Béthancourt-en-Valois,"[2.87704, 49.2855]"
+32,AWD0001knn,diary,4,2,1916-08-27 00:00:00 UTC,27 Aug 1916,Estrabliens,"[0.0, 0.0]","",place,Estrabliens,"{""place""=>[""Estrabliens""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+33,AWD0001knn,diary,4,6,1916-08-28 00:00:00 UTC,28 Aug 1916,Estrabliens,"[0.0, 0.0]","",diaryDate,28 Aug 1916,"{""day""=>[""28""], ""month""=>[""Aug""], ""year""=>[""1916""]}",,,
+35,AWD0001knn,diary,4,8,1916-08-28 00:00:00 UTC,28 Aug 1916,Estrabliens,"[0.0, 0.0]","",activity,movement,{},,,
+36,AWD0001knn,diary,4,2,1916-08-28 00:00:00 UTC,28 Aug 1916,"Naours, Haours","[2.27691, 50.03682]","",place,"Naours, Haours","{""place""=>[""Naours"", ""Haours""], ""location""=>[""true""], ""name""=>[""Naours"", """"], ""lat""=>[""50.03682"", """"], ""long""=>[""2.27691"", """"], ""id""=>[""2990926"", """"]}",,,
+37,AWD0001knn,diary,4,6,1916-08-29 00:00:00 UTC,29 Aug 1916,"Naours, Haours","[2.27691, 50.03682]","",diaryDate,29 Aug 1916,"{""day""=>[""29""], ""month""=>[""Aug""], ""year""=>[""1916""]}",,,
+38,AWD0001knn,diary,4,3,1916-08-29 00:00:00 UTC,29 Aug 1916,"Haours, Namur, Naours","[0.0, 0.0]","",place,"Haours, Namur, Naours","{""place""=>[""Haours"", ""Namur"", ""Naours""], ""location""=>[""true""], ""name""=>["""", ""Namur"", ""Naours""], ""lat""=>["""", ""50.4669"", ""50.03682""], ""long""=>["""", ""4.86746"", ""2.27691""], ""id""=>["""", ""2790471"", ""2990926""]}",2990926,Naours,"[2.27691, 50.03682]"
+40,AWD0001knn,diary,4,3,1916-08-29 00:00:00 UTC,29 Aug 1916,"Haours, Namur, Naours","[0.0, 0.0]","",domestic,parades,{},2990926,Naours,"[2.27691, 50.03682]"
+41,AWD0001knn,diary,4,6,1916-08-30 00:00:00 UTC,30 Aug 1916,"Haours, Namur, Naours","[0.0, 0.0]","",diaryDate,30 Aug 1916,"{""day""=>[""30""], ""month""=>[""Aug""], ""year""=>[""1916""]}",2990926,Naours,"[2.27691, 50.03682]"
+42,AWD0001knn,diary,4,2,1916-08-30 00:00:00 UTC,30 Aug 1916,"Haours, Namur, Naours","[0.0, 0.0]","",person,"Lieutenant,Second Lieutenant R Tate, Yate","{""first""=>[""R""], ""surname""=>[""Tate"", ""Yate""], ""rank""=>[""Lieutenant"", ""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",2990926,Naours,"[2.27691, 50.03682]"
+45,AWD0001knn,diary,4,6,1916-08-31 00:00:00 UTC,31 Aug 1916,"Haours, Namur, Naours","[0.0, 0.0]","",diaryDate,31 Aug 1916,"{""day""=>[""31""], ""month""=>[""Aug""], ""year""=>[""1916""]}",2990926,Naours,"[2.27691, 50.03682]"
+46,AWD0001knn,diary,4,5,1916-08-31 00:00:00 UTC,31 Aug 1916,"Haours, Namur, Naours","[0.0, 0.0]","",activity,training,{},2990926,Naours,"[2.27691, 50.03682]"

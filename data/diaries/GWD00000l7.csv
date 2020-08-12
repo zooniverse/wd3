@@ -1,0 +1,670 @@
+Order,Page,Page type,Page number,Count,DateTime,Date,Place,Lat/Lon,Time,Type,Label,Data,GeoID,GeoName,GeoCoords
+1,AWD00032hd,diary,549,5,1918-01-01 00:00:00 UTC,1 Jan 1918,"","[0.0, 0.0]","",diaryDate,1 Jan 1918,"{""day""=>[""1""], ""month""=>[""Jan""], ""year""=>[""1918""]}",2985684,Pozières,"[2.72929, 50.04047]"
+2,AWD00032hd,diary,549,4,1918-01-01 00:00:00 UTC,1 Jan 1918,"","[0.0, 0.0]","",activity,line,{},2985684,Pozières,"[2.72929, 50.04047]"
+4,AWD00032hd,diary,549,4,1918-01-01 00:00:00 UTC,1 Jan 1918,"","[0.0, 0.0]","",unit,1st Black Watch,"{""name""=>[""1st Black Watch""], ""context""=>[""relieved_by""]}",2985684,Pozières,"[2.72929, 50.04047]"
+6,AWD00032hd,diary,549,3,1918-01-02 00:00:00 UTC,2 Jan 1918,"","[0.0, 0.0]","",diaryDate,2 Jan 1918,"{""day""=>[""2""], ""month""=>[""Jan""], ""year""=>[""1918""]}",2985684,Pozières,"[2.72929, 50.04047]"
+9,AWD00032hd,diary,549,5,1918-01-02 00:00:00 UTC,2 Jan 1918,"","[0.0, 0.0]","",activity,support,{},2985684,Pozières,"[2.72929, 50.04047]"
+11,AWD00032hd,diary,549,5,1918-01-04 00:00:00 UTC,4 Jan 1918,"","[0.0, 0.0]","",diaryDate,4 Jan 1918,"{""day""=>[""4""], ""month""=>[""Jan""], ""year""=>[""1918""]}",2985684,Pozières,"[2.72929, 50.04047]"
+12,AWD00032hd,diary,549,2,1918-01-03 00:00:00 UTC,3 Jan 1918,"","[0.0, 0.0]","",diaryDate,3 Jan 1918,"{""day""=>[""3""], ""month""=>[""Jan""], ""year""=>[""1918""]}",2985684,Pozières,"[2.72929, 50.04047]"
+14,AWD00032hd,diary,549,4,1918-01-03 00:00:00 UTC,3 Jan 1918,"","[0.0, 0.0]","",unit,1st South Wales Borderers,"{""name""=>[""1st South Wales Borderers""], ""context""=>[""relieved_by""]}",2985684,Pozières,"[2.72929, 50.04047]"
+16,AWD00032hd,diary,549,4,1918-01-03 00:00:00 UTC,3 Jan 1918,"","[0.0, 0.0]","",activity,movement,{},2985684,Pozières,"[2.72929, 50.04047]"
+18,AWD00032hd,diary,549,3,1918-01-03 00:00:00 UTC,3 Jan 1918,"","[0.0, 0.0]","",place,La Bergerie,"{""place""=>[""La Bergerie""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+19,AWD00032hd,diary,549,5,1918-01-05 00:00:00 UTC,5 Jan 1918,"","[0.0, 0.0]","",diaryDate,5 Jan 1918,"{""day""=>[""5""], ""month""=>[""Jan""], ""year""=>[""1918""]}",2985684,Pozières,"[2.72929, 50.04047]"
+20,AWD00032hd,diary,549,3,1918-01-05 00:00:00 UTC,5 Jan 1918,"","[0.0, 0.0]","",place,Noyon Camp,"{""place""=>[""Noyon Camp""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+21,AWD00032hd,diary,549,5,1918-01-05 00:00:00 UTC,5 Jan 1918,"","[0.0, 0.0]","",activity,movement,{},2985684,Pozières,"[2.72929, 50.04047]"
+22,AWD00032hd,diary,549,4,1918-01-06 00:00:00 UTC,6 Jan 1918,"","[0.0, 0.0]","",diaryDate,6 Jan 1918,"{""day""=>[""6""], ""month""=>[""Jan""], ""year""=>[""1918""]}",2985684,Pozières,"[2.72929, 50.04047]"
+23,AWD00032hd,diary,549,4,1918-01-06 00:00:00 UTC,6 Jan 1918,"","[0.0, 0.0]","",place,Noyon,"{""place""=>[""Noyon""], ""location""=>[""false""], ""name""=>[""Noyon""], ""lat""=>[""49.58333""], ""long""=>[""3""], ""id""=>[""2989877""]}",2985684,Pozières,"[2.72929, 50.04047]"
+24,AWD00032hd,diary,549,3,1918-01-12 00:00:00 UTC,12 Jan 1918,"","[0.0, 0.0]","",diaryDate,12 Jan 1918,"{""day""=>[""12""], ""month""=>[""Jan""], ""year""=>[""1918""]}",2985684,Pozières,"[2.72929, 50.04047]"
+26,AWD00032hd,diary,549,4,1918-01-12 00:00:00 UTC,12 Jan 1918,"","[0.0, 0.0]","",activity,training,{},2985684,Pozières,"[2.72929, 50.04047]"
+27,AWD00032hd,diary,549,5,1918-01-13 00:00:00 UTC,13 Jan 1918,"","[0.0, 0.0]","",diaryDate,13 Jan 1918,"{""day""=>[""13""], ""month""=>[""Jan""], ""year""=>[""1918""]}",2985684,Pozières,"[2.72929, 50.04047]"
+28,AWD00032hd,diary,549,3,1918-01-13 00:00:00 UTC,13 Jan 1918,"","[0.0, 0.0]","",activity,movement,{},2985684,Pozières,"[2.72929, 50.04047]"
+29,AWD00032hd,diary,549,2,1918-01-13 00:00:00 UTC,13 Jan 1918,"","[0.0, 0.0]","",activity,reserve,{},2985684,Pozières,"[2.72929, 50.04047]"
+30,AWD00032hd,diary,549,3,1918-01-13 00:00:00 UTC,13 Jan 1918,"","[0.0, 0.0]","",place,La Bergerie Camp,"{""place""=>[""La Bergerie Camp""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+31,AWD00032hd,diary,549,2,1918-01-13 00:00:00 UTC,13 Jan 1918,"","[0.0, 0.0]","",place,La Bergerie,"{""place""=>[""La Bergerie""], ""location""=>[""false""], ""name""=>["""", ""La Bergerie""], ""lat""=>["""", ""49.49565""], ""long""=>["""", ""0.43583""], ""id""=>["""", ""3011099""]}",2985684,Pozières,"[2.72929, 50.04047]"
+32,AWD00032hd,diary,549,4,1918-01-14 00:00:00 UTC,14 Jan 1918,"","[0.0, 0.0]","",diaryDate,14 Jan 1918,"{""day""=>[""14""], ""month""=>[""Jan""], ""year""=>[""1918""]}",2985684,Pozières,"[2.72929, 50.04047]"
+33,AWD00032hd,diary,549,2,1918-01-14 00:00:00 UTC,14 Jan 1918,"","[0.0, 0.0]","",place,La Bergerie,"{""place""=>[""La Bergerie""], ""location""=>[""true"", ""false""], ""name""=>["""", ""La Bergerie""], ""lat""=>["""", ""49.49565""], ""long""=>["""", ""0.43583""], ""id""=>["""", ""3011099""]}",2985684,Pozières,"[2.72929, 50.04047]"
+34,AWD00032hd,diary,549,5,1918-01-14 00:00:00 UTC,14 Jan 1918,"","[0.0, 0.0]","",activity,training,{},2985684,Pozières,"[2.72929, 50.04047]"
+35,AWD00032hd,diary,549,3,1918-01-19 00:00:00 UTC,19 Jan 1918,"","[0.0, 0.0]","",diaryDate,19 Jan 1918,"{""day""=>[""19""], ""month""=>[""Jan""], ""year""=>[""1918""]}",2985684,Pozières,"[2.72929, 50.04047]"
+37,AWD00032hd,diary,549,5,1918-01-20 00:00:00 UTC,20 Jan 1918,"","[0.0, 0.0]","",diaryDate,20 Jan 1918,"{""day""=>[""20""], ""month""=>[""Jan""], ""year""=>[""1918""]}",2985684,Pozières,"[2.72929, 50.04047]"
+38,AWD00032hd,diary,549,4,1918-01-20 00:00:00 UTC,20 Jan 1918,"","[0.0, 0.0]","",activity,movement,{},2985684,Pozières,"[2.72929, 50.04047]"
+40,AWD00032hd,diary,549,4,1918-01-20 00:00:00 UTC,20 Jan 1918,"","[0.0, 0.0]","",activity,support,{},2985684,Pozières,"[2.72929, 50.04047]"
+41,AWD00032hd,diary,549,3,1918-01-20 00:00:00 UTC,20 Jan 1918,"","[0.0, 0.0]","",unit,"1st K R R C, 2nd K.R.R.C., 2nd K R R C","{""name""=>[""1st K R R C"", ""2nd K.R.R.C."", ""2nd K R R C""], ""context""=>[""relieved""]}",2985684,Pozières,"[2.72929, 50.04047]"
+43,AWD00032hd,diary,549,5,1918-01-21 00:00:00 UTC,21 Jan 1918,"","[0.0, 0.0]","",diaryDate,21 Jan 1918,"{""day""=>[""21""], ""month""=>[""Jan""], ""year""=>[""1918""]}",2985684,Pozières,"[2.72929, 50.04047]"
+44,AWD00032hd,diary,549,3,1918-01-21 00:00:00 UTC,21 Jan 1918,"","[0.0, 0.0]","",unit,1st Northants Regiment,"{""name""=>[""1st Northants Regiment""], ""context""=>[""relieved""]}",2985684,Pozières,"[2.72929, 50.04047]"
+48,AWD00032hd,diary,549,4,1918-01-21 00:00:00 UTC,21 Jan 1918,"","[0.0, 0.0]","",activity,line,{},2985684,Pozières,"[2.72929, 50.04047]"
+49,AWD00032hd,diary,549,4,1918-01-22 00:00:00 UTC,22 Jan 1918,"","[0.0, 0.0]","",diaryDate,22 Jan 1918,"{""day""=>[""22""], ""month""=>[""Jan""], ""year""=>[""1918""]}",2985684,Pozières,"[2.72929, 50.04047]"
+50,AWD00032hd,diary,549,5,1918-01-22 00:00:00 UTC,22 Jan 1918,"","[0.0, 0.0]","",activity,line,{},2985684,Pozières,"[2.72929, 50.04047]"
+51,AWD00032hd,diary,549,3,1918-01-23 00:00:00 UTC,23 Jan 1918,"","[0.0, 0.0]","",diaryDate,23 Jan 1918,"{""day""=>[""23""], ""month""=>[""Jan""], ""year""=>[""1918""]}",2985684,Pozières,"[2.72929, 50.04047]"
+52,AWD00032hd,diary,549,5,1918-01-24 00:00:00 UTC,24 Jan 1918,"","[0.0, 0.0]","",diaryDate,24 Jan 1918,"{""day""=>[""24""], ""month""=>[""Jan""], ""year""=>[""1918""]}",2985684,Pozières,"[2.72929, 50.04047]"
+53,AWD00032hd,diary,549,3,1918-01-24 00:00:00 UTC,24 Jan 1918,"","[0.0, 0.0]","",unit,1st Black Watch,"{""name""=>[""1st Black Watch""], ""context""=>[""relieved_by""]}",2985684,Pozières,"[2.72929, 50.04047]"
+1,AWD00032hh,diary,550,5,1918-01-25 00:00:00 UTC,25 Jan 1918,"","[0.0, 0.0]","",diaryDate,25 Jan 1918,"{""day""=>[""25""], ""month""=>[""Jan""], ""year""=>[""1918""]}",2985684,Pozières,"[2.72929, 50.04047]"
+2,AWD00032hh,diary,550,5,1918-01-25 00:00:00 UTC,25 Jan 1918,"","[0.0, 0.0]","",activity,support,{},2985684,Pozières,"[2.72929, 50.04047]"
+3,AWD00032hh,diary,550,5,1918-01-26 00:00:00 UTC,26 Jan 1918,"","[0.0, 0.0]","",diaryDate,26 Jan 1918,"{""day""=>[""26""], ""month""=>[""Jan""], ""year""=>[""1918""]}",2985684,Pozières,"[2.72929, 50.04047]"
+6,AWD00032hh,diary,550,2,1918-01-26 00:00:00 UTC,26 Jan 1918,"","[0.0, 0.0]","",unit,"16th Battn H. L. I., 16th Battn. H.L.I.","{""name""=>[""16th Battn H. L. I."", ""16th Battn. H.L.I.""], ""context""=>[""relieved_by""]}",2985684,Pozières,"[2.72929, 50.04047]"
+8,AWD00032hh,diary,550,5,1918-01-27 00:00:00 UTC,27 Jan 1918,"","[0.0, 0.0]","",diaryDate,27 Jan 1918,"{""day""=>[""27""], ""month""=>[""Jan""], ""year""=>[""1918""]}",2985684,Pozières,"[2.72929, 50.04047]"
+9,AWD00032hh,diary,550,5,1918-01-27 00:00:00 UTC,27 Jan 1918,"","[0.0, 0.0]","",activity,movement,{},2985684,Pozières,"[2.72929, 50.04047]"
+10,AWD00032hh,diary,550,4,1918-01-27 00:00:00 UTC,27 Jan 1918,"","[0.0, 0.0]","",place,"Noyon Camp, noyon camp","{""place""=>[""Noyon Camp"", ""noyon camp""], ""location""=>[""false"", ""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+11,AWD00032hh,diary,550,3,1918-01-27 00:00:00 UTC,27 Jan 1918,"","[0.0, 0.0]","",place,Noyon,"{""place""=>[""Noyon""], ""location""=>[""false""], ""name""=>[""Noyon""], ""lat""=>[""49.58333""], ""long""=>[""3""], ""id""=>[""2989877""]}",2985684,Pozières,"[2.72929, 50.04047]"
+12,AWD00032hh,diary,550,5,1918-01-28 00:00:00 UTC,28 Jan 1918,"","[0.0, 0.0]","",diaryDate,28 Jan 1918,"{""day""=>[""28""], ""month""=>[""Jan""], ""year""=>[""1918""]}",2985684,Pozières,"[2.72929, 50.04047]"
+13,AWD00032hh,diary,550,4,1918-01-28 00:00:00 UTC,28 Jan 1918,"","[0.0, 0.0]","",activity,training,{},2985684,Pozières,"[2.72929, 50.04047]"
+15,AWD00032hh,diary,550,2,1918-01-28 00:00:00 UTC,28 Jan 1918,"","[0.0, 0.0]","",place,Noyon Camp,"{""place""=>[""Noyon Camp""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+17,AWD00032hh,diary,550,3,1918-01-31 00:00:00 UTC,31 Jan 1918,"","[0.0, 0.0]","",diaryDate,31 Jan 1918,"{""day""=>[""31""], ""month""=>[""Jan""], ""year""=>[""1918""]}",2985684,Pozières,"[2.72929, 50.04047]"
+1,AWD00032df,diary,552,5,1918-02-01 00:00:00 UTC,1 Feb 1918,"","[0.0, 0.0]","",diaryDate,1 Feb 1918,"{""day""=>[""1""], ""month""=>[""Feb""], ""year""=>[""1918""]}",2985684,Pozières,"[2.72929, 50.04047]"
+2,AWD00032df,diary,552,3,1918-02-01 00:00:00 UTC,1 Feb 1918,"","[0.0, 0.0]","",place,Noyon Camp,"{""place""=>[""Noyon Camp""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+3,AWD00032df,diary,552,4,1918-02-01 00:00:00 UTC,1 Feb 1918,"","[0.0, 0.0]","",activity,training,{},2985684,Pozières,"[2.72929, 50.04047]"
+5,AWD00032df,diary,552,2,1918-02-01 00:00:00 UTC,1 Feb 1918,"","[0.0, 0.0]","",place,Noyon,"{""place""=>[""Noyon""], ""location""=>[""false"", ""true""], ""name""=>[""Noyon""], ""lat""=>[""49.58333""], ""long""=>[""3""], ""id""=>[""2989877""]}",2985684,Pozières,"[2.72929, 50.04047]"
+7,AWD00032df,diary,552,3,1918-02-08 00:00:00 UTC,8 Feb 1918,"","[0.0, 0.0]","",diaryDate,8 Feb 1918,"{""day""=>[""8""], ""month""=>[""Feb""], ""year""=>[""1918""]}",2985684,Pozières,"[2.72929, 50.04047]"
+8,AWD00032df,diary,552,5,1918-02-09 00:00:00 UTC,9 Feb 1918,"","[0.0, 0.0]","",diaryDate,9 Feb 1918,"{""day""=>[""9""], ""month""=>[""Feb""], ""year""=>[""1918""]}",2985684,Pozières,"[2.72929, 50.04047]"
+9,AWD00032df,diary,552,5,1918-02-09 00:00:00 UTC,9 Feb 1918,"","[0.0, 0.0]","",activity,movement,{},2985684,Pozières,"[2.72929, 50.04047]"
+10,AWD00032df,diary,552,6,1918-02-09 00:00:00 UTC,9 Feb 1918,"","[0.0, 0.0]","",place,Kempton Park,"{""place""=>[""Kempton Park""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+11,AWD00032df,diary,552,5,1918-02-10 00:00:00 UTC,10 Feb 1918,"","[0.0, 0.0]","",diaryDate,10 Feb 1918,"{""day""=>[""10""], ""month""=>[""Feb""], ""year""=>[""1918""]}",2985684,Pozières,"[2.72929, 50.04047]"
+13,AWD00032df,diary,552,4,1918-02-10 00:00:00 UTC,10 Feb 1918,"","[0.0, 0.0]","",place,Kempton Park,"{""place""=>[""Kempton Park""], ""location""=>[""false"", ""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+14,AWD00032df,diary,552,4,1918-02-10 00:00:00 UTC,10 Feb 1918,"","[0.0, 0.0]","",activity,working,{},2985684,Pozières,"[2.72929, 50.04047]"
+16,AWD00032df,diary,552,3,1918-02-19 00:00:00 UTC,19 Feb 1918,"","[0.0, 0.0]","",diaryDate,19 Feb 1918,"{""day""=>[""19""], ""month""=>[""Feb""], ""year""=>[""1918""]}",2985684,Pozières,"[2.72929, 50.04047]"
+17,AWD00032df,diary,552,6,1918-02-20 00:00:00 UTC,20 Feb 1918,"","[0.0, 0.0]","",diaryDate,20 Feb 1918,"{""day""=>[""20""], ""month""=>[""Feb""], ""year""=>[""1918""]}",2985684,Pozières,"[2.72929, 50.04047]"
+19,AWD00032df,diary,552,6,1918-02-20 00:00:00 UTC,20 Feb 1918,"","[0.0, 0.0]","",activity,movement,{},2985684,Pozières,"[2.72929, 50.04047]"
+21,AWD00032df,diary,552,4,1918-02-20 00:00:00 UTC,20 Feb 1918,"","[0.0, 0.0]","",unit,"2nd Battn. Royal Sussex Regiment, 2nd Battn. Royal ?Inssey? Regiment, 2 nd Battn. Royal Sussex Regiment, 2nd Battn Royal Sussex Regiment","{""name""=>[""2nd Battn. Royal Sussex Regiment"", ""2nd Battn. Royal ?Inssey? Regiment"", ""2 nd Battn. Royal Sussex Regiment"", ""2nd Battn Royal Sussex Regiment""], ""context""=>[""relieved""]}",2985684,Pozières,"[2.72929, 50.04047]"
+23,AWD00032df,diary,552,3,1918-02-20 00:00:00 UTC,20 Feb 1918,"","[0.0, 0.0]","",activity,line,{},2985684,Pozières,"[2.72929, 50.04047]"
+25,AWD00032df,diary,552,5,1918-02-21 00:00:00 UTC,21 Feb 1918,"","[0.0, 0.0]","",diaryDate,21 Feb 1918,"{""day""=>[""21""], ""month""=>[""Feb""], ""year""=>[""1918""]}",2985684,Pozières,"[2.72929, 50.04047]"
+26,AWD00032df,diary,552,5,1918-02-21 00:00:00 UTC,21 Feb 1918,"","[0.0, 0.0]","",activity,line,{},2985684,Pozières,"[2.72929, 50.04047]"
+27,AWD00032df,diary,552,3,1918-02-23 00:00:00 UTC,23 Feb 1918,"","[0.0, 0.0]","",diaryDate,23 Feb 1918,"{""day""=>[""23""], ""month""=>[""Feb""], ""year""=>[""1918""]}",2985684,Pozières,"[2.72929, 50.04047]"
+28,AWD00032df,diary,552,6,1918-02-24 00:00:00 UTC,24 Feb 1918,"","[0.0, 0.0]","",diaryDate,24 Feb 1918,"{""day""=>[""24""], ""month""=>[""Feb""], ""year""=>[""1918""]}",2985684,Pozières,"[2.72929, 50.04047]"
+31,AWD00032df,diary,552,2,1918-02-24 00:00:00 UTC,24 Feb 1918,"","[0.0, 0.0]","",unit,"1st Battn. Loyal North Lancs, 1st Battn Loyal North Lancs","{""name""=>[""1st Battn. Loyal North Lancs"", ""1st Battn Loyal North Lancs""], ""context""=>[""relieved_by""]}",2985684,Pozières,"[2.72929, 50.04047]"
+33,AWD00032df,diary,552,2,1918-02-24 00:00:00 UTC,24 Feb 1918,"","[0.0, 0.0]","",unit,"1st Battalion Loyal North Lances, 1st Battalion Loyal North Lancs","{""name""=>[""1st Battalion Loyal North Lances"", ""1st Battalion Loyal North Lancs""], ""context""=>[""relieved_by"", ""relieved""]}",2985684,Pozières,"[2.72929, 50.04047]"
+34,AWD00032df,diary,552,2,1918-02-24 00:00:00 UTC,24 Feb 1918,"","[0.0, 0.0]","",unit,"1st Battn Loyal North Lancs, 1st Battn. Loyal North Lancs","{""name""=>[""1st Battn Loyal North Lancs"", ""1st Battn. Loyal North Lancs""], ""context""=>[""relieved""]}",2985684,Pozières,"[2.72929, 50.04047]"
+36,AWD00032df,diary,552,6,1918-02-24 00:00:00 UTC,24 Feb 1918,"","[0.0, 0.0]","",activity,support,{},2985684,Pozières,"[2.72929, 50.04047]"
+37,AWD00032df,diary,552,4,1918-02-25 00:00:00 UTC,25 Feb 1918,"","[0.0, 0.0]","",diaryDate,25 Feb 1918,"{""day""=>[""25""], ""month""=>[""Feb""], ""year""=>[""1918""]}",2985684,Pozières,"[2.72929, 50.04047]"
+39,AWD00032df,diary,552,2,1918-02-25 00:00:00 UTC,25 Feb 1918,"","[0.0, 0.0]","",diaryDate,25 Feb 1918,"{""day""=>[""25""], ""month""=>[""Feb""], ""year""=>[""1918""]}",2985684,Pozières,"[2.72929, 50.04047]"
+40,AWD00032df,diary,552,5,1918-02-25 00:00:00 UTC,25 Feb 1918,"","[0.0, 0.0]","",activity,support,{},2985684,Pozières,"[2.72929, 50.04047]"
+41,AWD00032df,diary,552,6,1918-02-26 00:00:00 UTC,26 Feb 1918,"","[0.0, 0.0]","",diaryDate,26 Feb 1918,"{""day""=>[""26""], ""month""=>[""Feb""], ""year""=>[""1918""]}",2985684,Pozières,"[2.72929, 50.04047]"
+42,AWD00032df,diary,552,2,1918-02-26 00:00:00 UTC,26 Feb 1918,"","[0.0, 0.0]","",unit,"1st Blackwatch, 1st Black Watch","{""name""=>[""1st Blackwatch"", ""1st Black Watch""], ""context""=>[""relieved""]}",2985684,Pozières,"[2.72929, 50.04047]"
+43,AWD00032df,diary,552,5,1918-02-26 00:00:00 UTC,26 Feb 1918,"","[0.0, 0.0]","",activity,line,{},2985684,Pozières,"[2.72929, 50.04047]"
+44,AWD00032df,diary,552,3,1918-02-26 00:00:00 UTC,26 Feb 1918,"","[0.0, 0.0]","",unit,1st Battn. Black Watch,"{""name""=>[""1st Battn. Black Watch""], ""context""=>[""relieved""]}",2985684,Pozières,"[2.72929, 50.04047]"
+46,AWD00032df,diary,552,6,1918-02-27 00:00:00 UTC,27 Feb 1918,"","[0.0, 0.0]","",diaryDate,27 Feb 1918,"{""day""=>[""27""], ""month""=>[""Feb""], ""year""=>[""1918""]}",2985684,Pozières,"[2.72929, 50.04047]"
+47,AWD00032df,diary,552,6,1918-02-27 00:00:00 UTC,27 Feb 1918,"","[0.0, 0.0]","",activity,line,{},2985684,Pozières,"[2.72929, 50.04047]"
+48,AWD00032df,diary,552,6,1918-02-28 00:00:00 UTC,28 Feb 1918,"","[0.0, 0.0]","",diaryDate,28 Feb 1918,"{""day""=>[""28""], ""month""=>[""Feb""], ""year""=>[""1918""]}",2985684,Pozières,"[2.72929, 50.04047]"
+49,AWD00032df,diary,552,3,1918-02-28 00:00:00 UTC,28 Feb 1918,"","[0.0, 0.0]","",unit,1st Battn. Black Watch,"{""name""=>[""1st Battn. Black Watch""], ""context""=>[""relieved_by""]}",2985684,Pozières,"[2.72929, 50.04047]"
+51,AWD00032df,diary,552,2,1918-02-28 00:00:00 UTC,28 Feb 1918,"","[0.0, 0.0]","",unit,"1st Battn. Black Watch, 1st Battn Black Watch","{""name""=>[""1st Battn. Black Watch"", ""1st Battn Black Watch""], ""context""=>[""relieved""]}",2985684,Pozières,"[2.72929, 50.04047]"
+53,AWD00032df,diary,552,3,1918-02-28 00:00:00 UTC,28 Feb 1918,"","[0.0, 0.0]","",unit,1st Black Watch,"{""name""=>[""1st Black Watch""], ""context""=>[""relieved_by""]}",2985684,Pozières,"[2.72929, 50.04047]"
+55,AWD00032df,diary,552,5,1918-02-28 00:00:00 UTC,28 Feb 1918,"","[0.0, 0.0]","",activity,support,{},2985684,Pozières,"[2.72929, 50.04047]"
+57,AWD00032df,diary,552,2,1918-02-28 00:00:00 UTC,28 Feb 1918,"","[0.0, 0.0]","",person,"Captain J Robbon, Ro-bon","{""first""=>[""J""], ""surname""=>[""Robbon"", ""Ro-bon""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>["""", ""1st Battalion Cameron Highlanders""]}",2985684,Pozières,"[2.72929, 50.04047]"
+5,AWD00032g7,report,553,2,,,,[],,title,Account of a raid carried out by the 3rd Australian Division on the night February 10/11th,{},,,
+7,AWD00032g7,report,553,2,,,,[],,date,10 Feb 1918,{},,,
+5,AWD00032gd,report,554,3,,,,[],,person,Captain F H Fairweather,"{""first""=>[""F H""], ""surname""=>[""Fairweather""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+4,AWD00032gh,orders,557,3,,,,[],,person,Major General R Butler,"{""first""=>[""R""], ""surname""=>[""Butler""], ""rank""=>[""Major General""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+3,AWD00032gu,"orders, other",560,3,,,,[],,date,27 Feb 1918,{},,,
+6,AWD00032gu,"orders, other",560,3,,,,[],,person,Lieutenant Colonel E H Tandy,"{""first""=>[""E H""], ""surname""=>[""Tandy""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""author"", ""commander"", ""other""], ""unit""=>[""""]}",,,
+2,AWD00032fv,orders,564,2,,,,[],,orders,other,{},,,
+5,AWD00032fv,orders,564,3,,,,[],,person,Lieutenant Colonel H F Bidder,"{""first""=>[""H F""], ""surname""=>[""Bidder""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>["""", ""1st Battalion Machine Gun Corps"", ""1st Battalion Machine gun corps""]}",,,
+6,AWD00032fv,orders,564,3,,,,[],,person,Major J G Frere,"{""first""=>[""J G""], ""surname""=>[""Frere""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other"", ""commander"", ""departed_posted""], ""unit""=>[""1st Battalion Machine Gun Corps"", """", ""1st Battalion machine gun corps""]}",,,
+7,AWD00032fv,orders,564,2,,,,[],,person,Lieutenant A Shanks,"{""first""=>[""A""], ""surname""=>[""Shanks""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>["""", ""1st Battalion Machine Gun Corps""]}",,,
+8,AWD00032fv,orders,564,2,,,,[],,person,Lieutenant J Hewins,"{""first""=>[""J""], ""surname""=>[""Hewins""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""1st Battalion Machine Gun Corps"", """"]}",,,
+9,AWD00032fv,orders,564,3,,,,[],,person,Lieutenant P R D Grattan,"{""first""=>[""P R D""], ""surname""=>[""Grattan""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""1st Battalion Machine Gun Corps"", """", ""1st Battalion machine gun corps""]}",,,
+4,AWD00032fk,orders,565,2,,,,[],,orders,other,{},,,
+5,AWD00032fk,orders,565,2,,,,[],,date,4 Mar 1918,{},,,
+7,AWD00032fk,orders,565,4,,,,[],,person,Major J H S Westley,"{""first""=>[""J H S""], ""surname""=>[""Westley""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+8,AWD00032fk,orders,565,3,,,,[],,date,27 Feb 1918,{},,,
+1,AWD00032ht,diary,567,5,1918-03-01 00:00:00 UTC,1 Mar 1918,"","[0.0, 0.0]","",diaryDate,1 Mar 1918,"{""day""=>[""1""], ""month""=>[""Mar""], ""year""=>[""1918""]}",2985684,Pozières,"[2.72929, 50.04047]"
+2,AWD00032ht,diary,567,5,1918-03-01 00:00:00 UTC,1 Mar 1918,"","[0.0, 0.0]","",activity,support,{},2985684,Pozières,"[2.72929, 50.04047]"
+3,AWD00032ht,diary,567,5,1918-03-02 00:00:00 UTC,2 Mar 1918,"","[0.0, 0.0]","",diaryDate,2 Mar 1918,"{""day""=>[""2""], ""month""=>[""Mar""], ""year""=>[""1918""]}",2985684,Pozières,"[2.72929, 50.04047]"
+4,AWD00032ht,diary,567,4,1918-03-02 00:00:00 UTC,2 Mar 1918,"","[0.0, 0.0]","",unit,1st Loyal North Lancs,"{""name""=>[""1st Loyal North Lancs""], ""context""=>[""relieved""]}",2985684,Pozières,"[2.72929, 50.04047]"
+6,AWD00032ht,diary,567,10,1918-03-02 00:00:00 UTC,2 Mar 1918,"","[0.0, 0.0]","",activity,line,{},2985684,Pozières,"[2.72929, 50.04047]"
+7,AWD00032ht,diary,567,5,1918-03-03 00:00:00 UTC,3 Mar 1918,"","[0.0, 0.0]","",diaryDate,3 Mar 1918,"{""day""=>[""3""], ""month""=>[""Mar""], ""year""=>[""1918""]}",2985684,Pozières,"[2.72929, 50.04047]"
+8,AWD00032ht,diary,567,5,1918-03-04 00:00:00 UTC,4 Mar 1918,"","[0.0, 0.0]","",diaryDate,4 Mar 1918,"{""day""=>[""4""], ""month""=>[""Mar""], ""year""=>[""1918""]}",2985684,Pozières,"[2.72929, 50.04047]"
+9,AWD00032ht,diary,567,2,1918-03-04 00:00:00 UTC,4 Mar 1918,"","[0.0, 0.0]","",activity,line,{},2985684,Pozières,"[2.72929, 50.04047]"
+12,AWD00032ht,diary,567,2,1918-03-04 00:00:00 UTC,4 Mar 1918,"","[0.0, 0.0]","",unit,"1st Battalion Gloster Regt., 1st Battalion Gloster Regt","{""name""=>[""1st Battalion Gloster Regt."", ""1st Battalion Gloster Regt""], ""context""=>[""relieved_by""]}",2985684,Pozières,"[2.72929, 50.04047]"
+14,AWD00032ht,diary,567,5,1918-03-05 00:00:00 UTC,5 Mar 1918,"","[0.0, 0.0]","",diaryDate,5 Mar 1918,"{""day""=>[""5""], ""month""=>[""Mar""], ""year""=>[""1918""]}",2985684,Pozières,"[2.72929, 50.04047]"
+15,AWD00032ht,diary,567,5,1918-03-05 00:00:00 UTC,5 Mar 1918,"","[0.0, 0.0]","",activity,training,{},2985684,Pozières,"[2.72929, 50.04047]"
+16,AWD00032ht,diary,567,2,1918-03-05 00:00:00 UTC,5 Mar 1918,"","[0.0, 0.0]","",domestic,accomodation,{},2985684,Pozières,"[2.72929, 50.04047]"
+17,AWD00032ht,diary,567,2,1918-03-05 00:00:00 UTC,5 Mar 1918,"CARIBOU CAMP, Caribou Camp","[2.8205, 50.04742]","",place,"CARIBOU CAMP, Caribou Camp","{""place""=>[""CARIBOU CAMP"", ""Caribou Camp""], ""location""=>[""true""], ""name""=>["""", ""Flers""], ""lat""=>["""", ""50.04742""], ""long""=>["""", ""2.8205""], ""id""=>["""", ""3018338""]}",,,
+19,AWD00032ht,diary,567,3,1918-03-12 00:00:00 UTC,12 Mar 1918,"CARIBOU CAMP, Caribou Camp","[2.8205, 50.04742]","",diaryDate,12 Mar 1918,"{""day""=>[""12""], ""month""=>[""Mar""], ""year""=>[""1918""]}",,,
+21,AWD00032ht,diary,567,5,1918-03-13 00:00:00 UTC,13 Mar 1918,"CARIBOU CAMP, Caribou Camp","[2.8205, 50.04742]","",diaryDate,13 Mar 1918,"{""day""=>[""13""], ""month""=>[""Mar""], ""year""=>[""1918""]}",,,
+22,AWD00032ht,diary,567,4,1918-03-13 00:00:00 UTC,13 Mar 1918,"CARIBOU CAMP, Caribou Camp","[2.8205, 50.04742]","",unit,1st Loyal North Lancs,"{""name""=>[""1st Loyal North Lancs""], ""context""=>[""relieved""]}",,,
+24,AWD00032ht,diary,567,7,1918-03-13 00:00:00 UTC,13 Mar 1918,"CARIBOU CAMP, Caribou Camp","[2.8205, 50.04742]","",activity,line,{},,,
+25,AWD00032ht,diary,567,4,1918-03-14 00:00:00 UTC,14 Mar 1918,"CARIBOU CAMP, Caribou Camp","[2.8205, 50.04742]","",diaryDate,14 Mar 1918,"{""day""=>[""14""], ""month""=>[""Mar""], ""year""=>[""1918""]}",,,
+26,AWD00032ht,diary,567,3,1918-03-14 00:00:00 UTC,14 Mar 1918,"CARIBOU CAMP, Caribou Camp","[2.8205, 50.04742]","",activity,line,{},,,
+28,AWD00032ht,diary,567,2,1918-03-17 00:00:00 UTC,17 Mar 1918,"CARIBOU CAMP, Caribou Camp","[2.8205, 50.04742]","",diaryDate,17 Mar 1918,"{""day""=>[""17""], ""month""=>[""Mar""], ""year""=>[""1918""]}",,,
+29,AWD00032ht,diary,567,2,1918-03-16 00:00:00 UTC,16 Mar 1918,"CARIBOU CAMP, Caribou Camp","[2.8205, 50.04742]","",diaryDate,16 Mar 1918,"{""day""=>[""16""], ""month""=>[""Mar""], ""year""=>[""1918""]}",,,
+30,AWD00032ht,diary,567,3,1918-03-17 00:00:00 UTC,17 Mar 1918,"CARIBOU CAMP, Caribou Camp","[2.8205, 50.04742]","",diaryDate,17 Mar 1918,"{""day""=>[""17""], ""month""=>[""Mar""], ""year""=>[""1918""]}",,,
+32,AWD00032ht,diary,567,3,1918-03-17 00:00:00 UTC,17 Mar 1918,"CARIBOU CAMP, Caribou Camp","[2.8205, 50.04742]","",activity,movement,{},,,
+33,AWD00032ht,diary,567,3,1918-03-17 00:00:00 UTC,17 Mar 1918,"CARIBOU CAMP, Caribou Camp","[2.8205, 50.04742]","",unit,1st Battn. Black Watch,"{""name""=>[""1st Battn. Black Watch""], ""context""=>[""relieved_by""]}",,,
+35,AWD00032ht,diary,567,5,1918-03-17 00:00:00 UTC,17 Mar 1918,"CARIBOU CAMP, Caribou Camp","[2.8205, 50.04742]","",activity,reserve,{},,,
+36,AWD00032ht,diary,567,2,1918-03-17 00:00:00 UTC,17 Mar 1918,"CARIBOU CAMP, Caribou Camp","[2.8205, 50.04742]","",place,Huddleston,"{""place""=>[""Huddleston""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+37,AWD00032ht,diary,567,6,1918-03-17 00:00:00 UTC,17 Mar 1918,Huddleston Camp,"[0.0, 0.0]","",place,Huddleston Camp,"{""place""=>[""Huddleston Camp""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+38,AWD00032ht,diary,567,5,1918-03-18 00:00:00 UTC,18 Mar 1918,Huddleston Camp,"[0.0, 0.0]","",diaryDate,18 Mar 1918,"{""day""=>[""18""], ""month""=>[""Mar""], ""year""=>[""1918""]}",,,
+39,AWD00032ht,diary,567,2,1918-03-18 00:00:00 UTC,18 Mar 1918,Huddleston Camp,"[0.0, 0.0]","",domestic,accomodation,{},,,
+42,AWD00032ht,diary,567,3,1918-03-20 00:00:00 UTC,20 Mar 1918,Huddleston Camp,"[0.0, 0.0]","",diaryDate,20 Mar 1918,"{""day""=>[""20""], ""month""=>[""Mar""], ""year""=>[""1918""]}",,,
+43,AWD00032ht,diary,567,5,1918-03-21 00:00:00 UTC,21 Mar 1918,Huddleston Camp,"[0.0, 0.0]","",diaryDate,21 Mar 1918,"{""day""=>[""21""], ""month""=>[""Mar""], ""year""=>[""1918""]}",,,
+44,AWD00032ht,diary,567,4,1918-03-21 00:00:00 UTC,21 Mar 1918,Huddleston Camp,"[0.0, 0.0]","",unit,1st Loyal North Lancs,"{""name""=>[""1st Loyal North Lancs""], ""context""=>[""relieved""]}",,,
+45,AWD00032ht,diary,567,9,1918-03-21 00:00:00 UTC,21 Mar 1918,Huddleston Camp,"[0.0, 0.0]","",activity,support,{},,,
+46,AWD00032ht,diary,567,5,1918-03-22 00:00:00 UTC,22 Mar 1918,Huddleston Camp,"[0.0, 0.0]","",diaryDate,22 Mar 1918,"{""day""=>[""22""], ""month""=>[""Mar""], ""year""=>[""1918""]}",,,
+47,AWD00032ht,diary,567,3,1918-03-24 00:00:00 UTC,24 Mar 1918,Huddleston Camp,"[0.0, 0.0]","",diaryDate,24 Mar 1918,"{""day""=>[""24""], ""month""=>[""Mar""], ""year""=>[""1918""]}",,,
+48,AWD00032ht,diary,567,5,1918-03-25 00:00:00 UTC,25 Mar 1918,Huddleston Camp,"[0.0, 0.0]","",diaryDate,25 Mar 1918,"{""day""=>[""25""], ""month""=>[""Mar""], ""year""=>[""1918""]}",,,
+49,AWD00032ht,diary,567,4,1918-03-25 00:00:00 UTC,25 Mar 1918,Huddleston Camp,"[0.0, 0.0]","",activity,line,{},,,
+50,AWD00032ht,diary,567,4,1918-03-25 00:00:00 UTC,25 Mar 1918,Huddleston Camp,"[0.0, 0.0]","",unit,1st Loyal North Lancs,"{""name""=>[""1st Loyal North Lancs""], ""context""=>[""relieved""]}",,,
+52,AWD00032ht,diary,567,5,1918-03-26 00:00:00 UTC,26 Mar 1918,Huddleston Camp,"[0.0, 0.0]","",diaryDate,26 Mar 1918,"{""day""=>[""26""], ""month""=>[""Mar""], ""year""=>[""1918""]}",,,
+53,AWD00032ht,diary,567,6,1918-03-26 00:00:00 UTC,26 Mar 1918,Huddleston Camp,"[0.0, 0.0]","",activity,line,{},,,
+54,AWD00032ht,diary,567,2,1918-03-29 00:00:00 UTC,29 Mar 1918,Huddleston Camp,"[0.0, 0.0]","",diaryDate,29 Mar 1918,"{""day""=>[""29""], ""month""=>[""Mar""], ""year""=>[""1918""]}",,,
+55,AWD00032ht,diary,567,3,1918-03-28 00:00:00 UTC,28 Mar 1918,Huddleston Camp,"[0.0, 0.0]","",diaryDate,28 Mar 1918,"{""day""=>[""28""], ""month""=>[""Mar""], ""year""=>[""1918""]}",,,
+56,AWD00032ht,diary,567,3,1918-03-29 00:00:00 UTC,29 Mar 1918,Huddleston Camp,"[0.0, 0.0]","",diaryDate,29 Mar 1918,"{""day""=>[""29""], ""month""=>[""Mar""], ""year""=>[""1918""]}",,,
+57,AWD00032ht,diary,567,3,1918-03-29 00:00:00 UTC,29 Mar 1918,Huddleston Camp,"[0.0, 0.0]","",unit,1st Battn. Black Watch,"{""name""=>[""1st Battn. Black Watch""], ""context""=>[""relieved_by""]}",,,
+58,AWD00032ht,diary,567,2,1918-03-29 00:00:00 UTC,29 Mar 1918,Huddleston Camp,"[0.0, 0.0]","",activity,movement,{},,,
+59,AWD00032ht,diary,567,3,1918-03-29 00:00:00 UTC,29 Mar 1918,Huddleston Camp,"[0.0, 0.0]","",activity,reserve,{},,,
+61,AWD00032ht,diary,567,3,1918-03-29 00:00:00 UTC,29 Mar 1918,Canal Bank,"[0.0, 0.0]","",place,Canal Bank,"{""place""=>[""Canal Bank""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2788726,Poperinge,"[2.72659, 50.85386]"
+62,AWD00032ht,diary,567,5,1918-03-30 00:00:00 UTC,30 Mar 1918,Canal Bank,"[0.0, 0.0]","",diaryDate,30 Mar 1918,"{""day""=>[""30""], ""month""=>[""Mar""], ""year""=>[""1918""]}",2788726,Poperinge,"[2.72659, 50.85386]"
+63,AWD00032ht,diary,567,5,1918-03-30 00:00:00 UTC,30 Mar 1918,Canal Bank,"[0.0, 0.0]","",activity,reserve,{},2788726,Poperinge,"[2.72659, 50.85386]"
+64,AWD00032ht,diary,567,4,1918-03-30 00:00:00 UTC,30 Mar 1918,Canal Bank,"[0.0, 0.0]","",place,Canal Bank,"{""place""=>[""Canal Bank""], ""location""=>[""true"", ""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2788726,Poperinge,"[2.72659, 50.85386]"
+65,AWD00032ht,diary,567,3,1918-03-31 00:00:00 UTC,31 Mar 1918,Canal Bank,"[0.0, 0.0]","",diaryDate,31 Mar 1918,"{""day""=>[""31""], ""month""=>[""Mar""], ""year""=>[""1918""]}",2788726,Poperinge,"[2.72659, 50.85386]"
+66,AWD00032ht,diary,567,4,1918-03-31 00:00:00 UTC,31 Mar 1918,Canal Bank,"[0.0, 0.0]","",person,Captain J Robertson,"{""first""=>[""J""], ""surname""=>[""Robertson""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",2788726,Poperinge,"[2.72659, 50.85386]"
+3,AWD00032h9,orders,568,2,,,,[],,orders,other,{},,,
+4,AWD00032h9,orders,568,2,,,,[],,person,"Captain A, Lavyton, Layton","{""first""=>[""A"", """"], ""surname""=>[""Lavyton"", ""Layton""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""1st infantry brigade"", """"]}",,,
+5,AWD00032h9,orders,568,3,,,,[],,date,13 Mar 1918,{},,,
+5,AWD00032e6,orders,570,4,,,,[],,person,Brigadier General S H Wilson,"{""first""=>[""S H""], ""surname""=>[""Wilson""], ""rank""=>[""Brigadier General""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+6,AWD00032ge,orders,571,2,,,,[],,person,"Officer Cadet,Lieutenant Colonel E H Sandy","{""first""=>[""E H""], ""surname""=>[""Sandy""], ""rank""=>[""Officer Cadet"", ""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""author"", ""other""], ""unit""=>[""General staff 1st division"", ""1st Division""]}",,,
+7,AWD00032ge,orders,571,2,,,,[],,date,29 Mar 1918,{},,,
+1,AWD00032d1,diary,573,6,1918-04-01 00:00:00 UTC,1 Apr 1918,Canal Bank,"[0.0, 0.0]","",diaryDate,1 Apr 1918,"{""day""=>[""1""], ""month""=>[""Apr""], ""year""=>[""1918""]}",2788726,Poperinge,"[2.72659, 50.85386]"
+2,AWD00032d1,diary,573,4,1918-04-01 00:00:00 UTC,1 Apr 1918,Canal Bank,"[0.0, 0.0]","",activity,reserve,{},2788726,Poperinge,"[2.72659, 50.85386]"
+3,AWD00032d1,diary,573,3,1918-04-01 00:00:00 UTC,1 Apr 1918,Canal Bank,"[0.0, 0.0]","",place,Canal Bank,"{""place""=>[""Canal Bank""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2788726,Poperinge,"[2.72659, 50.85386]"
+5,AWD00032d1,diary,573,6,1918-04-02 00:00:00 UTC,2 Apr 1918,Canal Bank,"[0.0, 0.0]","",diaryDate,2 Apr 1918,"{""day""=>[""2""], ""month""=>[""Apr""], ""year""=>[""1918""]}",2788726,Poperinge,"[2.72659, 50.85386]"
+6,AWD00032d1,diary,573,5,1918-04-02 00:00:00 UTC,2 Apr 1918,Canal Bank,"[0.0, 0.0]","",unit,"1st Loyal Lancashire Reg, 1st Loyal No. Lancashire Regt., 1ST Royal N. Lancashire Regt., 1st Loyal Lancashire Regt, 1st Loyal Lancashire REgt","{""name""=>[""1st Loyal Lancashire Reg"", ""1st Loyal No. Lancashire Regt."", ""1ST Royal N. Lancashire Regt."", ""1st Loyal Lancashire Regt"", ""1st Loyal Lancashire REgt""], ""context""=>[""relieved""]}",2788726,Poperinge,"[2.72659, 50.85386]"
+8,AWD00032d1,diary,573,5,1918-04-02 00:00:00 UTC,2 Apr 1918,Canal Bank,"[0.0, 0.0]","",activity,support,{},2788726,Poperinge,"[2.72659, 50.85386]"
+9,AWD00032d1,diary,573,6,1918-04-03 00:00:00 UTC,3 Apr 1918,Canal Bank,"[0.0, 0.0]","",diaryDate,3 Apr 1918,"{""day""=>[""3""], ""month""=>[""Apr""], ""year""=>[""1918""]}",2788726,Poperinge,"[2.72659, 50.85386]"
+10,AWD00032d1,diary,573,7,1918-04-03 00:00:00 UTC,3 Apr 1918,Canal Bank,"[0.0, 0.0]","",activity,support,{},2788726,Poperinge,"[2.72659, 50.85386]"
+11,AWD00032d1,diary,573,2,1918-04-06 00:00:00 UTC,"6 Apr 1918, 1916",Canal Bank,"[0.0, 0.0]","",diaryDate,"6 Apr 1918, 1916","{""day""=>[""6""], ""month""=>[""Apr""], ""year""=>[""1918"", ""1916""]}",2788726,Poperinge,"[2.72659, 50.85386]"
+13,AWD00032d1,diary,573,6,1918-04-07 00:00:00 UTC,7 Apr 1918,Canal Bank,"[0.0, 0.0]","",diaryDate,7 Apr 1918,"{""day""=>[""7""], ""month""=>[""Apr""], ""year""=>[""1918""]}",2788726,Poperinge,"[2.72659, 50.85386]"
+15,AWD00032d1,diary,573,4,1918-04-07 00:00:00 UTC,7 Apr 1918,Canal Bank,"[0.0, 0.0]","",unit,"17th Kings Liverpool Regiment, 19th Kings Liverpool Regiment","{""name""=>[""17th Kings Liverpool Regiment"", ""19th Kings Liverpool Regiment""], ""context""=>[""relieved_by""]}",2788726,Poperinge,"[2.72659, 50.85386]"
+16,AWD00032d1,diary,573,2,1918-04-07 00:00:00 UTC,7 Apr 1918,Canal Bank,"[0.0, 0.0]","",unit,"17th and 19th Kings Liverpool Regt, 17th&19th Kings Liverpool regt","{""name""=>[""17th and 19th Kings Liverpool Regt"", ""17th&19th Kings Liverpool regt""], ""context""=>[""relieved_by""]}",2788726,Poperinge,"[2.72659, 50.85386]"
+19,AWD00032d1,diary,573,6,1918-04-08 00:00:00 UTC,8 Apr 1918,Canal Bank,"[0.0, 0.0]","",diaryDate,8 Apr 1918,"{""day""=>[""8""], ""month""=>[""Apr""], ""year""=>[""1918""]}",2788726,Poperinge,"[2.72659, 50.85386]"
+21,AWD00032d1,diary,573,2,1918-04-08 00:00:00 UTC,8 Apr 1918,Canal Bank,"[0.0, 0.0]","",domestic,accomodation,{},2788726,Poperinge,"[2.72659, 50.85386]"
+22,AWD00032d1,diary,573,3,1918-04-08 00:00:00 UTC,8 Apr 1918,Bridge Camps,"[0.0, 0.0]","",place,Bridge Camps,"{""place""=>[""Bridge Camps""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+23,AWD00032d1,diary,573,2,1918-04-09 00:00:00 UTC,9 Apr 1918,Bridge Camps,"[0.0, 0.0]","",diaryDate,9 Apr 1918,"{""day""=>[""9""], ""month""=>[""Apr""], ""year""=>[""1918""]}",,,
+25,AWD00032d1,diary,573,4,1918-04-09 00:00:00 UTC,9 Apr 1918,Bridge Camps,"[0.0, 0.0]","",diaryDate,9 Apr 1918,"{""day""=>[""9""], ""month""=>[""Apr""], ""year""=>[""1918""]}",,,
+26,AWD00032d1,diary,573,5,1918-04-09 00:00:00 UTC,9 Apr 1918,Bridge Camps,"[0.0, 0.0]","",activity,movement,{},,,
+27,AWD00032d1,diary,573,5,1918-04-09 00:00:00 UTC,9 Apr 1918,Bridge Camps,"[0.0, 0.0]","",domestic,accomodation,{},,,
+30,AWD00032d1,diary,573,8,1918-04-09 00:00:00 UTC,9 Apr 1918,Bridge Camps,"[0.0, 0.0]","",place,Marles-les-Mines,"{""place""=>[""Marles-les-Mines""], ""location""=>[""false"", ""true""], ""name""=>[""Marles-les-Mines""], ""lat""=>[""50.50478""], ""long""=>[""2.50882""], ""id""=>[""2995669""]}",,,
+31,AWD00032d1,diary,573,6,1918-04-10 00:00:00 UTC,10 Apr 1918,Bridge Camps,"[0.0, 0.0]","",diaryDate,10 Apr 1918,"{""day""=>[""10""], ""month""=>[""Apr""], ""year""=>[""1918""]}",,,
+32,AWD00032d1,diary,573,2,1918-04-10 00:00:00 UTC,10 Apr 1918,Les marles-mines,"[2.50882, 50.50478]","",place,Les marles-mines,"{""place""=>[""Les marles-mines""], ""location""=>[""true""], ""name""=>[""Marles-les-Mines""], ""lat""=>[""50.50478""], ""long""=>[""2.50882""], ""id""=>[""2995669""]}",,,
+33,AWD00032d1,diary,573,4,1918-04-10 00:00:00 UTC,10 Apr 1918,Les marles-mines,"[2.50882, 50.50478]","",domestic,accomodation,{},,,
+34,AWD00032d1,diary,573,6,1918-04-11 00:00:00 UTC,11 Apr 1918,Les marles-mines,"[2.50882, 50.50478]","",diaryDate,11 Apr 1918,"{""day""=>[""11""], ""month""=>[""Apr""], ""year""=>[""1918""]}",,,
+35,AWD00032d1,diary,573,6,1918-04-11 00:00:00 UTC,11 Apr 1918,Beauvry,"[0.0, 0.0]","",place,Beauvry,"{""place""=>[""Beauvry""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+36,AWD00032d1,diary,573,9,1918-04-11 00:00:00 UTC,11 Apr 1918,Beauvry,"[0.0, 0.0]","",activity,movement,{},,,
+37,AWD00032d1,diary,573,8,1918-04-11 00:00:00 UTC,11 Apr 1918,Beauvry,"[0.0, 0.0]","",activity,reserve,{},,,
+38,AWD00032d1,diary,573,6,1918-04-12 00:00:00 UTC,12 Apr 1918,Beauvry,"[0.0, 0.0]","",diaryDate,12 Apr 1918,"{""day""=>[""12""], ""month""=>[""Apr""], ""year""=>[""1918""]}",,,
+39,AWD00032d1,diary,573,6,1918-04-12 00:00:00 UTC,12 Apr 1918,Bethune,"[2.63333, 50.53333]","",place,Bethune,"{""place""=>[""Bethune""], ""location""=>[""true""], ""name""=>[""Béthune""], ""lat""=>[""50.53333""], ""long""=>[""2.63333""], ""id""=>[""3033002""]}",3033002,Béthune,"[2.63333, 50.53333]"
+40,AWD00032d1,diary,573,2,1918-04-12 00:00:00 UTC,12 Apr 1918,Bethune,"[2.63333, 50.53333]","",activity,reserve,{},3033002,Béthune,"[2.63333, 50.53333]"
+41,AWD00032d1,diary,573,6,1918-04-13 00:00:00 UTC,13 Apr 1918,Bethune,"[2.63333, 50.53333]","",diaryDate,13 Apr 1918,"{""day""=>[""13""], ""month""=>[""Apr""], ""year""=>[""1918""]}",3033002,Béthune,"[2.63333, 50.53333]"
+42,AWD00032d1,diary,573,6,1918-04-13 00:00:00 UTC,13 Apr 1918,Bethune,"[2.63333, 50.53333]","",activity,movement,{},3033002,Béthune,"[2.63333, 50.53333]"
+43,AWD00032d1,diary,573,7,1918-04-13 00:00:00 UTC,13 Apr 1918,Bethune,"[2.63333, 50.53333]","",activity,reserve,{},3033002,Béthune,"[2.63333, 50.53333]"
+44,AWD00032d1,diary,573,9,1918-04-13 00:00:00 UTC,13 Apr 1918,Essars,"[2.6662, 50.54868]","",place,Essars,"{""place""=>[""Essars""], ""location""=>[""true""], ""name""=>[""Essars""], ""lat""=>[""50.54868""], ""long""=>[""2.6662""], ""id""=>[""3019631""]}",3019631,Essars,"[2.6662, 50.54868]"
+45,AWD00032d1,diary,573,2,1918-04-13 00:00:00 UTC,13 Apr 1918,Essars,"[2.6662, 50.54868]","",activity,reserve,{},3019631,Essars,"[2.6662, 50.54868]"
+46,AWD00032d1,diary,573,6,1918-04-14 00:00:00 UTC,14 Apr 1918,Essars,"[2.6662, 50.54868]","",diaryDate,14 Apr 1918,"{""day""=>[""14""], ""month""=>[""Apr""], ""year""=>[""1918""]}",3019631,Essars,"[2.6662, 50.54868]"
+47,AWD00032d1,diary,573,2,1918-04-14 00:00:00 UTC,14 Apr 1918,Essars,"[2.6662, 50.54868]","",activity,reserve,{},3019631,Essars,"[2.6662, 50.54868]"
+49,AWD00032d1,diary,573,6,1918-04-15 00:00:00 UTC,15 Apr 1918,Essars,"[2.6662, 50.54868]","",diaryDate,15 Apr 1918,"{""day""=>[""15""], ""month""=>[""Apr""], ""year""=>[""1918""]}",3019631,Essars,"[2.6662, 50.54868]"
+50,AWD00032d1,diary,573,5,1918-04-15 00:00:00 UTC,15 Apr 1918,Essars,"[2.6662, 50.54868]","",activity,movement,{},3019631,Essars,"[2.6662, 50.54868]"
+51,AWD00032d1,diary,573,5,1918-04-15 00:00:00 UTC,15 Apr 1918,Verquin,"[2.63888, 50.5024]","",place,Verquin,"{""place""=>[""Verquin""], ""location""=>[""true""], ""name""=>[""Verquin""], ""lat""=>[""50.5024""], ""long""=>[""2.63888""], ""id""=>[""2969722""]}",2969964,Verdun,"[1.68819, 42.79528]"
+53,AWD00032d1,diary,573,2,1918-04-15 00:00:00 UTC,15 Apr 1918,Verquin,"[2.63888, 50.5024]","",unit,"13th King's Regiment, 13th Kings Regiment","{""name""=>[""13th King's Regiment"", ""13th Kings Regiment""], ""context""=>[""relieved_by""]}",2969964,Verdun,"[1.68819, 42.79528]"
+54,AWD00032d1,diary,573,2,1918-04-15 00:00:00 UTC,15 Apr 1918,Verquin,"[2.63888, 50.5024]","",activity,reserve,{},2969964,Verdun,"[1.68819, 42.79528]"
+55,AWD00032d1,diary,573,6,1918-04-16 00:00:00 UTC,16 Apr 1918,Verquin,"[2.63888, 50.5024]","",diaryDate,16 Apr 1918,"{""day""=>[""16""], ""month""=>[""Apr""], ""year""=>[""1918""]}",2969964,Verdun,"[1.68819, 42.79528]"
+56,AWD00032d1,diary,573,6,1918-04-16 00:00:00 UTC,16 Apr 1918,Verquin,"[2.63888, 50.5024]","",unit,13th Kings Regt.,"{""name""=>[""13th Kings Regt.""], ""context""=>[""relieved_by""]}",2969964,Verdun,"[1.68819, 42.79528]"
+57,AWD00032d1,diary,573,2,1918-04-16 00:00:00 UTC,16 Apr 1918,Verquin,"[2.63888, 50.5024]","",unit,"2/5 Kings Regiment, 2/5 King's Regiment","{""name""=>[""2/5 Kings Regiment"", ""2/5 King's Regiment""], ""context""=>[""relieved""]}",2969964,Verdun,"[1.68819, 42.79528]"
+58,AWD00032d1,diary,573,6,1918-04-16 00:00:00 UTC,16 Apr 1918,Verquin,"[2.63888, 50.5024]","",activity,support,{},2969964,Verdun,"[1.68819, 42.79528]"
+59,AWD00032d1,diary,573,2,1918-04-17 00:00:00 UTC,17 Apr 1918,Verquin,"[2.63888, 50.5024]","",diaryDate,17 Apr 1918,"{""day""=>[""17""], ""month""=>[""Apr""], ""year""=>[""1918""]}",2969964,Verdun,"[1.68819, 42.79528]"
+61,AWD00032d1,diary,573,4,1918-04-17 00:00:00 UTC,17 Apr 1918,Verquin,"[2.63888, 50.5024]","",diaryDate,17 Apr 1918,"{""day""=>[""17""], ""month""=>[""Apr""], ""year""=>[""1918""]}",2969964,Verdun,"[1.68819, 42.79528]"
+62,AWD00032d1,diary,573,2,1918-04-18 00:00:00 UTC,18 Apr 1918,Verquin,"[2.63888, 50.5024]","",diaryDate,18 Apr 1918,"{""day""=>[""18""], ""month""=>[""Apr""], ""year""=>[""1918""]}",2969964,Verdun,"[1.68819, 42.79528]"
+63,AWD00032d1,diary,573,9,1918-04-18 00:00:00 UTC,18 Apr 1918,Verquin,"[2.63888, 50.5024]","",activity,support,{},2969964,Verdun,"[1.68819, 42.79528]"
+64,AWD00032d1,diary,573,4,1918-04-18 00:00:00 UTC,18 Apr 1918,Verquin,"[2.63888, 50.5024]","",diaryDate,18 Apr 1918,"{""day""=>[""18""], ""month""=>[""Apr""], ""year""=>[""1918""]}",2969964,Verdun,"[1.68819, 42.79528]"
+65,AWD00032d1,diary,573,2,1918-04-18 04:30:00 UTC,18 Apr 1918,Verquin,"[2.63888, 50.5024]",0430AM,time,0430AM,{},2969964,Verdun,"[1.68819, 42.79528]"
+66,AWD00032d1,diary,573,6,1918-04-18 04:30:00 UTC,18 Apr 1918,Verquin,"[2.63888, 50.5024]",0430AM,activity,fire,{},2969964,Verdun,"[1.68819, 42.79528]"
+2,AWD00032dw,diary,574,2,1918-04-18 00:00:00 UTC,18 Apr 1918,Verquin,"[2.63888, 50.5024]","",diaryDate,18 Apr 1918,"{""day""=>[""18""], ""month""=>[""Apr""], ""year""=>[""1918""]}",2969964,Verdun,"[1.68819, 42.79528]"
+4,AWD00032dw,diary,574,4,1918-04-18 00:00:00 UTC,18 Apr 1918,Verquin,"[2.63888, 50.5024]","",unit,1st Black Watch,"{""name""=>[""1st Black Watch""], ""context""=>[""left""]}",2969964,Verdun,"[1.68819, 42.79528]"
+6,AWD00032dw,diary,574,3,1918-04-18 00:00:00 UTC,18 Apr 1918,Verquin,"[2.63888, 50.5024]","",activity,enemy_activity,{},2969964,Verdun,"[1.68819, 42.79528]"
+11,AWD00032dw,diary,574,3,1918-04-18 00:00:00 UTC,18 Apr 1918,Verquin,"[2.63888, 50.5024]","",unit,"1st L N Lanks, 1st L. N. Lancs., 1st L. N. Lancs","{""name""=>[""1st L N Lanks"", ""1st L. N. Lancs."", ""1st L. N. Lancs""], ""context""=>[""right"", ""joined"", ""other""]}",2969964,Verdun,"[1.68819, 42.79528]"
+12,AWD00032dw,diary,574,2,1918-04-18 00:00:00 UTC,18 Apr 1918,Verquin,"[2.63888, 50.5024]","",unit,1st L.N. (Loyal northern) Lancs(Lancashires),"{""name""=>[""1st L.N. (Loyal northern) Lancs(Lancashires)""], ""context""=>[""right"", ""joined""]}",2969964,Verdun,"[1.68819, 42.79528]"
+13,AWD00032dw,diary,574,2,1918-04-18 00:00:00 UTC,18 Apr 1918,Verquin,"[2.63888, 50.5024]","",unit,"1st L. N. Lancs., 1st L. N. Lancs","{""name""=>[""1st L. N. Lancs."", ""1st L. N. Lancs""], ""context""=>[""joined"", ""other""]}",2969964,Verdun,"[1.68819, 42.79528]"
+17,AWD00032dw,diary,574,3,1918-04-18 00:00:00 UTC,18 Apr 1918,Verquin,"[2.63888, 50.5024]","",place,Windy Corner,"{""place""=>[""Windy Corner""], ""location""=>[""false""], ""name""=>[""Verdun"", """", ""Verquin""], ""lat""=>[""42.79528"", """", ""50.5024""], ""long""=>[""1.68819"", """", ""2.63888""], ""id""=>[""2969964"", """", ""2969722""]}",2969964,Verdun,"[1.68819, 42.79528]"
+22,AWD00032dw,diary,574,3,1918-04-18 00:00:00 UTC,18 Apr 1918,Verquin,"[2.63888, 50.5024]","",place,Pont Fixe,"{""place""=>[""Pont Fixe""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2969964,Verdun,"[1.68819, 42.79528]"
+23,AWD00032dw,diary,574,3,1918-04-18 00:00:00 UTC,18 Apr 1918,Verquin,"[2.63888, 50.5024]","",place,Lone Farm,"{""place""=>[""Lone Farm""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2969964,Verdun,"[1.68819, 42.79528]"
+25,AWD00032dw,diary,574,2,1918-04-18 00:00:00 UTC,18 Apr 1918,Verquin,"[2.63888, 50.5024]","",unit,"1st Glosters- 3rd brigade, 1st Glosters  (3rd Brigade)","{""name""=>[""1st Glosters- 3rd brigade"", ""1st Glosters  (3rd Brigade)""], ""context""=>[""joined"", ""other""]}",2969964,Verdun,"[1.68819, 42.79528]"
+26,AWD00032dw,diary,574,2,1918-04-18 00:00:00 UTC,18 Apr 1918,Verquin,"[2.63888, 50.5024]","",unit,1st Glosters,"{""name""=>[""1st Glosters""], ""context""=>[""other""]}",2969964,Verdun,"[1.68819, 42.79528]"
+27,AWD00032dw,diary,574,3,1918-04-18 00:00:00 UTC,18 Apr 1918,Verquin,"[2.63888, 50.5024]","",place,Windy Corner,"{""place""=>[""Windy Corner""], ""location""=>[""false""], ""name""=>[""Verdun"", """", ""Verquin""], ""lat""=>[""42.79528"", """", ""50.5024""], ""long""=>[""1.68819"", """", ""2.63888""], ""id""=>[""2969964"", """", ""2969722""]}",2969964,Verdun,"[1.68819, 42.79528]"
+28,AWD00032dw,diary,574,3,1918-04-18 00:00:00 UTC,18 Apr 1918,Verquin,"[2.63888, 50.5024]","",unit,Black Watch,"{""name""=>[""Black Watch""], ""context""=>[""other""]}",2969964,Verdun,"[1.68819, 42.79528]"
+30,AWD00032dw,diary,574,2,1918-04-18 00:00:00 UTC,18 Apr 1918,Verquin,"[2.63888, 50.5024]","",activity,enemy_activity,{},2969964,Verdun,"[1.68819, 42.79528]"
+32,AWD00032dw,diary,574,3,1918-04-18 00:00:00 UTC,18 Apr 1918,Verquin,"[2.63888, 50.5024]","",unit,Black Watch,"{""name""=>[""Black Watch""], ""context""=>[""other""]}",2969964,Verdun,"[1.68819, 42.79528]"
+1,AWD00032gf,diary,575,2,1918-04-18 00:00:00 UTC,18 Apr 1918,Verquin,"[2.63888, 50.5024]","",diaryDate,18 Apr 1918,"{""day""=>[""18""], ""month""=>[""Apr""], ""year""=>[""1918""]}",2969964,Verdun,"[1.68819, 42.79528]"
+4,AWD00032gf,diary,575,2,1918-04-18 00:00:00 UTC,18 Apr 1918,Verquin,"[2.63888, 50.5024]","",place,Keeps,"{""place""=>[""Keeps""], ""location""=>[""true"", ""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2969964,Verdun,"[1.68819, 42.79528]"
+9,AWD00032gf,diary,575,3,1918-04-18 00:00:00 UTC,18 Apr 1918,Verquin,"[2.63888, 50.5024]","",place,Windy Corner,"{""place""=>[""Windy Corner""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2969964,Verdun,"[1.68819, 42.79528]"
+11,AWD00032gf,diary,575,3,1918-04-18 00:00:00 UTC,18 Apr 1918,Verquin,"[2.63888, 50.5024]","",place,Le Plantin,"{""place""=>[""Le Plantin""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2969964,Verdun,"[1.68819, 42.79528]"
+12,AWD00032gf,diary,575,7,1918-04-18 00:00:00 UTC,18 Apr 1918,Verquin,"[2.63888, 50.5024]","",unit,1st Glosters,"{""name""=>[""1st Glosters""], ""context""=>[""other""]}",2969964,Verdun,"[1.68819, 42.79528]"
+13,AWD00032gf,diary,575,4,1918-04-18 00:00:00 UTC,18 Apr 1918,Verquin,"[2.63888, 50.5024]","",unit,1st Black Watch,"{""name""=>[""1st Black Watch""], ""context""=>[""other""]}",2969964,Verdun,"[1.68819, 42.79528]"
+19,AWD00032gf,diary,575,3,1918-04-18 00:00:00 UTC,18 Apr 1918,Verquin,"[2.63888, 50.5024]","",place,Le Plantin,"{""place""=>[""Le Plantin""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2969964,Verdun,"[1.68819, 42.79528]"
+21,AWD00032gf,diary,575,3,1918-04-18 00:00:00 UTC,18 Apr 1918,Verquin,"[2.63888, 50.5024]","",unit,1st Glosters,"{""name""=>[""1st Glosters""], ""context""=>[""other""]}",2969964,Verdun,"[1.68819, 42.79528]"
+23,AWD00032gf,diary,575,3,1918-04-18 00:00:00 UTC,18 Apr 1918,Verquin,"[2.63888, 50.5024]","",unit,2nd Welch,"{""name""=>[""2nd Welch""], ""context""=>[""relieved"", ""other"", ""relieved_by""]}",2969964,Verdun,"[1.68819, 42.79528]"
+27,AWD00032gf,diary,575,3,1918-04-18 00:00:00 UTC,18 Apr 1918,Verquin,"[2.63888, 50.5024]","",place,Pont Fixe,"{""place""=>[""Pont Fixe""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2969964,Verdun,"[1.68819, 42.79528]"
+28,AWD00032gf,diary,575,3,1918-04-18 00:00:00 UTC,18 Apr 1918,Verquin,"[2.63888, 50.5024]","",unit,1st Northamptons,"{""name""=>[""1st Northamptons""], ""context""=>[""relieved_by"", ""relieved"", ""other""]}",2969964,Verdun,"[1.68819, 42.79528]"
+31,AWD00032gf,diary,575,2,1918-04-18 00:00:00 UTC,18 Apr 1918,Verquin,"[2.63888, 50.5024]","",unit,"L. N. Lancs., L.N. Lancs","{""name""=>[""L. N. Lancs."", ""L.N. Lancs""], ""context""=>[""joined""]}",2969964,Verdun,"[1.68819, 42.79528]"
+33,AWD00032gf,diary,575,3,1918-04-18 00:00:00 UTC,18 Apr 1918,Verquin,"[2.63888, 50.5024]","",place,Lone Farm,"{""place""=>[""Lone Farm""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2969964,Verdun,"[1.68819, 42.79528]"
+35,AWD00032gf,diary,575,2,1918-04-18 16:00:00 UTC,18 Apr 1918,Verquin,"[2.63888, 50.5024]",0400PM,time,0400PM,{},2969964,Verdun,"[1.68819, 42.79528]"
+37,AWD00032gf,diary,575,2,1918-04-18 16:00:00 UTC,18 Apr 1918,Verquin,"[2.63888, 50.5024]",0400PM,unit,1st battalion Cameron Highlanders C company,"{""name""=>[""1st battalion Cameron Highlanders C company""], ""context""=>[""relieved_by""]}",2969964,Verdun,"[1.68819, 42.79528]"
+38,AWD00032gf,diary,575,2,1918-04-18 16:00:00 UTC,18 Apr 1918,Verquin,"[2.63888, 50.5024]",0400PM,unit,1st Northamptons,"{""name""=>[""1st Northamptons""], ""context""=>[""relieved_by"", ""other""]}",2969964,Verdun,"[1.68819, 42.79528]"
+39,AWD00032gf,diary,575,3,1918-04-18 16:00:00 UTC,18 Apr 1918,Verquin,"[2.63888, 50.5024]",0400PM,unit,"1st Blackwatch, Black Watch, 1st Black Watch","{""name""=>[""1st Blackwatch"", ""Black Watch"", ""1st Black Watch""], ""context""=>[""other""]}",2969964,Verdun,"[1.68819, 42.79528]"
+46,AWD00032gf,diary,575,2,1918-04-18 20:30:00 UTC,18 Apr 1918,Verquin,"[2.63888, 50.5024]",0830PM,time,0830PM,{},2969964,Verdun,"[1.68819, 42.79528]"
+1,AWD00032dr,diary,576,2,1918-04-18 00:00:00 UTC,18 Apr 1918,Verquin,"[2.63888, 50.5024]","",diaryDate,18 Apr 1918,"{""day""=>[""18""], ""month""=>[""Apr""], ""year""=>[""1918""]}",2969964,Verdun,"[1.68819, 42.79528]"
+2,AWD00032dr,diary,576,7,1918-04-18 00:00:00 UTC,18 Apr 1918,Verquin,"[2.63888, 50.5024]","",person,Second Lieutenant  Burns,"{""first""=>[""""], ""surname""=>[""Burns""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",2969964,Verdun,"[1.68819, 42.79528]"
+3,AWD00032dr,diary,576,2,1918-04-18 00:00:00 UTC,18 Apr 1918,Verquin,"[2.63888, 50.5024]","",casualties,wounded: 1,{},2969964,Verdun,"[1.68819, 42.79528]"
+5,AWD00032dr,diary,576,4,1918-04-19 00:00:00 UTC,19 Apr 1918,Verquin,"[2.63888, 50.5024]","",diaryDate,19 Apr 1918,"{""day""=>[""19""], ""month""=>[""Apr""], ""year""=>[""1918""]}",2969964,Verdun,"[1.68819, 42.79528]"
+6,AWD00032dr,diary,576,5,1918-04-19 00:00:00 UTC,19 Apr 1918,Verquin,"[2.63888, 50.5024]","",activity,support,{},2969964,Verdun,"[1.68819, 42.79528]"
+7,AWD00032dr,diary,576,5,1918-04-21 00:00:00 UTC,21 Apr 1918,Verquin,"[2.63888, 50.5024]","",diaryDate,21 Apr 1918,"{""day""=>[""21""], ""month""=>[""Apr""], ""year""=>[""1918""]}",2969964,Verdun,"[1.68819, 42.79528]"
+8,AWD00032dr,diary,576,2,1918-04-20 00:00:00 UTC,20 Apr 1918,Verquin,"[2.63888, 50.5024]","",diaryDate,20 Apr 1918,"{""day""=>[""20""], ""month""=>[""Apr""], ""year""=>[""1918""]}",2969964,Verdun,"[1.68819, 42.79528]"
+9,AWD00032dr,diary,576,5,1918-04-20 00:00:00 UTC,20 Apr 1918,Verquin,"[2.63888, 50.5024]","",activity,line,{},2969964,Verdun,"[1.68819, 42.79528]"
+11,AWD00032dr,diary,576,5,1918-04-20 00:00:00 UTC,20 Apr 1918,Verquin,"[2.63888, 50.5024]","",unit,1st Black Watch,"{""name""=>[""1st Black Watch""], ""context""=>[""relieved""]}",2969964,Verdun,"[1.68819, 42.79528]"
+12,AWD00032dr,diary,576,5,1918-04-22 00:00:00 UTC,22 Apr 1918,Verquin,"[2.63888, 50.5024]","",diaryDate,22 Apr 1918,"{""day""=>[""22""], ""month""=>[""Apr""], ""year""=>[""1918""]}",2969964,Verdun,"[1.68819, 42.79528]"
+13,AWD00032dr,diary,576,6,1918-04-22 00:00:00 UTC,22 Apr 1918,Verquin,"[2.63888, 50.5024]","",activity,line,{},2969964,Verdun,"[1.68819, 42.79528]"
+14,AWD00032dr,diary,576,5,1918-04-23 00:00:00 UTC,23 Apr 1918,Verquin,"[2.63888, 50.5024]","",diaryDate,23 Apr 1918,"{""day""=>[""23""], ""month""=>[""Apr""], ""year""=>[""1918""]}",2969964,Verdun,"[1.68819, 42.79528]"
+16,AWD00032dr,diary,576,4,1918-04-23 00:00:00 UTC,23 Apr 1918,Verquin,"[2.63888, 50.5024]","",unit,2/5 Kings Regt,"{""name""=>[""2/5 Kings Regt""], ""context""=>[""relieved_by""]}",2969964,Verdun,"[1.68819, 42.79528]"
+17,AWD00032dr,diary,576,4,1918-04-23 00:00:00 UTC,23 Apr 1918,Verquin,"[2.63888, 50.5024]","",activity,movement,{},2969964,Verdun,"[1.68819, 42.79528]"
+19,AWD00032dr,diary,576,5,1918-04-23 00:00:00 UTC,23 Apr 1918,La Bourse,"[0.0, 0.0]","",place,La Bourse,"{""place""=>[""La Bourse""], ""location""=>[""true""], ""name""=>[""Labourse"", ""La Bourse""], ""lat""=>[""50.49883"", ""48.54247""], ""long""=>[""2.68121"", ""1.30319""], ""id""=>[""3010855"", ""3010856""]}",3010856,La Bourse,"[1.30319, 48.54247]"
+20,AWD00032dr,diary,576,6,1918-04-24 00:00:00 UTC,24 Apr 1918,La Bourse,"[0.0, 0.0]","",diaryDate,24 Apr 1918,"{""day""=>[""24""], ""month""=>[""Apr""], ""year""=>[""1918""]}",3010856,La Bourse,"[1.30319, 48.54247]"
+21,AWD00032dr,diary,576,5,1918-04-24 00:00:00 UTC,24 Apr 1918,La Bourse,"[0.0, 0.0]","",domestic,accomodation,{},3010856,La Bourse,"[1.30319, 48.54247]"
+23,AWD00032dr,diary,576,2,1918-04-24 00:00:00 UTC,24 Apr 1918,La Bourse,"[0.0, 0.0]","",activity,resting,{},3010856,La Bourse,"[1.30319, 48.54247]"
+24,AWD00032dr,diary,576,2,1918-04-24 00:00:00 UTC,24 Apr 1918,Noeux Les Mines,"[2.66667, 50.48333]","",place,Noeux Les Mines,"{""place""=>[""Noeux Les Mines""], ""location""=>[""true""], ""name""=>[""Nœux-les-Mines""], ""lat""=>[""50.48333""], ""long""=>[""2.66667""], ""id""=>[""2990287""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+25,AWD00032dr,diary,576,4,1918-04-25 00:00:00 UTC,25 Apr 1918,Noeux Les Mines,"[2.66667, 50.48333]","",diaryDate,25 Apr 1918,"{""day""=>[""25""], ""month""=>[""Apr""], ""year""=>[""1918""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+27,AWD00032dr,diary,576,6,1918-04-25 00:00:00 UTC,25 Apr 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",place,Noeux-les-Mines,"{""place""=>[""Noeux-les-Mines""], ""location""=>[""true""], ""name""=>[""Nœux-les-Mines""], ""lat""=>[""50.48333""], ""long""=>[""2.66667""], ""id""=>[""2990287""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+28,AWD00032dr,diary,576,2,1918-04-25 00:00:00 UTC,25 Apr 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",domestic,accomodation,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+29,AWD00032dr,diary,576,5,1918-04-25 00:00:00 UTC,25 Apr 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",activity,training,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+31,AWD00032dr,diary,576,4,1918-04-30 00:00:00 UTC,30 Apr 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",diaryDate,30 Apr 1918,"{""day""=>[""30""], ""month""=>[""Apr""], ""year""=>[""1918""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+32,AWD00032dr,diary,576,4,1918-04-30 00:00:00 UTC,30 Apr 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",person,Captain J Robertson,"{""first""=>[""J""], ""surname""=>[""Robertson""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+1,AWD00032d8,orders,577,2,,,,[],,date,1 Apr 1918,{},,,
+2,AWD00032fq,other,578,2,,,,[],,person,",Brigadier General ,S H Wilson","{""first""=>["""", ""S H""], ""surname""=>[""Wilson""], ""rank""=>["""", ""Brigadier General""], ""number""=>[""""], ""reason""=>[""commander"", ""other""], ""unit""=>["""", ""II Corps""]}",,,
+3,AWD00032hf,"orders, other",582,2,,,,[],,person,"Lieutenant Colonel E Landy, Sandy","{""first""=>[""E""], ""surname""=>[""Landy"", ""Sandy""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""1st Division"", """"]}",,,
+1,AWD00032er,diary,585,5,1918-05-01 00:00:00 UTC,1 May 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",diaryDate,1 May 1918,"{""day""=>[""1""], ""month""=>[""May""], ""year""=>[""1918""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+4,AWD00032er,diary,585,4,1918-05-01 00:00:00 UTC,1 May 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",place,Noeux-les-Mines,"{""place""=>[""Noeux-les-Mines""], ""location""=>[""true""], ""name""=>[""Nœux-les-Mines""], ""lat""=>[""50.48333""], ""long""=>[""2.66667""], ""id""=>[""2990287""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+5,AWD00032er,diary,585,4,1918-05-01 00:00:00 UTC,1 May 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",activity,training,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+6,AWD00032er,diary,585,2,1918-05-01 00:00:00 UTC,1 May 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",domestic,accomodation,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+7,AWD00032er,diary,585,5,1918-05-02 00:00:00 UTC,2 May 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",diaryDate,2 May 1918,"{""day""=>[""2""], ""month""=>[""May""], ""year""=>[""1918""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+10,AWD00032er,diary,585,3,1918-05-02 00:00:00 UTC,2 May 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",activity,line,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+11,AWD00032er,diary,585,4,1918-05-02 00:00:00 UTC,2 May 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",unit,2nd Royal Sussex Regiment,"{""name""=>[""2nd Royal Sussex Regiment""], ""context""=>[""relieved""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+12,AWD00032er,diary,585,5,1918-05-03 00:00:00 UTC,3 May 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",diaryDate,3 May 1918,"{""day""=>[""3""], ""month""=>[""May""], ""year""=>[""1918""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+13,AWD00032er,diary,585,5,1918-05-03 00:00:00 UTC,3 May 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",activity,line,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+14,AWD00032er,diary,585,2,1918-05-19 00:00:00 UTC,19 May 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",diaryDate,19 May 1918,"{""day""=>[""19""], ""month""=>[""May""], ""year""=>[""1918""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+15,AWD00032er,diary,585,5,1918-05-20 00:00:00 UTC,20 May 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",diaryDate,20 May 1918,"{""day""=>[""20""], ""month""=>[""May""], ""year""=>[""1918""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+17,AWD00032er,diary,585,4,1918-05-20 00:00:00 UTC,20 May 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",unit,2nd Battalion Welsh Regiment,"{""name""=>[""2nd Battalion Welsh Regiment""], ""context""=>[""relieved_by""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+18,AWD00032er,diary,585,3,1918-05-20 00:00:00 UTC,20 May 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",activity,movement,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+19,AWD00032er,diary,585,6,1918-05-20 00:00:00 UTC,20 May 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",place,Noeux-les-Mines,"{""place""=>[""Noeux-les-Mines""], ""location""=>[""true""], ""name""=>[""Nœux-les-Mines""], ""lat""=>[""50.48333""], ""long""=>[""2.66667""], ""id""=>[""2990287""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+20,AWD00032er,diary,585,5,1918-05-21 00:00:00 UTC,21 May 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",diaryDate,21 May 1918,"{""day""=>[""21""], ""month""=>[""May""], ""year""=>[""1918""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+21,AWD00032er,diary,585,4,1918-05-21 00:00:00 UTC,21 May 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",domestic,accomodation,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+23,AWD00032er,diary,585,5,1918-05-21 00:00:00 UTC,21 May 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",activity,training,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+24,AWD00032er,diary,585,2,1918-05-21 00:00:00 UTC,21 May 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",place,Noeux-les-Mines,"{""place""=>[""Noeux-les-Mines""], ""location""=>[""true""], ""name""=>[""Nœux-les-Mines""], ""lat""=>[""50.48333""], ""long""=>[""2.66667""], ""id""=>[""2990287""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+25,AWD00032er,diary,585,5,1918-05-28 00:00:00 UTC,28 May 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",diaryDate,28 May 1918,"{""day""=>[""28""], ""month""=>[""May""], ""year""=>[""1918""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+26,AWD00032er,diary,585,2,1918-05-27 00:00:00 UTC,27 May 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",diaryDate,27 May 1918,"{""day""=>[""27""], ""month""=>[""May""], ""year""=>[""1918""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+27,AWD00032er,diary,585,4,1918-05-27 00:00:00 UTC,27 May 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",unit,1st Northamptonshire Regiment,"{""name""=>[""1st Northamptonshire Regiment""], ""context""=>[""relieved""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+28,AWD00032er,diary,585,4,1918-05-27 00:00:00 UTC,27 May 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",activity,support,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+31,AWD00032er,diary,585,5,1918-05-29 00:00:00 UTC,29 May 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",diaryDate,29 May 1918,"{""day""=>[""29""], ""month""=>[""May""], ""year""=>[""1918""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+32,AWD00032er,diary,585,4,1918-05-29 00:00:00 UTC,29 May 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",activity,support,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+35,AWD00032er,diary,585,4,1918-05-29 00:00:00 UTC,29 May 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",person,Captain H S S Pringle Pattison,"{""first""=>[""H S S""], ""surname""=>[""Pringle Pattison""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""award""], ""unit""=>[""""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+36,AWD00032er,diary,585,5,1918-05-29 00:00:00 UTC,29 May 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",person,Lance Sergeant J Parker,"{""first""=>[""J""], ""surname""=>[""Parker""], ""rank""=>[""Lance Sergeant""], ""number""=>[""7159""], ""reason""=>[""award""], ""unit""=>[""""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+37,AWD00032er,diary,585,5,1918-05-29 00:00:00 UTC,29 May 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",person,Private W Smith,"{""first""=>[""W""], ""surname""=>[""Smith""], ""rank""=>[""Private""], ""number""=>[""9747""], ""reason""=>[""award""], ""unit""=>[""""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+38,AWD00032er,diary,585,5,1918-05-29 00:00:00 UTC,29 May 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",person,Private W Beveridge,"{""first""=>[""W""], ""surname""=>[""Beveridge""], ""rank""=>[""Private""], ""number""=>[""20941""], ""reason""=>[""award""], ""unit""=>[""""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+39,AWD00032er,diary,585,5,1918-05-29 00:00:00 UTC,29 May 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",person,Private D Glen,"{""first""=>[""D""], ""surname""=>[""Glen""], ""rank""=>[""Private""], ""number""=>[""10599""], ""reason""=>[""award""], ""unit""=>[""""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+40,AWD00032er,diary,585,5,1918-05-29 00:00:00 UTC,29 May 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",person,Private L Higgins,"{""first""=>[""L""], ""surname""=>[""Higgins""], ""rank""=>[""Private""], ""number""=>[""40195""], ""reason""=>[""award""], ""unit""=>[""""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+41,AWD00032er,diary,585,5,1918-05-29 00:00:00 UTC,29 May 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",person,Sergeant T Ruthven,"{""first""=>[""T""], ""surname""=>[""Ruthven""], ""rank""=>[""Sergeant""], ""number""=>[""10936""], ""reason""=>[""award""], ""unit""=>[""""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+42,AWD00032er,diary,585,5,1918-05-29 00:00:00 UTC,29 May 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",person,Private A Sime,"{""first""=>[""A""], ""surname""=>[""Sime""], ""rank""=>[""Private""], ""number""=>[""9657""], ""reason""=>[""award""], ""unit""=>[""""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+43,AWD00032er,diary,585,5,1918-05-29 00:00:00 UTC,29 May 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",person,Private T McCormick,"{""first""=>[""T""], ""surname""=>[""McCormick""], ""rank""=>[""Private""], ""number""=>[""18205""], ""reason""=>[""award""], ""unit""=>[""""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+44,AWD00032er,diary,585,5,1918-05-29 00:00:00 UTC,29 May 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",person,Private J Scobie,"{""first""=>[""J""], ""surname""=>[""Scobie""], ""rank""=>[""Private""], ""number""=>[""17128""], ""reason""=>[""award""], ""unit""=>[""""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+45,AWD00032er,diary,585,5,1918-05-29 00:00:00 UTC,29 May 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",person,Private S Graham,"{""first""=>[""S""], ""surname""=>[""Graham""], ""rank""=>[""Private""], ""number""=>[""11218""], ""reason""=>[""award""], ""unit""=>[""""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+46,AWD00032er,diary,585,5,1918-05-29 00:00:00 UTC,29 May 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",person,Private H Lister,"{""first""=>[""H""], ""surname""=>[""Lister""], ""rank""=>[""Private""], ""number""=>[""18686""], ""reason""=>[""award""], ""unit""=>[""""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+47,AWD00032er,diary,585,5,1918-05-29 00:00:00 UTC,29 May 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",person,Private W Morrison,"{""first""=>[""W""], ""surname""=>[""Morrison""], ""rank""=>[""Private""], ""number""=>[""15791""], ""reason""=>[""award""], ""unit""=>[""""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+48,AWD00032er,diary,585,5,1918-05-29 00:00:00 UTC,29 May 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",person,Sergeant W MacIntosh,"{""first""=>[""W""], ""surname""=>[""MacIntosh""], ""rank""=>[""Sergeant""], ""number""=>[""25491""], ""reason""=>[""award""], ""unit""=>[""""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+49,AWD00032er,diary,585,3,1918-05-31 00:00:00 UTC,31 May 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",diaryDate,31 May 1918,"{""day""=>[""31""], ""month""=>[""May""], ""year""=>[""1918""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+50,AWD00032er,diary,585,5,1918-05-31 00:00:00 UTC,31 May 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",person,Captain J Robertson,"{""first""=>[""J""], ""surname""=>[""Robertson""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+3,AWD00032gz,other,586,2,,,,[],,date,22 May 1918,{},,,
+2,AWD00032hj,other,587,2,,,,[],,person,"Captain L W,W Drummond","{""first""=>[""L W"", ""W""], ""surname""=>[""Drummond""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""1st Infantry Brigade"", """"]}",,,
+3,AWD00032hj,other,587,2,,,,[],,date,1 May 1918,{},,,
+4,AWD00032hg,other,588,2,,,,[],,date,4 May 1918,{},,,
+3,AWD00032gm,orders,589,3,,,,[],,orders,other,{},,,
+4,AWD00032gm,orders,589,3,,,,[],,person,Lieutenant Colonel E A Tandy,"{""first""=>[""E A""], ""surname""=>[""Tandy""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+3,AWD00032eo,orders,590,2,,,,[],,orders,attack,{},,,
+5,AWD00032eo,orders,590,3,,,,[],,date,7 May 1918,{},,,
+5,AWD00032eu,orders,591,2,,,,[],,person,Lieutenant  Holland,"{""first""=>[""""], ""surname""=>[""Holland""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+6,AWD00032eu,orders,591,2,,,,[],,person,Major  Saffery,"{""first""=>[""""], ""surname""=>[""Saffery""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+8,AWD00032eu,orders,591,2,,,,[],,person,"Lieutenant Colonel E A,E H Tandy","{""first""=>[""E A"", ""E H""], ""surname""=>[""Tandy""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""other"", ""author""], ""unit""=>[""1st Division"", """"]}",,,
+2,AWD00032dp,other,592,2,,,,[],,date,9 May 1918,{},,,
+2,AWD00032g0,orders,593,2,,,,[],,orders,other,{},,,
+5,AWD00032g0,orders,593,3,,,,[],,person,Lieutenant Colonel  Furnie,"{""first""=>[""""], ""surname""=>[""Furnie""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+6,AWD00032g0,orders,593,3,,,,[],,person,Major  Winters,"{""first""=>[""""], ""surname""=>[""Winters""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+7,AWD00032g0,orders,593,3,,,,[],,person,Major  Rossi-Ashton,"{""first""=>[""""], ""surname""=>[""Rossi-Ashton""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""B Coy"", ""B Coy., 7th Battalion Tank Corps"", """"]}",,,
+9,AWD00032g0,orders,593,3,,,,[],,date,9 May 1918,{},,,
+5,AWD00032en,"other, report",596,2,,,,[],,person,"Lieutenant Colonel  Cley, CLAY","{""first""=>[""""], ""surname""=>[""Cley"", ""CLAY""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""other"", ""author""], ""unit""=>[""""]}",,,
+6,AWD00032en,"other, report",596,2,,,,[],,date,11 May 1918,{},,,
+2,AWD00032db,other,597,2,,,,[],,orders,other,{},,,
+3,AWD00032db,other,597,2,,,,[],,date,15 May 1918,{},,,
+3,AWD00032f1,other,598,2,,,,[],,orders,other,{},,,
+2,AWD00032d3,orders,599,2,,,,[],,date,19 May 1918,{},,,
+5,AWD00032d3,orders,599,2,,,,[],,person,"Lieutenant,Lieutenant Colonel ,E A Tandy","{""first""=>["""", ""E A""], ""surname""=>[""Tandy""], ""rank""=>[""Lieutenant"", ""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>["""", ""1st Division""]}",,,
+6,AWD00032d3,orders,599,2,,,,[],,date,20 May 1918,{},,,
+6,AWD00032d2,report,600,2,,,,[],,person,Captain L Hapgood,"{""first""=>[""L""], ""surname""=>[""Hapgood""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""General Staff, First Army"", """"]}",,,
+7,AWD00032d2,report,600,2,,,,[],,date,19 May 1918,{},,,
+6,AWD00032d6,orders,601,2,,,,[],,person,Lieutenant Colonel E N Tandy,"{""first""=>[""E N""], ""surname""=>[""Tandy""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>["""", ""General Staff, 1st Division""]}",,,
+7,AWD00032d6,orders,601,2,,,,[],,date,4 May 1918,{},,,
+9,AWD00032d6,orders,601,3,,,,[],,date,21 May 1918,{},,,
+2,AWD00032d4,signals,602,3,,,,[],,date,23 May 1918,{},,,
+5,AWD00032d4,signals,602,2,,,,[],,time,0410PM,{},,,
+7,AWD00032d4,signals,602,3,,,,[],,person,Captain J Robertson,"{""first""=>[""J""], ""surname""=>[""Robertson""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+2,AWD00032eq,orders,605,2,,,,[],,person,"Captain L W,W Drummond","{""first""=>[""L W"", ""W""], ""surname""=>[""Drummond""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""1st Infantry Brigade"", """"]}",,,
+4,AWD00032eq,orders,605,2,,,,[],,date,25 May 1918,{},,,
+1,AWD00032em,orders,606,2,,,,[],,orders,other,{},,,
+3,AWD00032em,orders,606,2,,,,[],,person,"Captain W,L W Drummond","{""first""=>[""W"", ""L W""], ""surname""=>[""Drummond""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>["""", ""1st Infantry Brigade""]}",,,
+4,AWD00032em,orders,606,3,,,,[],,date,29 May 1918,{},,,
+3,AWD00032d5,signals,607,3,,,,[],,date,30 May 1918,{},,,
+4,AWD00032d5,signals,607,2,,,,[],,signals,other,{},,,
+7,AWD00032d5,signals,607,2,,,,[],,unit,"B Coy, C Coy","{""name""=>[""B Coy"", ""C Coy""], ""context""=>[""other""]}",,,
+10,AWD00032d5,signals,607,2,,,,[],,unit,"A Coy, D Coy","{""name""=>[""A Coy"", ""D Coy""], ""context""=>[""other""]}",,,
+12,AWD00032d5,signals,607,2,,,,[],,time,0955PM,{},,,
+13,AWD00032d5,signals,607,3,,,,[],,person,Captain J Robertson,"{""first""=>[""J""], ""surname""=>[""Robertson""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+2,AWD00032gb,orders,608,3,,,,[],,date,30 May 1918,{},,,
+6,AWD00032gb,orders,608,3,,,,[],,person,Lieutenant Colonel  Tandy,"{""first""=>[""""], ""surname""=>[""Tandy""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+8,AWD00032gb,orders,608,2,,,,[],,date,30 May 1918,{},,,
+1,AWD00032ea,diary,613,5,1918-06-01 00:00:00 UTC,1 Jun 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",diaryDate,1 Jun 1918,"{""day""=>[""1""], ""month""=>[""Jun""], ""year""=>[""1918""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+3,AWD00032ea,diary,613,3,1918-06-01 00:00:00 UTC,1 Jun 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",unit,1st Loyal North Lancs,"{""name""=>[""1st Loyal North Lancs""], ""context""=>[""relieved""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+5,AWD00032ea,diary,613,5,1918-06-01 00:00:00 UTC,1 Jun 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",activity,line,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+6,AWD00032ea,diary,613,4,1918-06-02 00:00:00 UTC,2 Jun 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",diaryDate,2 Jun 1918,"{""day""=>[""2""], ""month""=>[""Jun""], ""year""=>[""1918""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+7,AWD00032ea,diary,613,6,1918-06-02 00:00:00 UTC,2 Jun 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",activity,line,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+8,AWD00032ea,diary,613,3,1918-06-08 00:00:00 UTC,8 Jun 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",diaryDate,8 Jun 1918,"{""day""=>[""8""], ""month""=>[""Jun""], ""year""=>[""1918""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+9,AWD00032ea,diary,613,4,1918-06-09 00:00:00 UTC,9 Jun 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",diaryDate,9 Jun 1918,"{""day""=>[""9""], ""month""=>[""Jun""], ""year""=>[""1918""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+11,AWD00032ea,diary,613,3,1918-06-09 00:00:00 UTC,9 Jun 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",unit,"1st Battn The Black Watch, 1st Battn the Black Watch, 1st Battn. The Black Watch","{""name""=>[""1st Battn The Black Watch"", ""1st Battn the Black Watch"", ""1st Battn. The Black Watch""], ""context""=>[""relieved_by""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+14,AWD00032ea,diary,613,4,1918-06-10 00:00:00 UTC,10 Jun 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",diaryDate,10 Jun 1918,"{""day""=>[""10""], ""month""=>[""Jun""], ""year""=>[""1918""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+15,AWD00032ea,diary,613,3,1918-06-12 00:00:00 UTC,12 Jun 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",diaryDate,12 Jun 1918,"{""day""=>[""12""], ""month""=>[""Jun""], ""year""=>[""1918""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+16,AWD00032ea,diary,613,8,1918-06-12 00:00:00 UTC,12 Jun 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",activity,support,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+17,AWD00032ea,diary,613,4,1918-06-13 00:00:00 UTC,13 Jun 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",diaryDate,13 Jun 1918,"{""day""=>[""13""], ""month""=>[""Jun""], ""year""=>[""1918""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+18,AWD00032ea,diary,613,2,1918-06-13 00:00:00 UTC,13 Jun 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",unit,"1st Battn The Gloucester Regt, 1st Battn. Gloucester Regt.","{""name""=>[""1st Battn The Gloucester Regt"", ""1st Battn. Gloucester Regt.""], ""context""=>[""relieved_by""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+22,AWD00032ea,diary,613,4,1918-06-14 00:00:00 UTC,14 Jun 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",diaryDate,14 Jun 1918,"{""day""=>[""14""], ""month""=>[""Jun""], ""year""=>[""1918""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+23,AWD00032ea,diary,613,2,1918-06-14 00:00:00 UTC,14 Jun 1918,"Noeux Les Mines, NOEUX LES MINES","[2.66667, 50.48333]","",place,"Noeux Les Mines, NOEUX LES MINES","{""place""=>[""Noeux Les Mines"", ""NOEUX LES MINES""], ""location""=>[""true""], ""name""=>[""Nœux-les-Mines""], ""lat""=>[""50.48333""], ""long""=>[""2.66667""], ""id""=>[""2990287""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+24,AWD00032ea,diary,613,4,1918-06-14 00:00:00 UTC,14 Jun 1918,"Noeux Les Mines, NOEUX LES MINES","[2.66667, 50.48333]","",domestic,accomodation,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+25,AWD00032ea,diary,613,5,1918-06-14 00:00:00 UTC,14 Jun 1918,"Noeux Les Mines, NOEUX LES MINES","[2.66667, 50.48333]","",activity,training,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+26,AWD00032ea,diary,613,3,1918-06-14 00:00:00 UTC,14 Jun 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",place,Noeux-les-Mines,"{""place""=>[""Noeux-les-Mines""], ""location""=>[""true""], ""name""=>[""Nœux-les-Mines""], ""lat""=>[""50.48333""], ""long""=>[""2.66667""], ""id""=>[""2990287""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+27,AWD00032ea,diary,613,3,1918-06-20 00:00:00 UTC,20 Jun 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",diaryDate,20 Jun 1918,"{""day""=>[""20""], ""month""=>[""Jun""], ""year""=>[""1918""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+28,AWD00032ea,diary,613,4,1918-06-21 00:00:00 UTC,21 Jun 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",diaryDate,21 Jun 1918,"{""day""=>[""21""], ""month""=>[""Jun""], ""year""=>[""1918""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+30,AWD00032ea,diary,613,4,1918-06-21 00:00:00 UTC,21 Jun 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",unit,"2ND BN KRRC, 2nd Battn K.R.R.C, 2nd Bttn K.R.R.C., 2nd Bn. K. R. R. C.","{""name""=>[""2ND BN KRRC"", ""2nd Battn K.R.R.C"", ""2nd Bttn K.R.R.C."", ""2nd Bn. K. R. R. C.""], ""context""=>[""relieved""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+31,AWD00032ea,diary,613,3,1918-06-21 00:00:00 UTC,21 Jun 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",activity,line,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+32,AWD00032ea,diary,613,4,1918-06-21 00:00:00 UTC,21 Jun 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",activity,movement,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+33,AWD00032ea,diary,613,4,1918-06-22 00:00:00 UTC,22 Jun 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",diaryDate,22 Jun 1918,"{""day""=>[""22""], ""month""=>[""Jun""], ""year""=>[""1918""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+34,AWD00032ea,diary,613,6,1918-06-22 00:00:00 UTC,22 Jun 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",activity,line,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+35,AWD00032ea,diary,613,2,1918-06-24 00:00:00 UTC,24 Jun 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",diaryDate,24 Jun 1918,"{""day""=>[""24""], ""month""=>[""Jun""], ""year""=>[""1918""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+36,AWD00032ea,diary,613,4,1918-06-25 00:00:00 UTC,25 Jun 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",diaryDate,25 Jun 1918,"{""day""=>[""25""], ""month""=>[""Jun""], ""year""=>[""1918""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+38,AWD00032ea,diary,613,2,1918-06-25 00:00:00 UTC,25 Jun 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",activity,line,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+41,AWD00032ea,diary,613,2,1918-06-25 00:00:00 UTC,25 Jun 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",unit,"1st Battn Loyal N. Lancs, 1st Battn. Loyal N. Lancs.","{""name""=>[""1st Battn Loyal N. Lancs"", ""1st Battn. Loyal N. Lancs.""], ""context""=>[""relieved_by""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+42,AWD00032ea,diary,613,4,1918-06-26 00:00:00 UTC,26 Jun 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",diaryDate,26 Jun 1918,"{""day""=>[""26""], ""month""=>[""Jun""], ""year""=>[""1918""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+43,AWD00032ea,diary,613,6,1918-06-26 00:00:00 UTC,26 Jun 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",activity,support,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+44,AWD00032ea,diary,613,3,1918-06-30 00:00:00 UTC,30 Jun 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",diaryDate,30 Jun 1918,"{""day""=>[""30""], ""month""=>[""Jun""], ""year""=>[""1918""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+45,AWD00032ea,diary,613,5,1918-06-30 00:00:00 UTC,30 Jun 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",person,Captain J Robertson,"{""first""=>[""J""], ""surname""=>[""Robertson""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+5,AWD00032e0,"other, orders",614,3,,,,[],,date,1 Jun 1918,{},,,
+4,AWD00032eb,"other, orders",616,2,,,,[],,person,Major M G W Stopford,"{""first""=>[""M G W""], ""surname""=>[""Stopford""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>["""", ""General Staff, 1st Division""]}",,,
+5,AWD00032eb,"other, orders",616,4,,,,[],,date,1 Jun 1918,{},,,
+5,AWD00032dz,"other, orders",619,3,,,,[],,date,5 Jun 1918,{},,,
+1,AWD00032dh,other,620,2,,,,[],,orders,routine,{},,,
+3,AWD00032dh,other,620,2,,,,[],,date,6 Jun 1918,{},,,
+1,AWD00032ev,orders,621,3,,,,[],,orders,attack,{},,,
+2,AWD00032hk,orders,622,2,,,,[],,orders,attack,{},,,
+7,AWD00032hk,orders,622,3,,,,[],,orders,attack,{},,,
+1,AWD00032hu,orders,623,3,,,,[],,orders,attack,{},,,
+1,AWD00032ez,orders,624,2,,,,[],,orders,attack,{},,,
+4,AWD00032ez,orders,624,2,,,,[],,person,"Captain, N Waugh","{""first""=>[""N""], ""surname""=>[""Waugh""], ""rank""=>[""Captain"", """"], ""number""=>[""""], ""reason""=>[""author"", ""other""], ""unit""=>[""""]}",,,
+7,AWD00032ez,orders,624,3,,,,[],,date,8 Jun 1918,{},,,
+2,AWD00032hr,orders,625,2,,,,[],,date,8 Jun 1918,{},,,
+1,AWD00032ho,orders,626,2,,,,[],,orders,other,{},,,
+4,AWD00032ho,orders,626,2,,,,[],,person,"Captain L W,W Drummond","{""first""=>[""L W"", ""W""], ""surname""=>[""Drummond""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""1st Infantry Brigade"", """"]}",,,
+5,AWD00032ho,orders,626,2,,,,[],,date,19 Jun 1918,{},,,
+6,AWD00032es,orders,628,3,,,,[],,date,20 Jun 1918,{},,,
+5,AWD00032dn,other,629,2,,,,[],,date,16 Jun 1918,{},,,
+1,AWD00032dq,orders,631,2,,,,[],,orders,move,{},,,
+5,AWD00032dq,orders,631,4,,,,[],,date,27 Jun 1918,{},,,
+4,AWD00032di,orders,633,2,,,,[],,orders,move,{},,,
+5,AWD00032di,orders,633,2,,,,[],,date,4 Aug 1918,{},,,
+8,AWD00032fr,orders,634,3,,,,[],,date,3 Aug 1918,{},,,
+1,AWD00032h8,diary,636,4,1918-08-01 00:00:00 UTC,1 Aug 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",diaryDate,1 Aug 1918,"{""day""=>[""1""], ""month""=>[""Aug""], ""year""=>[""1918""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+2,AWD00032h8,diary,636,2,1918-08-01 00:00:00 UTC,1 Aug 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",activity,support,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+4,AWD00032h8,diary,636,3,1918-08-01 00:00:00 UTC,1 Aug 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",activity,support,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+6,AWD00032h8,diary,636,3,1918-08-04 00:00:00 UTC,4 Aug 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",diaryDate,4 Aug 1918,"{""day""=>[""4""], ""month""=>[""Aug""], ""year""=>[""1918""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+7,AWD00032h8,diary,636,5,1918-08-05 00:00:00 UTC,5 Aug 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",diaryDate,5 Aug 1918,"{""day""=>[""5""], ""month""=>[""Aug""], ""year""=>[""1918""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+8,AWD00032h8,diary,636,5,1918-08-05 00:00:00 UTC,5 Aug 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",unit,1st Black Watch,"{""name""=>[""1st Black Watch""], ""context""=>[""relieved""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+10,AWD00032h8,diary,636,9,1918-08-05 00:00:00 UTC,5 Aug 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",activity,line,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+11,AWD00032h8,diary,636,4,1918-08-06 00:00:00 UTC,6 Aug 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",diaryDate,6 Aug 1918,"{""day""=>[""6""], ""month""=>[""Aug""], ""year""=>[""1918""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+13,AWD00032h8,diary,636,2,1918-08-07 00:00:00 UTC,7 Aug 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",diaryDate,7 Aug 1918,"{""day""=>[""7""], ""month""=>[""Aug""], ""year""=>[""1918""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+14,AWD00032h8,diary,636,5,1918-08-08 00:00:00 UTC,8 Aug 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",diaryDate,8 Aug 1918,"{""day""=>[""8""], ""month""=>[""Aug""], ""year""=>[""1918""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+17,AWD00032h8,diary,636,2,1918-08-08 00:00:00 UTC,8 Aug 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",activity,attack,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+18,AWD00032h8,diary,636,2,1918-08-08 00:00:00 UTC,8 Aug 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",activity,raid,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+20,AWD00032h8,diary,636,5,1918-08-08 00:00:00 UTC,8 Aug 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",person,Second Lieutenant H K McIntosh,"{""first""=>[""H K""], ""surname""=>[""McIntosh""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""commander"", ""combat""], ""unit""=>[""""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+22,AWD00032h8,diary,636,9,1918-08-08 00:00:00 UTC,8 Aug 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",person,Second Lieutenant  Lee,"{""first""=>[""""], ""surname""=>[""Lee""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+23,AWD00032h8,diary,636,2,1918-08-08 00:00:00 UTC,8 Aug 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",casualties,wounded: 1,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+24,AWD00032h8,diary,636,3,1918-08-08 00:00:00 UTC,8 Aug 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",diaryDate,8 Aug 1918,"{""day""=>[""8""], ""month""=>[""Aug""], ""year""=>[""1918""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+25,AWD00032h8,diary,636,3,1918-08-09 00:00:00 UTC,9 Aug 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",diaryDate,9 Aug 1918,"{""day""=>[""9""], ""month""=>[""Aug""], ""year""=>[""1918""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+26,AWD00032h8,diary,636,7,1918-08-09 00:00:00 UTC,9 Aug 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",activity,line,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+27,AWD00032h8,diary,636,5,1918-08-10 00:00:00 UTC,10 Aug 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",diaryDate,10 Aug 1918,"{""day""=>[""10""], ""month""=>[""Aug""], ""year""=>[""1918""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+30,AWD00032h8,diary,636,3,1918-08-10 00:00:00 UTC,10 Aug 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",unit,"2nd Battn Welsh Regt, 2ND BN WELSH REGT, 2nd Bn. Welsh Regt.","{""name""=>[""2nd Battn Welsh Regt"", ""2ND BN WELSH REGT"", ""2nd Bn. Welsh Regt.""], ""context""=>[""relieved_by""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+31,AWD00032h8,diary,636,5,1918-08-11 00:00:00 UTC,11 Aug 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",diaryDate,11 Aug 1918,"{""day""=>[""11""], ""month""=>[""Aug""], ""year""=>[""1918""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+33,AWD00032h8,diary,636,2,1918-08-11 00:00:00 UTC,11 Aug 1918,Noeux Les Mines,"[2.66667, 50.48333]","",place,Noeux Les Mines,"{""place""=>[""Noeux Les Mines""], ""location""=>[""true""], ""name""=>[""Nœux-les-Mines""], ""lat""=>[""50.48333""], ""long""=>[""2.66667""], ""id""=>[""2990287""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+34,AWD00032h8,diary,636,2,1918-08-13 00:00:00 UTC,13 Aug 1918,Noeux Les Mines,"[2.66667, 50.48333]","",diaryDate,13 Aug 1918,"{""day""=>[""13""], ""month""=>[""Aug""], ""year""=>[""1918""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+35,AWD00032h8,diary,636,4,1918-08-13 00:00:00 UTC,13 Aug 1918,Noeux Les Mines,"[2.66667, 50.48333]","",activity,other,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+36,AWD00032h8,diary,636,7,1918-08-13 00:00:00 UTC,13 Aug 1918,"Noeux-les-Mines, Noeux Les Mines, Noeux les Mines","[2.66667, 50.48333]","",place,"Noeux-les-Mines, Noeux Les Mines, Noeux les Mines","{""place""=>[""Noeux-les-Mines"", ""Noeux Les Mines"", ""Noeux les Mines""], ""location""=>[""true""], ""name""=>[""Nœux-les-Mines""], ""lat""=>[""50.48333""], ""long""=>[""2.66667""], ""id""=>[""2990287""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+37,AWD00032h8,diary,636,2,1918-08-14 00:00:00 UTC,14 Aug 1918,"Noeux-les-Mines, Noeux Les Mines, Noeux les Mines","[2.66667, 50.48333]","",diaryDate,14 Aug 1918,"{""day""=>[""14""], ""month""=>[""Aug""], ""year""=>[""1918""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+38,AWD00032h8,diary,636,5,1918-08-14 00:00:00 UTC,14 Aug 1918,"Noeux-les-Mines, Noeux Les Mines, Noeux les Mines","[2.66667, 50.48333]","",domestic,accomodation,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+39,AWD00032h8,diary,636,3,1918-08-14 00:00:00 UTC,14 Aug 1918,"Noeux-les-Mines, Noeux Les Mines, Noeux les Mines","[2.66667, 50.48333]","",diaryDate,14 Aug 1918,"{""day""=>[""14""], ""month""=>[""Aug""], ""year""=>[""1918""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+40,AWD00032h8,diary,636,2,1918-08-19 00:00:00 UTC,19 Aug 1918,"Noeux-les-Mines, Noeux Les Mines, Noeux les Mines","[2.66667, 50.48333]","",diaryDate,19 Aug 1918,"{""day""=>[""19""], ""month""=>[""Aug""], ""year""=>[""1918""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+41,AWD00032h8,diary,636,2,1918-08-18 00:00:00 UTC,18 Aug 1918,"Noeux-les-Mines, Noeux Les Mines, Noeux les Mines","[2.66667, 50.48333]","",diaryDate,18 Aug 1918,"{""day""=>[""18""], ""month""=>[""Aug""], ""year""=>[""1918""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+42,AWD00032h8,diary,636,3,1918-08-19 00:00:00 UTC,19 Aug 1918,"Noeux-les-Mines, Noeux Les Mines, Noeux les Mines","[2.66667, 50.48333]","",diaryDate,19 Aug 1918,"{""day""=>[""19""], ""month""=>[""Aug""], ""year""=>[""1918""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+43,AWD00032h8,diary,636,5,1918-08-19 00:00:00 UTC,19 Aug 1918,"Noeux-les-Mines, Noeux Les Mines, Noeux les Mines","[2.66667, 50.48333]","",activity,movement,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+44,AWD00032h8,diary,636,2,1918-08-19 00:00:00 UTC,19 Aug 1918,"Noeux-les-Mines, Noeux Les Mines, Noeux les Mines","[2.66667, 50.48333]","",domestic,accomodation,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+45,AWD00032h8,diary,636,6,1918-08-19 00:00:00 UTC,19 Aug 1918,Fiefs,"[2.3226, 50.50359]","",place,Fiefs,"{""place""=>[""Fiefs""], ""location""=>[""true""], ""name""=>[""Fiefs""], ""lat""=>[""50.50359""], ""long""=>[""2.3226""], ""id""=>[""3018528""]}",3018528,Fiefs,"[2.3226, 50.50359]"
+46,AWD00032h8,diary,636,5,1918-08-20 00:00:00 UTC,20 Aug 1918,Fiefs,"[2.3226, 50.50359]","",diaryDate,20 Aug 1918,"{""day""=>[""20""], ""month""=>[""Aug""], ""year""=>[""1918""]}",3018528,Fiefs,"[2.3226, 50.50359]"
+47,AWD00032h8,diary,636,2,1918-08-20 00:00:00 UTC,20 Aug 1918,Fiefs,"[2.3226, 50.50359]","",activity,other,{},3018528,Fiefs,"[2.3226, 50.50359]"
+48,AWD00032h8,diary,636,2,1918-08-20 00:00:00 UTC,20 Aug 1918,Fiefs,"[2.3226, 50.50359]","",domestic,accomodation,{},3018528,Fiefs,"[2.3226, 50.50359]"
+49,AWD00032h8,diary,636,3,1918-08-20 00:00:00 UTC,20 Aug 1918,Fiefs,"[2.3226, 50.50359]","",place,Fiefs,"{""place""=>[""Fiefs""], ""location""=>[""true""], ""name""=>[""Fiefs""], ""lat""=>[""50.50359""], ""long""=>[""2.3226""], ""id""=>[""3018528""]}",3018528,Fiefs,"[2.3226, 50.50359]"
+50,AWD00032h8,diary,636,6,1918-08-20 00:00:00 UTC,20 Aug 1918,Fiefs,"[2.3226, 50.50359]","",activity,training,{},3018528,Fiefs,"[2.3226, 50.50359]"
+51,AWD00032h8,diary,636,3,1918-08-30 00:00:00 UTC,30 Aug 1918,Fiefs,"[2.3226, 50.50359]","",diaryDate,30 Aug 1918,"{""day""=>[""30""], ""month""=>[""Aug""], ""year""=>[""1918""]}",3018528,Fiefs,"[2.3226, 50.50359]"
+52,AWD00032h8,diary,636,5,1918-08-31 00:00:00 UTC,31 Aug 1918,Fiefs,"[2.3226, 50.50359]","",diaryDate,31 Aug 1918,"{""day""=>[""31""], ""month""=>[""Aug""], ""year""=>[""1918""]}",3018528,Fiefs,"[2.3226, 50.50359]"
+54,AWD00032h8,diary,636,5,1918-08-31 00:00:00 UTC,31 Aug 1918,Fiefs,"[2.3226, 50.50359]","",activity,movement,{},3018528,Fiefs,"[2.3226, 50.50359]"
+55,AWD00032h8,diary,636,4,1918-08-31 00:00:00 UTC,31 Aug 1918,Arras,"[2.78186, 50.29301]","",place,Arras,"{""place""=>[""Arras""], ""location""=>[""true""], ""name""=>[""Arras""], ""lat""=>[""50.29301""], ""long""=>[""2.78186""], ""id""=>[""3036784""]}",2967451,Warlus,"[2.66872, 50.27482]"
+5,AWD00032fd,orders,637,3,,,,[],,orders,attack,{},,,
+7,AWD00032fd,orders,637,4,,,,[],,date,1 Aug 1918,{},,,
+3,AWD00032eh,signals,638,2,,,,[],,date,1 Aug 1918,{},,,
+6,AWD00032fc,orders,639,3,,,,[],,date,2 Aug 1918,{},,,
+1,AWD00032f6,diary,640,5,1918-07-01 00:00:00 UTC,1 Jul 1918,Arras,"[2.78186, 50.29301]","",diaryDate,1 Jul 1918,"{""day""=>[""1""], ""month""=>[""Jul""], ""year""=>[""1918""]}",2967451,Warlus,"[2.66872, 50.27482]"
+2,AWD00032f6,diary,640,5,1918-07-01 00:00:00 UTC,1 Jul 1918,Arras,"[2.78186, 50.29301]","",activity,support,{},2967451,Warlus,"[2.66872, 50.27482]"
+5,AWD00032f6,diary,640,2,1918-07-02 00:00:00 UTC,2 Jul 1918,Arras,"[2.78186, 50.29301]","",diaryDate,2 Jul 1918,"{""day""=>[""2""], ""month""=>[""Jul""], ""year""=>[""1918""]}",2967451,Warlus,"[2.66872, 50.27482]"
+6,AWD00032f6,diary,640,3,1918-07-03 00:00:00 UTC,3 Jul 1918,Arras,"[2.78186, 50.29301]","",diaryDate,3 Jul 1918,"{""day""=>[""3""], ""month""=>[""Jul""], ""year""=>[""1918""]}",2967451,Warlus,"[2.66872, 50.27482]"
+9,AWD00032f6,diary,640,2,1918-07-03 00:00:00 UTC,3 Jul 1918,Arras,"[2.78186, 50.29301]","",unit,"1st Battn. Loyal North Lancashire Regiment, 1st Battn Loyal North Lancashire Regiment","{""name""=>[""1st Battn. Loyal North Lancashire Regiment"", ""1st Battn Loyal North Lancashire Regiment""], ""context""=>[""relieved""]}",2967451,Warlus,"[2.66872, 50.27482]"
+11,AWD00032f6,diary,640,5,1918-07-03 00:00:00 UTC,3 Jul 1918,Arras,"[2.78186, 50.29301]","",activity,line,{},2967451,Warlus,"[2.66872, 50.27482]"
+13,AWD00032f6,diary,640,5,1918-07-04 00:00:00 UTC,4 Jul 1918,Arras,"[2.78186, 50.29301]","",diaryDate,4 Jul 1918,"{""day""=>[""4""], ""month""=>[""Jul""], ""year""=>[""1918""]}",2967451,Warlus,"[2.66872, 50.27482]"
+14,AWD00032f6,diary,640,5,1918-07-04 00:00:00 UTC,4 Jul 1918,Arras,"[2.78186, 50.29301]","",activity,line,{},2967451,Warlus,"[2.66872, 50.27482]"
+15,AWD00032f6,diary,640,3,1918-07-10 00:00:00 UTC,10 Jul 1918,Arras,"[2.78186, 50.29301]","",diaryDate,10 Jul 1918,"{""day""=>[""10""], ""month""=>[""Jul""], ""year""=>[""1918""]}",2967451,Warlus,"[2.66872, 50.27482]"
+16,AWD00032f6,diary,640,5,1918-07-11 00:00:00 UTC,11 Jul 1918,Arras,"[2.78186, 50.29301]","",diaryDate,11 Jul 1918,"{""day""=>[""11""], ""month""=>[""Jul""], ""year""=>[""1918""]}",2967451,Warlus,"[2.66872, 50.27482]"
+19,AWD00032f6,diary,640,2,1918-07-11 00:00:00 UTC,11 Jul 1918,Arras,"[2.78186, 50.29301]","",activity,line,{},2967451,Warlus,"[2.66872, 50.27482]"
+20,AWD00032f6,diary,640,3,1918-07-11 00:00:00 UTC,11 Jul 1918,Arras,"[2.78186, 50.29301]","",unit,"1st Battn South Wales Borderers, 1st Battn. South Wales Borderers, 1st Battn South Wakes Borderers","{""name""=>[""1st Battn South Wales Borderers"", ""1st Battn. South Wales Borderers"", ""1st Battn South Wakes Borderers""], ""context""=>[""relieved_by""]}",2967451,Warlus,"[2.66872, 50.27482]"
+22,AWD00032f6,diary,640,5,1918-07-11 00:00:00 UTC,11 Jul 1918,Arras,"[2.78186, 50.29301]","",activity,movement,{},2967451,Warlus,"[2.66872, 50.27482]"
+23,AWD00032f6,diary,640,4,1918-07-11 00:00:00 UTC,11 Jul 1918,Arras,"[2.78186, 50.29301]","",domestic,accomodation,{},2967451,Warlus,"[2.66872, 50.27482]"
+24,AWD00032f6,diary,640,4,1918-07-12 00:00:00 UTC,12 Jul 1918,Arras,"[2.78186, 50.29301]","",diaryDate,12 Jul 1918,"{""day""=>[""12""], ""month""=>[""Jul""], ""year""=>[""1918""]}",2967451,Warlus,"[2.66872, 50.27482]"
+25,AWD00032f6,diary,640,8,1918-07-12 00:00:00 UTC,12 Jul 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",place,Noeux-les-Mines,"{""place""=>[""Noeux-les-Mines""], ""location""=>[""true""], ""name""=>[""Nœux-les-Mines""], ""lat""=>[""50.48333""], ""long""=>[""2.66667""], ""id""=>[""2990287""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+26,AWD00032f6,diary,640,5,1918-07-12 00:00:00 UTC,12 Jul 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",activity,training,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+28,AWD00032f6,diary,640,3,1918-07-20 00:00:00 UTC,20 Jul 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",diaryDate,20 Jul 1918,"{""day""=>[""20""], ""month""=>[""Jul""], ""year""=>[""1918""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+30,AWD00032f6,diary,640,5,1918-07-21 00:00:00 UTC,21 Jul 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",diaryDate,21 Jul 1918,"{""day""=>[""21""], ""month""=>[""Jul""], ""year""=>[""1918""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+34,AWD00032f6,diary,640,2,1918-07-21 00:00:00 UTC,21 Jul 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",unit,"2nd Battn Royal Sussex Regiment, 2nd Battn. Royal Sussex Regiment","{""name""=>[""2nd Battn Royal Sussex Regiment"", ""2nd Battn. Royal Sussex Regiment""], ""context""=>[""relieved""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+35,AWD00032f6,diary,640,5,1918-07-21 00:00:00 UTC,21 Jul 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",activity,line,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+36,AWD00032f6,diary,640,5,1918-07-22 00:00:00 UTC,22 Jul 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",diaryDate,22 Jul 1918,"{""day""=>[""22""], ""month""=>[""Jul""], ""year""=>[""1918""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+37,AWD00032f6,diary,640,4,1918-07-22 00:00:00 UTC,22 Jul 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",activity,line,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+38,AWD00032f6,diary,640,3,1918-07-30 00:00:00 UTC,30 Jul 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",diaryDate,30 Jul 1918,"{""day""=>[""30""], ""month""=>[""Jul""], ""year""=>[""1918""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+39,AWD00032f6,diary,640,2,1918-07-31 00:00:00 UTC,31 Jul 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",diaryDate,31 Jul 1918,"{""day""=>[""31""], ""month""=>[""Jul""], ""year""=>[""1918""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+40,AWD00032f6,diary,640,2,1918-07-31 00:00:00 UTC,31 Jul 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",activity,line,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+41,AWD00032f6,diary,640,3,1918-07-31 00:00:00 UTC,31 Jul 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",diaryDate,31 Jul 1918,"{""day""=>[""31""], ""month""=>[""Jul""], ""year""=>[""1918""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+43,AWD00032f6,diary,640,4,1918-07-31 00:00:00 UTC,31 Jul 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",unit,1st Battn Black Watch,"{""name""=>[""1st Battn Black Watch""], ""context""=>[""relieved_by""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+48,AWD00032f6,diary,640,4,1918-07-31 00:00:00 UTC,31 Jul 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",activity,support,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+49,AWD00032f6,diary,640,5,1918-07-31 00:00:00 UTC,31 Jul 1918,Noeux-les-Mines,"[2.66667, 50.48333]","",person,Captain J Robertson,"{""first""=>[""J""], ""surname""=>[""Robertson""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+5,AWD00032fj,orders,641,2,,,,[],,date,2 Jul 1918,{},,,
+3,AWD00032d7,orders,642,4,,,,[],,orders,attack,{},,,
+4,AWD00032d7,orders,642,3,,,,[],,date,5 Jul 1918,{},,,
+5,AWD00032fu,orders,643,4,,,,[],,orders,attack,{},,,
+3,AWD00032dg,orders,644,2,,,,[],,orders,attack,{},,,
+5,AWD00032dg,orders,644,3,,,,[],,date,5 Jul 1918,{},,,
+5,AWD00032eg,orders,645,2,,,,[],,orders,attack,{},,,
+1,AWD00032fh,orders,646,3,,,,[],,orders,attack,{},,,
+1,AWD00032f4,orders,647,3,,,,[],,orders,attack,{},,,
+5,AWD00032ef,orders,648,2,,,,[],,orders,attack,{},,,
+2,AWD00032cr,orders,649,3,,,,[],,orders,attack,{},,,
+4,AWD00032cr,orders,649,3,,,,[],,person,Lieutenant Colonel J Anderson,"{""first""=>[""J""], ""surname""=>[""Anderson""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""1st Battalion The Black Watch"", """", ""1ST BLACK WATCH""]}",,,
+5,AWD00032cr,orders,649,3,,,,[],,date,6 Jul 1918,{},,,
+1,AWD00032h2,orders,651,2,,,,[],,orders,attack,{},,,
+5,AWD00032h2,orders,651,3,,,,[],,orders,attack,{},,,
+2,AWD00032do,orders,652,3,,,,[],,orders,attack,{},,,
+3,AWD00032ee,orders,653,3,,,,[],,orders,attack,{},,,
+2,AWD00032dt,orders,654,3,,,,[],,orders,attack,{},,,
+3,AWD00032dt,orders,654,4,,,,[],,person,Lieutenant J S Young,"{""first""=>[""J S""], ""surname""=>[""Young""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+4,AWD00032dt,orders,654,3,,,,[],,date,6 Jul 1918,{},,,
+5,AWD00032ep,other,655,2,,,,[],,date,4 Jul 1918,{},,,
+2,AWD00032hm,signals,656,2,,,,[],,date,7 Jul 1918,{},,,
+5,AWD00032hm,signals,656,3,,,,[],,time,0900PM,{},,,
+2,AWD00032g5,signals,657,2,,,,[],,date,7 Jul 1918,{},,,
+6,AWD00032g5,signals,657,2,,,,[],,person,Captain J Robertson,"{""first""=>[""J""], ""surname""=>[""Robertson""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""1st Cameron Highlancers"", """"]}",,,
+2,AWD00032h3,signals,658,3,,,,[],,date,8 Jul 1918,{},,,
+2,AWD00032cs,signals,659,3,,,,[],,date,8 Jul 1918,{},,,
+3,AWD00032cs,signals,659,4,,,,[],,signals,other,{},,,
+5,AWD00032cs,signals,659,2,,,,[],,time,0940AM,{},,,
+3,AWD00032gc,signals,660,4,,,,[],,date,8 Jul 1918,{},,,
+4,AWD00032gc,signals,660,4,,,,[],,signals,other,{},,,
+2,AWD00032gs,signals,661,4,,,,[],,date,8 Jul 1918,{},,,
+5,AWD00032gs,signals,661,4,,,,[],,unit,"D Coy, A Coy, B Coy, C Coy","{""name""=>[""D Coy"", ""A Coy"", ""B Coy"", ""C Coy""], ""context""=>[""other""]}",,,
+6,AWD00032gs,signals,661,3,,,,[],,time,0358PM,{},,,
+7,AWD00032gs,signals,661,3,,,,[],,person,Captain J Robertson,"{""first""=>[""J""], ""surname""=>[""Robertson""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+4,AWD00032g3,orders,662,2,,,,[],,unit,"1st Infantry Brigade, 3rd Infantry Brigade","{""name""=>[""1st Infantry Brigade"", ""3rd Infantry Brigade""], ""context""=>[""relieved"", ""relieved_by""]}",,,
+6,AWD00032g3,orders,662,3,,,,[],,orders,move,{},,,
+10,AWD00032g3,orders,662,2,,,,[],,diaryDate,11 Jul 1918,"{""day""=>[""11""], ""month""=>[""Jul""], ""year""=>[""1918""]}",,,
+12,AWD00032g3,orders,662,2,,,,[],,unit,170th Tunneling Coy R.E,"{""name""=>[""170th Tunneling Coy R.E""], ""context""=>[""other""]}",,,
+19,AWD00032g3,orders,662,2,,,,[],,person,"Captain  Lallington, Wallington","{""first""=>[""""], ""surname""=>[""Lallington"", ""Wallington""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+20,AWD00032g3,orders,662,3,,,,[],,date,9 Jul 1918,{},,,
+1,AWD00032gk,other,663,2,,,,[],,orders,move,{},,,
+2,AWD00032gg,orders,664,2,,,,[],,orders,other,{},,,
+3,AWD00032ff,orders,665,2,,,,[],,person,"Captain ,L W Drummond","{""first""=>["""", ""L W""], ""surname""=>[""Drummond""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author"", ""other""], ""unit""=>["""", ""1st Infantry Brigade""]}",,,
+4,AWD00032ff,orders,665,2,,,,[],,date,10 Jul 1918,{},,,
+7,AWD00032fx,orders,666,2,,,,[],,date,10 Jul 1918,{},,,
+5,AWD00032cz,"other, report",667,2,,,,[],,date,15 Jul 1918,{},,,
+7,AWD00032cz,"other, report",667,3,,,,[],,date,19 Jul 1918,{},,,
+3,AWD00032f3,orders,668,4,,,,[],,orders,move,{},,,
+4,AWD00032f3,orders,668,2,,,,[],,person,"Captain J Lundrell, Lindsell","{""first""=>[""J""], ""surname""=>[""Lundrell"", ""Lindsell""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+5,AWD00032f3,orders,668,3,,,,[],,date,24 Jul 1918,{},,,
+5,AWD00032g4,orders,669,3,,,,[],,date,25 Jul 1918,{},,,
+6,AWD00032dm,orders,670,2,,,,[],,person,Captain G Howard Jones,"{""first""=>[""G""], ""surname""=>[""Howard Jones""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""General Staff, 1st Division"", """"]}",,,
+7,AWD00032dm,orders,670,2,,,,[],,date,26 Jul 1918,{},,,
+9,AWD00032dm,orders,670,3,,,,[],,date,26 Jul 1918,{},,,
+6,AWD00032gw,orders,671,2,,,,[],,person,Captain G Howard Jones,"{""first""=>[""G""], ""surname""=>[""Howard Jones""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""General Staff, 1st Division"", """"]}",,,
+7,AWD00032gw,orders,671,3,,,,[],,date,26 Jul 1918,{},,,
+9,AWD00032gw,orders,671,2,,,,[],,date,27 Jul 1918,{},,,
+1,AWD00032dl,signals,672,3,,,,[],,date,27 Jul 1918,{},,,
+4,AWD00032dl,signals,672,4,,,,[],,unit,"C Coy, B Coy, D Coy, A Coy","{""name""=>[""C Coy"", ""B Coy"", ""D Coy"", ""A Coy""], ""context""=>[""other""]}",,,
+6,AWD00032dl,signals,672,2,,,,[],,time,0750PM,{},,,
+7,AWD00032dl,signals,672,2,,,,[],,person,Captain J Robertson,"{""first""=>[""J""], ""surname""=>[""Robertson""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other"", ""author""], ""unit""=>[""1st Cameron Highlanders"", """"]}",,,
+4,AWD00032f0,orders,673,2,,,,[],,orders,attack,{},,,
+1,AWD00032fy,orders,674,3,,,,[],,orders,attack,{},,,
+2,AWD00032fy,orders,674,3,,,,[],,date,28 Jul 1918,{},,,
+1,AWD00032da,orders,675,2,,,,[],,orders,attack,{},,,
+6,AWD00032da,orders,675,2,,,,[],,person,"Captain J Linsdell, Lindsell","{""first""=>[""J""], ""surname""=>[""Linsdell"", ""Lindsell""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other"", ""author""], ""unit""=>[""1st Infantry Brigade"", """"]}",,,
+7,AWD00032da,orders,675,3,,,,[],,date,29 Jul 1918,{},,,
+1,AWD00032et,orders,676,2,,,,[],,orders,attack,{},,,
+1,AWD00032ds,orders,678,2,,,,[],,orders,move,{},,,
+3,AWD00032ds,orders,678,2,,,,[],,orders,move,{},,,
+4,AWD00032ds,orders,678,2,,,,[],,person,"Captain J Linsdell, Lindsell","{""first""=>[""J""], ""surname""=>[""Linsdell"", ""Lindsell""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other"", ""author""], ""unit""=>[""1st Infantry Brigade"", """"]}",,,
+5,AWD00032ds,orders,678,3,,,,[],,date,30 Jul 1918,{},,,
+5,AWD00032gv,orders,679,2,,,,[],,person,"Captain J Linsdell, Lindsall","{""first""=>[""J""], ""surname""=>[""Linsdell"", ""Lindsall""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""1st Infantry Brigade"", """"]}",,,
+6,AWD00032gv,orders,679,4,,,,[],,date,31 Jul 1918,{},,,
+2,AWD00032f9,orders,680,2,,,,[],,orders,attack,{},,,
+5,AWD00032f9,orders,680,3,,,,[],,person,Captain W J Somervail,"{""first""=>[""W J""], ""surname""=>[""Somervail""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author"", ""other"", ""commander""], ""unit""=>[""""]}",,,
+7,AWD00032f9,orders,680,2,,,,[],,person,"Captain J Linsdell, Lindsell","{""first""=>[""J""], ""surname""=>[""Linsdell"", ""Lindsell""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""1st Infantry Brigade"", """"]}",,,
+8,AWD00032f9,orders,680,4,,,,[],,date,31 Jul 1918,{},,,
+8,AWD00032du,orders,681,2,,,,[],,person,"Captain J Linsdell, Lindsell","{""first""=>[""J""], ""surname""=>[""Linsdell"", ""Lindsell""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other"", ""author""], ""unit""=>[""1st Infantry Brigade"", """"]}",,,
+9,AWD00032du,orders,681,4,,,,[],,date,31 Jul 1918,{},,,
+2,AWD00032e9,report,682,2,,,,[],,date,31 Jul 1918,{},,,
+6,AWD00032e9,report,682,2,,,,[],,person,"Captain J Linsdell, Lindsell","{""first""=>[""J""], ""surname""=>[""Linsdell"", ""Lindsell""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other"", ""author""], ""unit""=>[""1st Infantry Brigade"", """"]}",,,
+7,AWD00032e9,report,682,3,,,,[],,date,31 Jul 1918,{},,,
+10,AWD00032g9,orders,683,3,,,,[],,date,4 Aug 1918,{},,,
+2,AWD00032fl,orders,684,2,,,,[],,orders,attack,{},,,
+6,AWD00032fl,orders,684,3,,,,[],,date,6 Aug 1918,{},,,
+3,AWD00032ft,orders,685,3,,,,[],,orders,attack,{},,,
+8,AWD00032ft,orders,685,4,,,,[],,date,6 Aug 1918,{},,,
+2,AWD00032h4,orders,686,4,,,,[],,orders,attack,{},,,
+4,AWD00032h4,orders,686,4,,,,[],,date,6 Aug 1918,{},,,
+3,AWD00032fp,orders,687,2,,,,[],,orders,attack,{},,,
+5,AWD00032fp,orders,687,3,,,,[],,date,6 Aug 1918,{},,,
+8,AWD00032fn,orders,688,2,,,,[],,orders,other,{},,,
+10,AWD00032fn,orders,688,2,,,,[],,person,"Captain Howard, Jones, Howard Jones","{""first""=>[""Howard"", """"], ""surname""=>[""Jones"", ""Howard Jones""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>["""", ""General Staff, 1st Division""]}",,,
+5,AWD00032e8,"orders, other",690,2,,,,[],,date,7 Aug 1918,{},,,
+2,AWD00032gy,orders,691,2,,,,[],,orders,attack,{},,,
+3,AWD00032gy,orders,691,2,,,,[],,date,7 Aug 1918,{},,,
+6,AWD00032fm,orders,692,3,,,,[],,date,8 Aug 1918,{},,,
+2,AWD00032hc,other,693,2,,,,[],,date,8 Aug 1918,{},,,
+1,AWD00032e3,orders,694,2,,,,[],,orders,move,{},,,
+5,AWD00032e3,orders,694,2,,,,[],,orders,move,{},,,
+6,AWD00032e3,orders,694,2,,,,[],,person,"Captain ,J T Wallington","{""first""=>["""", ""J T""], ""surname""=>[""Wallington""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+7,AWD00032e3,orders,694,3,,,,[],,date,9 Aug 1918,{},,,
+2,AWD00032fo,orders,695,2,,,,[],,orders,move,{},,,
+4,AWD00032ew,orders,696,2,,,,[],,orders,other,{},,,
+4,AWD00032ey,orders,697,2,,,,[],,person,"Captain L W, Drummond","{""first""=>[""L W"", """"], ""surname""=>[""Drummond""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other"", ""author""], ""unit""=>[""1st Infantry Brigade"", """"]}",,,
+5,AWD00032ey,orders,697,3,,,,[],,date,9 Aug 1918,{},,,
+3,AWD00032gx,orders,698,2,,,,[],,orders,other,{},,,
+6,AWD00032gx,orders,698,3,,,,[],,person,Captain W Higson,"{""first""=>[""W""], ""surname""=>[""Higson""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+7,AWD00032gx,orders,698,4,,,,[],,date,9 Aug 1918,{},,,
+8,AWD00032gx,orders,698,2,,,,[],,person,Captain J Robertson,"{""first""=>[""J""], ""surname""=>[""Robertson""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other"", ""author""], ""unit""=>[""""]}",,,
+1,AWD00032dd,"report, other",699,3,,,,[],,date,11 Aug 1918,{},,,
+5,AWD00032dd,"report, other",699,2,,,,[],,person,"Captain ,G Howard Jones","{""first""=>["""", ""G""], ""surname""=>[""Howard Jones""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other"", ""author""], ""unit""=>[""General Staff, 1st Division"", """"]}",,,
+3,AWD00032fe,orders,700,3,,,,[],,orders,move,{},,,
+5,AWD00032fe,orders,700,3,,,,[],,date,16 Aug 1918,{},,,
+6,AWD00032fe,orders,700,2,,,,[],,person,"Captain L W, Drummond","{""first""=>[""L W"", """"], ""surname""=>[""Drummond""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other"", ""author""], ""unit""=>[""1st Infantry Brigade"", """"]}",,,
+5,AWD00032gj,orders,701,3,,,,[],,orders,move,{},,,
+6,AWD00032gj,orders,701,3,,,,[],,person,"Captain L W,,W M Drummond","{""first""=>[""L W"", """", ""W M""], ""surname""=>[""Drummond""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+8,AWD00032gj,orders,701,4,,,,[],,date,17 Aug 1918,{},,,
+1,AWD00032g2,orders,702,4,,,,[],,orders,move,{},,,
+1,AWD00032gq,orders,703,2,,,,[],,orders,move,{},,,
+1,AWD00032ej,orders,704,2,,,,[],,orders,move,{},,,
+5,AWD00032dc,orders,705,2,,,,[],,orders,move,{},,,
+6,AWD00032hq,orders,706,2,,,,[],,orders,move,{},,,
+8,AWD00032hq,orders,706,4,,,,[],,date,17 Aug 1918,{},,,
+4,AWD00032dy,orders,707,2,,,,[],,orders,move,{},,,
+1,AWD00032e7,orders,709,2,,,,[],,reference,1st Division No. G. 13/12,{},,,
+6,AWD00032e7,orders,709,2,,,,[],,person,"Captain G Howard,G Jones, Howard Jones","{""first""=>[""G Howard"", ""G""], ""surname""=>[""Jones"", ""Howard Jones""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>["""", ""General Staff, 1st Division""]}",,,
+7,AWD00032e7,orders,709,2,,,,[],,date,18 Aug 1918,{},,,
+9,AWD00032e7,orders,709,5,,,,[],,date,18 Aug 1918,{},,,
+5,AWD00032f5,orders,710,3,,,,[],,orders,move,{},,,
+6,AWD00032f5,orders,710,3,,,,[],,person,"Captain ,L W,W M Drummond","{""first""=>["""", ""L W"", ""W M""], ""surname""=>[""Drummond""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+7,AWD00032f5,orders,710,5,,,,[],,date,18 Aug 1918,{},,,
+6,AWD00032e2,orders,711,2,,,,[],,orders,move,{},,,
+7,AWD00032e2,orders,711,3,,,,[],,person,"Captain ,L W,W M Drummond","{""first""=>["""", ""L W"", ""W M""], ""surname""=>[""Drummond""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+8,AWD00032e2,orders,711,4,,,,[],,date,18 Aug 1918,{},,,
+3,AWD00032hl,orders,712,2,,,,[],,orders,move,{},,,
+1,AWD00032h6,orders,713,2,,,,[],,orders,move,{},,,
+6,AWD00032h6,orders,713,2,,,,[],,person,"Captain ,L W Drummond","{""first""=>["""", ""L W""], ""surname""=>[""Drummond""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author"", ""other""], ""unit""=>["""", ""1st Infantry Brigade""]}",,,
+7,AWD00032h6,orders,713,3,,,,[],,date,18 Aug 1918,{},,,
+5,AWD00032he,orders,714,2,,,,[],,orders,move,{},,,
+6,AWD00032he,orders,714,2,,,,[],,person,"Captain L W, Drummond","{""first""=>[""L W"", """"], ""surname""=>[""Drummond""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other"", ""author""], ""unit""=>[""1st Infantry Brigade"", """"]}",,,
+7,AWD00032he,orders,714,4,,,,[],,date,18 Aug 1918,{},,,
+5,AWD00032cx,orders,715,2,,,,[],,orders,move,{},,,
+6,AWD00032cx,orders,715,2,,,,[],,person,"Lieutenant W C Johnstone, Johnston","{""first""=>[""W C""], ""surname""=>[""Johnstone"", ""Johnston""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>["""", ""1st Infantry Brigade""]}",,,
+7,AWD00032cx,orders,715,4,,,,[],,date,18 Aug 1918,{},,,
+1,AWD00032ec,orders,716,2,,,,[],,orders,move,{},,,
+4,AWD00032ec,orders,716,2,,,,[],,person,"Captain,Bombardier  ","{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""Captain"", ""Bombardier""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+5,AWD00032ec,orders,716,3,,,,[],,date,18 Aug 1918,{},,,
+4,AWD00032ga,orders,717,2,,,,[],,orders,standing,{},,,
+7,AWD00032ga,orders,717,3,,,,[],,date,13 Aug 1918,{},,,
+8,AWD00032ga,orders,717,4,,,,[],,date,18 Aug 1918,{},,,
+2,AWD00032dx,orders,718,2,,,,[],,date,18 Aug 1918,{},,,
+4,AWD00032dx,orders,718,3,,,,[],,orders,move,{},,,
+5,AWD00032g1,orders,719,2,,,,[],,orders,move,{},,,
+6,AWD00032g1,orders,719,4,,,,[],,date,19 Aug 1918,{},,,
+2,AWD00032gi,orders,720,2,,,,[],,orders,move,{},,,
+6,AWD00032gi,orders,720,4,,,,[],,date,19 Aug 1918,{},,,
+4,AWD00032ha,orders,721,2,,,,[],,orders,move,{},,,
+5,AWD00032ha,orders,721,4,,,,[],,date,20 Aug 1918,{},,,
+1,AWD00032f8,orders,722,2,,,,[],,orders,standing,{},,,
+8,AWD00032h0,orders,724,3,,,,[],,date,24 Aug 1918,{},,,
+2,AWD00032ed,signals,725,4,,,,[],,date,25 Aug 1918,{},,,
+5,AWD00032ed,signals,725,2,,,,[],,unit,"B Coy, C Coy","{""name""=>[""B Coy"", ""C Coy""], ""context""=>[""other""]}",,,
+8,AWD00032ed,signals,725,3,,,,[],,time,1140AM,{},,,
+9,AWD00032ed,signals,725,3,,,,[],,person,Captain J Robertson,"{""first""=>[""J""], ""surname""=>[""Robertson""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+4,AWD00032de,orders,726,2,,,,[],,orders,other,{},,,
+6,AWD00032de,orders,726,3,,,,[],,person,Lieutenant  Johnstone,"{""first""=>[""""], ""surname""=>[""Johnstone""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+7,AWD00032de,orders,726,4,,,,[],,date,25 Aug 1918,{},,,
+10,AWD00032fb,orders,727,4,,,,[],,date,30 Aug 1918,{},,,

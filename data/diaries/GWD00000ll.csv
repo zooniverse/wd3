@@ -1,0 +1,686 @@
+Order,Page,Page type,Page number,Count,DateTime,Date,Place,Lat/Lon,Time,Type,Label,Data,GeoID,GeoName,GeoCoords
+3,AWD00034cr,cover,220,2,,,,[],,date,1 Aug 1915,{},,,
+1,AWD00034dh,diary,221,4,1915-07-01 00:00:00 UTC,1 Jul 1915,"","[0.0, 0.0]","",diaryDate,1 Jul 1915,"{""day""=>[""1""], ""month""=>[""Jul""], ""year""=>[""1915""]}",2985684,Pozières,"[2.72929, 50.04047]"
+3,AWD00034dh,diary,221,3,1915-07-01 00:00:00 UTC,1 Jul 1915,"","[0.0, 0.0]","",weather,fine,{},2985684,Pozières,"[2.72929, 50.04047]"
+5,AWD00034dh,diary,221,2,1915-07-01 00:00:00 UTC,1 Jul 1915,"","[0.0, 0.0]","",domestic,inspections,{},2985684,Pozières,"[2.72929, 50.04047]"
+6,AWD00034dh,diary,221,2,1915-07-01 00:00:00 UTC,1 Jul 1915,"","[0.0, 0.0]","",domestic,sport,{},2985684,Pozières,"[2.72929, 50.04047]"
+8,AWD00034dh,diary,221,4,1915-07-02 00:00:00 UTC,2 Jul 1915,"","[0.0, 0.0]","",diaryDate,2 Jul 1915,"{""day""=>[""2""], ""month""=>[""Jul""], ""year""=>[""1915""]}",2985684,Pozières,"[2.72929, 50.04047]"
+10,AWD00034dh,diary,221,4,1915-07-02 00:00:00 UTC,2 Jul 1915,"","[0.0, 0.0]","",weather,fine,{},2985684,Pozières,"[2.72929, 50.04047]"
+15,AWD00034dh,diary,221,2,1915-07-02 00:00:00 UTC,2 Jul 1915,"","[0.0, 0.0]","",activity,repair,{},2985684,Pozières,"[2.72929, 50.04047]"
+1,AWD00034ds,diary,222,4,1915-07-03 00:00:00 UTC,3 Jul 1915,"","[0.0, 0.0]","",diaryDate,3 Jul 1915,"{""day""=>[""3""], ""month""=>[""Jul""], ""year""=>[""1915""]}",2985684,Pozières,"[2.72929, 50.04047]"
+2,AWD00034ds,diary,222,4,1915-07-03 00:00:00 UTC,3 Jul 1915,"","[0.0, 0.0]","",weather,hot,{},2985684,Pozières,"[2.72929, 50.04047]"
+5,AWD00034ds,diary,222,4,1915-07-03 00:00:00 UTC,3 Jul 1915,"","[0.0, 0.0]","",activity,repair,{},2985684,Pozières,"[2.72929, 50.04047]"
+8,AWD00034ds,diary,222,3,1915-07-03 00:00:00 UTC,3 Jul 1915,"","[0.0, 0.0]","",place,Cambrin,"{""place""=>[""Cambrin""], ""location""=>[""false""], ""name""=>[""Cambrin""], ""lat""=>[""50.5097""], ""long""=>[""2.74082""], ""id""=>[""3029026""]}",2985684,Pozières,"[2.72929, 50.04047]"
+9,AWD00034ds,diary,222,2,1915-07-03 00:00:00 UTC,3 Jul 1915,"","[0.0, 0.0]","",domestic,hygiene,{},2985684,Pozières,"[2.72929, 50.04047]"
+10,AWD00034ds,diary,222,3,1915-07-03 00:00:00 UTC,3 Jul 1915,"","[0.0, 0.0]","",place,Labourse,"{""place""=>[""Labourse""], ""location""=>[""false""], ""name""=>[""Labourse""], ""lat""=>[""50.49883""], ""long""=>[""2.68121""], ""id""=>[""3010855""]}",2985684,Pozières,"[2.72929, 50.04047]"
+11,AWD00034ds,diary,222,2,1915-07-03 00:00:00 UTC,3 Jul 1915,"","[0.0, 0.0]","",activity,training,{},2985684,Pozières,"[2.72929, 50.04047]"
+1,AWD00034e6,diary,223,5,1915-07-04 00:00:00 UTC,4 Jul 1915,"","[0.0, 0.0]","",diaryDate,4 Jul 1915,"{""day""=>[""4""], ""month""=>[""Jul""], ""year""=>[""1915""]}",2985684,Pozières,"[2.72929, 50.04047]"
+2,AWD00034e6,diary,223,4,1915-07-04 00:00:00 UTC,4 Jul 1915,"","[0.0, 0.0]","",weather,hot,{},2985684,Pozières,"[2.72929, 50.04047]"
+3,AWD00034e6,diary,223,2,1915-07-04 00:00:00 UTC,4 Jul 1915,"","[0.0, 0.0]","",domestic,religion,{},2985684,Pozières,"[2.72929, 50.04047]"
+6,AWD00034e6,diary,223,4,1915-07-04 00:00:00 UTC,4 Jul 1915,"","[0.0, 0.0]","",domestic,sport,{},2985684,Pozières,"[2.72929, 50.04047]"
+8,AWD00034e6,diary,223,2,1915-07-04 00:00:00 UTC,4 Jul 1915,"","[0.0, 0.0]","",activity,repair,{},2985684,Pozières,"[2.72929, 50.04047]"
+12,AWD00034e6,diary,223,2,1915-07-04 00:00:00 UTC,4 Jul 1915,"","[0.0, 0.0]","",domestic,uniform,{},2985684,Pozières,"[2.72929, 50.04047]"
+1,AWD00034cu,diary,224,3,1915-07-05 00:00:00 UTC,5 Jul 1915,"","[0.0, 0.0]","",diaryDate,5 Jul 1915,"{""day""=>[""5""], ""month""=>[""Jul""], ""year""=>[""1915""]}",2985684,Pozières,"[2.72929, 50.04047]"
+2,AWD00034cu,diary,224,2,1915-07-05 00:00:00 UTC,5 Jul 1915,"","[0.0, 0.0]","",weather,fine,{},2985684,Pozières,"[2.72929, 50.04047]"
+9,AWD00034cu,diary,224,3,1915-07-05 00:00:00 UTC,5 Jul 1915,"","[0.0, 0.0]","",activity,repair,{},2985684,Pozières,"[2.72929, 50.04047]"
+10,AWD00034cu,diary,224,2,1915-07-05 00:00:00 UTC,5 Jul 1915,"","[0.0, 0.0]","",place,"Sailly-Labourse, Sailly la bourse","{""place""=>[""Sailly-Labourse"", ""Sailly la bourse""], ""location""=>[""false"", ""true""], ""name""=>[""Sailly-Labourse"", ""La Bassée""], ""lat""=>[""50.5012"", ""50.53424""], ""long""=>[""2.69708"", ""2.8062""], ""id""=>[""2981962"", ""3011307""]}",2985684,Pozières,"[2.72929, 50.04047]"
+15,AWD00034cu,diary,224,2,1915-07-05 00:00:00 UTC,5 Jul 1915,"","[0.0, 0.0]","",gridRef,H 1 c 6 4,{},2985684,Pozières,"[2.72929, 50.04047]"
+2,AWD00034d6,diary,227,3,1915-07-05 00:00:00 UTC,5 Jul 1915,"","[0.0, 0.0]","",person,Second Lieutenant  Ward,"{""first""=>[""""], ""surname""=>[""Ward""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>["""", ""2nd Sussex"", ""2ND BRIGADE: 2ND BATTALION ROYAL SUSSEX REGIMENT""]}",2985684,Pozières,"[2.72929, 50.04047]"
+5,AWD00034d6,diary,227,2,1915-07-05 22:40:00 UTC,5 Jul 1915,"","[0.0, 0.0]",1040PM,time,1040PM,{},2985684,Pozières,"[2.72929, 50.04047]"
+7,AWD00034d6,diary,227,2,1915-07-05 22:40:00 UTC,5 Jul 1915,"","[0.0, 0.0]",1040PM,place,"Neuve-Eglise, NEUVE-EGLISE","{""place""=>[""Neuve-Eglise"", ""NEUVE-EGLISE""], ""location""=>[""true"", ""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+8,AWD00034d6,diary,227,2,1915-07-05 21:50:00 UTC,5 Jul 1915,"","[0.0, 0.0]",0950PM,time,0950PM,{},2985684,Pozières,"[2.72929, 50.04047]"
+9,AWD00034d6,diary,227,4,1915-07-06 00:00:00 UTC,6 Jul 1915,"","[0.0, 0.0]","",diaryDate,6 Jul 1915,"{""day""=>[""6""], ""month""=>[""Jul""], ""year""=>[""1915""]}",2985684,Pozières,"[2.72929, 50.04047]"
+12,AWD00034d6,diary,227,2,1915-07-06 00:00:00 UTC,6 Jul 1915,"","[0.0, 0.0]","",activity,repair,{},2985684,Pozières,"[2.72929, 50.04047]"
+14,AWD00034d6,diary,227,3,1915-07-06 00:00:00 UTC,6 Jul 1915,"","[0.0, 0.0]","",activity,working,{},2985684,Pozières,"[2.72929, 50.04047]"
+15,AWD00034d6,diary,227,2,1915-07-06 00:00:00 UTC,6 Jul 1915,"","[0.0, 0.0]","",weather,rain,{},2985684,Pozières,"[2.72929, 50.04047]"
+16,AWD00034d6,diary,227,4,1915-07-07 00:00:00 UTC,7 Jul 1915,"","[0.0, 0.0]","",diaryDate,7 Jul 1915,"{""day""=>[""7""], ""month""=>[""Jul""], ""year""=>[""1915""]}",2985684,Pozières,"[2.72929, 50.04047]"
+23,AWD00034d6,diary,227,3,1915-07-07 00:00:00 UTC,7 Jul 1915,"","[0.0, 0.0]","",place,"Sailly-Labourse, Sailly Labourse, SAILLY-LABOURSE","{""place""=>[""Sailly-Labourse"", ""Sailly Labourse"", ""SAILLY-LABOURSE""], ""location""=>[""false""], ""name""=>[""Sailly-Labourse""], ""lat""=>[""50.5012""], ""long""=>[""2.69708""], ""id""=>[""2981962""]}",2985684,Pozières,"[2.72929, 50.04047]"
+25,AWD00034d6,diary,227,2,1915-07-07 00:00:00 UTC,7 Jul 1915,"","[0.0, 0.0]","",unit,"1st Northamptons, 1st Northhamptons","{""name""=>[""1st Northamptons"", ""1st Northhamptons""], ""context""=>[""relieved""]}",2985684,Pozières,"[2.72929, 50.04047]"
+26,AWD00034d6,diary,227,2,1915-07-07 00:00:00 UTC,7 Jul 1915,"","[0.0, 0.0]","",gridRef,L 1,{},2985684,Pozières,"[2.72929, 50.04047]"
+27,AWD00034d6,diary,227,2,1915-07-07 00:00:00 UTC,7 Jul 1915,"","[0.0, 0.0]","",gridRef,G 4 d 2 2,{},2985684,Pozières,"[2.72929, 50.04047]"
+1,AWD00034e0,diary,228,4,1915-07-07 00:00:00 UTC,7 Jul 1915,"","[0.0, 0.0]","",diaryDate,7 Jul 1915,"{""day""=>[""7""], ""month""=>[""Jul""], ""year""=>[""1915""]}",2985684,Pozières,"[2.72929, 50.04047]"
+9,AWD00034e0,diary,228,4,1915-07-07 00:00:00 UTC,7 Jul 1915,"","[0.0, 0.0]","",unit,5th Sussex,"{""name""=>[""5th Sussex""], ""context""=>[""left""]}",2985684,Pozières,"[2.72929, 50.04047]"
+11,AWD00034e0,diary,228,3,1915-07-07 00:00:00 UTC,7 Jul 1915,"","[0.0, 0.0]","",unit,Blackwatch,"{""name""=>[""Blackwatch""], ""context""=>[""right""]}",2985684,Pozières,"[2.72929, 50.04047]"
+13,AWD00034e0,diary,228,3,1915-07-07 00:00:00 UTC,7 Jul 1915,"","[0.0, 0.0]","",activity,fire,{},2985684,Pozières,"[2.72929, 50.04047]"
+15,AWD00034e0,diary,228,3,1915-07-07 00:00:00 UTC,7 Jul 1915,"","[0.0, 0.0]","",casualties,wounded: 1,{},2985684,Pozières,"[2.72929, 50.04047]"
+18,AWD00034e0,diary,228,2,1915-07-07 00:00:00 UTC,7 Jul 1915,"","[0.0, 0.0]","",activity,reconnoitered,{},2985684,Pozières,"[2.72929, 50.04047]"
+19,AWD00034e0,diary,228,2,1915-07-07 23:45:00 UTC,7 Jul 1915,"","[0.0, 0.0]",1145PM,time,1145PM,{},2985684,Pozières,"[2.72929, 50.04047]"
+23,AWD00034e0,diary,228,2,1915-07-07 23:45:00 UTC,7 Jul 1915,"","[0.0, 0.0]",1145PM,activity,fire,{},2985684,Pozières,"[2.72929, 50.04047]"
+24,AWD00034e0,diary,228,2,1915-07-07 23:45:00 UTC,7 Jul 1915,"","[0.0, 0.0]",1145PM,casualties,missing: 1,{},2985684,Pozières,"[2.72929, 50.04047]"
+1,AWD00034fl,diary,229,4,1915-07-07 00:00:00 UTC,7 Jul 1915,"","[0.0, 0.0]","",diaryDate,7 Jul 1915,"{""day""=>[""7""], ""month""=>[""Jul""], ""year""=>[""1915""]}",2985684,Pozières,"[2.72929, 50.04047]"
+5,AWD00034fl,diary,229,2,1915-07-07 00:00:00 UTC,7 Jul 1915,"","[0.0, 0.0]","",unit,"54th Battery, 51st  Battery","{""name""=>[""54th Battery"", ""51st  Battery""], ""context""=>[""other""]}",2985684,Pozières,"[2.72929, 50.04047]"
+6,AWD00034fl,diary,229,2,1915-07-07 00:00:00 UTC,7 Jul 1915,"","[0.0, 0.0]","",activity,repair,{},2985684,Pozières,"[2.72929, 50.04047]"
+7,AWD00034fl,diary,229,5,1915-07-08 00:00:00 UTC,8 Jul 1915,"","[0.0, 0.0]","",diaryDate,8 Jul 1915,"{""day""=>[""8""], ""month""=>[""Jul""], ""year""=>[""1915""]}",2985684,Pozières,"[2.72929, 50.04047]"
+9,AWD00034fl,diary,229,2,1915-07-08 02:30:00 UTC,8 Jul 1915,"","[0.0, 0.0]",0230AM,time,0230AM,{},2985684,Pozières,"[2.72929, 50.04047]"
+10,AWD00034fl,diary,229,2,1915-07-08 02:30:00 UTC,8 Jul 1915,"","[0.0, 0.0]",0230AM,activity,quiet,{},2985684,Pozières,"[2.72929, 50.04047]"
+11,AWD00034fl,diary,229,3,1915-07-08 10:30:00 UTC,8 Jul 1915,"","[0.0, 0.0]",1030AM,time,1030AM,{},2985684,Pozières,"[2.72929, 50.04047]"
+12,AWD00034fl,diary,229,3,1915-07-08 11:30:00 UTC,8 Jul 1915,"","[0.0, 0.0]",1130AM,time,1130AM,{},2985684,Pozières,"[2.72929, 50.04047]"
+16,AWD00034fl,diary,229,5,1915-07-08 11:30:00 UTC,8 Jul 1915,"","[0.0, 0.0]",1130AM,activity,repair,{},2985684,Pozières,"[2.72929, 50.04047]"
+17,AWD00034fl,diary,229,2,1915-07-08 11:30:00 UTC,8 Jul 1915,"","[0.0, 0.0]",1130AM,person,"Second Lieutenant,  Ausell, Cufill","{""first""=>[""""], ""surname""=>[""Ausell"", ""Cufill""], ""rank""=>[""Second Lieutenant"", """"], ""number""=>["""", ""4""], ""reason""=>[""returned_leave""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+1,AWD00034cn,diary,230,4,1915-07-09 00:00:00 UTC,9 Jul 1915,"","[0.0, 0.0]","",diaryDate,9 Jul 1915,"{""day""=>[""9""], ""month""=>[""Jul""], ""year""=>[""1915""]}",2985684,Pozières,"[2.72929, 50.04047]"
+4,AWD00034cn,diary,230,3,1915-07-09 00:00:00 UTC,9 Jul 1915,"","[0.0, 0.0]","",activity,reconnoitered,{},2985684,Pozières,"[2.72929, 50.04047]"
+5,AWD00034cn,diary,230,2,1915-07-09 22:00:00 UTC,9 Jul 1915,"","[0.0, 0.0]",1000PM,time,1000PM,{},2985684,Pozières,"[2.72929, 50.04047]"
+6,AWD00034cn,diary,230,2,1915-07-09 22:00:00 UTC,9 Jul 1915,"","[0.0, 0.0]",1000PM,place,"Holenzollern, HOHENZOLLERN","{""place""=>[""Holenzollern"", ""HOHENZOLLERN""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+7,AWD00034cn,diary,230,2,1915-07-09 22:00:00 UTC,9 Jul 1915,"","[0.0, 0.0]",1000PM,activity,enemy_activity,{},2985684,Pozières,"[2.72929, 50.04047]"
+10,AWD00034cn,diary,230,3,1915-07-09 22:00:00 UTC,9 Jul 1915,"","[0.0, 0.0]",1000PM,person,"Second Lieutenant  Symington, Sylvington, SYMINGTON","{""first""=>[""""], ""surname""=>[""Symington"", ""Sylvington"", ""SYMINGTON""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+13,AWD00034cn,diary,230,3,1915-07-09 22:00:00 UTC,9 Jul 1915,"","[0.0, 0.0]",1000PM,person,Corporal  Evans,"{""first""=>[""""], ""surname""=>[""Evans""], ""rank""=>[""Corporal""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+18,AWD00034cn,diary,230,4,1915-07-09 22:00:00 UTC,9 Jul 1915,"","[0.0, 0.0]",1000PM,activity,fire,{},2985684,Pozières,"[2.72929, 50.04047]"
+20,AWD00034cn,diary,230,2,1915-07-09 22:00:00 UTC,9 Jul 1915,"","[0.0, 0.0]",1000PM,person,"Lieutenant  Hoedern, STODERN","{""first""=>[""""], ""surname""=>[""Hoedern"", ""STODERN""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>["""", ""1ST DIVISION: 2ND INFANRY  BRIGADE: 2ND BATTALION KING'S OWN ROYAL RIFLE CORPS.""]}",2985684,Pozières,"[2.72929, 50.04047]"
+25,AWD00034cn,diary,230,2,1915-07-09 22:00:00 UTC,9 Jul 1915,"","[0.0, 0.0]",1000PM,casualties,wounded: 2,{},2985684,Pozières,"[2.72929, 50.04047]"
+28,AWD00034cn,diary,230,4,1915-07-09 22:00:00 UTC,9 Jul 1915,"","[0.0, 0.0]",1000PM,strength,"officer: 19, other: 790",{},2985684,Pozières,"[2.72929, 50.04047]"
+1,AWD00034ch,diary,231,5,1915-07-10 00:00:00 UTC,10 Jul 1915,"","[0.0, 0.0]","",diaryDate,10 Jul 1915,"{""day""=>[""10""], ""month""=>[""Jul""], ""year""=>[""1915""]}",2985684,Pozières,"[2.72929, 50.04047]"
+2,AWD00034ch,diary,231,4,1915-07-10 00:00:00 UTC,10 Jul 1915,"","[0.0, 0.0]","",person,Corporal  Evans,"{""first""=>[""""], ""surname""=>[""Evans""], ""rank""=>[""Corporal""], ""number""=>[""""], ""reason""=>[""other"", ""combat""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+3,AWD00034ch,diary,231,5,1915-07-10 00:00:00 UTC,10 Jul 1915,"","[0.0, 0.0]","",person,Second Lieutenant  Symington,"{""first""=>[""""], ""surname""=>[""Symington""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other"", ""combat""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+4,AWD00034ch,diary,231,2,1915-07-10 00:00:00 UTC,10 Jul 1915,"","[0.0, 0.0]","",activity,reconnoitered,{},2985684,Pozières,"[2.72929, 50.04047]"
+5,AWD00034ch,diary,231,2,1915-07-10 00:00:00 UTC,10 Jul 1915,"","[0.0, 0.0]","",place,"Holenzollern, HOHENZOLLERN","{""place""=>[""Holenzollern"", ""HOHENZOLLERN""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+12,AWD00034ch,diary,231,2,1915-07-10 00:00:00 UTC,10 Jul 1915,"","[0.0, 0.0]","",activity,attack,{},2985684,Pozières,"[2.72929, 50.04047]"
+14,AWD00034ch,diary,231,3,1915-07-10 00:00:00 UTC,10 Jul 1915,"","[0.0, 0.0]","",activity,repair,{},2985684,Pozières,"[2.72929, 50.04047]"
+15,AWD00034ch,diary,231,2,1915-07-10 00:00:00 UTC,10 Jul 1915,"","[0.0, 0.0]","",activity,enemy_activity,{},2985684,Pozières,"[2.72929, 50.04047]"
+17,AWD00034ch,diary,231,4,1915-07-10 00:00:00 UTC,10 Jul 1915,"","[0.0, 0.0]","",place,Annequin,"{""place""=>[""Annequin""], ""location""=>[""false""], ""name""=>[""Annequin""], ""lat""=>[""50.50525""], ""long""=>[""2.72019""], ""id""=>[""3037534""]}",2985684,Pozières,"[2.72929, 50.04047]"
+20,AWD00034ch,diary,231,2,1915-07-10 00:00:00 UTC,10 Jul 1915,"","[0.0, 0.0]","",place,"La Bassée, LA BASSEE","{""place""=>[""La Bassée"", ""LA BASSEE""], ""location""=>[""false""], ""name""=>[""La Bassée""], ""lat""=>[""50.53424""], ""long""=>[""2.8062""], ""id""=>[""3011307""]}",2985684,Pozières,"[2.72929, 50.04047]"
+1,AWD00034fn,diary,233,5,1915-07-11 00:00:00 UTC,11 Jul 1915,"","[0.0, 0.0]","",diaryDate,11 Jul 1915,"{""day""=>[""11""], ""month""=>[""Jul""], ""year""=>[""1915""]}",2985684,Pozières,"[2.72929, 50.04047]"
+3,AWD00034fn,diary,233,4,1915-07-11 00:00:00 UTC,11 Jul 1915,"","[0.0, 0.0]","",weather,overcast,{},2985684,Pozières,"[2.72929, 50.04047]"
+5,AWD00034fn,diary,233,5,1915-07-11 00:00:00 UTC,11 Jul 1915,"","[0.0, 0.0]","",activity,fire,{},2985684,Pozières,"[2.72929, 50.04047]"
+6,AWD00034fn,diary,233,2,1915-07-11 10:00:00 UTC,11 Jul 1915,"","[0.0, 0.0]",1000AM,time,1000AM,{},2985684,Pozières,"[2.72929, 50.04047]"
+9,AWD00034fn,diary,233,2,1915-07-11 10:00:00 UTC,11 Jul 1915,"","[0.0, 0.0]",1000AM,activity,attack,{},2985684,Pozières,"[2.72929, 50.04047]"
+11,AWD00034fn,diary,233,3,1915-07-11 10:00:00 UTC,11 Jul 1915,"","[0.0, 0.0]",1000AM,strength,"officer: 19, other: 786",{},2985684,Pozières,"[2.72929, 50.04047]"
+12,AWD00034fn,diary,233,2,1915-07-11 10:00:00 UTC,11 Jul 1915,"","[0.0, 0.0]",1000AM,casualties,"wounded: 1, sick: 1",{},2985684,Pozières,"[2.72929, 50.04047]"
+13,AWD00034fn,diary,233,2,1915-07-11 10:00:00 UTC,11 Jul 1915,"","[0.0, 0.0]",1000AM,casualties,wounded: 1,{},2985684,Pozières,"[2.72929, 50.04047]"
+17,AWD00034fn,diary,233,5,1915-07-12 00:00:00 UTC,12 Jul 1915,"","[0.0, 0.0]","",diaryDate,12 Jul 1915,"{""day""=>[""12""], ""month""=>[""Jul""], ""year""=>[""1915""]}",2985684,Pozières,"[2.72929, 50.04047]"
+18,AWD00034fn,diary,233,2,1915-07-12 00:00:00 UTC,12 Jul 1915,"","[0.0, 0.0]","",person,"General  Rawlinser, Rawlinson","{""first""=>[""""], ""surname""=>[""Rawlinser"", ""Rawlinson""], ""rank""=>[""General""], ""number""=>[""""], ""reason""=>[""commander"", ""other""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+19,AWD00034fn,diary,233,2,1915-07-12 00:00:00 UTC,12 Jul 1915,"","[0.0, 0.0]","",unit,"Black Watch (1st Bde), The Black Watch (1st Bde)","{""name""=>[""Black Watch (1st Bde)"", ""The Black Watch (1st Bde)""], ""context""=>[""joined"", ""relieved_by""]}",2985684,Pozières,"[2.72929, 50.04047]"
+20,AWD00034fn,diary,233,2,1915-07-12 14:30:00 UTC,12 Jul 1915,"","[0.0, 0.0]",0230PM,time,0230PM,{},2985684,Pozières,"[2.72929, 50.04047]"
+22,AWD00034fn,diary,233,2,1915-07-12 14:30:00 UTC,12 Jul 1915,"","[0.0, 0.0]",0230PM,unit,"Blackwatch, Black Watch","{""name""=>[""Blackwatch"", ""Black Watch""], ""context""=>[""relieved_by""]}",2985684,Pozières,"[2.72929, 50.04047]"
+25,AWD00034fn,diary,233,2,1915-07-12 16:30:00 UTC,12 Jul 1915,"","[0.0, 0.0]",0430PM,time,0430PM,{},2985684,Pozières,"[2.72929, 50.04047]"
+28,AWD00034fn,diary,233,3,1915-07-12 16:30:00 UTC,12 Jul 1915,"","[0.0, 0.0]",0430PM,domestic,accomodation,{},2985684,Pozières,"[2.72929, 50.04047]"
+30,AWD00034fn,diary,233,3,1915-07-12 16:30:00 UTC,12 Jul 1915,Labourse,"[2.68121, 50.49883]",0430PM,place,Labourse,"{""place""=>[""Labourse""], ""location""=>[""true""], ""name""=>[""Labourse""], ""lat""=>[""50.49883""], ""long""=>[""2.68121""], ""id""=>[""3010855""]}",3011307,La Bassée,"[2.8062, 50.53424]"
+1,AWD00034f8,diary,234,5,1915-07-12 00:00:00 UTC,12 Jul 1915,Labourse,"[2.68121, 50.49883]","",diaryDate,12 Jul 1915,"{""day""=>[""12""], ""month""=>[""Jul""], ""year""=>[""1915""]}",3011307,La Bassée,"[2.8062, 50.53424]"
+3,AWD00034f8,diary,234,2,1915-07-12 00:00:00 UTC,12 Jul 1915,Labourse,"[2.68121, 50.49883]","",casualties,other: 1,{},3011307,La Bassée,"[2.8062, 50.53424]"
+7,AWD00034f8,diary,234,3,1915-07-12 00:00:00 UTC,12 Jul 1915,Labourse,"[2.68121, 50.49883]","",weather,fine,{},3011307,La Bassée,"[2.8062, 50.53424]"
+12,AWD00034f8,diary,234,2,1915-07-12 00:00:00 UTC,12 Jul 1915,Labourse,"[2.68121, 50.49883]","",activity,enemy_activity,{},3011307,La Bassée,"[2.8062, 50.53424]"
+13,AWD00034f8,diary,234,3,1915-07-12 00:00:00 UTC,12 Jul 1915,Labourse,"[2.68121, 50.49883]","",place,Vermelles,"{""place""=>[""Vermelles""], ""location""=>[""false""], ""name""=>[""Vermelles""], ""lat""=>[""50.48949""], ""long""=>[""2.74739""], ""id""=>[""2969864""]}",3011307,La Bassée,"[2.8062, 50.53424]"
+17,AWD00034f8,diary,234,2,1915-07-12 00:00:00 UTC,12 Jul 1915,Labourse,"[2.68121, 50.49883]","",activity,repair,{},3011307,La Bassée,"[2.8062, 50.53424]"
+1,AWD00034fp,diary,236,5,1915-07-13 00:00:00 UTC,13 Jul 1915,Labourse,"[2.68121, 50.49883]","",diaryDate,13 Jul 1915,"{""day""=>[""13""], ""month""=>[""Jul""], ""year""=>[""1915""]}",3011307,La Bassée,"[2.8062, 50.53424]"
+2,AWD00034fp,diary,236,4,1915-07-13 00:00:00 UTC,13 Jul 1915,Labourse,"[2.68121, 50.49883]","",unit,1st Northamptons,"{""name""=>[""1st Northamptons""], ""context""=>[""relieved_by""]}",3011307,La Bassée,"[2.8062, 50.53424]"
+4,AWD00034fp,diary,236,2,1915-07-13 00:00:00 UTC,13 Jul 1915,Labourse,"[2.68121, 50.49883]","",domestic,accomodation,{},3011307,La Bassée,"[2.8062, 50.53424]"
+5,AWD00034fp,diary,236,4,1915-07-13 00:00:00 UTC,13 Jul 1915,Labourse,"[2.68121, 50.49883]","",activity,movement,{},3011307,La Bassée,"[2.8062, 50.53424]"
+6,AWD00034fp,diary,236,3,1915-07-13 16:00:00 UTC,13 Jul 1915,Labourse,"[2.68121, 50.49883]",0400PM,time,0400PM,{},3011307,La Bassée,"[2.8062, 50.53424]"
+8,AWD00034fp,diary,236,3,1915-07-13 16:00:00 UTC,13 Jul 1915,"bethune, Béthune, BETHUNE","[2.63333, 50.53333]",0400PM,place,"bethune, Béthune, BETHUNE","{""place""=>[""bethune"", ""Béthune"", ""BETHUNE""], ""location""=>[""true""], ""name""=>[""Béthune""], ""lat""=>[""50.53333""], ""long""=>[""2.63333""], ""id""=>[""3033002""]}",3033002,Béthune,"[2.63333, 50.53333]"
+10,AWD00034fp,diary,236,3,1915-07-13 16:00:00 UTC,13 Jul 1915,"bethune, Béthune, BETHUNE","[2.63333, 50.53333]",0400PM,unit,Berkshires,"{""name""=>[""Berkshires""], ""context""=>[""relieved""]}",3033002,Béthune,"[2.63333, 50.53333]"
+15,AWD00034fp,diary,236,3,1915-07-13 16:00:00 UTC,13 Jul 1915,"bethune, Béthune, BETHUNE","[2.63333, 50.53333]",0400PM,person,Corporal  Evans,"{""first""=>[""""], ""surname""=>[""Evans""], ""rank""=>[""Corporal""], ""number""=>[""""], ""reason""=>[""award""], ""unit""=>[""""]}",3033002,Béthune,"[2.63333, 50.53333]"
+16,AWD00034fp,diary,236,3,1915-07-13 16:00:00 UTC,13 Jul 1915,"bethune, Béthune, BETHUNE","[2.63333, 50.53333]",0400PM,person,Lieutenant  Symington,"{""first""=>[""""], ""surname""=>[""Symington""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""award""], ""unit""=>[""""]}",3033002,Béthune,"[2.63333, 50.53333]"
+17,AWD00034fp,diary,236,2,1915-07-13 16:00:00 UTC,13 Jul 1915,"bethune, Béthune, BETHUNE","[2.63333, 50.53333]",0400PM,place,Hohenzollern,"{""place""=>[""Hohenzollern""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3033002,Béthune,"[2.63333, 50.53333]"
+19,AWD00034fp,diary,236,3,1915-07-13 00:00:00 UTC,13 Jul 1915,"bethune, Béthune, BETHUNE","[2.63333, 50.53333]","",diaryDate,13 Jul 1915,"{""day""=>[""13""], ""month""=>[""Jul""], ""year""=>[""1915""]}",3033002,Béthune,"[2.63333, 50.53333]"
+20,AWD00034fp,diary,236,2,1915-07-13 00:00:00 UTC,13 Jul 1915,"bethune, Béthune, BETHUNE","[2.63333, 50.53333]","",person,"Major V Vivian, VIVIAN","{""first""=>[""V""], ""surname""=>[""Vivian"", ""VIVIAN""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""1st Div"", ""1ST DIVISION""]}",3033002,Béthune,"[2.63333, 50.53333]"
+3,AWD00034f2,diary,237,5,1915-07-14 00:00:00 UTC,14 Jul 1915,"bethune, Béthune, BETHUNE","[2.63333, 50.53333]","",diaryDate,14 Jul 1915,"{""day""=>[""14""], ""month""=>[""Jul""], ""year""=>[""1915""]}",3033002,Béthune,"[2.63333, 50.53333]"
+4,AWD00034f2,diary,237,4,1915-07-14 00:00:00 UTC,14 Jul 1915,"bethune, Béthune, BETHUNE","[2.63333, 50.53333]","",weather,fine,{},3033002,Béthune,"[2.63333, 50.53333]"
+5,AWD00034f2,diary,237,5,1915-07-14 00:00:00 UTC,14 Jul 1915,"bethune, Béthune, BETHUNE","[2.63333, 50.53333]","",weather,rain,{},3033002,Béthune,"[2.63333, 50.53333]"
+14,AWD00034f2,diary,237,5,1915-07-14 00:00:00 UTC,14 Jul 1915,"bethune, Béthune, BETHUNE","[2.63333, 50.53333]","",person,Lieutenant  Robinson,"{""first""=>[""""], ""surname""=>[""Robinson""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_leave""], ""unit""=>[""""]}",3033002,Béthune,"[2.63333, 50.53333]"
+15,AWD00034f2,diary,237,2,1915-07-14 00:00:00 UTC,14 Jul 1915,"bethune, Béthune, BETHUNE","[2.63333, 50.53333]","",person,"Lieutenant  Eyre, Cope","{""first""=>[""""], ""surname""=>[""Eyre"", ""Cope""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_leave""], ""unit""=>[""""]}",3033002,Béthune,"[2.63333, 50.53333]"
+16,AWD00034f2,diary,237,4,1915-07-14 00:00:00 UTC,14 Jul 1915,"bethune, Béthune, BETHUNE","[2.63333, 50.53333]","",person,"Second Lieutenant  Nash, NASH","{""first""=>[""""], ""surname""=>[""Nash"", ""NASH""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""returned_leave""], ""unit""=>[""""]}",3033002,Béthune,"[2.63333, 50.53333]"
+17,AWD00034f2,diary,237,5,1915-07-15 00:00:00 UTC,15 Jul 1915,"bethune, Béthune, BETHUNE","[2.63333, 50.53333]","",diaryDate,15 Jul 1915,"{""day""=>[""15""], ""month""=>[""Jul""], ""year""=>[""1915""]}",3033002,Béthune,"[2.63333, 50.53333]"
+18,AWD00034f2,diary,237,5,1915-07-15 00:00:00 UTC,15 Jul 1915,"bethune, Béthune, BETHUNE","[2.63333, 50.53333]","",domestic,medical,{},3033002,Béthune,"[2.63333, 50.53333]"
+19,AWD00034f2,diary,237,4,1915-07-15 00:00:00 UTC,15 Jul 1915,"bethune, Béthune, BETHUNE","[2.63333, 50.53333]","",domestic,hygiene,{},3033002,Béthune,"[2.63333, 50.53333]"
+1,AWD00034ew,diary,238,3,1915-07-15 00:00:00 UTC,15 Jul 1915,"bethune, Béthune, BETHUNE","[2.63333, 50.53333]","",diaryDate,15 Jul 1915,"{""day""=>[""15""], ""month""=>[""Jul""], ""year""=>[""1915""]}",3033002,Béthune,"[2.63333, 50.53333]"
+2,AWD00034ew,diary,238,2,1915-07-15 00:00:00 UTC,15 Jul 1915,"bethune, Béthune, BETHUNE","[2.63333, 50.53333]","",domestic,hygiene,{},3033002,Béthune,"[2.63333, 50.53333]"
+3,AWD00034ew,diary,238,5,1915-07-15 00:00:00 UTC,15 Jul 1915,"bethune, Béthune, BETHUNE","[2.63333, 50.53333]","",domestic,sport,{},3033002,Béthune,"[2.63333, 50.53333]"
+4,AWD00034ew,diary,238,3,1915-07-15 00:00:00 UTC,15 Jul 1915,"bethune, Béthune, BETHUNE","[2.63333, 50.53333]","",weather,rain,{},3033002,Béthune,"[2.63333, 50.53333]"
+5,AWD00034ew,diary,238,4,1915-07-15 00:00:00 UTC,15 Jul 1915,"bethune, Béthune, BETHUNE","[2.63333, 50.53333]","",weather,fine,{},3033002,Béthune,"[2.63333, 50.53333]"
+7,AWD00034ew,diary,238,5,1915-07-16 00:00:00 UTC,16 Jul 1915,"bethune, Béthune, BETHUNE","[2.63333, 50.53333]","",diaryDate,16 Jul 1915,"{""day""=>[""16""], ""month""=>[""Jul""], ""year""=>[""1915""]}",3033002,Béthune,"[2.63333, 50.53333]"
+8,AWD00034ew,diary,238,6,1915-07-16 00:00:00 UTC,16 Jul 1915,"bethune, Béthune, BETHUNE","[2.63333, 50.53333]","",weather,fine,{},3033002,Béthune,"[2.63333, 50.53333]"
+9,AWD00034ew,diary,238,3,1915-07-16 09:00:00 UTC,16 Jul 1915,"bethune, Béthune, BETHUNE","[2.63333, 50.53333]",0900AM,time,0900AM,{},3033002,Béthune,"[2.63333, 50.53333]"
+10,AWD00034ew,diary,238,2,1915-07-16 09:00:00 UTC,16 Jul 1915,"bethune, Béthune, BETHUNE","[2.63333, 50.53333]",0900AM,activity,enemy_activity,{},3033002,Béthune,"[2.63333, 50.53333]"
+11,AWD00034ew,diary,238,3,1915-07-16 09:00:00 UTC,16 Jul 1915,"bethune, Béthune, BETHUNE","[2.63333, 50.53333]",0900AM,place,"Béthune, Bethune, BETHUNE","{""place""=>[""Béthune"", ""Bethune"", ""BETHUNE""], ""location""=>[""false""], ""name""=>[""Béthune""], ""lat""=>[""50.53333""], ""long""=>[""2.63333""], ""id""=>[""3033002""]}",3033002,Béthune,"[2.63333, 50.53333]"
+12,AWD00034ew,diary,238,4,1915-07-16 09:00:00 UTC,16 Jul 1915,"bethune, Béthune, BETHUNE","[2.63333, 50.53333]",0900AM,activity,fire,{},3033002,Béthune,"[2.63333, 50.53333]"
+16,AWD00034ew,diary,238,3,1915-07-16 09:00:00 UTC,16 Jul 1915,"bethune, Béthune, BETHUNE","[2.63333, 50.53333]",0900AM,strength,"officer: 18, other: 795",{},3033002,Béthune,"[2.63333, 50.53333]"
+17,AWD00034ew,diary,238,4,1915-07-16 09:00:00 UTC,16 Jul 1915,"bethune, Béthune, BETHUNE","[2.63333, 50.53333]",0900AM,person,"Second Lieutenant  MAHAR, Mahar, MAHON, Mahan","{""first""=>[""""], ""surname""=>[""MAHAR"", ""Mahar"", ""MAHON"", ""Mahan""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_leave""], ""unit""=>[""""]}",3033002,Béthune,"[2.63333, 50.53333]"
+18,AWD00034ew,diary,238,4,1915-07-16 09:00:00 UTC,16 Jul 1915,"bethune, Béthune, BETHUNE","[2.63333, 50.53333]",0900AM,person,Second Lieutenant  GLEGG,"{""first""=>[""""], ""surname""=>[""GLEGG""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_leave""], ""unit""=>[""""]}",3033002,Béthune,"[2.63333, 50.53333]"
+19,AWD00034ew,diary,238,4,1915-07-16 09:00:00 UTC,16 Jul 1915,"bethune, Béthune, BETHUNE","[2.63333, 50.53333]",0900AM,person,"Second Lieutenant  Fowler, FOWLER","{""first""=>[""""], ""surname""=>[""Fowler"", ""FOWLER""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",3033002,Béthune,"[2.63333, 50.53333]"
+22,AWD00034ew,diary,238,4,1915-07-16 09:00:00 UTC,16 Jul 1915,"bethune, Béthune, BETHUNE","[2.63333, 50.53333]",0900AM,domestic,medical,{},3033002,Béthune,"[2.63333, 50.53333]"
+23,AWD00034ew,diary,238,5,1915-07-16 09:00:00 UTC,16 Jul 1915,"bethune, Béthune, BETHUNE","[2.63333, 50.53333]",0900AM,domestic,sport,{},3033002,Béthune,"[2.63333, 50.53333]"
+25,AWD00034ew,diary,238,2,1915-07-16 09:00:00 UTC,16 Jul 1915,"bethune, Béthune, BETHUNE","[2.63333, 50.53333]",0900AM,domestic,hygiene,{},3033002,Béthune,"[2.63333, 50.53333]"
+26,AWD00034ew,diary,238,2,1915-07-16 09:00:00 UTC,16 Jul 1915,"bethune, Béthune, BETHUNE","[2.63333, 50.53333]",0900AM,activity,training,{},3033002,Béthune,"[2.63333, 50.53333]"
+27,AWD00034ew,diary,238,2,1915-07-16 09:00:00 UTC,16 Jul 1915,"bethune, Béthune, BETHUNE","[2.63333, 50.53333]",0900AM,domestic,parades,{},3033002,Béthune,"[2.63333, 50.53333]"
+1,AWD00034en,diary,239,4,1915-07-17 00:00:00 UTC,17 Jul 1915,"bethune, Béthune, BETHUNE","[2.63333, 50.53333]","",diaryDate,17 Jul 1915,"{""day""=>[""17""], ""month""=>[""Jul""], ""year""=>[""1915""]}",3033002,Béthune,"[2.63333, 50.53333]"
+2,AWD00034en,diary,239,3,1915-07-17 00:00:00 UTC,17 Jul 1915,"bethune, Béthune, BETHUNE","[2.63333, 50.53333]","",weather,overcast,{},3033002,Béthune,"[2.63333, 50.53333]"
+5,AWD00034en,diary,239,4,1915-07-17 00:00:00 UTC,17 Jul 1915,"bethune, Béthune, BETHUNE","[2.63333, 50.53333]","",activity,training,{},3033002,Béthune,"[2.63333, 50.53333]"
+6,AWD00034en,diary,239,4,1915-07-17 00:00:00 UTC,17 Jul 1915,"bethune, Béthune, BETHUNE","[2.63333, 50.53333]","",activity,working,{},3033002,Béthune,"[2.63333, 50.53333]"
+8,AWD00034en,diary,239,2,1915-07-17 00:00:00 UTC,17 Jul 1915,"bethune, Béthune, BETHUNE","[2.63333, 50.53333]","",place,"Annezin, ANNEZIN","{""place""=>[""Annezin"", ""ANNEZIN""], ""location""=>[""false""], ""name""=>[""Annezin""], ""lat""=>[""50.53192""], ""long""=>[""2.61785""], ""id""=>[""3037521""]}",3033002,Béthune,"[2.63333, 50.53333]"
+10,AWD00034en,diary,239,2,1915-07-17 00:00:00 UTC,17 Jul 1915,"bethune, Béthune, BETHUNE","[2.63333, 50.53333]","",domestic,inspections,{},3033002,Béthune,"[2.63333, 50.53333]"
+4,AWD00034f4,orders,240,2,,,,[],,orders,move,{},,,
+5,AWD00034f4,orders,240,2,,,,[],,person,Second Lieutenant  Palmer,"{""first""=>[""""], ""surname""=>[""Palmer""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other"", ""commander""], ""unit""=>[""""]}",,,
+6,AWD00034f4,orders,240,4,,,,[],,date,18 Jul 1915,{},,,
+1,AWD00034dm,diary,241,5,1915-07-18 00:00:00 UTC,18 Jul 1915,"bethune, Béthune, BETHUNE","[2.63333, 50.53333]","",diaryDate,18 Jul 1915,"{""day""=>[""18""], ""month""=>[""Jul""], ""year""=>[""1915""]}",3033002,Béthune,"[2.63333, 50.53333]"
+2,AWD00034dm,diary,241,2,1915-07-18 00:00:00 UTC,18 Jul 1915,"bethune, Béthune, BETHUNE","[2.63333, 50.53333]","",weather,fine,{},3033002,Béthune,"[2.63333, 50.53333]"
+4,AWD00034dm,diary,241,2,1915-07-18 09:30:00 UTC,18 Jul 1915,"bethune, Béthune, BETHUNE","[2.63333, 50.53333]",0930AM,time,0930AM,{},3033002,Béthune,"[2.63333, 50.53333]"
+5,AWD00034dm,diary,241,2,1915-07-18 10:30:00 UTC,18 Jul 1915,"bethune, Béthune, BETHUNE","[2.63333, 50.53333]",1030AM,time,1030AM,{},3033002,Béthune,"[2.63333, 50.53333]"
+6,AWD00034dm,diary,241,5,1915-07-18 10:30:00 UTC,18 Jul 1915,"bethune, Béthune, BETHUNE","[2.63333, 50.53333]",1030AM,activity,fire,{},3033002,Béthune,"[2.63333, 50.53333]"
+7,AWD00034dm,diary,241,4,1915-07-18 10:30:00 UTC,18 Jul 1915,"bethune, Béthune, BETHUNE","[2.63333, 50.53333]",1030AM,activity,working,{},3033002,Béthune,"[2.63333, 50.53333]"
+8,AWD00034dm,diary,241,4,1915-07-18 10:30:00 UTC,18 Jul 1915,"bethune, Béthune, BETHUNE","[2.63333, 50.53333]",1030AM,domestic,sport,{},3033002,Béthune,"[2.63333, 50.53333]"
+9,AWD00034dm,diary,241,2,1915-07-18 10:30:00 UTC,18 Jul 1915,"bethune, Béthune, BETHUNE","[2.63333, 50.53333]",1030AM,place,"Béthune, BETHUNE","{""place""=>[""Béthune"", ""BETHUNE""], ""location""=>[""false""], ""name""=>[""Béthune""], ""lat""=>[""50.53333""], ""long""=>[""2.63333""], ""id""=>[""3033002""]}",3033002,Béthune,"[2.63333, 50.53333]"
+10,AWD00034dm,diary,241,4,1915-07-19 00:00:00 UTC,19 Jul 1915,"bethune, Béthune, BETHUNE","[2.63333, 50.53333]","",diaryDate,19 Jul 1915,"{""day""=>[""19""], ""month""=>[""Jul""], ""year""=>[""1915""]}",3033002,Béthune,"[2.63333, 50.53333]"
+11,AWD00034dm,diary,241,3,1915-07-19 00:00:00 UTC,19 Jul 1915,"bethune, Béthune, BETHUNE","[2.63333, 50.53333]","",weather,fine,{},3033002,Béthune,"[2.63333, 50.53333]"
+16,AWD00034dm,diary,241,2,1915-07-19 00:00:00 UTC,19 Jul 1915,"bethune, Béthune, BETHUNE","[2.63333, 50.53333]","",unit,"London-Scottish, London Scottish","{""name""=>[""London-Scottish"", ""London Scottish""], ""context""=>[""joined"", ""relieved""]}",3033002,Béthune,"[2.63333, 50.53333]"
+20,AWD00034dm,diary,241,3,1915-07-19 00:00:00 UTC,19 Jul 1915,"bethune, Béthune, BETHUNE","[2.63333, 50.53333]","",activity,movement,{},3033002,Béthune,"[2.63333, 50.53333]"
+22,AWD00034dm,diary,241,2,1915-07-19 09:00:00 UTC,19 Jul 1915,"bethune, Béthune, BETHUNE","[2.63333, 50.53333]",0900AM,time,0900AM,{},3033002,Béthune,"[2.63333, 50.53333]"
+23,AWD00034dm,diary,241,3,1915-07-19 09:00:00 UTC,19 Jul 1915,"bethune, Béthune, BETHUNE","[2.63333, 50.53333]",0900AM,gridRef,G 13 c 1 8,{},3033002,Béthune,"[2.63333, 50.53333]"
+24,AWD00034dm,diary,241,3,1915-07-19 09:00:00 UTC,19 Jul 1915,"bethune, Béthune, BETHUNE","[2.63333, 50.53333]",0900AM,place,"Beuvry, BEUYRY, BEUVRY","{""place""=>[""Beuvry"", ""BEUYRY"", ""BEUVRY""], ""location""=>[""false""], ""name""=>[""Beuvry""], ""lat""=>[""50.51674""], ""long""=>[""2.68541""], ""id""=>[""3032903""]}",3033002,Béthune,"[2.63333, 50.53333]"
+25,AWD00034dm,diary,241,3,1915-07-19 09:00:00 UTC,19 Jul 1915,VERMELLES,"[2.74739, 50.48949]",0900AM,place,VERMELLES,"{""place""=>[""VERMELLES""], ""location""=>[""true""], ""name""=>[""Vermelles""], ""lat""=>[""50.48949""], ""long""=>[""2.74739""], ""id""=>[""2969864""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+29,AWD00034dm,diary,241,2,1915-07-19 09:00:00 UTC,19 Jul 1915,VERMELLES,"[2.74739, 50.48949]",0900AM,domestic,accomodation,{},2969864,Vermelles,"[2.74739, 50.48949]"
+30,AWD00034dm,diary,241,2,1915-07-19 10:15:00 UTC,19 Jul 1915,VERMELLES,"[2.74739, 50.48949]",1015AM,time,1015AM,{},2969864,Vermelles,"[2.74739, 50.48949]"
+31,AWD00034dm,diary,241,3,1915-07-19 10:15:00 UTC,19 Jul 1915,VERMELLES,"[2.74739, 50.48949]",1015AM,unit,Scots Guards,"{""name""=>[""Scots Guards""], ""context""=>[""relieved""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+33,AWD00034dm,diary,241,2,1915-07-19 10:15:00 UTC,19 Jul 1915,VERMELLES,"[2.74739, 50.48949]",1015AM,unit,"Northampton, NORTHAMPTONS","{""name""=>[""Northampton"", ""NORTHAMPTONS""], ""context""=>[""joined"", ""relieved""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+36,AWD00034dm,diary,241,3,1915-07-19 10:15:00 UTC,19 Jul 1915,VERMELLES,"[2.74739, 50.48949]",1015AM,unit,"5th Sussex, 2nd Sussex, 2 SUSSEX","{""name""=>[""5th Sussex"", ""2nd Sussex"", ""2 SUSSEX""], ""context""=>[""joined""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+39,AWD00034dm,diary,241,2,1915-07-19 10:15:00 UTC,19 Jul 1915,VERMELLES,"[2.74739, 50.48949]",1015AM,unit,"9th Liverpool, 9 LIVERPOOL","{""name""=>[""9th Liverpool"", ""9 LIVERPOOL""], ""context""=>[""joined"", ""relieved""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+40,AWD00034dm,diary,241,2,1915-07-19 10:15:00 UTC,19 Jul 1915,VERMELLES,"[2.74739, 50.48949]",1015AM,place,"Labourse, LA BOUSSE","{""place""=>[""Labourse"", ""LA BOUSSE""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+3,AWD00034ct,diary,243,2,1915-07-19 10:15:00 UTC,19 Jul 1915,VERMELLES,"[2.74739, 50.48949]",1015AM,place,Noyelles,"{""place""=>[""Noyelles""], ""location""=>[""false""], ""name""=>["""", ""Noyelles-lès-Vermelles""], ""lat""=>["""", ""50.49001""], ""long""=>["""", ""2.72628""], ""id""=>["""", ""2989899""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+7,AWD00034ct,diary,243,3,1915-07-19 10:15:00 UTC,19 Jul 1915,VERMELLES,"[2.74739, 50.48949]",1015AM,place,Vermelles,"{""place""=>[""Vermelles""], ""location""=>[""false""], ""name""=>[""Vermelles""], ""lat""=>[""50.48949""], ""long""=>[""2.74739""], ""id""=>[""2969864""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+11,AWD00034ct,diary,243,3,1915-07-19 10:15:00 UTC,19 Jul 1915,VERMELLES,"[2.74739, 50.48949]",1015AM,place,Labourse,"{""place""=>[""Labourse""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+12,AWD00034ct,diary,243,4,1915-07-19 10:15:00 UTC,19 Jul 1915,VERMELLES,"[2.74739, 50.48949]",1015AM,place,Vermelles,"{""place""=>[""Vermelles""], ""location""=>[""false""], ""name""=>[""Vermelles""], ""lat""=>[""50.48949""], ""long""=>[""2.74739""], ""id""=>[""2969864""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+14,AWD00034ct,diary,243,4,1915-07-20 00:00:00 UTC,20 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",diaryDate,20 Jul 1915,"{""day""=>[""20""], ""month""=>[""Jul""], ""year""=>[""1915""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+17,AWD00034ct,diary,243,3,1915-07-20 00:00:00 UTC,20 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",weather,fine,{},2969864,Vermelles,"[2.74739, 50.48949]"
+19,AWD00034ct,diary,243,4,1915-07-20 00:00:00 UTC,20 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",activity,working,{},2969864,Vermelles,"[2.74739, 50.48949]"
+23,AWD00034ct,diary,243,2,1915-07-20 00:00:00 UTC,20 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",person,"Second Lieutenant,Lieutenant  Dickerson, DICKINSON","{""first""=>[""""], ""surname""=>[""Dickerson"", ""DICKINSON""], ""rank""=>[""Second Lieutenant"", ""Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded"", ""departed_sick""], ""unit""=>["""", ""1ST DIVISION: 2ND INFANTRY  BRIGADE: 2ND BATTALION KING'S OWN ROYAL RIFLE CORPS. ""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+1,AWD00034dk,diary,244,5,1915-07-21 00:00:00 UTC,21 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",diaryDate,21 Jul 1915,"{""day""=>[""21""], ""month""=>[""Jul""], ""year""=>[""1915""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+2,AWD00034dk,diary,244,4,1915-07-21 00:00:00 UTC,21 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",weather,fine,{},2969864,Vermelles,"[2.74739, 50.48949]"
+3,AWD00034dk,diary,244,3,1915-07-21 00:00:00 UTC,21 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",person,Lieutenant  Bristowe,"{""first""=>[""""], ""surname""=>[""Bristowe""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""discipline""], ""unit""=>[""""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+10,AWD00034dk,diary,244,2,1915-07-21 00:00:00 UTC,21 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",activity,fire,{},2969864,Vermelles,"[2.74739, 50.48949]"
+13,AWD00034dk,diary,244,5,1915-07-21 00:00:00 UTC,21 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",person,Captain  Brady,"{""first""=>[""""], ""surname""=>[""Brady""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+14,AWD00034dk,diary,244,5,1915-07-21 00:00:00 UTC,21 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",person,Second Lieutenant  Dowden,"{""first""=>[""""], ""surname""=>[""Dowden""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+16,AWD00034dk,diary,244,4,1915-07-21 00:00:00 UTC,21 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",strength,"officer: 20, other: 886",{},2969864,Vermelles,"[2.74739, 50.48949]"
+17,AWD00034dk,diary,244,2,1915-07-21 00:00:00 UTC,21 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",strength,"officer: 17, other: 787",{},2969864,Vermelles,"[2.74739, 50.48949]"
+7,AWD00034ep,other,245,2,,,,[],,activity,working,{},,,
+18,AWD00034ep,other,245,2,,,,[],,place,le Rutoire,"{""place""=>[""le Rutoire""], ""location""=>[""false"", ""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+1,AWD00034ee,diary,246,5,1915-07-22 00:00:00 UTC,22 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",diaryDate,22 Jul 1915,"{""day""=>[""22""], ""month""=>[""Jul""], ""year""=>[""1915""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+3,AWD00034ee,diary,246,5,1915-07-22 00:00:00 UTC,22 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",weather,fine,{},2969864,Vermelles,"[2.74739, 50.48949]"
+4,AWD00034ee,diary,246,3,1915-07-22 00:00:00 UTC,22 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",weather,rain,{},2969864,Vermelles,"[2.74739, 50.48949]"
+5,AWD00034ee,diary,246,2,1915-07-22 08:00:00 UTC,22 Jul 1915,VERMELLES,"[2.74739, 50.48949]",0800AM,time,0800AM,{},2969864,Vermelles,"[2.74739, 50.48949]"
+7,AWD00034ee,diary,246,4,1915-07-22 08:00:00 UTC,22 Jul 1915,VERMELLES,"[2.74739, 50.48949]",0800AM,activity,working,{},2969864,Vermelles,"[2.74739, 50.48949]"
+9,AWD00034ee,diary,246,2,1915-07-22 12:00:00 UTC,22 Jul 1915,VERMELLES,"[2.74739, 50.48949]",1200PM,time,1200PM,{},2969864,Vermelles,"[2.74739, 50.48949]"
+13,AWD00034ee,diary,246,2,1915-07-22 12:00:00 UTC,22 Jul 1915,VERMELLES,"[2.74739, 50.48949]",1200PM,domestic,inspections,{},2969864,Vermelles,"[2.74739, 50.48949]"
+15,AWD00034ee,diary,246,3,1915-07-22 12:00:00 UTC,22 Jul 1915,VERMELLES,"[2.74739, 50.48949]",1200PM,place,Noyelles,"{""place""=>[""Noyelles""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+16,AWD00034ee,diary,246,4,1915-07-22 12:00:00 UTC,22 Jul 1915,VERMELLES,"[2.74739, 50.48949]",1200PM,activity,fire,{},2969864,Vermelles,"[2.74739, 50.48949]"
+17,AWD00034ee,diary,246,2,1915-07-22 12:00:00 UTC,22 Jul 1915,VERMELLES,"[2.74739, 50.48949]",1200PM,place,"Vermelles, VERMELLES","{""place""=>[""Vermelles"", ""VERMELLES""], ""location""=>[""false""], ""name""=>["""", ""Vermelles""], ""lat""=>["""", ""50.48949""], ""long""=>["""", ""2.74739""], ""id""=>["""", ""2969864""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+20,AWD00034ee,diary,246,3,1915-07-22 12:00:00 UTC,22 Jul 1915,VERMELLES,"[2.74739, 50.48949]",1200PM,activity,attack,{},2969864,Vermelles,"[2.74739, 50.48949]"
+21,AWD00034ee,diary,246,3,1915-07-22 20:00:00 UTC,22 Jul 1915,VERMELLES,"[2.74739, 50.48949]",0800PM,time,0800PM,{},2969864,Vermelles,"[2.74739, 50.48949]"
+22,AWD00034ee,diary,246,3,1915-07-22 20:00:00 UTC,22 Jul 1915,VERMELLES,"[2.74739, 50.48949]",0800PM,place,Souchez,"{""place""=>[""Souchez""], ""location""=>[""false""], ""name""=>[""Souchez""], ""lat""=>[""50.39291""], ""long""=>[""2.73984""], ""id""=>[""2974123""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+23,AWD00034ee,diary,246,2,1915-07-22 20:00:00 UTC,22 Jul 1915,VERMELLES,"[2.74739, 50.48949]",0800PM,activity,fire,{},2969864,Vermelles,"[2.74739, 50.48949]"
+1,AWD00034fo,diary,247,5,1915-07-23 00:00:00 UTC,23 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",diaryDate,23 Jul 1915,"{""day""=>[""23""], ""month""=>[""Jul""], ""year""=>[""1915""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+2,AWD00034fo,diary,247,5,1915-07-23 00:00:00 UTC,23 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",weather,fine,{},2969864,Vermelles,"[2.74739, 50.48949]"
+4,AWD00034fo,diary,247,5,1915-07-23 00:00:00 UTC,23 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",activity,working,{},2969864,Vermelles,"[2.74739, 50.48949]"
+5,AWD00034fo,diary,247,2,1915-07-23 00:00:00 UTC,23 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",activity,quiet,{},2969864,Vermelles,"[2.74739, 50.48949]"
+6,AWD00034fo,diary,247,5,1915-07-24 00:00:00 UTC,24 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",diaryDate,24 Jul 1915,"{""day""=>[""24""], ""month""=>[""Jul""], ""year""=>[""1915""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+7,AWD00034fo,diary,247,4,1915-07-24 00:00:00 UTC,24 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",weather,fine,{},2969864,Vermelles,"[2.74739, 50.48949]"
+9,AWD00034fo,diary,247,2,1915-07-24 20:00:00 UTC,24 Jul 1915,VERMELLES,"[2.74739, 50.48949]",0800PM,time,0800PM,{},2969864,Vermelles,"[2.74739, 50.48949]"
+10,AWD00034fo,diary,247,2,1915-07-24 20:00:00 UTC,24 Jul 1915,VERMELLES,"[2.74739, 50.48949]",0800PM,activity,working,{},2969864,Vermelles,"[2.74739, 50.48949]"
+11,AWD00034fo,diary,247,3,1915-07-24 20:00:00 UTC,24 Jul 1915,VERMELLES,"[2.74739, 50.48949]",0800PM,activity,fire,{},2969864,Vermelles,"[2.74739, 50.48949]"
+13,AWD00034fo,diary,247,4,1915-07-24 20:00:00 UTC,24 Jul 1915,VERMELLES,"[2.74739, 50.48949]",0800PM,person,"Second Lieutenant  Simpson, SIMPSON","{""first""=>[""""], ""surname""=>[""Simpson"", ""SIMPSON""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+14,AWD00034fo,diary,247,4,1915-07-24 20:00:00 UTC,24 Jul 1915,VERMELLES,"[2.74739, 50.48949]",0800PM,person,"Lieutenant  Dubs, DUBS, Dobs, Dabs","{""first""=>[""""], ""surname""=>[""Dubs"", ""DUBS"", ""Dobs"", ""Dabs""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""A Coy""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+17,AWD00034fo,diary,247,3,1915-07-24 20:00:00 UTC,24 Jul 1915,VERMELLES,"[2.74739, 50.48949]",0800PM,person,"Colonel  Usher, Ushir, USH[...]R","{""first""=>[""""], ""surname""=>[""Usher"", ""Ushir"", ""USH[...]R""], ""rank""=>[""Colonel""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+1,AWD00034dg,diary,248,5,1915-07-25 00:00:00 UTC,25 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",diaryDate,25 Jul 1915,"{""day""=>[""25""], ""month""=>[""Jul""], ""year""=>[""1915""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+2,AWD00034dg,diary,248,4,1915-07-25 00:00:00 UTC,25 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",weather,fine,{},2969864,Vermelles,"[2.74739, 50.48949]"
+3,AWD00034dg,diary,248,3,1915-07-25 15:00:00 UTC,25 Jul 1915,VERMELLES,"[2.74739, 50.48949]",0300PM,time,0300PM,{},2969864,Vermelles,"[2.74739, 50.48949]"
+4,AWD00034dg,diary,248,3,1915-07-25 15:00:00 UTC,25 Jul 1915,VERMELLES,"[2.74739, 50.48949]",0300PM,unit,"2nd Sussex, 2 Sussex, Sussex","{""name""=>[""2nd Sussex"", ""2 Sussex"", ""Sussex""], ""context""=>[""relieved""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+7,AWD00034dg,diary,248,3,1915-07-25 17:00:00 UTC,25 Jul 1915,VERMELLES,"[2.74739, 50.48949]",0500PM,time,0500PM,{},2969864,Vermelles,"[2.74739, 50.48949]"
+10,AWD00034dg,diary,248,3,1915-07-25 17:00:00 UTC,25 Jul 1915,VERMELLES,"[2.74739, 50.48949]",0500PM,unit,2 Sussex,"{""name""=>[""2 Sussex""], ""context""=>[""relieved""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+11,AWD00034dg,diary,248,2,1915-07-25 17:00:00 UTC,25 Jul 1915,VERMELLES,"[2.74739, 50.48949]",0500PM,unit,9 Liverpool,"{""name""=>[""9 Liverpool""], ""context""=>[""joined"", ""right""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+16,AWD00034dg,diary,248,3,1915-07-25 17:00:00 UTC,25 Jul 1915,VERMELLES,"[2.74739, 50.48949]",0500PM,place,"Vermelles, vermelles, VERMELLES","{""place""=>[""Vermelles"", ""vermelles"", ""VERMELLES""], ""location""=>[""false""], ""name""=>[""Vermelles""], ""lat""=>[""50.48949""], ""long""=>[""2.74739""], ""id""=>[""2969864""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+22,AWD00034dg,diary,248,3,1915-07-25 17:00:00 UTC,25 Jul 1915,VERMELLES,"[2.74739, 50.48949]",0500PM,place,"labourse, Labourse, LABOURSE","{""place""=>[""labourse"", ""Labourse"", ""LABOURSE""], ""location""=>[""false""], ""name""=>[""Labourse""], ""lat""=>[""50.49883""], ""long""=>[""2.68121""], ""id""=>[""3010855""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+23,AWD00034dg,diary,248,3,1915-07-25 17:00:00 UTC,25 Jul 1915,VERMELLES,"[2.74739, 50.48949]",0500PM,activity,fire,{},2969864,Vermelles,"[2.74739, 50.48949]"
+24,AWD00034dg,diary,248,2,1915-07-25 17:00:00 UTC,25 Jul 1915,VERMELLES,"[2.74739, 50.48949]",0500PM,activity,attack,{},2969864,Vermelles,"[2.74739, 50.48949]"
+25,AWD00034dg,diary,248,4,1915-07-25 17:00:00 UTC,25 Jul 1915,VERMELLES,"[2.74739, 50.48949]",0500PM,activity,enemy_activity,{},2969864,Vermelles,"[2.74739, 50.48949]"
+29,AWD00034dg,diary,248,3,1915-07-25 17:00:00 UTC,25 Jul 1915,VERMELLES,"[2.74739, 50.48949]",0500PM,place,"LENS, Lens, lens","{""place""=>[""LENS"", ""Lens"", ""lens""], ""location""=>[""false""], ""name""=>[""Lens""], ""lat""=>[""50.43302""], ""long""=>[""2.82791""], ""id""=>[""3003093""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+3,AWD00034d4,report,249,2,,,,[],,title,MISCELLANEOUS,{},,,
+6,AWD00034d4,report,249,3,,,,[],,person,Major J CHARTERIS,"{""first""=>[""J""], ""surname""=>[""CHARTERIS""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""General Staff, 1st Army"", ""GENERAL STAFF: 1ST ARMY"", ""1st Army""]}",,,
+7,AWD00034d4,report,249,3,,,,[],,date,25 Jul 1915,{},,,
+3,AWD00034cq,diary,250,4,1915-07-26 00:00:00 UTC,26 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",diaryDate,26 Jul 1915,"{""day""=>[""26""], ""month""=>[""Jul""], ""year""=>[""1915""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+4,AWD00034cq,diary,250,4,1915-07-26 00:00:00 UTC,26 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",weather,fine,{},2969864,Vermelles,"[2.74739, 50.48949]"
+5,AWD00034cq,diary,250,2,1915-07-26 00:00:00 UTC,26 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",activity,repair,{},2969864,Vermelles,"[2.74739, 50.48949]"
+6,AWD00034cq,diary,250,3,1915-07-26 00:00:00 UTC,26 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",activity,fire,{},2969864,Vermelles,"[2.74739, 50.48949]"
+7,AWD00034cq,diary,250,3,1915-07-26 00:00:00 UTC,26 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",activity,attack,{},2969864,Vermelles,"[2.74739, 50.48949]"
+8,AWD00034cq,diary,250,4,1915-07-26 00:00:00 UTC,26 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",activity,enemy_activity,{},2969864,Vermelles,"[2.74739, 50.48949]"
+9,AWD00034cq,diary,250,3,1915-07-26 00:00:00 UTC,26 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",place,Hohenzollern,"{""place""=>[""Hohenzollern""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+10,AWD00034cq,diary,250,2,1915-07-26 00:00:00 UTC,26 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",activity,enemy_activity,{},2969864,Vermelles,"[2.74739, 50.48949]"
+11,AWD00034cq,diary,250,3,1915-07-26 00:00:00 UTC,26 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",person,Lieutenant  Dickerson,"{""first""=>[""""], ""surname""=>[""Dickerson""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""returned_hospital""], ""unit""=>[""""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+13,AWD00034cq,diary,250,5,1915-07-27 00:00:00 UTC,27 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",diaryDate,27 Jul 1915,"{""day""=>[""27""], ""month""=>[""Jul""], ""year""=>[""1915""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+14,AWD00034cq,diary,250,4,1915-07-27 00:00:00 UTC,27 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",weather,rain,{},2969864,Vermelles,"[2.74739, 50.48949]"
+15,AWD00034cq,diary,250,2,1915-07-27 00:00:00 UTC,27 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",activity,enemy_activity,{},2969864,Vermelles,"[2.74739, 50.48949]"
+16,AWD00034cq,diary,250,3,1915-07-27 00:00:00 UTC,27 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",place,Hohenzollern,"{""place""=>[""Hohenzollern""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+17,AWD00034cq,diary,250,3,1915-07-27 00:00:00 UTC,27 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",activity,enemy_activity,{},2969864,Vermelles,"[2.74739, 50.48949]"
+1,AWD00034dy,diary,251,5,1915-07-28 00:00:00 UTC,28 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",diaryDate,28 Jul 1915,"{""day""=>[""28""], ""month""=>[""Jul""], ""year""=>[""1915""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+2,AWD00034dy,diary,251,3,1915-07-28 00:00:00 UTC,28 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",weather,fine,{},2969864,Vermelles,"[2.74739, 50.48949]"
+7,AWD00034dy,diary,251,3,1915-07-28 00:00:00 UTC,28 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",place,Hohenzollern,"{""place""=>[""Hohenzollern""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+8,AWD00034dy,diary,251,5,1915-07-28 00:00:00 UTC,28 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",activity,enemy_activity,{},2969864,Vermelles,"[2.74739, 50.48949]"
+9,AWD00034dy,diary,251,4,1915-07-28 00:00:00 UTC,28 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",place,Vermelles,"{""place""=>[""Vermelles""], ""location""=>[""false""], ""name""=>[""Vermelles""], ""lat""=>[""50.48949""], ""long""=>[""2.74739""], ""id""=>[""2969864""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+10,AWD00034dy,diary,251,2,1915-07-28 13:00:00 UTC,28 Jul 1915,VERMELLES,"[2.74739, 50.48949]",0100PM,time,0100PM,{},2969864,Vermelles,"[2.74739, 50.48949]"
+11,AWD00034dy,diary,251,2,1915-07-28 14:00:00 UTC,28 Jul 1915,VERMELLES,"[2.74739, 50.48949]",0200PM,time,0200PM,{},2969864,Vermelles,"[2.74739, 50.48949]"
+12,AWD00034dy,diary,251,4,1915-07-28 14:00:00 UTC,28 Jul 1915,VERMELLES,"[2.74739, 50.48949]",0200PM,domestic,rations,{},2969864,Vermelles,"[2.74739, 50.48949]"
+13,AWD00034dy,diary,251,3,1915-07-28 14:00:00 UTC,28 Jul 1915,VERMELLES,"[2.74739, 50.48949]",0200PM,activity,repair,{},2969864,Vermelles,"[2.74739, 50.48949]"
+1,AWD00034dj,diary,252,5,1915-07-29 00:00:00 UTC,29 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",diaryDate,29 Jul 1915,"{""day""=>[""29""], ""month""=>[""Jul""], ""year""=>[""1915""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+2,AWD00034dj,diary,252,4,1915-07-29 00:00:00 UTC,29 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",weather,fine,{},2969864,Vermelles,"[2.74739, 50.48949]"
+4,AWD00034dj,diary,252,2,1915-07-29 00:00:00 UTC,29 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",activity,enemy_activity,{},2969864,Vermelles,"[2.74739, 50.48949]"
+5,AWD00034dj,diary,252,3,1915-07-29 00:00:00 UTC,29 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",place,Remamghe,"{""place""=>[""Remamghe""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+6,AWD00034dj,diary,252,3,1915-07-29 00:00:00 UTC,29 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",place,"ypres, Ypres, YPRES","{""place""=>[""ypres"", ""Ypres"", ""YPRES""], ""location""=>[""false""], ""name""=>[""Ieper""], ""lat""=>[""50.85114""], ""long""=>[""2.88569""], ""id""=>[""2795100""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+7,AWD00034dj,diary,252,3,1915-07-29 22:40:00 UTC,29 Jul 1915,VERMELLES,"[2.74739, 50.48949]",1040PM,time,1040PM,{},2969864,Vermelles,"[2.74739, 50.48949]"
+8,AWD00034dj,diary,252,2,1915-07-29 23:35:00 UTC,29 Jul 1915,VERMELLES,"[2.74739, 50.48949]",1135PM,time,1135PM,{},2969864,Vermelles,"[2.74739, 50.48949]"
+9,AWD00034dj,diary,252,2,1915-07-29 23:35:00 UTC,29 Jul 1915,VERMELLES,"[2.74739, 50.48949]",1135PM,place,"calais, CALAIS","{""place""=>[""calais"", ""CALAIS""], ""location""=>[""false""], ""name""=>[""Calais""], ""lat""=>[""50.95194""], ""long""=>[""1.85635""], ""id""=>[""3029162""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+11,AWD00034dj,diary,252,4,1915-07-29 23:35:00 UTC,29 Jul 1915,VERMELLES,"[2.74739, 50.48949]",1135PM,activity,enemy_activity,{},2969864,Vermelles,"[2.74739, 50.48949]"
+15,AWD00034dj,diary,252,2,1915-07-29 23:15:00 UTC,29 Jul 1915,VERMELLES,"[2.74739, 50.48949]",1115PM,time,1115PM,{},2969864,Vermelles,"[2.74739, 50.48949]"
+16,AWD00034dj,diary,252,3,1915-07-29 23:15:00 UTC,29 Jul 1915,VERMELLES,"[2.74739, 50.48949]",1115PM,place,"ginchy, Cuinchy, GINCHY","{""place""=>[""ginchy"", ""Cuinchy"", ""GINCHY""], ""location""=>[""false""], ""name""=>[""Ginchy""], ""lat""=>[""50.02337""], ""long""=>[""2.83176""], ""id""=>[""3016016""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+17,AWD00034dj,diary,252,3,1915-07-29 17:00:00 UTC,29 Jul 1915,VERMELLES,"[2.74739, 50.48949]",0500PM,time,0500PM,{},2969864,Vermelles,"[2.74739, 50.48949]"
+18,AWD00034dj,diary,252,3,1915-07-29 17:00:00 UTC,29 Jul 1915,VERMELLES,"[2.74739, 50.48949]",0500PM,activity,attack,{},2969864,Vermelles,"[2.74739, 50.48949]"
+19,AWD00034dj,diary,252,3,1915-07-29 17:00:00 UTC,29 Jul 1915,VERMELLES,"[2.74739, 50.48949]",0500PM,activity,fire,{},2969864,Vermelles,"[2.74739, 50.48949]"
+20,AWD00034dj,diary,252,3,1915-07-29 10:45:00 UTC,29 Jul 1915,VERMELLES,"[2.74739, 50.48949]",1045AM,time,1045AM,{},2969864,Vermelles,"[2.74739, 50.48949]"
+23,AWD00034dj,diary,252,2,1915-07-29 10:45:00 UTC,29 Jul 1915,VERMELLES,"[2.74739, 50.48949]",1045AM,activity,fire,{},2969864,Vermelles,"[2.74739, 50.48949]"
+25,AWD00034dj,diary,252,4,1915-07-29 10:45:00 UTC,29 Jul 1915,VERMELLES,"[2.74739, 50.48949]",1045AM,activity,repair,{},2969864,Vermelles,"[2.74739, 50.48949]"
+26,AWD00034dj,diary,252,2,1915-07-29 10:45:00 UTC,29 Jul 1915,VERMELLES,"[2.74739, 50.48949]",1045AM,place,Hayward Heath,"{""place""=>[""Hayward Heath""], ""location""=>[""false""], ""name""=>[""Ginchy"", ""Cuinchy""], ""lat""=>[""50.02337"", ""50.5175""], ""long""=>[""2.83176"", ""2.7488""], ""id""=>[""3016016"", ""3022134""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+30,AWD00034dj,diary,252,4,1915-07-29 10:45:00 UTC,29 Jul 1915,VERMELLES,"[2.74739, 50.48949]",1045AM,person,Lieutenant  Symington,"{""first""=>[""""], ""surname""=>[""Symington""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+31,AWD00034dj,diary,252,3,1915-07-29 10:45:00 UTC,29 Jul 1915,VERMELLES,"[2.74739, 50.48949]",1045AM,person,Sergeant  Blackburn,"{""first""=>[""""], ""surname""=>[""Blackburn""], ""rank""=>[""Sergeant""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+33,AWD00034dj,diary,252,2,1915-07-29 10:45:00 UTC,29 Jul 1915,VERMELLES,"[2.74739, 50.48949]",1045AM,activity,attack,{},2969864,Vermelles,"[2.74739, 50.48949]"
+4,AWD00034fg,diary,253,2,1915-07-29 10:45:00 UTC,29 Jul 1915,VERMELLES,"[2.74739, 50.48949]",1045AM,place,"Hohenzollern, HOHENZOLLERN","{""place""=>[""Hohenzollern"", ""HOHENZOLLERN""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+6,AWD00034fg,diary,253,3,1915-07-29 10:45:00 UTC,29 Jul 1915,VERMELLES,"[2.74739, 50.48949]",1045AM,activity,enemy_activity,{},2969864,Vermelles,"[2.74739, 50.48949]"
+1,AWD00034e1,diary,255,5,1915-07-30 00:00:00 UTC,30 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",diaryDate,30 Jul 1915,"{""day""=>[""30""], ""month""=>[""Jul""], ""year""=>[""1915""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+2,AWD00034e1,diary,255,4,1915-07-30 00:00:00 UTC,30 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",weather,fine,{},2969864,Vermelles,"[2.74739, 50.48949]"
+3,AWD00034e1,diary,255,2,1915-07-30 17:00:00 UTC,30 Jul 1915,VERMELLES,"[2.74739, 50.48949]",0500PM,time,0500PM,{},2969864,Vermelles,"[2.74739, 50.48949]"
+4,AWD00034e1,diary,255,4,1915-07-30 17:00:00 UTC,30 Jul 1915,VERMELLES,"[2.74739, 50.48949]",0500PM,weather,rain,{},2969864,Vermelles,"[2.74739, 50.48949]"
+5,AWD00034e1,diary,255,6,1915-07-30 17:00:00 UTC,30 Jul 1915,VERMELLES,"[2.74739, 50.48949]",0500PM,activity,enemy_activity,{},2969864,Vermelles,"[2.74739, 50.48949]"
+6,AWD00034e1,diary,255,2,1915-07-30 17:00:00 UTC,30 Jul 1915,VERMELLES,"[2.74739, 50.48949]",0500PM,place,Hohenzollern,"{""place""=>[""Hohenzollern""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+8,AWD00034e1,diary,255,4,1915-07-30 17:00:00 UTC,30 Jul 1915,VERMELLES,"[2.74739, 50.48949]",0500PM,place,Lens,"{""place""=>[""Lens""], ""location""=>[""false""], ""name""=>[""Lens""], ""lat""=>[""50.43302""], ""long""=>[""2.82791""], ""id""=>[""3003093""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+9,AWD00034e1,diary,255,3,1915-07-30 17:00:00 UTC,30 Jul 1915,VERMELLES,"[2.74739, 50.48949]",0500PM,place,"La Bassée, LA BASSEE, La Bassee","{""place""=>[""La Bassée"", ""LA BASSEE"", ""La Bassee""], ""location""=>[""false""], ""name""=>[""La Bassée""], ""lat""=>[""50.53424""], ""long""=>[""2.8062""], ""id""=>[""3011307""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+13,AWD00034e1,diary,255,2,1915-07-30 17:00:00 UTC,30 Jul 1915,VERMELLES,"[2.74739, 50.48949]",0500PM,activity,attack,{},2969864,Vermelles,"[2.74739, 50.48949]"
+18,AWD00034e1,diary,255,4,1915-07-30 17:00:00 UTC,30 Jul 1915,VERMELLES,"[2.74739, 50.48949]",0500PM,activity,repair,{},2969864,Vermelles,"[2.74739, 50.48949]"
+1,AWD00034cw,diary,256,6,1915-07-31 00:00:00 UTC,31 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",diaryDate,31 Jul 1915,"{""day""=>[""31""], ""month""=>[""Jul""], ""year""=>[""1915""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+2,AWD00034cw,diary,256,5,1915-07-31 00:00:00 UTC,31 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",weather,fine,{},2969864,Vermelles,"[2.74739, 50.48949]"
+3,AWD00034cw,diary,256,3,1915-07-31 00:00:00 UTC,31 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",activity,repair,{},2969864,Vermelles,"[2.74739, 50.48949]"
+5,AWD00034cw,diary,256,4,1915-07-31 00:00:00 UTC,31 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",person,Sergeant  Nevolle,"{""first""=>[""""], ""surname""=>[""Nevolle""], ""rank""=>[""Sergeant""], ""number""=>[""""], ""reason""=>[""casualty_kia"", ""casualty_non""], ""unit""=>[""""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+6,AWD00034cw,diary,256,2,1915-07-31 00:00:00 UTC,31 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",casualties,non_combat: 1,{},2969864,Vermelles,"[2.74739, 50.48949]"
+8,AWD00034cw,diary,256,6,1915-07-31 00:00:00 UTC,31 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",person,Second Lieutenant  Wenham,"{""first""=>[""""], ""surname""=>[""Wenham""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""promotion""], ""unit""=>[""""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+9,AWD00034cw,diary,256,2,1915-07-31 00:00:00 UTC,31 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",unit,"1ST DIVISION: 3RD GUARDS BRIGADE, 1ST DIVISION: 2ND GUARDS BRIGADE","{""name""=>[""1ST DIVISION: 3RD GUARDS BRIGADE"", ""1ST DIVISION: 2ND GUARDS BRIGADE""], ""context""=>[""relieved"", ""relieved_by""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+10,AWD00034cw,diary,256,2,1915-07-31 00:00:00 UTC,31 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",unit,"Welsh Regt, Welch Regt","{""name""=>[""Welsh Regt"", ""Welch Regt""], ""context""=>[""relieved_by""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+15,AWD00034cw,diary,256,3,1915-07-31 17:00:00 UTC,31 Jul 1915,VERMELLES,"[2.74739, 50.48949]",0500PM,time,0500PM,{},2969864,Vermelles,"[2.74739, 50.48949]"
+16,AWD00034cw,diary,256,2,1915-07-31 17:00:00 UTC,31 Jul 1915,VERMELLES,"[2.74739, 50.48949]",0500PM,domestic,accomodation,{},2969864,Vermelles,"[2.74739, 50.48949]"
+18,AWD00034cw,diary,256,2,1915-07-31 17:00:00 UTC,31 Jul 1915,VERMELLES,"[2.74739, 50.48949]",0500PM,activity,movement,{},2969864,Vermelles,"[2.74739, 50.48949]"
+19,AWD00034cw,diary,256,4,1915-07-31 17:00:00 UTC,31 Jul 1915,VERMELLES,"[2.74739, 50.48949]",0500PM,place,Verquin,"{""place""=>[""Verquin""], ""location""=>[""true"", ""false""], ""name""=>["""", ""Verquin""], ""lat""=>["""", ""50.5024""], ""long""=>["""", ""2.63888""], ""id""=>["""", ""2969722""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+22,AWD00034cw,diary,256,3,1915-07-31 17:00:00 UTC,31 Jul 1915,VERMELLES,"[2.74739, 50.48949]",0500PM,strength,"officer: 27, other: 997",{},2969864,Vermelles,"[2.74739, 50.48949]"
+4,AWD00034co,diary,257,2,1915-07-01 00:00:00 UTC,1 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",diaryDate,1 Jul 1915,"{""day""=>[""1""], ""month""=>[""Jul""], ""year""=>[""1915""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+5,AWD00034co,diary,257,4,1915-07-01 00:00:00 UTC,1 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",person,"Lieutenant Colonel  Philips, Phillips, Philip, PHILIPS, D.S.O.","{""first""=>[""""], ""surname""=>[""Philips"", ""Phillips"", ""Philip"", ""PHILIPS, D.S.O.""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+7,AWD00034co,diary,257,3,1915-07-01 00:00:00 UTC,1 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",person,Lieutenant P J R Currie,"{""first""=>[""P J R""], ""surname""=>[""Currie""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+9,AWD00034co,diary,257,4,1915-07-01 00:00:00 UTC,1 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",person,Lieutenant A Robinson,"{""first""=>[""A""], ""surname""=>[""Robinson""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+10,AWD00034co,diary,257,3,1915-07-01 00:00:00 UTC,1 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",person,"Second Lieutenant T B Mahan, Mahar, MAHAR","{""first""=>[""T B""], ""surname""=>[""Mahan"", ""Mahar"", ""MAHAR""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+11,AWD00034co,diary,257,2,1915-07-01 00:00:00 UTC,1 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",person,Lieutenant  Ward,"{""first""=>[""""], ""surname""=>[""Ward""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+12,AWD00034co,diary,257,3,1915-07-01 00:00:00 UTC,1 Jul 1915,VERMELLES,"[2.74739, 50.48949]","",person,Second Lieutenant T R Reid,"{""first""=>[""T R""], ""surname""=>[""Reid""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+2,AWD00034d0,"other, diary",258,2,,,,[],,diaryDate,1 Jul 1915,"{""day""=>[""1""], ""month""=>[""Jul""], ""year""=>[""1915""]}",,,
+4,AWD00034d0,"other, diary",258,2,,,,[],,person,Lieutenant G R Dabs,"{""first""=>[""G R""], ""surname""=>[""Dabs""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other"", ""commander""], ""unit""=>["""", ""A Co.""]}",,,
+7,AWD00034d0,"other, diary",258,2,,,,[],,person,Lieutenant J C G Stewart,"{""first""=>[""J C G""], ""surname""=>[""Stewart""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+8,AWD00034d0,"other, diary",258,2,,,,[],,person,"Second Lieutenant G G Fowler, Fowles","{""first""=>[""G G""], ""surname""=>[""Fowler"", ""Fowles""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+13,AWD00034d0,"other, diary",258,2,,,,[],,person,Lieutenant A W Symington,"{""first""=>[""A W""], ""surname""=>[""Symington""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+7,AWD00034f6,orders,260,2,,,,[],,person,"Brigadier General C,G Thesiger, Thesinger","{""first""=>[""C"", ""G""], ""surname""=>[""Thesiger"", ""Thesinger""], ""rank""=>[""Brigadier General""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""2nd Infantry Brigade"", ""2nd Inf. Brgd.""]}",,,
+10,AWD00034f6,orders,260,4,,,,[],,date,30 Jun 1915,{},,,
+3,AWD00034dp,orders,261,2,,,,[],,orders,move,{},,,
+2,AWD00034et,orders,262,2,,,,[],,reference,Operation Order No. 17,{},,,
+4,AWD00034et,orders,262,2,,,,[],,person,Brigadier General G Thesiger,"{""first""=>[""G""], ""surname""=>[""Thesiger""], ""rank""=>[""Brigadier General""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""2nd Infantry Brigade"", ""2nd Inf. Brgd.""]}",,,
+7,AWD00034et,orders,262,5,,,,[],,date,6 Jul 1915,{},,,
+3,AWD00034fq,orders,263,2,,,,[],,reference,Operation Order No. 18,{},,,
+4,AWD00034fq,orders,263,3,,,,[],,person,Brigadier General G Thesiger,"{""first""=>[""G""], ""surname""=>[""Thesiger""], ""rank""=>[""Brigadier General""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""2nd Inf. Brgd."", ""2nd Infantry Brigade"", """"]}",,,
+6,AWD00034fq,orders,263,2,,,,[],,date,6 Jul 1915,{},,,
+10,AWD00034fq,orders,263,7,,,,[],,orders,other,{},,,
+2,AWD00034cz,orders,264,3,,,,[],,orders,move,{},,,
+5,AWD00034cz,orders,264,2,,,,[],,person,"Major N,W Terry","{""first""=>[""N"", ""W""], ""surname""=>[""Terry""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""2nd Inf. Brgd."", ""2nd Infantry Brigade""]}",,,
+7,AWD00034cz,orders,264,3,,,,[],,date,12 Jul 1915,{},,,
+1,AWD00034d9,orders,265,2,,,,[],,date,6 Jul 1915,{},,,
+4,AWD00034d9,orders,265,2,,,,[],,orders,move,{},,,
+8,AWD00034d9,orders,265,3,,,,[],,orders,move,{},,,
+9,AWD00034d9,orders,265,3,,,,[],,person,"Major W,N, Terry","{""first""=>[""W"", ""N"", """"], ""surname""=>[""Terry""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""2nd Infantry Brigade"", ""2nd Inf. brgd."", ""1ST DIVISION: 2ND INFANTRY BRIGADE ""]}",,,
+10,AWD00034d9,orders,265,3,,,,[],,date,13 Jul 1915,{},,,
+3,AWD00034fd,orders,266,2,,,,[],,reference,OPERATION ORDER NO. 19,{},,,
+6,AWD00034fd,orders,266,3,,,,[],,person,Brigadier General G Thesiger,"{""first""=>[""G""], ""surname""=>[""Thesiger""], ""rank""=>[""Brigadier General""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""2nd Infantry Brigade"", ""2nd Inf. Brgd."", ""2nd INF. BRIGADE""]}",,,
+10,AWD00034fd,orders,266,5,,,,[],,date,18 Jul 1915,{},,,
+12,AWD00034fd,orders,266,2,,,,[],,orders,move,{},,,
+10,AWD00034dx,orders,267,2,,,,[],,person,"Major W, Terry, TERRY","{""first""=>[""W"", """"], ""surname""=>[""Terry"", ""TERRY""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other"", ""author""], ""unit""=>[""2nd Infantry Brigade"", ""1ST DIVISION: 2ND INFANTRY BRIGADE ""]}",,,
+2,AWD00034df,orders,268,2,,,,[],,reference,Operation Order No. 20,{},,,
+7,AWD00034df,orders,268,2,,,,[],,reference,"1/10,000  AUCHY-LENS:  TRENCH MAP",{},,,
+8,AWD00034df,orders,268,4,,,,[],,date,24 Jul 1915,{},,,
+19,AWD00034df,orders,268,2,,,,[],,orders,entrench,{},,,
+21,AWD00034df,orders,268,2,,,,[],,orders,other,{},,,
+27,AWD00034df,orders,268,2,,,,[],,person,"Major W,R Terry","{""first""=>[""W"", ""R""], ""surname""=>[""Terry""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other"", ""author""], ""unit""=>[""2nd Infantry Brigade"", ""2nd Brigade""]}",,,
+4,AWD00034cy,orders,269,4,,,,[],,date,30 Jul 1915,{},,,
+10,AWD00034cy,orders,269,2,,,,[],,reference,1/40000; Auchy-Lens Trench Map,{},,,
+13,AWD00034cy,orders,269,2,,,,[],,orders,move,{},,,
+19,AWD00034cy,orders,269,3,,,,[],,orders,entrench,{},,,
+21,AWD00034cy,orders,269,2,,,,[],,orders,entrench,{},,,
+3,AWD00034fj,orders,270,2,,,,[],,date,30 Jul 1915,{},,,
+4,AWD00034fj,orders,270,2,,,,[],,orders,move,{},,,
+7,AWD00034fj,orders,270,2,,,,[],,orders,move,{},,,
+7,AWD00034do,orders,271,3,,,,[],,date,11 Jul 1915,{},,,
+8,AWD00034do,orders,271,2,,,,[],,person,"Captain F G ???, MA[...]","{""first""=>[""F G""], ""surname""=>[""???"", ""MA[...]""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""1st Guards Brigade"", ""1ST DIVISION: GUARDS BRIGADE: MACHINE GUN SQUADRON ""]}",,,
+13,AWD00034ez,"other, diary",273,2,,,,[],,person,"Lieutenant  Ward, WARD","{""first""=>[""""], ""surname""=>[""Ward"", ""WARD""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""2nd K R R C"", ""Medical Officer, 2nd Bn. KRRC""]}",,,
+14,AWD00034ez,"other, diary",273,2,,,,[],,person,"Second Lieutenant T R Reid, REID","{""first""=>[""T R""], ""surname""=>[""Reid"", ""REID""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""2nd K R R C"", ""Machine Gun Officer, 2nd Bn. KRRC""]}",,,
+15,AWD00034ez,"other, diary",273,2,,,,[],,person,"Second Lieutenant T B Mahar, MAHAR","{""first""=>[""T B""], ""surname""=>[""Mahar"", ""MAHAR""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""2nd K R R C"", ""Transport Officer, 2nd Bn. KRRC""]}",,,
+1,AWD00034eo,"diary, other",274,3,,,,[],,diaryDate,1 Aug 1915,"{""day""=>[""1""], ""month""=>[""Aug""], ""year""=>[""1915""]}",,,
+9,AWD00034eo,"diary, other",274,2,,,,[],,person,"Second Lieutenant R E Bullen, BULLEN","{""first""=>[""R E""], ""surname""=>[""Bullen"", ""BULLEN""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""A Coy 2nd K R R C"", ""A Coy. 2nd Bn. KRRC""]}",,,
+11,AWD00034eo,"diary, other",274,2,,,,[],,person,"Second Lieutenant A W,A V N Symington, SYMINGTON","{""first""=>[""A W"", ""A V N""], ""surname""=>[""Symington"", ""SYMINGTON""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""A Coy 2nd K R R C"", ""A Coy. 2nd Bn. KRRC""]}",,,
+12,AWD00034eo,"diary, other",274,2,,,,[],,person,"Captain J B Brady, BRADY","{""first""=>[""J B""], ""surname""=>[""Brady"", ""BRADY""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""commander"", ""other""], ""unit""=>[""B Coy 2nd K R R C"", ""B Coy. 2nd Bn. KRRC""]}",,,
+15,AWD00034eo,"diary, other",274,2,,,,[],,person,"Second Lieutenant C H Dowden, DOWDEN","{""first""=>[""C H""], ""surname""=>[""Dowden"", ""DOWDEN""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>["" B Coy 2nd K R R C"", ""B Coy. 2nd Bn. KRRC""]}",,,
+16,AWD00034eo,"diary, other",274,2,,,,[],,person,"Second Lieutenant W N,W H Palmer, PALMER","{""first""=>[""W N"", ""W H""], ""surname""=>[""Palmer"", ""PALMER""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""B Coy 2nd K R R C"", ""B Coy. 2nd Bn. KRRC""]}",,,
+19,AWD00034eo,"diary, other",274,2,,,,[],,person,"Captain E Wenham, WENHAM","{""first""=>[""E""], ""surname""=>[""Wenham"", ""WENHAM""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""commander"", ""other""], ""unit""=>[""C Coy 2nd K R R C"", ""C Coy. 2nd Bn. KRRC""]}",,,
+22,AWD00034eo,"diary, other",274,2,,,,[],,person,"Second Lieutenant T Howe, HOWE","{""first""=>[""T""], ""surname""=>[""Howe"", ""HOWE""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""C Coy 2nd K R R C"", ""C Coy. 2nd Bn. KRRC""]}",,,
+24,AWD00034eo,"diary, other",274,2,,,,[],,person,"Second Lieutenant A G N Dickerson, DICKENSON","{""first""=>[""A G N""], ""surname""=>[""Dickerson"", ""DICKENSON""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""C Coy 2nd K R R C"", ""C Coy. 2nd Bn. KRRC""]}",,,
+1,AWD00034dd,"other, diary",275,2,,,,[],,diaryDate,1 Aug 1915,"{""day""=>[""1""], ""month""=>[""Aug""], ""year""=>[""1915""]}",,,
+4,AWD00034dd,"other, diary",275,2,,,,[],,person,"Lieutenant C H EYRE, Eyre","{""first""=>[""C H""], ""surname""=>[""EYRE"", ""Eyre""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""D Coy. 2nd Bn. KRRC"", ""D Coy 2nd K R R C""]}",,,
+6,AWD00034dd,"other, diary",275,2,,,,[],,person,"Second Lieutenant J Augell, AUGELL","{""first""=>[""J""], ""surname""=>[""Augell"", ""AUGELL""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""D Coy 2nd K R R C"", ""D Coy. 2nd Bn. KRRC""]}",,,
+7,AWD00034dd,"other, diary",275,2,,,,[],,person,"Second Lieutenant J H Simpson, SIMPSON","{""first""=>[""J H""], ""surname""=>[""Simpson"", ""SIMPSON""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""D Coy 2nd K R R C"", ""D Coy. 2nd Bn. KRRC""]}",,,
+1,AWD00034ed,diary,276,5,1915-08-01 00:00:00 UTC,1 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",diaryDate,1 Aug 1915,"{""day""=>[""1""], ""month""=>[""Aug""], ""year""=>[""1915""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+2,AWD00034ed,diary,276,5,1915-08-01 00:00:00 UTC,1 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",weather,hot,{},2969864,Vermelles,"[2.74739, 50.48949]"
+3,AWD00034ed,diary,276,3,1915-08-01 00:00:00 UTC,1 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",domestic,religion,{},2969864,Vermelles,"[2.74739, 50.48949]"
+4,AWD00034ed,diary,276,2,1915-08-01 10:00:00 UTC,1 Aug 1915,VERMELLES,"[2.74739, 50.48949]",1000AM,time,1000AM,{},2969864,Vermelles,"[2.74739, 50.48949]"
+5,AWD00034ed,diary,276,2,1915-08-01 10:00:00 UTC,1 Aug 1915,VERMELLES,"[2.74739, 50.48949]",1000AM,domestic,parades,{},2969864,Vermelles,"[2.74739, 50.48949]"
+8,AWD00034ed,diary,276,2,1915-08-01 10:00:00 UTC,1 Aug 1915,VERMELLES,"[2.74739, 50.48949]",1000AM,domestic,other,{},2969864,Vermelles,"[2.74739, 50.48949]"
+9,AWD00034ed,diary,276,5,1915-08-02 00:00:00 UTC,2 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",diaryDate,2 Aug 1915,"{""day""=>[""2""], ""month""=>[""Aug""], ""year""=>[""1915""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+10,AWD00034ed,diary,276,4,1915-08-02 00:00:00 UTC,2 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",weather,hot,{},2969864,Vermelles,"[2.74739, 50.48949]"
+12,AWD00034ed,diary,276,4,1915-08-02 00:00:00 UTC,2 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",domestic,inspections,{},2969864,Vermelles,"[2.74739, 50.48949]"
+13,AWD00034ed,diary,276,3,1915-08-02 10:30:00 UTC,2 Aug 1915,VERMELLES,"[2.74739, 50.48949]",1030AM,time,1030AM,{},2969864,Vermelles,"[2.74739, 50.48949]"
+15,AWD00034ed,diary,276,4,1915-08-02 10:30:00 UTC,2 Aug 1915,VERMELLES,"[2.74739, 50.48949]",1030AM,domestic,hygiene,{},2969864,Vermelles,"[2.74739, 50.48949]"
+19,AWD00034ed,diary,276,5,1915-08-03 00:00:00 UTC,3 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",diaryDate,3 Aug 1915,"{""day""=>[""3""], ""month""=>[""Aug""], ""year""=>[""1915""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+21,AWD00034ed,diary,276,3,1915-08-03 00:00:00 UTC,3 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",weather,rain,{},2969864,Vermelles,"[2.74739, 50.48949]"
+22,AWD00034ed,diary,276,4,1915-08-03 00:00:00 UTC,3 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",domestic,inspections,{},2969864,Vermelles,"[2.74739, 50.48949]"
+23,AWD00034ed,diary,276,2,1915-08-03 00:00:00 UTC,3 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",weather,overcast,{},2969864,Vermelles,"[2.74739, 50.48949]"
+28,AWD00034ed,diary,276,3,1915-08-03 00:00:00 UTC,3 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",domestic,sport,{},2969864,Vermelles,"[2.74739, 50.48949]"
+31,AWD00034ed,diary,276,4,1915-08-03 00:00:00 UTC,3 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",place,"Béthune, BETHUNE, bethune, Bethune","{""place""=>[""Béthune"", ""BETHUNE"", ""bethune"", ""Bethune""], ""location""=>[""false""], ""name""=>[""Béthune""], ""lat""=>[""50.53333""], ""long""=>[""2.63333""], ""id""=>[""3033002""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+3,AWD00034dz,diary,277,3,1915-08-04 00:00:00 UTC,4 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",diaryDate,4 Aug 1915,"{""day""=>[""4""], ""month""=>[""Aug""], ""year""=>[""1915""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+5,AWD00034dz,diary,277,2,1915-08-04 00:00:00 UTC,4 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",weather,fine,{},2969864,Vermelles,"[2.74739, 50.48949]"
+6,AWD00034dz,diary,277,3,1915-08-04 00:00:00 UTC,4 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",activity,working,{},2969864,Vermelles,"[2.74739, 50.48949]"
+8,AWD00034dz,diary,277,2,1915-08-04 00:00:00 UTC,4 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",place,"Béthune, Bethune","{""place""=>[""Béthune"", ""Bethune""], ""location""=>[""false""], ""name""=>[""Béthune""], ""lat""=>[""50.53333""], ""long""=>[""2.63333""], ""id""=>[""3033002""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+9,AWD00034dz,diary,277,5,1915-08-04 00:00:00 UTC,4 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",domestic,sport,{},2969864,Vermelles,"[2.74739, 50.48949]"
+10,AWD00034dz,diary,277,4,1915-08-05 00:00:00 UTC,5 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",diaryDate,5 Aug 1915,"{""day""=>[""5""], ""month""=>[""Aug""], ""year""=>[""1915""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+12,AWD00034dz,diary,277,4,1915-08-05 00:00:00 UTC,5 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",weather,fine,{},2969864,Vermelles,"[2.74739, 50.48949]"
+15,AWD00034dz,diary,277,2,1915-08-05 00:00:00 UTC,5 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",domestic,sport,{},2969864,Vermelles,"[2.74739, 50.48949]"
+16,AWD00034dz,diary,277,3,1915-08-05 00:00:00 UTC,5 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",place,Annezin,"{""place""=>[""Annezin""], ""location""=>[""false""], ""name""=>[""Annezin""], ""lat""=>[""50.53192""], ""long""=>[""2.61785""], ""id""=>[""3037521""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+17,AWD00034dz,diary,277,2,1915-08-05 00:00:00 UTC,5 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",casualties,other: 2,{},2969864,Vermelles,"[2.74739, 50.48949]"
+19,AWD00034dz,diary,277,4,1915-08-06 00:00:00 UTC,6 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",diaryDate,6 Aug 1915,"{""day""=>[""6""], ""month""=>[""Aug""], ""year""=>[""1915""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+23,AWD00034dz,diary,277,3,1915-08-06 00:00:00 UTC,6 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",place,Verquin,"{""place""=>[""Verquin""], ""location""=>[""false""], ""name""=>[""Verquin""], ""lat""=>[""50.5024""], ""long""=>[""2.63888""], ""id""=>[""2969722""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+25,AWD00034dz,diary,277,4,1915-08-06 00:00:00 UTC,6 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",activity,movement,{},2969864,Vermelles,"[2.74739, 50.48949]"
+26,AWD00034dz,diary,277,4,1915-08-06 00:00:00 UTC,6 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",place,"Labourse, La Bourse","{""place""=>[""Labourse"", ""La Bourse""], ""location""=>[""false"", ""true""], ""name""=>[""Labourse""], ""lat""=>[""50.49883""], ""long""=>[""2.68121""], ""id""=>[""3010855""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+28,AWD00034dz,diary,277,4,1915-08-06 00:00:00 UTC,6 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",domestic,accomodation,{},2969864,Vermelles,"[2.74739, 50.48949]"
+1,AWD00034ey,diary,278,4,1915-08-07 00:00:00 UTC,7 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",diaryDate,7 Aug 1915,"{""day""=>[""7""], ""month""=>[""Aug""], ""year""=>[""1915""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+2,AWD00034ey,diary,278,2,1915-08-07 00:00:00 UTC,7 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",weather,overcast,{},2969864,Vermelles,"[2.74739, 50.48949]"
+4,AWD00034ey,diary,278,3,1915-08-07 00:00:00 UTC,7 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",domestic,inspections,{},2969864,Vermelles,"[2.74739, 50.48949]"
+5,AWD00034ey,diary,278,2,1915-08-07 00:00:00 UTC,7 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",domestic,accomodation,{},2969864,Vermelles,"[2.74739, 50.48949]"
+1,AWD00034e7,diary,279,5,1915-08-08 00:00:00 UTC,8 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",diaryDate,8 Aug 1915,"{""day""=>[""8""], ""month""=>[""Aug""], ""year""=>[""1915""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+3,AWD00034e7,diary,279,3,1915-08-08 00:00:00 UTC,8 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",weather,fine,{},2969864,Vermelles,"[2.74739, 50.48949]"
+4,AWD00034e7,diary,279,4,1915-08-08 00:00:00 UTC,8 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",domestic,religion,{},2969864,Vermelles,"[2.74739, 50.48949]"
+5,AWD00034e7,diary,279,2,1915-08-08 10:30:00 UTC,8 Aug 1915,VERMELLES,"[2.74739, 50.48949]",1030AM,time,1030AM,{},2969864,Vermelles,"[2.74739, 50.48949]"
+9,AWD00034e7,diary,279,2,1915-08-08 10:30:00 UTC,8 Aug 1915,VERMELLES,"[2.74739, 50.48949]",1030AM,activity,reconnoitered,{},2969864,Vermelles,"[2.74739, 50.48949]"
+10,AWD00034e7,diary,279,5,1915-08-09 00:00:00 UTC,9 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",diaryDate,9 Aug 1915,"{""day""=>[""9""], ""month""=>[""Aug""], ""year""=>[""1915""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+16,AWD00034e7,diary,279,2,1915-08-09 00:00:00 UTC,9 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",activity,movement,{},2969864,Vermelles,"[2.74739, 50.48949]"
+17,AWD00034e7,diary,279,2,1915-08-09 00:00:00 UTC,9 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",activity,line,{},2969864,Vermelles,"[2.74739, 50.48949]"
+18,AWD00034e7,diary,279,4,1915-08-09 00:00:00 UTC,9 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",unit,"D Coy. 2nd Bn. KRRC, B Coy. 2nd Bn. KRRC, A Coy. 2nd Bn. KRRC, C Coy. 2nd Bn. KRRC","{""name""=>[""D Coy. 2nd Bn. KRRC"", ""B Coy. 2nd Bn. KRRC"", ""A Coy. 2nd Bn. KRRC"", ""C Coy. 2nd Bn. KRRC""], ""context""=>[""joined""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+24,AWD00034e7,diary,279,2,1915-08-09 00:00:00 UTC,9 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",place,"BOYAU 16 TRENCH, Boyau 16 Trench","{""place""=>[""BOYAU 16 TRENCH"", ""Boyau 16 Trench""], ""location""=>[""false""], ""name""=>[""La Bassée"", """"], ""lat""=>[""50.53424"", """"], ""long""=>[""2.8062"", """"], ""id""=>[""3011307"", """"]}",2969864,Vermelles,"[2.74739, 50.48949]"
+26,AWD00034e7,diary,279,4,1915-08-09 00:00:00 UTC,9 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",place,LA BASSEE,"{""place""=>[""LA BASSEE""], ""location""=>[""false""], ""name""=>[""La Bassée""], ""lat""=>[""50.53424""], ""long""=>[""2.8062""], ""id""=>[""3011307""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+28,AWD00034e7,diary,279,3,1915-08-09 00:00:00 UTC,9 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",activity,construction,{},2969864,Vermelles,"[2.74739, 50.48949]"
+4,AWD00034db,diary,280,3,1915-08-09 00:00:00 UTC,9 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",place,MAISON ROUGE,"{""place""=>[""MAISON ROUGE""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+8,AWD00034db,diary,280,2,1915-08-09 00:00:00 UTC,9 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",unit,"114 F.A., 114 FA","{""name""=>[""114 F.A."", ""114 FA""], ""context""=>[""other""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+9,AWD00034db,diary,280,2,1915-08-09 00:00:00 UTC,9 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",unit,"30th HOW., 30th Hows","{""name""=>[""30th HOW."", ""30th Hows""], ""context""=>[""other""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+3,AWD00034d7,diary,281,4,1915-08-10 00:00:00 UTC,10 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",diaryDate,10 Aug 1915,"{""day""=>[""10""], ""month""=>[""Aug""], ""year""=>[""1915""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+6,AWD00034d7,diary,281,2,1915-08-10 00:00:00 UTC,10 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",weather,fine,{},2969864,Vermelles,"[2.74739, 50.48949]"
+7,AWD00034d7,diary,281,4,1915-08-10 00:00:00 UTC,10 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",weather,hot,{},2969864,Vermelles,"[2.74739, 50.48949]"
+8,AWD00034d7,diary,281,5,1915-08-10 00:00:00 UTC,10 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",activity,fire,{},2969864,Vermelles,"[2.74739, 50.48949]"
+9,AWD00034d7,diary,281,3,1915-08-10 12:00:00 UTC,10 Aug 1915,VERMELLES,"[2.74739, 50.48949]",1200PM,time,1200PM,{},2969864,Vermelles,"[2.74739, 50.48949]"
+10,AWD00034d7,diary,281,3,1915-08-10 14:00:00 UTC,10 Aug 1915,VERMELLES,"[2.74739, 50.48949]",0200PM,time,0200PM,{},2969864,Vermelles,"[2.74739, 50.48949]"
+18,AWD00034d7,diary,281,4,1915-08-10 14:00:00 UTC,10 Aug 1915,VERMELLES,"[2.74739, 50.48949]",0200PM,activity,attack,{},2969864,Vermelles,"[2.74739, 50.48949]"
+19,AWD00034d7,diary,281,3,1915-08-10 15:00:00 UTC,10 Aug 1915,VERMELLES,"[2.74739, 50.48949]",0300PM,time,0300PM,{},2969864,Vermelles,"[2.74739, 50.48949]"
+20,AWD00034d7,diary,281,2,1915-08-10 15:30:00 UTC,10 Aug 1915,VERMELLES,"[2.74739, 50.48949]",0330PM,time,0330PM,{},2969864,Vermelles,"[2.74739, 50.48949]"
+21,AWD00034d7,diary,281,2,1915-08-10 15:30:00 UTC,10 Aug 1915,VERMELLES,"[2.74739, 50.48949]",0330PM,place,"LA BARREE, LA BASSEE","{""place""=>[""LA BARREE"", ""LA BASSEE""], ""location""=>[""false""], ""name""=>["""", ""La Bassée""], ""lat""=>["""", ""50.53424""], ""long""=>["""", ""2.8062""], ""id""=>["""", ""3011307""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+22,AWD00034d7,diary,281,3,1915-08-10 15:30:00 UTC,10 Aug 1915,VERMELLES,"[2.74739, 50.48949]",0330PM,activity,enemy_activity,{},2969864,Vermelles,"[2.74739, 50.48949]"
+26,AWD00034d7,diary,281,2,1915-08-10 15:30:00 UTC,10 Aug 1915,VERMELLES,"[2.74739, 50.48949]",0330PM,activity,attack,{},2969864,Vermelles,"[2.74739, 50.48949]"
+28,AWD00034d7,diary,281,3,1915-08-10 15:30:00 UTC,10 Aug 1915,VERMELLES,"[2.74739, 50.48949]",0330PM,activity,repair,{},2969864,Vermelles,"[2.74739, 50.48949]"
+31,AWD00034d7,diary,281,2,1915-08-10 15:30:00 UTC,10 Aug 1915,VERMELLES,"[2.74739, 50.48949]",0330PM,activity,working,{},2969864,Vermelles,"[2.74739, 50.48949]"
+33,AWD00034d7,diary,281,2,1915-08-10 15:30:00 UTC,10 Aug 1915,VERMELLES,"[2.74739, 50.48949]",0330PM,casualties,"killed: 1, wounded: 6, sick: 1",{},2969864,Vermelles,"[2.74739, 50.48949]"
+34,AWD00034d7,diary,281,2,1915-08-10 15:30:00 UTC,10 Aug 1915,VERMELLES,"[2.74739, 50.48949]",0330PM,casualties,wounded: 3,{},2969864,Vermelles,"[2.74739, 50.48949]"
+35,AWD00034d7,diary,281,4,1915-08-10 15:30:00 UTC,10 Aug 1915,VERMELLES,"[2.74739, 50.48949]",0330PM,person,"Second Lieutenant  Glegg, GLEGG","{""first""=>[""""], ""surname""=>[""Glegg"", ""GLEGG""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+43,AWD00034d7,diary,281,2,1915-08-10 15:30:00 UTC,10 Aug 1915,VERMELLES,"[2.74739, 50.48949]",0330PM,person,",Second Lieutenant ,W H Palmer, PALMER","{""first""=>["""", ""W H""], ""surname""=>[""Palmer"", ""PALMER""], ""rank""=>["""", ""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""combat"", ""other""], ""unit""=>["""", ""B Coy. 2nd Bn. KRRC""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+1,AWD00034eh,diary,282,4,1915-08-10 00:00:00 UTC,10 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",diaryDate,10 Aug 1915,"{""day""=>[""10""], ""month""=>[""Aug""], ""year""=>[""1915""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+5,AWD00034eh,diary,282,3,1915-08-10 00:00:00 UTC,10 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",activity,other,{},2969864,Vermelles,"[2.74739, 50.48949]"
+6,AWD00034eh,diary,282,2,1915-08-10 00:00:00 UTC,10 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",place,"Quinchy, QUINCY","{""place""=>[""Quinchy"", ""QUINCY""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+1,AWD00034e5,diary,283,5,1915-08-11 00:00:00 UTC,11 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",diaryDate,11 Aug 1915,"{""day""=>[""11""], ""month""=>[""Aug""], ""year""=>[""1915""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+4,AWD00034e5,diary,283,4,1915-08-11 00:00:00 UTC,11 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",weather,fine,{},2969864,Vermelles,"[2.74739, 50.48949]"
+5,AWD00034e5,diary,283,3,1915-08-11 00:00:00 UTC,11 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",activity,quiet,{},2969864,Vermelles,"[2.74739, 50.48949]"
+7,AWD00034e5,diary,283,4,1915-08-11 01:00:00 UTC,11 Aug 1915,VERMELLES,"[2.74739, 50.48949]",0100AM,time,0100AM,{},2969864,Vermelles,"[2.74739, 50.48949]"
+8,AWD00034e5,diary,283,2,1915-08-11 01:00:00 UTC,11 Aug 1915,VERMELLES,"[2.74739, 50.48949]",0100AM,place,"Etna Sap, ETNA","{""place""=>[""Etna Sap"", ""ETNA""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+11,AWD00034e5,diary,283,6,1915-08-11 01:00:00 UTC,11 Aug 1915,VERMELLES,"[2.74739, 50.48949]",0100AM,activity,enemy_activity,{},2969864,Vermelles,"[2.74739, 50.48949]"
+12,AWD00034e5,diary,283,4,1915-08-11 01:00:00 UTC,11 Aug 1915,VERMELLES,"[2.74739, 50.48949]",0100AM,activity,attack,{},2969864,Vermelles,"[2.74739, 50.48949]"
+17,AWD00034e5,diary,283,2,1915-08-11 01:00:00 UTC,11 Aug 1915,VERMELLES,"[2.74739, 50.48949]",0100AM,activity,attack,{},2969864,Vermelles,"[2.74739, 50.48949]"
+18,AWD00034e5,diary,283,3,1915-08-11 01:00:00 UTC,11 Aug 1915,VERMELLES,"[2.74739, 50.48949]",0100AM,activity,enemy_activity,{},2969864,Vermelles,"[2.74739, 50.48949]"
+20,AWD00034e5,diary,283,3,1915-08-11 01:00:00 UTC,11 Aug 1915,VERMELLES,"[2.74739, 50.48949]",0100AM,place,LA BASSEE,"{""place""=>[""LA BASSEE""], ""location""=>[""false""], ""name""=>[""La Bassée""], ""lat""=>[""50.53424""], ""long""=>[""2.8062""], ""id""=>[""3011307""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+21,AWD00034e5,diary,283,2,1915-08-11 01:00:00 UTC,11 Aug 1915,VERMELLES,"[2.74739, 50.48949]",0100AM,place,"Quinchy, CUINCHY","{""place""=>[""Quinchy"", ""CUINCHY""], ""location""=>[""false""], ""name""=>["""", ""Cuinchy""], ""lat""=>["""", ""50.5175""], ""long""=>["""", ""2.7488""], ""id""=>["""", ""3022134""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+22,AWD00034e5,diary,283,3,1915-08-11 12:00:00 UTC,11 Aug 1915,VERMELLES,"[2.74739, 50.48949]",1200PM,time,1200PM,{},2969864,Vermelles,"[2.74739, 50.48949]"
+26,AWD00034e5,diary,283,4,1915-08-11 12:00:00 UTC,11 Aug 1915,VERMELLES,"[2.74739, 50.48949]",1200PM,activity,fire,{},2969864,Vermelles,"[2.74739, 50.48949]"
+28,AWD00034e5,diary,283,2,1915-08-11 12:00:00 UTC,11 Aug 1915,VERMELLES,"[2.74739, 50.48949]",1200PM,place,LA BASSEE,"{""place""=>[""LA BASSEE""], ""location""=>[""true"", ""false""], ""name""=>[""La Bassée""], ""lat""=>[""50.53424""], ""long""=>[""2.8062""], ""id""=>[""3011307""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+30,AWD00034e5,diary,283,2,1915-08-11 12:00:00 UTC,11 Aug 1915,VERMELLES,"[2.74739, 50.48949]",1200PM,activity,fire,{},2969864,Vermelles,"[2.74739, 50.48949]"
+32,AWD00034e5,diary,283,4,1915-08-11 12:00:00 UTC,11 Aug 1915,VERMELLES,"[2.74739, 50.48949]",1200PM,casualties,killed: 4,{},2969864,Vermelles,"[2.74739, 50.48949]"
+33,AWD00034e5,diary,283,2,1915-08-11 12:00:00 UTC,11 Aug 1915,VERMELLES,"[2.74739, 50.48949]",1200PM,activity,enemy_activity,{},2969864,Vermelles,"[2.74739, 50.48949]"
+34,AWD00034e5,diary,283,2,1915-08-11 12:00:00 UTC,11 Aug 1915,VERMELLES,"[2.74739, 50.48949]",1200PM,activity,quiet,{},2969864,Vermelles,"[2.74739, 50.48949]"
+35,AWD00034e5,diary,283,3,1915-08-11 12:00:00 UTC,11 Aug 1915,VERMELLES,"[2.74739, 50.48949]",1200PM,activity,attack,{},2969864,Vermelles,"[2.74739, 50.48949]"
+36,AWD00034e5,diary,283,2,1915-08-11 12:00:00 UTC,11 Aug 1915,VERMELLES,"[2.74739, 50.48949]",1200PM,activity,enemy_activity,{},2969864,Vermelles,"[2.74739, 50.48949]"
+37,AWD00034e5,diary,283,2,1915-08-11 12:00:00 UTC,11 Aug 1915,VERMELLES,"[2.74739, 50.48949]",1200PM,activity,other,{},2969864,Vermelles,"[2.74739, 50.48949]"
+2,AWD00034ei,diary,284,2,1915-08-11 12:00:00 UTC,11 Aug 1915,VERMELLES,"[2.74739, 50.48949]",1200PM,activity,other,{},2969864,Vermelles,"[2.74739, 50.48949]"
+3,AWD00034ei,diary,284,4,1915-08-11 12:00:00 UTC,11 Aug 1915,VERMELLES,"[2.74739, 50.48949]",1200PM,activity,repair,{},2969864,Vermelles,"[2.74739, 50.48949]"
+9,AWD00034ei,diary,284,4,1915-08-11 12:00:00 UTC,11 Aug 1915,VERMELLES,"[2.74739, 50.48949]",1200PM,casualties,"killed: 2, wounded: 3, sick: 5",{},2969864,Vermelles,"[2.74739, 50.48949]"
+11,AWD00034ei,diary,284,3,1915-08-11 12:00:00 UTC,11 Aug 1915,VERMELLES,"[2.74739, 50.48949]",1200PM,strength,"officer: 21, other: 889",{},2969864,Vermelles,"[2.74739, 50.48949]"
+13,AWD00034ei,diary,284,3,1915-08-11 12:00:00 UTC,11 Aug 1915,VERMELLES,"[2.74739, 50.48949]",1200PM,person,Second Lieutenant  SIMPSON,"{""first""=>[""""], ""surname""=>[""SIMPSON""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_posted""], ""unit""=>["""", ""ROYAL ENGINEERS"", ""2nd Bt., King's Royal Rifle Corps""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+1,AWD00034cp,diary,286,5,1915-08-12 00:00:00 UTC,12 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",diaryDate,12 Aug 1915,"{""day""=>[""12""], ""month""=>[""Aug""], ""year""=>[""1915""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+3,AWD00034cp,diary,286,5,1915-08-12 00:00:00 UTC,12 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",weather,fine,{},2969864,Vermelles,"[2.74739, 50.48949]"
+6,AWD00034cp,diary,286,5,1915-08-12 00:00:00 UTC,12 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",activity,fire,{},2969864,Vermelles,"[2.74739, 50.48949]"
+7,AWD00034cp,diary,286,2,1915-08-12 08:00:00 UTC,12 Aug 1915,VERMELLES,"[2.74739, 50.48949]",0800AM,time,0800AM,{},2969864,Vermelles,"[2.74739, 50.48949]"
+10,AWD00034cp,diary,286,2,1915-08-12 08:00:00 UTC,12 Aug 1915,VERMELLES,"[2.74739, 50.48949]",0800AM,activity,attack,{},2969864,Vermelles,"[2.74739, 50.48949]"
+12,AWD00034cp,diary,286,2,1915-08-12 17:00:00 UTC,12 Aug 1915,VERMELLES,"[2.74739, 50.48949]",0500PM,time,0500PM,{},2969864,Vermelles,"[2.74739, 50.48949]"
+16,AWD00034cp,diary,286,2,1915-08-12 17:00:00 UTC,12 Aug 1915,VERMELLES,"[2.74739, 50.48949]",0500PM,activity,movement,{},2969864,Vermelles,"[2.74739, 50.48949]"
+21,AWD00034cp,diary,286,2,1915-08-12 17:00:00 UTC,12 Aug 1915,VERMELLES,"[2.74739, 50.48949]",0500PM,place,"CAMBRIN, Cambrin","{""place""=>[""CAMBRIN"", ""Cambrin""], ""location""=>[""true"", ""false""], ""name""=>[""Cambrin""], ""lat""=>[""50.5097""], ""long""=>[""2.74082""], ""id""=>[""3029026""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+23,AWD00034cp,diary,286,4,1915-08-12 17:00:00 UTC,12 Aug 1915,VERMELLES,"[2.74739, 50.48949]",0500PM,casualties,wounded: 2,{},2969864,Vermelles,"[2.74739, 50.48949]"
+1,AWD00034ev,diary,287,4,1915-08-13 00:00:00 UTC,13 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",diaryDate,13 Aug 1915,"{""day""=>[""13""], ""month""=>[""Aug""], ""year""=>[""1915""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+5,AWD00034ev,diary,287,5,1915-08-13 00:00:00 UTC,13 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",weather,fine,{},2969864,Vermelles,"[2.74739, 50.48949]"
+6,AWD00034ev,diary,287,2,1915-08-13 00:00:00 UTC,13 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",unit,"ROYAL ENGINEERS, Royal Engineers","{""name""=>[""ROYAL ENGINEERS"", ""Royal Engineers""], ""context""=>[""other"", ""joined""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+8,AWD00034ev,diary,287,3,1915-08-13 00:00:00 UTC,13 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",activity,working,{},2969864,Vermelles,"[2.74739, 50.48949]"
+9,AWD00034ev,diary,287,2,1915-08-13 00:00:00 UTC,13 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",place,"Cambrin, CAMBRIN","{""place""=>[""Cambrin"", ""CAMBRIN""], ""location""=>[""false""], ""name""=>[""Cambrin""], ""lat""=>[""50.5097""], ""long""=>[""2.74082""], ""id""=>[""3029026""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+10,AWD00034ev,diary,287,2,1915-08-13 00:00:00 UTC,13 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",place,"Beuvry, BEUVRY","{""place""=>[""Beuvry"", ""BEUVRY""], ""location""=>[""false""], ""name""=>[""Beuvry""], ""lat""=>[""50.51674""], ""long""=>[""2.68541""], ""id""=>[""3032903""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+12,AWD00034ev,diary,287,3,1915-08-13 00:00:00 UTC,13 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",domestic,uniform,{},2969864,Vermelles,"[2.74739, 50.48949]"
+13,AWD00034ev,diary,287,3,1915-08-13 00:00:00 UTC,13 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",casualties,sick: 2,{},2969864,Vermelles,"[2.74739, 50.48949]"
+16,AWD00034ev,diary,287,4,1915-08-14 00:00:00 UTC,14 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",diaryDate,14 Aug 1915,"{""day""=>[""14""], ""month""=>[""Aug""], ""year""=>[""1915""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+19,AWD00034ev,diary,287,5,1915-08-14 00:00:00 UTC,14 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",weather,fine,{},2969864,Vermelles,"[2.74739, 50.48949]"
+22,AWD00034ev,diary,287,2,1915-08-14 00:00:00 UTC,14 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",activity,fire,{},2969864,Vermelles,"[2.74739, 50.48949]"
+23,AWD00034ev,diary,287,2,1915-08-14 00:00:00 UTC,14 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",domestic,accomodation,{},2969864,Vermelles,"[2.74739, 50.48949]"
+24,AWD00034ev,diary,287,2,1915-08-14 00:00:00 UTC,14 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",activity,resupplying,{},2969864,Vermelles,"[2.74739, 50.48949]"
+29,AWD00034ev,diary,287,3,1915-08-14 00:00:00 UTC,14 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",activity,working,{},2969864,Vermelles,"[2.74739, 50.48949]"
+1,AWD00034d3,diary,288,5,1915-08-15 00:00:00 UTC,15 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",diaryDate,15 Aug 1915,"{""day""=>[""15""], ""month""=>[""Aug""], ""year""=>[""1915""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+4,AWD00034d3,diary,288,4,1915-08-15 00:00:00 UTC,15 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",weather,rain,{},2969864,Vermelles,"[2.74739, 50.48949]"
+5,AWD00034d3,diary,288,4,1915-08-15 00:00:00 UTC,15 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",activity,working,{},2969864,Vermelles,"[2.74739, 50.48949]"
+7,AWD00034d3,diary,288,2,1915-08-15 00:00:00 UTC,15 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",activity,working,{},2969864,Vermelles,"[2.74739, 50.48949]"
+10,AWD00034d3,diary,288,3,1915-08-15 00:00:00 UTC,15 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",domestic,uniform,{},2969864,Vermelles,"[2.74739, 50.48949]"
+1,AWD00034cl,diary,289,2,1915-08-15 00:00:00 UTC,15 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",diaryDate,15 Aug 1915,"{""day""=>[""15""], ""month""=>[""Aug""], ""year""=>[""1915""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+3,AWD00034cl,diary,289,2,1915-08-15 00:00:00 UTC,15 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",domestic,uniform,{},2969864,Vermelles,"[2.74739, 50.48949]"
+4,AWD00034cl,diary,289,5,1915-08-16 00:00:00 UTC,16 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",diaryDate,16 Aug 1915,"{""day""=>[""16""], ""month""=>[""Aug""], ""year""=>[""1915""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+5,AWD00034cl,diary,289,5,1915-08-16 00:00:00 UTC,16 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",weather,rain,{},2969864,Vermelles,"[2.74739, 50.48949]"
+6,AWD00034cl,diary,289,4,1915-08-16 00:00:00 UTC,16 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",activity,fire,{},2969864,Vermelles,"[2.74739, 50.48949]"
+9,AWD00034cl,diary,289,5,1915-08-17 00:00:00 UTC,17 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",diaryDate,17 Aug 1915,"{""day""=>[""17""], ""month""=>[""Aug""], ""year""=>[""1915""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+11,AWD00034cl,diary,289,5,1915-08-17 00:00:00 UTC,17 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",weather,rain,{},2969864,Vermelles,"[2.74739, 50.48949]"
+12,AWD00034cl,diary,289,3,1915-08-17 00:00:00 UTC,17 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",activity,fire,{},2969864,Vermelles,"[2.74739, 50.48949]"
+13,AWD00034cl,diary,289,3,1915-08-17 00:00:00 UTC,17 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",activity,attack,{},2969864,Vermelles,"[2.74739, 50.48949]"
+14,AWD00034cl,diary,289,5,1915-08-18 00:00:00 UTC,18 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",diaryDate,18 Aug 1915,"{""day""=>[""18""], ""month""=>[""Aug""], ""year""=>[""1915""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+15,AWD00034cl,diary,289,3,1915-08-18 00:00:00 UTC,18 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",weather,rain,{},2969864,Vermelles,"[2.74739, 50.48949]"
+16,AWD00034cl,diary,289,3,1915-08-18 00:00:00 UTC,18 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",weather,fine,{},2969864,Vermelles,"[2.74739, 50.48949]"
+17,AWD00034cl,diary,289,2,1915-08-18 00:00:00 UTC,18 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",unit,"2/MUNSTERS, 2nd Munster","{""name""=>[""2/MUNSTERS"", ""2nd Munster""], ""context""=>[""relieved"", ""relieved_by""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+21,AWD00034cl,diary,289,2,1915-08-18 00:00:00 UTC,18 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",domestic,accomodation,{},2969864,Vermelles,"[2.74739, 50.48949]"
+23,AWD00034cl,diary,289,4,1915-08-18 00:00:00 UTC,18 Aug 1915,VERMELLES,"[2.74739, 50.48949]","",activity,movement,{},2969864,Vermelles,"[2.74739, 50.48949]"
+25,AWD00034cl,diary,289,5,1915-08-18 00:00:00 UTC,18 Aug 1915,Verquin,"[2.63888, 50.5024]","",place,Verquin,"{""place""=>[""Verquin""], ""location""=>[""true""], ""name""=>[""Verquin""], ""lat""=>[""50.5024""], ""long""=>[""2.63888""], ""id""=>[""2969722""]}",2969964,Verdun,"[1.68819, 42.79528]"
+26,AWD00034cl,diary,289,4,1915-08-18 00:00:00 UTC,18 Aug 1915,Verquin,"[2.63888, 50.5024]","",activity,fire,{},2969964,Verdun,"[1.68819, 42.79528]"
+27,AWD00034cl,diary,289,4,1915-08-18 00:00:00 UTC,18 Aug 1915,Verquin,"[2.63888, 50.5024]","",place,"Cambrin, CAMBRIN","{""place""=>[""Cambrin"", ""CAMBRIN""], ""location""=>[""false""], ""name""=>[""Cambrin""], ""lat""=>[""50.5097""], ""long""=>[""2.74082""], ""id""=>[""3029026""]}",2969964,Verdun,"[1.68819, 42.79528]"
+29,AWD00034cl,diary,289,3,1915-08-18 00:00:00 UTC,18 Aug 1915,Verquin,"[2.63888, 50.5024]","",activity,enemy_activity,{},2969964,Verdun,"[1.68819, 42.79528]"
+30,AWD00034cl,diary,289,3,1915-08-18 00:00:00 UTC,18 Aug 1915,VERQUIN,"[2.63888, 50.5024]","",place,VERQUIN,"{""place""=>[""VERQUIN""], ""location""=>[""true""], ""name""=>[""Verquin""], ""lat""=>[""50.5024""], ""long""=>[""2.63888""], ""id""=>[""2969722""]}",2969722,Verquin,"[2.63888, 50.5024]"
+32,AWD00034cl,diary,289,5,1915-08-19 00:00:00 UTC,19 Aug 1915,VERQUIN,"[2.63888, 50.5024]","",diaryDate,19 Aug 1915,"{""day""=>[""19""], ""month""=>[""Aug""], ""year""=>[""1915""]}",2969722,Verquin,"[2.63888, 50.5024]"
+34,AWD00034cl,diary,289,4,1915-08-19 00:00:00 UTC,19 Aug 1915,VERQUIN,"[2.63888, 50.5024]","",weather,overcast,{},2969722,Verquin,"[2.63888, 50.5024]"
+35,AWD00034cl,diary,289,2,1915-08-19 00:00:00 UTC,19 Aug 1915,VERQUIN,"[2.63888, 50.5024]","",weather,fine,{},2969722,Verquin,"[2.63888, 50.5024]"
+37,AWD00034cl,diary,289,2,1915-08-19 00:00:00 UTC,19 Aug 1915,VERQUIN,"[2.63888, 50.5024]","",domestic,inspections,{},2969722,Verquin,"[2.63888, 50.5024]"
+39,AWD00034cl,diary,289,4,1915-08-20 00:00:00 UTC,20 Aug 1915,VERQUIN,"[2.63888, 50.5024]","",diaryDate,20 Aug 1915,"{""day""=>[""20""], ""month""=>[""Aug""], ""year""=>[""1915""]}",2969722,Verquin,"[2.63888, 50.5024]"
+40,AWD00034cl,diary,289,3,1915-08-20 00:00:00 UTC,20 Aug 1915,VERQUIN,"[2.63888, 50.5024]","",weather,overcast,{},2969722,Verquin,"[2.63888, 50.5024]"
+42,AWD00034cl,diary,289,4,1915-08-20 00:00:00 UTC,20 Aug 1915,VERQUIN,"[2.63888, 50.5024]","",activity,training,{},2969722,Verquin,"[2.63888, 50.5024]"
+43,AWD00034cl,diary,289,3,1915-08-20 00:00:00 UTC,20 Aug 1915,VERQUIN,"[2.63888, 50.5024]","",domestic,hygiene,{},2969722,Verquin,"[2.63888, 50.5024]"
+44,AWD00034cl,diary,289,4,1915-08-20 00:00:00 UTC,20 Aug 1915,VERQUIN,"[2.63888, 50.5024]","",domestic,sport,{},2969722,Verquin,"[2.63888, 50.5024]"
+1,AWD00034d1,diary,290,5,1915-08-21 00:00:00 UTC,21 Aug 1915,VERQUIN,"[2.63888, 50.5024]","",diaryDate,21 Aug 1915,"{""day""=>[""21""], ""month""=>[""Aug""], ""year""=>[""1915""]}",2969722,Verquin,"[2.63888, 50.5024]"
+3,AWD00034d1,diary,290,4,1915-08-21 00:00:00 UTC,21 Aug 1915,VERQUIN,"[2.63888, 50.5024]","",weather,rain,{},2969722,Verquin,"[2.63888, 50.5024]"
+4,AWD00034d1,diary,290,5,1915-08-21 00:00:00 UTC,21 Aug 1915,VERQUIN,"[2.63888, 50.5024]","",activity,training,{},2969722,Verquin,"[2.63888, 50.5024]"
+5,AWD00034d1,diary,290,5,1915-08-22 00:00:00 UTC,22 Aug 1915,VERQUIN,"[2.63888, 50.5024]","",diaryDate,22 Aug 1915,"{""day""=>[""22""], ""month""=>[""Aug""], ""year""=>[""1915""]}",2969722,Verquin,"[2.63888, 50.5024]"
+7,AWD00034d1,diary,290,5,1915-08-22 00:00:00 UTC,22 Aug 1915,VERQUIN,"[2.63888, 50.5024]","",weather,fine,{},2969722,Verquin,"[2.63888, 50.5024]"
+8,AWD00034d1,diary,290,5,1915-08-22 00:00:00 UTC,22 Aug 1915,VERQUIN,"[2.63888, 50.5024]","",domestic,religion,{},2969722,Verquin,"[2.63888, 50.5024]"
+9,AWD00034d1,diary,290,2,1915-08-22 00:00:00 UTC,22 Aug 1915,VERQUIN,"[2.63888, 50.5024]","",domestic,parades,{},2969722,Verquin,"[2.63888, 50.5024]"
+13,AWD00034d1,diary,290,2,1915-08-22 00:00:00 UTC,22 Aug 1915,VERQUIN,"[2.63888, 50.5024]","",person,"Brigadier General ,G Thesiger","{""first""=>["""", ""G""], ""surname""=>[""Thesiger""], ""rank""=>[""Brigadier General""], ""number""=>[""""], ""reason""=>[""other"", ""departed_posted""], ""unit""=>[""""]}",2969722,Verquin,"[2.63888, 50.5024]"
+17,AWD00034d1,diary,290,5,1915-08-23 00:00:00 UTC,23 Aug 1915,VERQUIN,"[2.63888, 50.5024]","",diaryDate,23 Aug 1915,"{""day""=>[""23""], ""month""=>[""Aug""], ""year""=>[""1915""]}",2969722,Verquin,"[2.63888, 50.5024]"
+19,AWD00034d1,diary,290,4,1915-08-23 00:00:00 UTC,23 Aug 1915,VERQUIN,"[2.63888, 50.5024]","",weather,hot,{},2969722,Verquin,"[2.63888, 50.5024]"
+21,AWD00034d1,diary,290,4,1915-08-23 00:00:00 UTC,23 Aug 1915,VERQUIN,"[2.63888, 50.5024]","",activity,working,{},2969722,Verquin,"[2.63888, 50.5024]"
+23,AWD00034d1,diary,290,4,1915-08-23 00:00:00 UTC,23 Aug 1915,VERQUIN,"[2.63888, 50.5024]","",activity,training,{},2969722,Verquin,"[2.63888, 50.5024]"
+24,AWD00034d1,diary,290,2,1915-08-23 00:00:00 UTC,23 Aug 1915,VERQUIN,"[2.63888, 50.5024]","",strength,"nco: 2, other: 11",{},2969722,Verquin,"[2.63888, 50.5024]"
+25,AWD00034d1,diary,290,5,1915-08-24 00:00:00 UTC,24 Aug 1915,VERQUIN,"[2.63888, 50.5024]","",diaryDate,24 Aug 1915,"{""day""=>[""24""], ""month""=>[""Aug""], ""year""=>[""1915""]}",2969722,Verquin,"[2.63888, 50.5024]"
+27,AWD00034d1,diary,290,3,1915-08-24 00:00:00 UTC,24 Aug 1915,VERQUIN,"[2.63888, 50.5024]","",weather,fine,{},2969722,Verquin,"[2.63888, 50.5024]"
+29,AWD00034d1,diary,290,3,1915-08-24 00:00:00 UTC,24 Aug 1915,Vermelles,"[2.74739, 50.48949]","",place,Vermelles,"{""place""=>[""Vermelles""], ""location""=>[""true""], ""name""=>[""Vermelles""], ""lat""=>[""50.48949""], ""long""=>[""2.74739""], ""id""=>[""2969864""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+30,AWD00034d1,diary,290,4,1915-08-24 00:00:00 UTC,24 Aug 1915,Vermelles,"[2.74739, 50.48949]","",activity,movement,{},2969864,Vermelles,"[2.74739, 50.48949]"
+32,AWD00034d1,diary,290,2,1915-08-24 19:30:00 UTC,24 Aug 1915,Vermelles,"[2.74739, 50.48949]",0730PM,time,0730PM,{},2969864,Vermelles,"[2.74739, 50.48949]"
+1,AWD00034f0,diary,291,5,1915-08-25 00:00:00 UTC,25 Aug 1915,Vermelles,"[2.74739, 50.48949]","",diaryDate,25 Aug 1915,"{""day""=>[""25""], ""month""=>[""Aug""], ""year""=>[""1915""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+4,AWD00034f0,diary,291,4,1915-08-25 00:00:00 UTC,25 Aug 1915,Vermelles,"[2.74739, 50.48949]","",weather,hot,{},2969864,Vermelles,"[2.74739, 50.48949]"
+8,AWD00034f0,diary,291,3,1915-08-25 00:00:00 UTC,25 Aug 1915,Vermelles,"[2.74739, 50.48949]","",activity,working,{},2969864,Vermelles,"[2.74739, 50.48949]"
+13,AWD00034f0,diary,291,3,1915-08-25 00:00:00 UTC,25 Aug 1915,Vermelles,"[2.74739, 50.48949]","",place,Vermelles,"{""place""=>[""Vermelles""], ""location""=>[""false""], ""name""=>[""Vermelles""], ""lat""=>[""50.48949""], ""long""=>[""2.74739""], ""id""=>[""2969864""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+15,AWD00034f0,diary,291,4,1915-08-25 00:00:00 UTC,25 Aug 1915,Vermelles,"[2.74739, 50.48949]","",activity,fire,{},2969864,Vermelles,"[2.74739, 50.48949]"
+17,AWD00034f0,diary,291,3,1915-08-25 00:00:00 UTC,25 Aug 1915,Vermelles,"[2.74739, 50.48949]","",activity,enemy_activity,{},2969864,Vermelles,"[2.74739, 50.48949]"
+18,AWD00034f0,diary,291,2,1915-08-25 00:00:00 UTC,25 Aug 1915,Vermelles,"[2.74739, 50.48949]","",activity,repair,{},2969864,Vermelles,"[2.74739, 50.48949]"
+1,AWD00034eq,diary,292,5,1915-08-26 00:00:00 UTC,26 Aug 1915,Vermelles,"[2.74739, 50.48949]","",diaryDate,26 Aug 1915,"{""day""=>[""26""], ""month""=>[""Aug""], ""year""=>[""1915""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+3,AWD00034eq,diary,292,3,1915-08-26 00:00:00 UTC,26 Aug 1915,Vermelles,"[2.74739, 50.48949]","",weather,hot,{},2969864,Vermelles,"[2.74739, 50.48949]"
+4,AWD00034eq,diary,292,3,1915-08-26 00:00:00 UTC,26 Aug 1915,Vermelles,"[2.74739, 50.48949]","",weather,fine,{},2969864,Vermelles,"[2.74739, 50.48949]"
+5,AWD00034eq,diary,292,3,1915-08-26 00:00:00 UTC,26 Aug 1915,Vermelles,"[2.74739, 50.48949]","",activity,working,{},2969864,Vermelles,"[2.74739, 50.48949]"
+9,AWD00034eq,diary,292,2,1915-08-26 00:00:00 UTC,26 Aug 1915,Vermelles,"[2.74739, 50.48949]","",activity,reconnoitered,{},2969864,Vermelles,"[2.74739, 50.48949]"
+12,AWD00034eq,diary,292,2,1915-08-26 00:00:00 UTC,26 Aug 1915,Vermelles,"[2.74739, 50.48949]","",casualties,other: 2,{},2969864,Vermelles,"[2.74739, 50.48949]"
+13,AWD00034eq,diary,292,2,1915-08-26 00:00:00 UTC,26 Aug 1915,Vermelles,"[2.74739, 50.48949]","",casualties,sick: 2,{},2969864,Vermelles,"[2.74739, 50.48949]"
+16,AWD00034eq,diary,292,5,1915-08-27 00:00:00 UTC,27 Aug 1915,Vermelles,"[2.74739, 50.48949]","",diaryDate,27 Aug 1915,"{""day""=>[""27""], ""month""=>[""Aug""], ""year""=>[""1915""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+18,AWD00034eq,diary,292,4,1915-08-27 00:00:00 UTC,27 Aug 1915,Vermelles,"[2.74739, 50.48949]","",activity,quiet,{},2969864,Vermelles,"[2.74739, 50.48949]"
+19,AWD00034eq,diary,292,2,1915-08-27 00:00:00 UTC,27 Aug 1915,Vermelles,"[2.74739, 50.48949]","",weather,fine,{},2969864,Vermelles,"[2.74739, 50.48949]"
+20,AWD00034eq,diary,292,3,1915-08-27 00:00:00 UTC,27 Aug 1915,Vermelles,"[2.74739, 50.48949]","",weather,hot,{},2969864,Vermelles,"[2.74739, 50.48949]"
+22,AWD00034eq,diary,292,4,1915-08-27 00:00:00 UTC,27 Aug 1915,Vermelles,"[2.74739, 50.48949]","",activity,working,{},2969864,Vermelles,"[2.74739, 50.48949]"
+1,AWD00034dr,diary,293,5,1915-08-28 00:00:00 UTC,28 Aug 1915,Vermelles,"[2.74739, 50.48949]","",diaryDate,28 Aug 1915,"{""day""=>[""28""], ""month""=>[""Aug""], ""year""=>[""1915""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+3,AWD00034dr,diary,293,3,1915-08-28 00:00:00 UTC,28 Aug 1915,Vermelles,"[2.74739, 50.48949]","",weather,fine,{},2969864,Vermelles,"[2.74739, 50.48949]"
+5,AWD00034dr,diary,293,4,1915-08-28 00:00:00 UTC,28 Aug 1915,Vermelles,"[2.74739, 50.48949]","",activity,quiet,{},2969864,Vermelles,"[2.74739, 50.48949]"
+10,AWD00034dr,diary,293,4,1915-08-28 00:00:00 UTC,28 Aug 1915,Vermelles,"[2.74739, 50.48949]","",activity,movement,{},2969864,Vermelles,"[2.74739, 50.48949]"
+11,AWD00034dr,diary,293,2,1915-08-28 17:00:00 UTC,28 Aug 1915,Vermelles,"[2.74739, 50.48949]",0500PM,time,0500PM,{},2969864,Vermelles,"[2.74739, 50.48949]"
+13,AWD00034dr,diary,293,4,1915-08-28 17:00:00 UTC,28 Aug 1915,Le Rutoire,"[0.0, 0.0]",0500PM,place,Le Rutoire,"{""place""=>[""Le Rutoire""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+14,AWD00034dr,diary,293,2,1915-08-28 18:50:00 UTC,28 Aug 1915,Le Rutoire,"[0.0, 0.0]",0650PM,time,0650PM,{},2969864,Vermelles,"[2.74739, 50.48949]"
+15,AWD00034dr,diary,293,2,1915-08-28 18:50:00 UTC,28 Aug 1915,Le Rutoire,"[0.0, 0.0]",0650PM,activity,reserve,{},2969864,Vermelles,"[2.74739, 50.48949]"
+19,AWD00034dr,diary,293,2,1915-08-28 18:50:00 UTC,28 Aug 1915,Le Rutoire,"[0.0, 0.0]",0650PM,place,"Vermelles, VERMELLES","{""place""=>[""Vermelles"", ""VERMELLES""], ""location""=>[""false"", ""true""], ""name""=>["""", ""Vermelles""], ""lat""=>["""", ""50.48949""], ""long""=>["""", ""2.74739""], ""id""=>["""", ""2969864""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+23,AWD00034dr,diary,293,2,1915-08-28 18:50:00 UTC,28 Aug 1915,Le Rutoire,"[0.0, 0.0]",0650PM,unit,"117TH BATTERY: ROYAL FIELD ARTILLERY, 116TH BATTERY: ROYAL FIELD ARTILLERY","{""name""=>[""117TH BATTERY: ROYAL FIELD ARTILLERY"", ""116TH BATTERY: ROYAL FIELD ARTILLERY""], ""context""=>[""joined""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+27,AWD00034dr,diary,293,3,1915-08-28 18:50:00 UTC,28 Aug 1915,Le Rutoire,"[0.0, 0.0]",0650PM,place,Vermelles,"{""place""=>[""Vermelles""], ""location""=>[""false""], ""name""=>[""Vermelles""], ""lat""=>[""50.48949""], ""long""=>[""2.74739""], ""id""=>[""2969864""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+32,AWD00034dr,diary,293,2,1915-08-28 18:50:00 UTC,28 Aug 1915,Le Rutoire,"[0.0, 0.0]",0650PM,activity,enemy_activity,{},2969864,Vermelles,"[2.74739, 50.48949]"
+35,AWD00034dr,diary,293,2,1915-08-28 18:50:00 UTC,28 Aug 1915,Le Rutoire,"[0.0, 0.0]",0650PM,gridRef,G 17 a 9 4,{},2969864,Vermelles,"[2.74739, 50.48949]"
+1,AWD00034d2,diary,294,3,1915-08-28 00:00:00 UTC,28 Aug 1915,Le Rutoire,"[0.0, 0.0]","",diaryDate,28 Aug 1915,"{""day""=>[""28""], ""month""=>[""Aug""], ""year""=>[""1915""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+7,AWD00034d2,diary,294,3,1915-08-28 00:00:00 UTC,28 Aug 1915,Le Rutoire,"[0.0, 0.0]","",activity,repair,{},2969864,Vermelles,"[2.74739, 50.48949]"
+8,AWD00034d2,diary,294,2,1915-08-28 00:00:00 UTC,28 Aug 1915,Le Rutoire,"[0.0, 0.0]","",unit,"5/ R S F, 5/R.S.F.","{""name""=>[""5/ R S F"", ""5/R.S.F.""], ""context""=>[""left""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+11,AWD00034d2,diary,294,3,1915-08-28 00:00:00 UTC,28 Aug 1915,Le Rutoire,"[0.0, 0.0]","",unit,Camerons,"{""name""=>[""Camerons""], ""context""=>[""right""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+13,AWD00034d2,diary,294,4,1915-08-29 00:00:00 UTC,29 Aug 1915,Le Rutoire,"[0.0, 0.0]","",diaryDate,29 Aug 1915,"{""day""=>[""29""], ""month""=>[""Aug""], ""year""=>[""1915""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+15,AWD00034d2,diary,294,5,1915-08-29 00:00:00 UTC,29 Aug 1915,Le Rutoire,"[0.0, 0.0]","",weather,fine,{},2969864,Vermelles,"[2.74739, 50.48949]"
+17,AWD00034d2,diary,294,3,1915-08-29 00:00:00 UTC,29 Aug 1915,Le Rutoire,"[0.0, 0.0]","",activity,repair,{},2969864,Vermelles,"[2.74739, 50.48949]"
+18,AWD00034d2,diary,294,2,1915-08-29 00:00:00 UTC,29 Aug 1915,Le Rutoire,"[0.0, 0.0]","",activity,construction,{},2969864,Vermelles,"[2.74739, 50.48949]"
+19,AWD00034d2,diary,294,2,1915-08-29 20:00:00 UTC,29 Aug 1915,Le Rutoire,"[0.0, 0.0]",0800PM,time,0800PM,{},2969864,Vermelles,"[2.74739, 50.48949]"
+21,AWD00034d2,diary,294,3,1915-08-29 20:00:00 UTC,29 Aug 1915,Le Rutoire,"[0.0, 0.0]",0800PM,activity,working,{},2969864,Vermelles,"[2.74739, 50.48949]"
+22,AWD00034d2,diary,294,2,1915-08-29 00:30:00 UTC,29 Aug 1915,Le Rutoire,"[0.0, 0.0]",1230AM,time,1230AM,{},2969864,Vermelles,"[2.74739, 50.48949]"
+23,AWD00034d2,diary,294,2,1915-08-29 20:15:00 UTC,29 Aug 1915,Le Rutoire,"[0.0, 0.0]",0815PM,time,0815PM,{},2969864,Vermelles,"[2.74739, 50.48949]"
+24,AWD00034d2,diary,294,2,1915-08-29 12:00:00 UTC,29 Aug 1915,Le Rutoire,"[0.0, 0.0]",1200PM,time,1200PM,{},2969864,Vermelles,"[2.74739, 50.48949]"
+26,AWD00034d2,diary,294,3,1915-08-29 12:00:00 UTC,29 Aug 1915,Le Rutoire,"[0.0, 0.0]",1200PM,weather,overcast,{},2969864,Vermelles,"[2.74739, 50.48949]"
+27,AWD00034d2,diary,294,4,1915-08-29 12:00:00 UTC,29 Aug 1915,Le Rutoire,"[0.0, 0.0]",1200PM,activity,enemy_activity,{},2969864,Vermelles,"[2.74739, 50.48949]"
+28,AWD00034d2,diary,294,4,1915-08-29 12:00:00 UTC,29 Aug 1915,Le Rutoire,"[0.0, 0.0]",1200PM,place,BOIS CARRE,"{""place""=>[""BOIS CARRE""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+1,AWD00034fi,diary,296,5,1915-08-29 00:00:00 UTC,29 Aug 1915,Le Rutoire,"[0.0, 0.0]","",diaryDate,29 Aug 1915,"{""day""=>[""29""], ""month""=>[""Aug""], ""year""=>[""1915""]}",2969864,Vermelles,"[2.74739, 50.48949]"
+4,AWD00034fi,diary,296,2,1915-08-29 17:00:00 UTC,29 Aug 1915,Le Rutoire,"[0.0, 0.0]",0500PM,time,0500PM,{},2969864,Vermelles,"[2.74739, 50.48949]"
+12,AWD00034fi,diary,296,2,1915-08-29 20:30:00 UTC,29 Aug 1915,Le Rutoire,"[0.0, 0.0]",0830PM,time,0830PM,{},2969864,Vermelles,"[2.74739, 50.48949]"
+13,AWD00034fi,diary,296,2,1915-08-29 20:30:00 UTC,29 Aug 1915,Le Rutoire,"[0.0, 0.0]",0830PM,gridRef,A 5,{},2969864,Vermelles,"[2.74739, 50.48949]"
+16,AWD00034fi,diary,296,2,1915-08-29 20:30:00 UTC,29 Aug 1915,LOOS,"[3.01874, 50.60982]",0830PM,place,LOOS,"{""place""=>[""LOOS""], ""location""=>[""true""], ""name""=>[""Loos""], ""lat""=>[""50.60982""], ""long""=>[""3.01874""], ""id""=>[""2997620""]}",2997620,Loos,"[3.01874, 50.60982]"
+17,AWD00034fi,diary,296,3,1915-08-29 20:30:00 UTC,29 Aug 1915,LOOS,"[3.01874, 50.60982]",0830PM,activity,repair,{},2997620,Loos,"[3.01874, 50.60982]"
+19,AWD00034fi,diary,296,2,1915-08-29 20:30:00 UTC,29 Aug 1915,LOOS,"[3.01874, 50.60982]",0830PM,activity,working,{},2997620,Loos,"[3.01874, 50.60982]"
+1,AWD00034fh,diary,297,2,1915-08-29 00:00:00 UTC,29 Aug 1915,LOOS,"[3.01874, 50.60982]","",diaryDate,29 Aug 1915,"{""day""=>[""29""], ""month""=>[""Aug""], ""year""=>[""1915""]}",2997620,Loos,"[3.01874, 50.60982]"
+2,AWD00034fh,diary,297,5,1915-08-30 00:00:00 UTC,30 Aug 1915,LOOS,"[3.01874, 50.60982]","",diaryDate,30 Aug 1915,"{""day""=>[""30""], ""month""=>[""Aug""], ""year""=>[""1915""]}",2997620,Loos,"[3.01874, 50.60982]"
+3,AWD00034fh,diary,297,4,1915-08-30 00:00:00 UTC,30 Aug 1915,LOOS,"[3.01874, 50.60982]","",weather,fine,{},2997620,Loos,"[3.01874, 50.60982]"
+4,AWD00034fh,diary,297,2,1915-08-30 00:00:00 UTC,30 Aug 1915,LOOS,"[3.01874, 50.60982]","",weather,rain,{},2997620,Loos,"[3.01874, 50.60982]"
+6,AWD00034fh,diary,297,2,1915-08-30 00:00:00 UTC,30 Aug 1915,LOOS,"[3.01874, 50.60982]","",activity,line,{},2997620,Loos,"[3.01874, 50.60982]"
+8,AWD00034fh,diary,297,4,1915-08-30 00:00:00 UTC,30 Aug 1915,LOOS,"[3.01874, 50.60982]","",activity,repair,{},2997620,Loos,"[3.01874, 50.60982]"
+9,AWD00034fh,diary,297,2,1915-08-30 22:20:00 UTC,30 Aug 1915,LOOS,"[3.01874, 50.60982]",1020PM,time,1020PM,{},2997620,Loos,"[3.01874, 50.60982]"
+10,AWD00034fh,diary,297,3,1915-08-30 22:20:00 UTC,30 Aug 1915,LOOS,"[3.01874, 50.60982]",1020PM,activity,enemy_activity,{},2997620,Loos,"[3.01874, 50.60982]"
+13,AWD00034fh,diary,297,3,1915-08-30 22:20:00 UTC,30 Aug 1915,LOOS,"[3.01874, 50.60982]",1020PM,casualties,sick: 1,{},2997620,Loos,"[3.01874, 50.60982]"
+14,AWD00034fh,diary,297,2,1915-08-30 22:20:00 UTC,30 Aug 1915,LOOS,"[3.01874, 50.60982]",1020PM,casualties,other: 1,{},2997620,Loos,"[3.01874, 50.60982]"
+1,AWD00034ex,diary,298,2,1915-08-30 00:00:00 UTC,30 Aug 1915,LOOS,"[3.01874, 50.60982]","",diaryDate,30 Aug 1915,"{""day""=>[""30""], ""month""=>[""Aug""], ""year""=>[""1915""]}",2997620,Loos,"[3.01874, 50.60982]"
+2,AWD00034f1,diary,299,2,1915-08-31 00:00:00 UTC,31 Aug 1915,LOOS,"[3.01874, 50.60982]","",diaryDate,31 Aug 1915,"{""day""=>[""31""], ""month""=>[""Aug""], ""year""=>[""1915""]}",2997620,Loos,"[3.01874, 50.60982]"
+4,AWD00034f1,diary,299,3,1915-08-31 00:00:00 UTC,31 Aug 1915,LOOS,"[3.01874, 50.60982]","",diaryDate,31 Aug 1915,"{""day""=>[""31""], ""month""=>[""Aug""], ""year""=>[""1915""]}",2997620,Loos,"[3.01874, 50.60982]"
+6,AWD00034f1,diary,299,4,1915-08-31 00:00:00 UTC,31 Aug 1915,LOOS,"[3.01874, 50.60982]","",weather,fine,{},2997620,Loos,"[3.01874, 50.60982]"
+8,AWD00034f1,diary,299,2,1915-08-31 00:00:00 UTC,31 Aug 1915,LOOS,"[3.01874, 50.60982]","",activity,working,{},2997620,Loos,"[3.01874, 50.60982]"
+11,AWD00034f1,diary,299,3,1915-08-31 00:00:00 UTC,31 Aug 1915,LOOS,"[3.01874, 50.60982]","",activity,repair,{},2997620,Loos,"[3.01874, 50.60982]"
+17,AWD00034f1,diary,299,3,1915-08-31 00:00:00 UTC,31 Aug 1915,LOOS,"[3.01874, 50.60982]","",activity,enemy_activity,{},2997620,Loos,"[3.01874, 50.60982]"
+19,AWD00034f1,diary,299,4,1915-08-31 00:00:00 UTC,31 Aug 1915,LOOS,"[3.01874, 50.60982]","",strength,"officer: 18, other: 878",{},2997620,Loos,"[3.01874, 50.60982]"
+1,AWD00034fb,orders,301,2,,,,[],,orders,other,{},,,
+6,AWD00034fb,orders,301,4,,,,[],,date,4 Aug 1915,{},,,
+8,AWD00034fb,orders,301,3,,,,[],,person,Brigadier General G Thesiger,"{""first""=>[""G""], ""surname""=>[""Thesiger""], ""rank""=>[""Brigadier General""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+11,AWD00034fb,orders,301,3,,,,[],,orders,move,{},,,
+3,AWD00034ck,orders,302,2,,,,[],,date,4 Aug 1915,{},,,
+6,AWD00034ck,orders,302,2,,,,[],,orders,move,{},,,
+8,AWD00034ck,orders,302,2,,,,[],,person,"Major ,R Terry, TERRY","{""first""=>["""", ""R""], ""surname""=>[""Terry"", ""TERRY""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""2nd Infantry Brigade"", """"]}",,,
+1,AWD00034eu,orders,303,3,,,,[],,date,11 Aug 1915,{},,,
+5,AWD00034eu,orders,303,2,,,,[],,orders,move,{},,,
+7,AWD00034eu,orders,303,2,,,,[],,date,11 Aug 1915,{},,,
+11,AWD00034eu,orders,303,2,,,,[],,person,"Major  Terry, TERRY","{""first""=>[""""], ""surname""=>[""Terry"", ""TERRY""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other"", ""author""], ""unit""=>[""2nd Infantry Brigade"", ""1ST DIVISION: 2ND INFANTRY BRIGADE ""]}",,,
+1,AWD00034di,orders,304,2,,,,[],,orders,other,{},,,
+6,AWD00034di,orders,304,5,,,,[],,date,8 Aug 1915,{},,,
+7,AWD00034di,orders,304,2,,,,[],,orders,move,{},,,
+11,AWD00034di,orders,304,3,,,,[],,person,"Major N,,R Terry","{""first""=>[""N"", """", ""R""], ""surname""=>[""Terry""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""2nd I nf. Brgd"", ""2nd Infantry Brigade"", """"]}",,,
+1,AWD00034eb,orders,305,2,,,,[],,orders,other,{},,,
+7,AWD00034eb,orders,305,4,,,,[],,date,14 Aug 1915,{},,,
+10,AWD00034eb,orders,305,2,,,,[],,orders,move,{},,,
+13,AWD00034eb,orders,305,4,,,,[],,person,"Major N, Terry, TERRY","{""first""=>[""N"", """"], ""surname""=>[""Terry"", ""TERRY""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""2nd Inf. Brgd."", ""2nd Infantry Brigade"", """", ""1ST DIVISION: 2ND INFANTRY BRIGADE ""]}",,,
+5,AWD00034e4,orders,306,2,,,,[],,date,17 Aug 1915,{},,,
+7,AWD00034e4,orders,306,2,,,,[],,date,17 Aug 1915,{},,,
+8,AWD00034e4,orders,306,2,,,,[],,person,"Brigadier General G Thesiger, THESIGER","{""first""=>[""G""], ""surname""=>[""Thesiger"", ""THESIGER""], ""rank""=>[""Brigadier General""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""2nd Infantry Brigade"", ""2nd INFANTRY BRIGADE""]}",,,
+13,AWD00034e4,orders,306,3,,,,[],,orders,move,{},,,
+3,AWD00034e9,orders,307,2,,,,[],,orders,move,{},,,
+4,AWD00034e9,orders,307,2,,,,[],,date,17 Aug 1915,{},,,
+7,AWD00034e9,orders,307,4,,,,[],,person,"Major  Terry, TERRY","{""first""=>[""""], ""surname""=>[""Terry"", ""TERRY""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""2nd Inf. Brgd."", ""2nd Infantry Brigade"", """", ""1ST DIVISION: 2ND INFANTRY BRIGADE ""]}",,,
+3,AWD00034cj,orders,308,2,,,,[],,orders,other,{},,,
+7,AWD00034cj,orders,308,3,,,,[],,date,22 Aug 1915,{},,,
+9,AWD00034cj,orders,308,2,,,,[],,orders,move,{},,,
+7,AWD00034fc,orders,309,2,,,,[],,person,"Captain C H, Preston, PRESTON [?]","{""first""=>[""C H"", """"], ""surname""=>[""Preston"", ""PRESTON [?]""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other"", ""author""], ""unit""=>[""2nd Infantry Brigade"", ""1SYT DIVISION: 2ND INFANTRY BRIGADE ""]}",,,
+4,AWD00034cx,orders,310,2,,,,[],,date,27 Aug 1915,{},,,
+8,AWD00034cx,orders,310,2,,,,[],,date,27 Aug 1915,{},,,
+9,AWD00034cx,orders,310,2,,,,[],,orders,move,{},,,
+12,AWD00034cx,orders,310,2,,,,[],,person,"Major W, Terry, TERRY","{""first""=>[""W"", """"], ""surname""=>[""Terry"", ""TERRY""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other"", ""author""], ""unit""=>[""2nd Infantry Brigade"", ""1ST DIVISION: 2ND INFANTRY BRIGADE ""]}",,,
+11,AWD00034ec,"report, other",312,2,,,,[],,person,"Lieutenant ,P J R Currie, CURRIE","{""first""=>["""", ""P J R""], ""surname""=>[""Currie"", ""CURRIE""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other"", ""author""], ""unit""=>["""", ""1ST DIVISION: 2ND INFANTRY  BRIGADE: 2ND BATTALION KING'S OWN ROYAL RIFLE CORPS. ""]}",,,
+6,AWD00034cg,"report, other",313,2,,,,[],,activity,training,{},,,
+8,AWD00034cg,"report, other",313,2,,,,[],,person,"Lieutenant,Captain P,P J R Currie, CURRIE","{""first""=>[""P"", ""P J R""], ""surname""=>[""Currie"", ""CURRIE""], ""rank""=>[""Lieutenant"", ""Captain""], ""number""=>[""""], ""reason""=>[""other"", ""author""], ""unit""=>[""2/ K R R"", ""1ST DIVISION: 2ND INFANTRY  BRIGADE: 2ND BATTALION KING'S OWN ROYAL RIFLE CORPS. ""]}",,,
+3,AWD00034f5,"report, orders",314,2,,,,[],,orders,training,{},,,
+4,AWD00034f5,"report, orders",314,2,,,,[],,activity,training,{},,,
+8,AWD00034f5,"report, orders",314,4,,,,[],,person, P CURRIE,"{""first""=>[""P""], ""surname""=>[""CURRIE""], ""rank""=>[""""], ""number""=>[""""], ""reason""=>[""author"", ""other""], ""unit""=>[""""]}",,,
+9,AWD00034f5,"report, orders",314,3,,,,[],,date,4 Aug 1915,{},,,
+10,AWD00034eg,"report, other",315,2,,,,[],,activity,construction,{},,,
+4,AWD00034e8,"report, other",316,2,,,,[],,activity,repair,{},,,
+4,AWD00034dc,orders,319,4,,,,[],,person,Lieutenant Colonel R H Longridge,"{""first""=>[""R H""], ""surname""=>[""Longridge""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""1st Division"", """", ""1ST DIVISION "", ""General Staff, 1st Division""]}",,,
+5,AWD00034dc,orders,319,4,,,,[],,date,19 Aug 1915,{},,,
+1,AWD00034fa,orders,320,2,,,,[],,date,21 Aug 1915,{},,,
+2,AWD00034fa,orders,320,2,,,,[],,orders,training,{},,,
+4,AWD00034fa,orders,320,2,,,,[],,activity,training,{},,,
+11,AWD00034fa,orders,320,2,,,,[],,person,"Captain J K,G K Piraulx, PRIAULX ","{""first""=>[""J K"", ""G K""], ""surname""=>[""Piraulx"", ""PRIAULX ""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other"", ""author""], ""unit""=>[""2/ K R R"", ""1ST DIVISION: 2ND INFANTRY  BRIGADE: 2ND BATTALION KING'S OWN ROYAL RIFLE CORPS. ""]}",,,
+12,AWD00034fa,orders,320,2,,,,[],,date,20 Aug 1915,{},,,
+3,AWD00034f7,other,321,2,,,,[],,activity,training,{},,,
+5,AWD00034f7,other,321,2,,,,[],,activity,training,{},,,
+6,AWD00034f7,other,321,2,,,,[],,person,"Captain J K,G K Piraulx, PRIAULX","{""first""=>[""J K"", ""G K""], ""surname""=>[""Piraulx"", ""PRIAULX""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other"", ""author""], ""unit""=>[""2/ K R R"", ""1ST DIVISION: 2ND INFANTRY  BRIGADE: 2ND BATTALION KING'S OWN ROYAL RIFLE CORPS. ""]}",,,
+3,AWD00034ef,orders,327,2,,,,[],,date,28 Aug 1915,{},,,
+6,AWD00034ef,orders,327,2,,,,[],,person,"Captain P,P I R Currie, CURRIE","{""first""=>[""P"", ""P I R""], ""surname""=>[""Currie"", ""CURRIE""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""2/ K R R"", ""2nd Bt. KING'S ROYAL RIFLE CORPS""]}",,,
+16,AWD00034fe,report,329,2,,,,[],,gridRef,G 5 d 10 20,{},,,
+22,AWD00034fe,report,329,3,,,,[],,gridRef,G 5 d 90 00,{},,,
+23,AWD00034fe,report,329,2,,,,[],,gridRef,G 6 d 10 50,{},,,
+3,AWD00034da,report,330,2,,,,[],,gridRef,G 11 b 70 40,{},,,
+6,AWD00034da,report,330,2,,,,[],,gridRef,G 11 b 40 10,{},,,
+5,AWD00034cs,report,331,2,,,,[],,gridRef,G 17 a 90 40,{},,,
+7,AWD00034cs,report,331,2,,,,[],,gridRef,G 17 a 90 40,{},,,
+8,AWD00034cs,report,331,2,,,,[],,title,Report on Distinguishing Marks,{},,,
+28,AWD00034cs,report,331,2,,,,[],,gridRef,G 28 b 10 90,{},,,
+30,AWD00034cs,report,331,2,,,,[],,person,"Major V Vivian, VIVIAN","{""first""=>[""V""], ""surname""=>[""Vivian"", ""VIVIAN""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other"", ""author""], ""unit""=>[""1st Division"", ""1ST DIVISION: GENERAL STAFF""]}",,,
+33,AWD00034cs,report,331,3,,,,[],,date,3 Aug 1915,{},,,
+5,AWD00034f9,report,334,3,,,,[],,date,29 Aug 1915,{},,,
+1,AWD00034d8,other,335,2,,,,[],,title,Trench Stores,{},,,
+3,AWD00034d8,other,335,2,,,,[],,date,12 Aug 1915,{},,,

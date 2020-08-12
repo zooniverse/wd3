@@ -1,0 +1,1025 @@
+Order,Page,Page type,Page number,Count,DateTime,Date,Place,Lat/Lon,Time,Type,Label,Data,GeoID,GeoName,GeoCoords
+1,AWD000244m,diary,431,7,1918-01-01 00:00:00 UTC,1 Jan 1918,"","[0.0, 0.0]","",diaryDate,1 Jan 1918,"{""day""=>[""1""], ""month""=>[""Jan""], ""year""=>[""1918""]}",2985684,Pozières,"[2.72929, 50.04047]"
+5,AWD000244m,diary,431,6,1918-01-01 00:00:00 UTC,1 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",place,Beaulencourt,"{""place""=>[""Beaulencourt""], ""location""=>[""true""], ""name""=>[""Beaulencourt""], ""lat""=>[""50.06667""], ""long""=>[""2.86667""], ""id""=>[""3034281""]}",2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+6,AWD000244m,diary,431,7,1918-01-01 00:00:00 UTC,1 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",activity,working,{},2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+7,AWD000244m,diary,431,2,1918-01-01 00:00:00 UTC,1 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",place,Beaulen,"{""place""=>[""Beaulen""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+8,AWD000244m,diary,431,7,1918-01-02 00:00:00 UTC,2 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",diaryDate,2 Jan 1918,"{""day""=>[""2""], ""month""=>[""Jan""], ""year""=>[""1918""]}",2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+9,AWD000244m,diary,431,9,1918-01-02 00:00:00 UTC,2 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",activity,training,{},2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+10,AWD000244m,diary,431,6,1918-01-03 00:00:00 UTC,3 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",diaryDate,3 Jan 1918,"{""day""=>[""3""], ""month""=>[""Jan""], ""year""=>[""1918""]}",2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+12,AWD000244m,diary,431,4,1918-01-03 00:00:00 UTC,3 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",activity,working,{},2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+13,AWD000244m,diary,431,3,1918-01-03 00:00:00 UTC,3 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",place,Beaulencourt,"{""place""=>[""Beaulencourt""], ""location""=>[""true""], ""name""=>[""Beaulencourt""], ""lat""=>[""50.06667""], ""long""=>[""2.86667""], ""id""=>[""3034281""]}",2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+14,AWD000244m,diary,431,4,1918-01-03 00:00:00 UTC,3 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",activity,training,{},2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+15,AWD000244m,diary,431,6,1918-01-04 00:00:00 UTC,4 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",diaryDate,4 Jan 1918,"{""day""=>[""4""], ""month""=>[""Jan""], ""year""=>[""1918""]}",2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+17,AWD000244m,diary,431,2,1918-01-04 00:00:00 UTC,4 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",activity,working,{},2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+18,AWD000244m,diary,431,2,1918-01-04 00:00:00 UTC,4 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",place,Beaulen,"{""place""=>[""Beaulen""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+19,AWD000244m,diary,431,8,1918-01-04 00:00:00 UTC,4 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",activity,training,{},2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+20,AWD000244m,diary,431,7,1918-01-05 00:00:00 UTC,5 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",diaryDate,5 Jan 1918,"{""day""=>[""5""], ""month""=>[""Jan""], ""year""=>[""1918""]}",2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+21,AWD000244m,diary,431,3,1918-01-05 00:00:00 UTC,5 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",place,Beaulencourt,"{""place""=>[""Beaulencourt""], ""location""=>[""true""], ""name""=>[""Beaulencourt""], ""lat""=>[""50.06667""], ""long""=>[""2.86667""], ""id""=>[""3034281""]}",2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+22,AWD000244m,diary,431,5,1918-01-05 00:00:00 UTC,5 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",activity,training,{},2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+23,AWD000244m,diary,431,6,1918-01-06 00:00:00 UTC,6 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",diaryDate,6 Jan 1918,"{""day""=>[""6""], ""month""=>[""Jan""], ""year""=>[""1918""]}",2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+24,AWD000244m,diary,431,2,1918-01-06 00:00:00 UTC,6 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",place,Beaulen,"{""place""=>[""Beaulen""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+25,AWD000244m,diary,431,3,1918-01-06 00:00:00 UTC,6 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",place,Beaulencourt,"{""place""=>[""Beaulencourt""], ""location""=>[""true""], ""name""=>[""Beaulencourt""], ""lat""=>[""50.06667""], ""long""=>[""2.86667""], ""id""=>[""3034281""]}",2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+26,AWD000244m,diary,431,6,1918-01-07 00:00:00 UTC,7 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",diaryDate,7 Jan 1918,"{""day""=>[""7""], ""month""=>[""Jan""], ""year""=>[""1918""]}",2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+27,AWD000244m,diary,431,4,1918-01-07 00:00:00 UTC,7 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",activity,training,{},2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+28,AWD000244m,diary,431,6,1918-01-08 00:00:00 UTC,8 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",diaryDate,8 Jan 1918,"{""day""=>[""8""], ""month""=>[""Jan""], ""year""=>[""1918""]}",2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+29,AWD000244m,diary,431,2,1918-01-08 00:00:00 UTC,8 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",place,Beaulen,"{""place""=>[""Beaulen""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+30,AWD000244m,diary,431,3,1918-01-08 00:00:00 UTC,8 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",place,Beaulencourt,"{""place""=>[""Beaulencourt""], ""location""=>[""true""], ""name""=>[""Beaulencourt""], ""lat""=>[""50.06667""], ""long""=>[""2.86667""], ""id""=>[""3034281""]}",2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+31,AWD000244m,diary,431,8,1918-01-08 00:00:00 UTC,8 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",activity,training,{},2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+32,AWD000244m,diary,431,6,1918-01-09 00:00:00 UTC,9 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",diaryDate,9 Jan 1918,"{""day""=>[""9""], ""month""=>[""Jan""], ""year""=>[""1918""]}",2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+34,AWD000244m,diary,431,3,1918-01-09 00:00:00 UTC,9 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",place,Beaulencourt,"{""place""=>[""Beaulencourt""], ""location""=>[""true""], ""name""=>[""Beaulencourt""], ""lat""=>[""50.06667""], ""long""=>[""2.86667""], ""id""=>[""3034281""]}",2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+35,AWD000244m,diary,431,5,1918-01-10 00:00:00 UTC,10 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",diaryDate,10 Jan 1918,"{""day""=>[""10""], ""month""=>[""Jan""], ""year""=>[""1918""]}",2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+36,AWD000244m,diary,431,7,1918-01-10 00:00:00 UTC,10 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",activity,training,{},2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+37,AWD000244m,diary,431,2,1918-01-10 00:00:00 UTC,10 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",place,Beaulen,"{""place""=>[""Beaulen""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+38,AWD000244m,diary,431,6,1918-01-11 00:00:00 UTC,11 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",diaryDate,11 Jan 1918,"{""day""=>[""11""], ""month""=>[""Jan""], ""year""=>[""1918""]}",2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+40,AWD000244m,diary,431,4,1918-01-11 00:00:00 UTC,11 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",place,Beaulencourt,"{""place""=>[""Beaulencourt""], ""location""=>[""true""], ""name""=>[""Beaulencourt""], ""lat""=>[""50.06667""], ""long""=>[""2.86667""], ""id""=>[""3034281""]}",2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+41,AWD000244m,diary,431,5,1918-01-12 00:00:00 UTC,12 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",diaryDate,12 Jan 1918,"{""day""=>[""12""], ""month""=>[""Jan""], ""year""=>[""1918""]}",2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+42,AWD000244m,diary,431,5,1918-01-12 00:00:00 UTC,12 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",activity,training,{},2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+43,AWD000244m,diary,431,2,1918-01-13 00:00:00 UTC,13 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",diaryDate,13 Jan 1918,"{""day""=>[""13""], ""month""=>[""Jan""], ""year""=>[""1918""]}",2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+44,AWD000244m,diary,431,2,1918-01-13 00:00:00 UTC,13 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",place,Beaulen,"{""place""=>[""Beaulen""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+45,AWD000244m,diary,431,5,1918-01-13 00:00:00 UTC,13 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",diaryDate,13 Jan 1918,"{""day""=>[""13""], ""month""=>[""Jan""], ""year""=>[""1918""]}",2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+46,AWD000244m,diary,431,4,1918-01-13 00:00:00 UTC,13 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",domestic,religion,{},2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+47,AWD000244m,diary,431,2,1918-01-13 00:00:00 UTC,13 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",activity,repair,{},2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+48,AWD000244m,diary,431,4,1918-01-13 00:00:00 UTC,13 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",place,Beaulencourt,"{""place""=>[""Beaulencourt""], ""location""=>[""true""], ""name""=>[""Beaulencourt""], ""lat""=>[""50.06667""], ""long""=>[""2.86667""], ""id""=>[""3034281""]}",2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+50,AWD000244m,diary,431,7,1918-01-14 00:00:00 UTC,14 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",diaryDate,14 Jan 1918,"{""day""=>[""14""], ""month""=>[""Jan""], ""year""=>[""1918""]}",2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+51,AWD000244m,diary,431,7,1918-01-14 00:00:00 UTC,14 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",activity,training,{},2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+1,AWD0002444,diary,432,6,1918-01-15 00:00:00 UTC,15 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",diaryDate,15 Jan 1918,"{""day""=>[""15""], ""month""=>[""Jan""], ""year""=>[""1918""]}",2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+2,AWD0002444,diary,432,2,1918-01-15 00:00:00 UTC,15 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",date,15 Jan 1918,{},2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+3,AWD0002444,diary,432,6,1918-01-15 00:00:00 UTC,15 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",activity,training,{},2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+4,AWD0002444,diary,432,6,1918-01-15 00:00:00 UTC,15 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",place,Beaulencourt,"{""place""=>[""Beaulencourt""], ""location""=>[""true""], ""name""=>[""Beaulencourt""], ""lat""=>[""50.06667""], ""long""=>[""2.86667""], ""id""=>[""3034281""]}",2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+5,AWD0002444,diary,432,5,1918-01-16 00:00:00 UTC,16 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",diaryDate,16 Jan 1918,"{""day""=>[""16""], ""month""=>[""Jan""], ""year""=>[""1918""]}",2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+6,AWD0002444,diary,432,2,1918-01-16 00:00:00 UTC,16 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",date,16 Jan 1918,{},2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+8,AWD0002444,diary,432,4,1918-01-16 00:00:00 UTC,16 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",place,Beaulencourt,"{""place""=>[""Beaulencourt""], ""location""=>[""true""], ""name""=>[""Beaulencourt""], ""lat""=>[""50.06667""], ""long""=>[""2.86667""], ""id""=>[""3034281""]}",2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+9,AWD0002444,diary,432,3,1918-01-16 00:00:00 UTC,16 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",domestic,hygiene,{},2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+10,AWD0002444,diary,432,5,1918-01-17 00:00:00 UTC,17 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",diaryDate,17 Jan 1918,"{""day""=>[""17""], ""month""=>[""Jan""], ""year""=>[""1918""]}",2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+11,AWD0002444,diary,432,6,1918-01-17 00:00:00 UTC,17 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",activity,training,{},2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+12,AWD0002444,diary,432,2,1918-01-17 00:00:00 UTC,17 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",date,17 Jan 1918,{},2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+14,AWD0002444,diary,432,2,1918-01-18 00:00:00 UTC,18 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",diaryDate,18 Jan 1918,"{""day""=>[""18""], ""month""=>[""Jan""], ""year""=>[""1918""]}",2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+16,AWD0002444,diary,432,4,1918-01-18 00:00:00 UTC,18 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",diaryDate,18 Jan 1918,"{""day""=>[""18""], ""month""=>[""Jan""], ""year""=>[""1918""]}",2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+18,AWD0002444,diary,432,2,1918-01-18 00:00:00 UTC,18 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",date,18 Jan 1918,{},2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+19,AWD0002444,diary,432,5,1918-01-18 00:00:00 UTC,18 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",place,Beaulencourt,"{""place""=>[""Beaulencourt""], ""location""=>[""true""], ""name""=>[""Beaulencourt""], ""lat""=>[""50.06667""], ""long""=>[""2.86667""], ""id""=>[""3034281""]}",2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+20,AWD0002444,diary,432,7,1918-01-18 00:00:00 UTC,18 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",activity,training,{},2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+21,AWD0002444,diary,432,6,1918-01-19 00:00:00 UTC,19 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",diaryDate,19 Jan 1918,"{""day""=>[""19""], ""month""=>[""Jan""], ""year""=>[""1918""]}",2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+22,AWD0002444,diary,432,6,1918-01-19 00:00:00 UTC,19 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",activity,working,{},2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+23,AWD0002444,diary,432,2,1918-01-19 00:00:00 UTC,19 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",date,19 Jan 1918,{},2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+24,AWD0002444,diary,432,2,1918-01-20 00:00:00 UTC,20 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",diaryDate,20 Jan 1918,"{""day""=>[""20""], ""month""=>[""Jan""], ""year""=>[""1918""]}",2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+25,AWD0002444,diary,432,8,1918-01-20 00:00:00 UTC,20 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",activity,training,{},2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+26,AWD0002444,diary,432,4,1918-01-20 00:00:00 UTC,20 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",place,Beaulencourt,"{""place""=>[""Beaulencourt""], ""location""=>[""true""], ""name""=>[""Beaulencourt""], ""lat""=>[""50.06667""], ""long""=>[""2.86667""], ""id""=>[""3034281""]}",2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+27,AWD0002444,diary,432,4,1918-01-20 00:00:00 UTC,20 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",diaryDate,20 Jan 1918,"{""day""=>[""20""], ""month""=>[""Jan""], ""year""=>[""1918""]}",2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+28,AWD0002444,diary,432,2,1918-01-20 00:00:00 UTC,20 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",date,20 Jan 1918,{},2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+29,AWD0002444,diary,432,5,1918-01-21 00:00:00 UTC,21 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",diaryDate,21 Jan 1918,"{""day""=>[""21""], ""month""=>[""Jan""], ""year""=>[""1918""]}",2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+30,AWD0002444,diary,432,2,1918-01-21 00:00:00 UTC,21 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",activity,training,{},2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+31,AWD0002444,diary,432,2,1918-01-21 00:00:00 UTC,21 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",date,21 Jan 1918,{},2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+32,AWD0002444,diary,432,3,1918-01-21 00:00:00 UTC,21 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",gridRef,R 9 b 45 0,{},2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+33,AWD0002444,diary,432,5,1918-01-21 00:00:00 UTC,21 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",place,Beaulencourt,"{""place""=>[""Beaulencourt""], ""location""=>[""true""], ""name""=>[""Beaulencourt""], ""lat""=>[""50.06667""], ""long""=>[""2.86667""], ""id""=>[""3034281""]}",2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+34,AWD0002444,diary,432,4,1918-01-21 00:00:00 UTC,21 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",gridRef,R 15 a 85 60,{},2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+35,AWD0002444,diary,432,6,1918-01-22 00:00:00 UTC,22 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",diaryDate,22 Jan 1918,"{""day""=>[""22""], ""month""=>[""Jan""], ""year""=>[""1918""]}",2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+39,AWD0002444,diary,432,4,1918-01-22 00:00:00 UTC,22 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",activity,line,{},2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+43,AWD0002444,diary,432,2,1918-01-22 00:00:00 UTC,22 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",date,22 Jan 1918,{},2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+46,AWD0002444,diary,432,3,1918-01-22 00:00:00 UTC,22 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",mapRef,"sheet: La Vacquerie, scale: 1/10,000",{},2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+48,AWD0002444,diary,432,6,1918-01-23 00:00:00 UTC,23 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",diaryDate,23 Jan 1918,"{""day""=>[""23""], ""month""=>[""Jan""], ""year""=>[""1918""]}",2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+49,AWD0002444,diary,432,2,1918-01-23 00:00:00 UTC,23 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",date,23 Jan 1918,{},2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+50,AWD0002444,diary,432,4,1918-01-23 00:00:00 UTC,23 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",activity,line,{},2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+53,AWD0002444,diary,432,4,1918-01-24 00:00:00 UTC,24 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",diaryDate,24 Jan 1918,"{""day""=>[""24""], ""month""=>[""Jan""], ""year""=>[""1918""]}",2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+54,AWD0002444,diary,432,3,1918-01-24 00:00:00 UTC,24 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",activity,line,{},2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+55,AWD0002444,diary,432,2,1918-01-24 00:00:00 UTC,24 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",date,24 Jan 1918,{},2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+57,AWD0002444,diary,432,2,1918-01-24 00:00:00 UTC,24 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",gridRef,R 7 a,{},2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+59,AWD0002444,diary,432,5,1918-01-25 00:00:00 UTC,25 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",diaryDate,25 Jan 1918,"{""day""=>[""25""], ""month""=>[""Jan""], ""year""=>[""1918""]}",2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+60,AWD0002444,diary,432,2,1918-01-25 00:00:00 UTC,25 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",activity,movement,{},2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+61,AWD0002444,diary,432,3,1918-01-25 00:00:00 UTC,25 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",gridRef,R 7 b,{},2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+62,AWD0002444,diary,432,4,1918-01-25 00:00:00 UTC,25 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",activity,support,{},2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+63,AWD0002444,diary,432,2,1918-01-25 00:00:00 UTC,25 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",date,25 Jan 1918,{},2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+65,AWD0002444,diary,432,2,1918-01-25 00:00:00 UTC,25 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",unit,"17th R 7, 17th R. F.","{""name""=>[""17th R 7"", ""17th R. F.""], ""context""=>[""relieved_by""]}",2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+66,AWD0002444,diary,432,2,1918-01-25 00:00:00 UTC,25 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",unit,"17th Royal Fusiliers, 17TH ROYAL FUSILIERS","{""name""=>[""17th Royal Fusiliers"", ""17TH ROYAL FUSILIERS""], ""context""=>[""relieved_by""]}",2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+68,AWD0002444,diary,432,2,1918-01-25 00:00:00 UTC,25 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",mapRef,"sheet: La Vacquerie, scale: 1/10,000",{},2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+70,AWD0002444,diary,432,6,1918-01-26 00:00:00 UTC,26 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",diaryDate,26 Jan 1918,"{""day""=>[""26""], ""month""=>[""Jan""], ""year""=>[""1918""]}",2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+72,AWD0002444,diary,432,2,1918-01-26 00:00:00 UTC,26 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",date,26 Jan 1918,{},2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+73,AWD0002444,diary,432,5,1918-01-26 00:00:00 UTC,26 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",activity,support,{},2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+74,AWD0002444,diary,432,5,1918-01-27 00:00:00 UTC,27 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",diaryDate,27 Jan 1918,"{""day""=>[""27""], ""month""=>[""Jan""], ""year""=>[""1918""]}",2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+76,AWD0002444,diary,432,2,1918-01-27 00:00:00 UTC,27 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",date,27 Jan 1918,{},2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+77,AWD0002444,diary,432,2,1918-01-27 00:00:00 UTC,27 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",activity,support,{},2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+2,AWD000243g,diary,433,3,1918-01-27 00:00:00 UTC,27 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",activity,movement,{},2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+3,AWD000243g,diary,433,2,1918-01-27 00:00:00 UTC,27 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",domestic,accomodation,{},2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+4,AWD000243g,diary,433,4,1918-01-28 00:00:00 UTC,28 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",diaryDate,28 Jan 1918,"{""day""=>[""28""], ""month""=>[""Jan""], ""year""=>[""1918""]}",2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+5,AWD000243g,diary,433,2,1918-01-28 00:00:00 UTC,28 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",unit,"2ND SOUTH STAFFORDSHIRE REGIMENT, 2nd South Staffordshire Regiment","{""name""=>[""2ND SOUTH STAFFORDSHIRE REGIMENT"", ""2nd South Staffordshire Regiment""], ""context""=>[""relieved_by""]}",2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+6,AWD000243g,diary,433,2,1918-01-28 00:00:00 UTC,28 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",unit,"2nd South Staffs Rgt, 2nd South Staffs Regt.","{""name""=>[""2nd South Staffs Rgt"", ""2nd South Staffs Regt.""], ""context""=>[""relieved_by""]}",2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+9,AWD000243g,diary,433,2,1918-01-28 00:00:00 UTC,28 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",date,28 Jan 1918,{},2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+10,AWD000243g,diary,433,2,1918-01-29 00:00:00 UTC,29 Jan 1918,Beaulencourt,"[2.86667, 50.06667]","",diaryDate,29 Jan 1918,"{""day""=>[""29""], ""month""=>[""Jan""], ""year""=>[""1918""]}",2967457,Warlencourt-Eaucourt,"[2.79117, 50.08276]"
+12,AWD000243g,diary,433,4,1918-01-29 00:00:00 UTC,29 Jan 1918,Equancourt,"[3.01999, 50.03613]","",place,Equancourt,"{""place""=>[""Equancourt""], ""location""=>[""true""], ""name""=>[""Équancourt""], ""lat""=>[""50.03613""], ""long""=>[""3.01999""], ""id""=>[""3019963""]}",3019963,Équancourt,"[3.01999, 50.03613]"
+14,AWD000243g,diary,433,5,1918-01-29 00:00:00 UTC,29 Jan 1918,Equancourt,"[3.01999, 50.03613]","",diaryDate,29 Jan 1918,"{""day""=>[""29""], ""month""=>[""Jan""], ""year""=>[""1918""]}",3019963,Équancourt,"[3.01999, 50.03613]"
+15,AWD000243g,diary,433,2,1918-01-29 00:00:00 UTC,29 Jan 1918,Equancourt,"[3.01999, 50.03613]","",date,29 Jan 1918,{},3019963,Équancourt,"[3.01999, 50.03613]"
+16,AWD000243g,diary,433,6,1918-01-29 00:00:00 UTC,29 Jan 1918,Equancourt,"[3.01999, 50.03613]","",activity,working,{},3019963,Équancourt,"[3.01999, 50.03613]"
+17,AWD000243g,diary,433,5,1918-01-30 00:00:00 UTC,30 Jan 1918,Equancourt,"[3.01999, 50.03613]","",diaryDate,30 Jan 1918,"{""day""=>[""30""], ""month""=>[""Jan""], ""year""=>[""1918""]}",3019963,Équancourt,"[3.01999, 50.03613]"
+18,AWD000243g,diary,433,6,1918-01-30 00:00:00 UTC,30 Jan 1918,Equancourt,"[3.01999, 50.03613]","",activity,training,{},3019963,Équancourt,"[3.01999, 50.03613]"
+19,AWD000243g,diary,433,2,1918-01-30 00:00:00 UTC,30 Jan 1918,Equancourt,"[3.01999, 50.03613]","",date,30 Jan 1918,{},3019963,Équancourt,"[3.01999, 50.03613]"
+22,AWD000243g,diary,433,5,1918-01-31 00:00:00 UTC,31 Jan 1918,Equancourt,"[3.01999, 50.03613]","",diaryDate,31 Jan 1918,"{""day""=>[""31""], ""month""=>[""Jan""], ""year""=>[""1918""]}",3019963,Équancourt,"[3.01999, 50.03613]"
+23,AWD000243g,diary,433,2,1918-01-31 00:00:00 UTC,31 Jan 1918,Equancourt,"[3.01999, 50.03613]","",date,31 Jan 1918,{},3019963,Équancourt,"[3.01999, 50.03613]"
+1,AWD000242q,orders,434,2,,,,[],,orders,move,{},,,
+5,AWD000242q,orders,434,5,,,,[],,date,2 Jan 1918,{},,,
+6,AWD000242q,orders,434,2,,,,[],,orders,move,{},,,
+7,AWD000242q,orders,434,2,,,,[],,orders,other,{},,,
+9,AWD000242q,orders,434,3,,,,[],,person,Second Lieutenant  Moore,"{""first""=>[""""], ""surname""=>[""Moore""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+1,AWD0002434,orders,435,4,,,,[],,orders,move,{},,,
+3,AWD0002434,orders,435,2,,,,[],,reference,"GOUZEAUCOURT, Sheet 1/20,000",{},,,
+4,AWD0002434,orders,435,8,,,,[],,date,21 Jan 1918,{},,,
+8,AWD0002434,orders,435,2,,,,[],,orders,move,{},,,
+10,AWD0002434,orders,435,2,,,,[],,person,"Captain Carrall, Wilcocks, Carrall Wilcocks","{""first""=>[""Carrall"", """"], ""surname""=>[""Wilcocks"", ""Carrall Wilcocks""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+12,AWD0002434,orders,435,4,,,,[],,person,Captain  ,"{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""24TH BATTALION ROYAL FUSILIERS"", ""24th Battn. Royal Fusiliers"", """", ""24th battalion""]}",,,
+1,AWD000242n,orders,436,2,,,,[],,orders,move,{},,,
+3,AWD000242n,orders,436,2,,,,[],,orders,entrench,{},,,
+4,AWD000242n,orders,436,7,,,,[],,date,21 Jan 1918,{},,,
+9,AWD000242n,orders,436,3,,,,[],,orders,move,{},,,
+3,AWD000245g,orders,437,6,,,,[],,date,21 Jan 1918,{},,,
+9,AWD000245g,orders,437,4,,,,[],,person,"Captain G B, Spry, S[...], , Gibson","{""first""=>[""G B"", """"], ""surname""=>[""Spry"", ""S[...]"", """", ""Gibson""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author"", ""commander""], ""unit""=>["""", ""24TH BATTALION ROYAL FUSILIERS"", ""24th Battn. Royal Fusiliers"", ""24th battalion""]}",,,
+10,AWD000244o,other,438,3,,,,[],,date,23 Jan 1918,{},,,
+4,AWD000244e,orders,439,6,,,,[],,date,24 Jan 1918,{},,,
+6,AWD000244e,orders,439,4,,,,[],,orders,withdraw,{},,,
+9,AWD000244e,orders,439,2,,,,[],,person,"Captain G B SPRY, Spry","{""first""=>[""G B""], ""surname""=>[""SPRY"", ""Spry""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""24TH BATTALION ROYAL FUSILIERS"", """"]}",,,
+1,AWD000244g,orders,440,2,,,,[],,orders,move,{},,,
+4,AWD000244g,orders,440,6,,,,[],,date,25 Jan 1918,{},,,
+7,AWD000244g,orders,440,2,,,,[],,orders,move,{},,,
+1,AWD000244x,orders,441,2,,,,[],,orders,move,{},,,
+2,AWD000244x,orders,441,2,,,,[],,orders,other,{},,,
+4,AWD000244x,orders,441,5,,,,[],,date,25 Jan 1918,{},,,
+7,AWD000244x,orders,441,2,,,,[],,person,"Captain G B Spry, SPRY","{""first""=>[""G B""], ""surname""=>[""Spry"", ""SPRY""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>["""", ""24TH BATTALION ROYAL FUSILIERS""]}",,,
+1,AWD0002455,orders,442,2,,,,[],,orders,move,{},,,
+5,AWD0002455,orders,442,2,,,,[],,date,27 Jan 1918,{},,,
+6,AWD0002455,orders,442,2,,,,[],,date,31 Jan 1918,{},,,
+7,AWD0002455,orders,442,3,,,,[],,reference,MAP 57c,{},,,
+2,AWD000242w,orders,443,2,,,,[],,orders,move,{},,,
+3,AWD000242w,orders,443,2,,,,[],,orders,other,{},,,
+4,AWD000242w,orders,443,6,,,,[],,date,27 Jan 1918,{},,,
+6,AWD000242w,orders,443,2,,,,[],,person,"Captain G B Spry, SPRY","{""first""=>[""G B""], ""surname""=>[""Spry"", ""SPRY""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>["""", ""24TH BATTALION ROYAL FUSILIERS""]}",,,
+1,AWD000243s,report,444,3,,,,[],,reference,Appendix II,{},,,
+4,AWD000243s,report,444,4,,,,[],,title,Casualties during January 1918,{},,,
+5,AWD000243s,report,444,5,,,,[],,person,Private G Malin,"{""first""=>[""G""], ""surname""=>[""Malin""], ""rank""=>[""Private""], ""number""=>[""G29863""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+1,AWD000243l,diary,446,5,1918-02-01 00:00:00 UTC,1 Feb 1918,Equancourt,"[3.01999, 50.03613]","",diaryDate,1 Feb 1918,"{""day""=>[""1""], ""month""=>[""Feb""], ""year""=>[""1918""]}",3019963,Équancourt,"[3.01999, 50.03613]"
+2,AWD000243l,diary,446,5,1918-02-01 00:00:00 UTC,1 Feb 1918,Equancourt,"[3.01999, 50.03613]","",place,Equancourt,"{""place""=>[""Equancourt""], ""location""=>[""true""], ""name""=>[""Équancourt""], ""lat""=>[""50.03613""], ""long""=>[""3.01999""], ""id""=>[""3019963""]}",3019963,Équancourt,"[3.01999, 50.03613]"
+3,AWD000243l,diary,446,5,1918-02-01 00:00:00 UTC,1 Feb 1918,Equancourt,"[3.01999, 50.03613]","",activity,resting,{},3019963,Équancourt,"[3.01999, 50.03613]"
+4,AWD000243l,diary,446,5,1918-02-01 00:00:00 UTC,1 Feb 1918,Equancourt,"[3.01999, 50.03613]","",domestic,inspections,{},3019963,Équancourt,"[3.01999, 50.03613]"
+5,AWD000243l,diary,446,2,1918-02-01 00:00:00 UTC,1 Feb 1918,Equancourt,"[3.01999, 50.03613]","",activity,construction,{},3019963,Équancourt,"[3.01999, 50.03613]"
+9,AWD000243l,diary,446,8,1918-02-03 00:00:00 UTC,3 Feb 1918,Equancourt,"[3.01999, 50.03613]","",diaryDate,3 Feb 1918,"{""day""=>[""3""], ""month""=>[""Feb""], ""year""=>[""1918""]}",3019963,Équancourt,"[3.01999, 50.03613]"
+11,AWD000243l,diary,446,4,1918-02-03 00:00:00 UTC,3 Feb 1918,Equancourt,"[3.01999, 50.03613]","",activity,movement,{},3019963,Équancourt,"[3.01999, 50.03613]"
+12,AWD000243l,diary,446,4,1918-02-03 00:00:00 UTC,3 Feb 1918,Equancourt,"[3.01999, 50.03613]","",unit,99th Infantry Brigade,"{""name""=>[""99th Infantry Brigade""], ""context""=>[""relieved""]}",3019963,Équancourt,"[3.01999, 50.03613]"
+14,AWD000243l,diary,446,5,1918-02-03 00:00:00 UTC,3 Feb 1918,Equancourt,"[3.01999, 50.03613]","",unit,1st Kings Royal Rifle Corps,"{""name""=>[""1st Kings Royal Rifle Corps""], ""context""=>[""relieved""]}",3019963,Équancourt,"[3.01999, 50.03613]"
+15,AWD000243l,diary,446,4,1918-02-03 00:00:00 UTC,3 Feb 1918,Equancourt,"[3.01999, 50.03613]","",diaryDate,3 Feb 1918,"{""day""=>[""3""], ""month""=>[""Feb""], ""year""=>[""1918""]}",3019963,Équancourt,"[3.01999, 50.03613]"
+16,AWD000243l,diary,446,3,1918-02-03 00:00:00 UTC,3 Feb 1918,Equancourt,"[3.01999, 50.03613]","",activity,support,{},3019963,Équancourt,"[3.01999, 50.03613]"
+17,AWD000243l,diary,446,4,1918-02-03 00:00:00 UTC,3 Feb 1918,Equancourt,"[3.01999, 50.03613]","",place,"Villers Plouich, Villers-Plouich","{""place""=>[""Villers Plouich"", ""Villers-Plouich""], ""location""=>[""false""], ""name""=>[""Villers-Plouich""], ""lat""=>[""50.07904""], ""long""=>[""3.13417""], ""id""=>[""2968357""]}",3019963,Équancourt,"[3.01999, 50.03613]"
+18,AWD000243l,diary,446,2,1918-02-03 00:00:00 UTC,3 Feb 1918,Equancourt,"[3.01999, 50.03613]","",diaryDate,3 Feb 1918,"{""day""=>[""3""], ""month""=>[""Feb""], ""year""=>[""1918""]}",3019963,Équancourt,"[3.01999, 50.03613]"
+19,AWD000243l,diary,446,6,1918-02-03 00:00:00 UTC,3 Feb 1918,"Villers Plouich, Villers-Plouich","[3.13417, 50.07904]","",place,"Villers Plouich, Villers-Plouich","{""place""=>[""Villers Plouich"", ""Villers-Plouich""], ""location""=>[""true""], ""name""=>[""Villers-Plouich""], ""lat""=>[""50.07904""], ""long""=>[""3.13417""], ""id""=>[""2968357""]}",2968357,Villers-Plouich,"[3.13417, 50.07904]"
+21,AWD000243l,diary,446,3,1918-02-03 00:00:00 UTC,3 Feb 1918,"Villers Plouich, Villers-Plouich","[3.13417, 50.07904]","",activity,repair,{},2968357,Villers-Plouich,"[3.13417, 50.07904]"
+24,AWD000243l,diary,446,7,1918-02-09 00:00:00 UTC,9 Feb 1918,"Villers Plouich, Villers-Plouich","[3.13417, 50.07904]","",diaryDate,9 Feb 1918,"{""day""=>[""9""], ""month""=>[""Feb""], ""year""=>[""1918""]}",2968357,Villers-Plouich,"[3.13417, 50.07904]"
+26,AWD000243l,diary,446,3,1918-02-09 00:00:00 UTC,9 Feb 1918,Villers-Plouich,"[3.13417, 50.07904]","",place,Villers-Plouich,"{""place""=>[""Villers-Plouich""], ""location""=>[""true""], ""name""=>[""Villers-Plouich""], ""lat""=>[""50.07904""], ""long""=>[""3.13417""], ""id""=>[""2968357""]}",2968357,Villers-Plouich,"[3.13417, 50.07904]"
+28,AWD000243l,diary,446,5,1918-02-09 00:00:00 UTC,9 Feb 1918,Villers-Plouich,"[3.13417, 50.07904]","",activity,line,{},2968357,Villers-Plouich,"[3.13417, 50.07904]"
+30,AWD000243l,diary,446,2,1918-02-09 00:00:00 UTC,9 Feb 1918,Villers-Plouich,"[3.13417, 50.07904]","",unit,2nd South Staffordshire Regiment,"{""name""=>[""2nd South Staffordshire Regiment""], ""context""=>[""relieved""]}",2968357,Villers-Plouich,"[3.13417, 50.07904]"
+32,AWD000243l,diary,446,5,1918-02-15 00:00:00 UTC,15 Feb 1918,Villers-Plouich,"[3.13417, 50.07904]","",diaryDate,15 Feb 1918,"{""day""=>[""15""], ""month""=>[""Feb""], ""year""=>[""1918""]}",2968357,Villers-Plouich,"[3.13417, 50.07904]"
+36,AWD000243l,diary,446,3,1918-02-15 00:00:00 UTC,15 Feb 1918,Villers-Plouich,"[3.13417, 50.07904]","",place,Metz,"{""place""=>[""Metz""], ""location""=>[""false""], ""name""=>[""Metz-en-Couture"", ""Villers-Plouich"", ""Metz""], ""lat""=>[""50.0667"", ""50.07904"", ""49.11911""], ""long""=>[""3.06428"", ""3.13417"", ""6.17269""], ""id""=>[""2994158"", ""2968357"", ""2994160""]}",2968357,Villers-Plouich,"[3.13417, 50.07904]"
+37,AWD000243l,diary,446,5,1918-02-18 00:00:00 UTC,18 Feb 1918,Villers-Plouich,"[3.13417, 50.07904]","",diaryDate,18 Feb 1918,"{""day""=>[""18""], ""month""=>[""Feb""], ""year""=>[""1918""]}",2968357,Villers-Plouich,"[3.13417, 50.07904]"
+38,AWD000243l,diary,446,4,1918-02-18 00:00:00 UTC,18 Feb 1918,Villers-Plouich,"[3.13417, 50.07904]","",person,Second Lieutenant R Lockley,"{""first""=>[""R""], ""surname""=>[""Lockley""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""""]}",2968357,Villers-Plouich,"[3.13417, 50.07904]"
+42,AWD000243l,diary,446,4,1918-02-18 00:00:00 UTC,18 Feb 1918,Villers-Plouich,"[3.13417, 50.07904]","",diaryDate,18 Feb 1918,"{""day""=>[""18""], ""month""=>[""Feb""], ""year""=>[""1918""]}",2968357,Villers-Plouich,"[3.13417, 50.07904]"
+44,AWD000243l,diary,446,2,1918-02-18 00:00:00 UTC,18 Feb 1918,Villers-Plouich,"[3.13417, 50.07904]","",diaryDate,18 Feb 1918,"{""day""=>[""18""], ""month""=>[""Feb""], ""year""=>[""1918""]}",2968357,Villers-Plouich,"[3.13417, 50.07904]"
+1,AWD000245t,diary,447,5,1918-02-15 00:00:00 UTC,15 Feb 1918,Villers-Plouich,"[3.13417, 50.07904]","",diaryDate,15 Feb 1918,"{""day""=>[""15""], ""month""=>[""Feb""], ""year""=>[""1918""]}",2968357,Villers-Plouich,"[3.13417, 50.07904]"
+2,AWD000245t,diary,447,6,1918-02-15 00:00:00 UTC,15 Feb 1918,Villers-Plouich,"[3.13417, 50.07904]","",place,Villers-Plouich,"{""place""=>[""Villers-Plouich""], ""location""=>[""true""], ""name""=>[""Villers-Plouich""], ""lat""=>[""50.07904""], ""long""=>[""3.13417""], ""id""=>[""2968357""]}",2968357,Villers-Plouich,"[3.13417, 50.07904]"
+5,AWD000245t,diary,447,2,1918-02-15 00:00:00 UTC,15 Feb 1918,Villers-Plouich,"[3.13417, 50.07904]","",unit,"2ND BATTALION, 2nd Battalion","{""name""=>[""2ND BATTALION"", ""2nd Battalion""], ""context""=>[""relieved_by""]}",2968357,Villers-Plouich,"[3.13417, 50.07904]"
+6,AWD000245t,diary,447,2,1918-02-15 00:00:00 UTC,15 Feb 1918,Villers-Plouich,"[3.13417, 50.07904]","",unit,"","{""name""=>[""""], ""context""=>[""relieved_by""]}",2968357,Villers-Plouich,"[3.13417, 50.07904]"
+11,AWD000245t,diary,447,3,1918-02-15 00:00:00 UTC,15 Feb 1918,Villers-Plouich,"[3.13417, 50.07904]","",activity,support,{},2968357,Villers-Plouich,"[3.13417, 50.07904]"
+12,AWD000245t,diary,447,3,1918-02-15 00:00:00 UTC,15 Feb 1918,Villers-Plouich,"[3.13417, 50.07904]","",place,"Villers Plouich, Villers-Plouich, Viller-Plouich","{""place""=>[""Villers Plouich"", ""Villers-Plouich"", ""Viller-Plouich""], ""location""=>[""false""], ""name""=>[""Villers-Plouich""], ""lat""=>[""50.07904""], ""long""=>[""3.13417""], ""id""=>[""2968357""]}",2968357,Villers-Plouich,"[3.13417, 50.07904]"
+13,AWD000245t,diary,447,6,1918-02-21 00:00:00 UTC,21 Feb 1918,Villers-Plouich,"[3.13417, 50.07904]","",diaryDate,21 Feb 1918,"{""day""=>[""21""], ""month""=>[""Feb""], ""year""=>[""1918""]}",2968357,Villers-Plouich,"[3.13417, 50.07904]"
+15,AWD000245t,diary,447,3,1918-02-21 00:00:00 UTC,21 Feb 1918,Havrincourt,"[3.08644, 50.11163]","",place,Havrincourt,"{""place""=>[""Havrincourt""], ""location""=>[""true""], ""name""=>[""Havrincourt""], ""lat""=>[""50.11163""], ""long""=>[""3.08644""], ""id""=>[""3013630""]}",2971794,Trescault,"[3.09137, 50.09007]"
+17,AWD000245t,diary,447,4,1918-02-21 00:00:00 UTC,21 Feb 1918,Havrincourt,"[3.08644, 50.11163]","",diaryDate,21 Feb 1918,"{""day""=>[""21""], ""month""=>[""Feb""], ""year""=>[""1918""]}",2971794,Trescault,"[3.09137, 50.09007]"
+18,AWD000245t,diary,447,2,1918-02-21 00:00:00 UTC,21 Feb 1918,Havrincourt,"[3.08644, 50.11163]","",place,Havrincourt Wood,"{""place""=>[""Havrincourt Wood""], ""location""=>[""true"", ""false""], ""name""=>[""Villers-Plouich"", """"], ""lat""=>[""50.07904"", """"], ""long""=>[""3.13417"", """"], ""id""=>[""2968357"", """"]}",2971794,Trescault,"[3.09137, 50.09007]"
+25,AWD000245t,diary,447,5,1918-02-21 00:00:00 UTC,21 Feb 1918,Havrincourt,"[3.08644, 50.11163]","",diaryDate,21 Feb 1918,"{""day""=>[""21""], ""month""=>[""Feb""], ""year""=>[""1918""]}",2971794,Trescault,"[3.09137, 50.09007]"
+27,AWD000245t,diary,447,4,1918-02-21 00:00:00 UTC,21 Feb 1918,Havrincourt,"[3.08644, 50.11163]","",activity,working,{},2971794,Trescault,"[3.09137, 50.09007]"
+30,AWD000245t,diary,447,5,1918-02-17 00:00:00 UTC,17 Feb 1918,Havrincourt,"[3.08644, 50.11163]","",diaryDate,17 Feb 1918,"{""day""=>[""17""], ""month""=>[""Feb""], ""year""=>[""1918""]}",2971794,Trescault,"[3.09137, 50.09007]"
+33,AWD000245t,diary,447,2,1918-02-17 00:00:00 UTC,17 Feb 1918,Havrincourt,"[3.08644, 50.11163]","",diaryDate,17 Feb 1918,"{""day""=>[""17""], ""month""=>[""Feb""], ""year""=>[""1918""]}",2971794,Trescault,"[3.09137, 50.09007]"
+35,AWD000245t,diary,447,2,1918-02-17 00:00:00 UTC,17 Feb 1918,"Beaucamp, BEAUCAMP","[3.79403, 50.03308]","",place,"Beaucamp, BEAUCAMP","{""place""=>[""Beaucamp"", ""BEAUCAMP""], ""location""=>[""true""], ""name""=>[""Beaucamp""], ""lat""=>[""50.03308""], ""long""=>[""3.79403""], ""id""=>[""3034379""]}",3034379,Beaucamp,"[3.79403, 50.03308]"
+37,AWD000245t,diary,447,4,1918-02-21 00:00:00 UTC,21 Feb 1918,"Beaucamp, BEAUCAMP","[3.79403, 50.03308]","",diaryDate,21 Feb 1918,"{""day""=>[""21""], ""month""=>[""Feb""], ""year""=>[""1918""]}",3034379,Beaucamp,"[3.79403, 50.03308]"
+38,AWD000245t,diary,447,5,1918-02-21 00:00:00 UTC,21 Feb 1918,Villers-Plouich,"[3.13417, 50.07904]","",place,Villers-Plouich,"{""place""=>[""Villers-Plouich""], ""location""=>[""true""], ""name""=>[""Villers-Plouich""], ""lat""=>[""50.07904""], ""long""=>[""3.13417""], ""id""=>[""2968357""]}",2968357,Villers-Plouich,"[3.13417, 50.07904]"
+41,AWD000245t,diary,447,6,1918-02-21 00:00:00 UTC,21 Feb 1918,Villers-Plouich,"[3.13417, 50.07904]","",unit,188th Infantry Brigade,"{""name""=>[""188th Infantry Brigade""], ""context""=>[""relieved""]}",2968357,Villers-Plouich,"[3.13417, 50.07904]"
+43,AWD000245t,diary,447,4,1918-02-21 00:00:00 UTC,21 Feb 1918,Villers-Plouich,"[3.13417, 50.07904]","",diaryDate,21 Feb 1918,"{""day""=>[""21""], ""month""=>[""Feb""], ""year""=>[""1918""]}",2968357,Villers-Plouich,"[3.13417, 50.07904]"
+47,AWD000245t,diary,447,2,1918-02-21 00:00:00 UTC,21 Feb 1918,Havrincourt Wood,"[3.13417, 50.07904]","",place,Havrincourt Wood,"{""place""=>[""Havrincourt Wood""], ""location""=>[""true""], ""name""=>[""Villers-Plouich""], ""lat""=>[""50.07904""], ""long""=>[""3.13417""], ""id""=>[""2968357""]}",0,",Havrincourt","[0.0, 0.0]"
+48,AWD000245t,diary,447,2,1918-02-21 00:00:00 UTC,21 Feb 1918,"HAVRINCOURT, Havrincourt","[3.08644, 50.11163]","",place,"HAVRINCOURT, Havrincourt","{""place""=>[""HAVRINCOURT"", ""Havrincourt""], ""location""=>[""true""], ""name""=>[""Havrincourt""], ""lat""=>[""50.11163""], ""long""=>[""3.08644""], ""id""=>[""3013630""]}",3013630,Havrincourt,"[3.08643, 50.11163]"
+49,AWD000245t,diary,447,5,1918-02-22 00:00:00 UTC,22 Feb 1918,"HAVRINCOURT, Havrincourt","[3.08644, 50.11163]","",diaryDate,22 Feb 1918,"{""day""=>[""22""], ""month""=>[""Feb""], ""year""=>[""1918""]}",3013630,Havrincourt,"[3.08643, 50.11163]"
+50,AWD000245t,diary,447,4,1918-02-22 00:00:00 UTC,22 Feb 1918,"HAVRINCOURT, Havrincourt","[3.08644, 50.11163]","",activity,working,{},3013630,Havrincourt,"[3.08643, 50.11163]"
+51,AWD000245t,diary,447,4,1918-02-22 00:00:00 UTC,22 Feb 1918,"HAVRINCOURT, Havrincourt","[3.08644, 50.11163]","",activity,repair,{},3013630,Havrincourt,"[3.08643, 50.11163]"
+52,AWD000245t,diary,447,6,1918-02-23 00:00:00 UTC,23 Feb 1918,"HAVRINCOURT, Havrincourt","[3.08644, 50.11163]","",diaryDate,23 Feb 1918,"{""day""=>[""23""], ""month""=>[""Feb""], ""year""=>[""1918""]}",3013630,Havrincourt,"[3.08643, 50.11163]"
+53,AWD000245t,diary,447,6,1918-02-24 00:00:00 UTC,24 Feb 1918,"HAVRINCOURT, Havrincourt","[3.08644, 50.11163]","",diaryDate,24 Feb 1918,"{""day""=>[""24""], ""month""=>[""Feb""], ""year""=>[""1918""]}",3013630,Havrincourt,"[3.08643, 50.11163]"
+55,AWD000245t,diary,447,4,1918-02-24 02:00:00 UTC,24 Feb 1918,"HAVRINCOURT, Havrincourt","[3.08644, 50.11163]",0200AM,time,0200AM,{},3013630,Havrincourt,"[3.08643, 50.11163]"
+56,AWD000245t,diary,447,5,1918-02-24 02:00:00 UTC,24 Feb 1918,"HAVRINCOURT, Havrincourt","[3.08644, 50.11163]",0200AM,activity,fire,{},3013630,Havrincourt,"[3.08643, 50.11163]"
+1,AWD000245e,diary,448,6,1918-02-24 00:00:00 UTC,24 Feb 1918,"HAVRINCOURT, Havrincourt","[3.08644, 50.11163]","",diaryDate,24 Feb 1918,"{""day""=>[""24""], ""month""=>[""Feb""], ""year""=>[""1918""]}",3013630,Havrincourt,"[3.08643, 50.11163]"
+2,AWD000245e,diary,448,5,1918-02-24 00:00:00 UTC,24 Feb 1918,Havrincourt,"[3.08644, 50.11163]","",place,Havrincourt,"{""place""=>[""Havrincourt""], ""location""=>[""true""], ""name""=>[""Havrincourt""], ""lat""=>[""50.11163""], ""long""=>[""3.08644""], ""id""=>[""3013630""]}",2971794,Trescault,"[3.09137, 50.09007]"
+4,AWD000245e,diary,448,2,1918-02-24 00:00:00 UTC,24 Feb 1918,Havrincourt,"[3.08644, 50.11163]","",activity,movement,{},2971794,Trescault,"[3.09137, 50.09007]"
+5,AWD000245e,diary,448,4,1918-02-24 02:00:00 UTC,24 Feb 1918,Havrincourt,"[3.08644, 50.11163]",0200AM,time,0200AM,{},2971794,Trescault,"[3.09137, 50.09007]"
+7,AWD000245e,diary,448,2,1918-02-24 02:00:00 UTC,24 Feb 1918,Havrincourt,"[3.08644, 50.11163]",0200AM,activity,attack,{},2971794,Trescault,"[3.09137, 50.09007]"
+9,AWD000245e,diary,448,2,1918-02-24 02:00:00 UTC,24 Feb 1918,Havrincourt,"[3.08644, 50.11163]",0200AM,activity,fire,{},2971794,Trescault,"[3.09137, 50.09007]"
+10,AWD000245e,diary,448,5,1918-02-25 00:00:00 UTC,25 Feb 1918,Havrincourt,"[3.08644, 50.11163]","",diaryDate,25 Feb 1918,"{""day""=>[""25""], ""month""=>[""Feb""], ""year""=>[""1918""]}",2971794,Trescault,"[3.09137, 50.09007]"
+12,AWD000245e,diary,448,3,1918-02-25 04:30:00 UTC,25 Feb 1918,Havrincourt,"[3.08644, 50.11163]",0430AM,time,0430AM,{},2971794,Trescault,"[3.09137, 50.09007]"
+16,AWD000245e,diary,448,2,1918-02-25 04:30:00 UTC,25 Feb 1918,Havrincourt,"[3.08644, 50.11163]",0430AM,place,Havrincourt,"{""place""=>[""Havrincourt""], ""location""=>[""true""], ""name""=>[""Havrincourt""], ""lat""=>[""50.11163""], ""long""=>[""3.08644""], ""id""=>[""3013630""]}",2971794,Trescault,"[3.09137, 50.09007]"
+18,AWD000245e,diary,448,3,1918-02-25 00:00:00 UTC,25 Feb 1918,Havrincourt,"[3.08644, 50.11163]","",diaryDate,25 Feb 1918,"{""day""=>[""25""], ""month""=>[""Feb""], ""year""=>[""1918""]}",2971794,Trescault,"[3.09137, 50.09007]"
+19,AWD000245e,diary,448,4,1918-02-25 00:00:00 UTC,25 Feb 1918,Havrincourt,"[3.08644, 50.11163]","",casualties,"killed: 1, wounded: 15",{},2971794,Trescault,"[3.09137, 50.09007]"
+20,AWD000245e,diary,448,2,1918-02-25 00:00:00 UTC,25 Feb 1918,Havrincourt,"[3.08644, 50.11163]","",activity,movement,{},2971794,Trescault,"[3.09137, 50.09007]"
+21,AWD000245e,diary,448,3,1918-02-25 00:00:00 UTC,25 Feb 1918,Havrincourt,"[3.08644, 50.11163]","",place,Metz,"{""place""=>[""Metz""], ""location""=>[""false""], ""name""=>[""Metz""], ""lat""=>[""49.11911""], ""long""=>[""6.17269""], ""id""=>[""2994160""]}",2971794,Trescault,"[3.09137, 50.09007]"
+22,AWD000245e,diary,448,6,1918-02-24 00:00:00 UTC,24 Feb 1918,Havrincourt,"[3.08644, 50.11163]","",diaryDate,24 Feb 1918,"{""day""=>[""24""], ""month""=>[""Feb""], ""year""=>[""1918""]}",2971794,Trescault,"[3.09137, 50.09007]"
+23,AWD000245e,diary,448,6,1918-02-24 00:00:00 UTC,24 Feb 1918,Metz,"[6.17269, 49.11911]","",place,Metz,"{""place""=>[""Metz""], ""location""=>[""true""], ""name""=>[""Metz""], ""lat""=>[""49.11911""], ""long""=>[""6.17269""], ""id""=>[""2994160""]}",2994160,Metz,"[6.17269, 49.11911]"
+24,AWD000245e,diary,448,4,1918-02-24 00:00:00 UTC,24 Feb 1918,Metz,"[6.17269, 49.11911]","",activity,resting,{},2994160,Metz,"[6.17269, 49.11911]"
+25,AWD000245e,diary,448,6,1918-02-25 00:00:00 UTC,25 Feb 1918,Metz,"[6.17269, 49.11911]","",diaryDate,25 Feb 1918,"{""day""=>[""25""], ""month""=>[""Feb""], ""year""=>[""1918""]}",2994160,Metz,"[6.17269, 49.11911]"
+26,AWD000245e,diary,448,5,1918-02-25 00:00:00 UTC,25 Feb 1918,Metz,"[6.17269, 49.11911]","",activity,working,{},2994160,Metz,"[6.17269, 49.11911]"
+29,AWD000245e,diary,448,2,1918-02-25 00:00:00 UTC,25 Feb 1918,Metz,"[6.17269, 49.11911]","",diaryDate,25 Feb 1918,"{""day""=>[""25""], ""month""=>[""Feb""], ""year""=>[""1918""]}",2994160,Metz,"[6.17269, 49.11911]"
+30,AWD000245e,diary,448,2,1918-02-26 00:00:00 UTC,26 Feb 1918,Metz,"[6.17269, 49.11911]","",diaryDate,26 Feb 1918,"{""day""=>[""26""], ""month""=>[""Feb""], ""year""=>[""1918""]}",2994160,Metz,"[6.17269, 49.11911]"
+31,AWD000245e,diary,448,2,1918-02-26 00:00:00 UTC,26 Feb 1918,Metz,"[6.17269, 49.11911]","",place,Metz,"{""place""=>[""Metz""], ""location""=>[""true""], ""name""=>[""Metz""], ""lat""=>[""49.11911""], ""long""=>[""6.17269""], ""id""=>[""2994160""]}",2994160,Metz,"[6.17269, 49.11911]"
+32,AWD000245e,diary,448,4,1918-02-26 00:00:00 UTC,26 Feb 1918,Metz,"[6.17269, 49.11911]","",diaryDate,26 Feb 1918,"{""day""=>[""26""], ""month""=>[""Feb""], ""year""=>[""1918""]}",2994160,Metz,"[6.17269, 49.11911]"
+33,AWD000245e,diary,448,6,1918-02-27 00:00:00 UTC,27 Feb 1918,Metz,"[6.17269, 49.11911]","",diaryDate,27 Feb 1918,"{""day""=>[""27""], ""month""=>[""Feb""], ""year""=>[""1918""]}",2994160,Metz,"[6.17269, 49.11911]"
+34,AWD000245e,diary,448,4,1918-02-27 00:00:00 UTC,27 Feb 1918,Metz,"[6.17269, 49.11911]","",activity,movement,{},2994160,Metz,"[6.17269, 49.11911]"
+35,AWD000245e,diary,448,5,1918-02-27 00:00:00 UTC,27 Feb 1918,Metz,"[6.17269, 49.11911]","",unit,2nd Highland Light Infantry,"{""name""=>[""2nd Highland Light Infantry""], ""context""=>[""relieved""]}",2994160,Metz,"[6.17269, 49.11911]"
+36,AWD000245e,diary,448,2,1918-02-27 00:00:00 UTC,27 Feb 1918,Metz,"[6.17269, 49.11911]","",place,Metz,"{""place""=>[""Metz""], ""location""=>[""true""], ""name""=>[""Metz""], ""lat""=>[""49.11911""], ""long""=>[""6.17269""], ""id""=>[""2994160""]}",2994160,Metz,"[6.17269, 49.11911]"
+37,AWD000245e,diary,448,6,1918-02-28 00:00:00 UTC,28 Feb 1918,Metz,"[6.17269, 49.11911]","",diaryDate,28 Feb 1918,"{""day""=>[""28""], ""month""=>[""Feb""], ""year""=>[""1918""]}",2994160,Metz,"[6.17269, 49.11911]"
+38,AWD000245e,diary,448,2,1918-02-28 00:00:00 UTC,28 Feb 1918,Metz,"[6.17269, 49.11911]","",activity,line,{},2994160,Metz,"[6.17269, 49.11911]"
+40,AWD000245e,diary,448,2,1918-02-28 00:00:00 UTC,28 Feb 1918,Metz,"[6.17269, 49.11911]","",place,"LA VACQUERIE, Vacquerie","{""place""=>[""LA VACQUERIE"", ""Vacquerie""], ""location""=>[""true"", ""false""], ""name""=>[""La Vacquerie"", ""Vacquerie""], ""lat""=>[""49.0936"", ""50.12134""], ""long""=>[""-0.85899"", ""2.16896""], ""id""=>[""3005888"", ""2971209""]}",2994160,Metz,"[6.17269, 49.11911]"
+42,AWD000245e,diary,448,2,1918-03-06 00:00:00 UTC,6 Mar 1918,Metz,"[6.17269, 49.11911]","",diaryDate,6 Mar 1918,"{""day""=>[""6""], ""month""=>[""Mar""], ""year""=>[""1918""]}",2994160,Metz,"[6.17269, 49.11911]"
+1,AWD000244t,orders,449,2,,,,[],,reference,Operation orders No.33,{},,,
+2,AWD000244t,orders,449,6,,,,[],,date,2 Feb 1918,{},,,
+3,AWD000244t,orders,449,2,,,,[],,orders,move,{},,,
+5,AWD000244t,orders,449,4,,,,[],,orders,other,{},,,
+9,AWD000244t,orders,449,3,,,,[],,person,Second Lieutenant  Crompton,"{""first""=>[""""], ""surname""=>[""Crompton""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+10,AWD000244t,orders,449,3,,,,[],,person,Second Lieutenant  Barnes,"{""first""=>[""""], ""surname""=>[""Barnes""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+4,AWD0002454,orders,450,2,,,,[],,orders,move,{},,,
+5,AWD0002454,orders,450,5,,,,[],,date,2 Feb 1918,{},,,
+9,AWD0002454,orders,450,5,,,,[],,person,Second Lieutenant L J Day,"{""first""=>[""L J""], ""surname""=>[""Day""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other"", ""commander""], ""unit""=>[""""]}",,,
+10,AWD0002454,orders,450,6,,,,[],,person,Second Lieutenant C A E Stredder,"{""first""=>[""C A E""], ""surname""=>[""Stredder""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+13,AWD0002454,orders,450,2,,,,[],,person,Captain  ,"{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""commander"", ""author""], ""unit""=>[""24th Battn. Royal Fusiliers"", """"]}",,,
+2,AWD000244l,orders,451,2,,,,[],,reference,Operation orders No.34,{},,,
+4,AWD000244l,orders,451,4,,,,[],,date,7 Feb 1918,{},,,
+6,AWD000244l,orders,451,3,,,,[],,orders,move,{},,,
+1,AWD000245m,orders,452,3,,,,[],,reference,Operation orders No 35,{},,,
+3,AWD000245m,orders,452,7,,,,[],,date,8 Feb 1918,{},,,
+6,AWD000245m,orders,452,5,,,,[],,orders,move,{},,,
+10,AWD000245m,orders,452,5,,,,[],,person,Second Lieutenant W H Eley,"{""first""=>[""W H""], ""surname""=>[""Eley""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+13,AWD000245m,orders,452,3,,,,[],,orders,routine,{},,,
+1,AWD000244p,orders,453,4,,,,[],,orders,move,{},,,
+2,AWD000244p,orders,453,7,,,,[],,date,8 Feb 1918,{},,,
+8,AWD000244p,orders,453,2,,,,[],,orders,other,{},,,
+14,AWD000244p,orders,453,2,,,,[],,person,"Captain G B SPRY, Sprig","{""first""=>[""G B""], ""surname""=>[""SPRY"", ""Sprig""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author"", ""other""], ""unit""=>[""24TH BATTALION ROYAL FUSILIERS"", """"]}",,,
+15,AWD000244p,orders,453,2,,,,[],,person,Captain  ,"{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""24th Battn. Royal Fusiliers"", ""24th Batt Royal Fusiliers""]}",,,
+1,AWD0002436,orders,454,3,,,,[],,reference,Operation orders No 36,{},,,
+2,AWD0002436,orders,454,3,,,,[],,orders,move,{},,,
+4,AWD0002436,orders,454,6,,,,[],,date,11 Feb 1918,{},,,
+6,AWD0002436,orders,454,3,,,,[],,orders,other,{},,,
+10,AWD0002436,orders,454,3,,,,[],,person,Second Lieutenant N Carroll,"{""first""=>[""N""], ""surname""=>[""Carroll""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+1,AWD000245d,orders,455,3,,,,[],,orders,move,{},,,
+2,AWD000245d,orders,455,2,,,,[],,reference,Operation Orders No 37,{},,,
+4,AWD000245d,orders,455,7,,,,[],,date,14 Feb 1918,{},,,
+5,AWD000245d,orders,455,2,,,,[],,orders,other,{},,,
+8,AWD000245d,orders,455,2,,,,[],,orders,routine,{},,,
+9,AWD000245d,orders,455,6,,,,[],,person,Second Lieutenant  Hicks,"{""first""=>[""""], ""surname""=>[""Hicks""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+10,AWD000245d,orders,455,2,,,,[],,person,Captain  Knust,"{""first""=>[""""], ""surname""=>[""Knust""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+1,AWD0002443,orders,456,3,,,,[],,orders,move,{},,,
+2,AWD0002443,orders,456,6,,,,[],,date,14 Feb 1918,{},,,
+5,AWD0002443,orders,456,2,,,,[],,orders,other,{},,,
+9,AWD0002443,orders,456,8,,,,[],,person,Second Lieutenant  Hicks,"{""first""=>[""""], ""surname""=>[""Hicks""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+11,AWD0002443,orders,456,2,,,,[],,person,Second Lieutenant  Carroll,"{""first""=>[""""], ""surname""=>[""Carroll""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""author"", ""other""], ""unit""=>[""""]}",,,
+1,AWD000245f,orders,457,7,,,,[],,date,14 Feb 1918,{},,,
+2,AWD000245f,orders,457,2,,,,[],,orders,move,{},,,
+6,AWD000245f,orders,457,3,,,,[],,orders,other,{},,,
+8,AWD000245f,orders,457,2,,,,[],,person,Second Lieutenant  Carroll,"{""first""=>[""""], ""surname""=>[""Carroll""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""author"", ""other""], ""unit""=>[""""]}",,,
+1,AWD0002435,orders,458,2,,,,[],,orders,other,{},,,
+2,AWD0002435,orders,458,2,,,,[],,orders,move,{},,,
+3,AWD0002435,orders,458,7,,,,[],,date,14 Feb 1918,{},,,
+5,AWD0002435,orders,458,6,,,,[],,person,Major S J M Hole,"{""first""=>[""S J M""], ""surname""=>[""Hole""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+9,AWD0002435,orders,458,2,,,,[],,orders,move,{},,,
+1,AWD0002448,orders,459,2,,,,[],,orders,move,{},,,
+7,AWD0002448,orders,459,5,,,,[],,person,Major A Whitley Lavarack,"{""first""=>[""A""], ""surname""=>[""Whitley Lavarack""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+2,AWD000244f,orders,460,3,,,,[],,orders,move,{},,,
+4,AWD000244f,orders,460,5,,,,[],,date,16 Feb 1918,{},,,
+7,AWD000244f,orders,460,2,,,,[],,person,Second Lieutenant  Carroll,"{""first""=>[""""], ""surname""=>[""Carroll""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""author"", ""other""], ""unit""=>[""""]}",,,
+2,AWD0002440,orders,461,3,,,,[],,orders,move,{},,,
+3,AWD0002440,orders,461,2,,,,[],,orders,other,{},,,
+7,AWD0002440,orders,461,2,,,,[],,person,Sergeant  Cook,"{""first""=>[""""], ""surname""=>[""Cook""], ""rank""=>[""Sergeant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+8,AWD0002440,orders,461,2,,,,[],,person,Second Lieutenant  Carroll,"{""first""=>[""""], ""surname""=>[""Carroll""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""author"", ""other""], ""unit""=>[""""]}",,,
+1,AWD000242s,orders,462,4,,,,[],,orders,move,{},,,
+4,AWD000242s,orders,462,6,,,,[],,date,20 Feb 1918,{},,,
+1,AWD0002449,orders,463,3,,,,[],,orders,move,{},,,
+2,AWD0002449,orders,463,5,,,,[],,date,20 Feb 1918,{},,,
+5,AWD0002449,orders,463,2,,,,[],,person,Second Lieutenant  Eley,"{""first""=>[""""], ""surname""=>[""Eley""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other"", ""commander""], ""unit""=>[""""]}",,,
+6,AWD0002449,orders,463,4,,,,[],,person,Lieutenant H R Cobbett,"{""first""=>[""H R""], ""surname""=>[""Cobbett""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+7,AWD0002449,orders,463,2,,,,[],,person,Second Lieutenant  Carroll,"{""first""=>[""""], ""surname""=>[""Carroll""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""author"", ""other""], ""unit""=>[""""]}",,,
+1,AWD000245l,orders,464,2,,,,[],,orders,move,{},,,
+1,AWD000243a,orders,465,3,,,,[],,orders,move,{},,,
+2,AWD000243a,orders,465,5,,,,[],,date,26 Feb 1918,{},,,
+7,AWD000243a,orders,465,3,,,,[],,person,Second Lieutenant  Barnes,"{""first""=>[""""], ""surname""=>[""Barnes""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+8,AWD000243a,orders,465,3,,,,[],,person,Regimental Sergeant Major  Lawman,"{""first""=>[""""], ""surname""=>[""Lawman""], ""rank""=>[""Regimental Sergeant Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+10,AWD000243a,orders,465,3,,,,[],,person,Second Lieutenant  Eley,"{""first""=>[""""], ""surname""=>[""Eley""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+11,AWD000243a,orders,465,2,,,,[],,person,Lieutenant J A Cheston,"{""first""=>[""J A""], ""surname""=>[""Cheston""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+12,AWD000243a,orders,465,2,,,,[],,person,Second Lieutenant  Carroll,"{""first""=>[""""], ""surname""=>[""Carroll""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""author"", ""other""], ""unit""=>[""""]}",,,
+22,AWD000245k,report,466,3,,,,[],,person,Private R Barton,"{""first""=>[""R""], ""surname""=>[""Barton""], ""rank""=>[""Private""], ""number""=>[""275248""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+23,AWD000245k,report,466,2,,,,[],,person,Private G Welham,"{""first""=>[""G""], ""surname""=>[""Welham""], ""rank""=>[""Private""], ""number""=>[""51216"", ""57216""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+24,AWD000245k,report,466,3,,,,[],,person,Private S J Ray,"{""first""=>[""S J""], ""surname""=>[""Ray""], ""rank""=>[""Private""], ""number""=>[""74616""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+25,AWD000245k,report,466,2,,,,[],,person,  ,"{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""""], ""number""=>[""G74616"", ""G52803""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+26,AWD000245k,report,466,3,,,,[],,person,Private F Player,"{""first""=>[""F""], ""surname""=>[""Player""], ""rank""=>[""Private""], ""number""=>[""52803""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+27,AWD000245k,report,466,3,,,,[],,person,Private C Lawrence,"{""first""=>[""C""], ""surname""=>[""Lawrence""], ""rank""=>[""Private""], ""number""=>[""8476""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+28,AWD000245k,report,466,2,,,,[],,person,  ,"{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""""], ""number""=>[""G8476"", ""G51223""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+29,AWD000245k,report,466,3,,,,[],,person,Private W Chatters,"{""first""=>[""W""], ""surname""=>[""Chatters""], ""rank""=>[""Private""], ""number""=>[""51223""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+30,AWD000245k,report,466,3,,,,[],,person,Private R Grime,"{""first""=>[""R""], ""surname""=>[""Grime""], ""rank""=>[""Private""], ""number""=>[""68151""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+31,AWD000245k,report,466,2,,,,[],,person,  ,"{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""""], ""number""=>[""G68151"", ""G58969""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+32,AWD000245k,report,466,3,,,,[],,person,Private L Huxham,"{""first""=>[""L""], ""surname""=>[""Huxham""], ""rank""=>[""Private""], ""number""=>[""58967""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+33,AWD000245k,report,466,3,,,,[],,person,Private J Osborne,"{""first""=>[""J""], ""surname""=>[""Osborne""], ""rank""=>[""Private""], ""number""=>[""68829""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+34,AWD000245k,report,466,2,,,,[],,person,  ,"{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""""], ""number""=>[""G68829"", ""G61234""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+35,AWD000245k,report,466,3,,,,[],,person,Private W Staines,"{""first""=>[""W""], ""surname""=>[""Staines""], ""rank""=>[""Private""], ""number""=>[""61234""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+36,AWD000245k,report,466,3,,,,[],,person,Private R Lambert,"{""first""=>[""R""], ""surname""=>[""Lambert""], ""rank""=>[""Private""], ""number""=>[""68843""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+37,AWD000245k,report,466,2,,,,[],,person,  ,"{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""""], ""number""=>[""G68843"", ""G3478""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+38,AWD000245k,report,466,3,,,,[],,person,Private J Keating,"{""first""=>[""J""], ""surname""=>[""Keating""], ""rank""=>[""Private""], ""number""=>[""3478""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+39,AWD000245k,report,466,3,,,,[],,person,Private A Tulley,"{""first""=>[""A""], ""surname""=>[""Tulley""], ""rank""=>[""Private""], ""number""=>[""27808""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+40,AWD000245k,report,466,2,,,,[],,person,  ,"{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""""], ""number""=>[""G27808"", ""G17465""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+41,AWD000245k,report,466,3,,,,[],,person,"Second Corporal,Lance Corporal,Corporal J Beatty, BEATY, Beaty","{""first""=>[""J""], ""surname""=>[""Beatty"", ""BEATY"", ""Beaty""], ""rank""=>[""Second Corporal"", ""Lance Corporal"", ""Corporal""], ""number""=>[""17465""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+42,AWD000245k,report,466,3,,,,[],,person,Private L G Boorer,"{""first""=>[""L G""], ""surname""=>[""Boorer""], ""rank""=>[""Private""], ""number""=>[""51096""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+44,AWD000245k,report,466,3,,,,[],,person,Private S Seager,"{""first""=>[""S""], ""surname""=>[""Seager""], ""rank""=>[""Private""], ""number""=>[""61244""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",,,
+1,AWD000244c,diary,468,6,1918-03-01 00:00:00 UTC,1 Mar 1918,Metz,"[6.17269, 49.11911]","",diaryDate,1 Mar 1918,"{""day""=>[""1""], ""month""=>[""Mar""], ""year""=>[""1918""]}",2994160,Metz,"[6.17269, 49.11911]"
+2,AWD000244c,diary,468,7,1918-03-01 00:00:00 UTC,1 Mar 1918,La Vacquerie,"[-0.85899, 49.0936]","",place,La Vacquerie,"{""place""=>[""La Vacquerie""], ""location""=>[""true""], ""name""=>[""La Vacquerie""], ""lat""=>[""49.0936""], ""long""=>[""-0.85899""], ""id""=>[""3005888""]}",3005888,La Vacquerie,"[-0.85899, 49.0936]"
+4,AWD000244c,diary,468,5,1918-03-01 05:00:00 UTC,1 Mar 1918,La Vacquerie,"[-0.85899, 49.0936]",0500AM,time,0500AM,{},3005888,La Vacquerie,"[-0.85899, 49.0936]"
+5,AWD000244c,diary,468,2,1918-03-01 05:00:00 UTC,1 Mar 1918,La Vacquerie,"[-0.85899, 49.0936]",0500AM,activity,enemy_activity,{},3005888,La Vacquerie,"[-0.85899, 49.0936]"
+6,AWD000244c,diary,468,2,1918-03-01 05:00:00 UTC,1 Mar 1918,La Vacquerie,"[-0.85899, 49.0936]",0500AM,activity,line,{},3005888,La Vacquerie,"[-0.85899, 49.0936]"
+7,AWD000244c,diary,468,3,1918-03-01 05:00:00 UTC,1 Mar 1918,La Vacquerie,"[-0.85899, 49.0936]",0500AM,activity,fire,{},3005888,La Vacquerie,"[-0.85899, 49.0936]"
+8,AWD000244c,diary,468,2,1918-03-23 00:00:00 UTC,23 Mar 1918,La Vacquerie,"[-0.85899, 49.0936]","",diaryDate,23 Mar 1918,"{""day""=>[""23""], ""month""=>[""Mar""], ""year""=>[""1918""]}",3005888,La Vacquerie,"[-0.85899, 49.0936]"
+10,AWD000244c,diary,468,4,1918-03-23 00:00:00 UTC,23 Mar 1918,La Vacquerie,"[-0.85899, 49.0936]","",casualties,missing: 1,{},3005888,La Vacquerie,"[-0.85899, 49.0936]"
+11,AWD000244c,diary,468,6,1918-03-03 00:00:00 UTC,3 Mar 1918,La Vacquerie,"[-0.85899, 49.0936]","",diaryDate,3 Mar 1918,"{""day""=>[""3""], ""month""=>[""Mar""], ""year""=>[""1918""]}",3005888,La Vacquerie,"[-0.85899, 49.0936]"
+12,AWD000244c,diary,468,3,1918-03-04 00:00:00 UTC,4 Mar 1918,La Vacquerie,"[-0.85899, 49.0936]","",diaryDate,4 Mar 1918,"{""day""=>[""4""], ""month""=>[""Mar""], ""year""=>[""1918""]}",3005888,La Vacquerie,"[-0.85899, 49.0936]"
+13,AWD000244c,diary,468,6,1918-03-04 00:00:00 UTC,4 Mar 1918,La Vacquerie,"[-0.85899, 49.0936]","",activity,raid,{},3005888,La Vacquerie,"[-0.85899, 49.0936]"
+14,AWD000244c,diary,468,6,1918-03-05 00:00:00 UTC,5 Mar 1918,La Vacquerie,"[-0.85899, 49.0936]","",diaryDate,5 Mar 1918,"{""day""=>[""5""], ""month""=>[""Mar""], ""year""=>[""1918""]}",3005888,La Vacquerie,"[-0.85899, 49.0936]"
+15,AWD000244c,diary,468,3,1918-03-05 00:00:00 UTC,5 Mar 1918,La Vacquerie,"[-0.85899, 49.0936]","",place,La Vacquerie,"{""place""=>[""La Vacquerie""], ""location""=>[""true""], ""name""=>[""La Vacquerie""], ""lat""=>[""49.0936""], ""long""=>[""-0.85899""], ""id""=>[""3005888""]}",3005888,La Vacquerie,"[-0.85899, 49.0936]"
+17,AWD000244c,diary,468,3,1918-03-06 00:00:00 UTC,6 Mar 1918,La Vacquerie,"[-0.85899, 49.0936]","",diaryDate,6 Mar 1918,"{""day""=>[""6""], ""month""=>[""Mar""], ""year""=>[""1918""]}",3005888,La Vacquerie,"[-0.85899, 49.0936]"
+18,AWD000244c,diary,468,5,1918-03-06 00:00:00 UTC,6 Mar 1918,La Vacquerie,"[-0.85899, 49.0936]","",unit,2nd Ox & Bucks L I,"{""name""=>[""2nd Ox & Bucks L I""], ""context""=>[""relieved_by""]}",3005888,La Vacquerie,"[-0.85899, 49.0936]"
+21,AWD000244c,diary,468,2,1918-03-06 00:00:00 UTC,6 Mar 1918,La Vacquerie,"[-0.85899, 49.0936]","",activity,support,{},3005888,La Vacquerie,"[-0.85899, 49.0936]"
+22,AWD000244c,diary,468,6,1918-03-11 00:00:00 UTC,11 Mar 1918,La Vacquerie,"[-0.85899, 49.0936]","",diaryDate,11 Mar 1918,"{""day""=>[""11""], ""month""=>[""Mar""], ""year""=>[""1918""]}",3005888,La Vacquerie,"[-0.85899, 49.0936]"
+23,AWD000244c,diary,468,2,1918-03-11 00:00:00 UTC,11 Mar 1918,La Vacquerie,"[-0.85899, 49.0936]","",place,La Vacquerie,"{""place""=>[""La Vacquerie""], ""location""=>[""true""], ""name""=>["""", ""La Vacquerie""], ""lat""=>["""", ""49.0936""], ""long""=>["""", ""-0.85899""], ""id""=>["""", ""3005888""]}",3005888,La Vacquerie,"[-0.85899, 49.0936]"
+24,AWD000244c,diary,468,4,1918-03-11 00:00:00 UTC,11 Mar 1918,La Vacquerie,"[-0.85899, 49.0936]","",activity,movement,{},3005888,La Vacquerie,"[-0.85899, 49.0936]"
+25,AWD000244c,diary,468,3,1918-03-12 00:00:00 UTC,12 Mar 1918,La Vacquerie,"[-0.85899, 49.0936]","",diaryDate,12 Mar 1918,"{""day""=>[""12""], ""month""=>[""Mar""], ""year""=>[""1918""]}",3005888,La Vacquerie,"[-0.85899, 49.0936]"
+26,AWD000244c,diary,468,4,1918-03-12 00:00:00 UTC,12 Mar 1918,La Vacquerie,"[-0.85899, 49.0936]","",place,Metz,"{""place""=>[""Metz""], ""location""=>[""false""], ""name""=>[""Metz""], ""lat""=>[""49.11911""], ""long""=>[""6.17269""], ""id""=>[""2994160""]}",3005888,La Vacquerie,"[-0.85899, 49.0936]"
+27,AWD000244c,diary,468,2,1918-03-12 00:00:00 UTC,12 Mar 1918,La Vacquerie,"[-0.85899, 49.0936]","",unit,"2nd Ox and Bucks LI, 2nd Ox & Bucks LI","{""name""=>[""2nd Ox and Bucks LI"", ""2nd Ox & Bucks LI""], ""context""=>[""relieved_by""]}",3005888,La Vacquerie,"[-0.85899, 49.0936]"
+28,AWD000244c,diary,468,2,1918-03-12 00:00:00 UTC,12 Mar 1918,La Vacquerie,"[-0.85899, 49.0936]","",activity,reserve,{},3005888,La Vacquerie,"[-0.85899, 49.0936]"
+29,AWD000244c,diary,468,6,1918-03-16 00:00:00 UTC,16 Mar 1918,La Vacquerie,"[-0.85899, 49.0936]","",diaryDate,16 Mar 1918,"{""day""=>[""16""], ""month""=>[""Mar""], ""year""=>[""1918""]}",3005888,La Vacquerie,"[-0.85899, 49.0936]"
+30,AWD000244c,diary,468,4,1918-03-16 00:00:00 UTC,16 Mar 1918,La Vacquerie,"[-0.85899, 49.0936]","",activity,support,{},3005888,La Vacquerie,"[-0.85899, 49.0936]"
+31,AWD000244c,diary,468,3,1918-03-16 00:00:00 UTC,16 Mar 1918,La Vacquerie,"[-0.85899, 49.0936]","",unit,"2nd Ox. & Bucks, 2nd Ox & Bucks L I, 2nd Ox & Bucks LI","{""name""=>[""2nd Ox. & Bucks"", ""2nd Ox & Bucks L I"", ""2nd Ox & Bucks LI""], ""context""=>[""relieved_by"", ""other"", ""joined""]}",3005888,La Vacquerie,"[-0.85899, 49.0936]"
+32,AWD000244c,diary,468,6,1918-03-16 00:00:00 UTC,16 Mar 1918,Metz,"[6.17269, 49.11911]","",place,Metz,"{""place""=>[""Metz""], ""location""=>[""true""], ""name""=>[""Metz""], ""lat""=>[""49.11911""], ""long""=>[""6.17269""], ""id""=>[""2994160""]}",2994160,Metz,"[6.17269, 49.11911]"
+34,AWD000244c,diary,468,6,1918-03-17 00:00:00 UTC,17 Mar 1918,Metz,"[6.17269, 49.11911]","",diaryDate,17 Mar 1918,"{""day""=>[""17""], ""month""=>[""Mar""], ""year""=>[""1918""]}",2994160,Metz,"[6.17269, 49.11911]"
+35,AWD000244c,diary,468,4,1918-03-17 00:00:00 UTC,17 Mar 1918,Metz,"[6.17269, 49.11911]","",unit,2nd HLI,"{""name""=>[""2nd HLI""], ""context""=>[""relieved""]}",2994160,Metz,"[6.17269, 49.11911]"
+36,AWD000244c,diary,468,3,1918-03-18 00:00:00 UTC,18 Mar 1918,Metz,"[6.17269, 49.11911]","",diaryDate,18 Mar 1918,"{""day""=>[""18""], ""month""=>[""Mar""], ""year""=>[""1918""]}",2994160,Metz,"[6.17269, 49.11911]"
+37,AWD000244c,diary,468,8,1918-03-18 00:00:00 UTC,18 Mar 1918,La Vacquerie,"[-0.85899, 49.0936]","",place,La Vacquerie,"{""place""=>[""La Vacquerie""], ""location""=>[""true""], ""name""=>[""La Vacquerie""], ""lat""=>[""49.0936""], ""long""=>[""-0.85899""], ""id""=>[""3005888""]}",3005888,La Vacquerie,"[-0.85899, 49.0936]"
+39,AWD000244c,diary,468,2,1918-03-18 00:00:00 UTC,18 Mar 1918,La Vacquerie,"[-0.85899, 49.0936]","",activity,line,{},3005888,La Vacquerie,"[-0.85899, 49.0936]"
+40,AWD000244c,diary,468,2,1918-03-18 00:00:00 UTC,18 Mar 1918,La Vacquerie,"[-0.85899, 49.0936]","",activity,withdraw,{},3005888,La Vacquerie,"[-0.85899, 49.0936]"
+41,AWD000244c,diary,468,6,1918-03-20 00:00:00 UTC,20 Mar 1918,La Vacquerie,"[-0.85899, 49.0936]","",diaryDate,20 Mar 1918,"{""day""=>[""20""], ""month""=>[""Mar""], ""year""=>[""1918""]}",3005888,La Vacquerie,"[-0.85899, 49.0936]"
+42,AWD000244c,diary,468,2,1918-03-21 00:00:00 UTC,21 Mar 1918,La Vacquerie,"[-0.85899, 49.0936]","",diaryDate,21 Mar 1918,"{""day""=>[""21""], ""month""=>[""Mar""], ""year""=>[""1918""]}",3005888,La Vacquerie,"[-0.85899, 49.0936]"
+43,AWD000244c,diary,468,4,1918-03-21 00:00:00 UTC,21 Mar 1918,La Vacquerie,"[-0.85899, 49.0936]","",unit,19th London Regt,"{""name""=>[""19th London Regt""], ""context""=>[""relieved_by""]}",3005888,La Vacquerie,"[-0.85899, 49.0936]"
+44,AWD000244c,diary,468,4,1918-03-21 00:00:00 UTC,21 Mar 1918,La Vacquerie,"[-0.85899, 49.0936]","",activity,movement,{},3005888,La Vacquerie,"[-0.85899, 49.0936]"
+48,AWD000244c,diary,468,2,1918-03-21 00:00:00 UTC,21 Mar 1918,La Vacquerie,"[-0.85899, 49.0936]","",diaryDate,21 Mar 1918,"{""day""=>[""21""], ""month""=>[""Mar""], ""year""=>[""1918""]}",3005888,La Vacquerie,"[-0.85899, 49.0936]"
+49,AWD000244c,diary,468,2,1918-03-21 00:00:00 UTC,21 Mar 1918,La Vacquerie,"[-0.85899, 49.0936]","",place,"Lechelle, lechelle","{""place""=>[""Lechelle"", ""lechelle""], ""location""=>[""false"", ""true""], ""name""=>[""Léchelle""], ""lat""=>[""50.05787""], ""long""=>[""2.97531""], ""id""=>[""3004661""]}",3005888,La Vacquerie,"[-0.85899, 49.0936]"
+50,AWD000244c,diary,468,4,1918-03-21 00:00:00 UTC,21 Mar 1918,La Vacquerie,"[-0.85899, 49.0936]","",diaryDate,21 Mar 1918,"{""day""=>[""21""], ""month""=>[""Mar""], ""year""=>[""1918""]}",3005888,La Vacquerie,"[-0.85899, 49.0936]"
+52,AWD000244c,diary,468,7,1918-03-21 00:00:00 UTC,21 Mar 1918,Lechelle,"[2.97531, 50.05787]","",place,Lechelle,"{""place""=>[""Lechelle""], ""location""=>[""true""], ""name""=>[""Léchelle""], ""lat""=>[""50.05787""], ""long""=>[""2.97531""], ""id""=>[""3004661""]}",3004661,Léchelle,"[2.97531, 50.05787]"
+53,AWD000244c,diary,468,6,1918-03-22 00:00:00 UTC,22 Mar 1918,Lechelle,"[2.97531, 50.05787]","",diaryDate,22 Mar 1918,"{""day""=>[""22""], ""month""=>[""Mar""], ""year""=>[""1918""]}",3004661,Léchelle,"[2.97531, 50.05787]"
+54,AWD000244c,diary,468,6,1918-03-22 04:30:00 UTC,22 Mar 1918,Lechelle,"[2.97531, 50.05787]",0430AM,time,0430AM,{},3004661,Léchelle,"[2.97531, 50.05787]"
+56,AWD000244c,diary,468,2,1918-03-22 04:30:00 UTC,22 Mar 1918,Lechelle,"[2.97531, 50.05787]",0430AM,place,Haplincourt,"{""place""=>[""Haplincourt""], ""location""=>[""false""], ""name""=>[""Haplincourt""], ""lat""=>[""50.08963""], ""long""=>[""2.93118""], ""id""=>[""3013968""]}",3004661,Léchelle,"[2.97531, 50.05787]"
+57,AWD000244c,diary,468,11,1918-03-22 04:30:00 UTC,22 Mar 1918,Barastre,"[2.93241, 50.07638]",0430AM,place,Barastre,"{""place""=>[""Barastre""], ""location""=>[""true""], ""name""=>[""Barastre""], ""lat""=>[""50.07638""], ""long""=>[""2.93241""], ""id""=>[""3035062""]}",3035062,Barastre,"[2.93241, 50.07638]"
+58,AWD000244c,diary,468,6,1918-03-22 13:40:00 UTC,22 Mar 1918,Barastre,"[2.93241, 50.07638]",0140PM,time,0140PM,{},3035062,Barastre,"[2.93241, 50.07638]"
+59,AWD000244c,diary,468,5,1918-03-22 13:40:00 UTC,22 Mar 1918,Barastre,"[2.93241, 50.07638]",0140PM,activity,movement,{},3035062,Barastre,"[2.93241, 50.07638]"
+60,AWD000244c,diary,468,4,1918-03-22 13:40:00 UTC,22 Mar 1918,Barastre,"[2.93241, 50.07638]",0140PM,place,Bertincourt,"{""place""=>[""Bertincourt""], ""location""=>[""false""], ""name""=>[""Bertincourt""], ""lat""=>[""50.08579""], ""long""=>[""2.98137""], ""id""=>[""3033176""]}",3035062,Barastre,"[2.93241, 50.07638]"
+61,AWD000244c,diary,468,2,1918-03-22 00:00:00 UTC,22 Mar 1918,Barastre,"[2.93241, 50.07638]","",diaryDate,22 Mar 1918,"{""day""=>[""22""], ""month""=>[""Mar""], ""year""=>[""1918""]}",3035062,Barastre,"[2.93241, 50.07638]"
+63,AWD000244c,diary,468,6,1918-03-22 00:00:00 UTC,22 Mar 1918,Bertincourt,"[2.98137, 50.08579]","",place,Bertincourt,"{""place""=>[""Bertincourt""], ""location""=>[""true""], ""name""=>[""Bertincourt""], ""lat""=>[""50.08579""], ""long""=>[""2.98137""], ""id""=>[""3033176""]}",3015403,Graincourt-lès-Havrincourt,"[3.10891, 50.14711]"
+65,AWD000244c,diary,468,6,1918-03-22 00:00:00 UTC,22 Mar 1918,Bertincourt,"[2.98137, 50.08579]","",place,Hermies,"{""place""=>[""Hermies""], ""location""=>[""false""], ""name""=>[""Hermies""], ""lat""=>[""50.11126""], ""long""=>[""3.04202""], ""id""=>[""3013416""]}",3015403,Graincourt-lès-Havrincourt,"[3.10891, 50.14711]"
+69,AWD000244c,diary,468,2,1918-03-22 00:00:00 UTC,22 Mar 1918,Bertincourt,"[2.98137, 50.08579]","",diaryDate,22 Mar 1918,"{""day""=>[""22""], ""month""=>[""Mar""], ""year""=>[""1918""]}",3015403,Graincourt-lès-Havrincourt,"[3.10891, 50.14711]"
+70,AWD000244c,diary,468,6,1918-03-22 00:00:00 UTC,22 Mar 1918,Hermies,"[3.04202, 50.11126]","",place,Hermies,"{""place""=>[""Hermies""], ""location""=>[""true""], ""name""=>[""Hermies""], ""lat""=>[""50.11126""], ""long""=>[""3.04202""], ""id""=>[""3013416""]}",3013416,Hermies,"[3.04202, 50.11126]"
+71,AWD000244c,diary,468,4,1918-03-22 00:00:00 UTC,22 Mar 1918,Hermies,"[3.04202, 50.11126]","",activity,withdraw,{},3013416,Hermies,"[3.04202, 50.11126]"
+75,AWD000244c,diary,468,10,1918-03-23 00:00:00 UTC,23 Mar 1918,Hermies,"[3.04202, 50.11126]","",diaryDate,23 Mar 1918,"{""day""=>[""23""], ""month""=>[""Mar""], ""year""=>[""1918""]}",3013416,Hermies,"[3.04202, 50.11126]"
+78,AWD000244c,diary,468,5,1918-03-23 06:30:00 UTC,23 Mar 1918,Hermies,"[3.04202, 50.11126]",0630AM,time,0630AM,{},3013416,Hermies,"[3.04202, 50.11126]"
+80,AWD000244c,diary,468,3,1918-03-23 06:30:00 UTC,23 Mar 1918,Hermies,"[3.04202, 50.11126]",0630AM,place,Bertincourt,"{""place""=>[""Bertincourt""], ""location""=>[""false""], ""name""=>[""Bertincourt""], ""lat""=>[""50.08579""], ""long""=>[""2.98137""], ""id""=>[""3033176""]}",3013416,Hermies,"[3.04202, 50.11126]"
+82,AWD000244c,diary,468,2,1918-03-23 06:30:00 UTC,23 Mar 1918,Hermies,"[3.04202, 50.11126]",0630AM,place,Bertincourt,"{""place""=>[""Bertincourt""], ""location""=>[""false""], ""name""=>[""Bertincourt""], ""lat""=>[""50.08579""], ""long""=>[""2.98137""], ""id""=>[""3033176""]}",3013416,Hermies,"[3.04202, 50.11126]"
+84,AWD000244c,diary,468,2,1918-03-23 06:30:00 UTC,23 Mar 1918,Hermies,"[3.04202, 50.11126]",0630AM,activity,enemy_activity,{},3013416,Hermies,"[3.04202, 50.11126]"
+85,AWD000244c,diary,468,4,1918-03-23 06:30:00 UTC,23 Mar 1918,Hermies,"[3.04202, 50.11126]",0630AM,place,Baumetz,"{""place""=>[""Baumetz""], ""location""=>[""false""], ""name""=>[""Bertincourt""], ""lat""=>[""50.08579""], ""long""=>[""2.98137""], ""id""=>[""3033176""]}",3013416,Hermies,"[3.04202, 50.11126]"
+1,AWD000243t,diary,469,5,1918-03-23 00:00:00 UTC,23 Mar 1918,Hermies,"[3.04202, 50.11126]","",diaryDate,23 Mar 1918,"{""day""=>[""23""], ""month""=>[""Mar""], ""year""=>[""1918""]}",3013416,Hermies,"[3.04202, 50.11126]"
+2,AWD000243t,diary,469,2,1918-03-23 00:00:00 UTC,23 Mar 1918,Hermies,"[3.04202, 50.11126]","",activity,line,{},3013416,Hermies,"[3.04202, 50.11126]"
+3,AWD000243t,diary,469,7,1918-03-23 00:00:00 UTC,23 Mar 1918,Bertincourt,"[2.98137, 50.08579]","",place,Bertincourt,"{""place""=>[""Bertincourt""], ""location""=>[""true""], ""name""=>[""Bertincourt""], ""lat""=>[""50.08579""], ""long""=>[""2.98137""], ""id""=>[""3033176""]}",3015403,Graincourt-lès-Havrincourt,"[3.10891, 50.14711]"
+5,AWD000243t,diary,469,6,1918-03-23 14:00:00 UTC,23 Mar 1918,Bertincourt,"[2.98137, 50.08579]",0200PM,time,0200PM,{},3015403,Graincourt-lès-Havrincourt,"[3.10891, 50.14711]"
+6,AWD000243t,diary,469,2,1918-03-23 14:00:00 UTC,23 Mar 1918,Bertincourt,"[2.98137, 50.08579]",0200PM,activity,withdraw,{},3015403,Graincourt-lès-Havrincourt,"[3.10891, 50.14711]"
+8,AWD000243t,diary,469,5,1918-03-23 14:00:00 UTC,23 Mar 1918,Bertincourt,"[2.98137, 50.08579]",0200PM,activity,enemy_activity,{},3015403,Graincourt-lès-Havrincourt,"[3.10891, 50.14711]"
+9,AWD000243t,diary,469,2,1918-03-23 14:00:00 UTC,23 Mar 1918,Bertincourt,"[2.98137, 50.08579]",0200PM,place,Velu Wood,"{""place""=>[""Velu Wood""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3015403,Graincourt-lès-Havrincourt,"[3.10891, 50.14711]"
+10,AWD000243t,diary,469,5,1918-03-23 14:00:00 UTC,23 Mar 1918,Bertincourt,"[2.98137, 50.08579]",0200PM,activity,withdraw,{},3015403,Graincourt-lès-Havrincourt,"[3.10891, 50.14711]"
+11,AWD000243t,diary,469,2,1918-03-23 14:00:00 UTC,23 Mar 1918,Bertincourt,"[2.98137, 50.08579]",0200PM,activity,reserve,{},3015403,Graincourt-lès-Havrincourt,"[3.10891, 50.14711]"
+12,AWD000243t,diary,469,4,1918-03-23 14:00:00 UTC,23 Mar 1918,Bertincourt,"[2.98137, 50.08579]",0200PM,place,Bertincourt,"{""place""=>[""Bertincourt""], ""location""=>[""false""], ""name""=>[""Bertincourt""], ""lat""=>[""50.08579""], ""long""=>[""2.98137""], ""id""=>[""3033176""]}",3015403,Graincourt-lès-Havrincourt,"[3.10891, 50.14711]"
+15,AWD000243t,diary,469,5,1918-03-23 22:00:00 UTC,23 Mar 1918,Bertincourt,"[2.98137, 50.08579]",1000PM,time,1000PM,{},3015403,Graincourt-lès-Havrincourt,"[3.10891, 50.14711]"
+16,AWD000243t,diary,469,2,1918-03-23 22:00:00 UTC,23 Mar 1918,Bertincourt,"[2.98137, 50.08579]",1000PM,activity,enemy_activity,{},3015403,Graincourt-lès-Havrincourt,"[3.10891, 50.14711]"
+17,AWD000243t,diary,469,2,1918-03-23 22:00:00 UTC,23 Mar 1918,Bertincourt,"[2.98137, 50.08579]",1000PM,activity,fire,{},3015403,Graincourt-lès-Havrincourt,"[3.10891, 50.14711]"
+21,AWD000243t,diary,469,2,1918-03-23 22:00:00 UTC,23 Mar 1918,Bertincourt,"[2.98137, 50.08579]",1000PM,place,Bus,"{""place""=>[""Bus""], ""location""=>[""false""], ""name""=>[""Bus""], ""lat""=>[""50.06401""], ""long""=>[""2.96583""], ""id""=>[""3029480""]}",3015403,Graincourt-lès-Havrincourt,"[3.10891, 50.14711]"
+27,AWD000243t,diary,469,5,1918-03-24 00:00:00 UTC,24 Mar 1918,Bertincourt,"[2.98137, 50.08579]","",diaryDate,24 Mar 1918,"{""day""=>[""24""], ""month""=>[""Mar""], ""year""=>[""1918""]}",3015403,Graincourt-lès-Havrincourt,"[3.10891, 50.14711]"
+28,AWD000243t,diary,469,5,1918-03-24 09:00:00 UTC,24 Mar 1918,Bertincourt,"[2.98137, 50.08579]",0900AM,time,0900AM,{},3015403,Graincourt-lès-Havrincourt,"[3.10891, 50.14711]"
+30,AWD000243t,diary,469,5,1918-03-24 09:00:00 UTC,24 Mar 1918,Bertincourt,"[2.98137, 50.08579]",0900AM,activity,fire,{},3015403,Graincourt-lès-Havrincourt,"[3.10891, 50.14711]"
+31,AWD000243t,diary,469,6,1918-03-24 09:00:00 UTC,24 Mar 1918,Haplincourt,"[2.93118, 50.08963]",0900AM,place,Haplincourt,"{""place""=>[""Haplincourt""], ""location""=>[""true""], ""name""=>[""Haplincourt""], ""lat""=>[""50.08963""], ""long""=>[""2.93118""], ""id""=>[""3013968""]}",3033176,Bertincourt,"[2.98137, 50.08579]"
+32,AWD000243t,diary,469,3,1918-03-24 09:00:00 UTC,24 Mar 1918,Haplincourt,"[2.93118, 50.08963]",0900AM,activity,withdraw,{},3033176,Bertincourt,"[2.98137, 50.08579]"
+33,AWD000243t,diary,469,4,1918-03-24 09:00:00 UTC,24 Mar 1918,Haplincourt,"[2.93118, 50.08963]",0900AM,place,Barastre,"{""place""=>[""Barastre""], ""location""=>[""false""], ""name""=>[""Barastre""], ""lat""=>[""50.07638""], ""long""=>[""2.93241""], ""id""=>[""3035062""]}",3033176,Bertincourt,"[2.98137, 50.08579]"
+34,AWD000243t,diary,469,4,1918-03-24 09:00:00 UTC,24 Mar 1918,Haplincourt,"[2.93118, 50.08963]",0900AM,place,Haplincourt,"{""place""=>[""Haplincourt""], ""location""=>[""false""], ""name""=>[""Haplincourt""], ""lat""=>[""50.08963""], ""long""=>[""2.93118""], ""id""=>[""3013968""]}",3033176,Bertincourt,"[2.98137, 50.08579]"
+35,AWD000243t,diary,469,6,1918-03-24 09:00:00 UTC,24 Mar 1918,Haplincourt,"[2.93118, 50.08963]",0900AM,unit,"52 LI, 2 HLI","{""name""=>[""52 LI"", ""2 HLI""], ""context""=>[""other""]}",3033176,Bertincourt,"[2.98137, 50.08579]"
+36,AWD000243t,diary,469,4,1918-03-24 09:00:00 UTC,24 Mar 1918,Haplincourt,"[2.93118, 50.08963]",0900AM,activity,support,{},3033176,Bertincourt,"[2.98137, 50.08579]"
+37,AWD000243t,diary,469,3,1918-03-24 09:00:00 UTC,24 Mar 1918,Haplincourt,"[2.93118, 50.08963]",0900AM,unit,"2nd H.L.I, 2nd Div, 63rd Div.","{""name""=>[""2nd H.L.I"", ""2nd Div"", ""63rd Div.""], ""context""=>[""other""]}",3033176,Bertincourt,"[2.98137, 50.08579]"
+39,AWD000243t,diary,469,6,1918-03-24 16:35:00 UTC,24 Mar 1918,Haplincourt,"[2.93118, 50.08963]",0435PM,time,0435PM,{},3033176,Bertincourt,"[2.98137, 50.08579]"
+42,AWD000243t,diary,469,3,1918-03-24 16:35:00 UTC,24 Mar 1918,Haplincourt,"[2.93118, 50.08963]",0435PM,activity,enemy_activity,{},3033176,Bertincourt,"[2.98137, 50.08579]"
+43,AWD000243t,diary,469,3,1918-03-24 16:35:00 UTC,24 Mar 1918,Haplincourt,"[2.93118, 50.08963]",0435PM,activity,withdraw,{},3033176,Bertincourt,"[2.98137, 50.08579]"
+46,AWD000243t,diary,469,3,1918-03-24 16:35:00 UTC,24 Mar 1918,Haplincourt,"[2.93118, 50.08963]",0435PM,place,Bapaume,"{""place""=>[""Bapaume""], ""location""=>[""false""], ""name""=>[""Bapaume""], ""lat""=>[""50.10379""], ""long""=>[""2.84966""], ""id""=>[""3035088""]}",3033176,Bertincourt,"[2.98137, 50.08579]"
+47,AWD000243t,diary,469,4,1918-03-24 16:35:00 UTC,24 Mar 1918,Haplincourt,"[2.93118, 50.08963]",0435PM,place,Villers-au-Flos,"{""place""=>[""Villers-au-Flos""], ""location""=>[""false""], ""name""=>[""Villers-au-Flos""], ""lat""=>[""50.08131""], ""long""=>[""2.9015""], ""id""=>[""2968425""]}",3033176,Bertincourt,"[2.98137, 50.08579]"
+49,AWD000243t,diary,469,2,1918-03-24 16:35:00 UTC,24 Mar 1918,Haplincourt,"[2.93118, 50.08963]",0435PM,place,"peronne, Peronne","{""place""=>[""peronne"", ""Peronne""], ""location""=>[""false""], ""name""=>["""", ""Péronne""], ""lat""=>["""", ""49.93333""], ""long""=>["""", ""2.93333""], ""id""=>["""", ""2987928""]}",3033176,Bertincourt,"[2.98137, 50.08579]"
+51,AWD000243t,diary,469,2,1918-03-24 16:35:00 UTC,24 Mar 1918,Haplincourt,"[2.93118, 50.08963]",0435PM,activity,line,{},3033176,Bertincourt,"[2.98137, 50.08579]"
+53,AWD000243t,diary,469,3,1918-03-24 16:35:00 UTC,24 Mar 1918,Haplincourt,"[2.93118, 50.08963]",0435PM,place,Ligny-Thilloy,"{""place""=>[""Ligny-Thilloy""], ""location""=>[""false""], ""name""=>[""Ligny-Thilloy""], ""lat""=>[""50.085""], ""long""=>[""2.82232""], ""id""=>[""2998354""]}",3033176,Bertincourt,"[2.98137, 50.08579]"
+54,AWD000243t,diary,469,5,1918-03-25 00:00:00 UTC,25 Mar 1918,Haplincourt,"[2.93118, 50.08963]","",diaryDate,25 Mar 1918,"{""day""=>[""25""], ""month""=>[""Mar""], ""year""=>[""1918""]}",3033176,Bertincourt,"[2.98137, 50.08579]"
+55,AWD000243t,diary,469,6,1918-03-25 02:30:00 UTC,25 Mar 1918,Haplincourt,"[2.93118, 50.08963]",0230AM,time,0230AM,{},3033176,Bertincourt,"[2.98137, 50.08579]"
+56,AWD000243t,diary,469,3,1918-03-25 02:30:00 UTC,25 Mar 1918,Haplincourt,"[2.93118, 50.08963]",0230AM,activity,withdraw,{},3033176,Bertincourt,"[2.98137, 50.08579]"
+58,AWD000243t,diary,469,6,1918-03-25 02:30:00 UTC,25 Mar 1918,Ligny-Thilloy,"[2.82232, 50.085]",0230AM,place,Ligny-Thilloy,"{""place""=>[""Ligny-Thilloy""], ""location""=>[""true""], ""name""=>[""Ligny-Thilloy""], ""lat""=>[""50.085""], ""long""=>[""2.82232""], ""id""=>[""2998354""]}",2998354,Ligny-Thilloy,"[2.82232, 50.08501]"
+59,AWD000243t,diary,469,2,1918-03-25 02:30:00 UTC,25 Mar 1918,Ligny-Thilloy,"[2.82232, 50.085]",0230AM,place,Bapaume-Albert Road,"{""place""=>[""Bapaume-Albert Road""], ""location""=>[""false""], ""name""=>[""Ligny-Thilloy""], ""lat""=>[""50.085""], ""long""=>[""2.82232""], ""id""=>[""2998354""]}",2998354,Ligny-Thilloy,"[2.82232, 50.08501]"
+61,AWD000243t,diary,469,5,1918-03-25 10:00:00 UTC,25 Mar 1918,Ligny-Thilloy,"[2.82232, 50.085]",1000AM,time,1000AM,{},2998354,Ligny-Thilloy,"[2.82232, 50.08501]"
+63,AWD000243t,diary,469,4,1918-03-25 10:00:00 UTC,25 Mar 1918,Ligny-Thilloy,"[2.82232, 50.085]",1000AM,activity,line,{},2998354,Ligny-Thilloy,"[2.82232, 50.08501]"
+65,AWD000243t,diary,469,3,1918-03-25 10:00:00 UTC,25 Mar 1918,Ligny-Thilloy,"[2.82232, 50.085]",1000AM,place,Pys,"{""place""=>[""Pys""], ""location""=>[""false""], ""name""=>[""Pys""], ""lat""=>[""50.08766""], ""long""=>[""2.75585""], ""id""=>[""6619619""]}",2998354,Ligny-Thilloy,"[2.82232, 50.08501]"
+66,AWD000243t,diary,469,3,1918-03-25 10:00:00 UTC,25 Mar 1918,Ligny-Thilloy,"[2.82232, 50.085]",1000AM,place,Le Sars,"{""place""=>[""Le Sars""], ""location""=>[""false""], ""name""=>[""Le Sars""], ""lat""=>[""50.06981""], ""long""=>[""2.77977""], ""id""=>[""3002117""]}",2998354,Ligny-Thilloy,"[2.82232, 50.08501]"
+67,AWD000243t,diary,469,2,1918-03-25 10:00:00 UTC,25 Mar 1918,Ligny-Thilloy,"[2.82232, 50.085]",1000AM,activity,enemy_activity,{},2998354,Ligny-Thilloy,"[2.82232, 50.08501]"
+2,AWD000243k,diary,470,6,1918-03-25 00:00:00 UTC,25 Mar 1918,Ligny-Thilloy,"[2.82232, 50.085]","",diaryDate,25 Mar 1918,"{""day""=>[""25""], ""month""=>[""Mar""], ""year""=>[""1918""]}",2998354,Ligny-Thilloy,"[2.82232, 50.08501]"
+3,AWD000243k,diary,470,6,1918-03-25 00:00:00 UTC,25 Mar 1918,Le Sars,"[2.77977, 50.06981]","",place,Le Sars,"{""place""=>[""Le Sars""], ""location""=>[""true""], ""name""=>[""Le Sars""], ""lat""=>[""50.06981""], ""long""=>[""2.77977""], ""id""=>[""3002117""]}",3002117,Le Sars,"[2.77977, 50.06981]"
+4,AWD000243k,diary,470,2,1918-03-25 00:00:00 UTC,25 Mar 1918,Le Sars,"[2.77977, 50.06981]","",activity,enemy_activity,{},3002117,Le Sars,"[2.77977, 50.06981]"
+5,AWD000243k,diary,470,3,1918-03-25 00:00:00 UTC,25 Mar 1918,Le Sars,"[2.77977, 50.06981]","",activity,attack,{},3002117,Le Sars,"[2.77977, 50.06981]"
+6,AWD000243k,diary,470,5,1918-03-25 00:00:00 UTC,25 Mar 1918,Le Sars,"[2.77977, 50.06981]","",activity,fire,{},3002117,Le Sars,"[2.77977, 50.06981]"
+7,AWD000243k,diary,470,2,1918-03-25 00:00:00 UTC,25 Mar 1918,Le Sars,"[2.77977, 50.06981]","",activity,attack,{},3002117,Le Sars,"[2.77977, 50.06981]"
+8,AWD000243k,diary,470,4,1918-03-25 00:00:00 UTC,25 Mar 1918,Le Sars,"[2.77977, 50.06981]","",activity,withdraw,{},3002117,Le Sars,"[2.77977, 50.06981]"
+11,AWD000243k,diary,470,5,1918-03-25 00:00:00 UTC,25 Mar 1918,Le Sars,"[2.77977, 50.06981]","",place,Le Sars,"{""place""=>[""Le Sars""], ""location""=>[""false""], ""name""=>[""Le Sars""], ""lat""=>[""50.06981""], ""long""=>[""2.77977""], ""id""=>[""3002117""]}",3002117,Le Sars,"[2.77977, 50.06981]"
+12,AWD000243k,diary,470,2,1918-03-25 00:00:00 UTC,25 Mar 1918,Le Sars,"[2.77977, 50.06981]","",unit,5th Bde.,"{""name""=>[""5th Bde.""], ""context""=>[""other""]}",3002117,Le Sars,"[2.77977, 50.06981]"
+13,AWD000243k,diary,470,4,1918-03-25 00:00:00 UTC,25 Mar 1918,Le Sars,"[2.77977, 50.06981]","",place,Beaucourt,"{""place""=>[""Beaucourt""], ""location""=>[""false""], ""name""=>[""Beaucourt""], ""lat""=>[""47.4899""], ""long""=>[""6.92407""], ""id""=>[""3034343""]}",3002117,Le Sars,"[2.77977, 50.06981]"
+15,AWD000243k,diary,470,2,1918-03-25 00:00:00 UTC,25 Mar 1918,Le Sars,"[2.77977, 50.06981]","",activity,withdraw,{},3002117,Le Sars,"[2.77977, 50.06981]"
+17,AWD000243k,diary,470,5,1918-03-25 00:00:00 UTC,25 Mar 1918,Le Sars,"[2.77977, 50.06981]","",place,Hamel,"{""place""=>[""Hamel""], ""location""=>[""false""], ""name""=>[""Hamel""], ""lat""=>[""50.27945""], ""long""=>[""3.07423""], ""id""=>[""3014019""]}",3002117,Le Sars,"[2.77977, 50.06981]"
+18,AWD000243k,diary,470,6,1918-03-26 00:00:00 UTC,26 Mar 1918,Le Sars,"[2.77977, 50.06981]","",diaryDate,26 Mar 1918,"{""day""=>[""26""], ""month""=>[""Mar""], ""year""=>[""1918""]}",3002117,Le Sars,"[2.77977, 50.06981]"
+19,AWD000243k,diary,470,7,1918-03-26 00:00:00 UTC,26 Mar 1918,Auchonvillers,"[2.63063, 50.08114]","",place,Auchonvillers,"{""place""=>[""Auchonvillers""], ""location""=>[""true""], ""name""=>[""Auchonvillers""], ""lat""=>[""50.08114""], ""long""=>[""2.63063""], ""id""=>[""3036275""]}",3036275,Auchonvillers,"[2.63063, 50.08114]"
+21,AWD000243k,diary,470,4,1918-03-26 00:00:00 UTC,26 Mar 1918,Auchonvillers,"[2.63063, 50.08114]","",activity,withdraw,{},3036275,Auchonvillers,"[2.63063, 50.08114]"
+22,AWD000243k,diary,470,4,1918-03-26 00:00:00 UTC,26 Mar 1918,Auchonvillers,"[2.63063, 50.08114]","",place,Auchonvillers,"{""place""=>[""Auchonvillers""], ""location""=>[""false""], ""name""=>["""", ""Auchonvillers""], ""lat""=>["""", ""50.08114""], ""long""=>["""", ""2.63063""], ""id""=>["""", ""3036275""]}",3036275,Auchonvillers,"[2.63063, 50.08114]"
+26,AWD000243k,diary,470,2,1918-03-26 00:00:00 UTC,26 Mar 1918,Auchonvillers,"[2.63063, 50.08114]","",unit,New Zealand Troops,"{""name""=>[""New Zealand Troops""], ""context""=>[""joined""]}",3036275,Auchonvillers,"[2.63063, 50.08114]"
+30,AWD000243k,diary,470,2,1918-03-26 00:00:00 UTC,26 Mar 1918,Auchonvillers,"[2.63063, 50.08114]","",place,Auchonvillers,"{""place""=>[""Auchonvillers""], ""location""=>[""false""], ""name""=>[""Auchonvillers""], ""lat""=>[""50.08114""], ""long""=>[""2.63063""], ""id""=>[""3036275""]}",3036275,Auchonvillers,"[2.63063, 50.08114]"
+31,AWD000243k,diary,470,2,1918-03-26 00:00:00 UTC,26 Mar 1918,Auchonvillers,"[2.63063, 50.08114]","",place,"Beaumont-Hamel, Beaumont Hamel","{""place""=>[""Beaumont-Hamel"", ""Beaumont Hamel""], ""location""=>[""false""], ""name""=>[""Beaumont-Hamel""], ""lat""=>[""50.08429""], ""long""=>[""2.65746""], ""id""=>[""3034157""]}",3036275,Auchonvillers,"[2.63063, 50.08114]"
+36,AWD000243k,diary,470,4,1918-03-26 00:00:00 UTC,26 Mar 1918,Auchonvillers,"[2.63063, 50.08114]","",activity,attack,{},3036275,Auchonvillers,"[2.63063, 50.08114]"
+38,AWD000243k,diary,470,4,1918-03-26 00:00:00 UTC,26 Mar 1918,Auchonvillers,"[2.63063, 50.08114]","",place,Hebuterne,"{""place""=>[""Hebuterne""], ""location""=>[""false""], ""name""=>[""Hébuterne""], ""lat""=>[""50.12698""], ""long""=>[""2.63412""], ""id""=>[""3013606""]}",3036275,Auchonvillers,"[2.63063, 50.08114]"
+39,AWD000243k,diary,470,4,1918-03-26 00:00:00 UTC,26 Mar 1918,Auchonvillers,"[2.63063, 50.08114]","",activity,enemy_activity,{},3036275,Auchonvillers,"[2.63063, 50.08114]"
+40,AWD000243k,diary,470,3,1918-03-26 00:00:00 UTC,26 Mar 1918,Auchonvillers,"[2.63063, 50.08114]","",activity,fire,{},3036275,Auchonvillers,"[2.63063, 50.08114]"
+44,AWD000243k,diary,470,4,1918-03-26 20:30:00 UTC,26 Mar 1918,Auchonvillers,"[2.63063, 50.08114]",0830PM,time,0830PM,{},3036275,Auchonvillers,"[2.63063, 50.08114]"
+47,AWD000243k,diary,470,3,1918-03-26 20:30:00 UTC,26 Mar 1918,Auchonvillers,"[2.63063, 50.08114]",0830PM,activity,withdraw,{},3036275,Auchonvillers,"[2.63063, 50.08114]"
+51,AWD000243k,diary,470,2,1918-03-26 20:30:00 UTC,26 Mar 1918,Auchonvillers,"[2.63063, 50.08114]",0830PM,domestic,accomodation,{},3036275,Auchonvillers,"[2.63063, 50.08114]"
+52,AWD000243k,diary,470,2,1918-03-26 20:30:00 UTC,26 Mar 1918,Auchonvillers,"[2.63063, 50.08114]",0830PM,place,Mailly-Maillet,"{""place""=>[""Mailly-Maillet""], ""location""=>[""false""], ""name""=>[""Mailly-Maillet""], ""lat""=>[""50.08025""], ""long""=>[""2.60473""], ""id""=>[""2996685""]}",3036275,Auchonvillers,"[2.63063, 50.08114]"
+53,AWD000243k,diary,470,6,1918-03-27 00:00:00 UTC,27 Mar 1918,Auchonvillers,"[2.63063, 50.08114]","",diaryDate,27 Mar 1918,"{""day""=>[""27""], ""month""=>[""Mar""], ""year""=>[""1918""]}",3036275,Auchonvillers,"[2.63063, 50.08114]"
+54,AWD000243k,diary,470,7,1918-03-27 00:00:00 UTC,27 Mar 1918,Mailly-Maillet,"[2.60473, 50.08025]","",place,Mailly-Maillet,"{""place""=>[""Mailly-Maillet""], ""location""=>[""true""], ""name""=>[""Mailly-Maillet""], ""lat""=>[""50.08025""], ""long""=>[""2.60473""], ""id""=>[""2996685""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+55,AWD000243k,diary,470,2,1918-03-27 00:00:00 UTC,27 Mar 1918,Mailly-Maillet,"[2.60473, 50.08025]","",activity,enemy_activity,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+56,AWD000243k,diary,470,2,1918-03-27 00:00:00 UTC,27 Mar 1918,Mailly-Maillet,"[2.60473, 50.08025]","",place,"Beaumont-Hamel, Beaumont Hamel","{""place""=>[""Beaumont-Hamel"", ""Beaumont Hamel""], ""location""=>[""false""], ""name""=>[""Beaumont-Hamel""], ""lat""=>[""50.08429""], ""long""=>[""2.65746""], ""id""=>[""3034157""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+58,AWD000243k,diary,470,2,1918-03-27 00:00:00 UTC,27 Mar 1918,Mailly-Maillet,"[2.60473, 50.08025]","",activity,movement,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+59,AWD000243k,diary,470,2,1918-03-27 00:00:00 UTC,27 Mar 1918,Mailly-Maillet,"[2.60473, 50.08025]","",unit,12th Div.,"{""name""=>[""12th Div.""], ""context""=>[""other"", ""relieved""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+60,AWD000243k,diary,470,2,1918-03-27 00:00:00 UTC,27 Mar 1918,Mailly-Maillet,"[2.60473, 50.08025]","",place,Martinsart,"{""place""=>[""Martinsart""], ""location""=>[""false""], ""name""=>[""Mesnil-Martinsart""], ""lat""=>[""50.05323""], ""long""=>[""2.64738""], ""id""=>[""2994232""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+63,AWD000243k,diary,470,2,1918-03-27 00:00:00 UTC,27 Mar 1918,Mailly-Maillet,"[2.60473, 50.08025]","",activity,support,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+69,AWD000243k,diary,470,3,1918-03-27 00:00:00 UTC,27 Mar 1918,Mailly-Maillet,"[2.60473, 50.08025]","",place,Mesnil,"{""place""=>[""Mesnil""], ""location""=>[""false""], ""name""=>[""Mesnil-Martinsart""], ""lat""=>[""50.05323""], ""long""=>[""2.64738""], ""id""=>[""2994232""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+1,AWD000242z,diary,471,7,1918-03-28 00:00:00 UTC,28 Mar 1918,Mailly-Maillet,"[2.60473, 50.08025]","",diaryDate,28 Mar 1918,"{""day""=>[""28""], ""month""=>[""Mar""], ""year""=>[""1918""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+2,AWD000242z,diary,471,6,1918-03-28 00:00:00 UTC,28 Mar 1918,Aveluy Wood,"[0.0, 0.0]","",place,Aveluy Wood,"{""place""=>[""Aveluy Wood""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+3,AWD000242z,diary,471,6,1918-03-28 10:00:00 UTC,28 Mar 1918,Aveluy Wood,"[0.0, 0.0]",1000AM,time,1000AM,{},,,
+4,AWD000242z,diary,471,3,1918-03-28 10:00:00 UTC,28 Mar 1918,Aveluy Wood,"[0.0, 0.0]",1000AM,activity,fire,{},,,
+7,AWD000242z,diary,471,3,1918-03-28 10:00:00 UTC,28 Mar 1918,Aveluy Wood,"[0.0, 0.0]",1000AM,activity,enemy_activity,{},,,
+9,AWD000242z,diary,471,2,1918-03-28 10:00:00 UTC,28 Mar 1918,Aveluy Wood,"[0.0, 0.0]",1000AM,unit,"24 R 7, 24th R. 7.","{""name""=>[""24 R 7"", ""24th R. 7.""], ""context""=>[""other""]}",,,
+10,AWD000242z,diary,471,5,1918-03-28 10:00:00 UTC,28 Mar 1918,Aveluy Wood,"[0.0, 0.0]",1000AM,unit,R W Kents,"{""name""=>[""R W Kents""], ""context""=>[""joined""]}",,,
+11,AWD000242z,diary,471,5,1918-03-28 10:00:00 UTC,28 Mar 1918,Aveluy Wood,"[0.0, 0.0]",1000AM,unit,"52 L I, 52 LI","{""name""=>[""52 L I"", ""52 LI""], ""context""=>[""joined""]}",,,
+13,AWD000242z,diary,471,5,1918-03-28 10:00:00 UTC,28 Mar 1918,Aveluy Wood,"[0.0, 0.0]",1000AM,activity,attack,{},,,
+15,AWD000242z,diary,471,2,1918-03-29 00:00:00 UTC,29 Mar 1918,Aveluy Wood,"[0.0, 0.0]","",diaryDate,29 Mar 1918,"{""day""=>[""29""], ""month""=>[""Mar""], ""year""=>[""1918""]}",,,
+16,AWD000242z,diary,471,2,1918-03-28 00:00:00 UTC,28 Mar 1918,Aveluy Wood,"[0.0, 0.0]","",diaryDate,28 Mar 1918,"{""day""=>[""28""], ""month""=>[""Mar""], ""year""=>[""1918""]}",,,
+18,AWD000242z,diary,471,6,1918-03-28 00:00:00 UTC,28 Mar 1918,Aveluy Wood,"[0.0, 0.0]","",activity,line,{},,,
+19,AWD000242z,diary,471,10,1918-03-28 00:00:00 UTC,28 Mar 1918,Aveluy Wood,"[0.0, 0.0]","",place,Mesnil,"{""place""=>[""Mesnil""], ""location""=>[""false""], ""name""=>[""Mesnil-Martinsart""], ""lat""=>[""50.05323""], ""long""=>[""2.64738""], ""id""=>[""2994232""]}",,,
+20,AWD000242z,diary,471,3,1918-03-28 00:00:00 UTC,28 Mar 1918,Aveluy Wood,"[0.0, 0.0]","",activity,support,{},,,
+21,AWD000242z,diary,471,7,1918-03-29 00:00:00 UTC,29 Mar 1918,Aveluy Wood,"[0.0, 0.0]","",diaryDate,29 Mar 1918,"{""day""=>[""29""], ""month""=>[""Mar""], ""year""=>[""1918""]}",,,
+22,AWD000242z,diary,471,7,1918-03-29 00:00:00 UTC,29 Mar 1918,Mesnil,"[0.0, 0.0]","",place,Mesnil,"{""place""=>[""Mesnil""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2994232,Mesnil-Martinsart,"[2.64738, 50.05323]"
+24,AWD000242z,diary,471,5,1918-03-29 22:00:00 UTC,29 Mar 1918,Mesnil,"[0.0, 0.0]",1000PM,time,1000PM,{},2994232,Mesnil-Martinsart,"[2.64738, 50.05323]"
+26,AWD000242z,diary,471,5,1918-03-29 22:00:00 UTC,29 Mar 1918,Mesnil,"[0.0, 0.0]",1000PM,place,Hedauville,"{""place""=>[""Hedauville""], ""location""=>[""false""], ""name""=>[""Hédauville""], ""lat""=>[""50.04584""], ""long""=>[""2.56767""], ""id""=>[""3013597""]}",2994232,Mesnil-Martinsart,"[2.64738, 50.05323]"
+29,AWD000242z,diary,471,4,1918-03-29 22:00:00 UTC,29 Mar 1918,Mesnil,"[0.0, 0.0]",1000PM,unit,10th DCLI,"{""name""=>[""10th DCLI""], ""context""=>[""relieved_by""]}",2994232,Mesnil-Martinsart,"[2.64738, 50.05323]"
+30,AWD000242z,diary,471,2,1918-03-29 22:00:00 UTC,29 Mar 1918,Mesnil,"[0.0, 0.0]",1000PM,domestic,accomodation,{},2994232,Mesnil-Martinsart,"[2.64738, 50.05323]"
+31,AWD000242z,diary,471,5,1918-03-29 22:00:00 UTC,29 Mar 1918,Mesnil,"[0.0, 0.0]",1000PM,activity,movement,{},2994232,Mesnil-Martinsart,"[2.64738, 50.05323]"
+32,AWD000242z,diary,471,7,1918-03-30 00:00:00 UTC,30 Mar 1918,Mesnil,"[0.0, 0.0]","",diaryDate,30 Mar 1918,"{""day""=>[""30""], ""month""=>[""Mar""], ""year""=>[""1918""]}",2994232,Mesnil-Martinsart,"[2.64738, 50.05323]"
+33,AWD000242z,diary,471,7,1918-03-30 00:00:00 UTC,30 Mar 1918,Hedauville,"[2.56767, 50.04584]","",place,Hedauville,"{""place""=>[""Hedauville""], ""location""=>[""true""], ""name""=>[""Hédauville""], ""lat""=>[""50.04584""], ""long""=>[""2.56767""], ""id""=>[""3013597""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+35,AWD000242z,diary,471,6,1918-03-30 18:00:00 UTC,30 Mar 1918,Hedauville,"[2.56767, 50.04584]",0600PM,time,0600PM,{},3013597,Hédauville,"[2.56767, 50.04584]"
+37,AWD000242z,diary,471,2,1918-03-30 18:00:00 UTC,30 Mar 1918,Hedauville,"[2.56767, 50.04584]",0600PM,place,Hedauville,"{""place""=>[""Hedauville""], ""location""=>[""false""], ""name""=>[""Hédauville""], ""lat""=>[""50.04584""], ""long""=>[""2.56767""], ""id""=>[""3013597""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+38,AWD000242z,diary,471,5,1918-03-30 18:00:00 UTC,30 Mar 1918,Hedauville,"[2.56767, 50.04584]",0600PM,unit,6th Inf Bde,"{""name""=>[""6th Inf Bde""], ""context""=>[""other""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+39,AWD000242z,diary,471,3,1918-03-30 18:00:00 UTC,30 Mar 1918,Hedauville,"[2.56767, 50.04584]",0600PM,domestic,accomodation,{},3013597,Hédauville,"[2.56767, 50.04584]"
+40,AWD000242z,diary,471,5,1918-03-30 18:00:00 UTC,30 Mar 1918,Hedauville,"[2.56767, 50.04584]",0600PM,place,Varennes,"{""place""=>[""Varennes""], ""location""=>[""false""], ""name""=>[""Hédauville""], ""lat""=>[""50.04584""], ""long""=>[""2.56767""], ""id""=>[""3013597""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+43,AWD000242z,diary,471,2,1918-03-30 18:00:00 UTC,30 Mar 1918,Hedauville,"[2.56767, 50.04584]",0600PM,casualties,"killed: 3, wounded: 5, missing: 3",{},3013597,Hédauville,"[2.56767, 50.04584]"
+44,AWD000242z,diary,471,6,1918-03-30 18:00:00 UTC,30 Mar 1918,Hedauville,"[2.56767, 50.04584]",0600PM,person,Second Lieutenant W Remington,"{""first""=>[""W""], ""surname""=>[""Remington""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+45,AWD000242z,diary,471,6,1918-03-30 18:00:00 UTC,30 Mar 1918,Hedauville,"[2.56767, 50.04584]",0600PM,person,Lieutenant C H Bird,"{""first""=>[""C H""], ""surname""=>[""Bird""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+46,AWD000242z,diary,471,6,1918-03-30 18:00:00 UTC,30 Mar 1918,Hedauville,"[2.56767, 50.04584]",0600PM,person,Second Lieutenant R W Winkworth,"{""first""=>[""R W""], ""surname""=>[""Winkworth""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+47,AWD000242z,diary,471,2,1918-03-25 00:00:00 UTC,25 Mar 1918,Hedauville,"[2.56767, 50.04584]","",diaryDate,25 Mar 1918,"{""day""=>[""25""], ""month""=>[""Mar""], ""year""=>[""1918""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+48,AWD000242z,diary,471,2,1918-03-28 00:00:00 UTC,28 Mar 1918,Hedauville,"[2.56767, 50.04584]","",diaryDate,28 Mar 1918,"{""day""=>[""28""], ""month""=>[""Mar""], ""year""=>[""1918""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+49,AWD000242z,diary,471,5,1918-03-28 00:00:00 UTC,28 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,"Second Lieutenant D R NYHAN ??, Nyhen, Nyhew, Nyren, Pyher","{""first""=>[""D R""], ""surname""=>[""NYHAN ??"", ""Nyhen"", ""Nyhew"", ""Nyren"", ""Pyher""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+50,AWD000242z,diary,471,6,1918-03-28 00:00:00 UTC,28 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Second Lieutenant R W G Hawes,"{""first""=>[""R W G""], ""surname""=>[""Hawes""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+51,AWD000242z,diary,471,6,1918-03-28 00:00:00 UTC,28 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Second Lieutenant W Neate,"{""first""=>[""W""], ""surname""=>[""Neate""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+54,AWD000242z,diary,471,5,1918-03-28 00:00:00 UTC,28 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Second Lieutenant W J Coppard,"{""first""=>[""W J""], ""surname""=>[""Coppard""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+56,AWD000242z,diary,471,6,1918-03-28 00:00:00 UTC,28 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Second Lieutenant E G Russell,"{""first""=>[""E G""], ""surname""=>[""Russell""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+57,AWD000242z,diary,471,6,1918-03-28 00:00:00 UTC,28 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Second Lieutenant I C Lambert,"{""first""=>[""I C""], ""surname""=>[""Lambert""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+59,AWD000242z,diary,471,3,1918-03-25 00:00:00 UTC,25 Mar 1918,Hedauville,"[2.56767, 50.04584]","",diaryDate,25 Mar 1918,"{""day""=>[""25""], ""month""=>[""Mar""], ""year""=>[""1918""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+60,AWD000242z,diary,471,2,1918-03-25 00:00:00 UTC,25 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,"Second Lieutenant W B,W S COURTNEY ??, Courtney","{""first""=>[""W B"", ""W S""], ""surname""=>[""COURTNEY ??"", ""Courtney""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+61,AWD000242z,diary,471,6,1918-03-25 00:00:00 UTC,25 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Second Lieutenant J Fair,"{""first""=>[""J""], ""surname""=>[""Fair""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+63,AWD000242z,diary,471,4,1918-03-25 00:00:00 UTC,25 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Second Lieutenant W S Coventry,"{""first""=>[""W S""], ""surname""=>[""Coventry""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+1,AWD0002452,diary,472,2,1918-03-30 00:00:00 UTC,30 Mar 1918,Hedauville,"[2.56767, 50.04584]","",diaryDate,30 Mar 1918,"{""day""=>[""30""], ""month""=>[""Mar""], ""year""=>[""1918""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+2,AWD0002452,diary,472,2,1918-03-30 00:00:00 UTC,30 Mar 1918,Hedauville,"[2.56767, 50.04584]","",casualties,"killed: 19, wounded: 11",{},3013597,Hédauville,"[2.56767, 50.04584]"
+3,AWD0002452,diary,472,6,1918-03-30 00:00:00 UTC,30 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Sergeant C Latham,"{""first""=>[""C""], ""surname""=>[""Latham""], ""rank""=>[""Sergeant""], ""number""=>[""K/506""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+4,AWD0002452,diary,472,6,1918-03-30 00:00:00 UTC,30 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private F Gould,"{""first""=>[""F""], ""surname""=>[""Gould""], ""rank""=>[""Private""], ""number""=>[""51194""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+5,AWD0002452,diary,472,6,1918-03-30 00:00:00 UTC,30 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Sergeant C Rendell,"{""first""=>[""C""], ""surname""=>[""Rendell""], ""rank""=>[""Sergeant""], ""number""=>[""19966""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+6,AWD0002452,diary,472,6,1918-03-30 00:00:00 UTC,30 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private H Downs,"{""first""=>[""H""], ""surname""=>[""Downs""], ""rank""=>[""Private""], ""number""=>[""G/45""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+7,AWD0002452,diary,472,6,1918-03-30 00:00:00 UTC,30 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Corporal W Glew,"{""first""=>[""W""], ""surname""=>[""Glew""], ""rank""=>[""Corporal""], ""number""=>[""3497""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+8,AWD0002452,diary,472,6,1918-03-30 00:00:00 UTC,30 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private C Camp,"{""first""=>[""C""], ""surname""=>[""Camp""], ""rank""=>[""Private""], ""number""=>[""68860""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+10,AWD0002452,diary,472,5,1918-03-30 00:00:00 UTC,30 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private H C Cullington,"{""first""=>[""H C""], ""surname""=>[""Cullington""], ""rank""=>[""Private""], ""number""=>[""58985""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+12,AWD0002452,diary,472,5,1918-03-30 00:00:00 UTC,30 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private H Guyer,"{""first""=>[""H""], ""surname""=>[""Guyer""], ""rank""=>[""Private""], ""number""=>[""68640""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+14,AWD0002452,diary,472,6,1918-03-30 00:00:00 UTC,30 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Sergeant W H R Piller,"{""first""=>[""W H R""], ""surname""=>[""Piller""], ""rank""=>[""Sergeant""], ""number""=>[""51939""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+15,AWD0002452,diary,472,6,1918-03-30 00:00:00 UTC,30 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private J Pope,"{""first""=>[""J""], ""surname""=>[""Pope""], ""rank""=>[""Private""], ""number""=>[""5083""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+16,AWD0002452,diary,472,6,1918-03-30 00:00:00 UTC,30 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private W Thomas,"{""first""=>[""W""], ""surname""=>[""Thomas""], ""rank""=>[""Private""], ""number""=>[""21270""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+17,AWD0002452,diary,472,6,1918-03-30 00:00:00 UTC,30 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Lance Sergeant I Peek,"{""first""=>[""I""], ""surname""=>[""Peek""], ""rank""=>[""Lance Sergeant""], ""number""=>[""3362""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+18,AWD0002452,diary,472,6,1918-03-30 00:00:00 UTC,30 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private C Coe,"{""first""=>[""C""], ""surname""=>[""Coe""], ""rank""=>[""Private""], ""number""=>[""68694""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+19,AWD0002452,diary,472,6,1918-03-30 00:00:00 UTC,30 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Sergeant P Cokeley,"{""first""=>[""P""], ""surname""=>[""Cokeley""], ""rank""=>[""Sergeant""], ""number""=>[""2376""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+20,AWD0002452,diary,472,6,1918-03-30 00:00:00 UTC,30 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private H Brightman,"{""first""=>[""H""], ""surname""=>[""Brightman""], ""rank""=>[""Private""], ""number""=>[""60786""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+21,AWD0002452,diary,472,6,1918-03-30 00:00:00 UTC,30 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Sergeant L Longden,"{""first""=>[""L""], ""surname""=>[""Longden""], ""rank""=>[""Sergeant""], ""number""=>[""24850""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+22,AWD0002452,diary,472,6,1918-03-30 00:00:00 UTC,30 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private H Morrell,"{""first""=>[""H""], ""surname""=>[""Morrell""], ""rank""=>[""Private""], ""number""=>[""9571""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+23,AWD0002452,diary,472,4,1918-03-30 00:00:00 UTC,30 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Company Sergeant Major A Arrowsmith,"{""first""=>[""A""], ""surname""=>[""Arrowsmith""], ""rank""=>[""Company Sergeant Major""], ""number""=>[""SP/2754""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+26,AWD0002452,diary,472,6,1918-03-30 00:00:00 UTC,30 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private W Cunningham,"{""first""=>[""W""], ""surname""=>[""Cunningham""], ""rank""=>[""Private""], ""number""=>[""68843""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+27,AWD0002452,diary,472,6,1918-03-30 00:00:00 UTC,30 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Sergeant W Carner,"{""first""=>[""W""], ""surname""=>[""Carner""], ""rank""=>[""Sergeant""], ""number""=>[""51085""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+28,AWD0002452,diary,472,6,1918-03-30 00:00:00 UTC,30 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,"Private S H,I H Wilson","{""first""=>[""S H"", ""I H""], ""surname""=>[""Wilson""], ""rank""=>[""Private""], ""number""=>[""52094""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+29,AWD0002452,diary,472,5,1918-03-30 00:00:00 UTC,30 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Sergeant J Berryman,"{""first""=>[""J""], ""surname""=>[""Berryman""], ""rank""=>[""Sergeant""], ""number""=>[""47404""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+30,AWD0002452,diary,472,2,1918-03-30 00:00:00 UTC,30 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,"Sergeant,Corporal J,J F ","{""first""=>[""J"", ""J F""], ""surname""=>[""""], ""rank""=>[""Sergeant"", ""Corporal""], ""number""=>[""47404"", ""61151""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+31,AWD0002452,diary,472,6,1918-03-30 00:00:00 UTC,30 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private H Brander,"{""first""=>[""H""], ""surname""=>[""Brander""], ""rank""=>[""Private""], ""number""=>[""10300""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+32,AWD0002452,diary,472,5,1918-03-30 00:00:00 UTC,30 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Corporal J F Weston,"{""first""=>[""J F""], ""surname""=>[""Weston""], ""rank""=>[""Corporal""], ""number""=>[""61151""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+33,AWD0002452,diary,472,5,1918-03-30 00:00:00 UTC,30 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private W J Philcox,"{""first""=>[""W J""], ""surname""=>[""Philcox""], ""rank""=>[""Private""], ""number""=>[""52096""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+34,AWD0002452,diary,472,6,1918-03-30 00:00:00 UTC,30 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Corporal A B Hyde,"{""first""=>[""A B""], ""surname""=>[""Hyde""], ""rank""=>[""Corporal""], ""number""=>[""58788""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+36,AWD0002452,diary,472,6,1918-03-30 00:00:00 UTC,30 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private C Payne,"{""first""=>[""C""], ""surname""=>[""Payne""], ""rank""=>[""Private""], ""number""=>[""52095""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+37,AWD0002452,diary,472,6,1918-03-30 00:00:00 UTC,30 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Corporal T E Isaacs,"{""first""=>[""T E""], ""surname""=>[""Isaacs""], ""rank""=>[""Corporal""], ""number""=>[""2970""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+38,AWD0002452,diary,472,6,1918-03-30 00:00:00 UTC,30 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private W Gillett,"{""first""=>[""W""], ""surname""=>[""Gillett""], ""rank""=>[""Private""], ""number""=>[""9635""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+39,AWD0002452,diary,472,6,1918-03-30 00:00:00 UTC,30 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Lance Corporal H J Thomas,"{""first""=>[""H J""], ""surname""=>[""Thomas""], ""rank""=>[""Lance Corporal""], ""number""=>[""K/847""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+2,AWD000242x,diary,473,2,1918-03-30 00:00:00 UTC,30 Mar 1918,Hedauville,"[2.56767, 50.04584]","",casualties,wounded: 32,{},3013597,Hédauville,"[2.56767, 50.04584]"
+4,AWD000242x,diary,473,2,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",diaryDate,26 Mar 1918,"{""day""=>[""26""], ""month""=>[""Mar""], ""year""=>[""1918""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+5,AWD000242x,diary,473,6,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Lance Corporal A Joyce,"{""first""=>[""A""], ""surname""=>[""Joyce""], ""rank""=>[""Lance Corporal""], ""number""=>[""61198""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+6,AWD000242x,diary,473,5,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private G Roberts,"{""first""=>[""G""], ""surname""=>[""Roberts""], ""rank""=>[""Private""], ""number""=>[""68847""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+7,AWD000242x,diary,473,6,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Lance Corporal W Final,"{""first""=>[""W""], ""surname""=>[""Final""], ""rank""=>[""Lance Corporal""], ""number""=>[""11547""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+8,AWD000242x,diary,473,5,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private E Martin,"{""first""=>[""E""], ""surname""=>[""Martin""], ""rank""=>[""Private""], ""number""=>[""57722""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+9,AWD000242x,diary,473,6,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Lance Corporal J Simpson,"{""first""=>[""J""], ""surname""=>[""Simpson""], ""rank""=>[""Lance Corporal""], ""number""=>[""781665""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+10,AWD000242x,diary,473,5,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private F Eustace,"{""first""=>[""F""], ""surname""=>[""Eustace""], ""rank""=>[""Private""], ""number""=>[""24572""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+11,AWD000242x,diary,473,6,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Lance Corporal A Beard,"{""first""=>[""A""], ""surname""=>[""Beard""], ""rank""=>[""Lance Corporal""], ""number""=>[""G/9601""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+12,AWD000242x,diary,473,5,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private H L Shearing,"{""first""=>[""H L""], ""surname""=>[""Shearing""], ""rank""=>[""Private""], ""number""=>[""68872""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+13,AWD000242x,diary,473,5,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private J Wanderstien,"{""first""=>[""J""], ""surname""=>[""Wanderstien""], ""rank""=>[""Private""], ""number""=>[""47059""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+14,AWD000242x,diary,473,6,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Lance Corporal C Howarth,"{""first""=>[""C""], ""surname""=>[""Howarth""], ""rank""=>[""Lance Corporal""], ""number""=>[""47442""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+15,AWD000242x,diary,473,6,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Lance Corporal W Ward,"{""first""=>[""W""], ""surname""=>[""Ward""], ""rank""=>[""Lance Corporal""], ""number""=>[""61190""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+16,AWD000242x,diary,473,5,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private A C Abbott,"{""first""=>[""A C""], ""surname""=>[""Abbott""], ""rank""=>[""Private""], ""number""=>[""68665""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+17,AWD000242x,diary,473,6,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Lance Corporal R Holland,"{""first""=>[""R""], ""surname""=>[""Holland""], ""rank""=>[""Lance Corporal""], ""number""=>[""60861""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+18,AWD000242x,diary,473,5,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private A Farnell,"{""first""=>[""A""], ""surname""=>[""Farnell""], ""rank""=>[""Private""], ""number""=>[""7360""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+19,AWD000242x,diary,473,5,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private W Barker,"{""first""=>[""W""], ""surname""=>[""Barker""], ""rank""=>[""Private""], ""number""=>[""68675""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+20,AWD000242x,diary,473,5,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private H V Gapes,"{""first""=>[""H V""], ""surname""=>[""Gapes""], ""rank""=>[""Private""], ""number""=>[""22323""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+22,AWD000242x,diary,473,5,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private J Hardman,"{""first""=>[""J""], ""surname""=>[""Hardman""], ""rank""=>[""Private""], ""number""=>[""28851""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+24,AWD000242x,diary,473,4,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,"Private A LIFFENDELL, Uffindell, Uffendell, Wofendell","{""first""=>[""A""], ""surname""=>[""LIFFENDELL"", ""Uffindell"", ""Uffendell"", ""Wofendell""], ""rank""=>[""Private""], ""number""=>[""61227""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+26,AWD000242x,diary,473,5,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,"Private L R,P R,T R,S R,I R Last","{""first""=>[""L R"", ""P R"", ""T R"", ""S R"", ""I R""], ""surname""=>[""Last""], ""rank""=>[""Private""], ""number""=>[""275270""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+27,AWD000242x,diary,473,5,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private H P Reddick,"{""first""=>[""H P""], ""surname""=>[""Reddick""], ""rank""=>[""Private""], ""number""=>[""27556""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+29,AWD000242x,diary,473,6,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private J H Eales,"{""first""=>[""J H""], ""surname""=>[""Eales""], ""rank""=>[""Private""], ""number""=>[""58856""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+30,AWD000242x,diary,473,5,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private W A Hoyle,"{""first""=>[""W A""], ""surname""=>[""Hoyle""], ""rank""=>[""Private""], ""number""=>[""50214""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+31,AWD000242x,diary,473,6,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private F Buston,"{""first""=>[""F""], ""surname""=>[""Buston""], ""rank""=>[""Private""], ""number""=>[""50911""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+32,AWD000242x,diary,473,5,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private W Maynard,"{""first""=>[""W""], ""surname""=>[""Maynard""], ""rank""=>[""Private""], ""number""=>[""68698""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+33,AWD000242x,diary,473,5,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private H Fairhall,"{""first""=>[""H""], ""surname""=>[""Fairhall""], ""rank""=>[""Private""], ""number""=>[""27540""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+34,AWD000242x,diary,473,12,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,"Private A,T Thompson, Howson","{""first""=>[""A"", ""T""], ""surname""=>[""Thompson"", ""Howson""], ""rank""=>[""Private""], ""number""=>[""51145""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+35,AWD000242x,diary,473,5,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private A Meggs,"{""first""=>[""A""], ""surname""=>[""Meggs""], ""rank""=>[""Private""], ""number""=>[""68648""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+36,AWD000242x,diary,473,5,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private W B Walsh,"{""first""=>[""W B""], ""surname""=>[""Walsh""], ""rank""=>[""Private""], ""number""=>[""SP/2281""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+37,AWD000242x,diary,473,6,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private W J Cocks,"{""first""=>[""W J""], ""surname""=>[""Cocks""], ""rank""=>[""Private""], ""number""=>[""52480""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+38,AWD000242x,diary,473,5,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,"Private A DAVENY, Daneny, Davey, Davery, Daveny","{""first""=>[""A""], ""surname""=>[""DAVENY"", ""Daneny"", ""Davey"", ""Davery"", ""Daveny""], ""rank""=>[""Private""], ""number""=>[""47309""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+39,AWD000242x,diary,473,6,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private G Hillman,"{""first""=>[""G""], ""surname""=>[""Hillman""], ""rank""=>[""Private""], ""number""=>[""75169""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+2,AWD000243i,diary,474,4,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private  Hill,"{""first""=>[""""], ""surname""=>[""Hill""], ""rank""=>[""Private""], ""number""=>[""47527""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+3,AWD000243i,diary,474,3,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private C Wright,"{""first""=>[""C""], ""surname""=>[""Wright""], ""rank""=>[""Private""], ""number""=>[""43421""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+5,AWD000243i,diary,474,3,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private A Bentley,"{""first""=>[""A""], ""surname""=>[""Bentley""], ""rank""=>[""Private""], ""number""=>[""5095""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+6,AWD000243i,diary,474,4,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private G C Jolly,"{""first""=>[""G C""], ""surname""=>[""Jolly""], ""rank""=>[""Private""], ""number""=>[""2948""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+7,AWD000243i,diary,474,3,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,"Private C RINKER ?, Rinker, Kimber","{""first""=>[""C""], ""surname""=>[""RINKER ?"", ""Rinker"", ""Kimber""], ""rank""=>[""Private""], ""number""=>[""9517""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+8,AWD000243i,diary,474,3,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private H Sharp,"{""first""=>[""H""], ""surname""=>[""Sharp""], ""rank""=>[""Private""], ""number""=>[""51135""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+9,AWD000243i,diary,474,4,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private E King,"{""first""=>[""E""], ""surname""=>[""King""], ""rank""=>[""Private""], ""number""=>[""51217""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+10,AWD000243i,diary,474,3,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,"Private C HORSELIP, Hauslip, Hanslip","{""first""=>[""C""], ""surname""=>[""HORSELIP"", ""Hauslip"", ""Hanslip""], ""rank""=>[""Private""], ""number""=>[""51118""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+11,AWD000243i,diary,474,4,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private W J Lock,"{""first""=>[""W J""], ""surname""=>[""Lock""], ""rank""=>[""Private""], ""number""=>[""35472""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+12,AWD000243i,diary,474,3,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private E J Hill,"{""first""=>[""E J""], ""surname""=>[""Hill""], ""rank""=>[""Private""], ""number""=>[""25590""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+13,AWD000243i,diary,474,4,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private A Shaw,"{""first""=>[""A""], ""surname""=>[""Shaw""], ""rank""=>[""Private""], ""number""=>[""68905""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+14,AWD000243i,diary,474,3,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private J H Hewson,"{""first""=>[""J H""], ""surname""=>[""Hewson""], ""rank""=>[""Private""], ""number""=>[""72447""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+15,AWD000243i,diary,474,4,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private J Woodward,"{""first""=>[""J""], ""surname""=>[""Woodward""], ""rank""=>[""Private""], ""number""=>[""51204""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+16,AWD000243i,diary,474,3,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private W E Cox,"{""first""=>[""W E""], ""surname""=>[""Cox""], ""rank""=>[""Private""], ""number""=>[""12899""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+17,AWD000243i,diary,474,4,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private J Robinson,"{""first""=>[""J""], ""surname""=>[""Robinson""], ""rank""=>[""Private""], ""number""=>[""K/1167""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+18,AWD000243i,diary,474,3,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private F Raymond,"{""first""=>[""F""], ""surname""=>[""Raymond""], ""rank""=>[""Private""], ""number""=>[""59502""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+19,AWD000243i,diary,474,3,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,"Private B CHEMMELL, Chemnell, Chemmell","{""first""=>[""B""], ""surname""=>[""CHEMMELL"", ""Chemnell"", ""Chemmell""], ""rank""=>[""Private""], ""number""=>[""48462""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+20,AWD000243i,diary,474,3,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private G Howard,"{""first""=>[""G""], ""surname""=>[""Howard""], ""rank""=>[""Private""], ""number""=>[""51121""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+21,AWD000243i,diary,474,4,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private T Adamson,"{""first""=>[""T""], ""surname""=>[""Adamson""], ""rank""=>[""Private""], ""number""=>[""58842""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+22,AWD000243i,diary,474,3,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private H Hampson,"{""first""=>[""H""], ""surname""=>[""Hampson""], ""rank""=>[""Private""], ""number""=>[""1917""], ""reason""=>[""departed_posted"", ""other"", ""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+23,AWD000243i,diary,474,4,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private C Edmonds,"{""first""=>[""C""], ""surname""=>[""Edmonds""], ""rank""=>[""Private""], ""number""=>[""29840""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+24,AWD000243i,diary,474,3,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private D Johnstone,"{""first""=>[""D""], ""surname""=>[""Johnstone""], ""rank""=>[""Private""], ""number""=>[""75181""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+25,AWD000243i,diary,474,4,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private A Eldridge,"{""first""=>[""A""], ""surname""=>[""Eldridge""], ""rank""=>[""Private""], ""number""=>[""229412""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+26,AWD000243i,diary,474,3,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,"Private F CAULFIELD, Canfield, Cranfield","{""first""=>[""F""], ""surname""=>[""CAULFIELD"", ""Canfield"", ""Cranfield""], ""rank""=>[""Private""], ""number""=>[""47306""], ""reason""=>[""departed_posted"", ""other"", ""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+27,AWD000243i,diary,474,3,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private F Barlow,"{""first""=>[""F""], ""surname""=>[""Barlow""], ""rank""=>[""Private""], ""number""=>[""47694""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+28,AWD000243i,diary,474,3,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Company Sergeant Major J Lawman,"{""first""=>[""J""], ""surname""=>[""Lawman""], ""rank""=>[""Company Sergeant Major""], ""number""=>[""L/8523""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+29,AWD000243i,diary,474,3,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Lance Corporal C Pointer,"{""first""=>[""C""], ""surname""=>[""Pointer""], ""rank""=>[""Lance Corporal""], ""number""=>[""16901""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+30,AWD000243i,diary,474,3,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private F Chandler,"{""first""=>[""F""], ""surname""=>[""Chandler""], ""rank""=>[""Private""], ""number""=>[""K/750""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+31,AWD000243i,diary,474,2,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,"Private A J STEWARD, Steward","{""first""=>[""A J""], ""surname""=>[""STEWARD"", ""Steward""], ""rank""=>[""Private""], ""number""=>[""51141""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+32,AWD000243i,diary,474,3,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private T Fitzgibbons,"{""first""=>[""T""], ""surname""=>[""Fitzgibbons""], ""rank""=>[""Private""], ""number""=>[""K/839""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+34,AWD000243i,diary,474,2,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,"Private H BOLTING, Botting","{""first""=>[""H""], ""surname""=>[""BOLTING"", ""Botting""], ""rank""=>[""Private""], ""number""=>[""27534""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+35,AWD000243i,diary,474,2,1918-03-26 00:00:00 UTC,26 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,"Private J Livesey, LINESEY","{""first""=>[""J""], ""surname""=>[""Livesey"", ""LINESEY""], ""rank""=>[""Private""], ""number""=>[""75185""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+3,AWD000245b,diary,475,2,1918-03-24 00:00:00 UTC,24 Mar 1918,Hedauville,"[2.56767, 50.04584]","",diaryDate,24 Mar 1918,"{""day""=>[""24""], ""month""=>[""Mar""], ""year""=>[""1918""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+4,AWD000245b,diary,475,5,1918-03-24 00:00:00 UTC,24 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,"Private S Weeans, Weeachs, Weevens, Wearns, Weevins","{""first""=>[""S""], ""surname""=>[""Weeans"", ""Weeachs"", ""Weevens"", ""Wearns"", ""Weevins""], ""rank""=>[""Private""], ""number""=>[""2544""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+6,AWD000245b,diary,475,6,1918-03-24 00:00:00 UTC,24 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private A A Mills,"{""first""=>[""A A""], ""surname""=>[""Mills""], ""rank""=>[""Private""], ""number""=>[""275274""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+7,AWD000245b,diary,475,2,1918-03-25 00:00:00 UTC,25 Mar 1918,Hedauville,"[2.56767, 50.04584]","",diaryDate,25 Mar 1918,"{""day""=>[""25""], ""month""=>[""Mar""], ""year""=>[""1918""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+8,AWD000245b,diary,475,3,1918-03-25 00:00:00 UTC,25 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private  McManus,"{""first""=>[""""], ""surname""=>[""McManus""], ""rank""=>[""Private""], ""number""=>[""68851""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+10,AWD000245b,diary,475,5,1918-03-25 00:00:00 UTC,25 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,"Private T C Colum, Colvin, Collins, Bolvin, Colwin","{""first""=>[""T C""], ""surname""=>[""Colum"", ""Colvin"", ""Collins"", ""Bolvin"", ""Colwin""], ""rank""=>[""Private""], ""number""=>[""18525""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+14,AWD000245b,diary,475,6,1918-03-25 00:00:00 UTC,25 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private R Dickenson,"{""first""=>[""R""], ""surname""=>[""Dickenson""], ""rank""=>[""Private""], ""number""=>[""51110""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+15,AWD000245b,diary,475,5,1918-03-25 00:00:00 UTC,25 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private L North,"{""first""=>[""L""], ""surname""=>[""North""], ""rank""=>[""Private""], ""number""=>[""22400""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+18,AWD000245b,diary,475,2,1918-03-25 00:00:00 UTC,25 Mar 1918,Hedauville,"[2.56767, 50.04584]","",diaryDate,25 Mar 1918,"{""day""=>[""25""], ""month""=>[""Mar""], ""year""=>[""1918""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+20,AWD000245b,diary,475,5,1918-03-25 00:00:00 UTC,25 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private E Martin,"{""first""=>[""E""], ""surname""=>[""Martin""], ""rank""=>[""Private""], ""number""=>[""16536""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+21,AWD000245b,diary,475,6,1918-03-25 00:00:00 UTC,25 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private G Papworth,"{""first""=>[""G""], ""surname""=>[""Papworth""], ""rank""=>[""Private""], ""number""=>[""6876""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+22,AWD000245b,diary,475,6,1918-03-25 00:00:00 UTC,25 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private H Ridgwell,"{""first""=>[""H""], ""surname""=>[""Ridgwell""], ""rank""=>[""Private""], ""number""=>[""3527""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+23,AWD000245b,diary,475,6,1918-03-25 00:00:00 UTC,25 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Lance Sergeant C H Osborne,"{""first""=>[""C H""], ""surname""=>[""Osborne""], ""rank""=>[""Lance Sergeant""], ""number""=>[""24970""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+24,AWD000245b,diary,475,3,1918-03-25 00:00:00 UTC,25 Mar 1918,Hedauville,"[2.56767, 50.04584]","",diaryDate,25 Mar 1918,"{""day""=>[""25""], ""month""=>[""Mar""], ""year""=>[""1918""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+25,AWD000245b,diary,475,6,1918-03-25 00:00:00 UTC,25 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Corporal A S Death,"{""first""=>[""A S""], ""surname""=>[""Death""], ""rank""=>[""Corporal""], ""number""=>[""24083""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+26,AWD000245b,diary,475,6,1918-03-25 00:00:00 UTC,25 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private J Savage,"{""first""=>[""J""], ""surname""=>[""Savage""], ""rank""=>[""Private""], ""number""=>[""10498""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+27,AWD000245b,diary,475,3,1918-03-25 00:00:00 UTC,25 Mar 1918,Hedauville,"[2.56767, 50.04584]","",diaryDate,25 Mar 1918,"{""day""=>[""25""], ""month""=>[""Mar""], ""year""=>[""1918""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+28,AWD000245b,diary,475,6,1918-03-25 00:00:00 UTC,25 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Lance Corporal W Ashley,"{""first""=>[""W""], ""surname""=>[""Ashley""], ""rank""=>[""Lance Corporal""], ""number""=>[""47698""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+29,AWD000245b,diary,475,5,1918-03-25 00:00:00 UTC,25 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private W Simonds,"{""first""=>[""W""], ""surname""=>[""Simonds""], ""rank""=>[""Private""], ""number""=>[""6046""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+31,AWD000245b,diary,475,6,1918-03-25 00:00:00 UTC,25 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private W E Pocock,"{""first""=>[""W E""], ""surname""=>[""Pocock""], ""rank""=>[""Private""], ""number""=>[""25127""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+32,AWD000245b,diary,475,6,1918-03-25 00:00:00 UTC,25 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private J F Stone,"{""first""=>[""J F""], ""surname""=>[""Stone""], ""rank""=>[""Private""], ""number""=>[""K/1479""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+33,AWD000245b,diary,475,4,1918-03-25 00:00:00 UTC,25 Mar 1918,Hedauville,"[2.56767, 50.04584]","",diaryDate,25 Mar 1918,"{""day""=>[""25""], ""month""=>[""Mar""], ""year""=>[""1918""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+34,AWD000245b,diary,475,6,1918-03-25 00:00:00 UTC,25 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private A Atkins,"{""first""=>[""A""], ""surname""=>[""Atkins""], ""rank""=>[""Private""], ""number""=>[""47308""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+35,AWD000245b,diary,475,5,1918-03-25 00:00:00 UTC,25 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private J Harris,"{""first""=>[""J""], ""surname""=>[""Harris""], ""rank""=>[""Private""], ""number""=>[""54825""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+36,AWD000245b,diary,475,6,1918-03-25 00:00:00 UTC,25 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private A Baldwin,"{""first""=>[""A""], ""surname""=>[""Baldwin""], ""rank""=>[""Private""], ""number""=>[""51215""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+37,AWD000245b,diary,475,5,1918-03-25 00:00:00 UTC,25 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private C Fuller,"{""first""=>[""C""], ""surname""=>[""Fuller""], ""rank""=>[""Private""], ""number""=>[""51193""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+40,AWD000245b,diary,475,2,1918-03-25 00:00:00 UTC,25 Mar 1918,Hedauville,"[2.56767, 50.04584]","",diaryDate,25 Mar 1918,"{""day""=>[""25""], ""month""=>[""Mar""], ""year""=>[""1918""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+41,AWD000245b,diary,475,5,1918-03-25 00:00:00 UTC,25 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private E Caws,"{""first""=>[""E""], ""surname""=>[""Caws""], ""rank""=>[""Private""], ""number""=>[""22040""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+42,AWD000245b,diary,475,6,1918-03-25 00:00:00 UTC,25 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private A C Holmes,"{""first""=>[""A C""], ""surname""=>[""Holmes""], ""rank""=>[""Private""], ""number""=>[""51194""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+46,AWD000245b,diary,475,4,1918-03-25 00:00:00 UTC,25 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private J Cheme,"{""first""=>[""J""], ""surname""=>[""Cheme""], ""rank""=>[""Private""], ""number""=>[""1974""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+47,AWD000245b,diary,475,6,1918-03-25 00:00:00 UTC,25 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private H Harper,"{""first""=>[""H""], ""surname""=>[""Harper""], ""rank""=>[""Private""], ""number""=>[""75172""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+48,AWD000245b,diary,475,4,1918-03-25 00:00:00 UTC,25 Mar 1918,Hedauville,"[2.56767, 50.04584]","",diaryDate,25 Mar 1918,"{""day""=>[""25""], ""month""=>[""Mar""], ""year""=>[""1918""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+49,AWD000245b,diary,475,5,1918-03-25 00:00:00 UTC,25 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private C Dale,"{""first""=>[""C""], ""surname""=>[""Dale""], ""rank""=>[""Private""], ""number""=>[""22542""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+50,AWD000245b,diary,475,5,1918-03-25 00:00:00 UTC,25 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private S Price,"{""first""=>[""S""], ""surname""=>[""Price""], ""rank""=>[""Private""], ""number""=>[""228853""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+52,AWD000245b,diary,475,3,1918-03-25 00:00:00 UTC,25 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,"Private I,S,E J Price","{""first""=>[""I"", ""S"", ""E J""], ""surname""=>[""Price""], ""rank""=>[""Private""], ""number""=>[""228853""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+54,AWD000245b,diary,475,6,1918-03-25 00:00:00 UTC,25 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private R Grant,"{""first""=>[""R""], ""surname""=>[""Grant""], ""rank""=>[""Private""], ""number""=>[""47546""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+55,AWD000245b,diary,475,4,1918-03-25 00:00:00 UTC,25 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private E J Rose,"{""first""=>[""E J""], ""surname""=>[""Rose""], ""rank""=>[""Private""], ""number""=>[""K/1067""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+56,AWD000245b,diary,475,3,1918-03-25 00:00:00 UTC,25 Mar 1918,Hedauville,"[2.56767, 50.04584]","",diaryDate,25 Mar 1918,"{""day""=>[""25""], ""month""=>[""Mar""], ""year""=>[""1918""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+57,AWD000245b,diary,475,6,1918-03-25 00:00:00 UTC,25 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private W Gilbert,"{""first""=>[""W""], ""surname""=>[""Gilbert""], ""rank""=>[""Private""], ""number""=>[""8266""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+58,AWD000245b,diary,475,6,1918-03-25 00:00:00 UTC,25 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private H Bird,"{""first""=>[""H""], ""surname""=>[""Bird""], ""rank""=>[""Private""], ""number""=>[""47464""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+59,AWD000245b,diary,475,2,1918-03-25 00:00:00 UTC,25 Mar 1918,Hedauville,"[2.56767, 50.04584]","",diaryDate,25 Mar 1918,"{""day""=>[""25""], ""month""=>[""Mar""], ""year""=>[""1918""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+60,AWD000245b,diary,475,6,1918-03-25 00:00:00 UTC,25 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private E R Hill,"{""first""=>[""E R""], ""surname""=>[""Hill""], ""rank""=>[""Private""], ""number""=>[""K/992""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+61,AWD000245b,diary,475,6,1918-03-25 00:00:00 UTC,25 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private J Hoyland,"{""first""=>[""J""], ""surname""=>[""Hoyland""], ""rank""=>[""Private""], ""number""=>[""75170""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+4,AWD000242t,diary,476,7,1918-03-25 00:00:00 UTC,25 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private W Hall,"{""first""=>[""W""], ""surname""=>[""Hall""], ""rank""=>[""Private""], ""number""=>[""75174""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+5,AWD000242t,diary,476,6,1918-03-25 00:00:00 UTC,25 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private F Milton,"{""first""=>[""F""], ""surname""=>[""Milton""], ""rank""=>[""Private""], ""number""=>[""75190""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+6,AWD000242t,diary,476,2,1918-03-25 00:00:00 UTC,25 Mar 1918,Hedauville,"[2.56767, 50.04584]","",diaryDate,25 Mar 1918,"{""day""=>[""25""], ""month""=>[""Mar""], ""year""=>[""1918""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+7,AWD000242t,diary,476,7,1918-03-25 00:00:00 UTC,25 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private A A Lewis,"{""first""=>[""A A""], ""surname""=>[""Lewis""], ""rank""=>[""Private""], ""number""=>[""48442""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+9,AWD000242t,diary,476,4,1918-03-25 00:00:00 UTC,25 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private A Miller,"{""first""=>[""A""], ""surname""=>[""Miller""], ""rank""=>[""Private""], ""number""=>[""75192""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+10,AWD000242t,diary,476,5,1918-03-25 00:00:00 UTC,25 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private J Morris,"{""first""=>[""J""], ""surname""=>[""Morris""], ""rank""=>[""Private""], ""number""=>[""75191""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+11,AWD000242t,diary,476,6,1918-03-25 00:00:00 UTC,25 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Lance Corporal J Astbury,"{""first""=>[""J""], ""surname""=>[""Astbury""], ""rank""=>[""Lance Corporal""], ""number""=>[""11435""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+12,AWD000242t,diary,476,2,1918-03-25 00:00:00 UTC,25 Mar 1918,Hedauville,"[2.56767, 50.04584]","",diaryDate,25 Mar 1918,"{""day""=>[""25""], ""month""=>[""Mar""], ""year""=>[""1918""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+13,AWD000242t,diary,476,6,1918-03-25 00:00:00 UTC,25 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private J Park,"{""first""=>[""J""], ""surname""=>[""Park""], ""rank""=>[""Private""], ""number""=>[""75198""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+14,AWD000242t,diary,476,6,1918-03-25 00:00:00 UTC,25 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private J Fennie,"{""first""=>[""J""], ""surname""=>[""Fennie""], ""rank""=>[""Private""], ""number""=>[""18238""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+16,AWD000242t,diary,476,6,1918-03-25 00:00:00 UTC,25 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private H Williams,"{""first""=>[""H""], ""surname""=>[""Williams""], ""rank""=>[""Private""], ""number""=>[""36819""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+17,AWD000242t,diary,476,6,1918-03-25 00:00:00 UTC,25 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private R McMullen,"{""first""=>[""R""], ""surname""=>[""McMullen""], ""rank""=>[""Private""], ""number""=>[""2825""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+18,AWD000242t,diary,476,6,1918-03-25 00:00:00 UTC,25 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private P B Worley,"{""first""=>[""P B""], ""surname""=>[""Worley""], ""rank""=>[""Private""], ""number""=>[""49337""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+19,AWD000242t,diary,476,6,1918-03-25 00:00:00 UTC,25 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private R Ward,"{""first""=>[""R""], ""surname""=>[""Ward""], ""rank""=>[""Private""], ""number""=>[""1577""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+21,AWD000242t,diary,476,6,1918-03-25 00:00:00 UTC,25 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private A Henderson,"{""first""=>[""A""], ""surname""=>[""Henderson""], ""rank""=>[""Private""], ""number""=>[""19916""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+22,AWD000242t,diary,476,5,1918-03-25 00:00:00 UTC,25 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private E Hobbs,"{""first""=>[""E""], ""surname""=>[""Hobbs""], ""rank""=>[""Private""], ""number""=>[""24063""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+23,AWD000242t,diary,476,2,1918-03-24 00:00:00 UTC,24 Mar 1918,Hedauville,"[2.56767, 50.04584]","",diaryDate,24 Mar 1918,"{""day""=>[""24""], ""month""=>[""Mar""], ""year""=>[""1918""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+24,AWD000242t,diary,476,6,1918-03-24 00:00:00 UTC,24 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private P Stadman,"{""first""=>[""P""], ""surname""=>[""Stadman""], ""rank""=>[""Private""], ""number""=>[""38548""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+25,AWD000242t,diary,476,6,1918-03-24 00:00:00 UTC,24 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Lance Corporal W J Carr,"{""first""=>[""W J""], ""surname""=>[""Carr""], ""rank""=>[""Lance Corporal""], ""number""=>[""49565""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+26,AWD000242t,diary,476,6,1918-03-24 00:00:00 UTC,24 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private J E Baldock,"{""first""=>[""J E""], ""surname""=>[""Baldock""], ""rank""=>[""Private""], ""number""=>[""68672""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+27,AWD000242t,diary,476,2,1918-03-24 00:00:00 UTC,24 Mar 1918,Hedauville,"[2.56767, 50.04584]","",diaryDate,24 Mar 1918,"{""day""=>[""24""], ""month""=>[""Mar""], ""year""=>[""1918""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+28,AWD000242t,diary,476,6,1918-03-24 00:00:00 UTC,24 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private F Pearson,"{""first""=>[""F""], ""surname""=>[""Pearson""], ""rank""=>[""Private""], ""number""=>[""60837""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+29,AWD000242t,diary,476,5,1918-03-24 00:00:00 UTC,24 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private A F Cox,"{""first""=>[""A F""], ""surname""=>[""Cox""], ""rank""=>[""Private""], ""number""=>[""10517""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+31,AWD000242t,diary,476,2,1918-03-24 00:00:00 UTC,24 Mar 1918,Hedauville,"[2.56767, 50.04584]","",diaryDate,24 Mar 1918,"{""day""=>[""24""], ""month""=>[""Mar""], ""year""=>[""1918""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+34,AWD000242t,diary,476,3,1918-03-24 00:00:00 UTC,24 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,"Private H F Frytte, Lytte, Smythe","{""first""=>[""H F""], ""surname""=>[""Frytte"", ""Lytte"", ""Smythe""], ""rank""=>[""Private""], ""number""=>[""61226""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+36,AWD000242t,diary,476,5,1918-03-24 00:00:00 UTC,24 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private G Leach,"{""first""=>[""G""], ""surname""=>[""Leach""], ""rank""=>[""Private""], ""number""=>[""75184""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+37,AWD000242t,diary,476,4,1918-03-24 00:00:00 UTC,24 Mar 1918,Hedauville,"[2.56767, 50.04584]","",diaryDate,24 Mar 1918,"{""day""=>[""24""], ""month""=>[""Mar""], ""year""=>[""1918""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+38,AWD000242t,diary,476,6,1918-03-24 00:00:00 UTC,24 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private J Levy,"{""first""=>[""J""], ""surname""=>[""Levy""], ""rank""=>[""Private""], ""number""=>[""75186""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+40,AWD000242t,diary,476,6,1918-03-24 00:00:00 UTC,24 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private J Nicholson,"{""first""=>[""J""], ""surname""=>[""Nicholson""], ""rank""=>[""Private""], ""number""=>[""75195""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+42,AWD000242t,diary,476,2,1918-03-24 00:00:00 UTC,24 Mar 1918,Hedauville,"[2.56767, 50.04584]","",diaryDate,24 Mar 1918,"{""day""=>[""24""], ""month""=>[""Mar""], ""year""=>[""1918""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+43,AWD000242t,diary,476,3,1918-03-24 00:00:00 UTC,24 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private G Orth,"{""first""=>[""G""], ""surname""=>[""Orth""], ""rank""=>[""Private""], ""number""=>[""75197""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+44,AWD000242t,diary,476,2,1918-03-24 00:00:00 UTC,24 Mar 1918,Hedauville,"[2.56767, 50.04584]","",person,Private G ,"{""first""=>[""G""], ""surname""=>[""""], ""rank""=>[""Private""], ""number""=>[""75197""], ""reason""=>[""joined"", ""other""], ""unit""=>[""""]}",3013597,Hédauville,"[2.56767, 50.04584]"
+2,AWD0002453,report,478,2,,,,[],,title,Narrative of 24th Battn. Royal Fusiliers - 5th Infantry Brigade - 2nd Division during operations 21st March East and West of Bapaume,{},,,
+4,AWD0002453,report,478,2,,,,[],,date,21 Mar 1918,{},,,
+3,AWD000243j,report,479,2,,,,[],,date,24 Mar 1918,{},,,
+2,AWD000244b,report,481,2,,,,[],,date,23 Mar 1918,{},,,
+3,AWD000244b,report,481,6,,,,[],,person,Second Lieutenant  Coppard,"{""first""=>[""""], ""surname""=>[""Coppard""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""""]}",,,
+4,AWD000244b,report,481,6,,,,[],,person,Second Lieutenant  Winkworth,"{""first""=>[""""], ""surname""=>[""Winkworth""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""""]}",,,
+2,AWD000244k,report,482,6,,,,[],,person,Second Lieutenant  Coppard,"{""first""=>[""""], ""surname""=>[""Coppard""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",,,
+4,AWD000244k,report,482,2,,,,[],,person,"Lieutenant  Cobbert, Cobbete","{""first""=>[""""], ""surname""=>[""Cobbert"", ""Cobbete""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+5,AWD000244k,report,482,2,,,,[],,person,Lieutenant  ,"{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""commander"", ""other""], ""unit""=>[""24th Battn. Royal Fusiliers"", """"]}",,,
+1,AWD000242y,report,483,7,,,,[],,date,29 Mar 1918,{},,,
+2,AWD000242y,report,483,3,,,,[],,title,24th Roy Fusiliers - Story of yesterday's fighting,{},,,
+3,AWD000242y,report,483,2,,,,[],,title,24th Royal Fusiliers - Story of yesterday's fighting.,{},,,
+5,AWD000244r,report,484,6,,,,[],,person,Second Lieutenant R W R Hawes,"{""first""=>[""R W R""], ""surname""=>[""Hawes""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""""]}",,,
+6,AWD000244r,report,484,6,,,,[],,person,Second Lieutenant K Lockley,"{""first""=>[""K""], ""surname""=>[""Lockley""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""""]}",,,
+7,AWD000244r,report,484,6,,,,[],,person,Sergeant Major E Rapson,"{""first""=>[""E""], ""surname""=>[""Rapson""], ""rank""=>[""Sergeant Major""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""""]}",,,
+5,AWD000243q,report,485,11,,,,[],,person,Captain R F Collins,"{""first""=>[""R F""], ""surname""=>[""Collins""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""commander"", ""combat""], ""unit""=>[""""]}",,,
+4,AWD000243d,report,486,6,,,,[],,person,Captain  Collins,"{""first""=>[""""], ""surname""=>[""Collins""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other"", ""commander"", ""combat""], ""unit""=>[""""]}",,,
+4,AWD0002437,report,488,5,,,,[],,person,Sergeant  Till,"{""first""=>[""""], ""surname""=>[""Till""], ""rank""=>[""Sergeant""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""""]}",,,
+5,AWD000243w,report,489,6,,,,[],,date,29 Mar 1918,{},,,
+6,AWD000243w,report,489,2,,,,[],,person,Captain  ,"{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other"", ""commander""], ""unit""=>[""""]}",,,
+1,AWD000244z,signals,490,6,,,,[],,date,22 Mar 1918,{},,,
+4,AWD000244z,signals,490,2,,,,[],,time,0250AM,{},,,
+11,AWD000244z,signals,490,2,,,,[],,unit,"52nd LI, 2nd / HLI","{""name""=>[""52nd LI"", ""2nd / HLI""], ""context""=>[""other""]}",,,
+4,AWD000242u,signals,491,2,,,,[],,gridRef,O 16 A 4 2,{},,,
+11,AWD000242u,signals,491,2,,,,[],,time,0255AM,{},,,
+2,AWD000245s,signals,492,6,,,,[],,date,22 Mar 1918,{},,,
+3,AWD000245q,signals,493,4,,,,[],,person,Lieutenant Colonel R Crosse,"{""first""=>[""R""], ""surname""=>[""Crosse""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""commander"", ""other""], ""unit""=>[""""]}",,,
+5,AWD000245q,signals,493,3,,,,[],,gridRef,P 3 a 8 3,{},,,
+6,AWD000245q,signals,493,4,,,,[],,time,0620PM,{},,,
+4,AWD000245p,orders,494,4,,,,[],,date,22 Mar 1918,{},,,
+2,AWD000244q,signals,495,5,,,,[],,unit,"24 RF, 2/H.L.I., 52nd L.I., 52nd LI, 2nd HLI","{""name""=>[""24 RF"", ""2/H.L.I."", ""52nd L.I."", ""52nd LI"", ""2nd HLI""], ""context""=>[""other""]}",,,
+3,AWD000244q,signals,495,2,,,,[],,unit,"5th LTMB, 5th L.T.M.B.","{""name""=>[""5th LTMB"", ""5th L.T.M.B.""], ""context""=>[""other""]}",,,
+7,AWD000244q,signals,495,6,,,,[],,date,22 Mar 1918,{},,,
+8,AWD000244q,signals,495,3,,,,[],,signals,order,{},,,
+12,AWD000244q,signals,495,4,,,,[],,gridRef,K 32 d 8 8,{},,,
+13,AWD000244q,signals,495,4,,,,[],,gridRef,K 26 c 9 1,{},,,
+14,AWD000244q,signals,495,2,,,,[],,unit,5th Bde.,"{""name""=>[""5th Bde.""], ""context""=>[""other""]}",,,
+10,AWD0002458,report,496,2,,,,[],,person,  von Kluck,"{""first""=>[""""], ""surname""=>[""von Kluck""], ""rank""=>[""""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+11,AWD0002458,report,496,2,,,,[],,person,  von Bulow,"{""first""=>[""""], ""surname""=>[""von Bulow""], ""rank""=>[""""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+14,AWD0002458,report,496,2,,,,[],,person,  d'Amade,"{""first""=>[""""], ""surname""=>[""d'Amade""], ""rank""=>[""""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+3,AWD000243b,signals,497,4,,,,[],,unit,"52nd L.I., 52nd LI, 2/H.L.I., 2/HLI","{""name""=>[""52nd L.I."", ""52nd LI"", ""2/H.L.I."", ""2/HLI""], ""context""=>[""other""]}",,,
+4,AWD000243b,signals,497,2,,,,[],,unit,"5th LTMB, 5th L.T.M.B.","{""name""=>[""5th LTMB"", ""5th L.T.M.B.""], ""context""=>[""other""]}",,,
+5,AWD000243b,signals,497,2,,,,[],,unit,"Det 2/MG Bn, 2/MG Bn","{""name""=>[""Det 2/MG Bn"", ""2/MG Bn""], ""context""=>[""other""]}",,,
+6,AWD000243b,signals,497,2,,,,[],,unit,"51st Inf. Bde., 51st Inf Bde","{""name""=>[""51st Inf. Bde."", ""51st Inf Bde""], ""context""=>[""other""]}",,,
+7,AWD000243b,signals,497,2,,,,[],,unit,"17th Div., 17th Div","{""name""=>[""17th Div."", ""17th Div""], ""context""=>[""other""]}",,,
+9,AWD000243b,signals,497,6,,,,[],,date,22 Mar 1918,{},,,
+14,AWD000243b,signals,497,4,,,,[],,gridRef,P 7 c 4 1,{},,,
+17,AWD000243b,signals,497,4,,,,[],,gridRef,J 28 c 9 0,{},,,
+18,AWD000243b,signals,497,4,,,,[],,gridRef,J 28 c 0 5,{},,,
+19,AWD000243b,signals,497,5,,,,[],,gridRef,J 33,{},,,
+20,AWD000243b,signals,497,5,,,,[],,gridRef,J 34 a,{},,,
+21,AWD000243b,signals,497,5,,,,[],,gridRef,J 34 c,{},,,
+22,AWD000243b,signals,497,5,,,,[],,gridRef,P 4 a,{},,,
+23,AWD000243b,signals,497,8,,,,[],,unit,2nd HLI,"{""name""=>[""2nd HLI""], ""context""=>[""other""]}",,,
+24,AWD000243b,signals,497,4,,,,[],,gridRef,J 23 d 3 2,{},,,
+25,AWD000243b,signals,497,5,,,,[],,gridRef,P 3 c 2 8,{},,,
+26,AWD000243b,signals,497,5,,,,[],,gridRef,J 34 c 7 3,{},,,
+27,AWD000243b,signals,497,4,,,,[],,gridRef,J 28 a,{},,,
+28,AWD000243b,signals,497,2,,,,[],,unit,"52nd L.I., 5nd LI","{""name""=>[""52nd L.I."", ""5nd LI""], ""context""=>[""other"", ""right""]}",,,
+29,AWD000243b,signals,497,2,,,,[],,unit,24th RF,"{""name""=>[""24th RF""], ""context""=>[""other""]}",,,
+31,AWD000243b,signals,497,2,,,,[],,unit,"5th |5nd LI, 5nd LI","{""name""=>[""5th |5nd LI"", ""5nd LI""], ""context""=>[""right""]}",,,
+32,AWD000243b,signals,497,2,,,,[],,unit,"5th L.T.M.B., 5th LTMB","{""name""=>[""5th L.T.M.B."", ""5th LTMB""], ""context""=>[""other""]}",,,
+33,AWD000243b,signals,497,3,,,,[],,unit,"2/MG Bn, 2/M.G.Bn., 2nd MG Bn","{""name""=>[""2/MG Bn"", ""2/M.G.Bn."", ""2nd MG Bn""], ""context""=>[""other""]}",,,
+35,AWD000243b,signals,497,3,,,,[],,gridRef,J 36  b 9 4,{},,,
+2,AWD000245c,signals,498,4,,,,[],,date,23 Mar 1918,{},,,
+3,AWD000245c,signals,498,2,,,,[],,time,0625AM,{},,,
+7,AWD000245c,signals,498,4,,,,[],,gridRef,J 28 c 9 0,{},,,
+8,AWD000245c,signals,498,4,,,,[],,gridRef,J 28 c 0 5,{},,,
+12,AWD000245c,signals,498,2,,,,[],,time,1159PM,{},,,
+13,AWD000245c,signals,498,3,,,,[],,time,0550AM,{},,,
+1,AWD000243y,signals,499,2,,,,[],,signals,other,{},,,
+2,AWD000243y,signals,499,11,,,,[],,date,23 Mar 1918,{},,,
+3,AWD000243y,signals,499,5,,,,[],,time,0630AM,{},,,
+4,AWD000243y,signals,499,5,,,,[],,time,0640AM,{},,,
+5,AWD000243y,signals,499,5,,,,[],,time,0530PM,{},,,
+6,AWD000243y,signals,499,2,,,,[],,signals,warning,{},,,
+7,AWD000243y,signals,499,2,,,,[],,signals,other,{},,,
+8,AWD000243y,signals,499,2,,,,[],,date,23 Mar 1918,{},,,
+10,AWD000243y,signals,499,2,,,,[],,gridRef,P 2 b 3 1,{},,,
+12,AWD000243y,signals,499,3,,,,[],,gridRef,P 2 b 3 1,{},,,
+14,AWD000243y,signals,499,4,,,,[],,gridRef,O 11 b 9 6,{},,,
+15,AWD000243y,signals,499,6,,,,[],,gridRef,P 3 a 8 4,{},,,
+16,AWD000243y,signals,499,2,,,,[],,gridRef,P 7 b 00 25,{},,,
+20,AWD000243y,signals,499,3,,,,[],,time,0627AM,{},,,
+22,AWD000243y,signals,499,3,,,,[],,time,0520PM,{},,,
+2,AWD000245a,signals,500,3,,,,[],,signals,order,{},,,
+5,AWD000245a,signals,500,6,,,,[],,date,23 Mar 1918,{},,,
+6,AWD000245a,signals,500,7,,,,[],,date,24 Mar 1918,{},,,
+7,AWD000245a,signals,500,3,,,,[],,signals,situation,{},,,
+8,AWD000245a,signals,500,10,,,,[],,unit,"52nd LI, 52nd L.I., 5nd LI","{""name""=>[""52nd LI"", ""52nd L.I."", ""5nd LI""], ""context""=>[""other""]}",,,
+9,AWD000245a,signals,500,2,,,,[],,person,Captain G B Spry,"{""first""=>[""G B""], ""surname""=>[""Spry""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+10,AWD000245a,signals,500,6,,,,[],,time,0625PM,{},,,
+11,AWD000245a,signals,500,6,,,,[],,time,0335AM,{},,,
+1,AWD000244h,signals,501,2,,,,[],,signals,situation,{},,,
+2,AWD000244h,signals,501,5,,,,[],,date,24 Mar 1918,{},,,
+4,AWD000244h,signals,501,4,,,,[],,gridRef,P 2 b 3 1,{},,,
+5,AWD000244h,signals,501,3,,,,[],,unit,10th DCLI,"{""name""=>[""10th DCLI""], ""context""=>[""other""]}",,,
+7,AWD000244h,signals,501,2,,,,[],,gridRef,O 15,{},,,
+8,AWD000244h,signals,501,2,,,,[],,unit,DCLI,"{""name""=>[""DCLI""], ""context""=>[""other""]}",,,
+9,AWD000244h,signals,501,2,,,,[],,gridRef,O 5 d,{},,,
+10,AWD000244h,signals,501,2,,,,[],,unit,24th RF,"{""name""=>[""24th RF""], ""context""=>[""other""]}",,,
+13,AWD000244h,signals,501,3,,,,[],,unit,7th RF,"{""name""=>[""7th RF""], ""context""=>[""other""]}",,,
+15,AWD000244h,signals,501,2,,,,[],,gridRef,O 35,{},,,
+16,AWD000244h,signals,501,2,,,,[],,gridRef,O 36,{},,,
+17,AWD000244h,signals,501,2,,,,[],,unit,"5th Bdr, 5th Bde","{""name""=>[""5th Bdr"", ""5th Bde""], ""context""=>[""other""]}",,,
+1,AWD000243f,signals,502,2,,,,[],,signals,order,{},,,
+2,AWD000243f,signals,502,2,,,,[],,unit,24th RF,"{""name""=>[""24th RF""], ""context""=>[""other""]}",,,
+3,AWD000243f,signals,502,8,,,,[],,unit,"52nd LI, 52nd L.I., 2/HLI","{""name""=>[""52nd LI"", ""52nd L.I."", ""2/HLI""], ""context""=>[""other""]}",,,
+4,AWD000243f,signals,502,4,,,,[],,unit,5/LTMB,"{""name""=>[""5/LTMB""], ""context""=>[""other""]}",,,
+6,AWD000243f,signals,502,3,,,,[],,unit,"6th Bde., 188 Bde., 6th Bde","{""name""=>[""6th Bde."", ""188 Bde."", ""6th Bde""], ""context""=>[""other""]}",,,
+7,AWD000243f,signals,502,2,,,,[],,unit,2/Div,"{""name""=>[""2/Div""], ""context""=>[""other""]}",,,
+9,AWD000243f,signals,502,6,,,,[],,date,24 Mar 1918,{},,,
+10,AWD000243f,signals,502,3,,,,[],,signals,order,{},,,
+12,AWD000243f,signals,502,5,,,,[],,gridRef,O 5,{},,,
+13,AWD000243f,signals,502,4,,,,[],,gridRef,O 17,{},,,
+14,AWD000243f,signals,502,5,,,,[],,gridRef,O 11,{},,,
+15,AWD000243f,signals,502,5,,,,[],,gridRef,O 23,{},,,
+16,AWD000243f,signals,502,5,,,,[],,gridRef,O 29,{},,,
+19,AWD000243f,signals,502,5,,,,[],,gridRef,O 11 c 9 0,{},,,
+20,AWD000243f,signals,502,2,,,,[],,unit,"17th Div, 17th Divn","{""name""=>[""17th Div"", ""17th Divn""], ""context""=>[""other""]}",,,
+21,AWD000243f,signals,502,2,,,,[],,unit,17th Division,"{""name""=>[""17th Division""], ""context""=>[""joined""]}",,,
+23,AWD000243f,signals,502,2,,,,[],,unit,"2nd Division, 63rd Division","{""name""=>[""2nd Division"", ""63rd Division""], ""context""=>[""joined""]}",,,
+25,AWD000243f,signals,502,2,,,,[],,time,0405AM,{},,,
+1,AWD000245o,signals,503,2,,,,[],,signals,order,{},,,
+2,AWD000245o,signals,503,3,,,,[],,date,24 Mar 1918,{},,,
+3,AWD000245o,signals,503,2,,,,[],,signals,order,{},,,
+4,AWD000245o,signals,503,8,,,,[],,unit,"2 H.L.I., 52nd L.I.","{""name""=>[""2 H.L.I."", ""52nd L.I.""], ""context""=>[""left"", ""joined"", ""other"", ""right""]}",,,
+6,AWD000245o,signals,503,5,,,,[],,unit,"52nd L I, 52nd L.I.","{""name""=>[""52nd L I"", ""52nd L.I.""], ""context""=>[""other""]}",,,
+2,AWD000243x,signals,504,3,,,,[],,signals,order,{},,,
+6,AWD000243x,signals,504,4,,,,[],,date,24 Mar 1918,{},,,
+7,AWD000243x,signals,504,2,,,,[],,time,0915AM,{},,,
+11,AWD000243x,signals,504,2,,,,[],,person,Captain G B Spry,"{""first""=>[""G B""], ""surname""=>[""Spry""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+13,AWD000243x,signals,504,5,,,,[],,time,0825AM,{},,,
+14,AWD000243x,signals,504,4,,,,[],,time,0910AM,{},,,
+15,AWD000243x,signals,504,3,,,,[],,person,"Captain ,M K,M R Windler","{""first""=>["""", ""M K"", ""M R""], ""surname""=>[""Windler""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+1,AWD000245h,signals,505,3,,,,[],,signals,order,{},,,
+2,AWD000245h,signals,505,4,,,,[],,date,24 Mar 1918,{},,,
+4,AWD000245h,signals,505,4,,,,[],,date,24 Mar 1918,{},,,
+8,AWD000245h,signals,505,5,,,,[],,time,0110PM,{},,,
+9,AWD000245h,signals,505,4,,,,[],,person,Captain L Leggatt,"{""first""=>[""L""], ""surname""=>[""Leggatt""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other"", ""author""], ""unit""=>[""""]}",,,
+10,AWD000245h,signals,505,2,,,,[],,person,Captain G B Spry,"{""first""=>[""G B""], ""surname""=>[""Spry""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+11,AWD000245h,signals,505,5,,,,[],,time,0225PM,{},,,
+1,AWD000244w,signals,506,2,,,,[],,signals,order,{},,,
+3,AWD000244w,signals,506,2,,,,[],,signals,order,{},,,
+4,AWD000244w,signals,506,5,,,,[],,date,24 Mar 1918,{},,,
+5,AWD000244w,signals,506,6,,,,[],,unit,"2 HLI, 52 LI","{""name""=>[""2 HLI"", ""52 LI""], ""context""=>[""other""]}",,,
+6,AWD000244w,signals,506,4,,,,[],,signals,order,{},,,
+7,AWD000244w,signals,506,7,,,,[],,person,Captain G B Spry,"{""first""=>[""G B""], ""surname""=>[""Spry""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+9,AWD000244w,signals,506,6,,,,[],,time,0435PM,{},,,
+2,AWD000243v,signals,507,10,,,,[],,unit,52nd LI,"{""name""=>[""52nd LI""], ""context""=>[""joined""]}",,,
+6,AWD000243v,signals,507,3,,,,[],,signals,order,{},,,
+7,AWD000243v,signals,507,3,,,,[],,person,Colonel  Crosse,"{""first""=>[""""], ""surname""=>[""Crosse""], ""rank""=>[""Colonel""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+8,AWD000243v,signals,507,5,,,,[],,time,0130AM,{},,,
+1,AWD000244v,orders,508,3,,,,[],,person,Lieutenant Colonel  Crosse,"{""first""=>[""""], ""surname""=>[""Crosse""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+4,AWD000244v,orders,508,3,,,,[],,person,"Captain C A,G A, Knost?, Kneist, Knast","{""first""=>[""C A"", ""G A"", """"], ""surname""=>[""Knost?"", ""Kneist"", ""Knast""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+5,AWD000244v,orders,508,3,,,,[],,person,Captain  Collins,"{""first""=>[""""], ""surname""=>[""Collins""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+10,AWD000244v,orders,508,2,,,,[],,person,"Captain, W H Sly, Ely","{""first""=>[""W H""], ""surname""=>[""Sly"", ""Ely""], ""rank""=>[""Captain"", """"], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+11,AWD000244v,orders,508,3,,,,[],,date,25 Mar 1918,{},,,
+2,AWD000245i,signals,509,2,,,,[],,signals,warning,{},,,
+3,AWD000245i,signals,509,8,,,,[],,date,25 Mar 1918,{},,,
+4,AWD000245i,signals,509,2,,,,[],,signals,warning,{},,,
+5,AWD000245i,signals,509,3,,,,[],,gridRef,M 9 a 8 2,{},,,
+6,AWD000245i,signals,509,2,,,,[],,signals,situation,{},,,
+8,AWD000245i,signals,509,2,,,,[],,gridRef,M 7 d 15 0,{},,,
+9,AWD000245i,signals,509,2,,,,[],,gridRef,M 7 d 15 00,{},,,
+11,AWD000245i,signals,509,2,,,,[],,person,Lieutenant Colonel  Piper?,"{""first""=>[""""], ""surname""=>[""Piper?""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+13,AWD000245i,signals,509,6,,,,[],,time,0116PM,{},,,
+14,AWD000245i,signals,509,6,,,,[],,time,0115PM,{},,,
+6,AWD0002459,signals,510,2,,,,[],,person,Major  Smith,"{""first""=>[""""], ""surname""=>[""Smith""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander"", ""other""], ""unit""=>[""""]}",,,
+8,AWD0002459,signals,510,6,,,,[],,unit,"52nd L. I., 52nd L.I., 52nd LI, 2nd HLI, 2nd H.L.I., 2nd H.L.I","{""name""=>[""52nd L. I."", ""52nd L.I."", ""52nd LI"", ""2nd HLI"", ""2nd H.L.I."", ""2nd H.L.I""], ""context""=>[""other""]}",,,
+10,AWD0002459,signals,510,4,,,,[],,date,25 Mar 1918,{},,,
+11,AWD0002459,signals,510,5,,,,[],,date,26 Mar 1918,{},,,
+13,AWD0002459,signals,510,2,,,,[],,signals,other,{},,,
+18,AWD0002459,signals,510,5,,,,[],,gridRef,Q 15,{},,,
+19,AWD0002459,signals,510,9,,,,[],,gridRef,Q 21 a,{},,,
+21,AWD0002459,signals,510,2,,,,[],,person,"Captain M, Wardle, Mardle","{""first""=>[""M"", """"], ""surname""=>[""Wardle"", ""Mardle""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""5th Infantry Brigade"", """"]}",,,
+2,AWD000243z,signals,511,5,,,,[],,date,26 Mar 1918,{},,,
+3,AWD000243z,signals,511,3,,,,[],,unit,New Zealanders,"{""name""=>[""New Zealanders""], ""context""=>[""left""]}",,,
+5,AWD000243z,signals,511,4,,,,[],,gridRef,Q 15,{},,,
+6,AWD000243z,signals,511,4,,,,[],,gridRef,Q 21 a,{},,,
+8,AWD000243z,signals,511,5,,,,[],,time,1045AM,{},,,
+9,AWD000243z,signals,511,3,,,,[],,person,"Captain G A,G B, Spry","{""first""=>[""G A"", ""G B"", """"], ""surname""=>[""Spry""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+12,AWD000243z,signals,511,4,,,,[],,time,1100AM,{},,,
+13,AWD000243z,signals,511,2,,,,[],,time,110AM,{},,,
+1,AWD000242p,signals,512,2,,,,[],,signals,order,{},,,
+2,AWD000242p,signals,512,2,,,,[],,signals,other,{},,,
+3,AWD000242p,signals,512,12,,,,[],,date,26 Mar 1918,{},,,
+5,AWD000242p,signals,512,4,,,,[],,signals,order,{},,,
+7,AWD000242p,signals,512,4,,,,[],,gridRef,Q 7 b 2 5,{},,,
+10,AWD000242p,signals,512,4,,,,[],,person,Captain G B Spry,"{""first""=>[""G B""], ""surname""=>[""Spry""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author"", ""other""], ""unit""=>[""""]}",,,
+11,AWD000242p,signals,512,6,,,,[],,time,0830PM,{},,,
+12,AWD000242p,signals,512,5,,,,[],,time,1100AM,{},,,
+13,AWD000242p,signals,512,2,,,,[],,time,110AM,{},,,
+14,AWD000242p,signals,512,4,,,,[],,person,Captain M K Wardle,"{""first""=>[""M K""], ""surname""=>[""Wardle""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+1,AWD000243e,signals,513,2,,,,[],,signals,other,{},,,
+2,AWD000243e,signals,513,4,,,,[],,unit,"52nd L.I., 2/H.L.I., 2nd HLI, 52nd LI","{""name""=>[""52nd L.I."", ""2/H.L.I."", ""2nd HLI"", ""52nd LI""], ""context""=>[""other""]}",,,
+5,AWD000243e,signals,513,2,,,,[],,unit,"5/6 T.M.B., 5/LTMB","{""name""=>[""5/6 T.M.B."", ""5/LTMB""], ""context""=>[""other""]}",,,
+6,AWD000243e,signals,513,11,,,,[],,date,27 Mar 1918,{},,,
+7,AWD000243e,signals,513,2,,,,[],,signals,other,{},,,
+8,AWD000243e,signals,513,2,,,,[],,signals,warning,{},,,
+12,AWD000243e,signals,513,5,,,,[],,time,1240PM,{},,,
+15,AWD000243e,signals,513,5,,,,[],,time,0650PM,{},,,
+2,AWD0002463,signals,514,2,,,,[],,signals,other,{},,,
+5,AWD0002463,signals,514,6,,,,[],,gridRef,Q 28 b 3 4,{},,,
+6,AWD0002463,signals,514,6,,,,[],,gridRef,Q 22 d 1 3,{},,,
+7,AWD0002463,signals,514,2,,,,[],,unit,"5th Bde, 5th Bde.","{""name""=>[""5th Bde"", ""5th Bde.""], ""context""=>[""other"", ""joined""]}",,,
+4,AWD000243h,signals,515,7,,,,[],,unit,"52nd L.I., 2nd H.L.I.","{""name""=>[""52nd L.I."", ""2nd H.L.I.""], ""context""=>[""other""]}",,,
+6,AWD000243h,signals,515,7,,,,[],,date,28 Mar 1918,{},,,
+8,AWD000243h,signals,515,5,,,,[],,unit,2nd Division,"{""name""=>[""2nd Division""], ""context""=>[""other""]}",,,
+9,AWD000243h,signals,515,2,,,,[],,unit,"12th Div, 2nd Div","{""name""=>[""12th Div"", ""2nd Div""], ""context""=>[""other""]}",,,
+10,AWD000243h,signals,515,3,,,,[],,unit,99th Brigade,"{""name""=>[""99th Brigade""], ""context""=>[""other""]}",,,
+11,AWD000243h,signals,515,2,,,,[],,unit,"99th Bde., 5th Bde.","{""name""=>[""99th Bde."", ""5th Bde.""], ""context""=>[""other""]}",,,
+12,AWD000243h,signals,515,6,,,,[],,gridRef,Q 29 d 5 5,{},,,
+13,AWD000243h,signals,515,2,,,,[],,unit,"NZ Div, N.Z. Div","{""name""=>[""NZ Div"", ""N.Z. Div""], ""context""=>[""other""]}",,,
+15,AWD000243h,signals,515,6,,,,[],,gridRef,Q 23 c 3 8,{},,,
+17,AWD000243h,signals,515,12,,,,[],,unit,2nd HLI,"{""name""=>[""2nd HLI""], ""context""=>[""left"", ""right""]}",,,
+19,AWD000243h,signals,515,2,,,,[],,gridRef,Q 20 a 3 3,{},,,
+21,AWD000243h,signals,515,3,,,,[],,gridRef,Q 29 a 3 3,{},,,
+3,AWD000244n,signals,516,3,,,,[],,unit,52nd L.I.,"{""name""=>[""52nd L.I.""], ""context""=>[""other""]}",,,
+7,AWD000244n,signals,516,2,,,,[],,unit,"99th Bde., 5th Bde.","{""name""=>[""99th Bde."", ""5th Bde.""], ""context""=>[""other""]}",,,
+8,AWD000244n,signals,516,2,,,,[],,unit,"99th Brigade, 5th Brigade","{""name""=>[""99th Brigade"", ""5th Brigade""], ""context""=>[""other""]}",,,
+9,AWD000244n,signals,516,3,,,,[],,unit,2nd H.L.I.,"{""name""=>[""2nd H.L.I.""], ""context""=>[""other""]}",,,
+10,AWD000244n,signals,516,5,,,,[],,unit,"5th Brigade, 37th Brigade","{""name""=>[""5th Brigade"", ""37th Brigade""], ""context""=>[""other""]}",,,
+11,AWD000244n,signals,516,4,,,,[],,unit,5th Bde.,"{""name""=>[""5th Bde.""], ""context""=>[""other""]}",,,
+12,AWD000244n,signals,516,4,,,,[],,unit,Buffs,"{""name""=>[""Buffs""], ""context""=>[""other""]}",,,
+13,AWD000244n,signals,516,3,,,,[],,unit,Queens,"{""name""=>[""Queens""], ""context""=>[""other""]}",,,
+14,AWD000244n,signals,516,3,,,,[],,unit,"Queens 2nd H.L.I., Queens 2nd H L I, Queens 2nd HLI","{""name""=>[""Queens 2nd H.L.I."", ""Queens 2nd H L I"", ""Queens 2nd HLI""], ""context""=>[""other""]}",,,
+15,AWD000244n,signals,516,6,,,,[],,unit,52nd L.I.,"{""name""=>[""52nd L.I.""], ""context""=>[""other""]}",,,
+16,AWD000244n,signals,516,3,,,,[],,gridRef,Q 29 b 2 5,{},,,
+17,AWD000244n,signals,516,2,,,,[],,gridRef,Q 24 b 2 5,{},,,
+18,AWD000244n,signals,516,4,,,,[],,gridRef,Q 22 c 9 8,{},,,
+19,AWD000244n,signals,516,2,,,,[],,unit,Buffs,"{""name""=>[""Buffs""], ""context""=>[""relieved"", ""other""]}",,,
+3,AWD000244i,signals,517,2,,,,[],,signals,other,{},,,
+4,AWD000244i,signals,517,4,,,,[],,gridRef,Q 22 c 8 8,{},,,
+5,AWD000244i,signals,517,4,,,,[],,gridRef,Q 32 d,{},,,
+6,AWD000244i,signals,517,6,,,,[],,time,0615PM,{},,,
+7,AWD000244i,signals,517,4,,,,[],,person,Captain  Wardle,"{""first""=>[""""], ""surname""=>[""Wardle""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+1,AWD000243m,signals,518,2,,,,[],,signals,other,{},,,
+2,AWD000243m,signals,518,6,,,,[],,date,28 Mar 1918,{},,,
+3,AWD000243m,signals,518,2,,,,[],,signals,other,{},,,
+4,AWD000243m,signals,518,5,,,,[],,person,Captain  Lewis,"{""first""=>[""""], ""surname""=>[""Lewis""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+5,AWD000243m,signals,518,4,,,,[],,gridRef,Q 23 c 63,{},,,
+7,AWD000243m,signals,518,6,,,,[],,time,1030PM,{},,,
+8,AWD000243m,signals,518,3,,,,[],,person,Captain  Wardle,"{""first""=>[""""], ""surname""=>[""Wardle""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+1,AWD0002442,signals,519,2,,,,[],,signals,other,{},,,
+2,AWD0002442,signals,519,6,,,,[],,date,29 Mar 1918,{},,,
+6,AWD0002442,signals,519,4,,,,[],,unit,"10th DCLI, 10th D.C.L.I.","{""name""=>[""10th DCLI"", ""10th D.C.L.I.""], ""context""=>[""relieved_by""]}",,,
+7,AWD0002442,signals,519,4,,,,[],,gridRef,P 34 b 7 0,{},,,
+2,AWD0002439,signals,520,2,,,,[],,signals,other,{},,,
+5,AWD0002439,signals,520,2,,,,[],,time,0830PM,{},,,
+6,AWD0002439,signals,520,3,,,,[],,unit,10th D.C.L.I.,"{""name""=>[""10th D.C.L.I.""], ""context""=>[""other""]}",,,
+1,AWD0002446,signals,521,2,,,,[],,date,29 Mar 1918,{},,,
+2,AWD0002446,signals,521,2,,,,[],,signals,other,{},,,
+3,AWD0002446,signals,521,4,,,,[],,gridRef,Q 32 d,{},,,
+5,AWD0002446,signals,521,4,,,,[],,person,Captain  Collins,"{""first""=>[""""], ""surname""=>[""Collins""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+6,AWD0002446,signals,521,4,,,,[],,person,Second Lieutenant  Dunstall,"{""first""=>[""""], ""surname""=>[""Dunstall""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+7,AWD0002446,signals,521,5,,,,[],,gridRef,Q 32 d,{},,,
+9,AWD0002446,signals,521,7,,,,[],,person,Second Lieutenant  Eley,"{""first""=>[""""], ""surname""=>[""Eley""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+1,AWD000244a,orders,523,5,,,,[],,orders,move,{},,,
+3,AWD000244a,orders,523,6,,,,[],,date,30 Mar 1918,{},,,
+4,AWD000244a,orders,523,3,,,,[],,person,Captain G B Spry,"{""first""=>[""G B""], ""surname""=>[""Spry""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+1,AWD0002450,orders,524,3,,,,[],,reference,Operation Orders no 41,{},,,
+4,AWD0002450,orders,524,4,,,,[],,orders,move,{},,,
+5,AWD0002450,orders,524,5,,,,[],,date,4 Mar 1918,{},,,
+10,AWD0002450,orders,524,4,,,,[],,person,Second Lieutenant  Barnes,"{""first""=>[""""], ""surname""=>[""Barnes""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+2,AWD000244s,orders,525,2,,,,[],,reference,Operation Orders no 3,{},,,
+4,AWD000244s,orders,525,2,,,,[],,person,"Second Lieutenant ,J Marriott","{""first""=>["""", ""J""], ""surname""=>[""Marriott""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+5,AWD000244s,orders,525,2,,,,[],,person,Second Lieutenant  Carroll,"{""first""=>[""""], ""surname""=>[""Carroll""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+1,AWD0002431,orders,526,2,,,,[],,reference,Operation Orders no. 35,{},,,
+4,AWD0002431,orders,526,5,,,,[],,orders,move,{},,,
+5,AWD0002431,orders,526,5,,,,[],,person,Captain  Dallas,"{""first""=>[""""], ""surname""=>[""Dallas""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+7,AWD0002431,orders,526,4,,,,[],,person,Corporal  Cottin,"{""first""=>[""""], ""surname""=>[""Cottin""], ""rank""=>[""Corporal""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+8,AWD0002431,orders,526,3,,,,[],,person,Captain G B Spry,"{""first""=>[""G B""], ""surname""=>[""Spry""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+9,AWD0002431,orders,526,5,,,,[],,date,12 Mar 1918,{},,,
+1,AWD0002430,orders,527,2,,,,[],,reference,Battalion Orders no. 39,{},,,
+2,AWD0002430,orders,527,2,,,,[],,orders,routine,{},,,
+4,AWD0002430,orders,527,2,,,,[],,orders,training,{},,,
+1,AWD000243u,orders,528,2,,,,[],,orders,routine,{},,,
+1,AWD000243p,orders,529,2,,,,[],,orders,routine,{},,,
+2,AWD000243p,orders,529,4,,,,[],,person,Captain C A Knust,"{""first""=>[""C A""], ""surname""=>[""Knust""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+3,AWD000243p,orders,529,4,,,,[],,person,Lieutenant N P Lewis,"{""first""=>[""N P""], ""surname""=>[""Lewis""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+4,AWD000243p,orders,529,4,,,,[],,person,Second Lieutenant A McKay,"{""first""=>[""A""], ""surname""=>[""McKay""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+5,AWD000243p,orders,529,4,,,,[],,person,Captain R F Collins,"{""first""=>[""R F""], ""surname""=>[""Collins""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+8,AWD000243p,orders,529,3,,,,[],,person,Captain G B Spry,"{""first""=>[""G B""], ""surname""=>[""Spry""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+1,AWD000242l,orders,530,2,,,,[],,reference,Operation Orders no 34,{},,,
+3,AWD000242l,orders,530,5,,,,[],,orders,move,{},,,
+5,AWD000242l,orders,530,6,,,,[],,date,11 Mar 1918,{},,,
+1,AWD0002447,orders,531,2,,,,[],,orders,routine,{},,,
+2,AWD0002447,orders,531,2,,,,[],,reference,Battalion Orders no. 41,{},,,
+4,AWD0002447,orders,531,3,,,,[],,orders,other,{},,,
+5,AWD0002447,orders,531,3,,,,[],,person,Captain G B Spry,"{""first""=>[""G B""], ""surname""=>[""Spry""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+6,AWD0002447,orders,531,5,,,,[],,date,12 Mar 1918,{},,,
+1,AWD000245j,orders,532,3,,,,[],,reference,Operation Orders no 43,{},,,
+2,AWD000245j,orders,532,3,,,,[],,orders,move,{},,,
+5,AWD000245j,orders,532,6,,,,[],,date,10 Mar 1918,{},,,
+7,AWD000245j,orders,532,3,,,,[],,person,Second Lieutenant  Barnes,"{""first""=>[""""], ""surname""=>[""Barnes""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+8,AWD000245j,orders,532,3,,,,[],,person,Sergeant  Rawlins,"{""first""=>[""""], ""surname""=>[""Rawlins""], ""rank""=>[""Sergeant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+9,AWD000245j,orders,532,3,,,,[],,person,Corporal  Means,"{""first""=>[""""], ""surname""=>[""Means""], ""rank""=>[""Corporal""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+3,AWD000243c,orders,533,6,,,,[],,date,10 Mar 1918,{},,,
+7,AWD000243c,orders,533,2,,,,[],,person,Second Lieutenant  Barnes,"{""first""=>[""""], ""surname""=>[""Barnes""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+8,AWD000243c,orders,533,2,,,,[],,person,"Second Lieutenant N, Carroll","{""first""=>[""N"", """"], ""surname""=>[""Carroll""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""author"", ""other""], ""unit""=>[""""]}",,,
+4,AWD000242j,orders,535,2,,,,[],,orders,move,{},,,
+5,AWD000242j,orders,535,3,,,,[],,person,Second Lieutenant  Winkworth,"{""first""=>[""""], ""surname""=>[""Winkworth""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+2,AWD000244d,orders,536,2,,,,[],,date,16 Mar 1918,{},,,
+4,AWD000244d,orders,536,4,,,,[],,date,16 Mar 1918,{},,,
+6,AWD000244d,orders,536,3,,,,[],,person,Captain G B Spry,"{""first""=>[""G B""], ""surname""=>[""Spry""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+2,AWD000244y,orders,537,7,,,,[],,date,16 Mar 1918,{},,,
+3,AWD000244y,orders,537,3,,,,[],,orders,move,{},,,
+4,AWD000244y,orders,537,3,,,,[],,reference,Operation Orders No 44,{},,,
+7,AWD000244y,orders,537,5,,,,[],,person,Second Lieutenant  Barnes,"{""first""=>[""""], ""surname""=>[""Barnes""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+1,AWD000244j,orders,538,2,,,,[],,orders,move,{},,,
+3,AWD000244j,orders,538,5,,,,[],,person,Lance Corporal  Pollock,"{""first""=>[""""], ""surname""=>[""Pollock""], ""rank""=>[""Lance Corporal""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+4,AWD000244j,orders,538,3,,,,[],,person,Captain G B Spry,"{""first""=>[""G B""], ""surname""=>[""Spry""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+2,AWD0002432,orders,539,2,,,,[],,reference,Battalion Orders No 45,{},,,
+3,AWD0002432,orders,539,2,,,,[],,orders,move,{},,,
+4,AWD0002432,orders,539,6,,,,[],,date,19 Mar 1918,{},,,
+7,AWD0002432,orders,539,5,,,,[],,person,Second Lieutenant  Rossell,"{""first""=>[""""], ""surname""=>[""Rossell""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+2,AWD000242r,orders,540,2,,,,[],,orders,move,{},,,
+6,AWD000242r,orders,540,3,,,,[],,person,Captain G B Spry,"{""first""=>[""G B""], ""surname""=>[""Spry""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+1,AWD000245x,orders,542,2,,,,[],,orders,other,{},,,
+2,AWD000245x,orders,542,2,,,,[],,orders,move,{},,,
+3,AWD000245x,orders,542,5,,,,[],,date,21 Mar 1918,{},,,
+5,AWD000245x,orders,542,2,,,,[],,orders,other,{},,,
+7,AWD000245x,orders,542,2,,,,[],,person,Captain G B Spry,"{""first""=>[""G B""], ""surname""=>[""Spry""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author"", ""other""], ""unit""=>[""""]}",,,
+8,AWD000245x,orders,542,2,,,,[],,person,Captain  ,"{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""24th Battn. Royal Fusiliers"", """"]}",,,
+1,AWD000243r,orders,543,4,,,,[],,orders,move,{},,,
+2,AWD000243r,orders,543,6,,,,[],,date,22 Mar 1918,{},,,
+7,AWD000243r,orders,543,3,,,,[],,person,Captain G B Spry,"{""first""=>[""G B""], ""surname""=>[""Spry""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+1,AWD0002457,orders,544,3,,,,[],,orders,move,{},,,
+2,AWD0002457,orders,544,7,,,,[],,date,31 Mar 1918,{},,,
+4,AWD0002457,orders,544,2,,,,[],,reference,Operation Orders No 43,{},,,
+5,AWD0002457,orders,544,2,,,,[],,orders,other,{},,,
+7,AWD0002457,orders,544,2,,,,[],,orders,other,{},,,
+8,AWD0002457,orders,544,5,,,,[],,person,Second Lieutenant  Eley,"{""first""=>[""""], ""surname""=>[""Eley""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+11,AWD0002457,orders,544,5,,,,[],,orders,routine,{},,,
+13,AWD0002457,orders,544,3,,,,[],,person,Captain G B Spry,"{""first""=>[""G B""], ""surname""=>[""Spry""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+14,AWD0002457,orders,544,2,,,,[],,person,"Captain  , Ady","{""first""=>[""""], ""surname""=>["""", ""Ady""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""commander"", ""author""], ""unit""=>[""24th Battn. Royal Fusiliers"", """"]}",,,

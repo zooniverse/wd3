@@ -1,0 +1,926 @@
+Order,Page,Page type,Page number,Count,DateTime,Date,Place,Lat/Lon,Time,Type,Label,Data,GeoID,GeoName,GeoCoords
+2,AWD0003mxt,diary,628,2,,"","","[0.0, 0.0]","",domestic,hygiene,{},2985684,Pozières,"[2.72929, 50.04047]"
+3,AWD0003mxt,diary,628,4,1915-12-01 00:00:00 UTC,1 Dec 1915,"","[0.0, 0.0]","",diaryDate,1 Dec 1915,"{""day""=>[""1""], ""month""=>[""Dec""], ""year""=>[""1915""]}",2985684,Pozières,"[2.72929, 50.04047]"
+5,AWD0003mxt,diary,628,3,1915-12-01 00:00:00 UTC,1 Dec 1915,"","[0.0, 0.0]","",activity,fire,{},2985684,Pozières,"[2.72929, 50.04047]"
+6,AWD0003mxt,diary,628,2,1915-12-01 00:00:00 UTC,1 Dec 1915,Mazingarbe,"[0.0, 0.0]","",place,Mazingarbe,"{""place""=>[""Mazingarbe""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2994837,Mazingarbe,"[2.71544, 50.4711]"
+7,AWD0003mxt,diary,628,2,1915-12-01 00:00:00 UTC,1 Dec 1915,"In the field, in the field","[0.0, 0.0]","",place,"In the field, in the field","{""place""=>[""In the field"", ""in the field""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+9,AWD0003mxt,diary,628,4,1915-12-01 00:00:00 UTC,1 Dec 1915,"In the field, in the field","[0.0, 0.0]","",casualties,wounded: 2,{},,,
+10,AWD0003mxt,diary,628,3,1915-12-01 12:45:00 UTC,1 Dec 1915,"In the field, in the field","[0.0, 0.0]",1245PM,time,1245PM,{},,,
+14,AWD0003mxt,diary,628,5,1915-12-01 12:45:00 UTC,1 Dec 1915,"In the field, in the field","[0.0, 0.0]",1245PM,unit,3rd Battalion,"{""name""=>[""3rd Battalion""], ""context""=>[""relieved""]}",,,
+15,AWD0003mxt,diary,628,4,1915-12-02 00:00:00 UTC,2 Dec 1915,"In the field, in the field","[0.0, 0.0]","",diaryDate,2 Dec 1915,"{""day""=>[""2""], ""month""=>[""Dec""], ""year""=>[""1915""]}",,,
+17,AWD0003mxt,diary,628,2,1915-12-02 00:00:00 UTC,2 Dec 1915,Philosophe,"[0.0, 0.0]","",place,Philosophe,"{""place""=>[""Philosophe""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+19,AWD0003mxt,diary,628,2,1915-12-02 00:00:00 UTC,2 Dec 1915,Loos,"[3.01874, 50.60982]","",place,Loos,"{""place""=>[""Loos""], ""location""=>[""true""], ""name""=>[""Loos""], ""lat""=>[""50.60982""], ""long""=>[""3.01874""], ""id""=>[""2997620""]}",3003093,Lens,"[2.82791, 50.43302]"
+20,AWD0003mxt,diary,628,2,1915-12-02 00:00:00 UTC,2 Dec 1915,Vendin Alley,"[3.01874, 50.60982]","",place,Vendin Alley,"{""place""=>[""Vendin Alley""], ""location""=>[""true""], ""name""=>["""", ""Loos""], ""lat""=>["""", ""50.60982""], ""long""=>["""", ""3.01874""], ""id""=>["""", ""2997620""]}",2994837,"Mazingarbe,","[2.71544, 50.4711]"
+21,AWD0003mxt,diary,628,2,1915-12-02 00:00:00 UTC,2 Dec 1915,Vendin Alley,"[3.01874, 50.60982]","",activity,working,{},2994837,"Mazingarbe,","[2.71544, 50.4711]"
+22,AWD0003mxt,diary,628,2,1915-12-02 00:00:00 UTC,2 Dec 1915,Vendin Alley,"[3.01874, 50.60982]","",activity,reserve,{},2994837,"Mazingarbe,","[2.71544, 50.4711]"
+23,AWD0003mxt,diary,628,2,1915-12-02 00:00:00 UTC,2 Dec 1915,Vendin Alley,"[3.01874, 50.60982]","",unit,"6th Welch Regt, 6 Welch Regt.","{""name""=>[""6th Welch Regt"", ""6 Welch Regt.""], ""context""=>[""joined"", ""relieved""]}",2994837,"Mazingarbe,","[2.71544, 50.4711]"
+28,AWD0003mxt,diary,628,5,1915-12-03 00:00:00 UTC,3 Dec 1915,Vendin Alley,"[3.01874, 50.60982]","",diaryDate,3 Dec 1915,"{""day""=>[""3""], ""month""=>[""Dec""], ""year""=>[""1915""]}",2994837,"Mazingarbe,","[2.71544, 50.4711]"
+29,AWD0003mxt,diary,628,2,1915-12-03 00:00:00 UTC,3 Dec 1915,Vendin Alley,"[3.01874, 50.60982]","",weather,rain,{},2994837,"Mazingarbe,","[2.71544, 50.4711]"
+30,AWD0003mxt,diary,628,2,1915-12-03 00:00:00 UTC,3 Dec 1915,Vendin Alley,"[3.01874, 50.60982]","",activity,support,{},2994837,"Mazingarbe,","[2.71544, 50.4711]"
+33,AWD0003mxt,diary,628,4,1915-12-04 00:00:00 UTC,4 Dec 1915,Vendin Alley,"[3.01874, 50.60982]","",diaryDate,4 Dec 1915,"{""day""=>[""4""], ""month""=>[""Dec""], ""year""=>[""1915""]}",2994837,"Mazingarbe,","[2.71544, 50.4711]"
+34,AWD0003mxt,diary,628,2,1915-12-04 00:00:00 UTC,4 Dec 1915,Vendin Alley,"[3.01874, 50.60982]","",activity,movement,{},2994837,"Mazingarbe,","[2.71544, 50.4711]"
+35,AWD0003mxt,diary,628,2,1915-12-04 20:00:00 UTC,4 Dec 1915,Vendin Alley,"[3.01874, 50.60982]",0800PM,time,0800PM,{},2994837,"Mazingarbe,","[2.71544, 50.4711]"
+36,AWD0003mxt,diary,628,4,1915-12-04 20:00:00 UTC,4 Dec 1915,Vendin Alley,"[3.01874, 50.60982]",0800PM,person,Second Lieutenant  Dorrington,"{""first""=>[""""], ""surname""=>[""Dorrington""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",2994837,"Mazingarbe,","[2.71544, 50.4711]"
+39,AWD0003mxt,diary,628,4,1915-12-04 20:00:00 UTC,4 Dec 1915,Vendin Alley,"[3.01874, 50.60982]",0800PM,person,Second Lieutenant  Reddie,"{""first""=>[""""], ""surname""=>[""Reddie""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",2994837,"Mazingarbe,","[2.71544, 50.4711]"
+40,AWD0003mxt,diary,628,4,1915-12-04 20:00:00 UTC,4 Dec 1915,Vendin Alley,"[3.01874, 50.60982]",0800PM,person,Second Lieutenant  Fryer,"{""first""=>[""""], ""surname""=>[""Fryer""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",2994837,"Mazingarbe,","[2.71544, 50.4711]"
+41,AWD0003mxt,diary,628,4,1915-12-04 20:00:00 UTC,4 Dec 1915,Vendin Alley,"[3.01874, 50.60982]",0800PM,person,Captain A C Oppenheim,"{""first""=>[""A C""], ""surname""=>[""Oppenheim""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",2994837,"Mazingarbe,","[2.71544, 50.4711]"
+42,AWD0003mxt,diary,628,2,1915-12-04 20:00:00 UTC,4 Dec 1915,Gun Alley,"[0.0, 0.0]",0800PM,place,Gun Alley,"{""place""=>[""Gun Alley""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+44,AWD0003mxt,diary,628,2,1915-12-04 20:00:00 UTC,4 Dec 1915,Gun Alley,"[0.0, 0.0]",0800PM,activity,working,{},,,
+49,AWD0003mxt,diary,628,4,1915-12-05 00:00:00 UTC,5 Dec 1915,Gun Alley,"[0.0, 0.0]","",diaryDate,5 Dec 1915,"{""day""=>[""5""], ""month""=>[""Dec""], ""year""=>[""1915""]}",,,
+50,AWD0003mxt,diary,628,2,1915-12-05 00:00:00 UTC,5 Dec 1915,Gun Alley,"[0.0, 0.0]","",activity,working,{},,,
+51,AWD0003mxt,diary,628,2,1915-12-05 00:00:00 UTC,5 Dec 1915,Gun Alley,"[0.0, 0.0]","",activity,repair,{},,,
+53,AWD0003mxt,diary,628,2,1915-12-05 00:00:00 UTC,5 Dec 1915,Posen Alley,"[0.0, 0.0]","",place,Posen Alley,"{""place""=>[""Posen Alley""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2994837,Mazingarbe,"[2.71544, 50.4711]"
+55,AWD0003mxt,diary,628,4,1915-12-06 00:00:00 UTC,6 Dec 1915,Posen Alley,"[0.0, 0.0]","",diaryDate,6 Dec 1915,"{""day""=>[""6""], ""month""=>[""Dec""], ""year""=>[""1915""]}",2994837,Mazingarbe,"[2.71544, 50.4711]"
+1,AWD0003mwc,diary,629,4,1915-12-07 00:00:00 UTC,7 Dec 1915,Posen Alley,"[0.0, 0.0]","",diaryDate,7 Dec 1915,"{""day""=>[""7""], ""month""=>[""Dec""], ""year""=>[""1915""]}",2994837,Mazingarbe,"[2.71544, 50.4711]"
+2,AWD0003mwc,diary,629,5,1915-12-07 00:00:00 UTC,7 Dec 1915,Posen Alley,"[0.0, 0.0]","",strength,"officer: 29, other: 684",{},2994837,Mazingarbe,"[2.71544, 50.4711]"
+4,AWD0003mwc,diary,629,2,1915-12-07 00:00:00 UTC,7 Dec 1915,Posen Alley,"[0.0, 0.0]","",activity,working,{},2994837,Mazingarbe,"[2.71544, 50.4711]"
+8,AWD0003mwc,diary,629,2,1915-12-07 00:00:00 UTC,7 Dec 1915,Posen Alley,"[0.0, 0.0]","",casualties,wounded: 3,{},2994837,Mazingarbe,"[2.71544, 50.4711]"
+11,AWD0003mwc,diary,629,3,1915-12-08 00:00:00 UTC,8 Dec 1915,Posen Alley,"[0.0, 0.0]","",diaryDate,8 Dec 1915,"{""day""=>[""8""], ""month""=>[""Dec""], ""year""=>[""1915""]}",2994837,Mazingarbe,"[2.71544, 50.4711]"
+12,AWD0003mwc,diary,629,2,1915-12-08 00:00:00 UTC,8 Dec 1915,Posen Alley,"[0.0, 0.0]","",unit,"kings own, 1/5 Kings Own","{""name""=>[""kings own"", ""1/5 Kings Own""], ""context""=>[""relieved""]}",2994837,Mazingarbe,"[2.71544, 50.4711]"
+16,AWD0003mwc,diary,629,3,1915-12-08 17:00:00 UTC,8 Dec 1915,Posen Alley,"[0.0, 0.0]",0500PM,time,0500PM,{},2994837,Mazingarbe,"[2.71544, 50.4711]"
+19,AWD0003mwc,diary,629,2,1915-12-08 17:00:00 UTC,8 Dec 1915,Posen Alley,"[0.0, 0.0]",0500PM,unit,"'C' 'D' Coys, 'A' Coy","{""name""=>[""'C' 'D' Coys"", ""'A' Coy""], ""context""=>[""left"", ""right""]}",2994837,Mazingarbe,"[2.71544, 50.4711]"
+20,AWD0003mwc,diary,629,3,1915-12-08 17:00:00 UTC,8 Dec 1915,CHALK PIT,"[0.0, 0.0]",0500PM,place,CHALK PIT,"{""place""=>[""CHALK PIT""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2994837,Mazingarbe,"[2.71544, 50.48961]"
+24,AWD0003mwc,diary,629,3,1915-12-08 17:00:00 UTC,8 Dec 1915,"VEN DIN ALLEY, VENDIN ALLEY, Vendin Alley","[0.0, 0.0]",0500PM,place,"VEN DIN ALLEY, VENDIN ALLEY, Vendin Alley","{""place""=>[""VEN DIN ALLEY"", ""VENDIN ALLEY"", ""Vendin Alley""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2994837,"Mazingarbe,","[2.71544, 50.4711]"
+25,AWD0003mwc,diary,629,3,1915-12-08 22:00:00 UTC,8 Dec 1915,"VEN DIN ALLEY, VENDIN ALLEY, Vendin Alley","[0.0, 0.0]",1000PM,time,1000PM,{},2994837,"Mazingarbe,","[2.71544, 50.4711]"
+26,AWD0003mwc,diary,629,4,1915-12-08 22:00:00 UTC,8 Dec 1915,"VEN DIN ALLEY, VENDIN ALLEY, Vendin Alley","[0.0, 0.0]",1000PM,unit,Northamptons,"{""name""=>[""Northamptons""], ""context""=>[""right""]}",2994837,"Mazingarbe,","[2.71544, 50.4711]"
+29,AWD0003mwc,diary,629,3,1915-12-09 00:00:00 UTC,9 Dec 1915,"VEN DIN ALLEY, VENDIN ALLEY, Vendin Alley","[0.0, 0.0]","",diaryDate,9 Dec 1915,"{""day""=>[""9""], ""month""=>[""Dec""], ""year""=>[""1915""]}",2994837,"Mazingarbe,","[2.71544, 50.4711]"
+30,AWD0003mwc,diary,629,5,1915-12-09 00:00:00 UTC,9 Dec 1915,"VEN DIN ALLEY, VENDIN ALLEY, Vendin Alley","[0.0, 0.0]","",weather,rain,{},2994837,"Mazingarbe,","[2.71544, 50.4711]"
+34,AWD0003mwc,diary,629,4,1915-12-09 00:00:00 UTC,9 Dec 1915,"VEN DIN ALLEY, VENDIN ALLEY, Vendin Alley","[0.0, 0.0]","",casualties,wounded: 2,{},2994837,"Mazingarbe,","[2.71544, 50.4711]"
+36,AWD0003mwc,diary,629,2,1915-12-09 00:00:00 UTC,9 Dec 1915,"VEN DIN ALLEY, VENDIN ALLEY, Vendin Alley","[0.0, 0.0]","",diaryDate,9 Dec 1915,"{""day""=>[""9""], ""month""=>[""Dec""], ""year""=>[""1915""]}",2994837,"Mazingarbe,","[2.71544, 50.4711]"
+38,AWD0003mwc,diary,629,3,1915-12-10 00:00:00 UTC,10 Dec 1915,"VEN DIN ALLEY, VENDIN ALLEY, Vendin Alley","[0.0, 0.0]","",diaryDate,10 Dec 1915,"{""day""=>[""10""], ""month""=>[""Dec""], ""year""=>[""1915""]}",2994837,"Mazingarbe,","[2.71544, 50.4711]"
+39,AWD0003mwc,diary,629,3,1915-12-10 00:00:00 UTC,10 Dec 1915,"VEN DIN ALLEY, VENDIN ALLEY, Vendin Alley","[0.0, 0.0]","",activity,fire,{},2994837,"Mazingarbe,","[2.71544, 50.4711]"
+40,AWD0003mwc,diary,629,3,1915-12-10 00:00:00 UTC,10 Dec 1915,"VEN DIN ALLEY, VENDIN ALLEY, Vendin Alley","[0.0, 0.0]","",weather,fine,{},2994837,"Mazingarbe,","[2.71544, 50.4711]"
+41,AWD0003mwc,diary,629,3,1915-12-10 00:00:00 UTC,10 Dec 1915,"VEN DIN ALLEY, VENDIN ALLEY, Vendin Alley","[0.0, 0.0]","",activity,repair,{},2994837,"Mazingarbe,","[2.71544, 50.4711]"
+42,AWD0003mwc,diary,629,4,1915-12-10 00:00:00 UTC,10 Dec 1915,"VEN DIN ALLEY, VENDIN ALLEY, Vendin Alley","[0.0, 0.0]","",place,"Auchy, AUCHY","{""place""=>[""Auchy"", ""AUCHY""], ""location""=>[""false"", ""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2994837,"Mazingarbe,","[2.71544, 50.4711]"
+43,AWD0003mwc,diary,629,4,1915-12-10 00:00:00 UTC,10 Dec 1915,"VEN DIN ALLEY, VENDIN ALLEY, Vendin Alley","[0.0, 0.0]","",casualties,"killed: 2, wounded: 5, sick: 9",{},2994837,"Mazingarbe,","[2.71544, 50.4711]"
+46,AWD0003mwc,diary,629,2,1915-12-10 00:00:00 UTC,10 Dec 1915,"Gun Alley, GUN ALLEY","[0.0, 0.0]","",place,"Gun Alley, GUN ALLEY","{""place""=>[""Gun Alley"", ""GUN ALLEY""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+48,AWD0003mwc,diary,629,3,1915-12-10 00:00:00 UTC,10 Dec 1915,"Gun Alley, GUN ALLEY","[0.0, 0.0]","",place,Loos,"{""place""=>[""Loos""], ""location""=>[""false""], ""name""=>[""Loos""], ""lat""=>[""50.60982""], ""long""=>[""3.01874""], ""id""=>[""2997620""]}",,,
+1,AWD0003mw1,diary,630,2,1915-12-10 00:00:00 UTC,10 Dec 1915,PUITS 14 Bis,"[4.46302, 47.73312]","",place,PUITS 14 Bis,"{""place""=>[""PUITS 14 Bis""], ""location""=>[""true""], ""name""=>[""Puits""], ""lat""=>[""47.73312""], ""long""=>[""4.46302""], ""id""=>[""2985093""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+2,AWD0003mw1,diary,630,4,1915-12-11 00:00:00 UTC,11 Dec 1915,PUITS 14 Bis,"[4.46302, 47.73312]","",diaryDate,11 Dec 1915,"{""day""=>[""11""], ""month""=>[""Dec""], ""year""=>[""1915""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+3,AWD0003mw1,diary,630,5,1915-12-11 00:00:00 UTC,11 Dec 1915,PUITS 14 Bis,"[4.46302, 47.73312]","",person,Second Lieutenant  Freeman,"{""first""=>[""""], ""surname""=>[""Freeman""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+4,AWD0003mw1,diary,630,2,1915-12-11 00:00:00 UTC,11 Dec 1915,PUITS 14 Bis,"[4.46302, 47.73312]","",activity,attack,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+5,AWD0003mw1,diary,630,4,1915-12-11 00:00:00 UTC,11 Dec 1915,PUITS 14 Bis,"[4.46302, 47.73312]","",weather,rain,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+6,AWD0003mw1,diary,630,3,1915-12-11 00:00:00 UTC,11 Dec 1915,PUITS 14 Bis,"[4.46302, 47.73312]","",activity,repair,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+7,AWD0003mw1,diary,630,3,1915-12-11 00:00:00 UTC,11 Dec 1915,PUITS 14 Bis,"[4.46302, 47.73312]","",place,Aire,"{""place""=>[""Aire""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+8,AWD0003mw1,diary,630,3,1915-12-11 00:00:00 UTC,11 Dec 1915,PUITS 14 Bis,"[4.46302, 47.73312]","",person,"Captain  OPPENHEIM, Oppenheim, Oppenhein","{""first""=>[""""], ""surname""=>[""OPPENHEIM"", ""Oppenheim"", ""Oppenhein""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""commander"", ""other"", ""promotion""], ""unit""=>[""""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+9,AWD0003mw1,diary,630,4,1915-12-11 00:00:00 UTC,11 Dec 1915,PUITS 14 Bis,"[4.46302, 47.73312]","",person,Major  Heseltine,"{""first""=>[""""], ""surname""=>[""Heseltine""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""departed_posted"", ""departed_training""], ""unit""=>[""""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+10,AWD0003mw1,diary,630,3,1915-12-11 00:00:00 UTC,11 Dec 1915,PUITS 14 Bis,"[4.46302, 47.73312]","",person,Lieutenant  Fison,"{""first""=>[""""], ""surname""=>[""Fison""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""commander"", ""promotion"", ""other""], ""unit""=>[""""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+12,AWD0003mw1,diary,630,4,1915-12-12 00:00:00 UTC,12 Dec 1915,PUITS 14 Bis,"[4.46302, 47.73312]","",diaryDate,12 Dec 1915,"{""day""=>[""12""], ""month""=>[""Dec""], ""year""=>[""1915""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+13,AWD0003mw1,diary,630,4,1915-12-12 00:00:00 UTC,12 Dec 1915,PUITS 14 Bis,"[4.46302, 47.73312]","",weather,rain,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+15,AWD0003mw1,diary,630,4,1915-12-12 00:00:00 UTC,12 Dec 1915,PUITS 14 Bis,"[4.46302, 47.73312]","",weather,cold,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+16,AWD0003mw1,diary,630,3,1915-12-12 11:00:00 UTC,12 Dec 1915,PUITS 14 Bis,"[4.46302, 47.73312]",1100AM,time,1100AM,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+17,AWD0003mw1,diary,630,2,1915-12-12 20:20:00 UTC,12 Dec 1915,PUITS 14 Bis,"[4.46302, 47.73312]",0820PM,time,0820PM,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+20,AWD0003mw1,diary,630,3,1915-12-12 20:20:00 UTC,12 Dec 1915,PUITS 14 Bis,"[4.46302, 47.73312]",0820PM,activity,fire,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+21,AWD0003mw1,diary,630,3,1915-12-12 20:20:00 UTC,12 Dec 1915,Philosophe,"[0.0, 0.0]",0820PM,place,Philosophe,"{""place""=>[""Philosophe""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+23,AWD0003mw1,diary,630,2,1915-12-12 20:20:00 UTC,12 Dec 1915,Philosophe,"[0.0, 0.0]",0820PM,activity,movement,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+25,AWD0003mw1,diary,630,4,1915-12-13 00:00:00 UTC,13 Dec 1915,Philosophe,"[0.0, 0.0]","",diaryDate,13 Dec 1915,"{""day""=>[""13""], ""month""=>[""Dec""], ""year""=>[""1915""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+26,AWD0003mw1,diary,630,4,1915-12-13 00:00:00 UTC,13 Dec 1915,Philosophe,"[0.0, 0.0]","",activity,fire,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+28,AWD0003mw1,diary,630,2,1915-12-13 00:00:00 UTC,13 Dec 1915,Philosophe,"[0.0, 0.0]","",place,"FOSSE 3, Fosse 3","{""place""=>[""FOSSE 3"", ""Fosse 3""], ""location""=>[""false"", ""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+31,AWD0003mw1,diary,630,2,1915-12-13 14:30:00 UTC,13 Dec 1915,Philosophe,"[0.0, 0.0]",0230PM,time,0230PM,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+35,AWD0003mw1,diary,630,2,1915-12-13 14:30:00 UTC,13 Dec 1915,Philosophe,"[0.0, 0.0]",0230PM,casualties,"killed: 2, wounded: 14",{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+2,AWD0003mw3,diary,631,4,1915-12-14 00:00:00 UTC,14 Dec 1915,Philosophe,"[0.0, 0.0]","",diaryDate,14 Dec 1915,"{""day""=>[""14""], ""month""=>[""Dec""], ""year""=>[""1915""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+7,AWD0003mw3,diary,631,3,1915-12-14 00:00:00 UTC,14 Dec 1915,Philosophe,"[0.0, 0.0]","",activity,quiet,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+8,AWD0003mw3,diary,631,3,1915-12-14 00:00:00 UTC,14 Dec 1915,NOEUX-LES-MINES,"[0.0, 0.0]","",place,NOEUX-LES-MINES,"{""place""=>[""NOEUX-LES-MINES""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+13,AWD0003mw3,diary,631,3,1915-12-14 17:00:00 UTC,14 Dec 1915,NOEUX-LES-MINES,"[0.0, 0.0]",0500PM,time,0500PM,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+14,AWD0003mw3,diary,631,3,1915-12-14 17:00:00 UTC,14 Dec 1915,NOEUX-LES-MINES,"[0.0, 0.0]",0500PM,person,Major  Heseltine,"{""first""=>[""""], ""surname""=>[""Heseltine""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+18,AWD0003mw3,diary,631,3,1915-12-14 17:00:00 UTC,14 Dec 1915,NOEUX-LES-MINES,"[0.0, 0.0]",0500PM,place,Aire,"{""place""=>[""Aire""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+20,AWD0003mw3,diary,631,4,1915-12-15 00:00:00 UTC,15 Dec 1915,NOEUX-LES-MINES,"[0.0, 0.0]","",diaryDate,15 Dec 1915,"{""day""=>[""15""], ""month""=>[""Dec""], ""year""=>[""1915""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+21,AWD0003mw3,diary,631,2,1915-12-15 00:00:00 UTC,15 Dec 1915,NOEUX-LES-MINES,"[0.0, 0.0]","",activity,working,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+23,AWD0003mw3,diary,631,5,1915-12-16 00:00:00 UTC,16 Dec 1915,NOEUX-LES-MINES,"[0.0, 0.0]","",diaryDate,16 Dec 1915,"{""day""=>[""16""], ""month""=>[""Dec""], ""year""=>[""1915""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+24,AWD0003mw3,diary,631,2,1915-12-16 00:00:00 UTC,16 Dec 1915,NOEUX-LES-MINES,"[0.0, 0.0]","",activity,quiet,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+25,AWD0003mw3,diary,631,2,1915-12-16 00:00:00 UTC,16 Dec 1915,NOEUX-LES-MINES,"[0.0, 0.0]","",casualties,killed: 1,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+26,AWD0003mw3,diary,631,4,1915-12-17 00:00:00 UTC,17 Dec 1915,NOEUX-LES-MINES,"[0.0, 0.0]","",diaryDate,17 Dec 1915,"{""day""=>[""17""], ""month""=>[""Dec""], ""year""=>[""1915""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+27,AWD0003mw3,diary,631,3,1915-12-17 00:00:00 UTC,17 Dec 1915,NOEUX-LES-MINES,"[0.0, 0.0]","",activity,fire,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+28,AWD0003mw3,diary,631,4,1915-12-17 00:00:00 UTC,17 Dec 1915,NOEUX-LES-MINES,"[0.0, 0.0]","",weather,rain,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+31,AWD0003mw3,diary,631,4,1915-12-18 00:00:00 UTC,18 Dec 1915,NOEUX-LES-MINES,"[0.0, 0.0]","",diaryDate,18 Dec 1915,"{""day""=>[""18""], ""month""=>[""Dec""], ""year""=>[""1915""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+33,AWD0003mw3,diary,631,2,1915-12-18 00:00:00 UTC,18 Dec 1915,NOEUX-LES-MINES,"[0.0, 0.0]","",person,Major  Heseltine,"{""first""=>[""""], ""surname""=>[""Heseltine""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""departed_posted""], ""unit""=>[""ADC to Sir Douglas Haig"", """"]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+34,AWD0003mw3,diary,631,2,1915-12-18 00:00:00 UTC,18 Dec 1915,NOEUX-LES-MINES,"[0.0, 0.0]","",activity,working,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+36,AWD0003mw3,diary,631,2,1915-12-18 00:00:00 UTC,18 Dec 1915,NOEUX-LES-MINES,"[0.0, 0.0]","",activity,repair,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+39,AWD0003mw3,diary,631,4,1915-12-19 00:00:00 UTC,19 Dec 1915,NOEUX-LES-MINES,"[0.0, 0.0]","",diaryDate,19 Dec 1915,"{""day""=>[""19""], ""month""=>[""Dec""], ""year""=>[""1915""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+40,AWD0003mw3,diary,631,3,1915-12-19 00:00:00 UTC,19 Dec 1915,"Houchain, HOUCHAIN, Houchin","[2.61972, 50.48241]","",place,"Houchain, HOUCHAIN, Houchin","{""place""=>[""Houchain"", ""HOUCHAIN"", ""Houchin""], ""location""=>[""true""], ""name""=>[""Houchin""], ""lat""=>[""50.48241""], ""long""=>[""2.61972""], ""id""=>[""3013123""]}",3013123,Houchin,"[2.61972, 50.48241]"
+41,AWD0003mw3,diary,631,2,1915-12-19 00:00:00 UTC,19 Dec 1915,"Houchain, HOUCHAIN, Houchin","[2.61972, 50.48241]","",domestic,religion,{},3013123,Houchin,"[2.61972, 50.48241]"
+42,AWD0003mw3,diary,631,3,1915-12-19 11:00:00 UTC,19 Dec 1915,"Houchain, HOUCHAIN, Houchin","[2.61972, 50.48241]",1100AM,time,1100AM,{},3013123,Houchin,"[2.61972, 50.48241]"
+44,AWD0003mw3,diary,631,2,1915-12-19 11:00:00 UTC,19 Dec 1915,"Houchain, HOUCHAIN, Houchin","[2.61972, 50.48241]",1100AM,domestic,parades,{},3013123,Houchin,"[2.61972, 50.48241]"
+47,AWD0003mw3,diary,631,3,1915-12-19 11:00:00 UTC,19 Dec 1915,VENDIN ALLEY,"[0.0, 0.0]",1100AM,place,VENDIN ALLEY,"{""place""=>[""VENDIN ALLEY""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2994837,"Mazingarbe,","[2.71544, 50.4711]"
+48,AWD0003mw3,diary,631,3,1915-12-20 00:00:00 UTC,20 Dec 1915,VENDIN ALLEY,"[0.0, 0.0]","",diaryDate,20 Dec 1915,"{""day""=>[""20""], ""month""=>[""Dec""], ""year""=>[""1915""]}",2994837,"Mazingarbe,","[2.71544, 50.4711]"
+54,AWD0003mw3,diary,631,3,1915-12-20 00:00:00 UTC,20 Dec 1915,DEVON LANE,"[0.0, 0.0]","",place,DEVON LANE,"{""place""=>[""DEVON LANE""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+55,AWD0003mw3,diary,631,2,1915-12-20 00:00:00 UTC,20 Dec 1915,DEVON LANE,"[0.0, 0.0]","",unit,"1/ Gloucesters, 1st Gloucesters","{""name""=>[""1/ Gloucesters"", ""1st Gloucesters""], ""context""=>[""relieved""]}",,,
+58,AWD0003mw3,diary,631,2,1915-12-20 00:00:00 UTC,20 Dec 1915,DEVON LANE,"[0.0, 0.0]","",unit,L N Lancs,"{""name""=>[""L N Lancs""], ""context""=>[""right""]}",,,
+62,AWD0003mw3,diary,631,2,1915-12-20 00:00:00 UTC,20 Dec 1915,"Hulluch-Vermelles Road, HULLUCH_VERMRLLES road","[0.0, 0.0]","",place,"Hulluch-Vermelles Road, HULLUCH_VERMRLLES road","{""place""=>[""Hulluch-Vermelles Road"", ""HULLUCH_VERMRLLES road""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+1,AWD0003myr,diary,632,3,1915-12-21 00:00:00 UTC,21 Dec 1915,"Hulluch-Vermelles Road, HULLUCH_VERMRLLES road","[0.0, 0.0]","",diaryDate,21 Dec 1915,"{""day""=>[""21""], ""month""=>[""Dec""], ""year""=>[""1915""]}",,,
+2,AWD0003myr,diary,632,4,1915-12-21 00:00:00 UTC,21 Dec 1915,"Hulluch-Vermelles Road, HULLUCH_VERMRLLES road","[0.0, 0.0]","",activity,fire,{},,,
+5,AWD0003myr,diary,632,4,1915-12-21 00:00:00 UTC,21 Dec 1915,"Hulluch-Vermelles Road, HULLUCH_VERMRLLES road","[0.0, 0.0]","",casualties,wounded: 1,{},,,
+7,AWD0003myr,diary,632,2,1915-12-21 00:00:00 UTC,21 Dec 1915,"Hulluch-Vermelles Road, HULLUCH_VERMRLLES road","[0.0, 0.0]","",weather,fog,{},,,
+9,AWD0003myr,diary,632,3,1915-12-21 11:00:00 UTC,21 Dec 1915,"Hulluch-Vermelles Road, HULLUCH_VERMRLLES road","[0.0, 0.0]",1100AM,time,1100AM,{},,,
+12,AWD0003myr,diary,632,3,1915-12-21 11:00:00 UTC,21 Dec 1915,"Hulluch-Vermelles Road, HULLUCH_VERMRLLES road","[0.0, 0.0]",1100AM,activity,fire,{},,,
+13,AWD0003myr,diary,632,3,1915-12-21 20:30:00 UTC,21 Dec 1915,"Hulluch-Vermelles Road, HULLUCH_VERMRLLES road","[0.0, 0.0]",0830PM,time,0830PM,{},,,
+15,AWD0003myr,diary,632,2,1915-12-21 20:30:00 UTC,21 Dec 1915,"Quarries, QUARRIES","[0.0, 0.0]",0830PM,place,"Quarries, QUARRIES","{""place""=>[""Quarries"", ""QUARRIES""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",6466551,White House,"[-0.171, 51.5159]"
+18,AWD0003myr,diary,632,2,1915-12-22 00:00:00 UTC,22 Dec 1915,"Quarries, QUARRIES","[0.0, 0.0]","",diaryDate,22 Dec 1915,"{""day""=>[""22""], ""month""=>[""Dec""], ""year""=>[""1915""]}",6466551,White House,"[-0.171, 51.5159]"
+20,AWD0003myr,diary,632,4,1915-12-22 00:00:00 UTC,22 Dec 1915,"Quarries, QUARRIES","[0.0, 0.0]","",activity,fire,{},6466551,White House,"[-0.171, 51.5159]"
+23,AWD0003myr,diary,632,3,1915-12-23 00:00:00 UTC,23 Dec 1915,"Quarries, QUARRIES","[0.0, 0.0]","",diaryDate,23 Dec 1915,"{""day""=>[""23""], ""month""=>[""Dec""], ""year""=>[""1915""]}",6466551,White House,"[-0.171, 51.5159]"
+24,AWD0003myr,diary,632,2,1915-12-23 00:00:00 UTC,23 Dec 1915,"Quarries, QUARRIES","[0.0, 0.0]","",activity,fire,{},6466551,White House,"[-0.171, 51.5159]"
+26,AWD0003myr,diary,632,2,1915-12-23 00:00:00 UTC,23 Dec 1915,"Quarries, QUARRIES","[0.0, 0.0]","",activity,quiet,{},6466551,White House,"[-0.171, 51.5159]"
+28,AWD0003myr,diary,632,4,1915-12-23 00:00:00 UTC,23 Dec 1915,"Quarries, QUARRIES","[0.0, 0.0]","",activity,attack,{},6466551,White House,"[-0.171, 51.5159]"
+30,AWD0003myr,diary,632,3,1915-12-24 00:00:00 UTC,24 Dec 1915,"Quarries, QUARRIES","[0.0, 0.0]","",diaryDate,24 Dec 1915,"{""day""=>[""24""], ""month""=>[""Dec""], ""year""=>[""1915""]}",6466551,White House,"[-0.171, 51.5159]"
+32,AWD0003myr,diary,632,3,1915-12-24 00:00:00 UTC,24 Dec 1915,"Quarries, QUARRIES","[0.0, 0.0]","",activity,fire,{},6466551,White House,"[-0.171, 51.5159]"
+33,AWD0003myr,diary,632,2,1915-12-24 08:30:00 UTC,24 Dec 1915,"Quarries, QUARRIES","[0.0, 0.0]",0830AM,time,0830AM,{},6466551,White House,"[-0.171, 51.5159]"
+35,AWD0003myr,diary,632,2,1915-12-24 08:30:00 UTC,24 Dec 1915,"Quarries, QUARRIES","[0.0, 0.0]",0830AM,activity,fire,{},6466551,White House,"[-0.171, 51.5159]"
+38,AWD0003myr,diary,632,2,1915-12-24 18:00:00 UTC,24 Dec 1915,"Quarries, QUARRIES","[0.0, 0.0]",0600PM,time,0600PM,{},6466551,White House,"[-0.171, 51.5159]"
+39,AWD0003myr,diary,632,2,1915-12-24 18:00:00 UTC,24 Dec 1915,"Quarries, QUARRIES","[0.0, 0.0]",0600PM,unit,"2/Northamptons, 2nd Northamptons","{""name""=>[""2/Northamptons"", ""2nd Northamptons""], ""context""=>[""relieved_by""]}",6466551,White House,"[-0.171, 51.5159]"
+40,AWD0003myr,diary,632,2,1915-12-24 18:00:00 UTC,24 Dec 1915,"Quarries, QUARRIES","[0.0, 0.0]",0600PM,person,"Second Lieutenant  McMillan, McMILLAR","{""first""=>[""""], ""surname""=>[""McMillan"", ""McMILLAR""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",6466551,White House,"[-0.171, 51.5159]"
+41,AWD0003myr,diary,632,2,1915-12-24 18:00:00 UTC,24 Dec 1915,"Quarries, QUARRIES","[0.0, 0.0]",0600PM,person,"Second Lieutenant  MUNRO, Munro","{""first""=>[""""], ""surname""=>[""MUNRO"", ""Munro""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",6466551,White House,"[-0.171, 51.5159]"
+42,AWD0003myr,diary,632,3,1915-12-24 18:00:00 UTC,24 Dec 1915,"PHILOSOPHE, Philiosophe, Philosophe","[0.0, 0.0]",0600PM,place,"PHILOSOPHE, Philiosophe, Philosophe","{""place""=>[""PHILOSOPHE"", ""Philiosophe"", ""Philosophe""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+45,AWD0003myr,diary,632,3,1915-12-25 00:00:00 UTC,25 Dec 1915,"PHILOSOPHE, Philiosophe, Philosophe","[0.0, 0.0]","",diaryDate,25 Dec 1915,"{""day""=>[""25""], ""month""=>[""Dec""], ""year""=>[""1915""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+46,AWD0003myr,diary,632,3,1915-12-25 00:00:00 UTC,25 Dec 1915,"PHILOSOPHE, Philiosophe, Philosophe","[0.0, 0.0]","",activity,quiet,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+47,AWD0003myr,diary,632,4,1915-12-25 00:00:00 UTC,25 Dec 1915,"PHILOSOPHE, Philiosophe, Philosophe","[0.0, 0.0]","",domestic,religion,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+1,AWD0003mzd,diary,633,4,1915-12-26 00:00:00 UTC,26 Dec 1915,"PHILOSOPHE, Philiosophe, Philosophe","[0.0, 0.0]","",diaryDate,26 Dec 1915,"{""day""=>[""26""], ""month""=>[""Dec""], ""year""=>[""1915""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+2,AWD0003mzd,diary,633,2,1915-12-26 00:00:00 UTC,26 Dec 1915,"PHILOSOPHE, Philiosophe, Philosophe","[0.0, 0.0]","",activity,movement,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+7,AWD0003mzd,diary,633,3,1915-12-26 00:00:00 UTC,26 Dec 1915,Noeux-les-Mines,"[0.0, 0.0]","",place,Noeux-les-Mines,"{""place""=>[""Noeux-les-Mines""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+8,AWD0003mzd,diary,633,2,1915-12-26 00:00:00 UTC,26 Dec 1915,Noeux-les-Mines,"[0.0, 0.0]","",activity,training,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+9,AWD0003mzd,diary,633,2,1915-12-26 00:00:00 UTC,26 Dec 1915,Noeux-les-Mines,"[0.0, 0.0]","",place,"10th Avenue, 10 Avenue","{""place""=>[""10th Avenue"", ""10 Avenue""], ""location""=>[""false"", ""true""], ""name""=>[""Nœux-les-Mines"", """"], ""lat""=>[""50.48333"", """"], ""long""=>[""2.66667"", """"], ""id""=>[""2990287"", """"]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+12,AWD0003mzd,diary,633,6,1915-12-26 00:00:00 UTC,26 Dec 1915,Noeux-les-Mines,"[0.0, 0.0]","",activity,repair,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+13,AWD0003mzd,diary,633,5,1915-12-27 00:00:00 UTC,27 Dec 1915,Noeux-les-Mines,"[0.0, 0.0]","",diaryDate,27 Dec 1915,"{""day""=>[""27""], ""month""=>[""Dec""], ""year""=>[""1915""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+15,AWD0003mzd,diary,633,8,1915-12-27 00:00:00 UTC,27 Dec 1915,Noeux-les-Mines,"[0.0, 0.0]","",activity,quiet,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+16,AWD0003mzd,diary,633,5,1915-12-27 00:00:00 UTC,27 Dec 1915,Noeux-les-Mines,"[0.0, 0.0]","",activity,repair,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+17,AWD0003mzd,diary,633,5,1915-12-28 00:00:00 UTC,28 Dec 1915,Noeux-les-Mines,"[0.0, 0.0]","",diaryDate,28 Dec 1915,"{""day""=>[""28""], ""month""=>[""Dec""], ""year""=>[""1915""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+19,AWD0003mzd,diary,633,5,1915-12-28 00:00:00 UTC,28 Dec 1915,Noeux-les-Mines,"[0.0, 0.0]","",activity,quiet,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+20,AWD0003mzd,diary,633,6,1915-12-28 00:00:00 UTC,28 Dec 1915,Noeux-les-Mines,"[0.0, 0.0]","",activity,repair,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+21,AWD0003mzd,diary,633,4,1915-12-29 00:00:00 UTC,29 Dec 1915,Noeux-les-Mines,"[0.0, 0.0]","",diaryDate,29 Dec 1915,"{""day""=>[""29""], ""month""=>[""Dec""], ""year""=>[""1915""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+23,AWD0003mzd,diary,633,2,1915-12-29 00:00:00 UTC,29 Dec 1915,Noeux-les-Mines,"[0.0, 0.0]","",activity,quiet,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+24,AWD0003mzd,diary,633,3,1915-12-29 16:20:00 UTC,29 Dec 1915,Noeux-les-Mines,"[0.0, 0.0]",0420PM,time,0420PM,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+25,AWD0003mzd,diary,633,2,1915-12-29 16:20:00 UTC,29 Dec 1915,Noeux-les-Mines,"[0.0, 0.0]",0420PM,activity,enemy_activity,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+26,AWD0003mzd,diary,633,3,1915-12-30 00:00:00 UTC,30 Dec 1915,Noeux-les-Mines,"[0.0, 0.0]","",diaryDate,30 Dec 1915,"{""day""=>[""30""], ""month""=>[""Dec""], ""year""=>[""1915""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+27,AWD0003mzd,diary,633,5,1915-12-30 00:00:00 UTC,30 Dec 1915,Noeux-les-Mines,"[0.0, 0.0]","",activity,fire,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+29,AWD0003mzd,diary,633,2,1915-12-30 00:00:00 UTC,30 Dec 1915,Noeux-les-Mines,"[0.0, 0.0]","",unit,"2/R. Sussex, 2nd R. Sussex","{""name""=>[""2/R. Sussex"", ""2nd R. Sussex""], ""context""=>[""relieved""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+30,AWD0003mzd,diary,633,2,1915-12-30 20:15:00 UTC,30 Dec 1915,Noeux-les-Mines,"[0.0, 0.0]",0815PM,time,0815PM,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+33,AWD0003mzd,diary,633,2,1915-12-31 00:00:00 UTC,31 Dec 1915,Noeux-les-Mines,"[0.0, 0.0]","",diaryDate,31 Dec 1915,"{""day""=>[""31""], ""month""=>[""Dec""], ""year""=>[""1915""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+35,AWD0003mzd,diary,633,2,1915-12-31 00:00:00 UTC,31 Dec 1915,Noeux-les-Mines,"[0.0, 0.0]","",diaryDate,31 Dec 1915,"{""day""=>[""31""], ""month""=>[""Dec""], ""year""=>[""1915""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+36,AWD0003mzd,diary,633,3,1915-12-31 00:00:00 UTC,31 Dec 1915,Noeux-les-Mines,"[0.0, 0.0]","",activity,fire,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+37,AWD0003mzd,diary,633,3,1915-12-31 00:00:00 UTC,31 Dec 1915,Noeux-les-Mines,"[0.0, 0.0]","",activity,quiet,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+38,AWD0003mzd,diary,633,3,1915-12-31 23:00:00 UTC,31 Dec 1915,Noeux-les-Mines,"[0.0, 0.0]",1100PM,time,1100PM,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+42,AWD0003mzd,diary,633,3,1915-12-31 23:00:00 UTC,31 Dec 1915,Noeux-les-Mines,"[0.0, 0.0]",1100PM,activity,attack,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+43,AWD0003mzd,diary,633,4,1915-12-31 23:00:00 UTC,31 Dec 1915,Noeux-les-Mines,"[0.0, 0.0]",1100PM,casualties,wounded: 1,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+45,AWD0003mzd,diary,633,2,1915-12-31 23:00:00 UTC,31 Dec 1915,Noeux-les-Mines,"[0.0, 0.0]",1100PM,person,"Lieutenant Colonel H F W BIRCHAM, Bircham","{""first""=>[""H F W""], ""surname""=>[""BIRCHAM"", ""Bircham""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""2 KRRC"", ""2nd Bn King's Royal Rifle Corps""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+1,AWD0003mwz,report,634,4,,,,[],,title,Officers List,{},,,
+2,AWD0003mwz,report,634,3,,,,[],,date,1 Dec 1915,{},,,
+3,AWD0003mwz,report,634,3,,,,[],,person,Lieutenant Colonel H F W Bircham,"{""first""=>[""H F W""], ""surname""=>[""Bircham""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+4,AWD0003mwz,report,634,3,,,,[],,person,Major J E N Heseltine,"{""first""=>[""J E N""], ""surname""=>[""Heseltine""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+5,AWD0003mwz,report,634,3,,,,[],,person,Captain P J R Currie,"{""first""=>[""P J R""], ""surname""=>[""Currie""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+6,AWD0003mwz,report,634,3,,,,[],,person,Lieutenant A E Robinson,"{""first""=>[""A E""], ""surname""=>[""Robinson""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+7,AWD0003mwz,report,634,3,,,,[],,person,Lieutenant T T B Mahar,"{""first""=>[""T T B""], ""surname""=>[""Mahar""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+10,AWD0003mwz,report,634,3,,,,[],,person,Captain H K Ward,"{""first""=>[""H K""], ""surname""=>[""Ward""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+11,AWD0003mwz,report,634,3,,,,[],,person,Captain R E Bullen,"{""first""=>[""R E""], ""surname""=>[""Bullen""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+12,AWD0003mwz,report,634,3,,,,[],,person,Lieutenant G S Walley,"{""first""=>[""G S""], ""surname""=>[""Walley""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+13,AWD0003mwz,report,634,3,,,,[],,person,Second Lieutenant R B Holmes,"{""first""=>[""R B""], ""surname""=>[""Holmes""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+14,AWD0003mwz,report,634,3,,,,[],,person,Second Lieutenant A W Symington,"{""first""=>[""A W""], ""surname""=>[""Symington""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+15,AWD0003mwz,report,634,3,,,,[],,person,Second Lieutenant P D Ravenscroft,"{""first""=>[""P D""], ""surname""=>[""Ravenscroft""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+16,AWD0003mwz,report,634,3,,,,[],,person,Second Lieutenant C R Fryer,"{""first""=>[""C R""], ""surname""=>[""Fryer""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+17,AWD0003mwz,report,634,3,,,,[],,person,Second Lieutenant F C Cull,"{""first""=>[""F C""], ""surname""=>[""Cull""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+18,AWD0003mwz,report,634,3,,,,[],,person,Lieutenant C S Egerton-Green,"{""first""=>[""C S""], ""surname""=>[""Egerton-Green""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+19,AWD0003mwz,report,634,3,,,,[],,person,Second Lieutenant O P Walker,"{""first""=>[""O P""], ""surname""=>[""Walker""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+20,AWD0003mwz,report,634,3,,,,[],,person,"Second Lieutenant C Savin, Lavin, Janvrin","{""first""=>[""C""], ""surname""=>[""Savin"", ""Lavin"", ""Janvrin""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+21,AWD0003mwz,report,634,3,,,,[],,person,Second Lieutenant D C McMillan,"{""first""=>[""D C""], ""surname""=>[""McMillan""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+2,AWD0003my6,report,635,2,,,,[],,date,1 Dec 1915,{},,,
+4,AWD0003my6,report,635,3,,,,[],,person,Captain E Wenham,"{""first""=>[""E""], ""surname""=>[""Wenham""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+5,AWD0003my6,report,635,2,,,,[],,person,Second Lieutenant R G W Dent,"{""first""=>[""R G W""], ""surname""=>[""Dent""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""C Coy, 2nd Bn King's Royal Rifle Corps"", """"]}",,,
+8,AWD0003my6,report,635,3,,,,[],,person,Second Lieutenant A G N Dickenson,"{""first""=>[""A G N""], ""surname""=>[""Dickenson""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+9,AWD0003my6,report,635,3,,,,[],,person,Second Lieutenant F B Walker,"{""first""=>[""F B""], ""surname""=>[""Walker""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+10,AWD0003my6,report,635,3,,,,[],,person,Second Lieutenant J W N Dorrington,"{""first""=>[""J W N""], ""surname""=>[""Dorrington""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+11,AWD0003my6,report,635,3,,,,[],,person,Second Lieutenant B C Munro,"{""first""=>[""B C""], ""surname""=>[""Munro""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+12,AWD0003my6,report,635,3,,,,[],,person,Captain A C Oppenheim,"{""first""=>[""A C""], ""surname""=>[""Oppenheim""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+13,AWD0003my6,report,635,3,,,,[],,person,Second Lieutenant F G Fison,"{""first""=>[""F G""], ""surname""=>[""Fison""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+14,AWD0003my6,report,635,3,,,,[],,person,Second Lieutenant E J G Gibb,"{""first""=>[""E J G""], ""surname""=>[""Gibb""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+15,AWD0003my6,report,635,3,,,,[],,person,"Second Lieutenant H R Holmie, Holme, Holmes","{""first""=>[""H R""], ""surname""=>[""Holmie"", ""Holme"", ""Holmes""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+16,AWD0003my6,report,635,3,,,,[],,person,Second Lieutenant F A Freeman,"{""first""=>[""F A""], ""surname""=>[""Freeman""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+17,AWD0003my6,report,635,3,,,,[],,person,"Second Lieutenant R A F Ervison, Eminson, Smithson","{""first""=>[""R A F""], ""surname""=>[""Ervison"", ""Eminson"", ""Smithson""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+18,AWD0003my6,report,635,3,,,,[],,person,Second Lieutenant M A Reddie,"{""first""=>[""M A""], ""surname""=>[""Reddie""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+19,AWD0003my6,report,635,3,,,,[],,person,Second Lieutenant E Dunlavey,"{""first""=>[""E""], ""surname""=>[""Dunlavey""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+20,AWD0003my6,report,635,3,,,,[],,person,Captain  Brady,"{""first""=>[""""], ""surname""=>[""Brady""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+21,AWD0003my6,report,635,3,,,,[],,person,"Second Lieutenant F W Whatley, Whately , Whately","{""first""=>[""F W""], ""surname""=>[""Whatley"", ""Whately "", ""Whately""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+22,AWD0003my6,report,635,3,,,,[],,person,Second Lieutenant H E Johnson,"{""first""=>[""H E""], ""surname""=>[""Johnson""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+23,AWD0003my6,report,635,3,,,,[],,person,"Captain E J L,F S L,F J L Johnstone","{""first""=>[""E J L"", ""F S L"", ""F J L""], ""surname""=>[""Johnstone""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+1,AWD0003mxi,orders,637,4,,,,[],,orders,move,{},,,
+3,AWD0003mxi,orders,637,5,,,,[],,person,Brigadier General F H Thuillier,"{""first""=>[""F H""], ""surname""=>[""Thuillier""], ""rank""=>[""Brigadier General""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+4,AWD0003mxi,orders,637,5,,,,[],,date,13 Dec 1915,{},,,
+9,AWD0003mxi,orders,637,7,,,,[],,orders,move,{},,,
+1,AWD0003mxn,orders,638,3,,,,[],,orders,move,{},,,
+1,AWD0003mxj,orders,639,2,,,,[],,orders,move,{},,,
+4,AWD0003mxj,orders,639,2,,,,[],,person,"Second Lieutenant  HOLMES, Holmes","{""first""=>[""""], ""surname""=>[""HOLMES"", ""Holmes""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""commander"", ""other""], ""unit""=>[""""]}",,,
+3,AWD0003mzp,orders,640,2,,,,[],,date,29 Dec 1915,{},,,
+4,AWD0003mzp,orders,640,3,,,,[],,person,"Captain A C Oppenheim, OPPENHEIM, Oppenhein","{""first""=>[""A C""], ""surname""=>[""Oppenheim"", ""OPPENHEIM"", ""Oppenhein""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+5,AWD0003mzp,orders,640,2,,,,[],,date,29 Dec 1915,{},,,
+4,AWD0003mzm,report,642,2,,,,[],,date,4 Jan 1915,{},,,
+8,AWD0003mxv,report,643,2,,,,[],,date,31 Dec 1915,{},,,
+3,AWD0003myf,report,644,4,,,,[],,person,Second Lieutenant  Stafford,"{""first""=>[""""], ""surname""=>[""Stafford""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+5,AWD0003mwv,report,645,4,,,,[],,person,Captain  Bond,"{""first""=>[""""], ""surname""=>[""Bond""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""R. Sussex Regt"", ""Royal Sussex Reg"", ""R. Sussex Regt."", """"]}",,,
+6,AWD0003mwv,report,645,4,,,,[],,person,Major  Powell,"{""first""=>[""""], ""surname""=>[""Powell""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""North Lancs""]}",,,
+2,AWD0003my9,report,649,2,,,,[],,title,Rough Sketch Illustrating Attack,{},,,
+1,AWD0003mx2,diary,655,4,1916-01-01 00:00:00 UTC,1 Jan 1916,Noeux-les-Mines,"[0.0, 0.0]","",diaryDate,1 Jan 1916,"{""day""=>[""1""], ""month""=>[""Jan""], ""year""=>[""1916""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+2,AWD0003mx2,diary,655,3,1916-01-01 00:00:00 UTC,1 Jan 1916,Noeux-les-Mines,"[0.0, 0.0]","",unit,"Blackwatch, Black Watch, The Black Watch","{""name""=>[""Blackwatch"", ""Black Watch"", ""The Black Watch""], ""context""=>[""relieved_by""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+3,AWD0003mx2,diary,655,2,1916-01-01 00:00:00 UTC,1 Jan 1916,"Noeux-les-Mines, NOEUX-LES-MINES","[2.66667, 50.48333]","",place,"Noeux-les-Mines, NOEUX-LES-MINES","{""place""=>[""Noeux-les-Mines"", ""NOEUX-LES-MINES""], ""location""=>[""true""], ""name""=>[""Nœux-les-Mines""], ""lat""=>[""50.48333""], ""long""=>[""2.66667""], ""id""=>[""2990287""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+4,AWD0003mx2,diary,655,4,1916-01-01 00:00:00 UTC,1 Jan 1916,"Noeux-les-Mines, NOEUX-LES-MINES","[2.66667, 50.48333]","",activity,quiet,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+6,AWD0003mx2,diary,655,2,1916-01-01 21:00:00 UTC,1 Jan 1916,"Noeux-les-Mines, NOEUX-LES-MINES","[2.66667, 50.48333]",0900PM,time,0900PM,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+7,AWD0003mx2,diary,655,3,1916-01-01 21:00:00 UTC,1 Jan 1916,"Noeux-les-Mines, NOEUX-LES-MINES","[2.66667, 50.48333]",0900PM,activity,movement,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+8,AWD0003mx2,diary,655,4,1916-01-01 21:00:00 UTC,1 Jan 1916,"Noeux-les-Mines, Noeux-Les-Mines","[0.0, 0.0]",0900PM,place,"Noeux-les-Mines, Noeux-Les-Mines","{""place""=>[""Noeux-les-Mines"", ""Noeux-Les-Mines""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+9,AWD0003mx2,diary,655,5,1916-01-01 18:00:00 UTC,1 Jan 1916,"Noeux-les-Mines, Noeux-Les-Mines","[0.0, 0.0]",0600PM,time,0600PM,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+10,AWD0003mx2,diary,655,3,1916-01-01 18:00:00 UTC,1 Jan 1916,"Noeux-les-Mines, Noeux-Les-Mines","[0.0, 0.0]",0600PM,activity,training,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+13,AWD0003mx2,diary,655,3,1916-01-01 18:00:00 UTC,1 Jan 1916,"Noeux-les-Mines, Noeux-Les-Mines","[0.0, 0.0]",0600PM,casualties,"wounded: 2, non_combat: 1",{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+16,AWD0003mx2,diary,655,4,1916-01-02 00:00:00 UTC,2 Jan 1916,"Noeux-les-Mines, Noeux-Les-Mines","[0.0, 0.0]","",diaryDate,2 Jan 1916,"{""day""=>[""2""], ""month""=>[""Jan""], ""year""=>[""1916""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+17,AWD0003mx2,diary,655,5,1916-01-02 00:00:00 UTC,2 Jan 1916,"Noeux-les-Mines, Noeux-Les-Mines","[0.0, 0.0]","",weather,rain,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+18,AWD0003mx2,diary,655,3,1916-01-02 00:00:00 UTC,2 Jan 1916,"Noeux-les-Mines, Noeux-Les-Mines","[0.0, 0.0]","",domestic,hygiene,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+19,AWD0003mx2,diary,655,4,1916-01-02 00:00:00 UTC,2 Jan 1916,"Noeux-les-Mines, Noeux-Les-Mines","[0.0, 0.0]","",domestic,religion,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+20,AWD0003mx2,diary,655,3,1916-01-02 00:00:00 UTC,2 Jan 1916,"Noeux-Les-Mines, NOEUX-LES-MINES, Noeux-les-Mines","[0.0, 0.0]","",place,"Noeux-Les-Mines, NOEUX-LES-MINES, Noeux-les-Mines","{""place""=>[""Noeux-Les-Mines"", ""NOEUX-LES-MINES"", ""Noeux-les-Mines""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+21,AWD0003mx2,diary,655,3,1916-01-02 11:30:00 UTC,2 Jan 1916,"Noeux-Les-Mines, NOEUX-LES-MINES, Noeux-les-Mines","[0.0, 0.0]",1130AM,time,1130AM,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+22,AWD0003mx2,diary,655,3,1916-01-02 11:30:00 UTC,2 Jan 1916,"Noeux-Les-Mines, NOEUX-LES-MINES, Noeux-les-Mines","[0.0, 0.0]",1130AM,person,Second Lieutenant  Angell,"{""first""=>[""""], ""surname""=>[""Angell""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+23,AWD0003mx2,diary,655,3,1916-01-02 11:30:00 UTC,2 Jan 1916,"Noeux-Les-Mines, NOEUX-LES-MINES, Noeux-les-Mines","[0.0, 0.0]",1130AM,activity,training,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+26,AWD0003mx2,diary,655,3,1916-01-03 00:00:00 UTC,3 Jan 1916,"Noeux-Les-Mines, NOEUX-LES-MINES, Noeux-les-Mines","[0.0, 0.0]","",diaryDate,3 Jan 1916,"{""day""=>[""3""], ""month""=>[""Jan""], ""year""=>[""1916""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+27,AWD0003mx2,diary,655,4,1916-01-03 09:00:00 UTC,3 Jan 1916,"Noeux-Les-Mines, NOEUX-LES-MINES, Noeux-les-Mines","[0.0, 0.0]",0900AM,time,0900AM,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+28,AWD0003mx2,diary,655,2,1916-01-03 09:00:00 UTC,3 Jan 1916,"Noeux-Les-Mines, NOEUX-LES-MINES, Noeux-les-Mines","[0.0, 0.0]",0900AM,activity,training,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+30,AWD0003mx2,diary,655,2,1916-01-03 09:00:00 UTC,3 Jan 1916,"Noeux-Les-Mines, Noeux-les-Mines","[0.0, 0.0]",0900AM,place,"Noeux-Les-Mines, Noeux-les-Mines","{""place""=>[""Noeux-Les-Mines"", ""Noeux-les-Mines""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+32,AWD0003mx2,diary,655,3,1916-01-03 17:00:00 UTC,3 Jan 1916,"Noeux-Les-Mines, Noeux-les-Mines","[0.0, 0.0]",0500PM,time,0500PM,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+34,AWD0003mx2,diary,655,2,1916-01-03 17:00:00 UTC,3 Jan 1916,"Noeux-Les-Mines, Noeux-les-Mines","[0.0, 0.0]",0500PM,domestic,sport,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+35,AWD0003mx2,diary,655,4,1916-01-03 17:00:00 UTC,3 Jan 1916,"Noeux-Les-Mines, Noeux-les-Mines","[0.0, 0.0]",0500PM,person,Second Lieutenant  McMillan,"{""first""=>[""""], ""surname""=>[""McMillan""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""award""], ""unit""=>[""""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+36,AWD0003mx2,diary,655,3,1916-01-03 17:00:00 UTC,3 Jan 1916,"Noeux-Les-Mines, Noeux-les-Mines","[0.0, 0.0]",0500PM,person,Second Lieutenant  Dent,"{""first""=>[""""], ""surname""=>[""Dent""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""award""], ""unit""=>[""""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+37,AWD0003mx2,diary,655,4,1916-01-03 17:00:00 UTC,3 Jan 1916,"Noeux-Les-Mines, Noeux-les-Mines","[0.0, 0.0]",0500PM,person,"Corporal,Captain N, Newman","{""first""=>[""N"", """"], ""surname""=>[""Newman""], ""rank""=>[""Corporal"", ""Captain""], ""number""=>[""""], ""reason""=>[""award""], ""unit""=>[""""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+38,AWD0003mx2,diary,655,4,1916-01-04 00:00:00 UTC,4 Jan 1916,"Noeux-Les-Mines, Noeux-les-Mines","[0.0, 0.0]","",diaryDate,4 Jan 1916,"{""day""=>[""4""], ""month""=>[""Jan""], ""year""=>[""1916""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+40,AWD0003mx2,diary,655,3,1916-01-04 00:00:00 UTC,4 Jan 1916,"Noeux-Les-Mines, Noeux-les-Mines","[0.0, 0.0]","",activity,working,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+41,AWD0003mx2,diary,655,2,1916-01-04 00:00:00 UTC,4 Jan 1916,"Noeux-les-Mines, Noeux-Les-Mines","[0.0, 0.0]","",place,"Noeux-les-Mines, Noeux-Les-Mines","{""place""=>[""Noeux-les-Mines"", ""Noeux-Les-Mines""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+42,AWD0003mx2,diary,655,3,1916-01-04 00:00:00 UTC,4 Jan 1916,"Noeux-les-Mines, Noeux-Les-Mines","[0.0, 0.0]","",activity,training,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+1,AWD0003mzq,diary,656,4,1916-01-05 00:00:00 UTC,5 Jan 1916,"Noeux-les-Mines, Noeux-Les-Mines","[0.0, 0.0]","",diaryDate,5 Jan 1916,"{""day""=>[""5""], ""month""=>[""Jan""], ""year""=>[""1916""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+4,AWD0003mzq,diary,656,2,1916-01-05 17:00:00 UTC,5 Jan 1916,"Noeux-les-Mines, Noeux-Les-Mines","[0.0, 0.0]",0500PM,time,0500PM,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+5,AWD0003mzq,diary,656,6,1916-01-05 09:00:00 UTC,5 Jan 1916,"Noeux-les-Mines, Noeux-Les-Mines","[0.0, 0.0]",0900AM,time,0900AM,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+7,AWD0003mzq,diary,656,4,1916-01-05 09:00:00 UTC,5 Jan 1916,"Noeux-les-Mines, Noeux-Les-Mines","[0.0, 0.0]",0900AM,activity,training,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+10,AWD0003mzq,diary,656,2,1916-01-05 09:00:00 UTC,5 Jan 1916,"Noeux-les-Mines, Noeux-Les-Mines","[0.0, 0.0]",0900AM,activity,working,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+11,AWD0003mzq,diary,656,4,1916-01-06 00:00:00 UTC,6 Jan 1916,"Noeux-les-Mines, Noeux-Les-Mines","[0.0, 0.0]","",diaryDate,6 Jan 1916,"{""day""=>[""6""], ""month""=>[""Jan""], ""year""=>[""1916""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+15,AWD0003mzq,diary,656,3,1916-01-06 00:00:00 UTC,6 Jan 1916,"Noeux-les-Mines, Noeux-Les-Mines","[0.0, 0.0]","",activity,quiet,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+17,AWD0003mzq,diary,656,4,1916-01-07 00:00:00 UTC,7 Jan 1916,"Noeux-les-Mines, Noeux-Les-Mines","[0.0, 0.0]","",diaryDate,7 Jan 1916,"{""day""=>[""7""], ""month""=>[""Jan""], ""year""=>[""1916""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+19,AWD0003mzq,diary,656,2,1916-01-07 00:00:00 UTC,7 Jan 1916,"Noeux-les-Mines, Noeux-Les-Mines","[0.0, 0.0]","",unit,3rd Bde,"{""name""=>[""3rd Bde""], ""context""=>[""relieved""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+20,AWD0003mzq,diary,656,2,,"1 Jun,Jul 1916","Noeux-les-Mines, Noeux-Les-Mines","[0.0, 0.0]","",diaryDate,"1 Jun,Jul 1916","{""day""=>[""1""], ""month""=>[""Jun"", ""Jul""], ""year""=>[""1916""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+22,AWD0003mzq,diary,656,3,,"1 Jun,Jul 1916","Noeux-les-Mines, Noeux-Les-Mines","[0.0, 0.0]","",gridRef,H 31 A 51,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+23,AWD0003mzq,diary,656,3,,"1 Jun,Jul 1916","Noeux-les-Mines, Noeux-Les-Mines","[0.0, 0.0]","",gridRef,H 25 a 5 2,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+24,AWD0003mzq,diary,656,2,,"1 Jun,Jul 1916","Noeux-les-Mines, Noeux-Les-Mines","[0.0, 0.0]","",unit,2nd Welsh,"{""name""=>[""2nd Welsh""], ""context""=>[""relieved""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+27,AWD0003mzq,diary,656,3,,"1 Jun,Jul 1916","Noeux-les-Mines, Noeux-Les-Mines","[0.0, 0.0]","",activity,line,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+28,AWD0003mzq,diary,656,2,,"1 Jun,Jul 1916","Noeux-les-Mines, Noeux-Les-Mines","[0.0, 0.0]","",activity,support,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+29,AWD0003mzq,diary,656,3,,"1 Jun,Jul 1916",Loos,"[3.01874, 50.60982]","",place,Loos,"{""place""=>[""Loos""], ""location""=>[""true""], ""name""=>[""Loos""], ""lat""=>[""50.60982""], ""long""=>[""3.01874""], ""id""=>[""2997620""]}",3003093,Lens,"[2.82791, 50.43302]"
+31,AWD0003mzq,diary,656,3,,"1 Jun,Jul 1916",Loos,"[3.01874, 50.60982]",0930PM,time,0930PM,{},3003093,Lens,"[2.82791, 50.43302]"
+34,AWD0003mzq,diary,656,4,1916-01-08 00:00:00 UTC,8 Jan 1916,Loos,"[3.01874, 50.60982]","",diaryDate,8 Jan 1916,"{""day""=>[""8""], ""month""=>[""Jan""], ""year""=>[""1916""]}",3003093,Lens,"[2.82791, 50.43302]"
+36,AWD0003mzq,diary,656,4,1916-01-08 00:00:00 UTC,8 Jan 1916,Loos,"[3.01874, 50.60982]","",activity,quiet,{},3003093,Lens,"[2.82791, 50.43302]"
+37,AWD0003mzq,diary,656,5,1916-01-08 00:00:00 UTC,8 Jan 1916,Loos,"[3.01874, 50.60982]","",casualties,wounded: 1,{},3003093,Lens,"[2.82791, 50.43302]"
+42,AWD0003mzq,diary,656,2,1916-01-08 00:00:00 UTC,8 Jan 1916,Loos,"[3.01874, 50.60982]","",person,Second Lieutenant  McMillan,"{""first""=>[""""], ""surname""=>[""McMillan""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""B Coy, 2nd Bn King's Royal Rifle Corps"", """"]}",3003093,Lens,"[2.82791, 50.43302]"
+43,AWD0003mzq,diary,656,2,1916-01-09 00:00:00 UTC,9 Jan 1916,Loos,"[3.01874, 50.60982]","",diaryDate,9 Jan 1916,"{""day""=>[""9""], ""month""=>[""Jan""], ""year""=>[""1916""]}",3003093,Lens,"[2.82791, 50.43302]"
+45,AWD0003mzq,diary,656,2,1916-01-09 00:00:00 UTC,9 Jan 1916,Loos,"[3.01874, 50.60982]","",diaryDate,9 Jan 1916,"{""day""=>[""9""], ""month""=>[""Jan""], ""year""=>[""1916""]}",3003093,Lens,"[2.82791, 50.43302]"
+46,AWD0003mzq,diary,656,2,1916-01-09 00:00:00 UTC,9 Jan 1916,Loos,"[3.01874, 50.60982]","",activity,fire,{},3003093,Lens,"[2.82791, 50.43302]"
+50,AWD0003mzq,diary,656,3,1916-01-09 00:00:00 UTC,9 Jan 1916,Loos,"[3.01874, 50.60982]","",activity,quiet,{},3003093,Lens,"[2.82791, 50.43302]"
+53,AWD0003mzq,diary,656,3,1916-01-09 00:00:00 UTC,9 Jan 1916,Loos,"[3.01874, 50.60982]","",person,Second Lieutenant  Symington,"{""first""=>[""""], ""surname""=>[""Symington""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""combat"", ""commander"", ""other""], ""unit""=>[""""]}",3003093,Lens,"[2.82791, 50.43302]"
+54,AWD0003mzq,diary,656,4,1916-01-09 00:00:00 UTC,9 Jan 1916,Loos,"[3.01874, 50.60982]","",person,",Second Lieutenant  Reddie","{""first""=>[""""], ""surname""=>[""Reddie""], ""rank""=>["""", ""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",3003093,Lens,"[2.82791, 50.43302]"
+55,AWD0003mzq,diary,656,4,1916-01-09 00:00:00 UTC,9 Jan 1916,Loos,"[3.01874, 50.60982]","",person,"Second Lieutenant,  Munro","{""first""=>[""""], ""surname""=>[""Munro""], ""rank""=>[""Second Lieutenant"", """"], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",3003093,Lens,"[2.82791, 50.43302]"
+59,AWD0003mzq,diary,656,4,1916-01-09 00:00:00 UTC,9 Jan 1916,Loos,"[3.01874, 50.60982]","",person,Captain  Bullen,"{""first""=>[""""], ""surname""=>[""Bullen""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",3003093,Lens,"[2.82791, 50.43302]"
+1,AWD0003my2,diary,657,2,1916-01-09 00:00:00 UTC,9 Jan 1916,Loos,"[3.01874, 50.60982]","",diaryDate,9 Jan 1916,"{""day""=>[""9""], ""month""=>[""Jan""], ""year""=>[""1916""]}",3003093,Lens,"[2.82791, 50.43302]"
+4,AWD0003my2,diary,657,3,1916-01-09 22:00:00 UTC,9 Jan 1916,Loos,"[3.01874, 50.60982]",1000PM,time,1000PM,{},3003093,Lens,"[2.82791, 50.43302]"
+6,AWD0003my2,diary,657,6,1916-01-09 00:12:00 UTC,9 Jan 1916,Loos,"[3.01874, 50.60982]",1212AM,time,1212AM,{},3003093,Lens,"[2.82791, 50.43302]"
+7,AWD0003my2,diary,657,5,1916-01-09 00:12:00 UTC,9 Jan 1916,Loos,"[3.01874, 50.60982]",1212AM,person,Second Lieutenant  Symington,"{""first""=>[""""], ""surname""=>[""Symington""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""combat"", ""other""], ""unit""=>[""""]}",3003093,Lens,"[2.82791, 50.43302]"
+12,AWD0003my2,diary,657,6,1916-01-09 01:08:00 UTC,9 Jan 1916,Loos,"[3.01874, 50.60982]",0108AM,time,0108AM,{},3003093,Lens,"[2.82791, 50.43302]"
+15,AWD0003my2,diary,657,2,1916-01-09 01:08:00 UTC,9 Jan 1916,Loos,"[3.01874, 50.60982]",0108AM,activity,attack,{},3003093,Lens,"[2.82791, 50.43302]"
+16,AWD0003my2,diary,657,6,1916-01-09 01:47:00 UTC,9 Jan 1916,Loos,"[3.01874, 50.60982]",0147AM,time,0147AM,{},3003093,Lens,"[2.82791, 50.43302]"
+20,AWD0003my2,diary,657,2,1916-01-09 01:47:00 UTC,9 Jan 1916,Loos,"[3.01874, 50.60982]",0147AM,person,Second Lieutenant  Symington,"{""first""=>[""""], ""surname""=>[""Symington""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""combat"", ""other""], ""unit""=>["""", ""2 Battalion King's Royal Rifle Corps""]}",3003093,Lens,"[2.82791, 50.43302]"
+21,AWD0003my2,diary,657,6,1916-01-09 02:10:00 UTC,9 Jan 1916,Loos,"[3.01874, 50.60982]",0210AM,time,0210AM,{},3003093,Lens,"[2.82791, 50.43302]"
+23,AWD0003my2,diary,657,5,1916-01-09 02:10:00 UTC,9 Jan 1916,Loos,"[3.01874, 50.60982]",0210AM,person,Second Lieutenant  Munro,"{""first""=>[""""], ""surname""=>[""Munro""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""""]}",3003093,Lens,"[2.82791, 50.43302]"
+25,AWD0003my2,diary,657,5,1916-01-09 02:10:00 UTC,9 Jan 1916,Loos,"[3.01874, 50.60982]",0210AM,person,Second Lieutenant  Reddie,"{""first""=>[""""], ""surname""=>[""Reddie""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""""]}",3003093,Lens,"[2.82791, 50.43302]"
+27,AWD0003my2,diary,657,4,1916-01-09 02:10:00 UTC,9 Jan 1916,Loos,"[3.01874, 50.60982]",0210AM,person,Captain  Bullen,"{""first""=>[""""], ""surname""=>[""Bullen""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""""]}",3003093,Lens,"[2.82791, 50.43302]"
+29,AWD0003my2,diary,657,6,1916-01-09 02:34:00 UTC,9 Jan 1916,Loos,"[3.01874, 50.60982]",0234AM,time,0234AM,{},3003093,Lens,"[2.82791, 50.43302]"
+33,AWD0003my2,diary,657,3,1916-01-09 02:34:00 UTC,9 Jan 1916,Loos,"[3.01874, 50.60982]",0234AM,activity,attack,{},3003093,Lens,"[2.82791, 50.43302]"
+34,AWD0003my2,diary,657,6,1916-01-09 02:50:00 UTC,9 Jan 1916,Loos,"[3.01874, 50.60982]",0250AM,time,0250AM,{},3003093,Lens,"[2.82791, 50.43302]"
+36,AWD0003my2,diary,657,6,1916-01-09 02:55:00 UTC,9 Jan 1916,Loos,"[3.01874, 50.60982]",0255AM,time,0255AM,{},3003093,Lens,"[2.82791, 50.43302]"
+38,AWD0003my2,diary,657,2,1916-01-09 02:55:00 UTC,9 Jan 1916,Loos,"[3.01874, 50.60982]",0255AM,casualties,wounded: 3,{},3003093,Lens,"[2.82791, 50.43302]"
+39,AWD0003my2,diary,657,2,1916-01-09 02:55:00 UTC,9 Jan 1916,Loos,"[3.01874, 50.60982]",0255AM,casualties,wounded: 2,{},3003093,Lens,"[2.82791, 50.43302]"
+40,AWD0003my2,diary,657,6,1916-01-09 03:05:00 UTC,9 Jan 1916,Loos,"[3.01874, 50.60982]",0305AM,time,0305AM,{},3003093,Lens,"[2.82791, 50.43302]"
+42,AWD0003my2,diary,657,2,1916-01-09 00:00:00 UTC,9 Jan 1916,Loos,"[3.01874, 50.60982]","",diaryDate,9 Jan 1916,"{""day""=>[""9""], ""month""=>[""Jan""], ""year""=>[""1916""]}",3003093,Lens,"[2.82791, 50.43302]"
+1,AWD0003mwn,diary,658,2,1916-01-09 00:00:00 UTC,9 Jan 1916,Loos,"[3.01874, 50.60982]","",diaryDate,9 Jan 1916,"{""day""=>[""9""], ""month""=>[""Jan""], ""year""=>[""1916""]}",3003093,Lens,"[2.82791, 50.43302]"
+2,AWD0003mwn,diary,658,2,1916-01-09 00:00:00 UTC,9 Jan 1916,Loos,"[3.01874, 50.60982]","",activity,fire,{},3003093,Lens,"[2.82791, 50.43302]"
+8,AWD0003mwn,diary,658,2,1916-01-09 00:00:00 UTC,9 Jan 1916,Loos,"[3.01874, 50.60982]","",place,Puit 14,"{""place""=>[""Puit 14""], ""location""=>[""false"", ""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3003093,Lens,"[2.82791, 50.43302]"
+10,AWD0003mwn,diary,658,2,1916-01-10 00:00:00 UTC,10 Jan 1916,Loos,"[3.01874, 50.60982]","",diaryDate,10 Jan 1916,"{""day""=>[""10""], ""month""=>[""Jan""], ""year""=>[""1916""]}",3003093,Lens,"[2.82791, 50.43302]"
+14,AWD0003mwn,diary,658,5,1916-01-10 00:00:00 UTC,10 Jan 1916,Loos,"[3.01874, 50.60982]","",activity,quiet,{},3003093,Lens,"[2.82791, 50.43302]"
+15,AWD0003mwn,diary,658,3,1916-01-11 00:00:00 UTC,11 Jan 1916,Loos,"[3.01874, 50.60982]","",diaryDate,11 Jan 1916,"{""day""=>[""11""], ""month""=>[""Jan""], ""year""=>[""1916""]}",3003093,Lens,"[2.82791, 50.43302]"
+18,AWD0003mwn,diary,658,3,1916-01-11 00:00:00 UTC,11 Jan 1916,Loos,"[3.01874, 50.60982]","",unit,2nd Royal Sussex,"{""name""=>[""2nd Royal Sussex""], ""context""=>[""relieved_by""]}",3003093,Lens,"[2.82791, 50.43302]"
+19,AWD0003mwn,diary,658,3,1916-01-11 00:00:00 UTC,11 Jan 1916,Loos,"[3.01874, 50.60982]","",activity,support,{},3003093,Lens,"[2.82791, 50.43302]"
+24,AWD0003mwn,diary,658,3,1916-01-11 00:00:00 UTC,11 Jan 1916,Chalk Pit,"[0.0, 0.0]","",place,Chalk Pit,"{""place""=>[""Chalk Pit""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2994837,Mazingarbe,"[2.71544, 50.48961]"
+26,AWD0003mwn,diary,658,4,1916-01-11 00:00:00 UTC,11 Jan 1916,Chalk Pit,"[0.0, 0.0]","",place,Posen Alley,"{""place""=>[""Posen Alley""], ""location""=>[""true"", ""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2994837,Mazingarbe,"[2.71544, 50.48961]"
+27,AWD0003mwn,diary,658,2,1916-01-11 00:00:00 UTC,11 Jan 1916,Chalk Pit,"[0.0, 0.0]","",unit,"A Coy 2 Battalion King's Royal Rifle Corps, C Coy 2 Battalion King's Royal Rifle Corps","{""name""=>[""A Coy 2 Battalion King's Royal Rifle Corps"", ""C Coy 2 Battalion King's Royal Rifle Corps""], ""context""=>[""other""]}",2994837,Mazingarbe,"[2.71544, 50.48961]"
+34,AWD0003mwn,diary,658,3,1916-01-11 00:00:00 UTC,11 Jan 1916,"GUN ALLEY, Gun Alley , Gun Alley","[0.0, 0.0]","",place,"GUN ALLEY, Gun Alley , Gun Alley","{""place""=>[""GUN ALLEY"", ""Gun Alley "", ""Gun Alley""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+35,AWD0003mwn,diary,658,2,1916-01-11 00:00:00 UTC,11 Jan 1916,"GUN ALLEY, Gun Alley , Gun Alley","[0.0, 0.0]","",unit,"B Coy 2 Battalion King's Royal Rifle Corps, D Coy 2 Battalion King's Royal Rifle Corps","{""name""=>[""B Coy 2 Battalion King's Royal Rifle Corps"", ""D Coy 2 Battalion King's Royal Rifle Corps""], ""context""=>[""other""]}",,,
+37,AWD0003mwn,diary,658,2,1916-01-12 00:00:00 UTC,12 Jan 1916,"GUN ALLEY, Gun Alley , Gun Alley","[0.0, 0.0]","",diaryDate,12 Jan 1916,"{""day""=>[""12""], ""month""=>[""Jan""], ""year""=>[""1916""]}",,,
+41,AWD0003mwn,diary,658,2,1916-01-12 00:00:00 UTC,12 Jan 1916,"GUN ALLEY, Gun Alley , Gun Alley","[0.0, 0.0]","",activity,repair,{},,,
+42,AWD0003mwn,diary,658,2,1916-01-12 00:00:00 UTC,12 Jan 1916,"GUN ALLEY, Gun Alley , Gun Alley","[0.0, 0.0]","",activity,working,{},,,
+44,AWD0003mwn,diary,658,2,1916-01-12 00:00:00 UTC,12 Jan 1916,Strand Alley,"[0.0, 0.0]","",place,Strand Alley,"{""place""=>[""Strand Alley""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+47,AWD0003mwn,diary,658,3,1916-01-12 00:00:00 UTC,12 Jan 1916,Gun Alley,"[0.0, 0.0]","",place,Gun Alley,"{""place""=>[""Gun Alley""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+1,AWD0003mwm,diary,659,3,1916-01-13 00:00:00 UTC,13 Jan 1916,Gun Alley,"[0.0, 0.0]","",diaryDate,13 Jan 1916,"{""day""=>[""13""], ""month""=>[""Jan""], ""year""=>[""1916""]}",,,
+4,AWD0003mwm,diary,659,4,1916-01-13 00:00:00 UTC,13 Jan 1916,Gun Alley,"[0.0, 0.0]","",casualties,wounded: 2,{},,,
+5,AWD0003mwm,diary,659,2,1916-01-13 00:00:00 UTC,13 Jan 1916,Gun Alley,"[0.0, 0.0]","",activity,working,{},,,
+6,AWD0003mwm,diary,659,2,1916-01-13 00:00:00 UTC,13 Jan 1916,Gun Alley,"[0.0, 0.0]","",activity,repair,{},,,
+8,AWD0003mwm,diary,659,3,1916-01-14 00:00:00 UTC,14 Jan 1916,Gun Alley,"[0.0, 0.0]","",diaryDate,14 Jan 1916,"{""day""=>[""14""], ""month""=>[""Jan""], ""year""=>[""1916""]}",,,
+11,AWD0003mwm,diary,659,4,1916-01-14 00:00:00 UTC,14 Jan 1916,Gun Alley,"[0.0, 0.0]","",activity,quiet,{},,,
+12,AWD0003mwm,diary,659,3,1916-01-14 00:00:00 UTC,14 Jan 1916,Gun Alley,"[0.0, 0.0]","",casualties,wounded: 2,{},,,
+16,AWD0003mwm,diary,659,2,1916-01-14 00:00:00 UTC,14 Jan 1916,Gun Alley,"[0.0, 0.0]","",activity,repair,{},,,
+18,AWD0003mwm,diary,659,3,1916-01-14 00:00:00 UTC,14 Jan 1916,Gun Alley,"[0.0, 0.0]","",unit,7th Camerons,"{""name""=>[""7th Camerons""], ""context""=>[""relieved_by""]}",,,
+19,AWD0003mwm,diary,659,2,1916-01-14 00:00:00 UTC,14 Jan 1916,Gun Alley,"[0.0, 0.0]","",unit,"7/ Cameron Highlanders, 7th Cameron Highlanders","{""name""=>[""7/ Cameron Highlanders"", ""7th Cameron Highlanders""], ""context""=>[""relieved_by""]}",,,
+21,AWD0003mwm,diary,659,6,1916-01-14 00:00:00 UTC,14 Jan 1916,Gun Alley,"[0.0, 0.0]","",activity,movement,{},,,
+24,AWD0003mwm,diary,659,5,1916-01-14 00:00:00 UTC,14 Jan 1916,Noeux-les-Mines,"[2.66667, 50.48333]","",place,Noeux-les-Mines,"{""place""=>[""Noeux-les-Mines""], ""location""=>[""true""], ""name""=>[""Nœux-les-Mines""], ""lat""=>[""50.48333""], ""long""=>[""2.66667""], ""id""=>[""2990287""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+27,AWD0003mwm,diary,659,2,1916-01-14 21:30:00 UTC,14 Jan 1916,Noeux-les-Mines,"[2.66667, 50.48333]",0930PM,time,0930PM,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+28,AWD0003mwm,diary,659,4,1916-01-15 00:00:00 UTC,15 Jan 1916,Noeux-les-Mines,"[2.66667, 50.48333]","",diaryDate,15 Jan 1916,"{""day""=>[""15""], ""month""=>[""Jan""], ""year""=>[""1916""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+30,AWD0003mwm,diary,659,4,1916-01-15 00:00:00 UTC,15 Jan 1916,Noeux-les-Mines,"[2.66667, 50.48333]","",activity,movement,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+32,AWD0003mwm,diary,659,3,1916-01-15 10:00:00 UTC,15 Jan 1916,Noeux-les-Mines,"[2.66667, 50.48333]",1000AM,time,1000AM,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+33,AWD0003mwm,diary,659,2,1916-01-15 10:00:00 UTC,15 Jan 1916,Noeux-les-Mines,"[2.66667, 50.48333]",1000AM,domestic,accomodation,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+34,AWD0003mwm,diary,659,5,1916-01-15 10:00:00 UTC,15 Jan 1916,Lillers,"[2.48042, 50.56345]",1000AM,place,Lillers,"{""place""=>[""Lillers""], ""location""=>[""true""], ""name""=>[""Lillers""], ""lat""=>[""50.56345""], ""long""=>[""2.48042""], ""id""=>[""2998320""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+35,AWD0003mwm,diary,659,3,1916-01-15 11:30:00 UTC,15 Jan 1916,Lillers,"[2.48042, 50.56345]",1130AM,time,1130AM,{},2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+38,AWD0003mwm,diary,659,3,1916-01-15 11:30:00 UTC,15 Jan 1916,Lillers,"[2.48042, 50.56345]",1130AM,place,Lillers,"{""place""=>[""Lillers""], ""location""=>[""true""], ""name""=>[""Lillers""], ""lat""=>[""50.56345""], ""long""=>[""2.48042""], ""id""=>[""2998320""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+40,AWD0003mwm,diary,659,3,1916-01-16 00:00:00 UTC,16 Jan 1916,Lillers,"[2.48042, 50.56345]","",diaryDate,16 Jan 1916,"{""day""=>[""16""], ""month""=>[""Jan""], ""year""=>[""1916""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+42,AWD0003mwm,diary,659,5,1916-01-16 00:00:00 UTC,16 Jan 1916,Lillers,"[2.48042, 50.56345]","",domestic,religion,{},2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+43,AWD0003mwm,diary,659,2,1916-01-16 00:00:00 UTC,16 Jan 1916,Lillers,"[2.48042, 50.56345]","",domestic,parades,{},2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+46,AWD0003mwm,diary,659,2,1916-01-16 00:00:00 UTC,16 Jan 1916,Lillers,"[2.48042, 50.56345]","",activity,training,{},2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+47,AWD0003mwm,diary,659,3,1916-01-17 00:00:00 UTC,17 Jan 1916,Lillers,"[2.48042, 50.56345]","",diaryDate,17 Jan 1916,"{""day""=>[""17""], ""month""=>[""Jan""], ""year""=>[""1916""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+50,AWD0003mwm,diary,659,3,1916-01-17 00:00:00 UTC,17 Jan 1916,Lillers,"[2.48042, 50.56345]","",place,Lillers,"{""place""=>[""Lillers""], ""location""=>[""true""], ""name""=>[""Lillers""], ""lat""=>[""50.56345""], ""long""=>[""2.48042""], ""id""=>[""2998320""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+51,AWD0003mwm,diary,659,5,1916-01-17 00:00:00 UTC,17 Jan 1916,Lillers,"[2.48042, 50.56345]","",activity,training,{},2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+1,AWD0003mx3,diary,660,4,1916-01-18 00:00:00 UTC,18 Jan 1916,Lillers,"[2.48042, 50.56345]","",diaryDate,18 Jan 1916,"{""day""=>[""18""], ""month""=>[""Jan""], ""year""=>[""1916""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+2,AWD0003mx3,diary,660,5,1916-01-18 00:00:00 UTC,18 Jan 1916,Lillers,"[2.48042, 50.56345]","",activity,training,{},2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+4,AWD0003mx3,diary,660,4,1916-01-19 00:00:00 UTC,19 Jan 1916,Lillers,"[2.48042, 50.56345]","",diaryDate,19 Jan 1916,"{""day""=>[""19""], ""month""=>[""Jan""], ""year""=>[""1916""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+6,AWD0003mx3,diary,660,5,1916-01-19 00:00:00 UTC,19 Jan 1916,Lillers,"[2.48042, 50.56345]","",domestic,parades,{},2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+8,AWD0003mx3,diary,660,4,1916-01-20 00:00:00 UTC,20 Jan 1916,Lillers,"[2.48042, 50.56345]","",diaryDate,20 Jan 1916,"{""day""=>[""20""], ""month""=>[""Jan""], ""year""=>[""1916""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+11,AWD0003mx3,diary,660,5,1916-01-20 00:00:00 UTC,20 Jan 1916,Lillers,"[2.48042, 50.56345]","",domestic,inspections,{},2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+12,AWD0003mx3,diary,660,5,1916-01-20 00:00:00 UTC,20 Jan 1916,Lillers,"[2.48042, 50.56345]","",person,"General  Joffre, JOFFE","{""first""=>[""""], ""surname""=>[""Joffre"", ""JOFFE""], ""rank""=>[""General""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+14,AWD0003mx3,diary,660,2,1916-01-20 00:00:00 UTC,20 Jan 1916,Lillers,"[2.48042, 50.56345]","",place,Chateau Philomel,"{""place""=>[""Chateau Philomel""], ""location""=>[""true"", ""false""], ""name""=>[""Lillers"", """"], ""lat""=>[""50.56345"", """"], ""long""=>[""2.48042"", """"], ""id""=>[""2998320"", """"]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+15,AWD0003mx3,diary,660,3,1916-01-20 00:00:00 UTC,20 Jan 1916,Lillers,"[2.48042, 50.56345]","",weather,rain,{},2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+16,AWD0003mx3,diary,660,3,1916-01-20 00:00:00 UTC,20 Jan 1916,Lillers,"[2.48042, 50.56345]","",weather,cold,{},2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+21,AWD0003mx3,diary,660,2,1916-01-20 00:00:00 UTC,20 Jan 1916,Lillers,"[2.48042, 50.56345]","",domestic,parades,{},2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+22,AWD0003mx3,diary,660,4,1916-01-21 00:00:00 UTC,21 Jan 1916,Lillers,"[2.48042, 50.56345]","",diaryDate,21 Jan 1916,"{""day""=>[""21""], ""month""=>[""Jan""], ""year""=>[""1916""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+25,AWD0003mx3,diary,660,6,1916-01-21 00:00:00 UTC,21 Jan 1916,Lillers,"[2.48042, 50.56345]","",activity,training,{},2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+26,AWD0003mx3,diary,660,4,1916-01-22 00:00:00 UTC,22 Jan 1916,Lillers,"[2.48042, 50.56345]","",diaryDate,22 Jan 1916,"{""day""=>[""22""], ""month""=>[""Jan""], ""year""=>[""1916""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+28,AWD0003mx3,diary,660,4,1916-01-22 00:00:00 UTC,22 Jan 1916,Lillers,"[2.48042, 50.56345]","",activity,training,{},2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+29,AWD0003mx3,diary,660,5,1916-01-22 00:00:00 UTC,22 Jan 1916,Lillers,"[2.48042, 50.56345]","",domestic,sport,{},2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+31,AWD0003mx3,diary,660,4,1916-01-23 00:00:00 UTC,23 Jan 1916,Lillers,"[2.48042, 50.56345]","",diaryDate,23 Jan 1916,"{""day""=>[""23""], ""month""=>[""Jan""], ""year""=>[""1916""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+32,AWD0003mx3,diary,660,2,1916-01-23 00:00:00 UTC,23 Jan 1916,Lillers,"[2.48042, 50.56345]","",place,Lillers,"{""place""=>[""Lillers""], ""location""=>[""true""], ""name""=>[""Lillers""], ""lat""=>[""50.56345""], ""long""=>[""2.48042""], ""id""=>[""2998320""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+33,AWD0003mx3,diary,660,5,1916-01-23 00:00:00 UTC,23 Jan 1916,Lillers,"[2.48042, 50.56345]","",domestic,religion,{},2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+34,AWD0003mx3,diary,660,2,1916-01-23 00:00:00 UTC,23 Jan 1916,Lillers,"[2.48042, 50.56345]","",domestic,parades,{},2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+36,AWD0003mx3,diary,660,5,1916-01-24 00:00:00 UTC,24 Jan 1916,Lillers,"[2.48042, 50.56345]","",diaryDate,24 Jan 1916,"{""day""=>[""24""], ""month""=>[""Jan""], ""year""=>[""1916""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+37,AWD0003mx3,diary,660,5,1916-01-24 00:00:00 UTC,24 Jan 1916,Lillers,"[2.48042, 50.56345]","",activity,training,{},2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+38,AWD0003mx3,diary,660,5,1916-01-25 00:00:00 UTC,25 Jan 1916,Lillers,"[2.48042, 50.56345]","",diaryDate,25 Jan 1916,"{""day""=>[""25""], ""month""=>[""Jan""], ""year""=>[""1916""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+39,AWD0003mx3,diary,660,2,1916-01-25 00:00:00 UTC,25 Jan 1916,Lillers,"[2.48042, 50.56345]","",place,Lillers,"{""place""=>[""Lillers""], ""location""=>[""true""], ""name""=>[""Lillers""], ""lat""=>[""50.56345""], ""long""=>[""2.48042""], ""id""=>[""2998320""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+40,AWD0003mx3,diary,660,6,1916-01-25 00:00:00 UTC,25 Jan 1916,Lillers,"[2.48042, 50.56345]","",activity,training,{},2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+41,AWD0003mx3,diary,660,5,1916-01-26 00:00:00 UTC,26 Jan 1916,Lillers,"[2.48042, 50.56345]","",diaryDate,26 Jan 1916,"{""day""=>[""26""], ""month""=>[""Jan""], ""year""=>[""1916""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+43,AWD0003mx3,diary,660,4,1916-01-26 00:00:00 UTC,26 Jan 1916,Lillers,"[2.48042, 50.56345]","",activity,training,{},2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+1,AWD0003mxm,diary,661,4,1916-01-27 00:00:00 UTC,27 Jan 1916,Lillers,"[2.48042, 50.56345]","",diaryDate,27 Jan 1916,"{""day""=>[""27""], ""month""=>[""Jan""], ""year""=>[""1916""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+2,AWD0003mxm,diary,661,5,1916-01-27 00:00:00 UTC,27 Jan 1916,Lillers,"[2.48042, 50.56345]","",activity,training,{},2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+5,AWD0003mxm,diary,661,5,1916-01-28 00:00:00 UTC,28 Jan 1916,Lillers,"[2.48042, 50.56345]","",diaryDate,28 Jan 1916,"{""day""=>[""28""], ""month""=>[""Jan""], ""year""=>[""1916""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+7,AWD0003mxm,diary,661,8,1916-01-28 00:00:00 UTC,28 Jan 1916,Lillers,"[2.48042, 50.56345]","",activity,training,{},2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+8,AWD0003mxm,diary,661,4,1916-01-29 00:00:00 UTC,29 Jan 1916,Lillers,"[2.48042, 50.56345]","",diaryDate,29 Jan 1916,"{""day""=>[""29""], ""month""=>[""Jan""], ""year""=>[""1916""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+9,AWD0003mxm,diary,661,2,1916-01-29 00:00:00 UTC,29 Jan 1916,Lillers,"[2.48042, 50.56345]","",activity,other,{},2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+12,AWD0003mxm,diary,661,4,1916-01-29 00:00:00 UTC,29 Jan 1916,Lillers,"[2.48042, 50.56345]","",domestic,sport,{},2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+13,AWD0003mxm,diary,661,4,1916-01-30 00:00:00 UTC,30 Jan 1916,Lillers,"[2.48042, 50.56345]","",diaryDate,30 Jan 1916,"{""day""=>[""30""], ""month""=>[""Jan""], ""year""=>[""1916""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+14,AWD0003mxm,diary,661,5,1916-01-30 00:00:00 UTC,30 Jan 1916,Lillers,"[2.48042, 50.56345]","",domestic,religion,{},2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+15,AWD0003mxm,diary,661,2,1916-01-30 00:00:00 UTC,30 Jan 1916,Lillers,"[2.48042, 50.56345]","",domestic,parades,{},2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+5,AWD0003mxw,orders,663,3,,,,[],,orders,move,{},,,
+6,AWD0003mxw,orders,663,3,,,,[],,person,"Brigadier General F H THUILIGER, Thuillier, Thullier","{""first""=>[""F H""], ""surname""=>[""THUILIGER"", ""Thuillier"", ""Thullier""], ""rank""=>[""Brigadier General""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>["""", ""2nd Inf Bde"", ""2nd Infantry Bde.""]}",,,
+7,AWD0003mxw,orders,663,4,,,,[],,date,31 Dec 1915,{},,,
+11,AWD0003mxw,orders,663,2,,,,[],,person,"Captain ,A G F Isaac","{""first""=>["""", ""A G F""], ""surname""=>[""Isaac""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""2nd Inf Bde"", ""2nd Infantry Brigade""]}",,,
+2,AWD0003mza,orders,664,3,,,,[],,orders,move,{},,,
+3,AWD0003mza,orders,664,2,,,,[],,date,31 Dec 1915,{},,,
+4,AWD0003mza,orders,664,2,,,,[],,orders,move,{},,,
+6,AWD0003mvx,orders,665,3,,,,[],,date,31 Dec 1915,{},,,
+7,AWD0003mvx,orders,665,2,,,,[],,orders,move,{},,,
+10,AWD0003mvx,orders,665,2,,,,[],,person,Lieutenant  Adams,"{""first""=>[""""], ""surname""=>[""Adams""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+6,AWD0003mxz,orders,666,2,,,,[],,orders,move,{},,,
+1,AWD0003mxh,orders,667,2,,,,[],,orders,move,{},,,
+6,AWD0003mx7,report,669,2,,,,[],,title,Patrol Report,{},,,
+7,AWD0003mx7,report,669,3,,,,[],,person,Second Lieutenant D C McMillan,"{""first""=>[""D C""], ""surname""=>[""McMillan""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""2 Battalion King's Royal Rifle Corps""]}",,,
+8,AWD0003mx7,report,669,2,,,,[],,person,  ,"{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+9,AWD0003mx7,report,669,2,,,,[],,person, D C McMILLAN,"{""first""=>[""D C""], ""surname""=>[""McMILLAN""], ""rank""=>[""""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+2,AWD0003mw2,report,670,2,,,,[],,date,22 Jan 1916,{},,,
+7,AWD0003mw2,report,670,4,,,,[],,person,"Major H F W, Bircham","{""first""=>[""H F W"", """"], ""surname""=>[""Bircham""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""2nd Bn, The King's Royal Rifle Corps""]}",,,
+8,AWD0003mw2,report,670,3,,,,[],,person,Captain A C Oppenheim,"{""first""=>[""A C""], ""surname""=>[""Oppenheim""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""2nd Bn King's Royal Rifle Corps"", ""2nd Bn, The King's Royal Rifle Corps"", ""2 i/c 2 Battalion King's Royal Rifle Corps""]}",,,
+9,AWD0003mw2,report,670,3,,,,[],,person,Captain J B Brady,"{""first""=>[""J B""], ""surname""=>[""Brady""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""2nd Bn King's Royal Rifle Corps"", ""1st Division"", ""2 Battalion King's Royal Rifle Corps""]}",,,
+10,AWD0003mw2,report,670,3,,,,[],,person,"Lieutenant R J R,P J R,R Currie","{""first""=>[""R J R"", ""P J R"", ""R""], ""surname""=>[""Currie""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""2nd Bn King's Royal Rifle Corps"", ""Adj. 2 Battalion King's Royal Rifle Corps"", ""2nd Bn, The King's Royal Rifle Corps""]}",,,
+11,AWD0003mw2,report,670,3,,,,[],,person,Lieutenant G S Walley,"{""first""=>[""G S""], ""surname""=>[""Walley""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""2nd Bn King's Royal Rifle Corps"", ""2nd Bn, The King's Royal Rifle Corps"", ""2 Battalion King's Royal Rifle Corps""]}",,,
+12,AWD0003mw2,report,670,3,,,,[],,person,"Second Lieutenant F J L,P J L,R Johnstone","{""first""=>[""F J L"", ""P J L"", ""R""], ""surname""=>[""Johnstone""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""2nd Bn King's Royal Rifle Corps"", ""2 Battalion King's Royal Rifle Corps"", """"]}",,,
+13,AWD0003mw2,report,670,3,,,,[],,person,Second Lieutenant F C Cull,"{""first""=>[""F C""], ""surname""=>[""Cull""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""2 Battalion King's Royal Rifle Corps"", ""2nd Bn King's Royal Rifle Corps"", ""2nd Bn, The King's Royal Rifle Corps""]}",,,
+14,AWD0003mw2,report,670,3,,,,[],,person,Second Lieutenant E Wenham,"{""first""=>[""E""], ""surname""=>[""Wenham""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""2nd Bn, The King's Royal Rifle Corps"", ""2nd Bn King's Royal Rifle Corps"", ""2 Battalion King's Royal Rifle Corps""]}",,,
+15,AWD0003mw2,report,670,3,,,,[],,person,"Second Lieutenant C S,C,G S Egerton-Green","{""first""=>[""C S"", ""C"", ""G S""], ""surname""=>[""Egerton-Green""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""2nd Bn King's Royal Rifle Corps"", ""2nd Bn, The King's Royal Rifle Corps"", ""2 Battalion King's Royal Rifle Corps""]}",,,
+16,AWD0003mw2,report,670,3,,,,[],,person,"Second Lieutenant A G N,A G M,A Dickenson","{""first""=>[""A G N"", ""A G M"", ""A""], ""surname""=>[""Dickenson""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""2nd Bn King's Royal Rifle Corps"", ""2 Battalion King's Royal Rifle Corps"", ""2nd Bn, The King's Royal Rifle Corps""]}",,,
+17,AWD0003mw2,report,670,3,,,,[],,person,"Second Lieutenant R A W,E A W,R Dent","{""first""=>[""R A W"", ""E A W"", ""R""], ""surname""=>[""Dent""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""2 Battalion King's Royal Rifle Corps"", ""2nd Bn King's Royal Rifle Corps"", ""2nd Bn, The King's Royal Rifle Corps""]}",,,
+18,AWD0003mw2,report,670,3,,,,[],,person,Second Lieutenant T B J Mahar,"{""first""=>[""T B J""], ""surname""=>[""Mahar""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""2 Battalion King's Royal Rifle Corps"", ""2nd Bn King's Royal Rifle Corps"", ""2nd Bn, The King's Royal Rifle Corps""]}",,,
+19,AWD0003mw2,report,670,3,,,,[],,person,Second Lieutenant R Bullen,"{""first""=>[""R""], ""surname""=>[""Bullen""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""2 Battalion King's Royal Rifle Corps"", ""2nd Bn King's Royal Rifle Corps"", ""2nd Bn, The King's Royal Rifle Corps""]}",,,
+20,AWD0003mw2,report,670,2,,,,[],,person,"Second Lieutenant R,F R Whatley, Whately","{""first""=>[""R"", ""F R""], ""surname""=>[""Whatley"", ""Whately""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""joined"", ""other""], ""unit""=>[""Trench M. Battery"", ""2 Battalion King's Royal Rifle Corps""]}",,,
+22,AWD0003mw2,report,670,3,,,,[],,person,"Second Lieutenant F G,F,- G Fison","{""first""=>[""F G"", ""F"", ""- G""], ""surname""=>[""Fison""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""2nd Bn King's Royal Rifle Corps"", ""2nd Bn, The King's Royal Rifle Corps"", ""2 Battalion King's Royal Rifle Corps""]}",,,
+23,AWD0003mw2,report,670,3,,,,[],,person,Second Lieutenant R B Holmes,"{""first""=>[""R B""], ""surname""=>[""Holmes""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""2nd Bn, The King's Royal Rifle Corps"", ""2nd Bn King's Royal Rifle Corps"", ""2 Battalion King's Royal Rifle Corps""]}",,,
+24,AWD0003mw2,report,670,3,,,,[],,person,"Second Lieutenant R,- J, Gibb","{""first""=>[""R"", ""- J"", """"], ""surname""=>[""Gibb""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""2nd Bn, The King's Royal Rifle Corps"", ""2 Battalion King's Royal Rifle Corps"", ""2nd Bn King's Royal Rifle Corps""]}",,,
+25,AWD0003mw2,report,670,3,,,,[],,person,"Second Lieutenant H R Holmes, Holme, Holms","{""first""=>[""H R""], ""surname""=>[""Holmes"", ""Holme"", ""Holms""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""2nd Bn, The King's Royal Rifle Corps"", ""2 Battalion King's Royal Rifle Corps"", ""2nd Bn King's Royal Rifle Corps""]}",,,
+26,AWD0003mw2,report,670,3,,,,[],,person,"Second Lieutenant R A F,R A, Eminson","{""first""=>[""R A F"", ""R A"", """"], ""surname""=>[""Eminson""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""2nd Bn King's Royal Rifle Corps"", ""2 Battalion King's Royal Rifle Corps"", ""2nd Bn, The King's Royal Rifle Corps""]}",,,
+27,AWD0003mw2,report,670,6,,,,[],,person,Second Lieutenant F B Walker,"{""first""=>[""F B""], ""surname""=>[""Walker""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""2nd Bn King's Royal Rifle Corps"", ""2nd Bn, The King's Royal Rifle Corps"", ""2 Battalion King's Royal Rifle Corps""]}",,,
+28,AWD0003mw2,report,670,3,,,,[],,person,Second Lieutenant  Ravenscroft,"{""first""=>[""""], ""surname""=>[""Ravenscroft""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""2nd Bn, The King's Royal Rifle Corps"", ""2nd Bn King's Royal Rifle Corps"", ""2 Battalion King's Royal Rifle Corps""]}",,,
+29,AWD0003mw2,report,670,3,,,,[],,person,Second Lieutenant C Fryer,"{""first""=>[""C""], ""surname""=>[""Fryer""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""2nd Bn, The King's Royal Rifle Corps"", ""2 Battalion King's Royal Rifle Corps"", ""2nd Bn King's Royal Rifle Corps""]}",,,
+30,AWD0003mw2,report,670,3,,,,[],,person,Second Lieutenant J Angell,"{""first""=>[""J""], ""surname""=>[""Angell""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""2nd Bn King's Royal Rifle Corps"", ""2 Battalion King's Royal Rifle Corps"", ""2nd Bn, The King's Royal Rifle Corps""]}",,,
+31,AWD0003mw2,report,670,3,,,,[],,person,"Second Lieutenant H E,H,H R Johnson","{""first""=>[""H E"", ""H"", ""H R""], ""surname""=>[""Johnson""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""2nd Bn King's Royal Rifle Corps"", ""2nd Bn, The King's Royal Rifle Corps"", ""2 Battalion King's Royal Rifle Corps""]}",,,
+32,AWD0003mw2,report,670,3,,,,[],,person,Second Lieutenant M A Reddie,"{""first""=>[""M A""], ""surname""=>[""Reddie""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""2 Battalion King's Royal Rifle Corps"", ""2nd Bn King's Royal Rifle Corps"", ""2nd Bn, The King's Royal Rifle Corps""]}",,,
+33,AWD0003mw2,report,670,3,,,,[],,person,Second Lieutenant A Symington,"{""first""=>[""A""], ""surname""=>[""Symington""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""2nd Bn King's Royal Rifle Corps"", ""2nd Bn, The King's Royal Rifle Corps"", ""2 Battalion King's Royal Rifle Corps""]}",,,
+34,AWD0003mw2,report,670,3,,,,[],,person,Second Lieutenant R Dunlavey,"{""first""=>[""R""], ""surname""=>[""Dunlavey""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""2 Battalion King's Royal Rifle Corps"", """", ""2nd Bn King's Royal Rifle Corps""]}",,,
+4,AWD0003mx6,orders,672,2,,,,[],,date,2 Jan 1916,{},,,
+8,AWD0003mx6,orders,672,2,,,,[],,person,"Lieutenant Colonel J A Longridge, Langridge","{""first""=>[""J A""], ""surname""=>[""Longridge"", ""Langridge""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""other"", ""commander""], ""unit""=>[""General Staff - 1st Division"", """"]}",,,
+9,AWD0003mx6,orders,672,2,,,,[],,date,2 Jan 1916,{},,,
+12,AWD0003mx6,orders,672,2,,,,[],,date,2 Jan 1916,{},,,
+14,AWD0003mx6,orders,672,2,,,,[],,date,2 Jan 1916,{},,,
+5,AWD0003myq,orders,673,3,,,,[],,orders,attack,{},,,
+13,AWD0003myq,orders,673,2,,,,[],,orders,attack,{},,,
+16,AWD0003myq,orders,673,2,,,,[],,orders,attack,{},,,
+18,AWD0003myq,orders,673,2,,,,[],,orders,attack,{},,,
+21,AWD0003myq,orders,673,2,,,,[],,reference,Front Trench,{},,,
+22,AWD0003myq,orders,673,2,,,,[],,reference,Ammunition for Bombardment,{},,,
+7,AWD0003mxo,orders,674,4,,,,[],,orders,attack,{},,,
+13,AWD0003mxo,orders,674,3,,,,[],,orders,attack,{},,,
+15,AWD0003mxo,orders,674,2,,,,[],,orders,attack,{},,,
+17,AWD0003mxo,orders,674,2,,,,[],,orders,attack,{},,,
+19,AWD0003mxo,orders,674,3,,,,[],,orders,attack,{},,,
+24,AWD0003mxo,orders,674,2,,,,[],,orders,attack,{},,,
+25,AWD0003mxo,orders,674,2,,,,[],,date,7 Jan 1915,{},,,
+7,AWD0003mzc,orders,675,2,,,,[],,date,8 Jan 1915,{},,,
+8,AWD0003mzc,orders,675,3,,,,[],,orders,attack,{},,,
+12,AWD0003mzc,orders,675,2,,,,[],,orders,attack,{},,,
+14,AWD0003mzc,orders,675,2,,,,[],,orders,attack,{},,,
+15,AWD0003mzc,orders,675,2,,,,[],,reference,Ammunition for Bombardment,{},,,
+16,AWD0003mzc,orders,675,3,,,,[],,orders,attack,{},,,
+17,AWD0003mzc,orders,675,2,,,,[],,reference,Ammunition for Bombardment,{},,,
+18,AWD0003mzc,orders,675,4,,,,[],,orders,attack,{},,,
+21,AWD0003mzc,orders,675,2,,,,[],,date,9 Jan 1915,{},,,
+24,AWD0003mzc,orders,675,2,,,,[],,orders,attack,{},,,
+26,AWD0003mzc,orders,675,2,,,,[],,orders,attack,{},,,
+28,AWD0003mzc,orders,675,2,,,,[],,orders,attack,{},,,
+3,AWD0003mw6,orders,676,2,,,,[],,orders,attack,{},,,
+6,AWD0003mw6,orders,676,2,,,,[],,orders,attack,{},,,
+7,AWD0003mw6,orders,676,2,,,,[],,date,10 Jan 1915,{},,,
+8,AWD0003mw6,orders,676,14,,,,[],,orders,attack,{},,,
+9,AWD0003mw6,orders,676,2,,,,[],,orders,other,{},,,
+10,AWD0003mw6,orders,676,4,,,,[],,orders,attack,{},,,
+11,AWD0003mw6,orders,676,2,,,,[],,date,11Jan 1915,{},,,
+6,AWD0003myh,orders,677,2,,,,[],,orders,attack,{},,,
+7,AWD0003myh,orders,677,2,,,,[],,date,12 Jan 1915,{},,,
+11,AWD0003myh,orders,677,2,,,,[],,date,13 Jan 1915,{},,,
+13,AWD0003myh,orders,677,2,,,,[],,date,14 Jan 1915,{},,,
+14,AWD0003myh,orders,677,2,,,,[],,reference,Repeat Attacks,{},,,
+16,AWD0003myh,orders,677,2,,,,[],,date,15 Jan 1915,{},,,
+5,AWD0003mxa,"other, report",679,2,,,,[],,date,4 Jan 1916,{},,,
+7,AWD0003mxa,"other, report",679,2,,,,[],,date,5 Jan 1916,{},,,
+5,AWD0003mwl,report,680,2,,,,[],,title,"Defence Scheme, Right Brigade",{},,,
+6,AWD0003mwl,report,680,2,,,,[],,reference,G 383,{},,,
+9,AWD0003mwl,report,680,2,,,,[],,date,10 Dec 1915,{},,,
+1,AWD0003mwe,orders,683,2,,,,[],,title,Defence Scheme Right Brigade,{},,,
+4,AWD0003mwe,orders,683,2,,,,[],,date,10 Dec 1915,{},,,
+9,AWD0003mvp,orders,684,4,,,,[],,person,Captain A G F Isaac,"{""first""=>[""A G F""], ""surname""=>[""Isaac""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+10,AWD0003mvp,orders,684,3,,,,[],,date,10 Dec 1915,{},,,
+1,AWD0003mxg,orders,685,2,,,,[],,orders,move,{},,,
+6,AWD0003mxg,orders,685,3,,,,[],,person,"Brigadier General F H Thillier, THILLIOR, THEILLIER","{""first""=>[""F H""], ""surname""=>[""Thillier"", ""THILLIOR"", ""THEILLIER""], ""rank""=>[""Brigadier General""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""2nd Infantry Bde."", ""2nd Infantry Brigade"", """"]}",,,
+9,AWD0003mxg,orders,685,4,,,,[],,date,6 Jan 1916,{},,,
+11,AWD0003mxg,orders,685,2,,,,[],,person,Captain A G F Isaac,"{""first""=>[""A G F""], ""surname""=>[""Isaac""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""2nd Infantry Brigade"", ""2nd Inf Bde""]}",,,
+4,AWD0003mye,orders,686,4,,,,[],,date,6 Jan 1916,{},,,
+9,AWD0003mw9,"report, orders",691,2,,,,[],,date,6 Jan 1916,{},,,
+2,AWD0003mwt,report,692,2,,,,[],,title,Patrol Reports,{},,,
+10,AWD0003mwt,report,692,2,,,,[],,person,Second Lieutenant  Symington,"{""first""=>[""""], ""surname""=>[""Symington""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""2nd Bn King's Royal Rifle Corps"", ""2 Battalion King's Royal Rifle Corps""]}",,,
+6,AWD0003mvy,signals,693,2,,,,[],,date,10 Jan 1916,{},,,
+8,AWD0003mvy,signals,693,2,,,,[],,signals,other,{},,,
+14,AWD0003mvy,signals,693,2,,,,[],,unit,Royal Sussex,"{""name""=>[""Royal Sussex""], ""context""=>[""other""]}",,,
+1,AWD0003mxf,orders,694,3,,,,[],,orders,move,{},,,
+1,AWD0003mx1,orders,695,2,,,,[],,orders,move,{},,,
+4,AWD0003mx1,orders,695,3,,,,[],,date,10 Jan 1916,{},,,
+5,AWD0003mx1,orders,695,3,,,,[],,person,Captain P J R Currie,"{""first""=>[""P J R""], ""surname""=>[""Currie""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""Adj. 2 Battalion King's Royal Rifle Corps"", ""2nd Bn King's Royal Rifle Corps"", """"]}",,,
+1,AWD0003myb,orders,696,2,,,,[],,orders,move,{},,,
+6,AWD0003myb,orders,696,2,,,,[],,orders,move,{},,,
+7,AWD0003myb,orders,696,4,,,,[],,date,12 Jan 1916,{},,,
+9,AWD0003myb,orders,696,4,,,,[],,person,Captain A G F Isaac,"{""first""=>[""A G F""], ""surname""=>[""Isaac""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other"", ""commander""], ""unit""=>[""2nd Infantry Brigade"", ""2nd Inf Bde"", """", ""2 Infantry Bridgae""]}",,,
+2,AWD0003mvl,orders,697,4,,,,[],,date,12 Jan 1916,{},,,
+4,AWD0003mvl,orders,697,2,,,,[],,orders,move,{},,,
+1,AWD0003mwx,orders,698,3,,,,[],,date,12 Jan 1916,{},,,
+4,AWD0003mwx,orders,698,3,,,,[],,orders,move,{},,,
+1,AWD0003mzb,orders,699,3,,,,[],,orders,move,{},,,
+5,AWD0003mzb,orders,699,4,,,,[],,date,12 Jan 1916,{},,,
+7,AWD0003mzb,orders,699,3,,,,[],,person,Captain  Wallington,"{""first""=>[""""], ""surname""=>[""Wallington""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""2nd Infantry Brigade"", """", ""2nd Inf Bde""]}",,,
+1,AWD0003mzg,diary,701,2,1916-01-31 00:00:00 UTC,31 Jan 1916,Lillers,"[2.48042, 50.56345]","",diaryDate,31 Jan 1916,"{""day""=>[""31""], ""month""=>[""Jan""], ""year""=>[""1916""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+4,AWD0003mzg,diary,701,3,1916-01-31 00:00:00 UTC,31 Jan 1916,Lillers,"[2.48042, 50.56345]","",person,Second Lieutenant H R Holme,"{""first""=>[""H R""], ""surname""=>[""Holme""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_posted""], ""unit""=>[""No. 2 Coy, Royal MGC"", ""No 2 Coy Royal Machine Gun Corps"", ""No. 2 Coy Royal  Machine Gun Corps""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+7,AWD0003mzg,diary,701,2,1916-01-31 00:00:00 UTC,31 Jan 1916,Lillers,"[2.48042, 50.56345]","",place,Lillers,"{""place""=>[""Lillers""], ""location""=>[""true""], ""name""=>[""Lillers""], ""lat""=>[""50.56345""], ""long""=>[""2.48042""], ""id""=>[""2998320""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+8,AWD0003mzg,diary,701,3,1916-01-31 00:00:00 UTC,31 Jan 1916,Lillers,"[2.48042, 50.56345]","",person,Second Lieutenant J Angell,"{""first""=>[""J""], ""surname""=>[""Angell""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_posted""], ""unit""=>[""RMG Coy at 1st Bde"", ""Comm and R M G Coy !st Bde"", ""CO Royal Machine Gun Coy 1st Brigade""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+11,AWD0003mzg,diary,701,3,1916-02-01 00:00:00 UTC,1 Feb 1916,Lillers,"[2.48042, 50.56345]","",diaryDate,1 Feb 1916,"{""day""=>[""1""], ""month""=>[""Feb""], ""year""=>[""1916""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+13,AWD0003mzg,diary,701,3,1916-02-01 00:00:00 UTC,1 Feb 1916,Lillers,"[2.48042, 50.56345]","",activity,training,{},2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+16,AWD0003mzg,diary,701,3,1916-02-02 00:00:00 UTC,2 Feb 1916,Lillers,"[2.48042, 50.56345]","",diaryDate,2 Feb 1916,"{""day""=>[""2""], ""month""=>[""Feb""], ""year""=>[""1916""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+20,AWD0003mzg,diary,701,3,1916-02-03 00:00:00 UTC,3 Feb 1916,Lillers,"[2.48042, 50.56345]","",diaryDate,3 Feb 1916,"{""day""=>[""3""], ""month""=>[""Feb""], ""year""=>[""1916""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+21,AWD0003mzg,diary,701,2,1916-02-03 00:00:00 UTC,3 Feb 1916,Lillers,"[2.48042, 50.56345]","",place,Lillers,"{""place""=>[""Lillers""], ""location""=>[""true""], ""name""=>[""Lillers""], ""lat""=>[""50.56345""], ""long""=>[""2.48042""], ""id""=>[""2998320""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+23,AWD0003mzg,diary,701,5,1916-02-03 00:00:00 UTC,3 Feb 1916,Lillers,"[2.48042, 50.56345]","",activity,training,{},2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+25,AWD0003mzg,diary,701,4,1916-02-04 00:00:00 UTC,4 Feb 1916,Lillers,"[2.48042, 50.56345]","",diaryDate,4 Feb 1916,"{""day""=>[""4""], ""month""=>[""Feb""], ""year""=>[""1916""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+27,AWD0003mzg,diary,701,4,1916-02-04 00:00:00 UTC,4 Feb 1916,Lillers,"[2.48042, 50.56345]","",activity,training,{},2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+28,AWD0003mzg,diary,701,4,1916-02-05 00:00:00 UTC,5 Feb 1916,Lillers,"[2.48042, 50.56345]","",diaryDate,5 Feb 1916,"{""day""=>[""5""], ""month""=>[""Feb""], ""year""=>[""1916""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+33,AWD0003mzg,diary,701,3,1916-02-05 00:00:00 UTC,5 Feb 1916,Lillers,"[2.48042, 50.56345]","",domestic,religion,{},2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+34,AWD0003mzg,diary,701,3,1916-02-06 00:00:00 UTC,6 Feb 1916,Lillers,"[2.48042, 50.56345]","",diaryDate,6 Feb 1916,"{""day""=>[""6""], ""month""=>[""Feb""], ""year""=>[""1916""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+35,AWD0003mzg,diary,701,2,1916-02-06 00:00:00 UTC,6 Feb 1916,Lillers,"[2.48042, 50.56345]","",domestic,parades,{},2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+37,AWD0003mzg,diary,701,3,1916-02-07 00:00:00 UTC,7 Feb 1916,Lillers,"[2.48042, 50.56345]","",diaryDate,7 Feb 1916,"{""day""=>[""7""], ""month""=>[""Feb""], ""year""=>[""1916""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+1,AWD0003mz6,diary,702,3,1916-02-08 00:00:00 UTC,8 Feb 1916,Lillers,"[2.48042, 50.56345]","",diaryDate,8 Feb 1916,"{""day""=>[""8""], ""month""=>[""Feb""], ""year""=>[""1916""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+3,AWD0003mz6,diary,702,4,1916-02-08 00:00:00 UTC,8 Feb 1916,Lillers,"[2.48042, 50.56345]","",activity,training,{},2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+4,AWD0003mz6,diary,702,2,1916-02-08 00:00:00 UTC,8 Feb 1916,Lillers,"[0.0, 0.0]","",place,Lillers,"{""place""=>[""Lillers""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+7,AWD0003mz6,diary,702,2,1916-02-08 00:00:00 UTC,8 Feb 1916,Lillers,"[2.48042, 50.56345]","",place,Lillers,"{""place""=>[""Lillers""], ""location""=>[""true""], ""name""=>[""Lillers""], ""lat""=>[""50.56345""], ""long""=>[""2.48042""], ""id""=>[""2998320""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+8,AWD0003mz6,diary,702,3,1916-02-08 00:00:00 UTC,8 Feb 1916,Lillers,"[2.48042, 50.56345]","",activity,training,{},2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+10,AWD0003mz6,diary,702,2,1916-02-12 00:00:00 UTC,12 Feb 1916,Lillers,"[2.48042, 50.56345]","",diaryDate,12 Feb 1916,"{""day""=>[""12""], ""month""=>[""Feb""], ""year""=>[""1916""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+13,AWD0003mz6,diary,702,4,1916-02-13 00:00:00 UTC,13 Feb 1916,Lillers,"[2.48042, 50.56345]","",diaryDate,13 Feb 1916,"{""day""=>[""13""], ""month""=>[""Feb""], ""year""=>[""1916""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+14,AWD0003mz6,diary,702,3,1916-02-13 00:00:00 UTC,13 Feb 1916,Lillers,"[2.48042, 50.56345]","",person,"Second Lieutenant  Doerington, DORRINGTON, Dorrington","{""first""=>[""""], ""surname""=>[""Doerington"", ""DORRINGTON"", ""Dorrington""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_posted""], ""unit""=>[""1st S W B"", ""1st South Wales Borderers"", ""1st SWB""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+19,AWD0003mz6,diary,702,3,1916-02-13 00:00:00 UTC,13 Feb 1916,Lillers,"[2.48042, 50.56345]","",person,"Second Lieutenant  Dickerson, Dickenson, Dickinson","{""first""=>[""""], ""surname""=>[""Dickerson"", ""Dickenson"", ""Dickinson""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_training""], ""unit""=>[""""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+20,AWD0003mz6,diary,702,3,1916-02-13 00:00:00 UTC,13 Feb 1916,Lillers,"[2.48042, 50.56345]","",person,Second Lieutenant  Egerton-Green,"{""first""=>[""""], ""surname""=>[""Egerton-Green""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+22,AWD0003mz6,diary,702,4,1916-02-13 00:00:00 UTC,13 Feb 1916,Lillers,"[2.48042, 50.56345]","",person,Captain  Bullen,"{""first""=>[""""], ""surname""=>[""Bullen""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other"", ""departed_training""], ""unit""=>[""""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+25,AWD0003mz6,diary,702,4,1916-02-15 00:00:00 UTC,15 Feb 1916,Lillers,"[2.48042, 50.56345]","",diaryDate,15 Feb 1916,"{""day""=>[""15""], ""month""=>[""Feb""], ""year""=>[""1916""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+26,AWD0003mz6,diary,702,2,1916-02-15 00:00:00 UTC,15 Feb 1916,Lillers,"[2.48042, 50.56345]","",unit,"140 BDE, 140 Bde.","{""name""=>[""140 BDE"", ""140 Bde.""], ""context""=>[""relieved""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+28,AWD0003mz6,diary,702,2,1916-02-15 00:00:00 UTC,15 Feb 1916,Lillers,"[2.48042, 50.56345]","",unit,"141st BDE, 141st Bde.","{""name""=>[""141st BDE"", ""141st Bde.""], ""context""=>[""relieved""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+31,AWD0003mz6,diary,702,4,1916-02-15 10:00:00 UTC,15 Feb 1916,Lillers,"[2.48042, 50.56345]",1000AM,time,1000AM,{},2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+32,AWD0003mz6,diary,702,5,1916-02-15 10:00:00 UTC,15 Feb 1916,Lillers,"[2.48042, 50.56345]",1000AM,activity,movement,{},2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+33,AWD0003mz6,diary,702,3,1916-02-15 10:00:00 UTC,15 Feb 1916,Lillers,"[2.48042, 50.56345]",1000AM,place,Lillers,"{""place""=>[""Lillers""], ""location""=>[""false""], ""name""=>[""Lillers""], ""lat""=>[""50.56345""], ""long""=>[""2.48042""], ""id""=>[""2998320""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+34,AWD0003mz6,diary,702,5,1916-02-15 10:00:00 UTC,15 Feb 1916,Lillers,"[2.48042, 50.56345]",1000AM,place,Les Brebis,"{""place""=>[""Les Brebis""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+36,AWD0003mz6,diary,702,3,1916-02-15 10:00:00 UTC,15 Feb 1916,Lillers,"[2.48042, 50.56345]",1000AM,place,Noeux-les-Mines,"{""place""=>[""Noeux-les-Mines""], ""location""=>[""false""], ""name""=>[""Nœux-les-Mines""], ""lat""=>[""50.48333""], ""long""=>[""2.66667""], ""id""=>[""2990287""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+38,AWD0003mz6,diary,702,4,1916-02-15 10:00:00 UTC,15 Feb 1916,Lillers,"[2.48042, 50.56345]",1000AM,domestic,accomodation,{},2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+40,AWD0003mz6,diary,702,2,1916-02-15 10:00:00 UTC,15 Feb 1916,Lillers,"[2.48042, 50.56345]",1000AM,place,Les Brebis,"{""place""=>[""Les Brebis""], ""location""=>[""false"", ""true""], ""name""=>[""Nœux-les-Mines"", """"], ""lat""=>[""50.48333"", """"], ""long""=>[""2.66667"", """"], ""id""=>[""2990287"", """"]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+41,AWD0003mz6,diary,702,3,1916-02-15 10:00:00 UTC,15 Feb 1916,Lillers,"[2.48042, 50.56345]",1000AM,activity,movement,{},2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+42,AWD0003mz6,diary,702,5,1916-02-15 18:00:00 UTC,15 Feb 1916,Lillers,"[2.48042, 50.56345]",0600PM,time,0600PM,{},2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+43,AWD0003mz6,diary,702,2,1916-02-15 18:00:00 UTC,15 Feb 1916,Lillers,"[2.48042, 50.56345]",0600PM,unit,"19th London Regt., 20th London Regt.","{""name""=>[""19th London Regt."", ""20th London Regt.""], ""context""=>[""relieved""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+44,AWD0003mz6,diary,702,3,1916-02-15 18:00:00 UTC,15 Feb 1916,Lillers,"[2.48042, 50.56345]",0600PM,domestic,parades,{},2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+45,AWD0003mz6,diary,702,4,1916-02-15 18:00:00 UTC,15 Feb 1916,Lillers,"[2.48042, 50.56345]",0600PM,unit,"19th London Regtiment, 19th London Regiment, 20th London Regtiment, 20th London Regiment","{""name""=>[""19th London Regtiment"", ""19th London Regiment"", ""20th London Regtiment"", ""20th London Regiment""], ""context""=>[""relieved""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+47,AWD0003mz6,diary,702,4,1916-02-15 18:00:00 UTC,15 Feb 1916,Lillers,"[2.48042, 50.56345]",0600PM,activity,line,{},2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+48,AWD0003mz6,diary,702,3,1916-02-15 18:00:00 UTC,15 Feb 1916,Lillers,"[2.48042, 50.56345]",0600PM,gridRef,M 4 c 2 4,{},2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+50,AWD0003mz6,diary,702,3,1916-02-15 18:00:00 UTC,15 Feb 1916,Lillers,"[2.48042, 50.56345]",0600PM,gridRef,M 5 c 4 7,{},2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+57,AWD0003mz6,diary,702,3,1916-02-15 21:45:00 UTC,15 Feb 1916,Lillers,"[2.48042, 50.56345]",0945PM,time,0945PM,{},2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+62,AWD0003mz6,diary,702,4,1916-02-16 00:00:00 UTC,16 Feb 1916,Lillers,"[2.48042, 50.56345]","",diaryDate,16 Feb 1916,"{""day""=>[""16""], ""month""=>[""Feb""], ""year""=>[""1916""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+63,AWD0003mz6,diary,702,4,1916-02-16 00:00:00 UTC,16 Feb 1916,Lillers,"[2.48042, 50.56345]","",activity,quiet,{},2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+64,AWD0003mz6,diary,702,3,1916-02-16 00:00:00 UTC,16 Feb 1916,Lillers,"[2.48042, 50.56345]","",casualties,other: 3,{},2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+67,AWD0003mz6,diary,702,3,1916-02-16 00:00:00 UTC,16 Feb 1916,Lillers,"[2.48042, 50.56345]","",person,Captain P J R Currie,"{""first""=>[""P J R""], ""surname""=>[""Currie""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+2,AWD0003myg,diary,703,4,1916-02-17 00:00:00 UTC,17 Feb 1916,Lillers,"[2.48042, 50.56345]","",diaryDate,17 Feb 1916,"{""day""=>[""17""], ""month""=>[""Feb""], ""year""=>[""1916""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+4,AWD0003myg,diary,703,5,1916-02-17 00:00:00 UTC,17 Feb 1916,Lillers,"[2.48042, 50.56345]","",person,Rifleman  Straw,"{""first""=>[""""], ""surname""=>[""Straw""], ""rank""=>[""Rifleman""], ""number""=>[""""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+9,AWD0003myg,diary,703,3,1916-02-18 00:00:00 UTC,18 Feb 1916,Lillers,"[2.48042, 50.56345]","",diaryDate,18 Feb 1916,"{""day""=>[""18""], ""month""=>[""Feb""], ""year""=>[""1916""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+13,AWD0003myg,diary,703,2,1916-02-18 00:00:00 UTC,18 Feb 1916,Lillers,"[2.48042, 50.56345]","",unit,"1/ Northamptons, 1st Northamptons","{""name""=>[""1/ Northamptons"", ""1st Northamptons""], ""context""=>[""relieved_by""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+15,AWD0003myg,diary,703,2,1916-02-18 00:00:00 UTC,18 Feb 1916,Lillers,"[2.48042, 50.56345]","",unit,"2/ Sussex, 2nd Sussex","{""name""=>[""2/ Sussex"", ""2nd Sussex""], ""context""=>[""relieved""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+16,AWD0003myg,diary,703,2,1916-02-18 00:00:00 UTC,18 Feb 1916,Lillers,"[2.48042, 50.56345]","",gridRef,M 2 d 7 4,{},2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+18,AWD0003myg,diary,703,2,1916-02-18 00:00:00 UTC,18 Feb 1916,Lillers,"[2.48042, 50.56345]","",activity,support,{},2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+20,AWD0003myg,diary,703,2,1916-02-18 00:00:00 UTC,18 Feb 1916,Lillers,"[2.48042, 50.56345]","",unit,"A & B Coy's 2 Battalion King's Royal Rifle Corps, C Coy 2 Battalion King's Royal Rifle Corps","{""name""=>[""A & B Coy's 2 Battalion King's Royal Rifle Corps"", ""C Coy 2 Battalion King's Royal Rifle Corps""], ""context""=>[""other""]}",2990396,Nielles-lès-Bléquin,"[2.03136, 50.67422]"
+21,AWD0003myg,diary,703,2,1916-02-18 00:00:00 UTC,18 Feb 1916,Cellars,"[0.0, 0.0]","",place,Cellars,"{""place""=>[""Cellars""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+23,AWD0003myg,diary,703,2,1916-02-18 00:00:00 UTC,18 Feb 1916,St James Keep,"[0.0, 0.0]","",place,St James Keep,"{""place""=>[""St James Keep""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+25,AWD0003myg,diary,703,3,1916-02-18 00:00:00 UTC,18 Feb 1916,St James Keep,"[0.0, 0.0]","",gridRef,M 3 b 2 4,{},,,
+30,AWD0003myg,diary,703,2,1916-02-18 23:15:00 UTC,18 Feb 1916,St James Keep,"[0.0, 0.0]",1115PM,time,1115PM,{},,,
+32,AWD0003myg,diary,703,2,1916-02-19 00:00:00 UTC,19 Feb 1916,St James Keep,"[0.0, 0.0]","",diaryDate,19 Feb 1916,"{""day""=>[""19""], ""month""=>[""Feb""], ""year""=>[""1916""]}",,,
+33,AWD0003myg,diary,703,2,1916-02-18 00:00:00 UTC,18 Feb 1916,St James Keep,"[0.0, 0.0]","",diaryDate,18 Feb 1916,"{""day""=>[""18""], ""month""=>[""Feb""], ""year""=>[""1916""]}",,,
+40,AWD0003myg,diary,703,2,1916-02-18 19:00:00 UTC,18 Feb 1916,St James Keep,"[0.0, 0.0]",0700PM,time,0700PM,{},,,
+41,AWD0003myg,diary,703,2,1916-02-18 19:00:00 UTC,18 Feb 1916,St James Keep,"[0.0, 0.0]",0700PM,person,Second Lieutenant  Dorrington,"{""first""=>[""""], ""surname""=>[""Dorrington""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""2nd Bn King's Royal Rifle Corps"", ""Attached SWB ""]}",,,
+46,AWD0003myg,diary,703,3,1916-02-18 19:00:00 UTC,18 Feb 1916,St James Keep,"[0.0, 0.0]",0700PM,activity,working,{},,,
+54,AWD0003myg,diary,703,2,1916-02-18 19:00:00 UTC,18 Feb 1916,St James Keep,"[0.0, 0.0]",0700PM,person,"Captain P J R CURRIE, Currie","{""first""=>[""P J R""], ""surname""=>[""CURRIE"", ""Currie""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>["""", ""Adj. 2 Battalion King's Royal Rifle Corps""]}",,,
+1,AWD0003myj,diary,704,3,1916-02-20 00:00:00 UTC,20 Feb 1916,St James Keep,"[0.0, 0.0]","",diaryDate,20 Feb 1916,"{""day""=>[""20""], ""month""=>[""Feb""], ""year""=>[""1916""]}",,,
+4,AWD0003myj,diary,704,3,1916-02-20 00:00:00 UTC,20 Feb 1916,St James Keep,"[0.0, 0.0]","",weather,fine,{},,,
+7,AWD0003myj,diary,704,2,1916-02-20 00:00:00 UTC,20 Feb 1916,St James Keep,"[0.0, 0.0]","",unit,1st Bde,"{""name""=>[""1st Bde""], ""context""=>[""relieved_by""]}",,,
+10,AWD0003myj,diary,704,2,1916-02-20 00:00:00 UTC,20 Feb 1916,St James Keep,"[0.0, 0.0]","",domestic,accomodation,{},,,
+11,AWD0003myj,diary,704,4,1916-02-20 00:00:00 UTC,20 Feb 1916,St James Keep,"[0.0, 0.0]","",unit,10th Glosters,"{""name""=>[""10th Glosters""], ""context""=>[""relieved_by""]}",,,
+12,AWD0003myj,diary,704,2,1916-02-20 21:15:00 UTC,20 Feb 1916,St James Keep,"[0.0, 0.0]",0915PM,time,0915PM,{},,,
+13,AWD0003myj,diary,704,2,1916-02-20 21:15:00 UTC,20 Feb 1916,St James Keep,"[0.0, 0.0]",0915PM,domestic,accomodation,{},,,
+14,AWD0003myj,diary,704,5,1916-02-20 21:15:00 UTC,20 Feb 1916,Braquemont,"[0.0, 0.0]",0915PM,place,Braquemont,"{""place""=>[""Braquemont""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3030622,Bracquemont,"[1.14523, 49.93973]"
+17,AWD0003myj,diary,704,3,1916-02-21 00:00:00 UTC,21 Feb 1916,Braquemont,"[0.0, 0.0]","",diaryDate,21 Feb 1916,"{""day""=>[""21""], ""month""=>[""Feb""], ""year""=>[""1916""]}",3030622,Bracquemont,"[1.14523, 49.93973]"
+19,AWD0003myj,diary,704,4,1916-02-21 14:15:00 UTC,21 Feb 1916,Braquemont,"[0.0, 0.0]",0215PM,time,0215PM,{},3030622,Bracquemont,"[1.14523, 49.93973]"
+26,AWD0003myj,diary,704,2,1916-02-21 14:15:00 UTC,21 Feb 1916,Braquemont,"[0.0, 0.0]",0215PM,place,Braquemont,"{""place""=>[""Braquemont""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3030622,Bracquemont,"[1.14523, 49.93973]"
+27,AWD0003myj,diary,704,4,1916-02-21 21:30:00 UTC,21 Feb 1916,Braquemont,"[0.0, 0.0]",0930PM,time,0930PM,{},3030622,Bracquemont,"[1.14523, 49.93973]"
+31,AWD0003myj,diary,704,4,1916-02-22 00:00:00 UTC,22 Feb 1916,Braquemont,"[0.0, 0.0]","",diaryDate,22 Feb 1916,"{""day""=>[""22""], ""month""=>[""Feb""], ""year""=>[""1916""]}",3030622,Bracquemont,"[1.14523, 49.93973]"
+32,AWD0003myj,diary,704,4,1916-02-22 09:00:00 UTC,22 Feb 1916,Braquemont,"[0.0, 0.0]",0900AM,time,0900AM,{},3030622,Bracquemont,"[1.14523, 49.93973]"
+33,AWD0003myj,diary,704,2,1916-02-22 09:00:00 UTC,22 Feb 1916,Braquemont,"[0.0, 0.0]",0900AM,activity,other,{},3030622,Bracquemont,"[1.14523, 49.93973]"
+35,AWD0003myj,diary,704,4,1916-02-22 10:30:00 UTC,22 Feb 1916,Braquemont,"[0.0, 0.0]",1030AM,time,1030AM,{},3030622,Bracquemont,"[1.14523, 49.93973]"
+37,AWD0003myj,diary,704,4,1916-02-22 10:30:00 UTC,22 Feb 1916,Braquemont,"[0.0, 0.0]",1030AM,person,Second Lieutenant  Johnson,"{""first""=>[""""], ""surname""=>[""Johnson""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""returned_training""], ""unit""=>[""2nd Bn King's Royal Rifle Corps"", """", ""Lewis Gun course"", ""2 Battalion King's Royal Rifle Corps""]}",3030622,Bracquemont,"[1.14523, 49.93973]"
+39,AWD0003myj,diary,704,4,1916-02-23 00:00:00 UTC,23 Feb 1916,Braquemont,"[0.0, 0.0]","",diaryDate,23 Feb 1916,"{""day""=>[""23""], ""month""=>[""Feb""], ""year""=>[""1916""]}",3030622,Bracquemont,"[1.14523, 49.93973]"
+40,AWD0003myj,diary,704,3,1916-02-23 00:00:00 UTC,23 Feb 1916,Braquemont,"[0.0, 0.0]","",weather,cold,{},3030622,Bracquemont,"[1.14523, 49.93973]"
+42,AWD0003myj,diary,704,4,1916-02-23 00:00:00 UTC,23 Feb 1916,Braquemont,"[0.0, 0.0]","",casualties,"killed: 2, wounded: 9, missing: 5",{},3030622,Bracquemont,"[1.14523, 49.93973]"
+1,AWD0003mw0,diary,705,3,1916-02-24 00:00:00 UTC,24 Feb 1916,Braquemont,"[0.0, 0.0]","",diaryDate,24 Feb 1916,"{""day""=>[""24""], ""month""=>[""Feb""], ""year""=>[""1916""]}",3030622,Bracquemont,"[1.14523, 49.93973]"
+5,AWD0003mw0,diary,705,3,1916-02-24 00:00:00 UTC,24 Feb 1916,Braquemont,"[0.0, 0.0]","",place,Braquemont,"{""place""=>[""Braquemont""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3030622,Bracquemont,"[1.14523, 49.93973]"
+6,AWD0003mw0,diary,705,2,1916-02-24 00:00:00 UTC,24 Feb 1916,Braquemont,"[0.0, 0.0]","",activity,other,{},3030622,Bracquemont,"[1.14523, 49.93973]"
+7,AWD0003mw0,diary,705,2,1916-02-25 00:00:00 UTC,25 Feb 1916,Braquemont,"[0.0, 0.0]","",diaryDate,25 Feb 1916,"{""day""=>[""25""], ""month""=>[""Feb""], ""year""=>[""1916""]}",3030622,Bracquemont,"[1.14523, 49.93973]"
+8,AWD0003mw0,diary,705,4,1916-02-25 00:00:00 UTC,25 Feb 1916,Braquemont,"[0.0, 0.0]","",weather,fine,{},3030622,Bracquemont,"[1.14523, 49.93973]"
+12,AWD0003mw0,diary,705,3,1916-02-26 00:00:00 UTC,26 Feb 1916,Braquemont,"[0.0, 0.0]","",diaryDate,26 Feb 1916,"{""day""=>[""26""], ""month""=>[""Feb""], ""year""=>[""1916""]}",3030622,Bracquemont,"[1.14523, 49.93973]"
+14,AWD0003mw0,diary,705,2,1916-02-26 00:00:00 UTC,26 Feb 1916,Braquemont,"[0.0, 0.0]","",unit,"3rd Bde, 3rd Bde.","{""name""=>[""3rd Bde"", ""3rd Bde.""], ""context""=>[""relieved""]}",3030622,Bracquemont,"[1.14523, 49.93973]"
+16,AWD0003mw0,diary,705,2,1916-02-26 00:00:00 UTC,26 Feb 1916,Braquemont,"[0.0, 0.0]","",unit,"6th Welsh Regiment, 6th Welch Regiment","{""name""=>[""6th Welsh Regiment"", ""6th Welch Regiment""], ""context""=>[""relieved""]}",3030622,Bracquemont,"[1.14523, 49.93973]"
+19,AWD0003mw0,diary,705,4,1916-02-26 00:00:00 UTC,26 Feb 1916,Braquemont,"[0.0, 0.0]","",activity,line,{},3030622,Bracquemont,"[1.14523, 49.93973]"
+23,AWD0003mw0,diary,705,2,1916-02-26 00:00:00 UTC,26 Feb 1916,Braquemont,"[0.0, 0.0]","",gridRef,M 5 c,{},3030622,Bracquemont,"[1.14523, 49.93973]"
+25,AWD0003mw0,diary,705,3,1916-02-26 00:00:00 UTC,26 Feb 1916,South Street,"[0.0, 0.0]","",place,South Street,"{""place""=>[""South Street""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+26,AWD0003mw0,diary,705,4,1916-02-26 00:00:00 UTC,26 Feb 1916,South Street,"[0.0, 0.0]","",gridRef,M 5 c 4 7,{},,,
+27,AWD0003mw0,diary,705,3,1916-02-26 00:00:00 UTC,26 Feb 1916,South Street,"[0.0, 0.0]","",gridRef,M 5 D 9 1,{},,,
+32,AWD0003mw0,diary,705,4,1916-02-26 00:00:00 UTC,26 Feb 1916,South Street,"[0.0, 0.0]","",gridRef,G 35 d 5 5,{},,,
+33,AWD0003mw0,diary,705,4,1916-02-26 00:00:00 UTC,26 Feb 1916,South Street,"[0.0, 0.0]","",gridRef,G 35 d 6 5,{},,,
+36,AWD0003mw0,diary,705,3,1916-02-27 00:00:00 UTC,27 Feb 1916,South Street,"[0.0, 0.0]","",diaryDate,27 Feb 1916,"{""day""=>[""27""], ""month""=>[""Feb""], ""year""=>[""1916""]}",,,
+39,AWD0003mw0,diary,705,2,1916-02-27 00:00:00 UTC,27 Feb 1916,South Street,"[0.0, 0.0]","",activity,line,{},,,
+40,AWD0003mw0,diary,705,4,1916-02-27 00:00:00 UTC,27 Feb 1916,South Street,"[0.0, 0.0]","",activity,quiet,{},,,
+41,AWD0003mw0,diary,705,2,1916-02-27 00:00:00 UTC,27 Feb 1916,South Street,"[0.0, 0.0]","",strength,"officer: 19, other: 634",{},,,
+45,AWD0003mw0,diary,705,3,1916-02-27 00:00:00 UTC,27 Feb 1916,South Street,"[0.0, 0.0]","",activity,other,{},,,
+46,AWD0003mw0,diary,705,4,1916-02-27 00:00:00 UTC,27 Feb 1916,South Street,"[0.0, 0.0]","",unit,A/2 Trench Mortar,"{""name""=>[""A/2 Trench Mortar""], ""context""=>[""other""]}",,,
+48,AWD0003mw0,diary,705,3,1916-02-27 00:00:00 UTC,27 Feb 1916,South Street,"[0.0, 0.0]","",unit,IV Corps,"{""name""=>[""IV Corps""], ""context""=>[""other""]}",,,
+49,AWD0003mw0,diary,705,3,1916-02-28 00:00:00 UTC,28 Feb 1916,South Street,"[0.0, 0.0]","",diaryDate,28 Feb 1916,"{""day""=>[""28""], ""month""=>[""Feb""], ""year""=>[""1916""]}",,,
+51,AWD0003mw0,diary,705,2,1916-02-28 00:00:00 UTC,28 Feb 1916,South Street,"[0.0, 0.0]","",activity,line,{},,,
+52,AWD0003mw0,diary,705,2,1916-02-28 00:00:00 UTC,28 Feb 1916,South Street,"[0.0, 0.0]","",activity,attack,{},,,
+55,AWD0003mw0,diary,705,3,1916-02-28 00:00:00 UTC,28 Feb 1916,South Street,"[0.0, 0.0]","",person,"Second Lieutenant  McMillan, McMILLAN, McMilllan","{""first""=>[""""], ""surname""=>[""McMillan"", ""McMILLAN"", ""McMilllan""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""2nd Bn King's Royal Rifle Corps"", """", ""2 Battalion King's Royal Rifle Corps""]}",,,
+1,AWD0003my4,diary,706,4,1916-02-29 00:00:00 UTC,29 Feb 1916,South Street,"[0.0, 0.0]","",diaryDate,29 Feb 1916,"{""day""=>[""29""], ""month""=>[""Feb""], ""year""=>[""1916""]}",,,
+3,AWD0003my4,diary,706,3,1916-02-29 00:00:00 UTC,29 Feb 1916,South Street,"[0.0, 0.0]","",unit,"1/ Northamptons, 1/Northaptons, 1st Northamptons","{""name""=>[""1/ Northamptons"", ""1/Northaptons"", ""1st Northamptons""], ""context""=>[""relieved_by""]}",,,
+4,AWD0003my4,diary,706,3,1916-02-29 00:00:00 UTC,29 Feb 1916,South Street,"[0.0, 0.0]","",activity,movement,{},,,
+5,AWD0003my4,diary,706,4,1916-02-29 00:00:00 UTC,29 Feb 1916,South Street,"[0.0, 0.0]","",domestic,accomodation,{},,,
+6,AWD0003my4,diary,706,4,1916-02-29 00:00:00 UTC,29 Feb 1916,Les Brebis,"[0.0, 0.0]","",place,Les Brebis,"{""place""=>[""Les Brebis""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2997620,Loos,"[3.01874, 50.60982]"
+7,AWD0003my4,diary,706,2,1916-02-29 20:45:00 UTC,29 Feb 1916,Les Brebis,"[0.0, 0.0]",0845PM,time,0845PM,{},2997620,Loos,"[3.01874, 50.60982]"
+8,AWD0003my4,diary,706,4,1916-02-29 20:45:00 UTC,29 Feb 1916,Les Brebis,"[0.0, 0.0]",0845PM,activity,quiet,{},2997620,Loos,"[3.01874, 50.60982]"
+15,AWD0003my4,diary,706,4,1916-02-29 20:45:00 UTC,29 Feb 1916,Les Brebis,"[0.0, 0.0]",0845PM,person,Captain P J R Currie,"{""first""=>[""P J R""], ""surname""=>[""Currie""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",2997620,Loos,"[3.01874, 50.60982]"
+5,AWD0003myz,orders,708,2,,,,[],,orders,move,{},,,
+7,AWD0003myz,orders,708,5,,,,[],,date,6 Feb 1916,{},,,
+21,AWD0003myz,orders,708,4,,,,[],,person,Captain A G F Isaac,"{""first""=>[""A G F""], ""surname""=>[""Isaac""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+2,AWD0003mwo,orders,709,4,,,,[],,orders,move,{},,,
+4,AWD0003mwo,orders,709,4,,,,[],,date,6 Feb 1916,{},,,
+6,AWD0003mwo,orders,709,2,,,,[],,person,Major  Hawkes,"{""first""=>[""""], ""surname""=>[""Hawkes""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""Divisional Mounted Troops"", """"]}",,,
+1,AWD0003mz4,orders,710,4,,,,[],,orders,move,{},,,
+5,AWD0003mz4,orders,710,3,,,,[],,date,6 Feb 1916,{},,,
+3,AWD0003myt,signals,711,2,,,,[],,unit,Royal Sussex,"{""name""=>[""Royal Sussex""], ""context""=>[""other""]}",,,
+11,AWD0003myt,signals,711,3,,,,[],,date,7 Feb 1916,{},,,
+12,AWD0003myt,signals,711,2,,,,[],,signals,other,{},,,
+14,AWD0003myt,signals,711,2,,,,[],,person,"Captain A J F,A Isaac","{""first""=>[""A J F"", ""A""], ""surname""=>[""Isaac""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""2nd Infantry Brigade"", ""2nd Inf Bde""]}",,,
+4,AWD0003my8,orders,712,2,,,,[],,orders,training,{},,,
+7,AWD0003my8,orders,712,2,,,,[],,date,16 Jan 1916,{},,,
+2,AWD0003mvq,orders,713,2,,,,[],,date,18 Jan 1916,{},,,
+6,AWD0003mvq,orders,713,2,,,,[],,orders,training,{},,,
+3,AWD0003mzk,orders,714,2,,,,[],,date,19 Jan 1916,{},,,
+3,AWD0003mxc,orders,715,2,,,,[],,date,20 Jan 1916,{},,,
+4,AWD0003mwy,orders,716,2,,,,[],,date,21 Jan 1916,{},,,
+8,AWD0003mwu,orders,717,2,,,,[],,person,"Captain ,P J R CURRIE, Currie","{""first""=>["""", ""P J R""], ""surname""=>[""CURRIE"", ""Currie""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""commander"", ""other""], ""unit""=>["""", ""Adj. 2 Battalion King's Royal Rifle Corps""]}",,,
+2,AWD0003myu,orders,718,2,,,,[],,date,24 Jan 1916,{},,,
+5,AWD0003myu,orders,718,2,,,,[],,orders,training,{},,,
+1,AWD0003mz0,orders,719,3,,,,[],,date,25 Jan 1916,{},,,
+7,AWD0003mz0,orders,719,2,,,,[],,person,"Lieutenant Colonel H F W Bircham, BIRCHAM","{""first""=>[""H F W""], ""surname""=>[""Bircham"", ""BIRCHAM""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""2 Battalion King's Royal Rifle Corps"", """"]}",,,
+9,AWD0003mz0,orders,719,2,,,,[],,date,24 Jan 1916,{},,,
+3,AWD0003mz2,orders,720,3,,,,[],,date,26 Jan 1916,{},,,
+2,AWD0003myi,orders,721,3,,,,[],,date,27 Jan 1916,{},,,
+7,AWD0003myi,orders,721,2,,,,[],,person,"Lieutenant Colonel H F W Bircham, BIRCHAM","{""first""=>[""H F W""], ""surname""=>[""Bircham"", ""BIRCHAM""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""2 Battalion King's Royal Rifle Corps"", """"]}",,,
+4,AWD0003mys,orders,722,2,,,,[],,date,28 Jan 1916,{},,,
+8,AWD0003mys,orders,722,2,,,,[],,person,"Lieutenant Colonel H F W Bircham, BIRCHAM","{""first""=>[""H F W""], ""surname""=>[""Bircham"", ""BIRCHAM""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""2 Battalion King's Royal Rifle Corps"", """"]}",,,
+3,AWD0003mx0,orders,724,2,,,,[],,orders,training,{},,,
+3,AWD0003mw8,orders,725,2,,,,[],,orders,training,{},,,
+4,AWD0003mw8,orders,725,2,,,,[],,person,"Lieutenant Colonel ,H F W H F W, ","{""first""=>["""", ""H F W""], ""surname""=>[""H F W"", """"], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""Bircham"", ""BIRCHAM""], ""reason""=>[""commander""], ""unit""=>[""2 Battalion King's Royal Rifle Corps"", """"]}",,,
+7,AWD0003mw8,orders,725,2,,,,[],,date,30 Jan 1916,{},,,
+1,AWD0003mzj,report,726,2,,,,[],,title,Field Return,{},,,
+3,AWD0003mzj,report,726,2,,,,[],,date,5 Jan 1916,{},,,
+5,AWD0003mzj,report,726,2,,,,[],,date,5 Jan 1916,{},,,
+5,AWD0003mwr,orders,731,2,,,,[],,orders,move,{},,,
+6,AWD0003mwr,orders,731,5,,,,[],,date,11 Feb 1916,{},,,
+10,AWD0003mwr,orders,731,5,,,,[],,person,Captain A G F Isaac,"{""first""=>[""A G F""], ""surname""=>[""Isaac""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""2nd Infantry Brigade"", """"]}",,,
+3,AWD0003mwk,orders,732,3,,,,[],,date,11 Feb 1916,{},,,
+5,AWD0003mwk,orders,732,2,,,,[],,orders,move,{},,,
+2,AWD0003mz1,orders,733,3,,,,[],,date,11 Feb 1916,{},,,
+5,AWD0003mz1,orders,733,2,,,,[],,orders,move,{},,,
+2,AWD0003mwj,orders,734,2,,,,[],,orders,move,{},,,
+6,AWD0003mwj,orders,734,3,,,,[],,date,19 Feb 1916,{},,,
+11,AWD0003mwj,orders,734,4,,,,[],,person,Captain A G F Isaac,"{""first""=>[""A G F""], ""surname""=>[""Isaac""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""2nd Infantry Brigade""]}",,,
+1,AWD0003mwf,orders,735,2,,,,[],,orders,move,{},,,
+2,AWD0003mwf,orders,735,3,,,,[],,date,19 Feb 1916,{},,,
+4,AWD0003mze,signals,736,3,,,,[],,date,21 Feb 1916,{},,,
+6,AWD0003mze,signals,736,4,,,,[],,signals,warning,{},,,
+7,AWD0003mze,signals,736,2,,,,[],,time,0230PM,{},,,
+8,AWD0003mze,signals,736,2,,,,[],,time,0300PM,{},,,
+6,AWD0003mxs,signals,737,3,,,,[],,date,21 Feb 1916,{},,,
+7,AWD0003mxs,signals,737,3,,,,[],,signals,warning,{},,,
+3,AWD0003mvr,signals,738,2,,,,[],,time,0255PM,{},,,
+5,AWD0003mvr,signals,738,3,,,,[],,date,21 Feb 1916,{},,,
+7,AWD0003mvr,signals,738,4,,,,[],,signals,warning,{},,,
+2,AWD0003mxq,signals,739,2,,,,[],,time,0418PM,{},,,
+5,AWD0003mxq,signals,739,3,,,,[],,date,21 Feb 1916,{},,,
+7,AWD0003mxq,signals,739,3,,,,[],,signals,warning,{},,,
+3,AWD0003mym,signals,740,2,,,,[],,time,0825PM,{},,,
+5,AWD0003mym,signals,740,3,,,,[],,date,21 Feb 1916,{},,,
+8,AWD0003mym,signals,740,3,,,,[],,signals,situation,{},,,
+7,AWD0003myn,signals,741,3,,,,[],,date,21 Feb 1916,{},,,
+8,AWD0003myn,signals,741,4,,,,[],,signals,situation,{},,,
+3,AWD0003myl,signals,742,2,,,,[],,time,1045AM,{},,,
+4,AWD0003myl,signals,742,2,,,,[],,time,1043AM,{},,,
+5,AWD0003myl,signals,742,2,,,,[],,date,22 Feb 1916,{},,,
+7,AWD0003myl,signals,742,2,,,,[],,signals,other,{},,,
+8,AWD0003myl,signals,742,2,,,,[],,signals,situation,{},,,
+2,AWD0003my5,orders,743,2,,,,[],,orders,move,{},,,
+7,AWD0003my5,orders,743,5,,,,[],,date,24 Feb 1916,{},,,
+11,AWD0003my5,orders,743,5,,,,[],,person,Captain A G F Isaac,"{""first""=>[""A G F""], ""surname""=>[""Isaac""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""2nd Infantry Brigade"", """"]}",,,
+4,AWD0003myo,signals,744,2,,,,[],,person,  Sullivan,"{""first""=>[""""], ""surname""=>[""Sullivan""], ""rank""=>[""""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+5,AWD0003myo,signals,744,3,,,,[],,date,29 Feb 1916,{},,,
+6,AWD0003myo,signals,744,3,,,,[],,signals,other,{},,,
+18,AWD0003myo,signals,744,2,,,,[],,unit,Brigade Pioneers,"{""name""=>[""Brigade Pioneers""], ""context""=>[""other""]}",,,
+5,AWD0003myw,orders,746,2,,,,[],,orders,move,{},,,
+7,AWD0003myw,orders,746,4,,,,[],,date,26 Mar 1916,{},,,
+3,AWD0003mvm,orders,747,3,,,,[],,orders,move,{},,,
+4,AWD0003mvm,orders,747,5,,,,[],,date,26 Mar 1916,{},,,
+10,AWD0003mvm,orders,747,3,,,,[],,person,Captain F W Swift,"{""first""=>[""F W""], ""surname""=>[""Swift""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""2nd Infantry Brigade""]}",,,
+4,AWD0003mws,orders,748,3,,,,[],,date,26 Mar 1916,{},,,
+5,AWD0003mws,orders,748,2,,,,[],,orders,move,{},,,
+2,AWD0003mwd,signals,749,2,,,,[],,time,0900AM,{},,,
+6,AWD0003mwd,signals,749,3,,,,[],,date,18 Mar 1916,{},,,
+7,AWD0003mwd,signals,749,3,,,,[],,signals,other,{},,,
+11,AWD0003mwd,signals,749,2,,,,[],,unit,Royal Sussex,"{""name""=>[""Royal Sussex""], ""context""=>[""other""]}",,,
+12,AWD0003mwd,signals,749,2,,,,[],,unit,Northants,"{""name""=>[""Northants""], ""context""=>[""other""]}",,,
+15,AWD0003mwd,signals,749,2,,,,[],,unit,Royal Sussex,"{""name""=>[""Royal Sussex""], ""context""=>[""other""]}",,,
+1,AWD0003mw5,signals,750,3,,,,[],,date,19 Mar 1916,{},,,
+5,AWD0003mw5,signals,750,3,,,,[],,date,19 Mar 1916,{},,,
+7,AWD0003mw5,signals,750,2,,,,[],,signals,warning,{},,,
+10,AWD0003mw5,signals,750,2,,,,[],,unit,2nd Sussex,"{""name""=>[""2nd Sussex""], ""context""=>[""other""]}",,,
+1,AWD0003mvk,signals,751,4,,,,[],,date,18 Mar 1916,{},,,
+3,AWD0003mvk,signals,751,2,,,,[],,signals,situation,{},,,
+6,AWD0003mvk,signals,751,2,,,,[],,time,0900PM,{},,,
+1,AWD0003myc,signals,752,2,,,,[],,date,18 Mar 1916,{},,,
+2,AWD0003myc,signals,752,2,,,,[],,time,0718PM,{},,,
+4,AWD0003myc,signals,752,3,,,,[],,date,18 Mar 1916,{},,,
+5,AWD0003myc,signals,752,2,,,,[],,signals,situation,{},,,
+6,AWD0003myc,signals,752,3,,,,[],,signals,warning,{},,,
+7,AWD0003myc,signals,752,2,,,,[],,time,0700PM,{},,,
+2,AWD0003mx8,orders,754,3,,,,[],,orders,move,{},,,
+3,AWD0003mx8,orders,754,3,,,,[],,date,13 Mar 1916,{},,,
+2,AWD0003myk,orders,755,3,,,,[],,orders,move,{},,,
+6,AWD0003myk,orders,755,4,,,,[],,date,13 Mar 1916,{},,,
+11,AWD0003myk,orders,755,5,,,,[],,person,Captain A G F Isaac,"{""first""=>[""A G F""], ""surname""=>[""Isaac""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""2nd Infantry Brigade"", """"]}",,,
+4,AWD0003mw7,report,757,3,,,,[],,date,5 Mar 1916,{},,,
+1,AWD0003mwq,orders,758,2,,,,[],,orders,move,{},,,
+4,AWD0003mwq,orders,758,3,,,,[],,date,7 Mar 1916,{},,,
+5,AWD0003mwg,orders,759,5,,,,[],,date,7 Mar 1916,{},,,
+10,AWD0003mwg,orders,759,5,,,,[],,person,Captain A G F Isaac,"{""first""=>[""A G F""], ""surname""=>[""Isaac""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>["""", ""2nd Infantry Brigade""]}",,,
+5,AWD0003my0,orders,760,3,,,,[],,date,24 Feb 1916,{},,,
+2,AWD0003mwi,orders,761,2,,,,[],,reference,App No 4,{},,,
+4,AWD0003mwi,orders,761,2,,,,[],,orders,move,{},,,
+5,AWD0003mwi,orders,761,3,,,,[],,person,Captain A G F Isaac,"{""first""=>[""A G F""], ""surname""=>[""Isaac""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>["""", ""2nd Infantry Brigade"", ""2nd Inf Bde""]}",,,
+6,AWD0003mwi,orders,761,4,,,,[],,date,6 Mar 1916,{},,,
+1,AWD0003mx4,signals,762,2,,,,[],,date,2 Mar 1916,{},,,
+3,AWD0003mx4,signals,762,3,,,,[],,date,2 Mar 1916,{},,,
+4,AWD0003mx4,signals,762,3,,,,[],,signals,situation,{},,,
+2,AWD0003mwp,signals,763,2,,,,[],,date,3 Mar 1916,{},,,
+5,AWD0003mwp,signals,763,2,,,,[],,unit,Royal Sussex,"{""name""=>[""Royal Sussex""], ""context""=>[""other""]}",,,
+6,AWD0003mwp,signals,763,3,,,,[],,unit,Northants,"{""name""=>[""Northants""], ""context""=>[""other""]}",,,
+8,AWD0003mwp,signals,763,2,,,,[],,unit,"A/2 T M B, A/2 TMB","{""name""=>[""A/2 T M B"", ""A/2 TMB""], ""context""=>[""other""]}",,,
+9,AWD0003mwp,signals,763,3,,,,[],,date,3 Mar 1916,{},,,
+10,AWD0003mwp,signals,763,5,,,,[],,signals,situation,{},,,
+1,AWD0003mz7,signals,764,2,,,,[],,date,3 Mar 1916,{},,,
+5,AWD0003mz7,signals,764,3,,,,[],,date,3 Mar 1916,{},,,
+6,AWD0003mz7,signals,764,5,,,,[],,signals,other,{},,,
+16,AWD0003mz7,signals,764,2,,,,[],,unit,"A/2 T M B, A/2 TMB","{""name""=>[""A/2 T M B"", ""A/2 TMB""], ""context""=>[""other""]}",,,
+1,AWD0003mxb,diary,765,3,1916-03-22 00:00:00 UTC,22 Mar 1916,Les Brebis,"[0.0, 0.0]","",diaryDate,22 Mar 1916,"{""day""=>[""22""], ""month""=>[""Mar""], ""year""=>[""1916""]}",2997620,Loos,"[3.01874, 50.60982]"
+2,AWD0003mxb,diary,765,2,1916-03-22 00:00:00 UTC,22 Mar 1916,Les Brebis,"[0.0, 0.0]","",activity,line,{},2997620,Loos,"[3.01874, 50.60982]"
+3,AWD0003mxb,diary,765,5,1916-03-22 00:00:00 UTC,22 Mar 1916,Les Brebis,"[0.0, 0.0]","",weather,rain,{},2997620,Loos,"[3.01874, 50.60982]"
+4,AWD0003mxb,diary,765,4,1916-03-23 00:00:00 UTC,23 Mar 1916,Les Brebis,"[0.0, 0.0]","",diaryDate,23 Mar 1916,"{""day""=>[""23""], ""month""=>[""Mar""], ""year""=>[""1916""]}",2997620,Loos,"[3.01874, 50.60982]"
+6,AWD0003mxb,diary,765,2,1916-03-23 00:00:00 UTC,23 Mar 1916,Les Brebis,"[0.0, 0.0]","",activity,attack,{},2997620,Loos,"[3.01874, 50.60982]"
+8,AWD0003mxb,diary,765,5,1916-03-23 00:00:00 UTC,23 Mar 1916,Les Brebis,"[0.0, 0.0]","",weather,cold,{},2997620,Loos,"[3.01874, 50.60982]"
+11,AWD0003mxb,diary,765,4,1916-03-23 21:00:00 UTC,23 Mar 1916,Les Brebis,"[0.0, 0.0]",0900PM,time,0900PM,{},2997620,Loos,"[3.01874, 50.60982]"
+13,AWD0003mxb,diary,765,3,1916-03-23 21:00:00 UTC,23 Mar 1916,Les Brebis,"[0.0, 0.0]",0900PM,activity,line,{},2997620,Loos,"[3.01874, 50.60982]"
+14,AWD0003mxb,diary,765,3,1916-03-23 21:00:00 UTC,23 Mar 1916,Les Brebis,"[0.0, 0.0]",0900PM,unit,Northants,"{""name""=>[""Northants""], ""context""=>[""relieved""]}",2997620,Loos,"[3.01874, 50.60982]"
+15,AWD0003mxb,diary,765,4,1916-03-23 21:00:00 UTC,23 Mar 1916,Les Brebis,"[0.0, 0.0]",0900PM,person,Captain L G Moore,"{""first""=>[""L G""], ""surname""=>[""Moore""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>["""", ""B Coy, 2nd Bn King's Royal Rifle Corps"", ""B Coy 2 Battalion King's Royal Rifle Corps"", ""B Coy""]}",2997620,Loos,"[3.01874, 50.60982]"
+16,AWD0003mxb,diary,765,3,1916-03-23 21:00:00 UTC,23 Mar 1916,Les Brebis,"[0.0, 0.0]",0900PM,person,Second Lieutenant L Barnes,"{""first""=>[""L""], ""surname""=>[""Barnes""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>["""", ""A Coy 2 Battalion King's Royal Rifle Corps"", ""A Coy""]}",2997620,Loos,"[3.01874, 50.60982]"
+18,AWD0003mxb,diary,765,3,1916-03-23 21:00:00 UTC,23 Mar 1916,Les Brebis,"[0.0, 0.0]",0900PM,person,Second Lieutenant L Blackett,"{""first""=>[""L""], ""surname""=>[""Blackett""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""D Coy, 2nd Bn King's Royal Rifle Corps"", ""D Coy"", ""D Coy 2 Battalion King's Royal Rifle Corps""]}",2997620,Loos,"[3.01874, 50.60982]"
+20,AWD0003mxb,diary,765,4,1916-03-25 00:00:00 UTC,25 Mar 1916,Les Brebis,"[0.0, 0.0]","",diaryDate,25 Mar 1916,"{""day""=>[""25""], ""month""=>[""Mar""], ""year""=>[""1916""]}",2997620,Loos,"[3.01874, 50.60982]"
+22,AWD0003mxb,diary,765,4,1916-03-25 00:00:00 UTC,25 Mar 1916,Les Brebis,"[0.0, 0.0]","",activity,quiet,{},2997620,Loos,"[3.01874, 50.60982]"
+23,AWD0003mxb,diary,765,3,1916-03-26 00:00:00 UTC,26 Mar 1916,Les Brebis,"[0.0, 0.0]","",diaryDate,26 Mar 1916,"{""day""=>[""26""], ""month""=>[""Mar""], ""year""=>[""1916""]}",2997620,Loos,"[3.01874, 50.60982]"
+24,AWD0003mxb,diary,765,3,1916-03-26 00:00:00 UTC,26 Mar 1916,Les Brebis,"[0.0, 0.0]","",activity,line,{},2997620,Loos,"[3.01874, 50.60982]"
+25,AWD0003mxb,diary,765,5,1916-03-26 00:00:00 UTC,26 Mar 1916,Les Brebis,"[0.0, 0.0]","",casualties,killed: 1,{},2997620,Loos,"[3.01874, 50.60982]"
+26,AWD0003mxb,diary,765,5,1916-03-26 00:00:00 UTC,26 Mar 1916,Les Brebis,"[0.0, 0.0]","",person,Captain W D Barber,"{""first""=>[""W D""], ""surname""=>[""Barber""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",2997620,Loos,"[3.01874, 50.60982]"
+27,AWD0003mxb,diary,765,2,1916-03-26 00:00:00 UTC,26 Mar 1916,Les Brebis,"[0.0, 0.0]","",diaryDate,26 Mar 1916,"{""day""=>[""26""], ""month""=>[""Mar""], ""year""=>[""1916""]}",2997620,Loos,"[3.01874, 50.60982]"
+29,AWD0003mxb,diary,765,4,1916-03-27 00:00:00 UTC,27 Mar 1916,Les Brebis,"[0.0, 0.0]","",diaryDate,27 Mar 1916,"{""day""=>[""27""], ""month""=>[""Mar""], ""year""=>[""1916""]}",2997620,Loos,"[3.01874, 50.60982]"
+31,AWD0003mxb,diary,765,3,1916-03-27 00:00:00 UTC,27 Mar 1916,Les Brebis,"[0.0, 0.0]","",activity,reconnoitered,{},2997620,Loos,"[3.01874, 50.60982]"
+35,AWD0003mxb,diary,765,4,1916-03-27 00:00:00 UTC,27 Mar 1916,Les Brebis,"[0.0, 0.0]","",unit,1/Black Watch,"{""name""=>[""1/Black Watch""], ""context""=>[""relieved_by""]}",2997620,Loos,"[3.01874, 50.60982]"
+36,AWD0003mxb,diary,765,3,1916-03-27 00:00:00 UTC,27 Mar 1916,Les Brebis,"[0.0, 0.0]","",activity,movement,{},2997620,Loos,"[3.01874, 50.60982]"
+37,AWD0003mxb,diary,765,4,1916-03-27 00:00:00 UTC,27 Mar 1916,Les Brebis,"[0.0, 0.0]","",place,Les Brebis,"{""place""=>[""Les Brebis""], ""location""=>[""false"", ""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2997620,Loos,"[3.01874, 50.60982]"
+38,AWD0003mxb,diary,765,4,1916-03-27 00:00:00 UTC,27 Mar 1916,Les Brebis,"[0.0, 0.0]","",activity,reserve,{},2997620,Loos,"[3.01874, 50.60982]"
+39,AWD0003mxb,diary,765,3,1916-03-27 00:00:00 UTC,27 Mar 1916,Les Brebis,"[0.0, 0.0]","",place,Saint Eloi,"{""place""=>[""Saint Eloi""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2997620,Loos,"[3.01874, 50.60982]"
+44,AWD0003mxb,diary,765,4,1916-03-28 00:00:00 UTC,28 Mar 1916,Les Brebis,"[0.0, 0.0]","",diaryDate,28 Mar 1916,"{""day""=>[""28""], ""month""=>[""Mar""], ""year""=>[""1916""]}",2997620,Loos,"[3.01874, 50.60982]"
+45,AWD0003mxb,diary,765,2,1916-03-28 00:00:00 UTC,28 Mar 1916,Les Brebis,"[0.0, 0.0]","",domestic,other,{},2997620,Loos,"[3.01874, 50.60982]"
+48,AWD0003mxb,diary,765,2,1916-03-28 00:00:00 UTC,28 Mar 1916,Les Brebis,"[0.0, 0.0]","",place,Les Brebis,"{""place""=>[""Les Brebis""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2997620,Loos,"[3.01874, 50.60982]"
+49,AWD0003mxb,diary,765,2,1916-03-28 00:00:00 UTC,28 Mar 1916,Les Brebis,"[0.0, 0.0]","",domestic,hygiene,{},2997620,Loos,"[3.01874, 50.60982]"
+50,AWD0003mxb,diary,765,4,1916-03-29 00:00:00 UTC,29 Mar 1916,Les Brebis,"[0.0, 0.0]","",diaryDate,29 Mar 1916,"{""day""=>[""29""], ""month""=>[""Mar""], ""year""=>[""1916""]}",2997620,Loos,"[3.01874, 50.60982]"
+51,AWD0003mxb,diary,765,3,1916-03-29 00:00:00 UTC,29 Mar 1916,Les Brebis,"[0.0, 0.0]","",activity,working,{},2997620,Loos,"[3.01874, 50.60982]"
+52,AWD0003mxb,diary,765,2,1916-03-29 00:00:00 UTC,29 Mar 1916,Les Brebis,"[0.0, 0.0]","",activity,repair,{},2997620,Loos,"[3.01874, 50.60982]"
+53,AWD0003mxb,diary,765,3,1916-03-29 00:00:00 UTC,29 Mar 1916,Les Brebis,"[0.0, 0.0]","",person,Captain P J R Currie,"{""first""=>[""P J R""], ""surname""=>[""Currie""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",2997620,Loos,"[3.01874, 50.60982]"
+1,AWD0003mz3,diary,766,4,1916-03-30 00:00:00 UTC,30 Mar 1916,Les Brebis,"[0.0, 0.0]","",diaryDate,30 Mar 1916,"{""day""=>[""30""], ""month""=>[""Mar""], ""year""=>[""1916""]}",2997620,Loos,"[3.01874, 50.60982]"
+2,AWD0003mz3,diary,766,5,1916-03-30 00:00:00 UTC,30 Mar 1916,Les Brebis,"[0.0, 0.0]","",weather,fine,{},2997620,Loos,"[3.01874, 50.60982]"
+3,AWD0003mz3,diary,766,3,1916-03-30 00:00:00 UTC,30 Mar 1916,Les Brebis,"[0.0, 0.0]","",activity,reserve,{},2997620,Loos,"[3.01874, 50.60982]"
+4,AWD0003mz3,diary,766,3,1916-03-30 00:00:00 UTC,30 Mar 1916,Les Brebis,"[0.0, 0.0]","",activity,training,{},2997620,Loos,"[3.01874, 50.60982]"
+7,AWD0003mz3,diary,766,3,1916-03-30 00:00:00 UTC,30 Mar 1916,Les Brebis,"[0.0, 0.0]","",casualties,wounded: 1,{},2997620,Loos,"[3.01874, 50.60982]"
+8,AWD0003mz3,diary,766,3,1916-03-30 00:00:00 UTC,30 Mar 1916,Les Brebis,"[0.0, 0.0]","",activity,working,{},2997620,Loos,"[3.01874, 50.60982]"
+10,AWD0003mz3,diary,766,4,1916-03-31 00:00:00 UTC,31 Mar 1916,Les Brebis,"[0.0, 0.0]","",diaryDate,31 Mar 1916,"{""day""=>[""31""], ""month""=>[""Mar""], ""year""=>[""1916""]}",2997620,Loos,"[3.01874, 50.60982]"
+11,AWD0003mz3,diary,766,5,1916-03-31 00:00:00 UTC,31 Mar 1916,Les Brebis,"[0.0, 0.0]","",weather,fine,{},2997620,Loos,"[3.01874, 50.60982]"
+14,AWD0003mz3,diary,766,4,1916-03-31 00:00:00 UTC,31 Mar 1916,Les Brebis,"[0.0, 0.0]","",person,Captain P J R Currie,"{""first""=>[""P J R""], ""surname""=>[""Currie""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",2997620,Loos,"[3.01874, 50.60982]"
+1,AWD0003mxl,diary,768,3,1916-03-16 00:00:00 UTC,16 Mar 1916,Les Brebis,"[0.0, 0.0]","",diaryDate,16 Mar 1916,"{""day""=>[""16""], ""month""=>[""Mar""], ""year""=>[""1916""]}",2997620,Loos,"[3.01874, 50.60982]"
+2,AWD0003mxl,diary,768,3,1916-03-16 06:00:00 UTC,16 Mar 1916,Les Brebis,"[0.0, 0.0]",0600AM,time,0600AM,{},2997620,Loos,"[3.01874, 50.60982]"
+3,AWD0003mxl,diary,768,2,1916-03-16 00:00:00 UTC,16 Mar 1916,Les Brebis,"[0.0, 0.0]","",diaryDate,16 Mar 1916,"{""day""=>[""16""], ""month""=>[""Mar""], ""year""=>[""1916""]}",2997620,Loos,"[3.01874, 50.60982]"
+4,AWD0003mxl,diary,768,2,1916-03-16 00:00:00 UTC,16 Mar 1916,Les Brebis,"[0.0, 0.0]","",activity,line,{},2997620,Loos,"[3.01874, 50.60982]"
+7,AWD0003mxl,diary,768,2,1916-03-16 00:00:00 UTC,16 Mar 1916,Les Brebis,"[0.0, 0.0]","",activity,attack,{},2997620,Loos,"[3.01874, 50.60982]"
+8,AWD0003mxl,diary,768,2,1916-03-16 00:00:00 UTC,16 Mar 1916,Les Brebis,"[0.0, 0.0]","",unit,"D Coy, 8th Royal Irish Fusiliers, D Coy Royal Irish Fusiliers","{""name""=>[""D Coy, 8th Royal Irish Fusiliers"", ""D Coy Royal Irish Fusiliers""], ""context""=>[""joined""]}",2997620,Loos,"[3.01874, 50.60982]"
+10,AWD0003mxl,diary,768,5,1916-03-17 00:00:00 UTC,17 Mar 1916,Les Brebis,"[0.0, 0.0]","",diaryDate,17 Mar 1916,"{""day""=>[""17""], ""month""=>[""Mar""], ""year""=>[""1916""]}",2997620,Loos,"[3.01874, 50.60982]"
+11,AWD0003mxl,diary,768,2,1916-03-17 00:00:00 UTC,17 Mar 1916,Les Brebis,"[0.0, 0.0]","",activity,line,{},2997620,Loos,"[3.01874, 50.60982]"
+12,AWD0003mxl,diary,768,4,1916-03-17 00:00:00 UTC,17 Mar 1916,Les Brebis,"[0.0, 0.0]","",activity,quiet,{},2997620,Loos,"[3.01874, 50.60982]"
+13,AWD0003mxl,diary,768,5,1916-03-18 00:00:00 UTC,18 Mar 1916,Les Brebis,"[0.0, 0.0]","",diaryDate,18 Mar 1916,"{""day""=>[""18""], ""month""=>[""Mar""], ""year""=>[""1916""]}",2997620,Loos,"[3.01874, 50.60982]"
+14,AWD0003mxl,diary,768,4,1916-03-18 00:00:00 UTC,18 Mar 1916,Les Brebis,"[0.0, 0.0]","",unit,"1/ Northamptons, northhampton, 1st Northamptons, 1/Northamptons","{""name""=>[""1/ Northamptons"", ""northhampton"", ""1st Northamptons"", ""1/Northamptons""], ""context""=>[""relieved_by""]}",2997620,Loos,"[3.01874, 50.60982]"
+15,AWD0003mxl,diary,768,3,1916-03-18 00:00:00 UTC,18 Mar 1916,Les Brebis,"[0.0, 0.0]","",activity,movement,{},2997620,Loos,"[3.01874, 50.60982]"
+16,AWD0003mxl,diary,768,3,1916-03-18 00:00:00 UTC,18 Mar 1916,Les Brebis,"[0.0, 0.0]","",activity,reserve,{},2997620,Loos,"[3.01874, 50.60982]"
+19,AWD0003mxl,diary,768,3,1916-03-18 00:00:00 UTC,18 Mar 1916,Les Brebis,"[0.0, 0.0]","",weather,fine,{},2997620,Loos,"[3.01874, 50.60982]"
+23,AWD0003mxl,diary,768,2,1916-03-18 00:00:00 UTC,18 Mar 1916,Les Brebis,"[0.0, 0.0]","",weather,fine,{},2997620,Loos,"[3.01874, 50.60982]"
+24,AWD0003mxl,diary,768,5,1916-03-19 00:00:00 UTC,19 Mar 1916,Les Brebis,"[0.0, 0.0]","",diaryDate,19 Mar 1916,"{""day""=>[""19""], ""month""=>[""Mar""], ""year""=>[""1916""]}",2997620,Loos,"[3.01874, 50.60982]"
+26,AWD0003mxl,diary,768,2,1916-03-19 00:00:00 UTC,19 Mar 1916,Les Brebis,"[0.0, 0.0]","",activity,quiet,{},2997620,Loos,"[3.01874, 50.60982]"
+32,AWD0003mxl,diary,768,2,1916-03-19 00:00:00 UTC,19 Mar 1916,Les Brebis,"[0.0, 0.0]","",unit,Royal Irish Fusiliers,"{""name""=>[""Royal Irish Fusiliers""], ""context""=>[""other""]}",2997620,Loos,"[3.01874, 50.60982]"
+36,AWD0003mxl,diary,768,2,1916-03-19 00:00:00 UTC,19 Mar 1916,Les Brebis,"[0.0, 0.0]","",domestic,accomodation,{},2997620,Loos,"[3.01874, 50.60982]"
+38,AWD0003mxl,diary,768,2,1916-03-19 00:00:00 UTC,19 Mar 1916,Les Brebis,"[0.0, 0.0]","",place,Petit Sains,"{""place""=>[""Petit Sains""], ""location""=>[""false"", ""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2997620,Loos,"[3.01874, 50.60982]"
+39,AWD0003mxl,diary,768,2,1916-03-19 00:00:00 UTC,19 Mar 1916,Les Brebis,"[0.0, 0.0]","",activity,movement,{},2997620,Loos,"[3.01874, 50.60982]"
+41,AWD0003mxl,diary,768,5,1916-03-20 00:00:00 UTC,20 Mar 1916,Les Brebis,"[0.0, 0.0]","",diaryDate,20 Mar 1916,"{""day""=>[""20""], ""month""=>[""Mar""], ""year""=>[""1916""]}",2997620,Loos,"[3.01874, 50.60982]"
+42,AWD0003mxl,diary,768,3,1916-03-20 00:00:00 UTC,20 Mar 1916,Petit Sains,"[0.0, 0.0]","",place,Petit Sains,"{""place""=>[""Petit Sains""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",0,",Bruay-la-Buissière","[0.0, 0.0]"
+44,AWD0003mxl,diary,768,2,1916-03-20 00:00:00 UTC,20 Mar 1916,Petit Sains,"[0.0, 0.0]","",activity,repair,{},0,",Bruay-la-Buissière","[0.0, 0.0]"
+45,AWD0003mxl,diary,768,2,1916-03-20 00:00:00 UTC,20 Mar 1916,Petit Sains,"[0.0, 0.0]","",casualties,"killed: 1, wounded: 3",{},0,",Bruay-la-Buissière","[0.0, 0.0]"
+46,AWD0003mxl,diary,768,2,1916-03-20 00:00:00 UTC,20 Mar 1916,Petit Sains,"[0.0, 0.0]","",activity,working,{},0,",Bruay-la-Buissière","[0.0, 0.0]"
+48,AWD0003mxl,diary,768,2,1916-03-20 00:00:00 UTC,20 Mar 1916,Petit Sains,"[0.0, 0.0]","",casualties,"killed: 1, wounded: 3",{},0,",Bruay-la-Buissière","[0.0, 0.0]"
+49,AWD0003mxl,diary,768,5,1916-03-21 00:00:00 UTC,21 Mar 1916,Petit Sains,"[0.0, 0.0]","",diaryDate,21 Mar 1916,"{""day""=>[""21""], ""month""=>[""Mar""], ""year""=>[""1916""]}",0,",Bruay-la-Buissière","[0.0, 0.0]"
+50,AWD0003mxl,diary,768,2,1916-03-21 00:00:00 UTC,21 Mar 1916,Petit Sains,"[0.0, 0.0]","",place,Petit Sains,"{""place""=>[""Petit Sains""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",0,",Bruay-la-Buissière","[0.0, 0.0]"
+51,AWD0003mxl,diary,768,3,1916-03-21 00:00:00 UTC,21 Mar 1916,Petit Sains,"[0.0, 0.0]","",activity,repair,{},0,",Bruay-la-Buissière","[0.0, 0.0]"
+52,AWD0003mxl,diary,768,3,1916-03-21 00:00:00 UTC,21 Mar 1916,Petit Sains,"[0.0, 0.0]","",activity,quiet,{},0,",Bruay-la-Buissière","[0.0, 0.0]"
+53,AWD0003mxl,diary,768,2,1916-03-21 00:00:00 UTC,21 Mar 1916,Petit Sains,"[0.0, 0.0]","",activity,working,{},0,",Bruay-la-Buissière","[0.0, 0.0]"
+54,AWD0003mxl,diary,768,5,1916-03-22 00:00:00 UTC,22 Mar 1916,Petit Sains,"[0.0, 0.0]","",diaryDate,22 Mar 1916,"{""day""=>[""22""], ""month""=>[""Mar""], ""year""=>[""1916""]}",0,",Bruay-la-Buissière","[0.0, 0.0]"
+56,AWD0003mxl,diary,768,2,1916-03-22 00:00:00 UTC,22 Mar 1916,Petit Sains,"[0.0, 0.0]","",unit,"1/ Northamptons, Northamptons","{""name""=>[""1/ Northamptons"", ""Northamptons""], ""context""=>[""relieved""]}",0,",Bruay-la-Buissière","[0.0, 0.0]"
+57,AWD0003mxl,diary,768,2,1916-03-22 00:00:00 UTC,22 Mar 1916,Petit Sains,"[0.0, 0.0]","",place,Petit Sains,"{""place""=>[""Petit Sains""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",0,",Bruay-la-Buissière","[0.0, 0.0]"
+59,AWD0003mxl,diary,768,3,1916-03-22 00:00:00 UTC,22 Mar 1916,Petit Sains,"[0.0, 0.0]","",weather,rain,{},0,",Bruay-la-Buissière","[0.0, 0.0]"
+63,AWD0003mxl,diary,768,3,1916-03-22 00:00:00 UTC,22 Mar 1916,Petit Sains,"[0.0, 0.0]","",casualties,wounded: 1,{},0,",Bruay-la-Buissière","[0.0, 0.0]"
+66,AWD0003mxl,diary,768,2,1916-03-22 00:00:00 UTC,22 Mar 1916,Petit Sains,"[0.0, 0.0]","",person,Captain P J R Currie,"{""first""=>[""P J R""], ""surname""=>[""Currie""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""Adj. 2 Battalion King's Royal Rifle Corps"", """"]}",0,",Bruay-la-Buissière","[0.0, 0.0]"
+1,AWD0003mzi,diary,769,4,1916-03-10 00:00:00 UTC,10 Mar 1916,Petit Sains,"[0.0, 0.0]","",diaryDate,10 Mar 1916,"{""day""=>[""10""], ""month""=>[""Mar""], ""year""=>[""1916""]}",0,",Bruay-la-Buissière","[0.0, 0.0]"
+3,AWD0003mzi,diary,769,2,1916-03-10 00:00:00 UTC,10 Mar 1916,Petit Sains,"[0.0, 0.0]","",domestic,other,{},0,",Bruay-la-Buissière","[0.0, 0.0]"
+4,AWD0003mzi,diary,769,2,1916-03-10 00:00:00 UTC,10 Mar 1916,Petit Sains,"[0.0, 0.0]","",activity,working,{},0,",Bruay-la-Buissière","[0.0, 0.0]"
+5,AWD0003mzi,diary,769,2,1916-03-10 00:00:00 UTC,10 Mar 1916,Petit Sains,"[0.0, 0.0]","",person,"Brigadier General  Thuillier, Thuiller","{""first""=>[""""], ""surname""=>[""Thuillier"", ""Thuiller""], ""rank""=>[""Brigadier General""], ""number""=>[""""], ""reason""=>[""other"", ""departed_posted""], ""unit""=>[""""]}",0,",Bruay-la-Buissière","[0.0, 0.0]"
+9,AWD0003mzi,diary,769,4,1916-03-11 00:00:00 UTC,11 Mar 1916,Petit Sains,"[0.0, 0.0]","",diaryDate,11 Mar 1916,"{""day""=>[""11""], ""month""=>[""Mar""], ""year""=>[""1916""]}",0,",Bruay-la-Buissière","[0.0, 0.0]"
+10,AWD0003mzi,diary,769,3,1916-03-11 00:00:00 UTC,11 Mar 1916,Petit Sains,"[0.0, 0.0]","",activity,movement,{},0,",Bruay-la-Buissière","[0.0, 0.0]"
+11,AWD0003mzi,diary,769,3,1916-03-11 00:00:00 UTC,11 Mar 1916,Petit Sains,"[0.0, 0.0]","",activity,working,{},0,",Bruay-la-Buissière","[0.0, 0.0]"
+12,AWD0003mzi,diary,769,4,1916-03-11 00:00:00 UTC,11 Mar 1916,Petit Sains,"[0.0, 0.0]","",place,Les Brebis,"{""place""=>[""Les Brebis""], ""location""=>[""true"", ""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",0,",Bruay-la-Buissière","[0.0, 0.0]"
+14,AWD0003mzi,diary,769,4,1916-03-12 00:00:00 UTC,12 Mar 1916,Petit Sains,"[0.0, 0.0]","",diaryDate,12 Mar 1916,"{""day""=>[""12""], ""month""=>[""Mar""], ""year""=>[""1916""]}",0,",Bruay-la-Buissière","[0.0, 0.0]"
+15,AWD0003mzi,diary,769,4,1916-03-12 00:00:00 UTC,12 Mar 1916,Petit Sains,"[0.0, 0.0]","",weather,fine,{},0,",Bruay-la-Buissière","[0.0, 0.0]"
+16,AWD0003mzi,diary,769,3,1916-03-12 00:00:00 UTC,12 Mar 1916,Petit Sains,"[0.0, 0.0]","",domestic,religion,{},0,",Bruay-la-Buissière","[0.0, 0.0]"
+17,AWD0003mzi,diary,769,3,1916-03-12 00:00:00 UTC,12 Mar 1916,Petit Sains,"[0.0, 0.0]","",domestic,parades,{},0,",Bruay-la-Buissière","[0.0, 0.0]"
+20,AWD0003mzi,diary,769,3,1916-03-12 00:00:00 UTC,12 Mar 1916,Petit Sains,"[0.0, 0.0]","",activity,fire,{},0,",Bruay-la-Buissière","[0.0, 0.0]"
+22,AWD0003mzi,diary,769,4,1916-03-13 00:00:00 UTC,13 Mar 1916,Petit Sains,"[0.0, 0.0]","",diaryDate,13 Mar 1916,"{""day""=>[""13""], ""month""=>[""Mar""], ""year""=>[""1916""]}",0,",Bruay-la-Buissière","[0.0, 0.0]"
+23,AWD0003mzi,diary,769,2,1916-03-13 00:00:00 UTC,13 Mar 1916,Petit Sains,"[0.0, 0.0]","",person,Lieutenant A H B Langton,"{""first""=>[""A H B""], ""surname""=>[""Langton""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""D Coy, 2nd Bn King's Royal Rifle Corps"", ""D Coy 2 Battalion King's Royal Rifle Corps""]}",0,",Bruay-la-Buissière","[0.0, 0.0]"
+26,AWD0003mzi,diary,769,3,1916-03-13 00:00:00 UTC,13 Mar 1916,Petit Sains,"[0.0, 0.0]","",person,Second Lieutenant A J Stokes,"{""first""=>[""A J""], ""surname""=>[""Stokes""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""C Coy, 2nd Bn King's Royal Rifle Corps"", ""C Coy 2 Battalion King's Royal Rifle Corps"", """"]}",0,",Bruay-la-Buissière","[0.0, 0.0]"
+28,AWD0003mzi,diary,769,2,1916-03-13 00:00:00 UTC,13 Mar 1916,Les Brebis,"[0.0, 0.0]","",place,Les Brebis,"{""place""=>[""Les Brebis""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2997620,Loos,"[3.01874, 50.60982]"
+30,AWD0003mzi,diary,769,4,1916-03-14 00:00:00 UTC,14 Mar 1916,Les Brebis,"[0.0, 0.0]","",diaryDate,14 Mar 1916,"{""day""=>[""14""], ""month""=>[""Mar""], ""year""=>[""1916""]}",2997620,Loos,"[3.01874, 50.60982]"
+31,AWD0003mzi,diary,769,4,1916-03-14 00:00:00 UTC,14 Mar 1916,Les Brebis,"[0.0, 0.0]","",activity,fire,{},2997620,Loos,"[3.01874, 50.60982]"
+34,AWD0003mzi,diary,769,4,1916-03-15 00:00:00 UTC,15 Mar 1916,Les Brebis,"[0.0, 0.0]","",diaryDate,15 Mar 1916,"{""day""=>[""15""], ""month""=>[""Mar""], ""year""=>[""1916""]}",2997620,Loos,"[3.01874, 50.60982]"
+36,AWD0003mzi,diary,769,2,1916-03-15 00:00:00 UTC,15 Mar 1916,Les Brebis,"[0.0, 0.0]","",unit,3rd Bde,"{""name""=>[""3rd Bde""], ""context""=>[""relieved""]}",2997620,Loos,"[3.01874, 50.60982]"
+38,AWD0003mzi,diary,769,2,1916-03-15 00:00:00 UTC,15 Mar 1916,Les Brebis,"[0.0, 0.0]","",unit,"1st SWB, 1st S W B","{""name""=>[""1st SWB"", ""1st S W B""], ""context""=>[""relieved""]}",2997620,Loos,"[3.01874, 50.60982]"
+42,AWD0003mzi,diary,769,2,1916-03-15 00:00:00 UTC,15 Mar 1916,Les Brebis,"[0.0, 0.0]","",person,Major General  Holland,"{""first""=>[""""], ""surname""=>[""Holland""], ""rank""=>[""Major General""], ""number""=>[""""], ""reason""=>[""commander"", ""other""], ""unit""=>[""1st Divn"", ""GOC 1st Division""]}",2997620,Loos,"[3.01874, 50.60982]"
+45,AWD0003mzi,diary,769,3,1916-03-15 00:00:00 UTC,15 Mar 1916,Les Brebis,"[0.0, 0.0]","",person,Lieutenant  Whateley,"{""first""=>[""""], ""surname""=>[""Whateley""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""2nd Bn King's Royal Rifle Corps"", """", ""2/1 Trench Mortar Battery""]}",2997620,Loos,"[3.01874, 50.60982]"
+46,AWD0003mzi,diary,769,3,1916-03-15 00:00:00 UTC,15 Mar 1916,Les Brebis,"[0.0, 0.0]","",person,Sergeant  Barrett,"{""first""=>[""""], ""surname""=>[""Barrett""], ""rank""=>[""Sergeant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""2nd Bn King's Royal Rifle Corps"", """", ""2/1 Trench Mortar Battery""]}",2997620,Loos,"[3.01874, 50.60982]"
+49,AWD0003mzi,diary,769,2,1916-03-15 00:00:00 UTC,15 Mar 1916,Les Brebis,"[0.0, 0.0]","",person,Corporal  Wigmore,"{""first""=>[""""], ""surname""=>[""Wigmore""], ""rank""=>[""Corporal""], ""number""=>[""""], ""reason""=>[""award"", ""other""], ""unit""=>[""2nd Bn King's Royal Rifle Corps"", ""Brigade Grenade Coy""]}",2997620,Loos,"[3.01874, 50.60982]"
+50,AWD0003mzi,diary,769,2,1916-03-15 00:00:00 UTC,15 Mar 1916,Les Brebis,"[0.0, 0.0]","",unit,Brigade Grenade Coy,"{""name""=>[""Brigade Grenade Coy""], ""context""=>[""other""]}",2997620,Loos,"[3.01874, 50.60982]"
+51,AWD0003mzi,diary,769,2,1916-03-15 00:00:00 UTC,15 Mar 1916,Les Brebis,"[0.0, 0.0]","",person,Lieutenant  Fryer,"{""first""=>[""""], ""surname""=>[""Fryer""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>["""", ""Brigade Grenade Coy""]}",2997620,Loos,"[3.01874, 50.60982]"
+53,AWD0003mzi,diary,769,4,1916-03-15 00:00:00 UTC,15 Mar 1916,Les Brebis,"[0.0, 0.0]","",person,Lieutenant  Reddie,"{""first""=>[""""], ""surname""=>[""Reddie""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2997620,Loos,"[3.01874, 50.60982]"
+54,AWD0003mzi,diary,769,3,1916-03-15 00:00:00 UTC,15 Mar 1916,Les Brebis,"[0.0, 0.0]","",person,Rifleman  Ashmore,"{""first""=>[""""], ""surname""=>[""Ashmore""], ""rank""=>[""Rifleman""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""2nd Bn King's Royal Rifle Corps"", """", ""2/1 Trench Mortar Battery""]}",2997620,Loos,"[3.01874, 50.60982]"
+2,AWD0003mxe,diary,770,3,1916-03-01 00:00:00 UTC,1 Mar 1916,Les Brebis,"[0.0, 0.0]","",diaryDate,1 Mar 1916,"{""day""=>[""1""], ""month""=>[""Mar""], ""year""=>[""1916""]}",2997620,Loos,"[3.01874, 50.60982]"
+3,AWD0003mxe,diary,770,4,1916-03-01 00:00:00 UTC,1 Mar 1916,Les Brebis,"[0.0, 0.0]","",activity,quiet,{},2997620,Loos,"[3.01874, 50.60982]"
+4,AWD0003mxe,diary,770,2,1916-03-01 00:00:00 UTC,1 Mar 1916,Les Brebis,"[0.0, 0.0]","",activity,fire,{},2997620,Loos,"[3.01874, 50.60982]"
+7,AWD0003mxe,diary,770,3,1916-03-01 00:00:00 UTC,1 Mar 1916,Les Brebis,"[0.0, 0.0]","",place,Les Brebis,"{""place""=>[""Les Brebis""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2997620,Loos,"[3.01874, 50.60982]"
+9,AWD0003mxe,diary,770,2,1916-03-01 00:00:00 UTC,1 Mar 1916,Les Brebis,"[0.0, 0.0]","",place,Les Brebis,"{""place""=>[""Les Brebis""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2997620,Loos,"[3.01874, 50.60982]"
+10,AWD0003mxe,diary,770,3,1916-03-01 00:00:00 UTC,1 Mar 1916,Les Brebis,"[0.0, 0.0]","",activity,working,{},2997620,Loos,"[3.01874, 50.60982]"
+11,AWD0003mxe,diary,770,4,1916-03-02 00:00:00 UTC,2 Mar 1916,Les Brebis,"[0.0, 0.0]","",diaryDate,2 Mar 1916,"{""day""=>[""2""], ""month""=>[""Mar""], ""year""=>[""1916""]}",2997620,Loos,"[3.01874, 50.60982]"
+13,AWD0003mxe,diary,770,2,1916-03-02 00:00:00 UTC,2 Mar 1916,Les Brebis,"[0.0, 0.0]","",place,Les Brebis,"{""place""=>[""Les Brebis""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2997620,Loos,"[3.01874, 50.60982]"
+15,AWD0003mxe,diary,770,2,1916-03-02 00:00:00 UTC,2 Mar 1916,Les Brebis,"[0.0, 0.0]","",unit,1st Corps,"{""name""=>[""1st Corps""], ""context""=>[""joined"", ""other""]}",2997620,Loos,"[3.01874, 50.60982]"
+16,AWD0003mxe,diary,770,4,1916-03-03 00:00:00 UTC,3 Mar 1916,Les Brebis,"[0.0, 0.0]","",diaryDate,3 Mar 1916,"{""day""=>[""3""], ""month""=>[""Mar""], ""year""=>[""1916""]}",2997620,Loos,"[3.01874, 50.60982]"
+17,AWD0003mxe,diary,770,2,1916-03-03 00:00:00 UTC,3 Mar 1916,Les Brebis,"[0.0, 0.0]","",place,Les Brebis,"{""place""=>[""Les Brebis""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2997620,Loos,"[3.01874, 50.60982]"
+18,AWD0003mxe,diary,770,3,1916-03-03 00:00:00 UTC,3 Mar 1916,Les Brebis,"[0.0, 0.0]","",domestic,hygiene,{},2997620,Loos,"[3.01874, 50.60982]"
+20,AWD0003mxe,diary,770,2,1916-03-03 00:00:00 UTC,3 Mar 1916,Les Brebis,"[0.0, 0.0]","",place,Loos,"{""place""=>[""Loos""], ""location""=>[""false"", ""true""], ""name""=>[""Loos-en-Gohelle"", ""Loos""], ""lat""=>[""50.45786"", ""50.60982""], ""long""=>[""2.79215"", ""3.01874""], ""id""=>[""2997619"", ""2997620""]}",2997620,Loos,"[3.01874, 50.60982]"
+22,AWD0003mxe,diary,770,4,1916-03-03 18:15:00 UTC,3 Mar 1916,Les Brebis,"[0.0, 0.0]",0615PM,time,0615PM,{},2997620,Loos,"[3.01874, 50.60982]"
+23,AWD0003mxe,diary,770,3,1916-03-03 18:15:00 UTC,3 Mar 1916,Les Brebis,"[0.0, 0.0]",0615PM,domestic,parades,{},2997620,Loos,"[3.01874, 50.60982]"
+27,AWD0003mxe,diary,770,2,1916-03-03 18:15:00 UTC,3 Mar 1916,Les Brebis,"[0.0, 0.0]",0615PM,activity,movement,{},2997620,Loos,"[3.01874, 50.60982]"
+28,AWD0003mxe,diary,770,2,1916-03-03 18:15:00 UTC,3 Mar 1916,Les Brebis,"[0.0, 0.0]",0615PM,activity,line,{},2997620,Loos,"[3.01874, 50.60982]"
+29,AWD0003mxe,diary,770,2,1916-03-03 18:15:00 UTC,3 Mar 1916,Les Brebis,"[0.0, 0.0]",0615PM,unit,2nd Army,"{""name""=>[""2nd Army""], ""context""=>[""other""]}",2997620,Loos,"[3.01874, 50.60982]"
+30,AWD0003mxe,diary,770,4,1916-03-03 21:30:00 UTC,3 Mar 1916,Les Brebis,"[0.0, 0.0]",0930PM,time,0930PM,{},2997620,Loos,"[3.01874, 50.60982]"
+31,AWD0003mxe,diary,770,2,1916-03-03 21:30:00 UTC,3 Mar 1916,Les Brebis,"[0.0, 0.0]",0930PM,place,Hohenzollern,"{""place""=>[""Hohenzollern""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2997620,Loos,"[3.01874, 50.60982]"
+33,AWD0003mxe,diary,770,4,1916-03-04 00:00:00 UTC,4 Mar 1916,Les Brebis,"[0.0, 0.0]","",diaryDate,4 Mar 1916,"{""day""=>[""4""], ""month""=>[""Mar""], ""year""=>[""1916""]}",2997620,Loos,"[3.01874, 50.60982]"
+34,AWD0003mxe,diary,770,2,1916-03-04 00:00:00 UTC,4 Mar 1916,Les Brebis,"[0.0, 0.0]","",activity,line,{},2997620,Loos,"[3.01874, 50.60982]"
+35,AWD0003mxe,diary,770,3,1916-03-04 00:00:00 UTC,4 Mar 1916,Les Brebis,"[0.0, 0.0]","",person,Captain  Johnstone,"{""first""=>[""""], ""surname""=>[""Johnstone""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""2nd Bn King's Royal Rifle Corps"", """", ""2 Battalion King's Royal Rifle Corps""]}",2997620,Loos,"[3.01874, 50.60982]"
+36,AWD0003mxe,diary,770,3,1916-03-04 00:00:00 UTC,4 Mar 1916,Les Brebis,"[0.0, 0.0]","",strength,"officer: 19, other: 639",{},2997620,Loos,"[3.01874, 50.60982]"
+37,AWD0003mxe,diary,770,3,1916-03-04 00:00:00 UTC,4 Mar 1916,Les Brebis,"[0.0, 0.0]","",activity,reconnoitered,{},2997620,Loos,"[3.01874, 50.60982]"
+1,AWD0003mxp,diary,771,4,1916-03-05 00:00:00 UTC,5 Mar 1916,Les Brebis,"[0.0, 0.0]","",diaryDate,5 Mar 1916,"{""day""=>[""5""], ""month""=>[""Mar""], ""year""=>[""1916""]}",2997620,Loos,"[3.01874, 50.60982]"
+2,AWD0003mxp,diary,771,2,1916-03-05 00:00:00 UTC,5 Mar 1916,Les Brebis,"[0.0, 0.0]","",activity,line,{},2997620,Loos,"[3.01874, 50.60982]"
+4,AWD0003mxp,diary,771,2,1916-03-05 00:00:00 UTC,5 Mar 1916,Les Brebis,"[0.0, 0.0]","",activity,other,{},2997620,Loos,"[3.01874, 50.60982]"
+5,AWD0003mxp,diary,771,3,1916-03-05 00:00:00 UTC,5 Mar 1916,Les Brebis,"[0.0, 0.0]","",activity,enemy_activity,{},2997620,Loos,"[3.01874, 50.60982]"
+6,AWD0003mxp,diary,771,4,1916-03-05 00:00:00 UTC,5 Mar 1916,Les Brebis,"[0.0, 0.0]","",activity,attack,{},2997620,Loos,"[3.01874, 50.60982]"
+7,AWD0003mxp,diary,771,5,1916-03-06 00:00:00 UTC,6 Mar 1916,Les Brebis,"[0.0, 0.0]","",diaryDate,6 Mar 1916,"{""day""=>[""6""], ""month""=>[""Mar""], ""year""=>[""1916""]}",2997620,Loos,"[3.01874, 50.60982]"
+8,AWD0003mxp,diary,771,2,1916-03-06 00:00:00 UTC,6 Mar 1916,Les Brebis,"[0.0, 0.0]","",activity,line,{},2997620,Loos,"[3.01874, 50.60982]"
+9,AWD0003mxp,diary,771,4,1916-03-06 00:00:00 UTC,6 Mar 1916,Les Brebis,"[0.0, 0.0]","",activity,fire,{},2997620,Loos,"[3.01874, 50.60982]"
+10,AWD0003mxp,diary,771,4,1916-03-06 00:00:00 UTC,6 Mar 1916,Les Brebis,"[0.0, 0.0]","",casualties,wounded: 2,{},2997620,Loos,"[3.01874, 50.60982]"
+11,AWD0003mxp,diary,771,2,1916-03-06 00:00:00 UTC,6 Mar 1916,Les Brebis,"[0.0, 0.0]","",unit,Rhodesian Platoon,"{""name""=>[""Rhodesian Platoon""], ""context""=>[""other""]}",2997620,Loos,"[3.01874, 50.60982]"
+14,AWD0003mxp,diary,771,3,1916-03-06 00:00:00 UTC,6 Mar 1916,Les Brebis,"[0.0, 0.0]","",place,Ferfay,"{""place""=>[""Ferfay""], ""location""=>[""false""], ""name""=>[""Ferfay""], ""lat""=>[""50.51853""], ""long""=>[""2.42474""], ""id""=>[""3018690""]}",2997620,Loos,"[3.01874, 50.60982]"
+15,AWD0003mxp,diary,771,3,1916-03-06 00:00:00 UTC,6 Mar 1916,Les Brebis,"[0.0, 0.0]","",unit,"1/ Northamptons, 1/Northamptons, 1 / Northamptons","{""name""=>[""1/ Northamptons"", ""1/Northamptons"", ""1 / Northamptons""], ""context""=>[""relieved""]}",2997620,Loos,"[3.01874, 50.60982]"
+16,AWD0003mxp,diary,771,2,1916-03-06 00:00:00 UTC,6 Mar 1916,Les Brebis,"[0.0, 0.0]","",activity,line,{},2997620,Loos,"[3.01874, 50.60982]"
+18,AWD0003mxp,diary,771,2,1916-03-06 00:00:00 UTC,6 Mar 1916,Les Brebis,"[0.0, 0.0]","",activity,movement,{},2997620,Loos,"[3.01874, 50.60982]"
+19,AWD0003mxp,diary,771,3,1916-03-06 20:30:00 UTC,6 Mar 1916,Les Brebis,"[0.0, 0.0]",0830PM,time,0830PM,{},2997620,Loos,"[3.01874, 50.60982]"
+20,AWD0003mxp,diary,771,3,1916-03-06 20:30:00 UTC,6 Mar 1916,Les Brebis,"[0.0, 0.0]",0830PM,place,Maroc,"{""place""=>[""Maroc""], ""location""=>[""false""], ""name""=>["""", ""Ferfay"", ""Cologne""], ""lat""=>["""", ""50.51853"", ""43.72214""], ""long""=>["""", ""2.42474"", ""0.9775""], ""id""=>["""", ""3018690"", ""3024280""]}",2997620,Loos,"[3.01874, 50.60982]"
+21,AWD0003mxp,diary,771,4,1916-03-06 20:30:00 UTC,6 Mar 1916,Les Brebis,"[0.0, 0.0]",0830PM,place,Loos,"{""place""=>[""Loos""], ""location""=>[""false"", ""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2997620,Loos,"[3.01874, 50.60982]"
+24,AWD0003mxp,diary,771,2,1916-03-06 20:30:00 UTC,6 Mar 1916,Les Brebis,"[0.0, 0.0]",0830PM,place,Loos,"{""place""=>[""Loos""], ""location""=>[""true"", ""false""], ""name""=>["""", ""Loos-en-Gohelle""], ""lat""=>["""", ""50.45786""], ""long""=>["""", ""2.79215""], ""id""=>["""", ""2997619""]}",2997620,Loos,"[3.01874, 50.60982]"
+25,AWD0003mxp,diary,771,5,1916-03-07 00:00:00 UTC,7 Mar 1916,Les Brebis,"[0.0, 0.0]","",diaryDate,7 Mar 1916,"{""day""=>[""7""], ""month""=>[""Mar""], ""year""=>[""1916""]}",2997620,Loos,"[3.01874, 50.60982]"
+28,AWD0003mxp,diary,771,4,1916-03-07 00:00:00 UTC,7 Mar 1916,Les Brebis,"[0.0, 0.0]","",activity,working,{},2997620,Loos,"[3.01874, 50.60982]"
+29,AWD0003mxp,diary,771,2,1916-03-07 00:00:00 UTC,7 Mar 1916,Les Brebis,"[0.0, 0.0]","",activity,repair,{},2997620,Loos,"[3.01874, 50.60982]"
+31,AWD0003mxp,diary,771,2,1916-03-07 00:00:00 UTC,7 Mar 1916,Les Brebis,"[0.0, 0.0]","",activity,other,{},2997620,Loos,"[3.01874, 50.60982]"
+33,AWD0003mxp,diary,771,5,1916-03-08 00:00:00 UTC,8 Mar 1916,Les Brebis,"[0.0, 0.0]","",diaryDate,8 Mar 1916,"{""day""=>[""8""], ""month""=>[""Mar""], ""year""=>[""1916""]}",2997620,Loos,"[3.01874, 50.60982]"
+35,AWD0003mxp,diary,771,3,1916-03-08 00:00:00 UTC,8 Mar 1916,Les Brebis,"[0.0, 0.0]","",casualties,other: 1,{},2997620,Loos,"[3.01874, 50.60982]"
+36,AWD0003mxp,diary,771,4,1916-03-08 00:00:00 UTC,8 Mar 1916,Les Brebis,"[0.0, 0.0]","",weather,cold,{},2997620,Loos,"[3.01874, 50.60982]"
+37,AWD0003mxp,diary,771,5,1916-03-09 00:00:00 UTC,9 Mar 1916,Les Brebis,"[0.0, 0.0]","",diaryDate,9 Mar 1916,"{""day""=>[""9""], ""month""=>[""Mar""], ""year""=>[""1916""]}",2997620,Loos,"[3.01874, 50.60982]"
+38,AWD0003mxp,diary,771,3,1916-03-09 00:00:00 UTC,9 Mar 1916,Les Brebis,"[0.0, 0.0]","",activity,fire,{},2997620,Loos,"[3.01874, 50.60982]"
+41,AWD0003mxp,diary,771,2,1916-03-09 00:00:00 UTC,9 Mar 1916,Les Brebis,"[0.0, 0.0]","",activity,reserve,{},2997620,Loos,"[3.01874, 50.60982]"
+45,AWD0003mxp,diary,771,2,1916-03-09 00:00:00 UTC,9 Mar 1916,Les Brebis,"[0.0, 0.0]","",activity,movement,{},2997620,Loos,"[3.01874, 50.60982]"
+46,AWD0003mxp,diary,771,3,1916-03-09 21:30:00 UTC,9 Mar 1916,Les Brebis,"[0.0, 0.0]",0930PM,time,0930PM,{},2997620,Loos,"[3.01874, 50.60982]"
+47,AWD0003mxp,diary,771,3,1916-03-09 21:30:00 UTC,9 Mar 1916,Les Brebis,"[0.0, 0.0]",0930PM,unit,"1/ Camerons, 1/Camerons, 1st Camerons","{""name""=>[""1/ Camerons"", ""1/Camerons"", ""1st Camerons""], ""context""=>[""relieved_by""]}",2997620,Loos,"[3.01874, 50.60982]"
+49,AWD0003mxp,diary,771,2,1916-03-09 21:30:00 UTC,9 Mar 1916,Les Brebis,"[0.0, 0.0]",0930PM,domestic,accomodation,{},2997620,Loos,"[3.01874, 50.60982]"
+51,AWD0003mxp,diary,771,3,1916-03-09 21:30:00 UTC,9 Mar 1916,Braquemont,"[0.0, 0.0]",0930PM,place,Braquemont,"{""place""=>[""Braquemont""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3030622,Bracquemont,"[1.14523, 49.93973]"
+3,AWD0003mvz,orders,772,2,,,,[],,orders,move,{},,,

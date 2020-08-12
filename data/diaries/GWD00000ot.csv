@@ -1,0 +1,958 @@
+Order,Page,Page type,Page number,Count,DateTime,Date,Place,Lat/Lon,Time,Type,Label,Data,GeoID,GeoName,GeoCoords
+2,AWD0003jc1,diary,651,4,1917-09-01 00:00:00 UTC,1 Sep 1917,"","[0.0, 0.0]","",diaryDate,1 Sep 1917,"{""day""=>[""1""], ""month""=>[""Sep""], ""year""=>[""1917""]}",2985684,Pozières,"[2.72929, 50.04047]"
+3,AWD0003jc1,diary,651,4,1917-09-01 00:00:00 UTC,1 Sep 1917,Ervillers,"[2.82441, 50.16123]","",place,Ervillers,"{""place""=>[""Ervillers""], ""location""=>[""true""], ""name""=>[""Ervillers""], ""lat""=>[""50.16123""], ""long""=>[""2.82441""], ""id""=>[""3019859""]}",3019859,Ervillers,"[2.82441, 50.16123]"
+5,AWD0003jc1,diary,651,4,1917-09-01 00:00:00 UTC,1 Sep 1917,Ervillers,"[2.82441, 50.16123]","",activity,reserve,{},3019859,Ervillers,"[2.82441, 50.16123]"
+6,AWD0003jc1,diary,651,4,1917-09-02 00:00:00 UTC,2 Sep 1917,Ervillers,"[2.82441, 50.16123]","",diaryDate,2 Sep 1917,"{""day""=>[""2""], ""month""=>[""Sep""], ""year""=>[""1917""]}",3019859,Ervillers,"[2.82441, 50.16123]"
+7,AWD0003jc1,diary,651,5,1917-09-02 00:00:00 UTC,2 Sep 1917,Ervillers,"[2.82441, 50.16123]","",person,Lieutenant Colonel H N Young,"{""first""=>[""H N""], ""surname""=>[""Young""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",3019859,Ervillers,"[2.82441, 50.16123]"
+9,AWD0003jc1,diary,651,2,1917-09-02 00:00:00 UTC,2 Sep 1917,Ervillers,"[2.82441, 50.16123]","",person,"Lieutenant Colonel,Lieutenant H,H N Young","{""first""=>[""H"", ""H N""], ""surname""=>[""Young""], ""rank""=>[""Lieutenant Colonel"", ""Lieutenant""], ""number""=>[""""], ""reason""=>[""commander"", ""other""], ""unit""=>[""""]}",3019859,Ervillers,"[2.82441, 50.16123]"
+10,AWD0003jc1,diary,651,2,1917-09-02 00:00:00 UTC,2 Sep 1917,Ervillers,"[2.82441, 50.16123]","",activity,repair,{},3019859,Ervillers,"[2.82441, 50.16123]"
+1,AWD0003j9y,diary,652,4,1917-09-04 00:00:00 UTC,4 Sep 1917,Ervillers,"[2.82441, 50.16123]","",diaryDate,4 Sep 1917,"{""day""=>[""4""], ""month""=>[""Sep""], ""year""=>[""1917""]}",3019859,Ervillers,"[2.82441, 50.16123]"
+2,AWD0003j9y,diary,652,2,1917-09-04 00:00:00 UTC,4 Sep 1917,Ervillers,"[2.82441, 50.16123]","",place,Ervillers,"{""place""=>[""Ervillers""], ""location""=>[""true""], ""name""=>[""Ervillers"", """"], ""lat""=>[""50.16123"", """"], ""long""=>[""2.82441"", """"], ""id""=>[""3019859"", """"]}",3019859,Ervillers,"[2.82441, 50.16123]"
+5,AWD0003j9y,diary,652,2,1917-09-04 00:00:00 UTC,4 Sep 1917,Ervillers,"[2.82441, 50.16123]","",diaryDate,4 Sep 1917,"{""day""=>[""4""], ""month""=>[""Sep""], ""year""=>[""1917""]}",3019859,Ervillers,"[2.82441, 50.16123]"
+6,AWD0003j9y,diary,652,2,1917-09-04 00:00:00 UTC,4 Sep 1917,Ervillers,"[2.82441, 50.16123]","",person,"Lieutenant Colonel ,H N Young","{""first""=>["""", ""H N""], ""surname""=>[""Young""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>["""", ""7/8th Battalion Royal Inniskilling Fusiliers""]}",3019859,Ervillers,"[2.82441, 50.16123]"
+7,AWD0003j9y,diary,652,5,1917-09-04 00:00:00 UTC,4 Sep 1917,Ervillers,"[2.82441, 50.16123]","",person,Major R G Kerr,"{""first""=>[""R G""], ""surname""=>[""Kerr""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",3019859,Ervillers,"[2.82441, 50.16123]"
+8,AWD0003j9y,diary,652,2,1917-09-04 00:00:00 UTC,4 Sep 1917,Ervillers,"[2.82441, 50.16123]","",unit,9th Royal Dublin Fusiliers,"{""name""=>[""9th Royal Dublin Fusiliers""], ""context""=>[""relieved"", ""relieved_by""]}",3019859,Ervillers,"[2.82441, 50.16123]"
+17,AWD0003j9y,diary,652,3,1917-09-06 00:00:00 UTC,6 Sep 1917,Ervillers,"[2.82441, 50.16123]","",diaryDate,6 Sep 1917,"{""day""=>[""6""], ""month""=>[""Sep""], ""year""=>[""1917""]}",3019859,Ervillers,"[2.82441, 50.16123]"
+18,AWD0003j9y,diary,652,2,1917-09-06 00:00:00 UTC,6 Sep 1917,Ervillers,"[2.82441, 50.16123]","",activity,movement,{},3019859,Ervillers,"[2.82441, 50.16123]"
+19,AWD0003j9y,diary,652,3,1917-09-10 00:00:00 UTC,10 Sep 1917,Ervillers,"[2.82441, 50.16123]","",diaryDate,10 Sep 1917,"{""day""=>[""10""], ""month""=>[""Sep""], ""year""=>[""1917""]}",3019859,Ervillers,"[2.82441, 50.16123]"
+23,AWD0003j9y,diary,652,2,1917-09-10 00:00:00 UTC,10 Sep 1917,Ervillers,"[2.82441, 50.16123]","",activity,line,{},3019859,Ervillers,"[2.82441, 50.16123]"
+26,AWD0003j9y,diary,652,3,1917-09-16 00:00:00 UTC,16 Sep 1917,Ervillers,"[2.82441, 50.16123]","",diaryDate,16 Sep 1917,"{""day""=>[""16""], ""month""=>[""Sep""], ""year""=>[""1917""]}",3019859,Ervillers,"[2.82441, 50.16123]"
+28,AWD0003j9y,diary,652,2,1917-09-16 00:00:00 UTC,16 Sep 1917,Ervillers,"[2.82441, 50.16123]","",unit,"9th Royal Dubin Fusiliers, 9th Royal Dublin Fusiliers","{""name""=>[""9th Royal Dubin Fusiliers"", ""9th Royal Dublin Fusiliers""], ""context""=>[""relieved_by""]}",3019859,Ervillers,"[2.82441, 50.16123]"
+31,AWD0003j9y,diary,652,2,1917-09-16 00:00:00 UTC,16 Sep 1917,Ervillers,"[2.82441, 50.16123]","",activity,reserve,{},3019859,Ervillers,"[2.82441, 50.16123]"
+2,AWD0003j9l,diary,653,4,1917-09-16 00:00:00 UTC,16 Sep 1917,Ervillers,"[2.82441, 50.16123]","",diaryDate,16 Sep 1917,"{""day""=>[""16""], ""month""=>[""Sep""], ""year""=>[""1917""]}",3019859,Ervillers,"[2.82441, 50.16123]"
+3,AWD0003j9l,diary,653,4,1917-09-16 00:00:00 UTC,16 Sep 1917,Ervillers,"[2.82441, 50.16123]","",place,Ervillers,"{""place""=>[""Ervillers""], ""location""=>[""true""], ""name""=>[""Ervillers""], ""lat""=>[""50.16123""], ""long""=>[""2.82441""], ""id""=>[""3019859""]}",3019859,Ervillers,"[2.82441, 50.16123]"
+5,AWD0003j9l,diary,653,4,1917-09-28 00:00:00 UTC,28 Sep 1917,Ervillers,"[2.82441, 50.16123]","",diaryDate,28 Sep 1917,"{""day""=>[""28""], ""month""=>[""Sep""], ""year""=>[""1917""]}",3019859,Ervillers,"[2.82441, 50.16123]"
+10,AWD0003j9l,diary,653,2,1917-09-28 00:00:00 UTC,28 Sep 1917,Ervillers,"[2.82441, 50.16123]","",unit,"9th Royal Dubin Fusiliers, 9th Royal Dublin Fusiliers","{""name""=>[""9th Royal Dubin Fusiliers"", ""9th Royal Dublin Fusiliers""], ""context""=>[""relieved"", ""relieved_by""]}",3019859,Ervillers,"[2.82441, 50.16123]"
+3,AWD0003jc0,diary,655,2,,"10 ,Oct , 1917",Ervillers,"[2.82441, 50.16123]","",diaryDate,"10 ,Oct , 1917","{""day""=>[""10""], ""month""=>[nil, ""Oct""], ""year""=>[nil, ""1917""]}",3019859,Ervillers,"[2.82441, 50.16123]"
+4,AWD0003jc0,diary,655,2,,"10 ,Oct , 1917",Ervillers,"[2.82441, 50.16123]","",activity,support,{},3019859,Ervillers,"[2.82441, 50.16123]"
+10,AWD0003jc0,diary,655,2,,"10 ,Oct , 1917",Ervillers,"[2.82441, 50.16123]","",unit,2nd Royal Irish Regt,"{""name""=>[""2nd Royal Irish Regt""], ""context""=>[""relieved""]}",3019859,Ervillers,"[2.82441, 50.16123]"
+17,AWD0003jc0,diary,655,4,,"10 ,Oct , 1917",Ervillers,"[2.82441, 50.16123]","",person,Lieutenant Colonel A J Walkey,"{""first""=>[""A J""], ""surname""=>[""Walkey""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""7/8th Battalion Royal Inniskilling Fusiliers"", """"]}",3019859,Ervillers,"[2.82441, 50.16123]"
+18,AWD0003jc0,diary,655,3,,"10 ,Oct , 1917",Ervillers,"[2.82441, 50.16123]","",person,Major R G Kerr,"{""first""=>[""R G""], ""surname""=>[""Kerr""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",3019859,Ervillers,"[2.82441, 50.16123]"
+7,AWD0003jax,diary,656,2,,"10 ,Oct , 1917",Ervillers,"[2.82441, 50.16123]","",activity,attack,{},3019859,Ervillers,"[2.82441, 50.16123]"
+1,AWD0003jc6,diary,657,3,1917-10-07 00:00:00 UTC,7 Oct 1917,Ervillers,"[2.82441, 50.16123]","",diaryDate,7 Oct 1917,"{""day""=>[""7""], ""month""=>[""Oct""], ""year""=>[""1917""]}",3019859,Ervillers,"[2.82441, 50.16123]"
+2,AWD0003jc6,diary,657,2,1917-10-07 12:45:00 UTC,7 Oct 1917,Ervillers,"[2.82441, 50.16123]",1245PM,time,1245PM,{},3019859,Ervillers,"[2.82441, 50.16123]"
+3,AWD0003jc6,diary,657,2,1917-10-07 12:45:00 UTC,7 Oct 1917,Ervillers,"[2.82441, 50.16123]",1245PM,activity,attack,{},3019859,Ervillers,"[2.82441, 50.16123]"
+5,AWD0003jc6,diary,657,2,1917-10-07 12:45:00 UTC,7 Oct 1917,Ervillers,"[2.82441, 50.16123]",1245PM,activity,line,{},3019859,Ervillers,"[2.82441, 50.16123]"
+7,AWD0003jc6,diary,657,3,1917-10-08 00:00:00 UTC,8 Oct 1917,Ervillers,"[2.82441, 50.16123]","",diaryDate,8 Oct 1917,"{""day""=>[""8""], ""month""=>[""Oct""], ""year""=>[""1917""]}",3019859,Ervillers,"[2.82441, 50.16123]"
+8,AWD0003jc6,diary,657,2,1917-10-08 00:00:00 UTC,8 Oct 1917,Ervillers,"[2.82441, 50.16123]","",activity,fire,{},3019859,Ervillers,"[2.82441, 50.16123]"
+11,AWD0003jc6,diary,657,3,1917-10-10 00:00:00 UTC,10 Oct 1917,Ervillers,"[2.82441, 50.16123]","",diaryDate,10 Oct 1917,"{""day""=>[""10""], ""month""=>[""Oct""], ""year""=>[""1917""]}",3019859,Ervillers,"[2.82441, 50.16123]"
+12,AWD0003jc6,diary,657,2,1917-10-10 00:00:00 UTC,10 Oct 1917,Ervillers,"[2.82441, 50.16123]","",activity,line,{},3019859,Ervillers,"[2.82441, 50.16123]"
+14,AWD0003jc6,diary,657,3,1917-10-10 00:00:00 UTC,10 Oct 1917,Ervillers,"[2.82441, 50.16123]","",activity,movement,{},3019859,Ervillers,"[2.82441, 50.16123]"
+15,AWD0003jc6,diary,657,2,1917-10-10 00:00:00 UTC,10 Oct 1917,Ervillers,"[2.82441, 50.16123]","",unit,9th Royal Dublin Fusiliers,"{""name""=>[""9th Royal Dublin Fusiliers""], ""context""=>[""relieved_by""]}",3019859,Ervillers,"[2.82441, 50.16123]"
+16,AWD0003jc6,diary,657,3,1917-10-10 00:00:00 UTC,10 Oct 1917,Ervillers,"[2.82441, 50.16123]","",place,Enniskillen Camp,"{""place""=>[""Enniskillen Camp""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3019859,Ervillers,"[2.82441, 50.16123]"
+18,AWD0003jc6,diary,657,4,1917-10-10 00:00:00 UTC,10 Oct 1917,Ervillers,"[2.82441, 50.16123]","",place,Ervillers,"{""place""=>[""Ervillers""], ""location""=>[""false"", ""true""], ""name""=>[""Ervillers"", """"], ""lat""=>[""50.16123"", """"], ""long""=>[""2.82441"", """"], ""id""=>[""3019859"", """"]}",3019859,Ervillers,"[2.82441, 50.16123]"
+19,AWD0003jc6,diary,657,4,1917-10-11 00:00:00 UTC,11 Oct 1917,Ervillers,"[2.82441, 50.16123]","",diaryDate,11 Oct 1917,"{""day""=>[""11""], ""month""=>[""Oct""], ""year""=>[""1917""]}",3019859,Ervillers,"[2.82441, 50.16123]"
+20,AWD0003jc6,diary,657,3,1917-10-11 00:00:00 UTC,11 Oct 1917,Enniskillen Camp,"[0.0, 0.0]","",place,Enniskillen Camp,"{""place""=>[""Enniskillen Camp""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+21,AWD0003jc6,diary,657,4,1917-10-11 00:00:00 UTC,11 Oct 1917,Enniskillen Camp,"[0.0, 0.0]","",activity,training,{},,,
+25,AWD0003jc6,diary,657,2,1917-10-11 00:00:00 UTC,11 Oct 1917,Enniskillen Camp,"[0.0, 0.0]","",activity,construction,{},,,
+26,AWD0003jc6,diary,657,3,1917-10-11 00:00:00 UTC,11 Oct 1917,Enniskillen Camp,"[0.0, 0.0]","",domestic,sport,{},,,
+27,AWD0003jc6,diary,657,5,1917-10-22 00:00:00 UTC,22 Oct 1917,Enniskillen Camp,"[0.0, 0.0]","",diaryDate,22 Oct 1917,"{""day""=>[""22""], ""month""=>[""Oct""], ""year""=>[""1917""]}",,,
+34,AWD0003jc6,diary,657,2,1917-10-22 00:00:00 UTC,22 Oct 1917,Enniskillen Camp,"[0.0, 0.0]","",unit,9th Royal Dublin Fusiliers,"{""name""=>[""9th Royal Dublin Fusiliers""], ""context""=>[""relieved""]}",,,
+37,AWD0003jc6,diary,657,2,1917-10-22 00:00:00 UTC,22 Oct 1917,Enniskillen Camp,"[0.0, 0.0]","",place,Enniskillen Camp,"{""place""=>[""Enniskillen Camp""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+1,AWD0003jcc,diary,658,4,1917-10-22 00:00:00 UTC,22 Oct 1917,Enniskillen Camp,"[0.0, 0.0]","",diaryDate,22 Oct 1917,"{""day""=>[""22""], ""month""=>[""Oct""], ""year""=>[""1917""]}",,,
+2,AWD0003jcc,diary,658,2,1917-10-22 00:00:00 UTC,22 Oct 1917,Enniskillen Camp,"[0.0, 0.0]","",activity,repair,{},,,
+5,AWD0003jcc,diary,658,2,1917-10-22 00:00:00 UTC,22 Oct 1917,Enniskillen Camp,"[0.0, 0.0]","",activity,support,{},,,
+6,AWD0003jcc,diary,658,4,1917-10-22 00:00:00 UTC,22 Oct 1917,Enniskillen Camp,"[0.0, 0.0]","",activity,working,{},,,
+7,AWD0003jcc,diary,658,5,1917-10-28 00:00:00 UTC,28 Oct 1917,Enniskillen Camp,"[0.0, 0.0]","",diaryDate,28 Oct 1917,"{""day""=>[""28""], ""month""=>[""Oct""], ""year""=>[""1917""]}",,,
+8,AWD0003jcc,diary,658,2,1917-10-28 17:00:00 UTC,28 Oct 1917,Enniskillen Camp,"[0.0, 0.0]",0500PM,time,0500PM,{},,,
+17,AWD0003jcc,diary,658,2,1917-10-28 17:00:00 UTC,28 Oct 1917,Enniskillen Camp,"[0.0, 0.0]",0500PM,activity,line,{},,,
+18,AWD0003jcc,diary,658,2,1917-10-28 17:00:00 UTC,28 Oct 1917,Enniskillen Camp,"[0.0, 0.0]",0500PM,gridRef,U 14 a 2 8,{},,,
+19,AWD0003jcc,diary,658,2,1917-10-28 17:00:00 UTC,28 Oct 1917,Enniskillen Camp,"[0.0, 0.0]",0500PM,gridRef,U 13,{},,,
+20,AWD0003jcc,diary,658,4,1917-10-28 17:00:00 UTC,28 Oct 1917,Enniskillen Camp,"[0.0, 0.0]",0500PM,place,Plum Lane,"{""place""=>[""Plum Lane""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+21,AWD0003jcc,diary,658,2,1917-10-28 17:00:00 UTC,28 Oct 1917,Enniskillen Camp,"[0.0, 0.0]",0500PM,gridRef,U 7 d 2 8,{},,,
+22,AWD0003jcc,diary,658,3,1917-10-28 17:00:00 UTC,28 Oct 1917,Enniskillen Camp,"[0.0, 0.0]",0500PM,place,Lincoln Support,"{""place""=>[""Lincoln Support""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+23,AWD0003jcc,diary,658,4,1917-10-29 00:00:00 UTC,29 Oct 1917,Enniskillen Camp,"[0.0, 0.0]","",diaryDate,29 Oct 1917,"{""day""=>[""29""], ""month""=>[""Oct""], ""year""=>[""1917""]}",,,
+24,AWD0003jcc,diary,658,2,1917-10-29 12:30:00 UTC,29 Oct 1917,Enniskillen Camp,"[0.0, 0.0]",1230PM,time,1230PM,{},,,
+27,AWD0003jcc,diary,658,2,1917-10-29 12:30:00 UTC,29 Oct 1917,Enniskillen Camp,"[0.0, 0.0]",1230PM,activity,attack,{},,,
+29,AWD0003jcc,diary,658,3,1917-10-29 12:30:00 UTC,29 Oct 1917,Enniskillen Camp,"[0.0, 0.0]",1230PM,activity,raid,{},,,
+5,AWD0003jbh,diary,659,2,,"1 Oct,Sep 1917",Enniskillen Camp,"[0.0, 0.0]","",diaryDate,"1 Oct,Sep 1917","{""day""=>[""1""], ""month""=>[""Oct"", ""Sep""], ""year""=>[""1917""]}",,,
+7,AWD0003jbh,diary,659,2,,"1 Oct,Sep 1917",Enniskillen Camp,"[0.0, 0.0]","",person,"Captain Lord E J M D Dunsany, Dunsay","{""first""=>[""Lord E J M D""], ""surname""=>[""Dunsany"", ""Dunsay""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""returned_hospital"", ""joined""], ""unit""=>[""7th/8th Royal Inniskilling Fusiliers"", """"]}",,,
+8,AWD0003jbh,diary,659,4,,"1 Oct,Sep 1917",Enniskillen Camp,"[0.0, 0.0]","",person,Captain E J M D DUNSANY,"{""first""=>[""E J M D""], ""surname""=>[""DUNSANY""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",,,
+10,AWD0003jbh,diary,659,2,,"2 Oct,Sep 1917, 1917#",Enniskillen Camp,"[0.0, 0.0]","",diaryDate,"2 Oct,Sep 1917, 1917#","{""day""=>[""2""], ""month""=>[""Oct"", ""Sep""], ""year""=>[""1917"", ""1917#""]}",,,
+12,AWD0003jbh,diary,659,5,,"2 Oct,Sep 1917, 1917#",Enniskillen Camp,"[0.0, 0.0]","",person,Lieutenant Colonel A J Walkey,"{""first""=>[""A J""], ""surname""=>[""Walkey""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+16,AWD0003jbh,diary,659,2,,"3 Oct,Sep 1917",Enniskillen Camp,"[0.0, 0.0]","",diaryDate,"3 Oct,Sep 1917","{""day""=>[""3""], ""month""=>[""Oct"", ""Sep""], ""year""=>[""1917""]}",,,
+19,AWD0003jbh,diary,659,6,,"3 Oct,Sep 1917",Enniskillen Camp,"[0.0, 0.0]","",person,Second Lieutenant G L Williams,"{""first""=>[""G L""], ""surname""=>[""Williams""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",,,
+20,AWD0003jbh,diary,659,2,,"9 Oct,Sep 1917",Enniskillen Camp,"[0.0, 0.0]","",diaryDate,"9 Oct,Sep 1917","{""day""=>[""9""], ""month""=>[""Oct"", ""Sep""], ""year""=>[""1917""]}",,,
+21,AWD0003jbh,diary,659,6,,"9 Oct,Sep 1917",Enniskillen Camp,"[0.0, 0.0]","",person,Second Lieutenant H P H Montgomery,"{""first""=>[""H P H""], ""surname""=>[""Montgomery""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",,,
+23,AWD0003jbh,diary,659,2,,"27 Oct,Sep 1917",Enniskillen Camp,"[0.0, 0.0]","",diaryDate,"27 Oct,Sep 1917","{""day""=>[""27""], ""month""=>[""Oct"", ""Sep""], ""year""=>[""1917""]}",,,
+25,AWD0003jbh,diary,659,6,,"27 Oct,Sep 1917",Enniskillen Camp,"[0.0, 0.0]","",person,Second Lieutenant T J Stack,"{""first""=>[""T J""], ""surname""=>[""Stack""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",,,
+27,AWD0003jbh,diary,659,2,1917-10-08 00:00:00 UTC,8 Oct 1917,Enniskillen Camp,"[0.0, 0.0]","",diaryDate,8 Oct 1917,"{""day""=>[""8""], ""month""=>[""Oct""], ""year""=>[""1917""]}",,,
+29,AWD0003jbh,diary,659,5,1917-10-08 00:00:00 UTC,8 Oct 1917,Enniskillen Camp,"[0.0, 0.0]","",person,Lieutenant G Searle,"{""first""=>[""G""], ""surname""=>[""Searle""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_posted""], ""unit""=>[""""]}",,,
+30,AWD0003jbh,diary,659,2,1917-10-08 00:00:00 UTC,8 Oct 1917,Enniskillen Camp,"[0.0, 0.0]","",place,Colchester,"{""place""=>[""Colchester""], ""location""=>[""false""], ""name""=>["""", ""Colchester""], ""lat""=>["""", ""51.88921""], ""long""=>["""", ""0.90421""], ""id""=>["""", ""2652618""]}",,,
+31,AWD0003jbh,diary,659,2,1917-10-09 00:00:00 UTC,9 Oct 1917,Enniskillen Camp,"[0.0, 0.0]","",diaryDate,9 Oct 1917,"{""day""=>[""9""], ""month""=>[""Oct""], ""year""=>[""1917""]}",,,
+32,AWD0003jbh,diary,659,5,1917-10-09 00:00:00 UTC,9 Oct 1917,Enniskillen Camp,"[0.0, 0.0]","",person,Lieutenant H V Lowry,"{""first""=>[""H V""], ""surname""=>[""Lowry""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_sick""], ""unit""=>[""""]}",,,
+34,AWD0003jbh,diary,659,2,1917-10-12 00:00:00 UTC,12 Oct 1917,Enniskillen Camp,"[0.0, 0.0]","",diaryDate,12 Oct 1917,"{""day""=>[""12""], ""month""=>[""Oct""], ""year""=>[""1917""]}",,,
+36,AWD0003jbh,diary,659,5,1917-10-12 00:00:00 UTC,12 Oct 1917,Enniskillen Camp,"[0.0, 0.0]","",person,Lieutenant J O'Neill,"{""first""=>[""J""], ""surname""=>[""O'Neill""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_posted""], ""unit""=>[""""]}",,,
+39,AWD0003jbh,diary,659,5,1917-10-12 00:00:00 UTC,12 Oct 1917,Enniskillen Camp,"[0.0, 0.0]","",person,Major  Biddulph,"{""first""=>[""""], ""surname""=>[""Biddulph""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""departed_posted""], ""unit""=>[""""]}",,,
+41,AWD0003jbh,diary,659,5,1917-10-12 00:00:00 UTC,12 Oct 1917,Enniskillen Camp,"[0.0, 0.0]","",person,Second Lieutenant W H Browne,"{""first""=>[""W H""], ""surname""=>[""Browne""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_posted""], ""unit""=>[""""]}",,,
+42,AWD0003jbh,diary,659,3,1917-10-27 00:00:00 UTC,27 Oct 1917,Enniskillen Camp,"[0.0, 0.0]","",diaryDate,27 Oct 1917,"{""day""=>[""27""], ""month""=>[""Oct""], ""year""=>[""1917""]}",,,
+43,AWD0003jbh,diary,659,2,1917-10-27 00:00:00 UTC,27 Oct 1917,Enniskillen Camp,"[0.0, 0.0]","",date,27 Oct 1917,{},,,
+44,AWD0003jbh,diary,659,5,1917-10-27 00:00:00 UTC,27 Oct 1917,Enniskillen Camp,"[0.0, 0.0]","",person,Second Lieutenant H P H Montgomery,"{""first""=>[""H P H""], ""surname""=>[""Montgomery""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_posted""], ""unit""=>[""""]}",,,
+47,AWD0003jbh,diary,659,5,1917-10-27 00:00:00 UTC,27 Oct 1917,Enniskillen Camp,"[0.0, 0.0]","",person,Second Lieutenant R F Casey,"{""first""=>[""R F""], ""surname""=>[""Casey""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_posted""], ""unit""=>[""RFC""]}",,,
+2,AWD0003jcu,diary,660,7,1917-10-29 00:00:00 UTC,29 Oct 1917,Enniskillen Camp,"[0.0, 0.0]","",diaryDate,29 Oct 1917,"{""day""=>[""29""], ""month""=>[""Oct""], ""year""=>[""1917""]}",,,
+3,AWD0003jcu,diary,660,5,1917-10-29 00:00:00 UTC,29 Oct 1917,Enniskillen Camp,"[0.0, 0.0]","",person,Second Lieutenant F D Murphy,"{""first""=>[""F D""], ""surname""=>[""Murphy""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+5,AWD0003jcu,diary,660,2,1917-10-29 00:00:00 UTC,29 Oct 1917,Enniskillen Camp,"[0.0, 0.0]","",casualties,"killed: 4, died: 1, wounded: 18, missing: 2",{},,,
+7,AWD0003jcu,diary,660,2,1917-10-29 00:00:00 UTC,29 Oct 1917,Enniskillen Camp,"[0.0, 0.0]","",casualties,"killed: 4, died: 1, wounded: 17, missing: 1",{},,,
+17,AWD0003jcu,diary,660,4,1917-10-29 00:00:00 UTC,29 Oct 1917,Enniskillen Camp,"[0.0, 0.0]","",person,Lieutenant Colonel A J Walkey,"{""first""=>[""A J""], ""surname""=>[""Walkey""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+21,AWD0003jcu,diary,660,3,1917-11-02 00:00:00 UTC,2 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",diaryDate,2 Nov 1917,"{""day""=>[""2""], ""month""=>[""Nov""], ""year""=>[""1917""]}",,,
+1,AWD0003jam,orders,661,3,,,,[],,reference,Appendix A,{},,,
+2,AWD0003jam,orders,661,3,,,,[],,orders,attack,{},,,
+4,AWD0003jam,orders,661,2,,,,[],,diaryDate,"27 Oct,Sep 1917","{""day""=>[""27""], ""month""=>[""Oct"", ""Sep""], ""year""=>[""1917""]}",,,
+7,AWD0003jam,orders,661,4,,,,[],,date,27 Oct 1917,{},,,
+8,AWD0003jam,orders,661,2,,,,[],,orders,attack,{},,,
+10,AWD0003jam,orders,661,2,,,,[],,diaryDate,"29 Oct,Sep 1917","{""day""=>[""29""], ""month""=>[""Oct"", ""Sep""], ""year""=>[""1917""]}",,,
+14,AWD0003jam,orders,661,6,,,,[],,person,Captain H A Green,"{""first""=>[""H A""], ""surname""=>[""Green""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+2,AWD0003jbl,orders,662,2,,,,[],,reference,Appendix A,{},,,
+3,AWD0003jbl,orders,662,3,,,,[],,orders,attack,{},,,
+1,AWD0003j96,orders,663,2,,,,[],,orders,attack,{},,,
+3,AWD0003j96,orders,663,2,,,,[],,reference,Appendix A,{},,,
+2,AWD0003jbz,orders,664,2,,,,[],,reference,Appendix A,{},,,
+3,AWD0003jbz,orders,664,2,,,,[],,orders,attack,{},,,
+4,AWD0003jbz,orders,664,4,,,,[],,person,Captain  MacDonald,"{""first""=>[""""], ""surname""=>[""MacDonald""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+1,AWD0003je4,report,666,2,,,,[],,reference,Appendix B,{},,,
+2,AWD0003je4,report,666,3,,,,[],,date,30 Oct 1917,{},,,
+7,AWD0003je4,report,666,3,,,,[],,person,Lieutenant  Armstrong,"{""first""=>[""""], ""surname""=>[""Armstrong""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""7/8th Battalion Royal Inniskilling Fusiliers"", """", ""7th/8th Royal Inniskilling Fusiliers""]}",,,
+3,AWD0003jaq,report,667,2,,,,[],,reference,Appendix B,{},,,
+5,AWD0003jaq,report,667,4,,,,[],,person,Second Lieutenant  Murphy,"{""first""=>[""""], ""surname""=>[""Murphy""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+6,AWD0003jaq,report,667,4,,,,[],,person,Lieutenant Colonel A J Walkey,"{""first""=>[""A J""], ""surname""=>[""Walkey""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+1,AWD0003j9g,diary,669,4,1917-11-01 00:00:00 UTC,1 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",diaryDate,1 Nov 1917,"{""day""=>[""1""], ""month""=>[""Nov""], ""year""=>[""1917""]}",,,
+2,AWD0003j9g,diary,669,4,1917-11-01 00:00:00 UTC,1 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",place,Enniskillen Camp,"{""place""=>[""Enniskillen Camp""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+5,AWD0003j9g,diary,669,2,1917-11-01 00:00:00 UTC,1 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",unit,"2nd Bn Royal Dublin Fusiliers, 2nd Royal Dublin Fusiliers","{""name""=>[""2nd Bn Royal Dublin Fusiliers"", ""2nd Royal Dublin Fusiliers""], ""context""=>[""relieved_by""]}",,,
+6,AWD0003j9g,diary,669,4,1917-11-01 00:00:00 UTC,1 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",activity,movement,{},,,
+7,AWD0003j9g,diary,669,3,1917-11-01 00:00:00 UTC,1 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",place,Enniskillen Camp,"{""place""=>[""Enniskillen Camp""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+9,AWD0003j9g,diary,669,2,1917-11-01 00:00:00 UTC,1 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",diaryDate,1 Nov 1917,"{""day""=>[""1""], ""month""=>[""Nov""], ""year""=>[""1917""]}",,,
+10,AWD0003j9g,diary,669,4,1917-11-01 00:00:00 UTC,1 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",activity,training,{},,,
+11,AWD0003j9g,diary,669,3,1917-11-01 00:00:00 UTC,1 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",place,Enniskillen Camp,"{""place""=>[""Enniskillen Camp""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+12,AWD0003j9g,diary,669,3,1917-11-01 00:00:00 UTC,1 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",activity,resting,{},,,
+15,AWD0003j9g,diary,669,2,1917-11-01 00:00:00 UTC,1 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",unit,"1st Royal Dublin Fusiliers, 1st Royal Dublin Fusiliers","{""name""=>[""1st Royal Dublin Fusiliers"", ""1st Royal Dublin Fusiliers""], ""context""=>[""relieved""]}",,,
+16,AWD0003j9g,diary,669,4,1917-11-01 00:00:00 UTC,1 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",activity,line,{},,,
+17,AWD0003j9g,diary,669,4,1917-11-01 00:00:00 UTC,1 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",place,Lump Lane,"{""place""=>[""Lump Lane""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+18,AWD0003j9g,diary,669,2,1917-11-01 00:00:00 UTC,1 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",gridRef,V 14 c 2 8,{},,,
+19,AWD0003j9g,diary,669,2,1917-11-01 00:00:00 UTC,1 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",gridRef,U 14 c 2 8,{},,,
+20,AWD0003j9g,diary,669,2,1917-11-01 00:00:00 UTC,1 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",gridRef,U 7 d 2 8,{},,,
+21,AWD0003j9g,diary,669,2,1917-11-01 00:00:00 UTC,1 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",gridRef,V 7 d 2 8,{},,,
+22,AWD0003j9g,diary,669,3,1917-11-12 00:00:00 UTC,12 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",diaryDate,12 Nov 1917,"{""day""=>[""12""], ""month""=>[""Nov""], ""year""=>[""1917""]}",,,
+23,AWD0003j9g,diary,669,4,1917-11-13 00:00:00 UTC,13 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",diaryDate,13 Nov 1917,"{""day""=>[""13""], ""month""=>[""Nov""], ""year""=>[""1917""]}",,,
+25,AWD0003j9g,diary,669,3,1917-11-13 00:00:00 UTC,13 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",activity,attack,{},,,
+28,AWD0003j9g,diary,669,4,1917-11-14 00:00:00 UTC,14 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",diaryDate,14 Nov 1917,"{""day""=>[""14""], ""month""=>[""Nov""], ""year""=>[""1917""]}",,,
+30,AWD0003j9g,diary,669,2,1917-11-14 00:00:00 UTC,14 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",activity,attack,{},,,
+31,AWD0003j9g,diary,669,4,1917-11-14 00:00:00 UTC,14 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",place,Sunken Road,"{""place""=>[""Sunken Road""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+1,AWD0003j9w,diary,670,4,1917-11-15 00:00:00 UTC,15 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",diaryDate,15 Nov 1917,"{""day""=>[""15""], ""month""=>[""Nov""], ""year""=>[""1917""]}",,,
+3,AWD0003j9w,diary,670,2,1917-11-15 00:00:00 UTC,15 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",activity,line,{},,,
+4,AWD0003j9w,diary,670,2,1917-11-15 13:00:00 UTC,15 Nov 1917,Enniskillen Camp,"[0.0, 0.0]",0100PM,time,0100PM,{},,,
+5,AWD0003j9w,diary,670,3,1917-11-15 13:00:00 UTC,15 Nov 1917,Enniskillen Camp,"[0.0, 0.0]",0100PM,activity,attack,{},,,
+7,AWD0003j9w,diary,670,4,1917-11-17 00:00:00 UTC,17 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",diaryDate,17 Nov 1917,"{""day""=>[""17""], ""month""=>[""Nov""], ""year""=>[""1917""]}",,,
+8,AWD0003j9w,diary,670,3,1917-11-17 00:00:00 UTC,17 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",activity,attack,{},,,
+9,AWD0003j9w,diary,670,3,1917-11-17 00:00:00 UTC,17 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",place,Mebu,"{""place""=>[""Mebu""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+12,AWD0003j9w,diary,670,4,1917-11-17 00:00:00 UTC,17 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",place,Janet Avenue,"{""place""=>[""Janet Avenue""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+14,AWD0003j9w,diary,670,4,1917-11-18 00:00:00 UTC,18 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",diaryDate,18 Nov 1917,"{""day""=>[""18""], ""month""=>[""Nov""], ""year""=>[""1917""]}",,,
+16,AWD0003j9w,diary,670,2,1917-11-18 00:00:00 UTC,18 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",unit,"10th Royal Dublin Fusiliers, 10th Royal Dublin Fusiliers","{""name""=>[""10th Royal Dublin Fusiliers"", ""10th Royal Dublin Fusiliers""], ""context""=>[""relieved_by""]}",,,
+20,AWD0003j9w,diary,670,2,1917-11-18 00:00:00 UTC,18 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",unit,"2nd Royal Dublin Fusiliers, 2nd Royal Dublin Fusiliers","{""name""=>[""2nd Royal Dublin Fusiliers"", ""2nd Royal Dublin Fusiliers""], ""context""=>[""relieved_by""]}",,,
+23,AWD0003j9w,diary,670,2,1917-11-18 00:00:00 UTC,18 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",unit,"2nd Royal Irish Regiment, 2nd Royal Irish Regiment","{""name""=>[""2nd Royal Irish Regiment"", ""2nd Royal Irish Regiment""], ""context""=>[""relieved_by""]}",,,
+24,AWD0003j9w,diary,670,3,1917-11-18 00:00:00 UTC,18 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",activity,movement,{},,,
+25,AWD0003j9w,diary,670,3,1917-11-18 00:00:00 UTC,18 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",place,Belfast Camp,"{""place""=>[""Belfast Camp""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+26,AWD0003j9w,diary,670,4,1917-11-18 00:00:00 UTC,18 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",place,Ervillers,"{""place""=>[""Ervillers""], ""location""=>[""false""], ""name""=>["""", ""Ervillers""], ""lat""=>["""", ""50.16123""], ""long""=>["""", ""2.82441""], ""id""=>["""", ""3019859""]}",,,
+1,AWD0003jae,diary,671,4,1917-11-19 00:00:00 UTC,19 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",diaryDate,19 Nov 1917,"{""day""=>[""19""], ""month""=>[""Nov""], ""year""=>[""1917""]}",,,
+2,AWD0003jae,diary,671,2,1917-11-19 00:00:00 UTC,19 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",activity,support,{},,,
+3,AWD0003jae,diary,671,3,1917-11-19 00:00:00 UTC,19 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",activity,movement,{},,,
+4,AWD0003jae,diary,671,2,1917-11-19 00:00:00 UTC,19 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",unit,2nd Royal Irish Regiment,"{""name""=>[""2nd Royal Irish Regiment""], ""context""=>[""joined""]}",,,
+10,AWD0003jae,diary,671,3,1917-11-19 00:00:00 UTC,19 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",unit,"9th Machne Gun Company, 49th Machine-Gun Company, 49th Machine Gun Company","{""name""=>[""9th Machne Gun Company"", ""49th Machine-Gun Company"", ""49th Machine Gun Company""], ""context""=>[""joined""]}",,,
+13,AWD0003jae,diary,671,5,1917-11-19 00:00:00 UTC,19 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",place,Sunken Road,"{""place""=>[""Sunken Road""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+14,AWD0003jae,diary,671,2,1917-11-19 00:00:00 UTC,19 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",gridRef,T 17 a,{},,,
+15,AWD0003jae,diary,671,4,1917-11-19 00:00:00 UTC,19 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",gridRef,T 22 a,{},,,
+16,AWD0003jae,diary,671,3,1917-11-19 00:00:00 UTC,19 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",place,Sunken Road,"{""place""=>[""Sunken Road""], ""location""=>[""false""], ""name""=>[""Ervillers""], ""lat""=>[""50.16123""], ""long""=>[""2.82441""], ""id""=>[""3019859""]}",,,
+17,AWD0003jae,diary,671,4,1917-11-19 00:00:00 UTC,19 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",gridRef,T 23 c 2 9,{},,,
+18,AWD0003jae,diary,671,4,1917-11-19 00:00:00 UTC,19 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",place,Burg Support,"{""place""=>[""Burg Support""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+19,AWD0003jae,diary,671,3,1917-11-19 00:00:00 UTC,19 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",gridRef,U 7 d 1 3,{},,,
+20,AWD0003jae,diary,671,3,1917-11-19 00:00:00 UTC,19 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",place,Quarry,"{""place""=>[""Quarry""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+22,AWD0003jae,diary,671,3,1917-11-19 00:00:00 UTC,19 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",gridRef,V 7 c 6 2,{},,,
+25,AWD0003jae,diary,671,4,1917-11-20 00:00:00 UTC,20 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",diaryDate,20 Nov 1917,"{""day""=>[""20""], ""month""=>[""Nov""], ""year""=>[""1917""]}",,,
+26,AWD0003jae,diary,671,3,1917-11-20 06:20:00 UTC,20 Nov 1917,Enniskillen Camp,"[0.0, 0.0]",0620AM,time,0620AM,{},,,
+27,AWD0003jae,diary,671,2,1917-11-20 06:20:00 UTC,20 Nov 1917,Enniskillen Camp,"[0.0, 0.0]",0620AM,activity,attack,{},,,
+28,AWD0003jae,diary,671,4,1917-11-20 06:20:00 UTC,20 Nov 1917,Enniskillen Camp,"[0.0, 0.0]",0620AM,activity,movement,{},,,
+30,AWD0003jae,diary,671,2,1917-11-20 06:20:00 UTC,20 Nov 1917,Enniskillen Camp,"[0.0, 0.0]",0620AM,gridRef,T 17 a,{},,,
+31,AWD0003jae,diary,671,3,1917-11-20 17:30:00 UTC,20 Nov 1917,Enniskillen Camp,"[0.0, 0.0]",0530PM,time,0530PM,{},,,
+32,AWD0003jae,diary,671,2,1917-11-20 17:30:00 UTC,20 Nov 1917,Enniskillen Camp,"[0.0, 0.0]",0530PM,unit,7/8 Royal Irish Fus,"{""name""=>[""7/8 Royal Irish Fus""], ""context""=>[""joined"", ""relieved""]}",,,
+34,AWD0003jae,diary,671,4,1917-11-21 00:00:00 UTC,21 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",diaryDate,21 Nov 1917,"{""day""=>[""21""], ""month""=>[""Nov""], ""year""=>[""1917""]}",,,
+35,AWD0003jae,diary,671,2,1917-11-21 00:00:00 UTC,21 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",unit,7th/8th Royal Irish Fusiliers,"{""name""=>[""7th/8th Royal Irish Fusiliers""], ""context""=>[""joined"", ""relieved""]}",,,
+36,AWD0003jae,diary,671,2,1917-11-21 00:00:00 UTC,21 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",unit,7/8 R.Irish.Fus.,"{""name""=>[""7/8 R.Irish.Fus.""], ""context""=>[""joined"", ""relieved_by""]}",,,
+38,AWD0003jae,diary,671,2,1917-11-21 00:00:00 UTC,21 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",activity,line,{},,,
+39,AWD0003jae,diary,671,3,1917-11-21 00:00:00 UTC,21 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",gridRef,V 7 b 45 15,{},,,
+40,AWD0003jae,diary,671,2,1917-11-21 00:00:00 UTC,21 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",gridRef,V 7 d 90 75,{},,,
+45,AWD0003jae,diary,671,3,1917-11-21 00:00:00 UTC,21 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",gridRef,V 7 c 90 90,{},,,
+48,AWD0003jae,diary,671,3,1917-11-21 00:00:00 UTC,21 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",gridRef,V 7 b 30 25,{},,,
+51,AWD0003jae,diary,671,2,1917-11-21 00:00:00 UTC,21 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",gridRef,V 7 a 1 3,{},,,
+1,AWD0003je0,diary,672,3,1917-11-21 00:00:00 UTC,21 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",diaryDate,21 Nov 1917,"{""day""=>[""21""], ""month""=>[""Nov""], ""year""=>[""1917""]}",,,
+2,AWD0003je0,diary,672,2,1917-11-21 00:00:00 UTC,21 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",activity,line,{},,,
+3,AWD0003je0,diary,672,2,1917-11-21 00:00:00 UTC,21 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",activity,quiet,{},,,
+4,AWD0003je0,diary,672,2,1917-11-21 00:00:00 UTC,21 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",activity,fire,{},,,
+10,AWD0003je0,diary,672,4,1917-11-25 00:00:00 UTC,25 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",diaryDate,25 Nov 1917,"{""day""=>[""25""], ""month""=>[""Nov""], ""year""=>[""1917""]}",,,
+11,AWD0003je0,diary,672,4,1917-11-22 00:00:00 UTC,22 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",diaryDate,22 Nov 1917,"{""day""=>[""22""], ""month""=>[""Nov""], ""year""=>[""1917""]}",,,
+13,AWD0003je0,diary,672,2,1917-11-22 00:00:00 UTC,22 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",unit,2nd Royal Irish Regt,"{""name""=>[""2nd Royal Irish Regt""], ""context""=>[""relieved""]}",,,
+15,AWD0003je0,diary,672,3,1917-11-22 00:00:00 UTC,22 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",person,Major R G Kerr,"{""first""=>[""R G""], ""surname""=>[""Kerr""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+16,AWD0003je0,diary,672,3,1917-11-22 00:00:00 UTC,22 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",gridRef,V 8 c 1 2,{},,,
+17,AWD0003je0,diary,672,3,1917-11-25 00:00:00 UTC,25 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",diaryDate,25 Nov 1917,"{""day""=>[""25""], ""month""=>[""Nov""], ""year""=>[""1917""]}",,,
+19,AWD0003je0,diary,672,4,1917-11-25 00:00:00 UTC,25 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",place,Enniskillen Camp,"{""place""=>[""Enniskillen Camp""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+22,AWD0003je0,diary,672,2,1917-11-25 00:00:00 UTC,25 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",unit,2nd Royal Dublin Fusiliers,"{""name""=>[""2nd Royal Dublin Fusiliers""], ""context""=>[""relieved_by""]}",,,
+23,AWD0003je0,diary,672,2,1917-11-25 00:00:00 UTC,25 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",activity,movement,{},,,
+24,AWD0003je0,diary,672,2,1917-11-25 00:00:00 UTC,25 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",place,Enniskillen Camp,"{""place""=>[""Enniskillen Camp""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+25,AWD0003je0,diary,672,3,1917-11-25 00:00:00 UTC,25 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",activity,resting,{},,,
+27,AWD0003je0,diary,672,3,1917-11-25 00:00:00 UTC,25 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",activity,training,{},,,
+28,AWD0003je0,diary,672,4,1917-11-30 00:00:00 UTC,30 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",diaryDate,30 Nov 1917,"{""day""=>[""30""], ""month""=>[""Nov""], ""year""=>[""1917""]}",,,
+30,AWD0003je0,diary,672,3,1917-11-30 00:00:00 UTC,30 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",activity,support,{},,,
+31,AWD0003je0,diary,672,2,1917-11-30 00:00:00 UTC,30 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",unit,10th Royal Dublin Fusiliers,"{""name""=>[""10th Royal Dublin Fusiliers""], ""context""=>[""relieved""]}",,,
+32,AWD0003je0,diary,672,4,1917-11-30 00:00:00 UTC,30 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",place,Sunken Road,"{""place""=>[""Sunken Road""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+35,AWD0003je0,diary,672,3,1917-11-30 00:00:00 UTC,30 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",gridRef,T 22 d 8 9,{},,,
+37,AWD0003je0,diary,672,3,1917-11-30 00:00:00 UTC,30 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",gridRef,T 22 d 9 9,{},,,
+39,AWD0003je0,diary,672,2,1917-11-30 00:00:00 UTC,30 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",place,Sunken Road,"{""place""=>[""Sunken Road""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+40,AWD0003je0,diary,672,3,1917-11-30 00:00:00 UTC,30 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",person,Lieutenant Colonel A J Walkey,"{""first""=>[""A J""], ""surname""=>[""Walkey""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""7/8th Battalion Royal Inniskilling Fusiliers"", """", ""7th/8th Royal Inniskilling Fusiliers""]}",,,
+2,AWD0003jcs,diary,673,2,1917-11-11 00:00:00 UTC,11 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",diaryDate,11 Nov 1917,"{""day""=>[""11""], ""month""=>[""Nov""], ""year""=>[""1917""]}",,,
+3,AWD0003jcs,diary,673,4,1917-11-11 00:00:00 UTC,11 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",person,Major V H Parr,"{""first""=>[""V H""], ""surname""=>[""Parr""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",,,
+4,AWD0003jcs,diary,673,2,1917-11-17 00:00:00 UTC,17 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",diaryDate,17 Nov 1917,"{""day""=>[""17""], ""month""=>[""Nov""], ""year""=>[""1917""]}",,,
+5,AWD0003jcs,diary,673,4,1917-11-17 00:00:00 UTC,17 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",person,Second Lieutenant W J Lavelle,"{""first""=>[""W J""], ""surname""=>[""Lavelle""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",,,
+6,AWD0003jcs,diary,673,4,1917-11-17 00:00:00 UTC,17 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",person,Second Lieutenant T J Johnston,"{""first""=>[""T J""], ""surname""=>[""Johnston""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",,,
+7,AWD0003jcs,diary,673,4,1917-11-17 00:00:00 UTC,17 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",person,Second Lieutenant E Illingworth,"{""first""=>[""E""], ""surname""=>[""Illingworth""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",,,
+8,AWD0003jcs,diary,673,2,1917-11-08 00:00:00 UTC,8 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",diaryDate,8 Nov 1917,"{""day""=>[""8""], ""month""=>[""Nov""], ""year""=>[""1917""]}",,,
+9,AWD0003jcs,diary,673,4,1917-11-08 00:00:00 UTC,8 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",person,Second Lieutenant S Preston,"{""first""=>[""S""], ""surname""=>[""Preston""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",,,
+10,AWD0003jcs,diary,673,2,1917-11-24 00:00:00 UTC,24 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",diaryDate,24 Nov 1917,"{""day""=>[""24""], ""month""=>[""Nov""], ""year""=>[""1917""]}",,,
+11,AWD0003jcs,diary,673,4,1917-11-24 00:00:00 UTC,24 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",person,Second Lieutenant H Hobson,"{""first""=>[""H""], ""surname""=>[""Hobson""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",,,
+12,AWD0003jcs,diary,673,4,1917-11-24 00:00:00 UTC,24 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",person,Second Lieutenant W A Wilkinson,"{""first""=>[""W A""], ""surname""=>[""Wilkinson""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",,,
+13,AWD0003jcs,diary,673,4,1917-11-24 00:00:00 UTC,24 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",person,Second Lieutenant H G Lacey,"{""first""=>[""H G""], ""surname""=>[""Lacey""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",,,
+14,AWD0003jcs,diary,673,4,1917-11-24 00:00:00 UTC,24 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",person,Lieutenant Colonel H N Young,"{""first""=>[""H N""], ""surname""=>[""Young""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""departed_posted""], ""unit""=>[""""]}",,,
+16,AWD0003jcs,diary,673,2,1917-11-12 00:00:00 UTC,12 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",diaryDate,12 Nov 1917,"{""day""=>[""12""], ""month""=>[""Nov""], ""year""=>[""1917""]}",,,
+17,AWD0003jcs,diary,673,4,1917-11-12 00:00:00 UTC,12 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",person,Second Lieutenant  Lilley,"{""first""=>[""""], ""surname""=>[""Lilley""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_sick""], ""unit""=>[""""]}",,,
+19,AWD0003jcs,diary,673,2,1917-11-20 00:00:00 UTC,20 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",diaryDate,20 Nov 1917,"{""day""=>[""20""], ""month""=>[""Nov""], ""year""=>[""1917""]}",,,
+21,AWD0003jcs,diary,673,4,1917-11-20 00:00:00 UTC,20 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",person,Second Lieutenant G L Williams,"{""first""=>[""G L""], ""surname""=>[""Williams""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+23,AWD0003jcs,diary,673,4,1917-11-20 00:00:00 UTC,20 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",person,Lieutenant A H H Armstrong,"{""first""=>[""A H H""], ""surname""=>[""Armstrong""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_posted""], ""unit""=>[""RFC""]}",,,
+25,AWD0003jcs,diary,673,2,1917-11-23 00:00:00 UTC,23 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",diaryDate,23 Nov 1917,"{""day""=>[""23""], ""month""=>[""Nov""], ""year""=>[""1917""]}",,,
+27,AWD0003jcs,diary,673,4,1917-11-23 00:00:00 UTC,23 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",person,Captain A E C Trimble,"{""first""=>[""A E C""], ""surname""=>[""Trimble""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+1,AWD0003jcr,diary,674,2,1917-11-27 00:00:00 UTC,27 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",diaryDate,27 Nov 1917,"{""day""=>[""27""], ""month""=>[""Nov""], ""year""=>[""1917""]}",,,
+3,AWD0003jcr,diary,674,4,1917-11-27 00:00:00 UTC,27 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",person,Second Lieutenant E Illingworth,"{""first""=>[""E""], ""surname""=>[""Illingworth""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_sick""], ""unit""=>[""""]}",,,
+5,AWD0003jcr,diary,674,4,1917-11-27 00:00:00 UTC,27 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",person,Captain A E C Trimble,"{""first""=>[""A E C""], ""surname""=>[""Trimble""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+6,AWD0003jcr,diary,674,4,1917-11-27 00:00:00 UTC,27 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",person,Lieutenant J R McIlroy,"{""first""=>[""J R""], ""surname""=>[""McIlroy""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""award""], ""unit""=>[""""]}",,,
+7,AWD0003jcr,diary,674,4,1917-11-27 00:00:00 UTC,27 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",person,Second Lieutenant G L Williams,"{""first""=>[""G L""], ""surname""=>[""Williams""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+8,AWD0003jcr,diary,674,4,1917-11-27 00:00:00 UTC,27 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",person,Lieutenant A H H Armstrong,"{""first""=>[""A H H""], ""surname""=>[""Armstrong""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""award""], ""unit""=>[""""]}",,,
+9,AWD0003jcr,diary,674,4,1917-11-27 00:00:00 UTC,27 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",person,Sergeant J C Garry,"{""first""=>[""J C""], ""surname""=>[""Garry""], ""rank""=>[""Sergeant""], ""number""=>[""25231""], ""reason""=>[""award""], ""unit""=>[""""]}",,,
+13,AWD0003jcr,diary,674,4,1917-11-27 00:00:00 UTC,27 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",person,Sergeant J J Bradley,"{""first""=>[""J J""], ""surname""=>[""Bradley""], ""rank""=>[""Sergeant""], ""number""=>[""20496""], ""reason""=>[""award""], ""unit""=>[""""]}",,,
+14,AWD0003jcr,diary,674,4,1917-11-27 00:00:00 UTC,27 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",person,Sergeant J Taylor,"{""first""=>[""J""], ""surname""=>[""Taylor""], ""rank""=>[""Sergeant""], ""number""=>[""28674""], ""reason""=>[""award""], ""unit""=>[""""]}",,,
+15,AWD0003jcr,diary,674,4,1917-11-27 00:00:00 UTC,27 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",person,Sergeant G King,"{""first""=>[""G""], ""surname""=>[""King""], ""rank""=>[""Sergeant""], ""number""=>[""20654""], ""reason""=>[""award""], ""unit""=>[""""]}",,,
+16,AWD0003jcr,diary,674,4,1917-11-27 00:00:00 UTC,27 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",person,Sergeant T J Morris,"{""first""=>[""T J""], ""surname""=>[""Morris""], ""rank""=>[""Sergeant""], ""number""=>[""18716""], ""reason""=>[""award""], ""unit""=>[""""]}",,,
+17,AWD0003jcr,diary,674,3,1917-11-27 00:00:00 UTC,27 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",person,"Lieutenant Colonel ,A J,A Walkey","{""first""=>["""", ""A J"", ""A""], ""surname""=>[""Walkey""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""7/8th Battalion, Royal Inniskilling Fusiliers "", ""7/8th Battalion Royal Inniskilling Fusiliers"", """"]}",,,
+18,AWD0003jcr,diary,674,4,1917-11-27 00:00:00 UTC,27 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",person,Private P McQuade,"{""first""=>[""P""], ""surname""=>[""McQuade""], ""rank""=>[""Private""], ""number""=>[""25877""], ""reason""=>[""award""], ""unit""=>[""""]}",,,
+20,AWD0003jcr,diary,674,4,1917-11-27 00:00:00 UTC,27 Nov 1917,Enniskillen Camp,"[0.0, 0.0]","",person,Lance Corporal R A Dunsford,"{""first""=>[""R A""], ""surname""=>[""Dunsford""], ""rank""=>[""Lance Corporal""], ""number""=>[""41890""], ""reason""=>[""award""], ""unit""=>[""""]}",,,
+1,AWD0003jb5,diary,676,3,1917-12-01 00:00:00 UTC,1 Dec 1917,Enniskillen Camp,"[0.0, 0.0]","",diaryDate,1 Dec 1917,"{""day""=>[""1""], ""month""=>[""Dec""], ""year""=>[""1917""]}",,,
+3,AWD0003jb5,diary,676,2,1917-12-01 00:00:00 UTC,1 Dec 1917,Croisilles,"[2.87935, 50.19978]","",place,Croisilles,"{""place""=>[""Croisilles""], ""location""=>[""true""], ""name""=>["""", ""Croisilles""], ""lat""=>["""", ""50.19978""], ""long""=>["""", ""2.87935""], ""id""=>["""", ""3022386""]}",3022386,Croisilles,"[2.87935, 50.19978]"
+4,AWD0003jb5,diary,676,3,1917-12-01 00:00:00 UTC,1 Dec 1917,Croisilles,"[2.87935, 50.19978]","",activity,support,{},3022386,Croisilles,"[2.87935, 50.19978]"
+6,AWD0003jb5,diary,676,2,1917-12-01 00:00:00 UTC,1 Dec 1917,Croisilles,"[2.87935, 50.19978]","",unit,"16th Infantry Division, 40th Infantry Division","{""name""=>[""16th Infantry Division"", ""40th Infantry Division""], ""context""=>[""other""]}",3022386,Croisilles,"[2.87935, 50.19978]"
+7,AWD0003jb5,diary,676,3,1917-12-02 00:00:00 UTC,2 Dec 1917,Croisilles,"[2.87935, 50.19978]","",diaryDate,2 Dec 1917,"{""day""=>[""2""], ""month""=>[""Dec""], ""year""=>[""1917""]}",3022386,Croisilles,"[2.87935, 50.19978]"
+8,AWD0003jb5,diary,676,2,1917-12-02 00:00:00 UTC,2 Dec 1917,Croisilles,"[2.87935, 50.19978]","",place,Croisilles,"{""place""=>[""Croisilles""], ""location""=>[""true""], ""name""=>["""", ""Croisilles""], ""lat""=>["""", ""50.19978""], ""long""=>["""", ""2.87935""], ""id""=>["""", ""3022386""]}",3022386,Croisilles,"[2.87935, 50.19978]"
+9,AWD0003jb5,diary,676,2,1917-12-02 17:00:00 UTC,2 Dec 1917,Croisilles,"[2.87935, 50.19978]",0500PM,time,0500PM,{},3022386,Croisilles,"[2.87935, 50.19978]"
+10,AWD0003jb5,diary,676,3,1917-12-02 17:00:00 UTC,2 Dec 1917,Croisilles,"[2.87935, 50.19978]",0500PM,unit,13th Yorks,"{""name""=>[""13th Yorks""], ""context""=>[""relieved_by""]}",3022386,Croisilles,"[2.87935, 50.19978]"
+11,AWD0003jb5,diary,676,2,1917-12-02 17:00:00 UTC,2 Dec 1917,Croisilles,"[2.87935, 50.19978]",0500PM,activity,movement,{},3022386,Croisilles,"[2.87935, 50.19978]"
+12,AWD0003jb5,diary,676,3,1917-12-02 17:00:00 UTC,2 Dec 1917,Ervillers,"[2.82441, 50.16123]",0500PM,place,Ervillers,"{""place""=>[""Ervillers""], ""location""=>[""true""], ""name""=>[""Ervillers""], ""lat""=>[""50.16123""], ""long""=>[""2.82441""], ""id""=>[""3019859""]}",3019859,Ervillers,"[2.82441, 50.16123]"
+13,AWD0003jb5,diary,676,2,1917-12-02 19:00:00 UTC,2 Dec 1917,Ervillers,"[2.82441, 50.16123]",0700PM,time,0700PM,{},3019859,Ervillers,"[2.82441, 50.16123]"
+14,AWD0003jb5,diary,676,3,1917-12-02 19:00:00 UTC,2 Dec 1917,Ervillers,"[2.82441, 50.16123]",0700PM,place,Enniskillen Camp,"{""place""=>[""Enniskillen Camp""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3019859,Ervillers,"[2.82441, 50.16123]"
+15,AWD0003jb5,diary,676,3,1917-12-02 19:00:00 UTC,2 Dec 1917,Ervillers,"[2.82441, 50.16123]",0700PM,activity,reserve,{},3019859,Ervillers,"[2.82441, 50.16123]"
+16,AWD0003jb5,diary,676,3,1917-12-03 00:00:00 UTC,3 Dec 1917,Ervillers,"[2.82441, 50.16123]","",diaryDate,3 Dec 1917,"{""day""=>[""3""], ""month""=>[""Dec""], ""year""=>[""1917""]}",3019859,Ervillers,"[2.82441, 50.16123]"
+20,AWD0003jb5,diary,676,2,1917-12-03 00:00:00 UTC,3 Dec 1917,Ervillers,"[2.82441, 50.16123]","",place,Barastre,"{""place""=>[""Barastre""], ""location""=>[""false""], ""name""=>[""Barastre""], ""lat""=>[""50.07638""], ""long""=>[""2.93241""], ""id""=>[""3035062""]}",3019859,Ervillers,"[2.82441, 50.16123]"
+21,AWD0003jb5,diary,676,3,1917-12-03 00:00:00 UTC,3 Dec 1917,Ervillers,"[2.82441, 50.16123]","",place,Bapaume,"{""place""=>[""Bapaume""], ""location""=>[""false""], ""name""=>[""Bapaume""], ""lat""=>[""50.10379""], ""long""=>[""2.84966""], ""id""=>[""3035088""]}",3019859,Ervillers,"[2.82441, 50.16123]"
+22,AWD0003jb5,diary,676,4,1917-12-03 00:00:00 UTC,3 Dec 1917,Ervillers,"[2.82441, 50.16123]","",activity,movement,{},3019859,Ervillers,"[2.82441, 50.16123]"
+23,AWD0003jb5,diary,676,3,1917-12-03 00:00:00 UTC,3 Dec 1917,Barastre,"[2.93241, 50.07638]","",place,Barastre,"{""place""=>[""Barastre""], ""location""=>[""true""], ""name""=>[""Barastre""], ""lat""=>[""50.07638""], ""long""=>[""2.93241""], ""id""=>[""3035062""]}",3035062,Barastre,"[2.93241, 50.07638]"
+24,AWD0003jb5,diary,676,2,1917-12-03 14:00:00 UTC,3 Dec 1917,Barastre,"[2.93241, 50.07638]",0200PM,time,0200PM,{},3035062,Barastre,"[2.93241, 50.07638]"
+25,AWD0003jb5,diary,676,3,1917-12-03 14:00:00 UTC,3 Dec 1917,Barastre,"[2.93241, 50.07638]",0200PM,domestic,accomodation,{},3035062,Barastre,"[2.93241, 50.07638]"
+27,AWD0003jb5,diary,676,3,1917-12-05 00:00:00 UTC,5 Dec 1917,Barastre,"[2.93241, 50.07638]","",diaryDate,5 Dec 1917,"{""day""=>[""5""], ""month""=>[""Dec""], ""year""=>[""1917""]}",3035062,Barastre,"[2.93241, 50.07638]"
+28,AWD0003jb5,diary,676,2,1917-12-05 09:30:00 UTC,5 Dec 1917,Barastre,"[2.93241, 50.07638]",0930AM,time,0930AM,{},3035062,Barastre,"[2.93241, 50.07638]"
+29,AWD0003jb5,diary,676,3,1917-12-05 09:30:00 UTC,5 Dec 1917,Barastre,"[2.93241, 50.07638]",0930AM,activity,movement,{},3035062,Barastre,"[2.93241, 50.07638]"
+30,AWD0003jb5,diary,676,3,1917-12-05 09:30:00 UTC,5 Dec 1917,Barastre,"[2.93241, 50.07638]",0930AM,place,Tincourt,"{""place""=>[""Tincourt""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3035062,Barastre,"[2.93241, 50.07638]"
+32,AWD0003jb5,diary,676,3,1917-12-05 09:30:00 UTC,5 Dec 1917,Buire,"[0.0, 0.0]",0930AM,place,Buire,"{""place""=>[""Buire""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3030108,Brie,"[0.24107, 45.73804]"
+33,AWD0003jb5,diary,676,2,1917-12-05 18:00:00 UTC,5 Dec 1917,Buire,"[0.0, 0.0]",0600PM,time,0600PM,{},3030108,Brie,"[0.24107, 45.73804]"
+34,AWD0003jb5,diary,676,2,1917-12-05 18:00:00 UTC,5 Dec 1917,Buire,"[0.0, 0.0]",0600PM,domestic,accomodation,{},3030108,Brie,"[0.24107, 45.73804]"
+35,AWD0003jb5,diary,676,2,1917-12-05 18:00:00 UTC,5 Dec 1917,Buire,"[0.0, 0.0]",0600PM,place,Buire,"{""place""=>[""Buire""], ""location""=>[""false""], ""name""=>["""", ""Buire-Courcelles""], ""lat""=>["""", ""49.92699""], ""long""=>["""", ""3.0146""], ""id""=>["""", ""3029609""]}",3030108,Brie,"[0.24107, 45.73804]"
+37,AWD0003jb5,diary,676,3,1917-12-06 00:00:00 UTC,6 Dec 1917,Buire,"[0.0, 0.0]","",diaryDate,6 Dec 1917,"{""day""=>[""6""], ""month""=>[""Dec""], ""year""=>[""1917""]}",3030108,Brie,"[0.24107, 45.73804]"
+38,AWD0003jb5,diary,676,2,1917-12-06 15:00:00 UTC,6 Dec 1917,Buire,"[0.0, 0.0]",0300PM,time,0300PM,{},3030108,Brie,"[0.24107, 45.73804]"
+39,AWD0003jb5,diary,676,2,1917-12-06 15:00:00 UTC,6 Dec 1917,Buire,"[0.0, 0.0]",0300PM,place,"Saint Emelie, Sainte Émelie","{""place""=>[""Saint Emelie"", ""Sainte Émelie""], ""location""=>[""false""], ""name""=>["""", ""Buire-Courcelles""], ""lat""=>["""", ""49.92699""], ""long""=>["""", ""3.0146""], ""id""=>["""", ""3029609""]}",3030108,Brie,"[0.24107, 45.73804]"
+41,AWD0003jb5,diary,676,3,1917-12-06 15:00:00 UTC,6 Dec 1917,Buire,"[0.0, 0.0]",0300PM,activity,movement,{},3030108,Brie,"[0.24107, 45.73804]"
+42,AWD0003jb5,diary,676,3,1917-12-06 15:00:00 UTC,6 Dec 1917,Buire,"[0.0, 0.0]",0300PM,activity,support,{},3030108,Brie,"[0.24107, 45.73804]"
+47,AWD0003jb5,diary,676,2,1917-12-06 17:00:00 UTC,6 Dec 1917,Buire,"[0.0, 0.0]",0500PM,time,0500PM,{},3030108,Brie,"[0.24107, 45.73804]"
+48,AWD0003jb5,diary,676,3,1917-12-06 17:00:00 UTC,6 Dec 1917,Buire,"[0.0, 0.0]",0500PM,place,Hamel,"{""place""=>[""Hamel""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3030108,Brie,"[0.24107, 45.73804]"
+50,AWD0003jb5,diary,676,2,1917-12-06 17:00:00 UTC,6 Dec 1917,Buire,"[0.0, 0.0]",0500PM,domestic,accomodation,{},3030108,Brie,"[0.24107, 45.73804]"
+51,AWD0003jb5,diary,676,2,1917-12-06 17:00:00 UTC,6 Dec 1917,Buire,"[0.0, 0.0]",0500PM,place,"Sainte Émelie, Saint Emelie","{""place""=>[""Sainte Émelie"", ""Saint Emelie""], ""location""=>[""false""], ""name""=>[""Buire-Courcelles"", """"], ""lat""=>[""49.92699"", """"], ""long""=>[""3.0146"", """"], ""id""=>[""3029609"", """"]}",3030108,Brie,"[0.24107, 45.73804]"
+54,AWD0003jb5,diary,676,3,1917-12-06 17:00:00 UTC,6 Dec 1917,"Saint Emelie, Sainte Emilie, Sainte Émilie","[0.0, 0.0]",0500PM,place,"Saint Emelie, Sainte Emilie, Sainte Émilie","{""place""=>[""Saint Emelie"", ""Sainte Emilie"", ""Sainte Émilie""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+56,AWD0003jb5,diary,676,2,1917-12-06 17:00:00 UTC,6 Dec 1917,"Saint Emelie, Sainte Emilie, Sainte Émilie","[0.0, 0.0]",0500PM,activity,support,{},,,
+57,AWD0003jb5,diary,676,3,1917-12-06 17:00:00 UTC,6 Dec 1917,"Saint Emelie, Sainte Emilie, Sainte Émilie","[0.0, 0.0]",0500PM,activity,repair,{},,,
+58,AWD0003jb5,diary,676,3,1917-12-06 17:00:00 UTC,6 Dec 1917,"Saint Emelie, Sainte Emilie, Sainte Émilie","[0.0, 0.0]",0500PM,place,Mule Trench,"{""place""=>[""Mule Trench""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+59,AWD0003jb5,diary,676,2,1917-12-06 17:00:00 UTC,6 Dec 1917,"Saint Emelie, Sainte Emilie, Sainte Émilie","[0.0, 0.0]",0500PM,place,Priel Cutting,"{""place""=>[""Priel Cutting""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+60,AWD0003jb5,diary,676,3,1917-12-06 17:00:00 UTC,6 Dec 1917,"Saint Emelie, Sainte Emilie, Sainte Émilie","[0.0, 0.0]",0500PM,domestic,accomodation,{},,,
+61,AWD0003jb5,diary,676,2,1917-12-06 17:00:00 UTC,6 Dec 1917,"Saint Emelie, Sainte Emilie, Sainte Émilie","[0.0, 0.0]",0500PM,place,"Saint Emelie, Sainte Émelie","{""place""=>[""Saint Emelie"", ""Sainte Émelie""], ""location""=>[""false""], ""name""=>["""", ""Buire-Courcelles""], ""lat""=>["""", ""49.92699""], ""long""=>["""", ""3.0146""], ""id""=>["""", ""3029609""]}",,,
+62,AWD0003jb5,diary,676,3,1917-12-06 17:00:00 UTC,6 Dec 1917,"Saint Emelie, Sainte Emilie, Sainte Émilie","[0.0, 0.0]",0500PM,activity,fire,{},,,
+63,AWD0003jb5,diary,676,3,1917-12-06 17:00:00 UTC,6 Dec 1917,"Saint Emelie, Sainte Emilie, Sainte Émilie","[0.0, 0.0]",0500PM,casualties,"died: 2, wounded: 4",{},,,
+64,AWD0003jb5,diary,676,2,1917-12-12 00:00:00 UTC,12 Dec 1917,"Saint Emelie, Sainte Emilie, Sainte Émilie","[0.0, 0.0]","",diaryDate,12 Dec 1917,"{""day""=>[""12""], ""month""=>[""Dec""], ""year""=>[""1917""]}",,,
+3,AWD0003ja7,diary,677,4,1917-12-12 00:00:00 UTC,12 Dec 1917,"Sainte Emilie, Saint Emelie, Sainte Emelie, Sainte Émelie","[0.0, 0.0]","",place,"Sainte Emilie, Saint Emelie, Sainte Emelie, Sainte Émelie","{""place""=>[""Sainte Emilie"", ""Saint Emelie"", ""Sainte Emelie"", ""Sainte Émelie""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+4,AWD0003ja7,diary,677,3,1917-12-12 16:00:00 UTC,12 Dec 1917,"Sainte Emilie, Saint Emelie, Sainte Emelie, Sainte Émelie","[0.0, 0.0]",0400PM,time,0400PM,{},2982903,Ronssoy,"[3.15986, 49.98293]"
+5,AWD0003ja7,diary,677,3,1917-12-12 16:00:00 UTC,12 Dec 1917,"Sainte Emilie, Saint Emelie, Sainte Emelie, Sainte Émelie","[0.0, 0.0]",0400PM,activity,movement,{},2982903,Ronssoy,"[3.15986, 49.98293]"
+11,AWD0003ja7,diary,677,2,1917-12-12 16:00:00 UTC,12 Dec 1917,"Sainte Emilie, Saint Emelie, Sainte Emelie, Sainte Émelie","[0.0, 0.0]",0400PM,activity,line,{},2982903,Ronssoy,"[3.15986, 49.98293]"
+12,AWD0003ja7,diary,677,2,1917-12-12 16:00:00 UTC,12 Dec 1917,"Sainte Emilie, Saint Emelie, Sainte Emelie, Sainte Émelie","[0.0, 0.0]",0400PM,place,"No. 13 Copse, N° 13 Copse","{""place""=>[""No. 13 Copse"", ""N° 13 Copse""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+13,AWD0003ja7,diary,677,4,1917-12-12 16:00:00 UTC,12 Dec 1917,"Sainte Emilie, Saint Emelie, Sainte Emelie, Sainte Émelie","[0.0, 0.0]",0400PM,gridRef,F 11 a 8 6,{},2982903,Ronssoy,"[3.15986, 49.98293]"
+14,AWD0003ja7,diary,677,3,1917-12-12 21:00:00 UTC,12 Dec 1917,"Sainte Emilie, Saint Emelie, Sainte Emelie, Sainte Émelie","[0.0, 0.0]",0900PM,time,0900PM,{},2982903,Ronssoy,"[3.15986, 49.98293]"
+16,AWD0003ja7,diary,677,4,1917-12-12 21:00:00 UTC,12 Dec 1917,"Sainte Emilie, Saint Emelie, Sainte Emelie, Sainte Émelie","[0.0, 0.0]",0900PM,place,"No. 12 Copse, N° 12 Copse, No. 13 Copse, N° 13 Copse","{""place""=>[""No. 12 Copse"", ""N° 12 Copse"", ""No. 13 Copse"", ""N° 13 Copse""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+17,AWD0003ja7,diary,677,4,1917-12-12 21:00:00 UTC,12 Dec 1917,"Sainte Emilie, Saint Emelie, Sainte Emelie, Sainte Émelie","[0.0, 0.0]",0900PM,place,Priel Cutting,"{""place""=>[""Priel Cutting""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+18,AWD0003ja7,diary,677,4,1917-12-12 21:00:00 UTC,12 Dec 1917,"Sainte Emilie, Saint Emelie, Sainte Emelie, Sainte Émelie","[0.0, 0.0]",0900PM,place,Mule Trench,"{""place""=>[""Mule Trench""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+19,AWD0003ja7,diary,677,4,1917-12-12 21:00:00 UTC,12 Dec 1917,"Sainte Emilie, Saint Emelie, Sainte Emelie, Sainte Émelie","[0.0, 0.0]",0900PM,place,Cruciform Post,"{""place""=>[""Cruciform Post""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+20,AWD0003ja7,diary,677,4,1917-12-12 21:00:00 UTC,12 Dec 1917,"Sainte Emilie, Saint Emelie, Sainte Emelie, Sainte Émelie","[0.0, 0.0]",0900PM,place,Heythrop Lane,"{""place""=>[""Heythrop Lane""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+21,AWD0003ja7,diary,677,3,1917-12-12 21:00:00 UTC,12 Dec 1917,"Sainte Emilie, Saint Emelie, Sainte Emelie, Sainte Émelie","[0.0, 0.0]",0900PM,place,Bird Lane,"{""place""=>[""Bird Lane""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+22,AWD0003ja7,diary,677,4,1917-12-12 21:00:00 UTC,12 Dec 1917,"Sainte Emilie, Saint Emelie, Sainte Emelie, Sainte Émelie","[0.0, 0.0]",0900PM,place,Heythrop Post,"{""place""=>[""Heythrop Post""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+23,AWD0003ja7,diary,677,4,1917-12-12 21:00:00 UTC,12 Dec 1917,"Sainte Emilie, Saint Emelie, Sainte Emelie, Sainte Émelie","[0.0, 0.0]",0900PM,place,Grafton Post,"{""place""=>[""Grafton Post""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+26,AWD0003ja7,diary,677,4,1917-12-12 21:00:00 UTC,12 Dec 1917,"Sainte Emilie, Saint Emelie, Sainte Emelie, Sainte Émelie","[0.0, 0.0]",0900PM,gridRef,F 10 c 4 4,{},2982903,Ronssoy,"[3.15986, 49.98293]"
+27,AWD0003ja7,diary,677,3,1917-12-12 21:00:00 UTC,12 Dec 1917,"Sainte Emilie, Saint Emelie, Sainte Emelie, Sainte Émelie","[0.0, 0.0]",0900PM,activity,fire,{},2982903,Ronssoy,"[3.15986, 49.98293]"
+29,AWD0003ja7,diary,677,2,1917-12-12 21:00:00 UTC,12 Dec 1917,"Sainte Emilie, Saint Emelie, Sainte Emelie, Sainte Émelie","[0.0, 0.0]",0900PM,casualties,other: 4,{},2982903,Ronssoy,"[3.15986, 49.98293]"
+30,AWD0003ja7,diary,677,3,1917-12-12 00:00:00 UTC,12 Dec 1917,"Sainte Emilie, Saint Emelie, Sainte Emelie, Sainte Émelie","[0.0, 0.0]","",diaryDate,12 Dec 1917,"{""day""=>[""12""], ""month""=>[""Dec""], ""year""=>[""1917""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+33,AWD0003ja7,diary,677,4,1917-12-12 00:00:00 UTC,12 Dec 1917,"Sainte Emilie, Saint Emelie, Sainte Emelie, Sainte Émelie","[0.0, 0.0]","",activity,line,{},2982903,Ronssoy,"[3.15986, 49.98293]"
+34,AWD0003ja7,diary,677,5,1917-12-12 00:00:00 UTC,12 Dec 1917,"Sainte Emilie, Saint Emelie, Sainte Emelie, Sainte Émelie","[0.0, 0.0]","",activity,fire,{},2982903,Ronssoy,"[3.15986, 49.98293]"
+35,AWD0003ja7,diary,677,3,1917-12-12 00:00:00 UTC,12 Dec 1917,"Sainte Emilie, Saint Emelie, Sainte Emelie, Sainte Émelie","[0.0, 0.0]","",place,Mule Trench,"{""place""=>[""Mule Trench""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+37,AWD0003ja7,diary,677,3,1917-12-12 00:00:00 UTC,12 Dec 1917,"Sainte Emilie, Saint Emelie, Sainte Emelie, Sainte Émelie","[0.0, 0.0]","",place,Priel Cutting,"{""place""=>[""Priel Cutting""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+39,AWD0003ja7,diary,677,3,1917-12-12 00:00:00 UTC,12 Dec 1917,"Sainte Emilie, Saint Emelie, Sainte Emelie, Sainte Émelie","[0.0, 0.0]","",place,Priel Cutting,"{""place""=>[""Priel Cutting""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+40,AWD0003ja7,diary,677,2,1917-12-17 00:00:00 UTC,17 Dec 1917,"Sainte Emilie, Saint Emelie, Sainte Emelie, Sainte Émelie","[0.0, 0.0]","",diaryDate,17 Dec 1917,"{""day""=>[""17""], ""month""=>[""Dec""], ""year""=>[""1917""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+1,AWD0003jaf,diary,678,4,1917-12-17 00:00:00 UTC,17 Dec 1917,"Sainte Emilie, Saint Emelie, Sainte Emelie, Sainte Émelie","[0.0, 0.0]","",diaryDate,17 Dec 1917,"{""day""=>[""17""], ""month""=>[""Dec""], ""year""=>[""1917""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+3,AWD0003jaf,diary,678,3,1917-12-17 21:00:00 UTC,17 Dec 1917,"Sainte Emilie, Saint Emelie, Sainte Emelie, Sainte Émelie","[0.0, 0.0]",0900PM,time,0900PM,{},2982903,Ronssoy,"[3.15986, 49.98293]"
+5,AWD0003jaf,diary,678,2,1917-12-17 21:00:00 UTC,17 Dec 1917,"Sainte Emilie, Saint Emelie, Sainte Emelie, Sainte Émelie","[0.0, 0.0]",0900PM,unit,2nd Royal Dublin Fusiliers,"{""name""=>[""2nd Royal Dublin Fusiliers""], ""context""=>[""relieved_by""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+7,AWD0003jaf,diary,678,2,1917-12-17 21:00:00 UTC,17 Dec 1917,"Sainte Emilie, Saint Emelie, Sainte Emelie, Sainte Émelie","[0.0, 0.0]",0900PM,unit,"48th Infantry Brigade, 49th Infantry Brigade","{""name""=>[""48th Infantry Brigade"", ""49th Infantry Brigade""], ""context""=>[""other""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+9,AWD0003jaf,diary,678,4,1917-12-17 21:00:00 UTC,17 Dec 1917,"Sainte Emilie, Saint Emelie, Sainte Emelie, Sainte Émelie","[0.0, 0.0]",0900PM,activity,movement,{},2982903,Ronssoy,"[3.15986, 49.98293]"
+10,AWD0003jaf,diary,678,2,1917-12-17 21:00:00 UTC,17 Dec 1917,"Sainte Emilie, Saint Emelie, Sainte Emelie, Sainte Émelie","[0.0, 0.0]",0900PM,place,"Sainte Émilie, Saint Emelie","{""place""=>[""Sainte Émilie"", ""Saint Emelie""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+12,AWD0003jaf,diary,678,3,1917-12-17 21:00:00 UTC,17 Dec 1917,Tincourt,"[0.0, 0.0]",0900PM,place,Tincourt,"{""place""=>[""Tincourt""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3013999,Hancourt,"[3.07359, 49.90293]"
+13,AWD0003jaf,diary,678,2,1917-12-17 21:00:00 UTC,17 Dec 1917,Tincourt,"[0.0, 0.0]",0900PM,activity,movement,{},3013999,Hancourt,"[3.07359, 49.90293]"
+14,AWD0003jaf,diary,678,4,1917-12-17 21:00:00 UTC,17 Dec 1917,Tincourt,"[0.0, 0.0]",0900PM,place,Hamel,"{""place""=>[""Hamel""], ""location""=>[""false""], ""name""=>[""Hamel"", """"], ""lat""=>[""50.27945"", """"], ""long""=>[""3.07423"", """"], ""id""=>[""3014019"", """"]}",3013999,Hancourt,"[3.07359, 49.90293]"
+16,AWD0003jaf,diary,678,2,1917-12-17 21:00:00 UTC,17 Dec 1917,Tincourt,"[0.0, 0.0]",0900PM,domestic,accomodation,{},3013999,Hancourt,"[3.07359, 49.90293]"
+17,AWD0003jaf,diary,678,2,1917-12-17 21:00:00 UTC,17 Dec 1917,Tincourt,"[0.0, 0.0]",0900PM,activity,movement,{},3013999,Hancourt,"[3.07359, 49.90293]"
+18,AWD0003jaf,diary,678,4,1917-12-17 21:00:00 UTC,17 Dec 1917,Tincourt,"[0.0, 0.0]",0900PM,activity,reserve,{},3013999,Hancourt,"[3.07359, 49.90293]"
+19,AWD0003jaf,diary,678,4,1917-12-17 21:00:00 UTC,17 Dec 1917,Tincourt,"[0.0, 0.0]",0900PM,place,Tincourt,"{""place""=>[""Tincourt""], ""location""=>[""false""], ""name""=>[""Tincourt-Boucly""], ""lat""=>[""49.93839""], ""long""=>[""3.04282""], ""id""=>[""2972554""]}",3013999,Hancourt,"[3.07359, 49.90293]"
+25,AWD0003jaf,diary,678,5,1917-12-23 00:00:00 UTC,23 Dec 1917,Tincourt,"[0.0, 0.0]","",diaryDate,23 Dec 1917,"{""day""=>[""23""], ""month""=>[""Dec""], ""year""=>[""1917""]}",3013999,Hancourt,"[3.07359, 49.90293]"
+26,AWD0003jaf,diary,678,2,1917-12-23 00:00:00 UTC,23 Dec 1917,Tincourt,"[0.0, 0.0]","",place,Lempire,"{""place""=>[""Lempire""], ""location""=>[""false"", ""true""], ""name""=>[""Lempire"", """"], ""lat""=>[""49.99206"", """"], ""long""=>[""3.17309"", """"], ""id""=>[""3003161"", """"]}",3013999,Hancourt,"[3.07359, 49.90293]"
+27,AWD0003jaf,diary,678,2,1917-12-23 00:00:00 UTC,23 Dec 1917,"Lempire Defenses, Lempire Defences","[3.04282, 49.93839]","",place,"Lempire Defenses, Lempire Defences","{""place""=>[""Lempire Defenses"", ""Lempire Defences""], ""location""=>[""true""], ""name""=>["""", ""Tincourt-Boucly""], ""lat""=>["""", ""49.93839""], ""long""=>["""", ""3.04282""], ""id""=>["""", ""2972554""]}",3003161,Lempire,"[3.17309, 49.99206]"
+28,AWD0003jaf,diary,678,3,1917-12-23 16:00:00 UTC,23 Dec 1917,"Lempire Defenses, Lempire Defences","[3.04282, 49.93839]",0400PM,time,0400PM,{},3003161,Lempire,"[3.17309, 49.99206]"
+29,AWD0003jaf,diary,678,4,1917-12-23 16:00:00 UTC,23 Dec 1917,"Lempire Defenses, Lempire Defences","[3.04282, 49.93839]",0400PM,activity,movement,{},3003161,Lempire,"[3.17309, 49.99206]"
+30,AWD0003jaf,diary,678,4,1917-12-23 16:00:00 UTC,23 Dec 1917,"Lempire Defenses, Lempire Defences","[3.04282, 49.93839]",0400PM,place,Hamel,"{""place""=>[""Hamel""], ""location""=>[""false""], ""name""=>["""", ""Hamel""], ""lat""=>["""", ""50.27945""], ""long""=>["""", ""3.07423""], ""id""=>["""", ""3014019""]}",3003161,Lempire,"[3.17309, 49.99206]"
+31,AWD0003jaf,diary,678,3,1917-12-23 16:00:00 UTC,23 Dec 1917,"Lempire Defenses, Lempire Defences","[3.04282, 49.93839]",0400PM,place,"Ste Emilie, Sainte Emilie, Saint Emelie","{""place""=>[""Ste Emilie"", ""Sainte Emilie"", ""Saint Emelie""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3003161,Lempire,"[3.17309, 49.99206]"
+33,AWD0003jaf,diary,678,2,1917-12-23 16:00:00 UTC,23 Dec 1917,"Lempire Defenses, Lempire Defences","[3.04282, 49.93839]",0400PM,unit,"47th Inf Bde, 47th Inf.Bde.","{""name""=>[""47th Inf Bde"", ""47th Inf.Bde.""], ""context""=>[""relieved""]}",3003161,Lempire,"[3.17309, 49.99206]"
+35,AWD0003jaf,diary,678,2,1917-12-23 16:00:00 UTC,23 Dec 1917,"Lempire Defenses, Lempire Defences","[3.04282, 49.93839]",0400PM,unit,1st Royal Munster Fusiliers,"{""name""=>[""1st Royal Munster Fusiliers""], ""context""=>[""relieved""]}",3003161,Lempire,"[3.17309, 49.99206]"
+36,AWD0003jaf,diary,678,2,1917-12-23 16:00:00 UTC,23 Dec 1917,"Lempire Defenses, Lempire Defences","[3.04282, 49.93839]",0400PM,place,"Lempire Defenses, Lempire Defences","{""place""=>[""Lempire Defenses"", ""Lempire Defences""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3003161,Lempire,"[3.17309, 49.99206]"
+39,AWD0003jaf,diary,678,3,1917-12-23 16:00:00 UTC,23 Dec 1917,"Lempire Defenses, Lempire Defences","[3.04282, 49.93839]",0400PM,place,Lempire West,"{""place""=>[""Lempire West""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3003161,Lempire,"[3.17309, 49.99206]"
+40,AWD0003jaf,diary,678,3,1917-12-23 16:00:00 UTC,23 Dec 1917,"Lempire Defenses, Lempire Defences","[3.04282, 49.93839]",0400PM,place,Basse Boulogne,"{""place""=>[""Basse Boulogne""], ""location""=>[""false""], ""name""=>[""Basse-Boulogne""], ""lat""=>[""50.61142""], ""long""=>[""2.28361""], ""id""=>[""3034708""]}",3003161,Lempire,"[3.17309, 49.99206]"
+41,AWD0003jaf,diary,678,3,1917-12-23 16:00:00 UTC,23 Dec 1917,"Lempire Defenses, Lempire Defences","[3.04282, 49.93839]",0400PM,place,Lempire Road,"{""place""=>[""Lempire Road""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3003161,Lempire,"[3.17309, 49.99206]"
+42,AWD0003jaf,diary,678,4,1917-12-23 16:00:00 UTC,23 Dec 1917,"Lempire Defenses, Lempire Defences","[3.04282, 49.93839]",0400PM,gridRef,F 21 a 8 4,{},3003161,Lempire,"[3.17309, 49.99206]"
+43,AWD0003jaf,diary,678,3,1917-12-23 16:00:00 UTC,23 Dec 1917,"Lempire Defenses, Lempire Defences","[3.04282, 49.93839]",0400PM,place,Ronssoy,"{""place""=>[""Ronssoy""], ""location""=>[""false""], ""name""=>[""Ronssoy""], ""lat""=>[""49.98293""], ""long""=>[""3.15986""], ""id""=>[""2982903""]}",3003161,Lempire,"[3.17309, 49.99206]"
+44,AWD0003jaf,diary,678,2,1917-12-23 16:00:00 UTC,23 Dec 1917,"Lempire Defenses, Lempire Defences","[3.04282, 49.93839]",0400PM,activity,repair,{},3003161,Lempire,"[3.17309, 49.99206]"
+45,AWD0003jaf,diary,678,3,1917-12-23 16:00:00 UTC,23 Dec 1917,"Lempire Defenses, Lempire Defences","[3.04282, 49.93839]",0400PM,activity,construction,{},3003161,Lempire,"[3.17309, 49.99206]"
+46,AWD0003jaf,diary,678,3,1917-12-23 16:00:00 UTC,23 Dec 1917,"Lempire Defenses, Lempire Defences","[3.04282, 49.93839]",0400PM,activity,quiet,{},3003161,Lempire,"[3.17309, 49.99206]"
+47,AWD0003jaf,diary,678,3,1917-12-23 16:00:00 UTC,23 Dec 1917,"Lempire Defenses, Lempire Defences","[3.04282, 49.93839]",0400PM,place,Lempire West,"{""place""=>[""Lempire West""], ""location""=>[""false""], ""name""=>[""Ronssoy""], ""lat""=>[""49.98293""], ""long""=>[""3.15986""], ""id""=>[""2982903""]}",3003161,Lempire,"[3.17309, 49.99206]"
+48,AWD0003jaf,diary,678,4,1917-12-23 16:00:00 UTC,23 Dec 1917,"Lempire Defenses, Lempire Defences","[3.04282, 49.93839]",0400PM,activity,fire,{},3003161,Lempire,"[3.17309, 49.99206]"
+49,AWD0003jaf,diary,678,4,1917-12-23 16:00:00 UTC,23 Dec 1917,"Lempire Defenses, Lempire Defences","[3.04282, 49.93839]",0400PM,casualties,other: 2,{},3003161,Lempire,"[3.17309, 49.99206]"
+50,AWD0003jaf,diary,678,3,1917-12-29 00:00:00 UTC,29 Dec 1917,"Lempire Defenses, Lempire Defences","[3.04282, 49.93839]","",diaryDate,29 Dec 1917,"{""day""=>[""29""], ""month""=>[""Dec""], ""year""=>[""1917""]}",3003161,Lempire,"[3.17309, 49.99206]"
+1,AWD0003jdb,diary,679,4,1917-12-29 00:00:00 UTC,29 Dec 1917,"Lempire Defenses, Lempire Defences","[3.04282, 49.93839]","",diaryDate,29 Dec 1917,"{""day""=>[""29""], ""month""=>[""Dec""], ""year""=>[""1917""]}",3003161,Lempire,"[3.17309, 49.99206]"
+2,AWD0003jdb,diary,679,2,1917-12-29 00:00:00 UTC,29 Dec 1917,"Lempire Defenses, Lempire Defences","[3.04282, 49.93839]","",place,"Lempire, Lempire ","{""place""=>[""Lempire"", ""Lempire ""], ""location""=>[""true"", ""false""], ""name""=>["""", ""Lempire""], ""lat""=>["""", ""49.99206""], ""long""=>["""", ""3.17309""], ""id""=>["""", ""3003161""]}",3003161,Lempire,"[3.17309, 49.99206]"
+5,AWD0003jdb,diary,679,2,1917-12-29 21:30:00 UTC,29 Dec 1917,"Lempire Defenses, Lempire Defences","[3.04282, 49.93839]",0930PM,time,0930PM,{},3003161,Lempire,"[3.17309, 49.99206]"
+9,AWD0003jdb,diary,679,2,1917-12-29 21:30:00 UTC,29 Dec 1917,"Lempire Defenses, Lempire Defences","[3.04282, 49.93839]",0930PM,gridRef,F 15 a 9 6,{},3003161,Lempire,"[3.17309, 49.99206]"
+10,AWD0003jdb,diary,679,2,1917-12-29 21:30:00 UTC,29 Dec 1917,"Lempire Defenses, Lempire Defences","[3.04282, 49.93839]",0930PM,gridRef,F 18 a 9 6,{},3003161,Lempire,"[3.17309, 49.99206]"
+13,AWD0003jdb,diary,679,6,1917-12-29 21:30:00 UTC,29 Dec 1917,"Lempire Defenses, Lempire Defences","[3.04282, 49.93839]",0930PM,gridRef,F 18 c 9 8,{},3003161,Lempire,"[3.17309, 49.99206]"
+14,AWD0003jdb,diary,679,4,1917-12-29 21:30:00 UTC,29 Dec 1917,"Lempire Defenses, Lempire Defences","[3.04282, 49.93839]",0930PM,gridRef,F 24 a 0 0,{},3003161,Lempire,"[3.17309, 49.99206]"
+16,AWD0003jdb,diary,679,4,1917-12-29 21:30:00 UTC,29 Dec 1917,"Lempire Defenses, Lempire Defences","[3.04282, 49.93839]",0930PM,place,Duncan Post,"{""place""=>[""Duncan Post""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3003161,Lempire,"[3.17309, 49.99206]"
+17,AWD0003jdb,diary,679,3,1917-12-29 21:30:00 UTC,29 Dec 1917,"Lempire Defenses, Lempire Defences","[3.04282, 49.93839]",0930PM,place,Queuchettes Wood,"{""place""=>[""Queuchettes Wood""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3003161,Lempire,"[3.17309, 49.99206]"
+18,AWD0003jdb,diary,679,4,1917-12-29 21:30:00 UTC,29 Dec 1917,"Lempire Defenses, Lempire Defences","[3.04282, 49.93839]",0930PM,place,Ken Lane,"{""place""=>[""Ken Lane""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3003161,Lempire,"[3.17309, 49.99206]"
+19,AWD0003jdb,diary,679,3,1917-12-29 00:00:00 UTC,29 Dec 1917,"Lempire Defenses, Lempire Defences","[3.04282, 49.93839]","",diaryDate,29 Dec 1917,"{""day""=>[""29""], ""month""=>[""Dec""], ""year""=>[""1917""]}",3003161,Lempire,"[3.17309, 49.99206]"
+21,AWD0003jdb,diary,679,2,1917-12-29 00:00:00 UTC,29 Dec 1917,"Lempire Defenses, Lempire Defences","[3.04282, 49.93839]","",activity,line,{},3003161,Lempire,"[3.17309, 49.99206]"
+22,AWD0003jdb,diary,679,4,1917-12-29 00:00:00 UTC,29 Dec 1917,"Lempire Defenses, Lempire Defences","[3.04282, 49.93839]","",casualties,"killed: 2, died: 3, wounded: 10, missing: 1",{},3003161,Lempire,"[3.17309, 49.99206]"
+23,AWD0003jdb,diary,679,4,1917-12-29 00:00:00 UTC,29 Dec 1917,"Lempire Defenses, Lempire Defences","[3.04282, 49.93839]","",person,Major A J M Gordon,"{""first""=>[""A J M""], ""surname""=>[""Gordon""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",3003161,Lempire,"[3.17309, 49.99206]"
+24,AWD0003jdb,diary,679,4,1917-12-29 00:00:00 UTC,29 Dec 1917,"Lempire Defenses, Lempire Defences","[3.04282, 49.93839]","",person,Second Lieutenant H Lilley,"{""first""=>[""H""], ""surname""=>[""Lilley""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_sick""], ""unit""=>[""""]}",3003161,Lempire,"[3.17309, 49.99206]"
+26,AWD0003jdb,diary,679,4,1917-12-29 00:00:00 UTC,29 Dec 1917,"Lempire Defenses, Lempire Defences","[3.04282, 49.93839]","",person,Captain A A Seward,"{""first""=>[""A A""], ""surname""=>[""Seward""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""departed_posted""], ""unit""=>[""3rd Army School""]}",3003161,Lempire,"[3.17309, 49.99206]"
+28,AWD0003jdb,diary,679,4,1917-12-29 00:00:00 UTC,29 Dec 1917,"Lempire Defenses, Lempire Defences","[3.04282, 49.93839]","",person,Second Lieutenant J K Clarke,"{""first""=>[""J K""], ""surname""=>[""Clarke""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_posted""], ""unit""=>[""RFC""]}",3003161,Lempire,"[3.17309, 49.99206]"
+30,AWD0003jdb,diary,679,4,1917-12-29 00:00:00 UTC,29 Dec 1917,"Lempire Defenses, Lempire Defences","[3.04282, 49.93839]","",person,Sergeant T Kilroy,"{""first""=>[""T""], ""surname""=>[""Kilroy""], ""rank""=>[""Sergeant""], ""number""=>[""25160""], ""reason""=>[""award""], ""unit""=>[""""]}",3003161,Lempire,"[3.17309, 49.99206]"
+31,AWD0003jdb,diary,679,4,1917-12-29 00:00:00 UTC,29 Dec 1917,"Lempire Defenses, Lempire Defences","[3.04282, 49.93839]","",person,Lance Corporal F Kilfedder,"{""first""=>[""F""], ""surname""=>[""Kilfedder""], ""rank""=>[""Lance Corporal""], ""number""=>[""24550""], ""reason""=>[""award""], ""unit""=>[""""]}",3003161,Lempire,"[3.17309, 49.99206]"
+32,AWD0003jdb,diary,679,4,1917-12-29 00:00:00 UTC,29 Dec 1917,"Lempire Defenses, Lempire Defences","[3.04282, 49.93839]","",person,Private J Flynn,"{""first""=>[""J""], ""surname""=>[""Flynn""], ""rank""=>[""Private""], ""number""=>[""27612""], ""reason""=>[""award""], ""unit""=>[""""]}",3003161,Lempire,"[3.17309, 49.99206]"
+33,AWD0003jdb,diary,679,3,1917-12-31 00:00:00 UTC,31 Dec 1917,"Lempire Defenses, Lempire Defences","[3.04282, 49.93839]","",diaryDate,31 Dec 1917,"{""day""=>[""31""], ""month""=>[""Dec""], ""year""=>[""1917""]}",3003161,Lempire,"[3.17309, 49.99206]"
+34,AWD0003jdb,diary,679,4,1917-12-31 00:00:00 UTC,31 Dec 1917,"Lempire Defenses, Lempire Defences","[3.04282, 49.93839]","",person,Lieutenant Colonel A J Walkey,"{""first""=>[""A J""], ""surname""=>[""Walkey""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",3003161,Lempire,"[3.17309, 49.99206]"
+1,AWD0003jdt,diary,680,4,1918-01-01 00:00:00 UTC,1 Jan 1918,"Lempire Defenses, Lempire Defences","[3.04282, 49.93839]","",diaryDate,1 Jan 1918,"{""day""=>[""1""], ""month""=>[""Jan""], ""year""=>[""1918""]}",3003161,Lempire,"[3.17309, 49.99206]"
+2,AWD0003jdt,diary,680,4,1918-01-01 00:00:00 UTC,1 Jan 1918,"Lempire Defenses, Lempire Defences","[3.04282, 49.93839]","",activity,line,{},3003161,Lempire,"[3.17309, 49.99206]"
+4,AWD0003jdt,diary,680,3,1918-01-01 00:00:00 UTC,1 Jan 1918,"Lempire Defenses, Lempire Defences","[3.04282, 49.93839]","",activity,movement,{},3003161,Lempire,"[3.17309, 49.99206]"
+6,AWD0003jdt,diary,680,2,1918-01-01 00:00:00 UTC,1 Jan 1918,"Lempire Defenses, Lempire Defences","[3.04282, 49.93839]","",unit,"1st Bn Royal Dublin Fusiliers, 1st Royal Dublin Fusiliers","{""name""=>[""1st Bn Royal Dublin Fusiliers"", ""1st Royal Dublin Fusiliers""], ""context""=>[""relieved_by""]}",3003161,Lempire,"[3.17309, 49.99206]"
+8,AWD0003jdt,diary,680,2,1918-01-01 00:00:00 UTC,1 Jan 1918,"Lempire Defenses, Lempire Defences","[3.04282, 49.93839]","",domestic,accomodation,{},3003161,Lempire,"[3.17309, 49.99206]"
+9,AWD0003jdt,diary,680,3,1918-01-01 00:00:00 UTC,1 Jan 1918,"Lempire Defenses, Lempire Defences","[3.04282, 49.93839]","",activity,reserve,{},3003161,Lempire,"[3.17309, 49.99206]"
+10,AWD0003jdt,diary,680,3,1918-01-01 00:00:00 UTC,1 Jan 1918,"Lempire Defenses, Lempire Defences","[3.04282, 49.93839]","",place,Villers-Faucon,"{""place""=>[""Villers-Faucon""], ""location""=>[""false""], ""name""=>[""Villers-Faucon""], ""lat""=>[""49.97774""], ""long""=>[""3.10162""], ""id""=>[""2968390""]}",3003161,Lempire,"[3.17309, 49.99206]"
+11,AWD0003jdt,diary,680,5,1918-01-04 00:00:00 UTC,4 Jan 1918,"Lempire Defenses, Lempire Defences","[3.04282, 49.93839]","",diaryDate,4 Jan 1918,"{""day""=>[""4""], ""month""=>[""Jan""], ""year""=>[""1918""]}",3003161,Lempire,"[3.17309, 49.99206]"
+12,AWD0003jdt,diary,680,4,1918-01-04 00:00:00 UTC,4 Jan 1918,Villers-Faucon,"[3.10162, 49.97774]","",place,Villers-Faucon,"{""place""=>[""Villers-Faucon""], ""location""=>[""true""], ""name""=>[""Villers-Faucon""], ""lat""=>[""49.97774""], ""long""=>[""3.10162""], ""id""=>[""2968390""]}",2968390,"Villers-Faucon,","[3.10162, 49.97774]"
+13,AWD0003jdt,diary,680,3,1918-01-04 00:00:00 UTC,4 Jan 1918,Villers-Faucon,"[3.10162, 49.97774]","",activity,resting,{},2968390,"Villers-Faucon,","[3.10162, 49.97774]"
+16,AWD0003jdt,diary,680,4,1918-01-04 00:00:00 UTC,4 Jan 1918,Villers-Faucon,"[3.10162, 49.97774]","",activity,training,{},2968390,"Villers-Faucon,","[3.10162, 49.97774]"
+17,AWD0003jdt,diary,680,2,1918-01-04 00:00:00 UTC,4 Jan 1918,Villers-Faucon,"[3.10162, 49.97774]","",activity,enemy_activity,{},2968390,"Villers-Faucon,","[3.10162, 49.97774]"
+18,AWD0003jdt,diary,680,3,1918-01-04 00:00:00 UTC,4 Jan 1918,Villers-Faucon,"[3.10162, 49.97774]","",activity,fire,{},2968390,"Villers-Faucon,","[3.10162, 49.97774]"
+19,AWD0003jdt,diary,680,2,1918-01-04 00:00:00 UTC,4 Jan 1918,Villers-Faucon,"[3.10162, 49.97774]","",activity,attack,{},2968390,"Villers-Faucon,","[3.10162, 49.97774]"
+20,AWD0003jdt,diary,680,5,1918-01-10 00:00:00 UTC,10 Jan 1918,Villers-Faucon,"[3.10162, 49.97774]","",diaryDate,10 Jan 1918,"{""day""=>[""10""], ""month""=>[""Jan""], ""year""=>[""1918""]}",2968390,"Villers-Faucon,","[3.10162, 49.97774]"
+21,AWD0003jdt,diary,680,2,1918-01-10 00:00:00 UTC,10 Jan 1918,"Ste Emilie, Sainte Emilie","[0.0, 0.0]","",place,"Ste Emilie, Sainte Emilie","{""place""=>[""Ste Emilie"", ""Sainte Emilie""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+23,AWD0003jdt,diary,680,2,1918-01-10 00:00:00 UTC,10 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",place,"Saint Emelie, Sainte-Émelie","{""place""=>[""Saint Emelie"", ""Sainte-Émelie""], ""location""=>[""true""], ""name""=>[""Villers-Faucon"", """"], ""lat""=>[""49.97774"", """"], ""long""=>[""3.10162"", """"], ""id""=>[""2968390"", """"]}",3020077,Épehy,"[3.13333, 50.0]"
+24,AWD0003jdt,diary,680,3,1918-01-10 00:00:00 UTC,10 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",activity,movement,{},3020077,Épehy,"[3.13333, 50.0]"
+25,AWD0003jdt,diary,680,4,1918-01-10 00:00:00 UTC,10 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",activity,reserve,{},3020077,Épehy,"[3.13333, 50.0]"
+26,AWD0003jdt,diary,680,3,1918-01-10 00:00:00 UTC,10 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",place,"Saint Emelie, Sainte Emilie, Sainte-Émelie","{""place""=>[""Saint Emelie"", ""Sainte Emilie"", ""Sainte-Émelie""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3020077,Épehy,"[3.13333, 50.0]"
+31,AWD0003jdt,diary,680,4,1918-01-10 00:00:00 UTC,10 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",gridRef,E 23 b 8 4,{},3020077,Épehy,"[3.13333, 50.0]"
+32,AWD0003jdt,diary,680,4,1918-01-10 00:00:00 UTC,10 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",gridRef,E 24 a 4 6,{},3020077,Épehy,"[3.13333, 50.0]"
+33,AWD0003jdt,diary,680,4,1918-01-10 00:00:00 UTC,10 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",gridRef,E 24 a 4 7,{},3020077,Épehy,"[3.13333, 50.0]"
+36,AWD0003jdt,diary,680,2,1918-01-10 00:00:00 UTC,10 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",domestic,accomodation,{},3020077,Épehy,"[3.13333, 50.0]"
+37,AWD0003jdt,diary,680,4,1918-01-10 00:00:00 UTC,10 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",activity,training,{},3020077,Épehy,"[3.13333, 50.0]"
+38,AWD0003jdt,diary,680,4,1918-01-10 00:00:00 UTC,10 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",activity,working,{},3020077,Épehy,"[3.13333, 50.0]"
+39,AWD0003jdt,diary,680,2,1918-01-10 00:00:00 UTC,10 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",activity,attack,{},3020077,Épehy,"[3.13333, 50.0]"
+40,AWD0003jdt,diary,680,4,1918-01-16 00:00:00 UTC,16 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",diaryDate,16 Jan 1918,"{""day""=>[""16""], ""month""=>[""Jan""], ""year""=>[""1918""]}",3020077,Épehy,"[3.13333, 50.0]"
+41,AWD0003jdt,diary,680,4,1918-01-16 00:00:00 UTC,16 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",person,Major R G Kerr,"{""first""=>[""R G""], ""surname""=>[""Kerr""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",3020077,Épehy,"[3.13333, 50.0]"
+1,AWD0003jdk,diary,681,3,1918-01-16 00:00:00 UTC,16 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",diaryDate,16 Jan 1918,"{""day""=>[""16""], ""month""=>[""Jan""], ""year""=>[""1918""]}",3020077,Épehy,"[3.13333, 50.0]"
+3,AWD0003jdk,diary,681,2,1918-01-16 00:00:00 UTC,16 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",activity,line,{},3020077,Épehy,"[3.13333, 50.0]"
+4,AWD0003jdk,diary,681,2,1918-01-16 00:00:00 UTC,16 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",unit,7th Royal Irish Regiment,"{""name""=>[""7th Royal Irish Regiment""], ""context""=>[""relieved""]}",3020077,Épehy,"[3.13333, 50.0]"
+7,AWD0003jdk,diary,681,4,1918-01-16 00:00:00 UTC,16 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",place,Grafton Post,"{""place""=>[""Grafton Post""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3020077,Épehy,"[3.13333, 50.0]"
+8,AWD0003jdk,diary,681,4,1918-01-16 00:00:00 UTC,16 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",gridRef,F 10 c 4 6,{},3020077,Épehy,"[3.13333, 50.0]"
+9,AWD0003jdk,diary,681,3,1918-01-16 00:00:00 UTC,16 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",place,Sandbag Alley,"{""place""=>[""Sandbag Alley""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3020077,Épehy,"[3.13333, 50.0]"
+10,AWD0003jdk,diary,681,2,1918-01-16 00:00:00 UTC,16 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",place,Nest Post,"{""place""=>[""Nest Post""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3020077,Épehy,"[3.13333, 50.0]"
+12,AWD0003jdk,diary,681,3,1918-01-16 00:00:00 UTC,16 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",place,Yak Post,"{""place""=>[""Yak Post""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3020077,Épehy,"[3.13333, 50.0]"
+14,AWD0003jdk,diary,681,4,1918-01-16 00:00:00 UTC,16 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",place,Zebra Post,"{""place""=>[""Zebra Post""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3020077,Épehy,"[3.13333, 50.0]"
+15,AWD0003jdk,diary,681,4,1918-01-16 00:00:00 UTC,16 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",place,Heythrop Post,"{""place""=>[""Heythrop Post""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3020077,Épehy,"[3.13333, 50.0]"
+16,AWD0003jdk,diary,681,4,1918-01-16 00:00:00 UTC,16 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",place,Heythrop Lane,"{""place""=>[""Heythrop Lane""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3020077,Épehy,"[3.13333, 50.0]"
+17,AWD0003jdk,diary,681,5,1918-01-17 00:00:00 UTC,17 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",diaryDate,17 Jan 1918,"{""day""=>[""17""], ""month""=>[""Jan""], ""year""=>[""1918""]}",3020077,Épehy,"[3.13333, 50.0]"
+20,AWD0003jdk,diary,681,3,1918-01-17 15:50:00 UTC,17 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]",0350PM,time,0350PM,{},3020077,Épehy,"[3.13333, 50.0]"
+21,AWD0003jdk,diary,681,4,1918-01-17 15:50:00 UTC,17 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]",0350PM,activity,fire,{},3020077,Épehy,"[3.13333, 50.0]"
+22,AWD0003jdk,diary,681,4,1918-01-17 15:50:00 UTC,17 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]",0350PM,place,Heythrop Post,"{""place""=>[""Heythrop Post""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3020077,Épehy,"[3.13333, 50.0]"
+23,AWD0003jdk,diary,681,3,1918-01-17 15:50:00 UTC,17 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]",0350PM,activity,enemy_activity,{},3020077,Épehy,"[3.13333, 50.0]"
+24,AWD0003jdk,diary,681,3,1918-01-17 15:50:00 UTC,17 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]",0350PM,activity,attack,{},3020077,Épehy,"[3.13333, 50.0]"
+25,AWD0003jdk,diary,681,4,1918-01-17 15:50:00 UTC,17 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]",0350PM,casualties,"killed: 1, wounded: 7, missing: 7",{},3020077,Épehy,"[3.13333, 50.0]"
+27,AWD0003jdk,diary,681,4,1918-01-18 00:00:00 UTC,18 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",diaryDate,18 Jan 1918,"{""day""=>[""18""], ""month""=>[""Jan""], ""year""=>[""1918""]}",3020077,Épehy,"[3.13333, 50.0]"
+30,AWD0003jdk,diary,681,4,1918-01-20 00:00:00 UTC,20 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",diaryDate,20 Jan 1918,"{""day""=>[""20""], ""month""=>[""Jan""], ""year""=>[""1918""]}",3020077,Épehy,"[3.13333, 50.0]"
+34,AWD0003jdk,diary,681,4,1918-01-20 00:00:00 UTC,20 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",place,Heythrop Post,"{""place""=>[""Heythrop Post""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3020077,Épehy,"[3.13333, 50.0]"
+35,AWD0003jdk,diary,681,2,1918-01-20 00:00:00 UTC,20 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",place,Nest Post,"{""place""=>[""Nest Post""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3020077,Épehy,"[3.13333, 50.0]"
+37,AWD0003jdk,diary,681,4,1918-01-22 00:00:00 UTC,22 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",diaryDate,22 Jan 1918,"{""day""=>[""22""], ""month""=>[""Jan""], ""year""=>[""1918""]}",3020077,Épehy,"[3.13333, 50.0]"
+39,AWD0003jdk,diary,681,2,1918-01-22 00:00:00 UTC,22 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",unit,7th Royal Irish Regiment,"{""name""=>[""7th Royal Irish Regiment""], ""context""=>[""relieved_by""]}",3020077,Épehy,"[3.13333, 50.0]"
+41,AWD0003jdk,diary,681,3,1918-01-22 00:00:00 UTC,22 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",activity,movement,{},3020077,Épehy,"[3.13333, 50.0]"
+42,AWD0003jdk,diary,681,4,1918-01-22 00:00:00 UTC,22 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",activity,support,{},3020077,Épehy,"[3.13333, 50.0]"
+43,AWD0003jdk,diary,681,2,1918-01-22 00:00:00 UTC,22 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",place,"Lempire Epehy Ridge, Lempire-Epeny Ridge","{""place""=>[""Lempire Epehy Ridge"", ""Lempire-Epeny Ridge""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3020077,Épehy,"[3.13333, 50.0]"
+46,AWD0003jdk,diary,681,4,1918-01-22 00:00:00 UTC,22 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",person,Major R G Kerr,"{""first""=>[""R G""], ""surname""=>[""Kerr""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",3020077,Épehy,"[3.13333, 50.0]"
+1,AWD0003jd1,diary,682,4,1918-01-22 00:00:00 UTC,22 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",diaryDate,22 Jan 1918,"{""day""=>[""22""], ""month""=>[""Jan""], ""year""=>[""1918""]}",3020077,Épehy,"[3.13333, 50.0]"
+2,AWD0003jd1,diary,682,2,1918-01-22 00:00:00 UTC,22 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",activity,support,{},3020077,Épehy,"[3.13333, 50.0]"
+6,AWD0003jd1,diary,682,4,1918-01-23 00:00:00 UTC,23 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",diaryDate,23 Jan 1918,"{""day""=>[""23""], ""month""=>[""Jan""], ""year""=>[""1918""]}",3020077,Épehy,"[3.13333, 50.0]"
+7,AWD0003jd1,diary,682,4,1918-01-23 00:00:00 UTC,23 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",activity,support,{},3020077,Épehy,"[3.13333, 50.0]"
+8,AWD0003jd1,diary,682,4,1918-01-23 00:00:00 UTC,23 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",gridRef,F 15 b 1 3,{},3020077,Épehy,"[3.13333, 50.0]"
+10,AWD0003jd1,diary,682,2,1918-01-23 00:00:00 UTC,23 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",gridRef,F 2 c,{},3020077,Épehy,"[3.13333, 50.0]"
+11,AWD0003jd1,diary,682,3,1918-01-23 00:00:00 UTC,23 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",place,Malassise Farm,"{""place""=>[""Malassise Farm""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3020077,Épehy,"[3.13333, 50.0]"
+12,AWD0003jd1,diary,682,3,1918-01-23 00:00:00 UTC,23 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",place,Lempire,"{""place""=>[""Lempire""], ""location""=>[""false""], ""name""=>[""Lempire""], ""lat""=>[""49.99206""], ""long""=>[""3.17309""], ""id""=>[""3003161""]}",3020077,Épehy,"[3.13333, 50.0]"
+13,AWD0003jd1,diary,682,4,1918-01-23 00:00:00 UTC,23 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",activity,resting,{},3020077,Épehy,"[3.13333, 50.0]"
+14,AWD0003jd1,diary,682,4,1918-01-23 00:00:00 UTC,23 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",activity,working,{},3020077,Épehy,"[3.13333, 50.0]"
+15,AWD0003jd1,diary,682,4,1918-01-23 00:00:00 UTC,23 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",activity,repair,{},3020077,Épehy,"[3.13333, 50.0]"
+16,AWD0003jd1,diary,682,5,1918-01-28 00:00:00 UTC,28 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",diaryDate,28 Jan 1918,"{""day""=>[""28""], ""month""=>[""Jan""], ""year""=>[""1918""]}",3020077,Épehy,"[3.13333, 50.0]"
+17,AWD0003jd1,diary,682,2,1918-01-28 00:00:00 UTC,28 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",activity,line,{},3020077,Épehy,"[3.13333, 50.0]"
+19,AWD0003jd1,diary,682,3,1918-01-28 00:00:00 UTC,28 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",activity,line,{},3020077,Épehy,"[3.13333, 50.0]"
+21,AWD0003jd1,diary,682,2,1918-01-28 00:00:00 UTC,28 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",unit,7th Royal Irish Regiment,"{""name""=>[""7th Royal Irish Regiment""], ""context""=>[""relieved""]}",3020077,Épehy,"[3.13333, 50.0]"
+22,AWD0003jd1,diary,682,4,1918-01-28 00:00:00 UTC,28 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",gridRef,F 10 c 4 6,{},3020077,Épehy,"[3.13333, 50.0]"
+23,AWD0003jd1,diary,682,3,1918-01-28 00:00:00 UTC,28 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",place,Heythrop Post,"{""place""=>[""Heythrop Post""], ""location""=>[""false""], ""name""=>[""Lempire""], ""lat""=>[""49.99206""], ""long""=>[""3.17309""], ""id""=>[""3003161""]}",3020077,Épehy,"[3.13333, 50.0]"
+24,AWD0003jd1,diary,682,3,1918-01-28 00:00:00 UTC,28 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",place,Heythrop Lane,"{""place""=>[""Heythrop Lane""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3020077,Épehy,"[3.13333, 50.0]"
+25,AWD0003jd1,diary,682,3,1918-01-28 00:00:00 UTC,28 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",place,Grafton Post,"{""place""=>[""Grafton Post""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3020077,Épehy,"[3.13333, 50.0]"
+27,AWD0003jd1,diary,682,3,1918-01-28 00:00:00 UTC,28 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",place,Yak Post,"{""place""=>[""Yak Post""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3020077,Épehy,"[3.13333, 50.0]"
+28,AWD0003jd1,diary,682,3,1918-01-28 00:00:00 UTC,28 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",place,Zebra Post,"{""place""=>[""Zebra Post""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3020077,Épehy,"[3.13333, 50.0]"
+29,AWD0003jd1,diary,682,3,1918-01-28 00:00:00 UTC,28 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",place,Sandbag Alley,"{""place""=>[""Sandbag Alley""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3020077,Épehy,"[3.13333, 50.0]"
+30,AWD0003jd1,diary,682,2,1918-01-28 00:00:00 UTC,28 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",place,"Nest , The Nest","{""place""=>[""Nest "", ""The Nest""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3020077,Épehy,"[3.13333, 50.0]"
+31,AWD0003jd1,diary,682,3,1918-01-28 00:00:00 UTC,28 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",person,Major R G Kerr,"{""first""=>[""R G""], ""surname""=>[""Kerr""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",3020077,Épehy,"[3.13333, 50.0]"
+1,AWD0003jab,diary,683,4,1918-01-31 00:00:00 UTC,31 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",diaryDate,31 Jan 1918,"{""day""=>[""31""], ""month""=>[""Jan""], ""year""=>[""1918""]}",3020077,Épehy,"[3.13333, 50.0]"
+2,AWD0003jab,diary,683,4,1918-01-31 00:00:00 UTC,31 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",activity,line,{},3020077,Épehy,"[3.13333, 50.0]"
+3,AWD0003jab,diary,683,3,1918-01-31 00:00:00 UTC,31 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",activity,quiet,{},3020077,Épehy,"[3.13333, 50.0]"
+4,AWD0003jab,diary,683,4,1918-01-31 00:00:00 UTC,31 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",activity,repair,{},3020077,Épehy,"[3.13333, 50.0]"
+6,AWD0003jab,diary,683,2,1918-01-09 00:00:00 UTC,9 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",diaryDate,9 Jan 1918,"{""day""=>[""9""], ""month""=>[""Jan""], ""year""=>[""1918""]}",3020077,Épehy,"[3.13333, 50.0]"
+7,AWD0003jab,diary,683,4,1918-01-09 00:00:00 UTC,9 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",person,Captain L W P Yates,"{""first""=>[""L W P""], ""surname""=>[""Yates""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",3020077,Épehy,"[3.13333, 50.0]"
+8,AWD0003jab,diary,683,2,1918-01-13 00:00:00 UTC,13 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",diaryDate,13 Jan 1918,"{""day""=>[""13""], ""month""=>[""Jan""], ""year""=>[""1918""]}",3020077,Épehy,"[3.13333, 50.0]"
+9,AWD0003jab,diary,683,4,1918-01-13 00:00:00 UTC,13 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",person,Major R G Kerr,"{""first""=>[""R G""], ""surname""=>[""Kerr""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""returned_hospital""], ""unit""=>[""""]}",3020077,Épehy,"[3.13333, 50.0]"
+11,AWD0003jab,diary,683,2,1918-01-05 00:00:00 UTC,5 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",diaryDate,5 Jan 1918,"{""day""=>[""5""], ""month""=>[""Jan""], ""year""=>[""1918""]}",3020077,Épehy,"[3.13333, 50.0]"
+12,AWD0003jab,diary,683,4,1918-01-05 00:00:00 UTC,5 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",person,Second Lieutenant J Daly,"{""first""=>[""J""], ""surname""=>[""Daly""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",3020077,Épehy,"[3.13333, 50.0]"
+13,AWD0003jab,diary,683,2,1918-01-05 00:00:00 UTC,5 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",diaryDate,5 Jan 1918,"{""day""=>[""5""], ""month""=>[""Jan""], ""year""=>[""1918""]}",3020077,Épehy,"[3.13333, 50.0]"
+14,AWD0003jab,diary,683,4,1918-01-05 00:00:00 UTC,5 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",person,Captain C H Stainforth,"{""first""=>[""C H""], ""surname""=>[""Stainforth""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""departed_sick""], ""unit""=>[""""]}",3020077,Épehy,"[3.13333, 50.0]"
+17,AWD0003jab,diary,683,4,1918-01-05 00:00:00 UTC,5 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",person,Second Lieutenant R A E Lindop,"{""first""=>[""R A E""], ""surname""=>[""Lindop""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_sick""], ""unit""=>[""""]}",3020077,Épehy,"[3.13333, 50.0]"
+21,AWD0003jab,diary,683,4,1918-01-05 00:00:00 UTC,5 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",person,Lieutenant G Hawkesley,"{""first""=>[""G""], ""surname""=>[""Hawkesley""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_sick""], ""unit""=>[""""]}",3020077,Épehy,"[3.13333, 50.0]"
+25,AWD0003jab,diary,683,4,1918-01-05 00:00:00 UTC,5 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",person,Lieutenant J R McIlroy,"{""first""=>[""J R""], ""surname""=>[""McIlroy""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_sick""], ""unit""=>[""""]}",3020077,Épehy,"[3.13333, 50.0]"
+26,AWD0003jab,diary,683,2,1918-01-05 00:00:00 UTC,5 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",person,"Major R G KERR, Kerr","{""first""=>[""R G""], ""surname""=>[""KERR"", ""Kerr""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>["""", ""7/8th Battalion Royal Inniskilling Fusiliers""]}",3020077,Épehy,"[3.13333, 50.0]"
+1,AWD0003jc2,report,684,3,,,,[],,date,17 Jan 1918,{},,,
+9,AWD0003jdz,report,685,4,,,,[],,person,Captain A H Robbins,"{""first""=>[""A H""], ""surname""=>[""Robbins""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+10,AWD0003jdz,report,685,2,,,,[],,date,17 Jan 1918,{},,,
+3,AWD0003jbo,report,686,2,,,,[],,date,17 Jan 1918,{},,,
+5,AWD0003jbo,report,686,2,,,,[],,date,17 Jan 1918,{},,,
+6,AWD0003jbo,report,686,4,,,,[],,person,"Lieutenant Colonel K C,R K C Weldon","{""first""=>[""K C"", ""R K C""], ""surname""=>[""Weldon""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+4,AWD0003je1,report,688,5,,,,[],,person,Captain A H Robbins,"{""first""=>[""A H""], ""surname""=>[""Robbins""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+5,AWD0003je1,report,688,4,,,,[],,date,17 Jan 1918,{},,,
+3,AWD0003ja1,report,689,2,,,,[],,person,"Captain A H Robbins, ROBBINS","{""first""=>[""A H""], ""surname""=>[""Robbins"", ""ROBBINS""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""7/8th R. Innis Fus."", """"]}",,,
+1,AWD0003jci,diary,692,4,1918-02-01 00:00:00 UTC,1 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",diaryDate,1 Feb 1918,"{""day""=>[""1""], ""month""=>[""Feb""], ""year""=>[""1918""]}",3020077,Épehy,"[3.13333, 50.0]"
+2,AWD0003jci,diary,692,4,1918-02-01 00:00:00 UTC,1 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",activity,line,{},3020077,Épehy,"[3.13333, 50.0]"
+3,AWD0003jci,diary,692,4,1918-02-01 00:00:00 UTC,1 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",activity,quiet,{},3020077,Épehy,"[3.13333, 50.0]"
+5,AWD0003jci,diary,692,2,1918-02-03 00:00:00 UTC,3 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",diaryDate,3 Feb 1918,"{""day""=>[""3""], ""month""=>[""Feb""], ""year""=>[""1918""]}",3020077,Épehy,"[3.13333, 50.0]"
+6,AWD0003jci,diary,692,2,1918-02-02 00:00:00 UTC,2 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",diaryDate,2 Feb 1918,"{""day""=>[""2""], ""month""=>[""Feb""], ""year""=>[""1918""]}",3020077,Épehy,"[3.13333, 50.0]"
+9,AWD0003jci,diary,692,2,1918-02-02 00:00:00 UTC,2 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",unit,"8th/9th Royal Dublin Fusiliers, 9th Royal Dublin Fusiliers","{""name""=>[""8th/9th Royal Dublin Fusiliers"", ""9th Royal Dublin Fusiliers""], ""context""=>[""relieved_by""]}",3020077,Épehy,"[3.13333, 50.0]"
+10,AWD0003jci,diary,692,4,1918-02-02 00:00:00 UTC,2 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",activity,movement,{},3020077,Épehy,"[3.13333, 50.0]"
+11,AWD0003jci,diary,692,4,1918-02-02 00:00:00 UTC,2 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",place,Hamel,"{""place""=>[""Hamel""], ""location""=>[""false""], ""name""=>[""Hamel"", """"], ""lat""=>[""50.27945"", """"], ""long""=>[""3.07423"", """"], ""id""=>[""3014019"", """"]}",3020077,Épehy,"[3.13333, 50.0]"
+12,AWD0003jci,diary,692,3,1918-02-03 00:00:00 UTC,3 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",diaryDate,3 Feb 1918,"{""day""=>[""3""], ""month""=>[""Feb""], ""year""=>[""1918""]}",3020077,Épehy,"[3.13333, 50.0]"
+13,AWD0003jci,diary,692,2,1918-02-03 00:00:00 UTC,3 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",activity,reserve,{},3020077,Épehy,"[3.13333, 50.0]"
+14,AWD0003jci,diary,692,4,1918-02-03 00:00:00 UTC,3 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",activity,resting,{},3020077,Épehy,"[3.13333, 50.0]"
+15,AWD0003jci,diary,692,4,1918-02-03 00:00:00 UTC,3 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",activity,training,{},3020077,Épehy,"[3.13333, 50.0]"
+16,AWD0003jci,diary,692,4,1918-02-03 00:00:00 UTC,3 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",activity,movement,{},3020077,Épehy,"[3.13333, 50.0]"
+17,AWD0003jci,diary,692,4,1918-02-03 00:00:00 UTC,3 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",place,Villers-Faucon,"{""place""=>[""Villers-Faucon""], ""location""=>[""false""], ""name""=>[""Villers-Faucon""], ""lat""=>[""49.97774""], ""long""=>[""3.10162""], ""id""=>[""2968390""]}",3020077,Épehy,"[3.13333, 50.0]"
+18,AWD0003jci,diary,692,5,1918-02-07 00:00:00 UTC,7 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",diaryDate,7 Feb 1918,"{""day""=>[""7""], ""month""=>[""Feb""], ""year""=>[""1918""]}",3020077,Épehy,"[3.13333, 50.0]"
+22,AWD0003jci,diary,692,4,1918-02-07 00:00:00 UTC,7 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",activity,movement,{},3020077,Épehy,"[3.13333, 50.0]"
+23,AWD0003jci,diary,692,4,1918-02-07 00:00:00 UTC,7 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",place,Villers-Faucon,"{""place""=>[""Villers-Faucon""], ""location""=>[""false""], ""name""=>[""Villers-Faucon""], ""lat""=>[""49.97774""], ""long""=>[""3.10162""], ""id""=>[""2968390""]}",3020077,Épehy,"[3.13333, 50.0]"
+24,AWD0003jci,diary,692,4,1918-02-07 00:00:00 UTC,7 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",activity,working,{},3020077,Épehy,"[3.13333, 50.0]"
+25,AWD0003jci,diary,692,2,1918-02-07 00:00:00 UTC,7 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",activity,repair,{},3020077,Épehy,"[3.13333, 50.0]"
+26,AWD0003jci,diary,692,3,1918-02-14 00:00:00 UTC,14 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",diaryDate,14 Feb 1918,"{""day""=>[""14""], ""month""=>[""Feb""], ""year""=>[""1918""]}",3020077,Épehy,"[3.13333, 50.0]"
+28,AWD0003jci,diary,692,3,1918-02-14 00:00:00 UTC,14 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",activity,movement,{},3020077,Épehy,"[3.13333, 50.0]"
+29,AWD0003jci,diary,692,4,1918-02-14 00:00:00 UTC,14 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",activity,reserve,{},3020077,Épehy,"[3.13333, 50.0]"
+30,AWD0003jci,diary,692,4,1918-02-14 00:00:00 UTC,14 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",place,Saulcourt,"{""place""=>[""Saulcourt""], ""location""=>[""false""], ""name""=>["""", ""Guyencourt-Saulcourt""], ""lat""=>["""", ""49.99998""], ""long""=>["""", ""3.07976""], ""id""=>["""", ""3014138""]}",3020077,Épehy,"[3.13333, 50.0]"
+31,AWD0003jci,diary,692,4,1918-02-14 00:00:00 UTC,14 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",place,Epehy,"{""place""=>[""Epehy""], ""location""=>[""false""], ""name""=>[""Épehy""], ""lat""=>[""50""], ""long""=>[""3.13333""], ""id""=>[""3020077""]}",3020077,Épehy,"[3.13333, 50.0]"
+33,AWD0003jci,diary,692,2,1918-02-14 00:00:00 UTC,14 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",unit,"1st East Yorks Regt, East Yorks Regt","{""name""=>[""1st East Yorks Regt"", ""East Yorks Regt""], ""context""=>[""relieved"", ""other""]}",3020077,Épehy,"[3.13333, 50.0]"
+38,AWD0003jci,diary,692,3,1918-02-14 00:00:00 UTC,14 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",activity,working,{},3020077,Épehy,"[3.13333, 50.0]"
+39,AWD0003jci,diary,692,3,1918-02-14 00:00:00 UTC,14 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",activity,repair,{},3020077,Épehy,"[3.13333, 50.0]"
+40,AWD0003jci,diary,692,3,1918-02-18 00:00:00 UTC,18 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",diaryDate,18 Feb 1918,"{""day""=>[""18""], ""month""=>[""Feb""], ""year""=>[""1918""]}",3020077,Épehy,"[3.13333, 50.0]"
+1,AWD0003jbm,diary,693,2,1918-02-08 00:00:00 UTC,8 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",diaryDate,8 Feb 1918,"{""day""=>[""8""], ""month""=>[""Feb""], ""year""=>[""1918""]}",3020077,Épehy,"[3.13333, 50.0]"
+2,AWD0003jbm,diary,693,5,1918-02-08 00:00:00 UTC,8 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",person,Major J S Crothers,"{""first""=>[""J S""], ""surname""=>[""Crothers""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",3020077,Épehy,"[3.13333, 50.0]"
+3,AWD0003jbm,diary,693,2,1918-02-09 00:00:00 UTC,9 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",diaryDate,9 Feb 1918,"{""day""=>[""9""], ""month""=>[""Feb""], ""year""=>[""1918""]}",3020077,Épehy,"[3.13333, 50.0]"
+4,AWD0003jbm,diary,693,2,1918-02-09 00:00:00 UTC,9 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",unit,7th/8th Royal Irish Fusiliers,"{""name""=>[""7th/8th Royal Irish Fusiliers""], ""context""=>[""other""]}",3020077,Épehy,"[3.13333, 50.0]"
+5,AWD0003jbm,diary,693,5,1918-02-09 00:00:00 UTC,9 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",person,Captain H G Groombridge,"{""first""=>[""H G""], ""surname""=>[""Groombridge""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",3020077,Épehy,"[3.13333, 50.0]"
+6,AWD0003jbm,diary,693,2,1918-02-12 00:00:00 UTC,12 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",diaryDate,12 Feb 1918,"{""day""=>[""12""], ""month""=>[""Feb""], ""year""=>[""1918""]}",3020077,Épehy,"[3.13333, 50.0]"
+7,AWD0003jbm,diary,693,4,1918-02-12 00:00:00 UTC,12 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",person,Captain C H Stainforth,"{""first""=>[""C H""], ""surname""=>[""Stainforth""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""returned_hospital""], ""unit""=>[""""]}",3020077,Épehy,"[3.13333, 50.0]"
+8,AWD0003jbm,diary,693,2,1918-02-17 00:00:00 UTC,17 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",diaryDate,17 Feb 1918,"{""day""=>[""17""], ""month""=>[""Feb""], ""year""=>[""1918""]}",3020077,Épehy,"[3.13333, 50.0]"
+9,AWD0003jbm,diary,693,4,1918-02-17 00:00:00 UTC,17 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",person,Lieutenant J R McIlroy,"{""first""=>[""J R""], ""surname""=>[""McIlroy""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""returned_hospital""], ""unit""=>[""""]}",3020077,Épehy,"[3.13333, 50.0]"
+10,AWD0003jbm,diary,693,2,1918-02-14 00:00:00 UTC,14 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",diaryDate,14 Feb 1918,"{""day""=>[""14""], ""month""=>[""Feb""], ""year""=>[""1918""]}",3020077,Épehy,"[3.13333, 50.0]"
+11,AWD0003jbm,diary,693,4,1918-02-14 00:00:00 UTC,14 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",person,Sergeant A Conway,"{""first""=>[""A""], ""surname""=>[""Conway""], ""rank""=>[""Sergeant""], ""number""=>[""3230""], ""reason""=>[""award""], ""unit""=>[""""]}",3020077,Épehy,"[3.13333, 50.0]"
+12,AWD0003jbm,diary,693,4,1918-02-14 00:00:00 UTC,14 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",person,Captain H A Green,"{""first""=>[""H A""], ""surname""=>[""Green""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""departed_leave"", ""departed_sick""], ""unit""=>[""""]}",3020077,Épehy,"[3.13333, 50.0]"
+13,AWD0003jbm,diary,693,2,1918-02-15 00:00:00 UTC,15 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",diaryDate,15 Feb 1918,"{""day""=>[""15""], ""month""=>[""Feb""], ""year""=>[""1918""]}",3020077,Épehy,"[3.13333, 50.0]"
+14,AWD0003jbm,diary,693,4,1918-02-15 00:00:00 UTC,15 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",person,Lieutenant C W Fawkes,"{""first""=>[""C W""], ""surname""=>[""Fawkes""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_leave"", ""departed_sick""], ""unit""=>[""""]}",3020077,Épehy,"[3.13333, 50.0]"
+15,AWD0003jbm,diary,693,4,1918-02-15 00:00:00 UTC,15 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",person,Sergeant P McTaggart,"{""first""=>[""P""], ""surname""=>[""McTaggart""], ""rank""=>[""Sergeant""], ""number""=>[""24456""], ""reason""=>[""award""], ""unit""=>[""""]}",3020077,Épehy,"[3.13333, 50.0]"
+16,AWD0003jbm,diary,693,2,1918-02-16 00:00:00 UTC,16 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",diaryDate,16 Feb 1918,"{""day""=>[""16""], ""month""=>[""Feb""], ""year""=>[""1918""]}",3020077,Épehy,"[3.13333, 50.0]"
+17,AWD0003jbm,diary,693,4,1918-02-16 00:00:00 UTC,16 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",person,Captain C H Stainforth,"{""first""=>[""C H""], ""surname""=>[""Stainforth""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""departed_posted""], ""unit""=>[""1st Royal Munster Fusiliers""]}",3020077,Épehy,"[3.13333, 50.0]"
+19,AWD0003jbm,diary,693,2,1918-02-19 00:00:00 UTC,19 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",diaryDate,19 Feb 1918,"{""day""=>[""19""], ""month""=>[""Feb""], ""year""=>[""1918""]}",3020077,Épehy,"[3.13333, 50.0]"
+20,AWD0003jbm,diary,693,4,1918-02-19 00:00:00 UTC,19 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",person,Lieutenant C J Metcalfe,"{""first""=>[""C J""], ""surname""=>[""Metcalfe""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_posted""], ""unit""=>[""Indian Army""]}",3020077,Épehy,"[3.13333, 50.0]"
+22,AWD0003jbm,diary,693,2,1918-02-22 00:00:00 UTC,22 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",diaryDate,22 Feb 1918,"{""day""=>[""22""], ""month""=>[""Feb""], ""year""=>[""1918""]}",3020077,Épehy,"[3.13333, 50.0]"
+23,AWD0003jbm,diary,693,4,1918-02-22 00:00:00 UTC,22 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",person,Lieutenant W G Groombridge,"{""first""=>[""W G""], ""surname""=>[""Groombridge""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_leave"", ""departed_sick""], ""unit""=>[""""]}",3020077,Épehy,"[3.13333, 50.0]"
+24,AWD0003jbm,diary,693,2,1918-01-29 00:00:00 UTC,29 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",diaryDate,29 Jan 1918,"{""day""=>[""29""], ""month""=>[""Jan""], ""year""=>[""1918""]}",3020077,Épehy,"[3.13333, 50.0]"
+25,AWD0003jbm,diary,693,4,1918-01-29 00:00:00 UTC,29 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",person,Second Lieutenant E Illingworth,"{""first""=>[""E""], ""surname""=>[""Illingworth""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_sick""], ""unit""=>[""""]}",3020077,Épehy,"[3.13333, 50.0]"
+26,AWD0003jbm,diary,693,2,1918-01-29 00:00:00 UTC,29 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",casualties,wounded: 1,{},3020077,Épehy,"[3.13333, 50.0]"
+27,AWD0003jbm,diary,693,2,1918-01-29 00:00:00 UTC,29 Jan 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",person,"Lieutenant Colonel A J WALKEY, Walkey","{""first""=>[""A J""], ""surname""=>[""WALKEY"", ""Walkey""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>["""", ""7/8th Battalion Royal Inniskilling Fusiliers""]}",3020077,Épehy,"[3.13333, 50.0]"
+1,AWD0003jdc,diary,694,3,1918-02-18 00:00:00 UTC,18 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",diaryDate,18 Feb 1918,"{""day""=>[""18""], ""month""=>[""Feb""], ""year""=>[""1918""]}",3020077,Épehy,"[3.13333, 50.0]"
+3,AWD0003jdc,diary,694,2,1918-02-18 00:00:00 UTC,18 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",activity,line,{},3020077,Épehy,"[3.13333, 50.0]"
+4,AWD0003jdc,diary,694,2,1918-02-18 00:00:00 UTC,18 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",unit,"2nd Bn Royal Irish Regt, 2nd Bn. Royal Irish Regt","{""name""=>[""2nd Bn Royal Irish Regt"", ""2nd Bn. Royal Irish Regt""], ""context""=>[""relieved""]}",3020077,Épehy,"[3.13333, 50.0]"
+7,AWD0003jdc,diary,694,2,1918-02-18 00:00:00 UTC,18 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",activity,line,{},3020077,Épehy,"[3.13333, 50.0]"
+10,AWD0003jdc,diary,694,4,1918-02-18 00:00:00 UTC,18 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",activity,reconnoitered,{},3020077,Épehy,"[3.13333, 50.0]"
+11,AWD0003jdc,diary,694,4,1918-02-20 00:00:00 UTC,20 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",diaryDate,20 Feb 1918,"{""day""=>[""20""], ""month""=>[""Feb""], ""year""=>[""1918""]}",3020077,Épehy,"[3.13333, 50.0]"
+12,AWD0003jdc,diary,694,2,1918-02-20 04:45:00 UTC,20 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]",0445AM,time,0445AM,{},3020077,Épehy,"[3.13333, 50.0]"
+14,AWD0003jdc,diary,694,3,1918-02-20 04:45:00 UTC,20 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]",0445AM,activity,attack,{},3020077,Épehy,"[3.13333, 50.0]"
+16,AWD0003jdc,diary,694,3,1918-02-22 00:00:00 UTC,22 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",diaryDate,22 Feb 1918,"{""day""=>[""22""], ""month""=>[""Feb""], ""year""=>[""1918""]}",3020077,Épehy,"[3.13333, 50.0]"
+20,AWD0003jdc,diary,694,3,1918-02-26 00:00:00 UTC,26 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",diaryDate,26 Feb 1918,"{""day""=>[""26""], ""month""=>[""Feb""], ""year""=>[""1918""]}",3020077,Épehy,"[3.13333, 50.0]"
+26,AWD0003jdc,diary,694,4,1918-02-26 00:00:00 UTC,26 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",activity,movement,{},3020077,Épehy,"[3.13333, 50.0]"
+27,AWD0003jdc,diary,694,3,1918-02-26 00:00:00 UTC,26 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",activity,support,{},3020077,Épehy,"[3.13333, 50.0]"
+28,AWD0003jdc,diary,694,4,1918-02-26 00:00:00 UTC,26 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",place,Epehy,"{""place""=>[""Epehy""], ""location""=>[""false""], ""name""=>[""Épehy""], ""lat""=>[""50""], ""long""=>[""3.13333""], ""id""=>[""3020077""]}",3020077,Épehy,"[3.13333, 50.0]"
+29,AWD0003jdc,diary,694,3,1918-02-26 00:00:00 UTC,26 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",activity,reserve,{},3020077,Épehy,"[3.13333, 50.0]"
+31,AWD0003jdc,diary,694,4,1918-02-26 00:00:00 UTC,26 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",activity,working,{},3020077,Épehy,"[3.13333, 50.0]"
+32,AWD0003jdc,diary,694,3,1918-02-26 00:00:00 UTC,26 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",activity,repair,{},3020077,Épehy,"[3.13333, 50.0]"
+33,AWD0003jdc,diary,694,3,1918-02-28 00:00:00 UTC,28 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",diaryDate,28 Feb 1918,"{""day""=>[""28""], ""month""=>[""Feb""], ""year""=>[""1918""]}",3020077,Épehy,"[3.13333, 50.0]"
+1,AWD0003jd4,diary,695,4,1918-02-28 00:00:00 UTC,28 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",diaryDate,28 Feb 1918,"{""day""=>[""28""], ""month""=>[""Feb""], ""year""=>[""1918""]}",3020077,Épehy,"[3.13333, 50.0]"
+2,AWD0003jd4,diary,695,2,1918-02-28 00:00:00 UTC,28 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",unit,"6th Bn Leicester Regt, 6th Bn. Leicester Regt","{""name""=>[""6th Bn Leicester Regt"", ""6th Bn. Leicester Regt""], ""context""=>[""relieved_by""]}",3020077,Épehy,"[3.13333, 50.0]"
+6,AWD0003jd4,diary,695,3,1918-02-28 00:00:00 UTC,28 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",activity,movement,{},3020077,Épehy,"[3.13333, 50.0]"
+7,AWD0003jd4,diary,695,4,1918-02-28 00:00:00 UTC,28 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",activity,reserve,{},3020077,Épehy,"[3.13333, 50.0]"
+8,AWD0003jd4,diary,695,3,1918-02-28 00:00:00 UTC,28 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",place,"Saint Emelie, Sainte Emilie, Sainte-Émelie","{""place""=>[""Saint Emelie"", ""Sainte Emilie"", ""Sainte-Émelie""], ""location""=>[""false""], ""name""=>[""Épehy""], ""lat""=>[""50""], ""long""=>[""3.13333""], ""id""=>[""3020077""]}",3020077,Épehy,"[3.13333, 50.0]"
+10,AWD0003jd4,diary,695,4,1918-02-28 00:00:00 UTC,28 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",place,Cutting Camp,"{""place""=>[""Cutting Camp""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3020077,Épehy,"[3.13333, 50.0]"
+11,AWD0003jd4,diary,695,4,1918-02-28 00:00:00 UTC,28 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",gridRef,E 23 b 9 2,{},3020077,Épehy,"[3.13333, 50.0]"
+12,AWD0003jd4,diary,695,4,1918-02-28 00:00:00 UTC,28 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",gridRef,E 24 a 9 2,{},3020077,Épehy,"[3.13333, 50.0]"
+15,AWD0003jd4,diary,695,4,1918-02-28 00:00:00 UTC,28 Feb 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",person,Lieutenant Colonel A J Walkey,"{""first""=>[""A J""], ""surname""=>[""Walkey""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",3020077,Épehy,"[3.13333, 50.0]"
+1,AWD0003jbu,diary,697,5,1918-03-01 00:00:00 UTC,1 Mar 1918,"Saint Emelie, Sainte-Émelie","[3.10162, 49.97774]","",diaryDate,1 Mar 1918,"{""day""=>[""1""], ""month""=>[""Mar""], ""year""=>[""1918""]}",3020077,Épehy,"[3.13333, 50.0]"
+2,AWD0003jbu,diary,697,5,1918-03-01 00:00:00 UTC,1 Mar 1918,"Ste Emilie, Saint Emilie, Sainte Emilie, Sainte-Émelie, St Emilie","[0.0, 0.0]","",place,"Ste Emilie, Saint Emilie, Sainte Emilie, Sainte-Émelie, St Emilie","{""place""=>[""Ste Emilie"", ""Saint Emilie"", ""Sainte Emilie"", ""Sainte-Émelie"", ""St Emilie""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+3,AWD0003jbu,diary,697,3,1918-03-01 00:00:00 UTC,1 Mar 1918,"Ste Emilie, Saint Emilie, Sainte Emilie, Sainte-Émelie, St Emilie","[0.0, 0.0]","",activity,movement,{},,,
+4,AWD0003jbu,diary,697,4,1918-03-01 00:00:00 UTC,1 Mar 1918,"Ste Emilie, Saint Emilie, Sainte Emilie, Sainte-Émelie, St Emilie","[0.0, 0.0]","",activity,line,{},,,
+5,AWD0003jbu,diary,697,3,1918-03-01 00:00:00 UTC,1 Mar 1918,"Ste Emilie, Saint Emilie, Sainte Emilie, Sainte-Émelie, St Emilie","[0.0, 0.0]","",place,Basse Boulogne,"{""place""=>[""Basse Boulogne""], ""location""=>[""false""], ""name""=>[""Basse-Boulogne""], ""lat""=>[""50.61142""], ""long""=>[""2.28361""], ""id""=>[""3034708""]}",,,
+6,AWD0003jbu,diary,697,2,1918-03-02 00:00:00 UTC,2 Mar 1918,"Ste Emilie, Saint Emilie, Sainte Emilie, Sainte-Émelie, St Emilie","[0.0, 0.0]","",diaryDate,2 Mar 1918,"{""day""=>[""2""], ""month""=>[""Mar""], ""year""=>[""1918""]}",,,
+7,AWD0003jbu,diary,697,3,1918-03-02 04:00:00 UTC,2 Mar 1918,"Ste Emilie, Saint Emilie, Sainte Emilie, Sainte-Émelie, St Emilie","[0.0, 0.0]",0400AM,time,0400AM,{},,,
+9,AWD0003jbu,diary,697,4,1918-03-02 04:00:00 UTC,2 Mar 1918,"Ste Emilie, Saint Emilie, Sainte Emilie, Sainte-Émelie, St Emilie","[0.0, 0.0]",0400AM,activity,enemy_activity,{},,,
+16,AWD0003jbu,diary,697,5,1918-03-08 00:00:00 UTC,8 Mar 1918,"Ste Emilie, Saint Emilie, Sainte Emilie, Sainte-Émelie, St Emilie","[0.0, 0.0]","",diaryDate,8 Mar 1918,"{""day""=>[""8""], ""month""=>[""Mar""], ""year""=>[""1918""]}",,,
+17,AWD0003jbu,diary,697,5,1918-03-08 00:00:00 UTC,8 Mar 1918,Ronssoy,"[0.0, 0.0]","",place,Ronssoy,"{""place""=>[""Ronssoy""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+18,AWD0003jbu,diary,697,3,1918-03-08 00:00:00 UTC,8 Mar 1918,Ronssoy,"[0.0, 0.0]","",unit,2nd Royal Irish Regt,"{""name""=>[""2nd Royal Irish Regt""], ""context""=>[""relieved_by""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+19,AWD0003jbu,diary,697,2,1918-03-08 00:00:00 UTC,8 Mar 1918,Ronssoy,"[0.0, 0.0]","",unit,2nd Royal Irish Regiment,"{""name""=>[""2nd Royal Irish Regiment""], ""context""=>[""relieved_by""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+20,AWD0003jbu,diary,697,3,1918-03-08 00:00:00 UTC,8 Mar 1918,Ronssoy,"[0.0, 0.0]","",activity,movement,{},2982903,Ronssoy,"[3.15986, 49.98293]"
+21,AWD0003jbu,diary,697,4,1918-03-08 00:00:00 UTC,8 Mar 1918,Ronssoy,"[0.0, 0.0]","",place,Ronssoy,"{""place""=>[""Ronssoy""], ""location""=>[""false""], ""name""=>[""Ronssoy""], ""lat""=>[""49.98293""], ""long""=>[""3.15986""], ""id""=>[""2982903""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+22,AWD0003jbu,diary,697,5,1918-03-12 00:00:00 UTC,12 Mar 1918,Ronssoy,"[0.0, 0.0]","",diaryDate,12 Mar 1918,"{""day""=>[""12""], ""month""=>[""Mar""], ""year""=>[""1918""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+23,AWD0003jbu,diary,697,5,1918-03-12 00:00:00 UTC,12 Mar 1918,Ronssoy,"[0.0, 0.0]","",unit,South Irish Horse,"{""name""=>[""South Irish Horse""], ""context""=>[""relieved""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+24,AWD0003jbu,diary,697,4,1918-03-12 00:00:00 UTC,12 Mar 1918,Ronssoy,"[0.0, 0.0]","",activity,line,{},2982903,Ronssoy,"[3.15986, 49.98293]"
+25,AWD0003jbu,diary,697,2,1918-03-12 00:00:00 UTC,12 Mar 1918,Ronssoy,"[0.0, 0.0]","",place,Lancaster House,"{""place""=>[""Lancaster House""], ""location""=>[""false""], ""name""=>[""Ronssoy""], ""lat""=>[""49.98293""], ""long""=>[""3.15986""], ""id""=>[""2982903""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+26,AWD0003jbu,diary,697,4,1918-03-12 00:00:00 UTC,12 Mar 1918,Ronssoy,"[0.0, 0.0]","",place,"Sainte Emilie, Ste Emilie, Saint Emilie, Sainte-Émelie","{""place""=>[""Sainte Emilie"", ""Ste Emilie"", ""Saint Emilie"", ""Sainte-Émelie""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+28,AWD0003jbu,diary,697,5,1918-03-20 00:00:00 UTC,20 Mar 1918,Ronssoy,"[0.0, 0.0]","",diaryDate,20 Mar 1918,"{""day""=>[""20""], ""month""=>[""Mar""], ""year""=>[""1918""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+30,AWD0003jbu,diary,697,2,1918-03-20 00:00:00 UTC,20 Mar 1918,Ronssoy,"[0.0, 0.0]","",unit,2nd Royal Irish Regt,"{""name""=>[""2nd Royal Irish Regt""], ""context""=>[""relieved_by""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+31,AWD0003jbu,diary,697,3,1918-03-20 00:00:00 UTC,20 Mar 1918,Ronssoy,"[0.0, 0.0]","",unit,2nd Royal Irish Regiment,"{""name""=>[""2nd Royal Irish Regiment""], ""context""=>[""relieved_by""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+32,AWD0003jbu,diary,697,4,1918-03-20 00:00:00 UTC,20 Mar 1918,Ronssoy,"[0.0, 0.0]","",activity,movement,{},2982903,Ronssoy,"[3.15986, 49.98293]"
+33,AWD0003jbu,diary,697,5,1918-03-20 00:00:00 UTC,20 Mar 1918,Ronssoy,"[0.0, 0.0]","",place,Ronssoy,"{""place""=>[""Ronssoy""], ""location""=>[""false""], ""name""=>[""Ronssoy""], ""lat""=>[""49.98293""], ""long""=>[""3.15986""], ""id""=>[""2982903""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+34,AWD0003jbu,diary,697,5,1918-03-21 00:00:00 UTC,21 Mar 1918,Ronssoy,"[0.0, 0.0]","",diaryDate,21 Mar 1918,"{""day""=>[""21""], ""month""=>[""Mar""], ""year""=>[""1918""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+35,AWD0003jbu,diary,697,2,1918-03-21 00:00:00 UTC,21 Mar 1918,Ronssoy,"[0.0, 0.0]","",activity,fire,{},2982903,Ronssoy,"[3.15986, 49.98293]"
+36,AWD0003jbu,diary,697,2,1918-03-21 00:00:00 UTC,21 Mar 1918,Ronssoy,"[0.0, 0.0]","",activity,enemy_activity,{},2982903,Ronssoy,"[3.15986, 49.98293]"
+37,AWD0003jbu,diary,697,5,1918-03-21 00:00:00 UTC,21 Mar 1918,Ronssoy,"[0.0, 0.0]","",weather,fog,{},2982903,Ronssoy,"[3.15986, 49.98293]"
+38,AWD0003jbu,diary,697,3,1918-03-21 00:00:00 UTC,21 Mar 1918,Ronssoy,"[0.0, 0.0]","",activity,fire,{},2982903,Ronssoy,"[3.15986, 49.98293]"
+39,AWD0003jbu,diary,697,4,1918-03-21 00:00:00 UTC,21 Mar 1918,Ronssoy,"[0.0, 0.0]","",place,Ronssoy,"{""place""=>[""Ronssoy""], ""location""=>[""false""], ""name""=>[""Ronssoy""], ""lat""=>[""49.98293""], ""long""=>[""3.15986""], ""id""=>[""2982903""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+1,AWD0003jdj,diary,698,3,1918-03-21 00:00:00 UTC,21 Mar 1918,Ronssoy,"[0.0, 0.0]","",diaryDate,21 Mar 1918,"{""day""=>[""21""], ""month""=>[""Mar""], ""year""=>[""1918""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+6,AWD0003jdj,diary,698,4,1918-03-21 00:00:00 UTC,21 Mar 1918,Ronssoy,"[0.0, 0.0]","",person,Lieutenant Colonel A J Walkey,"{""first""=>[""A J""], ""surname""=>[""Walkey""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+7,AWD0003jdj,diary,698,4,1918-03-21 00:00:00 UTC,21 Mar 1918,Ronssoy,"[0.0, 0.0]","",person,Major  Parr,"{""first""=>[""""], ""surname""=>[""Parr""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""casualty_pow""], ""unit""=>[""""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+8,AWD0003jdj,diary,698,4,1918-03-21 00:00:00 UTC,21 Mar 1918,Ronssoy,"[0.0, 0.0]","",person,Captain A H Robbins,"{""first""=>[""A H""], ""surname""=>[""Robbins""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+10,AWD0003jdj,diary,698,4,1918-03-21 00:00:00 UTC,21 Mar 1918,Ronssoy,"[0.0, 0.0]","",person,Second Lieutenant W A Wilkinson,"{""first""=>[""W A""], ""surname""=>[""Wilkinson""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+11,AWD0003jdj,diary,698,4,1918-03-21 00:00:00 UTC,21 Mar 1918,Ronssoy,"[0.0, 0.0]","",person,Lieutenant J R McIlroy,"{""first""=>[""J R""], ""surname""=>[""McIlroy""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+13,AWD0003jdj,diary,698,4,1918-03-21 00:00:00 UTC,21 Mar 1918,Ronssoy,"[0.0, 0.0]","",activity,withdraw,{},2982903,Ronssoy,"[3.15986, 49.98293]"
+14,AWD0003jdj,diary,698,2,1918-03-21 00:00:00 UTC,21 Mar 1918,Ronssoy,"[0.0, 0.0]","",place,Brown Line,"{""place""=>[""Brown Line""], ""location""=>[""false""], ""name""=>["""", ""Ronssoy""], ""lat""=>["""", ""49.98293""], ""long""=>["""", ""3.15986""], ""id""=>["""", ""2982903""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+15,AWD0003jdj,diary,698,4,1918-03-21 00:00:00 UTC,21 Mar 1918,Ronssoy,"[0.0, 0.0]","",place,"Sainte Emilie, Saint Emilie, Saint-Émelie, Ste Emilie","{""place""=>[""Sainte Emilie"", ""Saint Emilie"", ""Saint-Émelie"", ""Ste Emilie""], ""location""=>[""false""], ""name""=>["""", ""Ronssoy""], ""lat""=>["""", ""49.98293""], ""long""=>["""", ""3.15986""], ""id""=>["""", ""2982903""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+16,AWD0003jdj,diary,698,3,1918-03-21 00:00:00 UTC,21 Mar 1918,Ronssoy,"[0.0, 0.0]","",activity,withdraw,{},2982903,Ronssoy,"[3.15986, 49.98293]"
+19,AWD0003jdj,diary,698,4,1918-03-21 00:00:00 UTC,21 Mar 1918,Ronssoy,"[0.0, 0.0]","",person,Major  Harnson,"{""first""=>[""""], ""surname""=>[""Harnson""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""2nd Royal Irish Regt"", ""2nd Royal Irish Regiment"", ""Royal Irish Regt"", ""49th Infantry Brigade Battalion""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+1,AWD0003jbi,diary,699,3,1918-03-21 00:00:00 UTC,21 Mar 1918,Ronssoy,"[0.0, 0.0]","",diaryDate,21 Mar 1918,"{""day""=>[""21""], ""month""=>[""Mar""], ""year""=>[""1918""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+3,AWD0003jbi,diary,699,5,1918-03-21 00:00:00 UTC,21 Mar 1918,Ronssoy,"[0.0, 0.0]","",place,Hamel,"{""place""=>[""Hamel""], ""location""=>[""false""], ""name""=>[""Hamel""], ""lat""=>[""50.27945""], ""long""=>[""3.07423""], ""id""=>[""3014019""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+6,AWD0003jbi,diary,699,5,1918-03-21 00:00:00 UTC,21 Mar 1918,Ronssoy,"[0.0, 0.0]","",place,Amiens,"{""place""=>[""Amiens""], ""location""=>[""false""], ""name""=>[""Amiens""], ""lat""=>[""49.9""], ""long""=>[""2.3""], ""id""=>[""3037854""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+7,AWD0003jbi,diary,699,2,1918-03-21 00:00:00 UTC,21 Mar 1918,Ronssoy,"[0.0, 0.0]","",activity,fire,{},2982903,Ronssoy,"[3.15986, 49.98293]"
+8,AWD0003jbi,diary,699,5,1918-03-21 00:00:00 UTC,21 Mar 1918,Ronssoy,"[0.0, 0.0]","",person,Captain G O F Alley,"{""first""=>[""G O F""], ""surname""=>[""Alley""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""RAMC""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+9,AWD0003jbi,diary,699,5,1918-03-21 00:00:00 UTC,21 Mar 1918,Ronssoy,"[0.0, 0.0]","",person,Captain W Reid,"{""first""=>[""W""], ""surname""=>[""Reid""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+10,AWD0003jbi,diary,699,5,1918-03-21 00:00:00 UTC,21 Mar 1918,Ronssoy,"[0.0, 0.0]","",person,Second Lieutenant J J Nulty,"{""first""=>[""J J""], ""surname""=>[""Nulty""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other"", ""returned_leave""], ""unit""=>[""""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+12,AWD0003jbi,diary,699,3,1918-03-21 00:00:00 UTC,21 Mar 1918,Ronssoy,"[0.0, 0.0]","",casualties,"killed: 16, died: 8, wounded: 204, prisoner: 21, missing: 502",{},2982903,Ronssoy,"[3.15986, 49.98293]"
+19,AWD0003jbi,diary,699,5,1918-03-21 00:00:00 UTC,21 Mar 1918,Ronssoy,"[0.0, 0.0]","",person,Captain F W Martin,"{""first""=>[""F W""], ""surname""=>[""Martin""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+2,AWD0003j9m,report,700,2,,,,[],,title,Raid on 7th/8th Inniskillings on night 4th/5th March,{},,,
+5,AWD0003j9m,report,700,3,,,,[],,date,4 Mar 1918,{},,,
+1,AWD0003j9e,report,702,2,,,,[],,reference,W151,{},,,
+2,AWD0003j9e,report,702,2,,,,[],,reference,BMC 13/272,{},,,
+1,AWD0003ja2,report,704,4,,,,[],,person,"Lieutenant Colonel A J,A Walkey","{""first""=>[""A J"", ""A""], ""surname""=>[""Walkey""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+2,AWD0003ja2,report,704,4,,,,[],,date,7 Mar 1918,{},,,
+1,AWD0003jcv,report,705,2,,,,[],,reference,W151,{},,,
+1,AWD0003j9i,report,707,3,,,,[],,person,Lieutenant Colonel A J Walkey,"{""first""=>[""A J""], ""surname""=>[""Walkey""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""7/8th Battalion Royal Inniskilling Fusiliers"", """", ""7th/8th Royal Inniskilling Fusiliers""]}",,,
+2,AWD0003j9i,report,707,3,,,,[],,date,5 Mar 1918,{},,,
+1,AWD0003jaa,diary,708,4,1918-04-04 00:00:00 UTC,4 Apr 1918,Ronssoy,"[0.0, 0.0]","",diaryDate,4 Apr 1918,"{""day""=>[""4""], ""month""=>[""Apr""], ""year""=>[""1918""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+2,AWD0003jaa,diary,708,4,1918-04-04 00:00:00 UTC,4 Apr 1918,Ronssoy,"[0.0, 0.0]","",activity,movement,{},2982903,Ronssoy,"[3.15986, 49.98293]"
+3,AWD0003jaa,diary,708,2,1918-04-04 00:00:00 UTC,4 Apr 1918,Ronssoy,"[0.0, 0.0]","",domestic,accomodation,{},2982903,Ronssoy,"[3.15986, 49.98293]"
+4,AWD0003jaa,diary,708,2,1918-04-04 00:00:00 UTC,4 Apr 1918,Ronssoy,"[0.0, 0.0]","",activity,resting,{},2982903,Ronssoy,"[3.15986, 49.98293]"
+6,AWD0003jaa,diary,708,5,1918-04-10 00:00:00 UTC,10 Apr 1918,Ronssoy,"[0.0, 0.0]","",diaryDate,10 Apr 1918,"{""day""=>[""10""], ""month""=>[""Apr""], ""year""=>[""1918""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+8,AWD0003jaa,diary,708,5,1918-04-10 00:00:00 UTC,10 Apr 1918,Ronssoy,"[0.0, 0.0]","",person,Major R G Kerr,"{""first""=>[""R G""], ""surname""=>[""Kerr""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+9,AWD0003jaa,diary,708,5,1918-04-10 00:00:00 UTC,10 Apr 1918,Ronssoy,"[0.0, 0.0]","",person,Lieutenant  Nulty,"{""first""=>[""""], ""surname""=>[""Nulty""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+10,AWD0003jaa,diary,708,5,1918-04-11 00:00:00 UTC,11 Apr 1918,Ronssoy,"[0.0, 0.0]","",diaryDate,11 Apr 1918,"{""day""=>[""11""], ""month""=>[""Apr""], ""year""=>[""1918""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+11,AWD0003jaa,diary,708,4,1918-04-11 00:00:00 UTC,11 Apr 1918,Ronssoy,"[0.0, 0.0]","",activity,movement,{},2982903,Ronssoy,"[3.15986, 49.98293]"
+12,AWD0003jaa,diary,708,4,1918-04-11 00:00:00 UTC,11 Apr 1918,Ronssoy,"[0.0, 0.0]","",place,Remilly,"{""place""=>[""Remilly""], ""location""=>[""false"", ""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+16,AWD0003jaa,diary,708,5,1918-04-15 00:00:00 UTC,15 Apr 1918,Ronssoy,"[0.0, 0.0]","",diaryDate,15 Apr 1918,"{""day""=>[""15""], ""month""=>[""Apr""], ""year""=>[""1918""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+20,AWD0003jaa,diary,708,5,1918-04-15 00:00:00 UTC,15 Apr 1918,Ronssoy,"[0.0, 0.0]","",person,Major R G Kerr,"{""first""=>[""R G""], ""surname""=>[""Kerr""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+21,AWD0003jaa,diary,708,2,1918-04-15 00:00:00 UTC,15 Apr 1918,Ronssoy,"[0.0, 0.0]","",unit,2nd Royal Irish Regiment,"{""name""=>[""2nd Royal Irish Regiment""], ""context""=>[""joined"", ""other""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+22,AWD0003jaa,diary,708,2,1918-04-15 00:00:00 UTC,15 Apr 1918,Ronssoy,"[0.0, 0.0]","",unit,"2nd Royal Irish Regt, 2nd Royal Irish Rgt","{""name""=>[""2nd Royal Irish Regt"", ""2nd Royal Irish Rgt""], ""context""=>[""joined""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+23,AWD0003jaa,diary,708,2,1918-04-15 00:00:00 UTC,15 Apr 1918,Ronssoy,"[0.0, 0.0]","",unit,7th Royal Irish Regiment,"{""name""=>[""7th Royal Irish Regiment""], ""context""=>[""joined"", ""other""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+26,AWD0003jaa,diary,708,5,1918-04-17 00:00:00 UTC,17 Apr 1918,Ronssoy,"[0.0, 0.0]","",diaryDate,17 Apr 1918,"{""day""=>[""17""], ""month""=>[""Apr""], ""year""=>[""1918""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+27,AWD0003jaa,diary,708,4,1918-04-17 00:00:00 UTC,17 Apr 1918,Ronssoy,"[0.0, 0.0]","",activity,movement,{},2982903,Ronssoy,"[3.15986, 49.98293]"
+28,AWD0003jaa,diary,708,5,1918-04-17 00:00:00 UTC,17 Apr 1918,Ronssoy,"[0.0, 0.0]","",place,Steenbecque,"{""place""=>[""Steenbecque""], ""location""=>[""false""], ""name""=>[""Steenbecque""], ""lat""=>[""50.67421""], ""long""=>[""2.48442""], ""id""=>[""2973826""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+31,AWD0003jaa,diary,708,5,1918-04-22 00:00:00 UTC,22 Apr 1918,Ronssoy,"[0.0, 0.0]","",diaryDate,22 Apr 1918,"{""day""=>[""22""], ""month""=>[""Apr""], ""year""=>[""1918""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+34,AWD0003jaa,diary,708,2,1918-04-22 00:00:00 UTC,22 Apr 1918,Ronssoy,"[0.0, 0.0]","",unit,2nd Royal Irish Regiment,"{""name""=>[""2nd Royal Irish Regiment""], ""context""=>[""other""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+35,AWD0003jaa,diary,708,5,1918-04-26 00:00:00 UTC,26 Apr 1918,Ronssoy,"[0.0, 0.0]","",diaryDate,26 Apr 1918,"{""day""=>[""26""], ""month""=>[""Apr""], ""year""=>[""1918""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+36,AWD0003jaa,diary,708,2,1918-04-26 00:00:00 UTC,26 Apr 1918,Ronssoy,"[0.0, 0.0]","",activity,training,{},2982903,Ronssoy,"[3.15986, 49.98293]"
+1,AWD0003j9a,diary,709,4,1918-04-30 00:00:00 UTC,30 Apr 1918,Ronssoy,"[0.0, 0.0]","",diaryDate,30 Apr 1918,"{""day""=>[""30""], ""month""=>[""Apr""], ""year""=>[""1918""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+2,AWD0003j9a,diary,709,3,1918-04-30 00:00:00 UTC,30 Apr 1918,Ronssoy,"[0.0, 0.0]","",activity,movement,{},2982903,Ronssoy,"[3.15986, 49.98293]"
+3,AWD0003j9a,diary,709,5,1918-04-30 00:00:00 UTC,30 Apr 1918,Ronssoy,"[0.0, 0.0]","",place,Steenbecque,"{""place""=>[""Steenbecque""], ""location""=>[""false""], ""name""=>[""Steenbecque""], ""lat""=>[""50.67421""], ""long""=>[""2.48442""], ""id""=>[""2973826""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+11,AWD0003j9a,diary,709,5,1918-04-30 00:00:00 UTC,30 Apr 1918,Ronssoy,"[0.0, 0.0]","",person,Lance Corporal W Hughes,"{""first""=>[""W""], ""surname""=>[""Hughes""], ""rank""=>[""Lance Corporal""], ""number""=>[""26774""], ""reason""=>[""award""], ""unit""=>[""""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+12,AWD0003j9a,diary,709,5,1918-04-30 00:00:00 UTC,30 Apr 1918,Ronssoy,"[0.0, 0.0]","",person,Lieutenant J R McIlroy,"{""first""=>[""J R""], ""surname""=>[""McIlroy""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""award""], ""unit""=>[""""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+13,AWD0003j9a,diary,709,4,1918-04-30 00:00:00 UTC,30 Apr 1918,Ronssoy,"[0.0, 0.0]","",person,"Captain H W,F W Martin","{""first""=>[""H W"", ""F W""], ""surname""=>[""Martin""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+1,AWD0003j99,diary,710,4,1918-05-15 00:00:00 UTC,15 May 1918,Ronssoy,"[0.0, 0.0]","",diaryDate,15 May 1918,"{""day""=>[""15""], ""month""=>[""May""], ""year""=>[""1918""]}",2982903,Ronssoy,"[3.15986, 49.98293]"
+2,AWD0003j99,diary,710,2,1918-05-15 00:00:00 UTC,15 May 1918,Steenbecque,"[2.48442, 50.67421]","",place,Steenbecque,"{""place""=>[""Steenbecque""], ""location""=>[""true""], ""name""=>[""Steenbecque""], ""lat""=>[""50.67421""], ""long""=>[""2.48442""], ""id""=>[""2973826""]}",2973826,Steenbecque,"[2.48442, 50.67421]"
+3,AWD0003j99,diary,710,3,1918-05-15 00:00:00 UTC,15 May 1918,Steenbecque,"[2.48442, 50.67421]","",person,Lieutenant Colonel R G Kerr,"{""first""=>[""R G""], ""surname""=>[""Kerr""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""other"", ""promotion"", ""commander""], ""unit""=>[""7/8th Battalion Royal Inniskilling Fusiliers"", ""7th/8th Royal Inniskilling Fusiliers"", """"]}",2973826,Steenbecque,"[2.48442, 50.67421]"
+4,AWD0003j99,diary,710,4,1918-05-15 00:00:00 UTC,15 May 1918,Steenbecque,"[2.48442, 50.67421]","",person,Captain C F Healy,"{""first""=>[""C F""], ""surname""=>[""Healy""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2973826,Steenbecque,"[2.48442, 50.67421]"
+5,AWD0003j99,diary,710,4,1918-05-15 00:00:00 UTC,15 May 1918,Steenbecque,"[2.48442, 50.67421]","",person,Captain F W Martin,"{""first""=>[""F W""], ""surname""=>[""Martin""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2973826,Steenbecque,"[2.48442, 50.67421]"
+6,AWD0003j99,diary,710,4,1918-05-15 00:00:00 UTC,15 May 1918,Steenbecque,"[2.48442, 50.67421]","",person,Captain H Hobson,"{""first""=>[""H""], ""surname""=>[""Hobson""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2973826,Steenbecque,"[2.48442, 50.67421]"
+7,AWD0003j99,diary,710,4,1918-05-15 00:00:00 UTC,15 May 1918,Steenbecque,"[2.48442, 50.67421]","",person,Captain J J Nulty,"{""first""=>[""J J""], ""surname""=>[""Nulty""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2973826,Steenbecque,"[2.48442, 50.67421]"
+8,AWD0003j99,diary,710,4,1918-05-15 00:00:00 UTC,15 May 1918,Steenbecque,"[2.48442, 50.67421]","",person,Captain W Reid,"{""first""=>[""W""], ""surname""=>[""Reid""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2973826,Steenbecque,"[2.48442, 50.67421]"
+9,AWD0003j99,diary,710,5,1918-05-16 00:00:00 UTC,16 May 1918,Steenbecque,"[2.48442, 50.67421]","",diaryDate,16 May 1918,"{""day""=>[""16""], ""month""=>[""May""], ""year""=>[""1918""]}",2973826,Steenbecque,"[2.48442, 50.67421]"
+10,AWD0003j99,diary,710,4,1918-05-16 00:00:00 UTC,16 May 1918,Steenbecque,"[2.48442, 50.67421]","",activity,movement,{},2973826,Steenbecque,"[2.48442, 50.67421]"
+11,AWD0003j99,diary,710,4,1918-05-16 00:00:00 UTC,16 May 1918,Steenbecque,"[2.48442, 50.67421]","",place,Ledinghem,"{""place""=>[""Ledinghem""], ""location""=>[""true"", ""false""], ""name""=>[""Ledinghem""], ""lat""=>[""50.65352""], ""long""=>[""1.98975""], ""id""=>[""3004345""]}",2973826,Steenbecque,"[2.48442, 50.67421]"
+12,AWD0003j99,diary,710,3,1918-05-16 00:00:00 UTC,16 May 1918,Steenbecque,"[2.48442, 50.67421]","",activity,movement,{},2973826,Steenbecque,"[2.48442, 50.67421]"
+14,AWD0003j99,diary,710,4,1918-05-18 00:00:00 UTC,"18 May 1918, 1917",Steenbecque,"[2.48442, 50.67421]","",diaryDate,"18 May 1918, 1917","{""day""=>[""18""], ""month""=>[""May""], ""year""=>[""1918"", ""1917""]}",2973826,Steenbecque,"[2.48442, 50.67421]"
+15,AWD0003j99,diary,710,2,1918-05-18 00:00:00 UTC,"18 May 1918, 1917",Steenbecque,"[2.48442, 50.67421]","",activity,movement,{},2973826,Steenbecque,"[2.48442, 50.67421]"
+16,AWD0003j99,diary,710,4,1918-05-18 00:00:00 UTC,"18 May 1918, 1917",Steenbecque,"[2.48442, 50.67421]","",place,Samer,"{""place""=>[""Samer""], ""location""=>[""false"", ""true""], ""name""=>[""Samer""], ""lat""=>[""50.6384""], ""long""=>[""1.74628""], ""id""=>[""2976291""]}",2973826,Steenbecque,"[2.48442, 50.67421]"
+21,AWD0003j99,diary,710,4,1918-05-19 00:00:00 UTC,"19 May 1918, 1917",Steenbecque,"[2.48442, 50.67421]","",diaryDate,"19 May 1918, 1917","{""day""=>[""19""], ""month""=>[""May""], ""year""=>[""1918"", ""1917""]}",2973826,Steenbecque,"[2.48442, 50.67421]"
+22,AWD0003j99,diary,710,4,1918-05-19 00:00:00 UTC,"19 May 1918, 1917",Steenbecque,"[2.48442, 50.67421]","",activity,movement,{},2973826,Steenbecque,"[2.48442, 50.67421]"
+23,AWD0003j99,diary,710,5,1918-05-19 00:00:00 UTC,"19 May 1918, 1917",Steenbecque,"[2.48442, 50.67421]","",place,Frencq,"{""place""=>[""Frencq""], ""location""=>[""false""], ""name""=>[""Frencq""], ""lat""=>[""50.56067""], ""long""=>[""1.69928""], ""id""=>[""3017226""]}",2973826,Steenbecque,"[2.48442, 50.67421]"
+25,AWD0003j99,diary,710,4,1918-05-31 00:00:00 UTC,31 May 1918,Steenbecque,"[2.48442, 50.67421]","",diaryDate,31 May 1918,"{""day""=>[""31""], ""month""=>[""May""], ""year""=>[""1918""]}",2973826,Steenbecque,"[2.48442, 50.67421]"
+26,AWD0003j99,diary,710,3,1918-05-31 00:00:00 UTC,31 May 1918,Frencq,"[1.69928, 50.56067]","",place,Frencq,"{""place""=>[""Frencq""], ""location""=>[""true""], ""name""=>[""Frencq""], ""lat""=>[""50.56067""], ""long""=>[""1.69928""], ""id""=>[""3017226""]}",3017226,Frencq,"[1.69928, 50.56067]"
+28,AWD0003j99,diary,710,4,1918-05-31 00:00:00 UTC,31 May 1918,Frencq,"[1.69928, 50.56067]","",person,Captain F W Martin,"{""first""=>[""F W""], ""surname""=>[""Martin""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""7/8th Battalion Royal Inniskilling Fusiliers"", """", ""7th/8th Royal Inniskilling Fusiliers"", ""7/8 Battalion Royal Inniskilling Fusiliers""]}",3017226,Frencq,"[1.69928, 50.56067]"
+29,AWD0003j99,diary,710,4,1918-05-31 00:00:00 UTC,31 May 1918,Frencq,"[1.69928, 50.56067]","",person,Major R G Kerr,"{""first""=>[""R G""], ""surname""=>[""Kerr""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""departed_posted""], ""unit""=>[""""]}",3017226,Frencq,"[1.69928, 50.56067]"
+31,AWD0003j99,diary,710,4,1918-05-31 00:00:00 UTC,31 May 1918,Frencq,"[1.69928, 50.56067]","",person,Captain C F Healy,"{""first""=>[""C F""], ""surname""=>[""Healy""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",3017226,Frencq,"[1.69928, 50.56067]"
+33,AWD0003j99,diary,710,4,1918-05-31 00:00:00 UTC,31 May 1918,Frencq,"[1.69928, 50.56067]","",person,Captain M Forbes,"{""first""=>[""M""], ""surname""=>[""Forbes""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""7/8th Battalion Royal Inniskilling Fusiliers"", """", ""7th/8th Royal Inniskilling Fusiliers"", ""Royal Irish Rifles""]}",3017226,Frencq,"[1.69928, 50.56067]"
+35,AWD0003j99,diary,710,4,1918-05-31 00:00:00 UTC,31 May 1918,Frencq,"[1.69928, 50.56067]","",person,Captain L A W Gough,"{""first""=>[""L A W""], ""surname""=>[""Gough""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""7/8th Battalion Royal Inniskilling Fusiliers"", """", ""7th/8th Royal Inniskilling Fusiliers"", ""Middlesex Regiment""]}",3017226,Frencq,"[1.69928, 50.56067]"
+37,AWD0003j99,diary,710,3,1918-05-31 00:00:00 UTC,31 May 1918,Frencq,"[1.69928, 50.56067]","",person,Captain F W Martin,"{""first""=>[""F W""], ""surname""=>[""Martin""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""7th/8th Royal Inniskilling Fusiliers"", """", ""7/8th Battalion Royal Inniskilling Fusiliers""]}",3017226,Frencq,"[1.69928, 50.56067]"
+2,AWD0003jb4,other,715,2,,,,[],,person,"Captain H,H L Bowen, BOWEN","{""first""=>[""H"", ""H L""], ""surname""=>[""Bowen"", ""BOWEN""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""49th Infantry Brigade"", """"]}",,,
+1,AWD0003jd0,orders,716,4,,,,[],,orders,move,{},,,
+2,AWD0003jd0,orders,716,5,,,,[],,date,7 Jul 1917,{},,,
+16,AWD0003jd0,orders,716,3,,,,[],,person,Second Lieutenant R E Palmgren,"{""first""=>[""R E""], ""surname""=>[""Palmgren""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""8th Battalion Royal Inniskilling Fusiliers"", ""8th  Royal Inniskilling Fusiliers "", ""8th R. Iniskilling Fusiliers""]}",,,
+19,AWD0003jd0,orders,716,5,,,,[],,person,Lieutenant  Loggins,"{""first""=>[""""], ""surname""=>[""Loggins""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""8th Royal Inniskilling Fusiliers"", """"]}",,,
+1,AWD0003jds,orders,717,2,,,,[],,orders,move,{},,,
+2,AWD0003jds,orders,717,3,,,,[],,date,8 Jul 1917,{},,,
+5,AWD0003jds,orders,717,2,,,,[],,person,Second Lieutenant J L Charlesworth,"{""first""=>[""J L""], ""surname""=>[""Charlesworth""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""8th Royal Inniskilling Fusiliers"", """"]}",,,
+6,AWD0003jds,orders,717,3,,,,[],,person,"Lieutenant ,L,L J Loggins","{""first""=>["""", ""L"", ""L J""], ""surname""=>[""Loggins""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""8th Royal Inniskilling Fusiliers""]}",,,
+2,AWD0003jco,other,719,2,,,,[],,person,"Second Lieutenant H G,H J Linfoot, LINFOOT","{""first""=>[""H G"", ""H J""], ""surname""=>[""Linfoot"", ""LINFOOT""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""49th Infantry Brigade"", ""Staff 49th Inf Bde""]}",,,
+3,AWD0003jco,other,719,2,,,,[],,date,15 Jul 1917,{},,,
+1,AWD0003jbr,other,721,2,,,,[],,date,16 Jul 1917,{},,,
+6,AWD0003jby,other,722,2,,,,[],,person,"Second Lieutenant H J,H G LINFOOT, Linfoot","{""first""=>[""H J"", ""H G""], ""surname""=>[""LINFOOT"", ""Linfoot""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""Staff 49th Inf.Bde."", ""49th Infantry Brigade""]}",,,
+4,AWD0003jal,orders,724,2,,,,[],,orders,move,{},,,
+5,AWD0003jal,orders,724,2,,,,[],,date,24 Jul 1917,{},,,
+6,AWD0003jal,orders,724,2,,,,[],,date,24 Jun 1917,{},,,
+9,AWD0003jal,orders,724,4,,,,[],,person,Lieutenant C J Coggins,"{""first""=>[""C J""], ""surname""=>[""Coggins""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+10,AWD0003jal,orders,724,4,,,,[],,person,Captain W R Maguire,"{""first""=>[""W R""], ""surname""=>[""Maguire""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+11,AWD0003jal,orders,724,4,,,,[],,person,"Captain W,W E H Muir","{""first""=>[""W"", ""W E H""], ""surname""=>[""Muir""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+12,AWD0003jal,orders,724,2,,,,[],,person,"Second Lieutenant K H Boroherds, BORCHERDS","{""first""=>[""K H""], ""surname""=>[""Boroherds"", ""BORCHERDS""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+13,AWD0003jal,orders,724,2,,,,[],,person,"Lieutenant C J COGGINS, Coggins","{""first""=>[""C J""], ""surname""=>[""COGGINS"", ""Coggins""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+14,AWD0003jal,orders,724,2,,,,[],,person,"Captain W R MAGUIRE, Maguire","{""first""=>[""W R""], ""surname""=>[""MAGUIRE"", ""Maguire""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+1,AWD0003jaz,orders,725,3,,,,[],,orders,move,{},,,
+2,AWD0003jaz,orders,725,4,,,,[],,date,27 Jul 1917,{},,,
+7,AWD0003jaz,orders,725,3,,,,[],,person,Captain W R Maguire,"{""first""=>[""W R""], ""surname""=>[""Maguire""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+8,AWD0003jaz,orders,725,3,,,,[],,person,Captain W E H Muir,"{""first""=>[""W E H""], ""surname""=>[""Muir""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+2,AWD0003je8,orders,726,2,,,,[],,orders,move,{},,,
+1,AWD0003j8j,orders,727,2,,,,[],,orders,move,{},,,
+3,AWD0003j8j,orders,727,4,,,,[],,person,Second Lieutenant K H Borcherds,"{""first""=>[""K H""], ""surname""=>[""Borcherds""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+4,AWD0003j8j,orders,727,4,,,,[],,person,Lieutenant C J Coggins,"{""first""=>[""C J""], ""surname""=>[""Coggins""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+5,AWD0003j8j,orders,727,4,,,,[],,person,Second Lieutenant R V Polley,"{""first""=>[""R V""], ""surname""=>[""Polley""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+6,AWD0003j8j,orders,727,2,,,,[],,orders,move,{},,,
+8,AWD0003j8j,orders,727,4,,,,[],,date,29 Jul 1917,{},,,
+11,AWD0003j8j,orders,727,4,,,,[],,person,Lieutenant C J Coggins,"{""first""=>[""C J""], ""surname""=>[""Coggins""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+13,AWD0003j8j,orders,727,5,,,,[],,person,Second Lieutenant R V Polley,"{""first""=>[""R V""], ""surname""=>[""Polley""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+14,AWD0003j8j,orders,727,4,,,,[],,person,Captain W H Stitt,"{""first""=>[""W H""], ""surname""=>[""Stitt""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+16,AWD0003j8j,orders,727,4,,,,[],,person,Lieutenant C J Coggins,"{""first""=>[""C J""], ""surname""=>[""Coggins""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+17,AWD0003j8j,orders,727,4,,,,[],,person,Captain W E H Muir,"{""first""=>[""W E H""], ""surname""=>[""Muir""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+3,AWD0003jcj,orders,728,3,,,,[],,date,30 Jul 1917,{},,,
+4,AWD0003jcj,orders,728,2,,,,[],,orders,other,{},,,
+1,AWD0003jac,orders,729,2,,,,[],,orders,other,{},,,
+3,AWD0003jac,orders,729,2,,,,[],,person,"Captain W E H MUIR, Muir","{""first""=>[""W E H""], ""surname""=>[""MUIR"", ""Muir""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>["""", ""8th Royal Inniskilling Fusiliers""]}",,,
+2,AWD0003jbq,orders,732,3,,,,[],,orders,other,{},,,
+5,AWD0003jbq,orders,732,5,,,,[],,date,21 Jul 1917,{},,,
+6,AWD0003jbq,orders,732,5,,,,[],,person,Captain  Bowen,"{""first""=>[""""], ""surname""=>[""Bowen""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""49th Inf Bde"", """", ""Staff"", ""49th Infantry"", ""49th Infantry Brigade""]}",,,
+1,AWD0003j8z,orders,733,3,,,,[],,orders,other,{},,,
+5,AWD0003j8z,orders,733,5,,,,[],,date,21 Jul 1917,{},,,
+7,AWD0003j8z,orders,733,4,,,,[],,person,Captain  Bowen,"{""first""=>[""""], ""surname""=>[""Bowen""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""49th Infantry Brigade""]}",,,
+2,AWD0003jbw,orders,734,2,,,,[],,orders,other,{},,,
+4,AWD0003jbw,orders,734,5,,,,[],,date,21 Jul 1917,{},,,
+5,AWD0003jbw,orders,734,3,,,,[],,person,"Captain ,K J,H Bowen","{""first""=>["""", ""K J"", ""H""], ""surname""=>[""Bowen""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""49th Inf Bde"", """", ""49th Infantry Brigade""]}",,,
+5,AWD0003j9s,orders,735,4,,,,[],,date,21 Jul 1917,{},,,
+6,AWD0003j9s,orders,735,4,,,,[],,person,Captain H Bowen,"{""first""=>[""H""], ""surname""=>[""Bowen""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+1,AWD0003jde,orders,736,2,,,,[],,orders,other,{},,,
+4,AWD0003jde,orders,736,2,,,,[],,person,"Captain ,H Bowen","{""first""=>["""", ""H""], ""surname""=>[""Bowen""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""49th Inf Bde"", ""49th Infantry Brigade""]}",,,
+5,AWD0003jde,orders,736,4,,,,[],,date,21 Jul 1917,{},,,
+1,AWD0003jdd,orders,737,2,,,,[],,orders,other,{},,,
+4,AWD0003jdd,orders,737,2,,,,[],,orders,other,{},,,
+8,AWD0003jdd,orders,737,3,,,,[],,person,Major L L Farmer,"{""first""=>[""L L""], ""surname""=>[""Farmer""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""2nd Royal Irish Regt"", ""2nd R.Irish Regt"", ""2/R Irish Regiment""]}",,,
+9,AWD0003jdd,orders,737,3,,,,[],,person,Captain C E Jameson,"{""first""=>[""C E""], ""surname""=>[""Jameson""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""2nd R.Dublin Fus."", ""2nd Royal Dublin Fus"", ""2/R Dublin Fus.""]}",,,
+10,AWD0003jdd,orders,737,3,,,,[],,person,Captain T H Crofton,"{""first""=>[""T H""], ""surname""=>[""Crofton""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""6th Connaught Rangers""]}",,,
+11,AWD0003jdd,orders,737,3,,,,[],,person,Captain A J Lewis,"{""first""=>[""A J""], ""surname""=>[""Lewis""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""R.A.M.C.""]}",,,
+12,AWD0003jdd,orders,737,2,,,,[],,person,"Captain A F CODDINGTON, Coddington","{""first""=>[""A F""], ""surname""=>[""CODDINGTON"", ""Coddington""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""7/8th R.Irish Fus."", ""7/8th Royal Irish Fusiliers""]}",,,
+14,AWD0003jdd,orders,737,2,,,,[],,person,"Sergeant J McAvey, MCAVOY","{""first""=>[""J""], ""surname""=>[""McAvey"", ""MCAVOY""], ""rank""=>[""Sergeant""], ""number""=>[""13240"", ""13240 ""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+3,AWD0003j9d,orders,738,3,,,,[],,reference,Watten,{},,,
+4,AWD0003j9d,orders,738,3,,,,[],,reference,Poperinghe,{},,,
+8,AWD0003j9d,orders,738,4,,,,[],,date,17 Jul 1917,{},,,
+5,AWD0003jc3,signals,739,3,,,,[],,signals,other,{},,,
+8,AWD0003jc3,signals,739,2,,,,[],,unit,49th Infantry Brigade,"{""name""=>[""49th Infantry Brigade""], ""context""=>[""other""]}",,,
+11,AWD0003jc3,signals,739,2,,,,[],,person,"Second Lieutenant H J LINFOOT, Linfrot","{""first""=>[""H J""], ""surname""=>[""LINFOOT"", ""Linfrot""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>["""", ""49th Infantry Brigade""]}",,,
+9,AWD0003jbf,orders,741,2,,,,[],,person,"Second Lieutenant H J,H F LINFOOT, Linfront","{""first""=>[""H J"", ""H F""], ""surname""=>[""LINFOOT"", ""Linfront""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>["""", ""49th Infantry Brigade""]}",,,
+10,AWD0003jbf,orders,741,5,,,,[],,date,17 Jul 1917,{},,,
+1,AWD0003j90,signals,742,3,,,,[],,date,18 Jul 1917,{},,,
+3,AWD0003j90,signals,742,4,,,,[],,signals,other,{},,,
+4,AWD0003j90,signals,742,5,,,,[],,person,"Sergeant J MCAVOY, McEvoy","{""first""=>[""J""], ""surname""=>[""MCAVOY"", ""McEvoy""], ""rank""=>[""Sergeant""], ""number""=>[""13240""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+5,AWD0003j90,signals,742,2,,,,[],,person,"Second Lieutenant H F,H J Linfront, LINFOOT","{""first""=>[""H F"", ""H J""], ""surname""=>[""Linfront"", ""LINFOOT""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""49th Infantry Brigade"", """"]}",,,
+1,AWD0003jbp,orders,743,2,,,,[],,orders,other,{},,,
+6,AWD0003jbp,orders,743,4,,,,[],,date,24 Jul 1917,{},,,
+7,AWD0003jbp,orders,743,3,,,,[],,person,Lieutenant H F Reid,"{""first""=>[""H F""], ""surname""=>[""Reid""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+2,AWD0003jdh,orders,745,2,,,,[],,orders,other,{},,,
+3,AWD0003jdh,orders,745,5,,,,[],,person,Captain  Bowen,"{""first""=>[""""], ""surname""=>[""Bowen""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+1,AWD0003ja8,orders,747,2,,,,[],,orders,other,{},,,
+3,AWD0003ja8,orders,747,2,,,,[],,orders,other,{},,,
+5,AWD0003ja8,orders,747,3,,,,[],,date,25 Jul 1917,{},,,
+2,AWD0003jcd,orders,748,2,,,,[],,orders,other,{},,,
+3,AWD0003jcd,orders,748,3,,,,[],,person,"Captain ,H,H J Bowen","{""first""=>["""", ""H"", ""H J""], ""surname""=>[""Bowen""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""49th Inf Bde"", ""49th Infantry Brigade"", """"]}",,,
+1,AWD0003jd7,orders,749,3,,,,[],,orders,other,{},,,
+4,AWD0003jd7,orders,749,3,,,,[],,person,"Captain ,H J,H Bowen","{""first""=>["""", ""H J"", ""H""], ""surname""=>[""Bowen""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""49th Inf Bde"", """", ""49th Infantry Brigade""]}",,,
+5,AWD0003jd7,orders,749,3,,,,[],,date,23 Jul 1917,{},,,
+3,AWD0003ja4,orders,750,4,,,,[],,date,28 Jul 1917,{},,,
+4,AWD0003ja4,orders,750,3,,,,[],,person,"Captain H J,H, Bowen","{""first""=>[""H J"", ""H"", """"], ""surname""=>[""Bowen""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>["""", ""49th Infantry Brigade"", ""49th Inf Bde""]}",,,
+1,AWD0003j9j,orders,751,2,,,,[],,orders,other,{},,,
+7,AWD0003j9j,orders,751,3,,,,[],,person,"Captain H J,,H Bowen","{""first""=>[""H J"", """", ""H""], ""surname""=>[""Bowen""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>["""", ""49th Inf Bde"", ""49th Infantry Brigade""]}",,,
+8,AWD0003j9j,orders,751,3,,,,[],,date,24 Jul 1917,{},,,
+1,AWD0003jd9,orders,752,2,,,,[],,orders,other,{},,,
+2,AWD0003jd9,orders,752,2,,,,[],,date,26 Jul 1917,{},,,
+3,AWD0003jd9,orders,752,2,,,,[],,person,"Captain ,H L Bowen, BOWEN","{""first""=>["""", ""H L""], ""surname""=>[""Bowen"", ""BOWEN""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""49th Inf Bde"", """"]}",,,
+7,AWD0003jd9,orders,752,2,,,,[],,date,25 Jul 1917,{},,,
+1,AWD0003jdo,orders,753,2,,,,[],,orders,other,{},,,
+1,AWD0003jdm,orders,754,2,,,,[],,orders,other,{},,,
+7,AWD0003jdm,orders,754,2,,,,[],,gridRef,G 6 c 4 7,{},,,
+10,AWD0003jdm,orders,754,3,,,,[],,place,Brandhoek area no. 2,"{""place""=>[""Brandhoek area no. 2""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+16,AWD0003jdm,orders,754,2,,,,[],,place,Winnezeele area no. 2,"{""place""=>[""Winnezeele area no. 2""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+1,AWD0003ja5,orders,755,2,,,,[],,orders,other,{},,,
+2,AWD0003jbn,orders,756,2,,,,[],,orders,routine,{},,,
+4,AWD0003jbn,orders,756,2,,,,[],,person,"Captain ,H Bowen","{""first""=>["""", ""H""], ""surname""=>[""Bowen""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""49th Inf Bde"", ""49th Infantry Brigade""]}",,,
+5,AWD0003jbn,orders,756,4,,,,[],,date,25 Jul 1917,{},,,
+3,AWD0003jbb,orders,757,2,,,,[],,orders,other,{},,,
+1,AWD0003j9c,orders,758,2,,,,[],,orders,other,{},,,
+2,AWD0003j9c,orders,758,4,,,,[],,person,"Captain ,H L,N T,H Bowen","{""first""=>["""", ""H L"", ""N T"", ""H""], ""surname""=>[""Bowen""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+1,AWD0003j8q,orders,759,2,,,,[],,orders,other,{},,,
+1,AWD0003jc4,orders,760,2,,,,[],,orders,other,{},,,
+2,AWD0003jc4,orders,760,3,,,,[],,person,"Captain ,H L,H Bowen","{""first""=>["""", ""H L"", ""H""], ""surname""=>[""Bowen""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""49th Inf Bde"", """", ""49th Infantry Brigade""]}",,,
+3,AWD0003jc4,orders,760,3,,,,[],,date,25 Jul 1917,{},,,
+3,AWD0003jc8,orders,761,2,,,,[],,orders,other,{},,,
+4,AWD0003jc8,orders,761,2,,,,[],,date,25 Jul 1917,{},,,
+6,AWD0003jc8,orders,761,3,,,,[],,person,"Captain ,H,H L Bowen","{""first""=>["""", ""H"", ""H L""], ""surname""=>[""Bowen""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""49th Inf Bde"", ""49th Infantry Brigade"", """"]}",,,
+4,AWD0003j8r,orders,765,3,,,,[],,date,26 Jul 1917,{},,,
+5,AWD0003j8r,orders,765,3,,,,[],,person,"Captain ,H L,H Bowen","{""first""=>["""", ""H L"", ""H""], ""surname""=>[""Bowen""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""49th Inf Bde"", """", ""49th Infantry Brigade""]}",,,
+1,AWD0003jak,orders,766,2,,,,[],,orders,other,{},,,
+4,AWD0003jak,orders,766,3,,,,[],,date,29 Jul 1917,{},,,
+6,AWD0003jak,orders,766,3,,,,[],,person,"Captain ,H L,H Bowen","{""first""=>["""", ""H L"", ""H""], ""surname""=>[""Bowen""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""49th Inf Bde"", """", ""49th Infantry Brigade""]}",,,
+1,AWD0003j9n,orders,767,2,,,,[],,orders,other,{},,,
+4,AWD0003j9n,orders,767,3,,,,[],,person,"Captain ,H J,H Bowen","{""first""=>["""", ""H J"", ""H""], ""surname""=>[""Bowen""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""49th Inf Bde"", """", ""49th Infantry Brigade""]}",,,
+5,AWD0003j9n,orders,767,3,,,,[],,date,7 Aug 1917,{},,,
+1,AWD0003j9t,orders,768,4,,,,[],,orders,other,{},,,
+3,AWD0003j9t,orders,768,3,,,,[],,date,29 Jul 1917,{},,,
+2,AWD0003jbv,orders,769,2,,,,[],,orders,other,{},,,
+2,AWD0003jdv,orders,770,2,,,,[],,orders,other,{},,,
+3,AWD0003jdv,orders,770,3,,,,[],,person,"Captain ,H L,H Bowen","{""first""=>["""", ""H L"", ""H""], ""surname""=>[""Bowen""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""49th Inf Bde"", """", ""49th Infantry Brigade""]}",,,
+1,AWD0003jdn,orders,771,2,,,,[],,orders,other,{},,,
+2,AWD0003jdn,orders,771,3,,,,[],,date,30 Jul 1917,{},,,
+3,AWD0003j9v,orders,772,2,,,,[],,person,"Captain W E H MUIR, Muir","{""first""=>[""W E H""], ""surname""=>[""MUIR"", ""Muir""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>["""", ""8th Royal Inniskilling Fusiliers""]}",,,
+4,AWD0003j9v,orders,772,2,,,,[],,person,"Second Lieutenant K H Borcherds, BORCHERDS","{""first""=>[""K H""], ""surname""=>[""Borcherds"", ""BORCHERDS""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+4,AWD0003ja6,orders,773,2,,,,[],,orders,other,{},,,
+2,AWD0003jda,orders,774,2,,,,[],,orders,other,{},,,
+2,AWD0003jb1,orders,775,2,,,,[],,orders,other,{},,,
+6,AWD0003jb1,orders,775,4,,,,[],,person,Captain  Bowen,"{""first""=>[""""], ""surname""=>[""Bowen""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""49th Infantry Brigade""]}",,,
+7,AWD0003jb1,orders,775,2,,,,[],,date,31 Jul 1917,{},,,
+1,AWD0003jbt,orders,776,2,,,,[],,orders,other,{},,,
+1,AWD0003jch,orders,777,2,,,,[],,orders,other,{},,,
+6,AWD0003jch,orders,777,3,,,,[],,person,"Captain H L,,H Bowen","{""first""=>[""H L"", """", ""H""], ""surname""=>[""Bowen""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>["""", ""49th Inf Bde"", ""49th Infantry Brigade""]}",,,
+8,AWD0003jch,orders,777,3,,,,[],,date,31 Jul 1917,{},,,
+4,AWD0003jcb,orders,778,2,,,,[],,date,20 Jul 1917,{},,,
+6,AWD0003jcb,orders,778,2,,,,[],,date,19 Jul 1917,{},,,
+1,AWD0003jai,orders,779,2,,,,[],,orders,other,{},,,
+2,AWD0003jai,orders,779,3,,,,[],,date,21 Jul 1917,{},,,
+2,AWD0003j94,orders,780,2,,,,[],,person,"Captain W E H Muir, MUIR","{""first""=>[""W E H""], ""surname""=>[""Muir"", ""MUIR""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+3,AWD0003j94,orders,780,2,,,,[],,date,20 Jul 1917,{},,,
+1,AWD0003j8w,orders,781,2,,,,[],,orders,other,{},,,
+3,AWD0003j8w,orders,781,2,,,,[],,date,20 Jul 1917,{},,,
+4,AWD0003j8w,orders,781,2,,,,[],,person,"Captain W RUSSELL,W MAGUIRE, Russell Maguire","{""first""=>[""W RUSSELL"", ""W""], ""surname""=>[""MAGUIRE"", ""Russell Maguire""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other"", ""commander""], ""unit""=>["""", ""B Coy""]}",,,
+5,AWD0003jd6,orders,783,2,,,,[],,date,20 Jul 1917,{},,,
+4,AWD0003j8t,orders,784,3,,,,[],,person,"Lieutenant W F Ellis, Ellis M.C., ELLIS","{""first""=>[""W F""], ""surname""=>[""Ellis"", ""Ellis M.C."", ""ELLIS""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+7,AWD0003j8t,orders,784,3,,,,[],,person,"Captain W E H Muis, MUIR, Muir","{""first""=>[""W E H""], ""surname""=>[""Muis"", ""MUIR"", ""Muir""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+8,AWD0003j8t,orders,784,2,,,,[],,date,23 Jul 1917,{},,,
+3,AWD0003j8n,orders,785,2,,,,[],,orders,other,{},,,
+4,AWD0003j8n,orders,785,2,,,,[],,person,"Second Lieutenant K H,K M BORCHERDS, Borcherds","{""first""=>[""K H"", ""K M""], ""surname""=>[""BORCHERDS"", ""Borcherds""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+5,AWD0003j8n,orders,785,2,,,,[],,person,"Captain W E H Muir, MUIR","{""first""=>[""W E H""], ""surname""=>[""Muir"", ""MUIR""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""8th Battalion Royal Inniskilling Fusiliers"", """"]}",,,
+6,AWD0003j8n,orders,785,2,,,,[],,date,23 Jul 1917,{},,,
+4,AWD0003j8u,orders,787,2,,,,[],,date,24 Jul 1917,{},,,
+6,AWD0003j8u,orders,787,3,,,,[],,person,Captain H B D Willcox,"{""first""=>[""H B D""], ""surname""=>[""Willcox""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+4,AWD0003j9r,orders,788,5,,,,[],,orders,attack,{},,,
+1,AWD0003j91,orders,789,4,,,,[],,orders,attack,{},,,
+1,AWD0003jbj,orders,790,3,,,,[],,orders,attack,{},,,
+1,AWD0003jau,orders,791,4,,,,[],,orders,attack,{},,,
+2,AWD0003jau,orders,791,3,,,,[],,person,Captain H B D Willcox,"{""first""=>[""H B D""], ""surname""=>[""Willcox""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+4,AWD0003jau,orders,791,5,,,,[],,date,22 Jun 1917,{},,,
+2,AWD0003jc7,orders,792,2,,,,[],,orders,attack,{},,,
+5,AWD0003jc7,orders,792,2,,,,[],,orders,move,{},,,
+1,AWD0003jcz,orders,793,2,,,,[],,orders,attack,{},,,
+3,AWD0003jcz,orders,793,2,,,,[],,person,"Captain H B D,H Willcox","{""first""=>[""H B D"", ""H""], ""surname""=>[""Willcox""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""49th Inf Bde"", """"]}",,,
+5,AWD0003jcz,orders,793,3,,,,[],,date,23 Jun 1917,{},,,
+1,AWD0003jan,orders,794,4,,,,[],,orders,other,{},,,
+6,AWD0003jan,orders,794,3,,,,[],,person,Captain  Bowen,"{""first""=>[""""], ""surname""=>[""Bowen""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+7,AWD0003jan,orders,794,2,,,,[],,date,10 Aug 1917,{},,,
+9,AWD0003jan,orders,794,2,,,,[],,date,8 Aug 1917,{},,,
+11,AWD0003jan,orders,794,2,,,,[],,date,8 Aug 1917,{},,,
+1,AWD0003jce,orders,795,2,,,,[],,orders,other,{},,,
+2,AWD0003jce,orders,795,2,,,,[],,orders,attack,{},,,
+4,AWD0003jce,orders,795,3,,,,[],,person,Captain H B D Willcox,"{""first""=>[""H B D""], ""surname""=>[""Willcox""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+5,AWD0003jce,orders,795,3,,,,[],,date,23 Jul 1917,{},,,
+1,AWD0003jbe,orders,796,2,,,,[],,orders,attack,{},,,
+1,AWD0003jdw,orders,797,2,,,,[],,orders,other,{},,,
+3,AWD0003jdw,orders,797,3,,,,[],,person,Captain H B D Willcox,"{""first""=>[""H B D""], ""surname""=>[""Willcox""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+6,AWD0003jdw,orders,797,4,,,,[],,date,24 Jul 1917,{},,,
+2,AWD0003jcf,orders,798,2,,,,[],,orders,other,{},,,
+3,AWD0003jcf,orders,798,3,,,,[],,date,26 Jul 1917,{},,,
+4,AWD0003jcf,orders,798,2,,,,[],,date,25 Jul 1917,{},,,
+6,AWD0003jcf,orders,798,3,,,,[],,person,Captain H B D Willcox,"{""first""=>[""H B D""], ""surname""=>[""Willcox""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+1,AWD0003jbg,orders,799,2,,,,[],,orders,other,{},,,
+4,AWD0003jbg,orders,799,16,,,,[],,person,  ,"{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""""], ""number""=>[""I.5.a.3.4.""], ""reason""=>[""other""], ""unit""=>[""a.r.a.""]}",,,
+4,AWD0003j9b,orders,800,3,,,,[],,date,26 Jul 1917,{},,,
+5,AWD0003j9b,orders,800,2,,,,[],,person,"Captain H B D Willcox, WILLCOX","{""first""=>[""H B D""], ""surname""=>[""Willcox"", ""WILLCOX""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""49th Inf Bde"", """"]}",,,
+2,AWD0003ja9,orders,801,2,,,,[],,orders,attack,{},,,
+1,AWD0003j9f,orders,802,2,,,,[],,orders,other,{},,,
+4,AWD0003j9f,orders,802,3,,,,[],,person,Captain H B D Willcox,"{""first""=>[""H B D""], ""surname""=>[""Willcox""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+5,AWD0003j9f,orders,802,2,,,,[],,person,"Captain J W W Williams, WILLIAMS","{""first""=>[""J W W""], ""surname""=>[""Williams"", ""WILLIAMS""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""49th Infantry Brigade"", """"]}",,,
+6,AWD0003j9f,orders,802,4,,,,[],,date,25 Jul 1917,{},,,
+1,AWD0003jap,orders,804,2,,,,[],,orders,attack,{},,,
+2,AWD0003jap,orders,804,2,,,,[],,orders,other,{},,,
+6,AWD0003jap,orders,804,3,,,,[],,person,Captain H B D Willcox,"{""first""=>[""H B D""], ""surname""=>[""Willcox""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+8,AWD0003jap,orders,804,5,,,,[],,date,27 Jul 1917,{},,,
+1,AWD0003jcn,orders,805,3,,,,[],,orders,attack,{},,,
+6,AWD0003jb0,orders,807,3,,,,[],,person,Captain  Bowen,"{""first""=>[""""], ""surname""=>[""Bowen""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+7,AWD0003jb0,orders,807,2,,,,[],,date,26 Jul 1917,{},,,
+1,AWD0003jbc,orders,808,2,,,,[],,orders,attack,{},,,
+2,AWD0003jbc,orders,808,2,,,,[],,orders,other,{},,,
+5,AWD0003jbc,orders,808,3,,,,[],,person,Captain  Bowen,"{""first""=>[""""], ""surname""=>[""Bowen""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""49th Inf Bde"", """", ""49th Infantry Brigade""]}",,,
+6,AWD0003jbc,orders,808,4,,,,[],,date,25 Jul 1917,{},,,
+1,AWD0003jdl,report,809,2,,,,[],,date,28 Jul 1917,{},,,
+2,AWD0003jcl,report,810,3,,,,[],,person,Lieutenant A John Hugh Craik,"{""first""=>[""A John Hugh""], ""surname""=>[""Craik""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+3,AWD0003jcl,report,810,3,,,,[],,date,15 Jul 1917,{},,,
+4,AWD0003jcq,orders,814,2,,,,[],,date,12 Jan 1917,{},,,
+7,AWD0003jcq,orders,814,2,,,,[],,diaryDate,11 Jan 1917,"{""day""=>[""11""], ""month""=>[""Jan""], ""year""=>[""1917""]}",,,
+10,AWD0003jcq,orders,814,2,,,,[],,time,0930PM,{},,,
+1,AWD0003j9o,orders,815,2,,,,[],,orders,attack,{},,,
+3,AWD0003j9o,orders,815,4,,,,[],,date,10 Jan 1917,{},,,
+4,AWD0003j9o,orders,815,2,,,,[],,orders,attack,{},,,
+7,AWD0003j9o,orders,815,3,,,,[],,person,Lieutenant Colonel K C Weldon,"{""first""=>[""K C""], ""surname""=>[""Weldon""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+9,AWD0003j9o,orders,815,2,,,,[],,person,"Captain V H Parr, PARR","{""first""=>[""V H""], ""surname""=>[""Parr"", ""PARR""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+2,AWD0003je2,orders,816,3,,,,[],,orders,attack,{},,,
+3,AWD0003jdf,orders,817,3,,,,[],,orders,attack,{},,,
+5,AWD0003jdf,orders,817,2,,,,[],,person,"Lieutenant Colonel K C Weldon, WELDON","{""first""=>[""K C""], ""surname""=>[""Weldon"", ""WELDON""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""commander"", ""other""], ""unit""=>[""""]}",,,
+1,AWD0003jct,orders,818,2,,,,[],,orders,attack,{},,,
+2,AWD0003jct,orders,818,2,,,,[],,person,"Captain L B, BRIERLEY, Brierley","{""first""=>[""L B"", """"], ""surname""=>[""BRIERLEY"", ""Brierley""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+2,AWD0003j92,orders,819,2,,,,[],,orders,attack,{},,,
+3,AWD0003j92,orders,819,4,,,,[],,date,6 Jan 1917,{},,,
+4,AWD0003j92,orders,819,3,,,,[],,orders,attack,{},,,
+6,AWD0003j92,orders,819,2,,,,[],,person,"Captain L,L B Brierley, BRIERLEY","{""first""=>[""L"", ""L B""], ""surname""=>[""Brierley"", ""BRIERLEY""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+2,AWD0003jbd,orders,820,2,,,,[],,orders,attack,{},,,
+4,AWD0003jbd,orders,820,4,,,,[],,date,8 Jan 1917,{},,,
+5,AWD0003jbd,orders,820,2,,,,[],,orders,attack,{},,,
+7,AWD0003jbd,orders,820,2,,,,[],,person,"Captain L B,H BRIERLEY, Brierley","{""first""=>[""L B"", ""H""], ""surname""=>[""BRIERLEY"", ""Brierley""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+2,AWD0003jb6,orders,821,2,,,,[],,date,13 Jan 1917,{},,,
+7,AWD0003jb6,orders,821,2,,,,[],,orders,attack,{},,,
+9,AWD0003jb6,orders,821,3,,,,[],,person,Captain W E H Muir,"{""first""=>[""W E H""], ""surname""=>[""Muir""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+1,AWD0003jcx,orders,822,3,,,,[],,orders,attack,{},,,
+2,AWD0003jcx,orders,822,2,,,,[],,date,12 Jan 1917,{},,,
+2,AWD0003je5,orders,823,3,,,,[],,orders,attack,{},,,
+5,AWD0003je5,orders,823,2,,,,[],,orders,attack,{},,,
+1,AWD0003jag,orders,824,2,,,,[],,orders,attack,{},,,
+1,AWD0003jah,orders,825,3,,,,[],,orders,attack,{},,,
+2,AWD0003jah,orders,825,3,,,,[],,date,6 Jan 1917,{},,,
+3,AWD0003jah,orders,825,2,,,,[],,orders,attack,{},,,
+1,AWD0003jcy,orders,826,3,,,,[],,orders,attack,{},,,
+3,AWD0003jcy,orders,826,3,,,,[],,date,8 Jan 1917,{},,,
+1,AWD0003j8v,orders,827,3,,,,[],,orders,attack,{},,,
+4,AWD0003j8v,orders,827,4,,,,[],,date,11 Jan 1917,{},,,
+2,AWD0003jcm,orders,828,5,,,,[],,orders,attack,{},,,
+1,AWD0003jaw,orders,829,2,,,,[],,orders,attack,{},,,
+2,AWD0003jaw,orders,829,4,,,,[],,person,Lieutenant Colonel K C Weldon,"{""first""=>[""K C""], ""surname""=>[""Weldon""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""7/8th Battalion Royal Inniskilling Fusiliers"", """", ""7th/8th Royal Irish Fusiliers"", ""7/8th R.Irish Fusiliers""]}",,,
+2,AWD0003j9h,orders,831,2,,,,[],,orders,attack,{},,,
+3,AWD0003j9h,orders,831,4,,,,[],,person,Lieutenant Colonel K C Weldon,"{""first""=>[""K C""], ""surname""=>[""Weldon""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""7/8th Battalion Royal Inniskilling Fusiliers"", """", ""7th/8th Royal Irish Fusiliers"", ""7/8th R.Irish Fusiliers""]}",,,
+4,AWD0003j9h,orders,831,3,,,,[],,orders,attack,{},,,
+5,AWD0003j9h,orders,831,4,,,,[],,person,Second Lieutenant A C Young,"{""first""=>[""A C""], ""surname""=>[""Young""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other"", ""commander""], ""unit""=>[""""]}",,,
+6,AWD0003j9h,orders,831,4,,,,[],,person,Second Lieutenant J D Baker,"{""first""=>[""J D""], ""surname""=>[""Baker""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other"", ""commander""], ""unit""=>[""""]}",,,
+7,AWD0003j9h,orders,831,4,,,,[],,person,Second Lieutenant E J MacMillan,"{""first""=>[""E J""], ""surname""=>[""MacMillan""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""commander"", ""other""], ""unit""=>[""""]}",,,
+8,AWD0003j9h,orders,831,4,,,,[],,person,Second Lieutenant T Geraty,"{""first""=>[""T""], ""surname""=>[""Geraty""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""commander"", ""other""], ""unit""=>[""""]}",,,
+9,AWD0003j9h,orders,831,4,,,,[],,person,Captain N P Knowles,"{""first""=>[""N P""], ""surname""=>[""Knowles""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+10,AWD0003j9h,orders,831,3,,,,[],,person,Second Lieutenant E S Bird,"{""first""=>[""E S""], ""surname""=>[""Bird""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""7/8th Battalion Royal Inniskilling Fusiliers"", """", ""7th/8th Royal Irish Fusiliers""]}",,,
+1,AWD0003jck,orders,832,3,,,,[],,orders,attack,{},,,
+2,AWD0003jck,orders,832,3,,,,[],,person,Lieutenant Colonel K C Weldon,"{""first""=>[""K C""], ""surname""=>[""Weldon""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""7/8th Battalion Royal Inniskilling Fusiliers"", ""7/8th R.Irish Fusiliers"", ""7th/8th Royal Irish Fusiliers""]}",,,
+2,AWD0003j8m,orders,834,6,,,,[],,orders,attack,{},,,
+4,AWD0003j8m,orders,834,4,,,,[],,person,Captain V H Parr,"{""first""=>[""V H""], ""surname""=>[""Parr""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other"", ""commander""], ""unit""=>[""""]}",,,
+1,AWD0003jb9,orders,835,3,,,,[],,orders,attack,{},,,
+2,AWD0003jb9,orders,835,4,,,,[],,person,Major A D Reid,"{""first""=>[""A D""], ""surname""=>[""Reid""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander"", ""other""], ""unit""=>[""7th Battalion Royal Inniskilling Fusiliers"", """", ""7th R.Innis.Fus."", ""7th Royal Inniskilling Fusiliers""]}",,,
+2,AWD0003jdr,orders,836,3,,,,[],,orders,attack,{},,,
+4,AWD0003jdr,orders,836,2,,,,[],,orders,attack,{},,,
+6,AWD0003jdr,orders,836,4,,,,[],,date,8 Jan 1917,{},,,
+10,AWD0003jdr,orders,836,4,,,,[],,person,Major H H Joll,"{""first""=>[""H H""], ""surname""=>[""Joll""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""16th Div Arty"", """", ""R.A."", ""49th Infantry Brigade""]}",,,
+2,AWD0003j9k,orders,837,2,,,,[],,orders,attack,{},,,
+3,AWD0003j9k,orders,837,4,,,,[],,date,9 Jan 1917,{},,,
+7,AWD0003j9k,orders,837,5,,,,[],,person,Major H H Joll,"{""first""=>[""H H""], ""surname""=>[""Joll""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""16th Division Artillery""]}",,,
+1,AWD0003j9p,orders,838,3,,,,[],,orders,attack,{},,,
+3,AWD0003j9p,orders,838,4,,,,[],,date,9 Jan 1917,{},,,
+5,AWD0003j9p,orders,838,4,,,,[],,person,Major H H Joll,"{""first""=>[""H H""], ""surname""=>[""Joll""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""16th Div Artillery"", ""Royal Artillery"", ""16th Division Artillery"", """"]}",,,
+1,AWD0003j98,orders,839,2,,,,[],,orders,attack,{},,,
+4,AWD0003j98,orders,839,3,,,,[],,person,Captain H L Hornby,"{""first""=>[""H L""], ""surname""=>[""Hornby""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>["""", ""49th T. H. Group"", ""49th T.M. Group""]}",,,
+1,AWD0003jaj,orders,840,2,,,,[],,orders,attack,{},,,
+3,AWD0003jaj,orders,840,3,,,,[],,person,Captain H L Hornby,"{""first""=>[""H L""], ""surname""=>[""Hornby""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>["""", ""49th T.H. Group"", ""O.C. 49th T.ll. Group""]}",,,
+1,AWD0003jcw,orders,841,2,,,,[],,orders,attack,{},,,
+4,AWD0003jcw,orders,841,3,,,,[],,person,Major R Le Butt,"{""first""=>[""R""], ""surname""=>[""Le Butt""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""49th MGC"", """", ""49th Machine Gun Company""]}",,,
+1,AWD0003j9q,orders,842,2,,,,[],,reference,Appendix VIII,{},,,
+2,AWD0003j9q,orders,842,2,,,,[],,orders,attack,{},,,
+7,AWD0003j9q,orders,842,4,,,,[],,person,Second Lieutenant H E L Porter,"{""first""=>[""H E L""], ""surname""=>[""Porter""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+8,AWD0003j9q,orders,842,4,,,,[],,date,9 Jan 1917,{},,,
+1,AWD0003jdu,orders,843,2,,,,[],,reference,Appendix IX,{},,,
+2,AWD0003jdu,orders,843,3,,,,[],,orders,attack,{},,,

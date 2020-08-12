@@ -1,0 +1,455 @@
+Order,Page,Page type,Page number,Count,DateTime,Date,Place,Lat/Lon,Time,Type,Label,Data,GeoID,GeoName,GeoCoords
+1,AWD0002xic,diary,4,5,1915-08-26 00:00:00 UTC,26 Aug 1915,"","[0.0, 0.0]","",diaryDate,26 Aug 1915,"{""day""=>[""26""], ""month""=>[""Aug""], ""year""=>[""1915""]}",2985684,Pozières,"[2.72929, 50.04047]"
+3,AWD0002xic,diary,4,2,1915-08-26 00:00:00 UTC,26 Aug 1915,"Kantara, kantara","[-0.76389, 51.24827]","",place,"Kantara, kantara","{""place""=>[""Kantara"", ""kantara""], ""location""=>[""true""], ""name""=>[""Aldershot""], ""lat""=>[""51.24827""], ""long""=>[""-0.76389""], ""id""=>[""2657540""]}",,,
+6,AWD0002xic,diary,4,4,1915-08-26 00:00:00 UTC,26 Aug 1915,Kantara,"[0.0, 0.0]","",place,Kantara,"{""place""=>[""Kantara""], ""location""=>[""true""], ""name""=>[""Gembloux"", """", ""Bancourt"", ""Chuignes""], ""lat""=>[""50.56149"", """", ""50.10154"", ""49.90039""], ""long""=>[""4.69889"", """", ""2.89004"", ""2.75152""], ""id""=>[""2797713"", """", ""3035164"", ""3024998""]}",,,
+9,AWD0002xic,diary,4,3,1915-08-26 00:00:00 UTC,26 Aug 1915,Kantara,"[0.0, 0.0]","",diaryDate,26 Aug 1915,"{""day""=>[""26""], ""month""=>[""Aug""], ""year""=>[""1915""]}",,,
+10,AWD0002xic,diary,4,2,1915-08-26 00:00:00 UTC,26 Aug 1915,Kantara,"[0.0, 0.0]","",domestic,accomodation,{},,,
+12,AWD0002xic,diary,4,4,1915-08-29 00:00:00 UTC,29 Aug 1915,Kantara,"[0.0, 0.0]","",diaryDate,29 Aug 1915,"{""day""=>[""29""], ""month""=>[""Aug""], ""year""=>[""1915""]}",,,
+16,AWD0002xic,diary,4,2,1915-08-29 00:00:00 UTC,29 Aug 1915,Kantara,"[0.0, 0.0]","",diaryDate,29 Aug 1915,"{""day""=>[""29""], ""month""=>[""Aug""], ""year""=>[""1915""]}",,,
+17,AWD0002xic,diary,4,4,1915-08-29 00:00:00 UTC,29 Aug 1915,Port Said,"[0.0, 0.0]","",place,Port Said,"{""place""=>[""Port Said""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2995469,Marseille,"[5.38107, 43.29695]"
+18,AWD0002xic,diary,4,4,1915-08-29 05:30:00 UTC,29 Aug 1915,Port Said,"[0.0, 0.0]",0530AM,time,0530AM,{},2995469,Marseille,"[5.38107, 43.29695]"
+19,AWD0002xic,diary,4,5,1915-08-29 05:30:00 UTC,29 Aug 1915,Port Said,"[0.0, 0.0]",0530AM,activity,movement,{},2995469,Marseille,"[5.38107, 43.29695]"
+20,AWD0002xic,diary,4,4,1915-08-29 07:30:00 UTC,29 Aug 1915,Port Said,"[0.0, 0.0]",0730AM,time,0730AM,{},2995469,Marseille,"[5.38107, 43.29695]"
+21,AWD0002xic,diary,4,4,1915-08-29 09:30:00 UTC,29 Aug 1915,Port Said,"[0.0, 0.0]",0930AM,time,0930AM,{},2995469,Marseille,"[5.38107, 43.29695]"
+22,AWD0002xic,diary,4,3,1915-08-29 09:30:00 UTC,29 Aug 1915,Port Said,"[0.0, 0.0]",0930AM,activity,movement,{},2995469,Marseille,"[5.38107, 43.29695]"
+23,AWD0002xic,diary,4,2,1915-08-29 09:30:00 UTC,29 Aug 1915,Port Said,"[0.0, 0.0]",0930AM,unit,33rd Punjabis,"{""name""=>[""33rd Punjabis""], ""context""=>[""joined""]}",2995469,Marseille,"[5.38107, 43.29695]"
+24,AWD0002xic,diary,4,4,1915-08-29 14:00:00 UTC,29 Aug 1915,Port Said,"[0.0, 0.0]",0200PM,time,0200PM,{},2995469,Marseille,"[5.38107, 43.29695]"
+25,AWD0002xic,diary,4,3,1915-08-29 14:00:00 UTC,29 Aug 1915,Port Said,"[0.0, 0.0]",0200PM,domestic,inspections,{},2995469,Marseille,"[5.38107, 43.29695]"
+26,AWD0002xic,diary,4,4,1915-08-29 15:30:00 UTC,29 Aug 1915,Port Said,"[0.0, 0.0]",0330PM,time,0330PM,{},2995469,Marseille,"[5.38107, 43.29695]"
+27,AWD0002xic,diary,4,2,1915-08-29 15:30:00 UTC,29 Aug 1915,Port Said,"[0.0, 0.0]",0330PM,activity,movement,{},2995469,Marseille,"[5.38107, 43.29695]"
+28,AWD0002xic,diary,4,2,1915-08-29 15:30:00 UTC,29 Aug 1915,"Port Said, PORTSAID","[0.0, 0.0]",0330PM,place,"Port Said, PORTSAID","{""place""=>[""Port Said"", ""PORTSAID""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2995469,Marseille,"[5.38107, 43.29695]"
+29,AWD0002xic,diary,4,4,1915-09-03 00:00:00 UTC,3 Sep 1915,"Port Said, PORTSAID","[0.0, 0.0]","",diaryDate,3 Sep 1915,"{""day""=>[""3""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2995469,Marseille,"[5.38107, 43.29695]"
+30,AWD0002xic,diary,4,3,1915-09-03 00:00:00 UTC,3 Sep 1915,Marseilles,"[0.0, 0.0]","",place,Marseilles,"{""place""=>[""Marseilles""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2995469,Marseille,"[5.38107, 43.29695]"
+31,AWD0002xic,diary,4,4,1915-09-03 06:00:00 UTC,3 Sep 1915,Marseilles,"[0.0, 0.0]",0600AM,time,0600AM,{},2995469,Marseille,"[5.38107, 43.29695]"
+34,AWD0002xic,diary,4,3,1915-09-03 06:00:00 UTC,3 Sep 1915,Marseilles,"[5.38107, 43.29695]",0600AM,place,Marseilles,"{""place""=>[""Marseilles""], ""location""=>[""true""], ""name""=>[""Marseille""], ""lat""=>[""43.29695""], ""long""=>[""5.38107""], ""id""=>[""2995469""]}",2995469,Marseille,"[5.38107, 43.29695]"
+35,AWD0002xic,diary,4,2,1915-09-03 06:00:00 UTC,3 Sep 1915,Marseilles,"[5.38107, 43.29695]",0600AM,domestic,uniform,{},2995469,Marseille,"[5.38107, 43.29695]"
+36,AWD0002xic,diary,4,2,1915-09-03 06:00:00 UTC,3 Sep 1915,Marseilles,"[5.38107, 43.29695]",0600AM,activity,resupplying,{},2995469,Marseille,"[5.38107, 43.29695]"
+40,AWD0002xic,diary,4,2,1915-09-03 06:00:00 UTC,3 Sep 1915,Marseilles,"[5.38107, 43.29695]",0600AM,place,Kantara,"{""place""=>[""Kantara""], ""location""=>[""true"", ""false""], ""name""=>[""Marseille"", """"], ""lat""=>[""43.29695"", """"], ""long""=>[""5.38107"", """"], ""id""=>[""2995469"", """"]}",2995469,Marseille,"[5.38107, 43.29695]"
+1,AWD0002xih,diary,5,5,1915-09-03 00:00:00 UTC,3 Sep 1915,Marseilles,"[5.38107, 43.29695]","",diaryDate,3 Sep 1915,"{""day""=>[""3""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2995469,Marseille,"[5.38107, 43.29695]"
+2,AWD0002xih,diary,5,5,1915-09-03 16:30:00 UTC,3 Sep 1915,Marseilles,"[5.38107, 43.29695]",0430PM,time,0430PM,{},2995469,Marseille,"[5.38107, 43.29695]"
+3,AWD0002xih,diary,5,5,1915-09-03 16:30:00 UTC,3 Sep 1915,Marseilles,"[5.38107, 43.29695]",0430PM,place,Marseilles,"{""place""=>[""Marseilles""], ""location""=>[""true""], ""name""=>[""Marseille""], ""lat""=>[""43.29695""], ""long""=>[""5.38107""], ""id""=>[""2995469""]}",2995469,Marseille,"[5.38107, 43.29695]"
+4,AWD0002xih,diary,5,3,1915-09-03 16:30:00 UTC,3 Sep 1915,Marseilles,"[5.38107, 43.29695]",0430PM,domestic,inspections,{},2995469,Marseille,"[5.38107, 43.29695]"
+5,AWD0002xih,diary,5,5,1915-09-03 17:15:00 UTC,3 Sep 1915,Marseilles,"[5.38107, 43.29695]",0515PM,time,0515PM,{},2995469,Marseille,"[5.38107, 43.29695]"
+6,AWD0002xih,diary,5,6,1915-09-03 17:15:00 UTC,3 Sep 1915,Marseilles,"[5.38107, 43.29695]",0515PM,activity,movement,{},2995469,Marseille,"[5.38107, 43.29695]"
+7,AWD0002xih,diary,5,5,1915-09-03 19:30:00 UTC,3 Sep 1915,Marseilles,"[5.38107, 43.29695]",0730PM,time,0730PM,{},2995469,Marseille,"[5.38107, 43.29695]"
+8,AWD0002xih,diary,5,3,1915-09-03 19:30:00 UTC,3 Sep 1915,Marseilles,"[5.38107, 43.29695]",0730PM,place,Marseilles,"{""place""=>[""Marseilles""], ""location""=>[""true""], ""name""=>[""Marseille""], ""lat""=>[""43.29695""], ""long""=>[""5.38107""], ""id""=>[""2995469""]}",2995469,Marseille,"[5.38107, 43.29695]"
+11,AWD0002xih,diary,5,2,1915-09-03 19:30:00 UTC,3 Sep 1915,Marseilles,"[5.38107, 43.29695]",0730PM,place,"St. Rambert D'Albon, St Rambert D'Albon","{""place""=>[""St. Rambert D'Albon"", ""St Rambert D'Albon""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2995469,Marseille,"[5.38107, 43.29695]"
+12,AWD0002xih,diary,5,4,1915-09-04 00:00:00 UTC,4 Sep 1915,Marseilles,"[5.38107, 43.29695]","",diaryDate,4 Sep 1915,"{""day""=>[""4""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2995469,Marseille,"[5.38107, 43.29695]"
+13,AWD0002xih,diary,5,3,1915-09-04 00:00:00 UTC,4 Sep 1915,Marseilles,"[5.38107, 43.29695]","",activity,resting,{},2995469,Marseille,"[5.38107, 43.29695]"
+14,AWD0002xih,diary,5,2,1915-09-04 00:00:00 UTC,4 Sep 1915,"rambert, Rambert","[4.81883, 45.29251]","",place,"rambert, Rambert","{""place""=>[""rambert"", ""Rambert""], ""location""=>[""true""], ""name""=>[""Saint-Rambert-d'Albon""], ""lat""=>[""45.29251""], ""long""=>[""4.81883""], ""id""=>[""2977251""]}",2984517,Rambert,"[3.56996, 46.29639]"
+16,AWD0002xih,diary,5,5,1915-09-04 06:45:00 UTC,4 Sep 1915,"rambert, Rambert","[4.81883, 45.29251]",0645AM,time,0645AM,{},2984517,Rambert,"[3.56996, 46.29639]"
+17,AWD0002xih,diary,5,2,1915-09-04 06:45:00 UTC,4 Sep 1915,"rambert, Rambert","[4.81883, 45.29251]",0645AM,activity,movement,{},2984517,Rambert,"[3.56996, 46.29639]"
+18,AWD0002xih,diary,5,5,1915-09-04 06:45:00 UTC,4 Sep 1915,Chalons,"[2.43333, 45.63333]",0645AM,place,Chalons,"{""place""=>[""Chalons""], ""location""=>[""true""], ""name""=>[""Chalons""], ""lat""=>[""45.63333""], ""long""=>[""2.43333""], ""id""=>[""3027489""]}",,,
+19,AWD0002xih,diary,5,5,1915-09-04 13:45:00 UTC,4 Sep 1915,Chalons,"[2.43333, 45.63333]",0145PM,time,0145PM,{},,,
+20,AWD0002xih,diary,5,3,1915-09-04 13:45:00 UTC,4 Sep 1915,Chalons,"[2.43333, 45.63333]",0145PM,activity,resting,{},,,
+21,AWD0002xih,diary,5,2,1915-09-04 13:45:00 UTC,4 Sep 1915,Chalons,"[2.43333, 45.63333]",0145PM,activity,movement,{},,,
+22,AWD0002xih,diary,5,5,1915-09-05 00:00:00 UTC,5 Sep 1915,Chalons,"[2.43333, 45.63333]","",diaryDate,5 Sep 1915,"{""day""=>[""5""], ""month""=>[""Sep""], ""year""=>[""1915""]}",,,
+23,AWD0002xih,diary,5,5,1915-09-05 00:00:00 UTC,5 Sep 1915,Sens,"[3.28333, 48.2]","",place,Sens,"{""place""=>[""Sens""], ""location""=>[""true""], ""name""=>[""Sens""], ""lat""=>[""48.2""], ""long""=>[""3.28333""], ""id""=>[""2975050""]}",2975050,Sens,"[3.28333, 48.2]"
+24,AWD0002xih,diary,5,5,1915-09-05 09:00:00 UTC,5 Sep 1915,Sens,"[3.28333, 48.2]",0900AM,time,0900AM,{},2975050,Sens,"[3.28333, 48.2]"
+25,AWD0002xih,diary,5,3,1915-09-05 09:00:00 UTC,5 Sep 1915,Sens,"[3.28333, 48.2]",0900AM,activity,resting,{},2975050,Sens,"[3.28333, 48.2]"
+26,AWD0002xih,diary,5,5,1915-09-05 20:30:00 UTC,5 Sep 1915,Sens,"[3.28333, 48.2]",0830PM,time,0830PM,{},2975050,Sens,"[3.28333, 48.2]"
+27,AWD0002xih,diary,5,5,1915-09-05 20:30:00 UTC,5 Sep 1915,Mantes,"[0.0, 0.0]",0830PM,place,Mantes,"{""place""=>[""Mantes""], ""location""=>[""true""], ""name""=>[""Sens"", ""Mantes-la-Jolie""], ""lat""=>[""48.2"", ""48.98333""], ""long""=>[""3.28333"", ""1.71667""], ""id""=>[""2975050"", ""2996148""]}",2996148,Mantes-la-Jolie,"[1.71667, 48.98333]"
+28,AWD0002xih,diary,5,4,1915-09-05 20:30:00 UTC,5 Sep 1915,Mantes,"[0.0, 0.0]",0830PM,activity,resting,{},2996148,Mantes-la-Jolie,"[1.71667, 48.98333]"
+30,AWD0002xih,diary,5,5,1915-09-06 00:00:00 UTC,6 Sep 1915,Mantes,"[0.0, 0.0]","",diaryDate,6 Sep 1915,"{""day""=>[""6""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2996148,Mantes-la-Jolie,"[1.71667, 48.98333]"
+31,AWD0002xih,diary,5,5,1915-09-06 00:00:00 UTC,6 Sep 1915,"Abbeville, Abberville","[0.0, 0.0]","",place,"Abbeville, Abberville","{""place""=>[""Abbeville"", ""Abberville""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+32,AWD0002xih,diary,5,5,1915-09-06 07:30:00 UTC,6 Sep 1915,"Abbeville, Abberville","[0.0, 0.0]",0730AM,time,0730AM,{},,,
+33,AWD0002xih,diary,5,2,1915-09-06 07:30:00 UTC,6 Sep 1915,"Abbeville, Abberville","[0.0, 0.0]",0730AM,activity,resting,{},,,
+34,AWD0002xih,diary,5,5,1915-09-06 16:30:00 UTC,6 Sep 1915,"Abbeville, Abberville","[0.0, 0.0]",0430PM,time,0430PM,{},,,
+37,AWD0002xih,diary,5,4,1915-09-06 16:30:00 UTC,6 Sep 1915,Lestrem,"[2.68646, 50.61987]",0430PM,place,Lestrem,"{""place""=>[""Lestrem""], ""location""=>[""true""], ""name""=>[""Lestrem""], ""lat""=>[""50.61987""], ""long""=>[""2.68646""], ""id""=>[""2999446""]}",2999446,Lestrem,"[2.68646, 50.61987]"
+38,AWD0002xih,diary,5,5,1915-09-06 18:00:00 UTC,6 Sep 1915,Lestrem,"[2.68646, 50.61987]",0600PM,time,0600PM,{},2999446,Lestrem,"[2.68646, 50.61987]"
+39,AWD0002xih,diary,5,4,1915-09-06 18:00:00 UTC,6 Sep 1915,Lestrem,"[2.68646, 50.61987]",0600PM,activity,movement,{},2999446,Lestrem,"[2.68646, 50.61987]"
+41,AWD0002xih,diary,5,5,1915-09-06 18:00:00 UTC,6 Sep 1915,Paradis,"[3.70768, 50.73149]",0600PM,place,Paradis,"{""place""=>[""Paradis""], ""location""=>[""true""], ""name""=>[""Paradis""], ""lat""=>[""50.73149""], ""long""=>[""3.70768""], ""id""=>[""2789302""]}",2789302,Paradis,"[3.70768, 50.73149]"
+1,AWD0002xhj,diary,6,4,1915-09-07 00:00:00 UTC,7 Sep 1915,Paradis,"[3.70768, 50.73149]","",diaryDate,7 Sep 1915,"{""day""=>[""7""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2789302,Paradis,"[3.70768, 50.73149]"
+2,AWD0002xhj,diary,6,3,1915-09-07 00:00:00 UTC,7 Sep 1915,Paradis,"[3.70768, 50.73149]","",person,General  Walker,"{""first""=>[""""], ""surname""=>[""Walker""], ""rank""=>[""General""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>["""", ""SIRHIND BRIGADE"", ""Sirhind Brigade""]}",2789302,Paradis,"[3.70768, 50.73149]"
+3,AWD0002xhj,diary,6,2,1915-09-07 00:00:00 UTC,7 Sep 1915,Paradis,"[3.70768, 50.73149]","",place,Paradis,"{""place""=>[""Paradis""], ""location""=>[""true"", ""false""], ""name""=>[""Paradis"", """"], ""lat""=>[""50.73149"", """"], ""long""=>[""3.70768"", """"], ""id""=>[""2789302"", """"]}",2789302,Paradis,"[3.70768, 50.73149]"
+4,AWD0002xhj,diary,6,3,1915-09-07 10:30:00 UTC,7 Sep 1915,Paradis,"[3.70768, 50.73149]",1030AM,time,1030AM,{},2789302,Paradis,"[3.70768, 50.73149]"
+5,AWD0002xhj,diary,6,2,1915-09-07 10:30:00 UTC,7 Sep 1915,Paradis,"[3.70768, 50.73149]",1030AM,unit,Sirhind Brigade,"{""name""=>[""Sirhind Brigade""], ""context""=>[""other"", ""joined""]}",2789302,Paradis,"[3.70768, 50.73149]"
+8,AWD0002xhj,diary,6,2,1915-09-07 10:30:00 UTC,7 Sep 1915,Paradis,"[3.70768, 50.73149]",1030AM,person,"General H,H D'U D'U KEARY, Keary","{""first""=>[""H"", ""H D'U""], ""surname""=>[""D'U KEARY"", ""Keary""], ""rank""=>[""General""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",2789302,Paradis,"[3.70768, 50.73149]"
+10,AWD0002xhj,diary,6,3,1915-09-07 10:30:00 UTC,7 Sep 1915,Paradis,"[3.70768, 50.73149]",1030AM,person,"Lieutenant General J WILCOCKS, Wilcox, Wilcocks","{""first""=>[""J""], ""surname""=>[""WILCOCKS"", ""Wilcox"", ""Wilcocks""], ""rank""=>[""Lieutenant General""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",2789302,Paradis,"[3.70768, 50.73149]"
+12,AWD0002xhj,diary,6,2,1915-09-07 10:30:00 UTC,7 Sep 1915,Paradis,"[3.70768, 50.73149]",1030AM,unit,"15th Sikhs, 15 Sikhs","{""name""=>[""15th Sikhs"", ""15 Sikhs""], ""context""=>[""other""]}",2789302,Paradis,"[3.70768, 50.73149]"
+13,AWD0002xhj,diary,6,4,1915-09-08 00:00:00 UTC,8 Sep 1915,Paradis,"[3.70768, 50.73149]","",diaryDate,8 Sep 1915,"{""day""=>[""8""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2789302,Paradis,"[3.70768, 50.73149]"
+15,AWD0002xhj,diary,6,2,1915-09-08 10:30:00 UTC,8 Sep 1915,Paradis,"[3.70768, 50.73149]",1030AM,time,1030AM,{},2789302,Paradis,"[3.70768, 50.73149]"
+16,AWD0002xhj,diary,6,4,1915-09-08 10:30:00 UTC,8 Sep 1915,Paradis,"[3.70768, 50.73149]",1030AM,domestic,inspections,{},2789302,Paradis,"[3.70768, 50.73149]"
+17,AWD0002xhj,diary,6,2,1915-09-09 00:00:00 UTC,9 Sep 1915,Paradis,"[3.70768, 50.73149]","",diaryDate,9 Sep 1915,"{""day""=>[""9""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2789302,Paradis,"[3.70768, 50.73149]"
+18,AWD0002xhj,diary,6,4,1915-09-09 00:00:00 UTC,9 Sep 1915,Paradis,"[3.70768, 50.73149]","",activity,training,{},2789302,Paradis,"[3.70768, 50.73149]"
+20,AWD0002xhj,diary,6,3,1915-09-13 00:00:00 UTC,13 Sep 1915,Paradis,"[3.70768, 50.73149]","",diaryDate,13 Sep 1915,"{""day""=>[""13""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2789302,Paradis,"[3.70768, 50.73149]"
+21,AWD0002xhj,diary,6,2,1915-09-13 10:45:00 UTC,13 Sep 1915,Paradis,"[3.70768, 50.73149]",1045AM,time,1045AM,{},2789302,Paradis,"[3.70768, 50.73149]"
+22,AWD0002xhj,diary,6,3,1915-09-13 10:45:00 UTC,13 Sep 1915,Paradis,"[3.70768, 50.73149]",1045AM,person,General  Walker,"{""first""=>[""""], ""surname""=>[""Walker""], ""rank""=>[""General""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",2789302,Paradis,"[3.70768, 50.73149]"
+23,AWD0002xhj,diary,6,3,1915-09-13 10:45:00 UTC,13 Sep 1915,Paradis,"[3.70768, 50.73149]",1045AM,domestic,inspections,{},2789302,Paradis,"[3.70768, 50.73149]"
+1,AWD0002xi6,diary,7,3,1915-09-19 00:00:00 UTC,19 Sep 1915,Paradis,"[3.70768, 50.73149]","",diaryDate,19 Sep 1915,"{""day""=>[""19""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2789302,Paradis,"[3.70768, 50.73149]"
+2,AWD0002xi6,diary,7,4,1915-09-19 00:00:00 UTC,19 Sep 1915,Paradis,"[3.70768, 50.73149]","",place,Paradis,"{""place""=>[""Paradis""], ""location""=>[""true"", ""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2789302,Paradis,"[3.70768, 50.73149]"
+3,AWD0002xi6,diary,7,3,1915-09-19 22:00:00 UTC,19 Sep 1915,Paradis,"[3.70768, 50.73149]",1000PM,time,1000PM,{},2789302,Paradis,"[3.70768, 50.73149]"
+6,AWD0002xi6,diary,7,3,1915-09-20 00:00:00 UTC,20 Sep 1915,Paradis,"[3.70768, 50.73149]","",diaryDate,20 Sep 1915,"{""day""=>[""20""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2789302,Paradis,"[3.70768, 50.73149]"
+8,AWD0002xi6,diary,7,3,1915-09-20 10:00:00 UTC,20 Sep 1915,Paradis,"[3.70768, 50.73149]",1000AM,time,1000AM,{},2789302,Paradis,"[3.70768, 50.73149]"
+10,AWD0002xi6,diary,7,2,1915-09-20 10:00:00 UTC,20 Sep 1915,Paradis,"[3.70768, 50.73149]",1000AM,gridRef,R 29 a,{},2789302,Paradis,"[3.70768, 50.73149]"
+13,AWD0002xi6,diary,7,3,1915-09-20 11:30:00 UTC,20 Sep 1915,Paradis,"[3.70768, 50.73149]",1130AM,time,1130AM,{},2789302,Paradis,"[3.70768, 50.73149]"
+14,AWD0002xi6,diary,7,3,1915-09-20 11:30:00 UTC,20 Sep 1915,Paradis,"[3.70768, 50.73149]",1130AM,domestic,inspections,{},2789302,Paradis,"[3.70768, 50.73149]"
+16,AWD0002xi6,diary,7,2,1915-09-20 11:30:00 UTC,20 Sep 1915,Paradis,"[3.70768, 50.73149]",1130AM,person,other  Kitchener,"{""first""=>[""""], ""surname""=>[""Kitchener""], ""rank""=>[""other""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2789302,Paradis,"[3.70768, 50.73149]"
+17,AWD0002xi6,diary,7,3,1915-09-20 11:30:00 UTC,20 Sep 1915,Paradis,"[3.70768, 50.73149]",1130AM,person,"General  Andersen, anderson, Anderson","{""first""=>[""""], ""surname""=>[""Andersen"", ""anderson"", ""Anderson""], ""rank""=>[""General""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2789302,Paradis,"[3.70768, 50.73149]"
+18,AWD0002xi6,diary,7,2,1915-09-20 11:30:00 UTC,20 Sep 1915,Paradis,"[3.70768, 50.73149]",1130AM,person,"General  Dureary, Dukeary","{""first""=>[""""], ""surname""=>[""Dureary"", ""Dukeary""], ""rank""=>[""General""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2789302,Paradis,"[3.70768, 50.73149]"
+19,AWD0002xi6,diary,7,3,1915-09-20 11:30:00 UTC,20 Sep 1915,Paradis,"[3.70768, 50.73149]",1130AM,person,General  Haig,"{""first""=>[""""], ""surname""=>[""Haig""], ""rank""=>[""General""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2789302,Paradis,"[3.70768, 50.73149]"
+21,AWD0002xi6,diary,7,2,1915-09-20 14:15:00 UTC,20 Sep 1915,Paradis,"[3.70768, 50.73149]",0215PM,time,0215PM,{},2789302,Paradis,"[3.70768, 50.73149]"
+23,AWD0002xi6,diary,7,3,1915-09-20 18:00:00 UTC,20 Sep 1915,Paradis,"[3.70768, 50.73149]",0600PM,time,0600PM,{},2789302,Paradis,"[3.70768, 50.73149]"
+24,AWD0002xi6,diary,7,3,1915-09-20 18:00:00 UTC,20 Sep 1915,Paradis,"[3.70768, 50.73149]",0600PM,activity,movement,{},2789302,Paradis,"[3.70768, 50.73149]"
+25,AWD0002xi6,diary,7,2,1915-09-20 18:00:00 UTC,20 Sep 1915,Paradis,"[3.70768, 50.73149]",0600PM,place,Lawe Canal,"{""place""=>[""Lawe Canal""], ""location""=>[""true"", ""false""], ""name""=>[""Paradis"", """"], ""lat""=>[""50.73149"", """"], ""long""=>[""3.70768"", """"], ""id""=>[""2789302"", """"]}",2789302,Paradis,"[3.70768, 50.73149]"
+26,AWD0002xi6,diary,7,3,1915-09-20 19:30:00 UTC,20 Sep 1915,Paradis,"[3.70768, 50.73149]",0730PM,time,0730PM,{},2789302,Paradis,"[3.70768, 50.73149]"
+28,AWD0002xi6,diary,7,3,1915-09-21 00:00:00 UTC,21 Sep 1915,Paradis,"[3.70768, 50.73149]","",diaryDate,21 Sep 1915,"{""day""=>[""21""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2789302,Paradis,"[3.70768, 50.73149]"
+29,AWD0002xi6,diary,7,2,1915-09-21 10:30:00 UTC,21 Sep 1915,Paradis,"[3.70768, 50.73149]",1030AM,time,1030AM,{},2789302,Paradis,"[3.70768, 50.73149]"
+1,AWD0002xik,diary,8,2,1915-09-20 00:00:00 UTC,20 Sep 1915,Paradis,"[3.70768, 50.73149]","",diaryDate,20 Sep 1915,"{""day""=>[""20""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2789302,Paradis,"[3.70768, 50.73149]"
+7,AWD0002xik,diary,8,5,1915-09-21 00:00:00 UTC,21 Sep 1915,Paradis,"[3.70768, 50.73149]","",diaryDate,21 Sep 1915,"{""day""=>[""21""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2789302,Paradis,"[3.70768, 50.73149]"
+8,AWD0002xik,diary,8,2,1915-09-21 15:00:00 UTC,21 Sep 1915,Paradis,"[3.70768, 50.73149]",0300PM,time,0300PM,{},2789302,Paradis,"[3.70768, 50.73149]"
+12,AWD0002xik,diary,8,5,1915-09-22 00:00:00 UTC,22 Sep 1915,Paradis,"[3.70768, 50.73149]","",diaryDate,22 Sep 1915,"{""day""=>[""22""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2789302,Paradis,"[3.70768, 50.73149]"
+13,AWD0002xik,diary,8,3,1915-09-22 10:00:00 UTC,22 Sep 1915,Paradis,"[3.70768, 50.73149]",1000AM,time,1000AM,{},2789302,Paradis,"[3.70768, 50.73149]"
+16,AWD0002xik,diary,8,2,1915-09-22 10:00:00 UTC,22 Sep 1915,Paradis,"[3.70768, 50.73149]",1000AM,activity,reconnoitered,{},2789302,Paradis,"[3.70768, 50.73149]"
+21,AWD0002xik,diary,8,3,1915-09-22 15:00:00 UTC,22 Sep 1915,Paradis,"[3.70768, 50.73149]",0300PM,time,0300PM,{},2789302,Paradis,"[3.70768, 50.73149]"
+22,AWD0002xik,diary,8,2,1915-09-22 15:00:00 UTC,22 Sep 1915,Paradis,"[3.70768, 50.73149]",0300PM,activity,reconnoitered,{},2789302,Paradis,"[3.70768, 50.73149]"
+1,AWD0002xi9,diary,9,4,1915-09-23 00:00:00 UTC,23 Sep 1915,Paradis,"[3.70768, 50.73149]","",diaryDate,23 Sep 1915,"{""day""=>[""23""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2789302,Paradis,"[3.70768, 50.73149]"
+2,AWD0002xi9,diary,9,3,1915-09-23 11:00:00 UTC,23 Sep 1915,Paradis,"[3.70768, 50.73149]",1100AM,time,1100AM,{},2789302,Paradis,"[3.70768, 50.73149]"
+3,AWD0002xi9,diary,9,3,1915-09-24 00:00:00 UTC,24 Sep 1915,Paradis,"[3.70768, 50.73149]","",diaryDate,24 Sep 1915,"{""day""=>[""24""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2789302,Paradis,"[3.70768, 50.73149]"
+4,AWD0002xi9,diary,9,3,1915-09-24 00:00:00 UTC,24 Sep 1915,Paradis,"[3.70768, 50.73149]","",activity,movement,{},2789302,Paradis,"[3.70768, 50.73149]"
+5,AWD0002xi9,diary,9,3,1915-09-24 20:30:00 UTC,24 Sep 1915,Paradis,"[3.70768, 50.73149]",0830PM,time,0830PM,{},2789302,Paradis,"[3.70768, 50.73149]"
+8,AWD0002xi9,diary,9,3,1915-09-24 22:30:00 UTC,24 Sep 1915,Paradis,"[3.70768, 50.73149]",1030PM,time,1030PM,{},2789302,Paradis,"[3.70768, 50.73149]"
+11,AWD0002xi9,diary,9,4,1915-09-25 00:00:00 UTC,25 Sep 1915,Paradis,"[3.70768, 50.73149]","",diaryDate,25 Sep 1915,"{""day""=>[""25""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2789302,Paradis,"[3.70768, 50.73149]"
+12,AWD0002xi9,diary,9,3,1915-09-25 04:00:00 UTC,25 Sep 1915,Paradis,"[3.70768, 50.73149]",0400AM,time,0400AM,{},2789302,Paradis,"[3.70768, 50.73149]"
+15,AWD0002xi9,diary,9,3,1915-09-25 06:15:00 UTC,25 Sep 1915,Paradis,"[3.70768, 50.73149]",0615AM,time,0615AM,{},2789302,Paradis,"[3.70768, 50.73149]"
+17,AWD0002xi9,diary,9,2,1915-09-25 08:05:00 UTC,25 Sep 1915,Paradis,"[3.70768, 50.73149]",0805AM,time,0805AM,{},2789302,Paradis,"[3.70768, 50.73149]"
+18,AWD0002xi9,diary,9,3,1915-09-25 08:05:00 UTC,25 Sep 1915,Paradis,"[3.70768, 50.73149]",0805AM,activity,movement,{},2789302,Paradis,"[3.70768, 50.73149]"
+19,AWD0002xi9,diary,9,3,1915-09-25 08:30:00 UTC,25 Sep 1915,Paradis,"[3.70768, 50.73149]",0830AM,time,0830AM,{},2789302,Paradis,"[3.70768, 50.73149]"
+21,AWD0002xi9,diary,9,3,1915-09-25 09:00:00 UTC,25 Sep 1915,Paradis,"[3.70768, 50.73149]",0900AM,time,0900AM,{},2789302,Paradis,"[3.70768, 50.73149]"
+28,AWD0002xi9,diary,9,2,1915-09-25 13:15:00 UTC,25 Sep 1915,Paradis,"[3.70768, 50.73149]",0115PM,time,0115PM,{},2789302,Paradis,"[3.70768, 50.73149]"
+29,AWD0002xi9,diary,9,3,1915-09-25 18:30:00 UTC,25 Sep 1915,Paradis,"[3.70768, 50.73149]",0630PM,time,0630PM,{},2789302,Paradis,"[3.70768, 50.73149]"
+30,AWD0002xi9,diary,9,3,1915-09-25 18:30:00 UTC,25 Sep 1915,Paradis,"[3.70768, 50.73149]",0630PM,activity,quiet,{},2789302,Paradis,"[3.70768, 50.73149]"
+32,AWD0002xi9,diary,9,3,1915-09-25 19:30:00 UTC,25 Sep 1915,Paradis,"[3.70768, 50.73149]",0730PM,time,0730PM,{},2789302,Paradis,"[3.70768, 50.73149]"
+33,AWD0002xi9,diary,9,2,1915-09-25 19:30:00 UTC,25 Sep 1915,Paradis,"[3.70768, 50.73149]",0730PM,activity,movement,{},2789302,Paradis,"[3.70768, 50.73149]"
+36,AWD0002xi9,diary,9,3,1915-09-25 19:30:00 UTC,25 Sep 1915,Paradis,"[3.70768, 50.73149]",0730PM,weather,rain,{},2789302,Paradis,"[3.70768, 50.73149]"
+1,AWD0002xhu,diary,10,3,1915-09-26 00:00:00 UTC,26 Sep 1915,Paradis,"[3.70768, 50.73149]","",diaryDate,26 Sep 1915,"{""day""=>[""26""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2789302,Paradis,"[3.70768, 50.73149]"
+2,AWD0002xhu,diary,10,2,1915-09-26 00:00:00 UTC,26 Sep 1915,Croix Barbee,"[0.0, 0.0]","",place,Croix Barbee,"{""place""=>[""Croix Barbee""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2969331,Gorre,"[2.70071, 50.59103]"
+4,AWD0002xhu,diary,10,4,1915-09-27 00:00:00 UTC,27 Sep 1915,Croix Barbee,"[0.0, 0.0]","",diaryDate,27 Sep 1915,"{""day""=>[""27""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2969331,Gorre,"[2.70071, 50.59103]"
+5,AWD0002xhu,diary,10,3,1915-09-27 20:00:00 UTC,27 Sep 1915,Croix Barbee,"[0.0, 0.0]",0800PM,time,0800PM,{},2969331,Gorre,"[2.70071, 50.59103]"
+8,AWD0002xhu,diary,10,2,1915-09-27 20:00:00 UTC,27 Sep 1915,Croix Barbee,"[0.0, 0.0]",0800PM,activity,movement,{},2969331,Gorre,"[2.70071, 50.59103]"
+11,AWD0002xhu,diary,10,3,1915-09-27 23:00:00 UTC,27 Sep 1915,Croix Barbee,"[0.0, 0.0]",1100PM,time,1100PM,{},2969331,Gorre,"[2.70071, 50.59103]"
+16,AWD0002xhu,diary,10,4,1915-09-28 00:00:00 UTC,28 Sep 1915,Croix Barbee,"[0.0, 0.0]","",diaryDate,28 Sep 1915,"{""day""=>[""28""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2969331,Gorre,"[2.70071, 50.59103]"
+17,AWD0002xhu,diary,10,2,1915-09-28 09:30:00 UTC,28 Sep 1915,Croix Barbee,"[0.0, 0.0]",0930AM,time,0930AM,{},2969331,Gorre,"[2.70071, 50.59103]"
+20,AWD0002xhu,diary,10,3,1915-09-28 13:00:00 UTC,28 Sep 1915,Croix Barbee,"[0.0, 0.0]",0100PM,time,0100PM,{},2969331,Gorre,"[2.70071, 50.59103]"
+21,AWD0002xhu,diary,10,3,1915-09-28 13:00:00 UTC,28 Sep 1915,Croix Barbee,"[0.0, 0.0]",0100PM,activity,movement,{},2969331,Gorre,"[2.70071, 50.59103]"
+22,AWD0002xhu,diary,10,3,1915-09-28 16:00:00 UTC,28 Sep 1915,Croix Barbee,"[0.0, 0.0]",0400PM,time,0400PM,{},2969331,Gorre,"[2.70071, 50.59103]"
+23,AWD0002xhu,diary,10,3,1915-09-28 16:00:00 UTC,28 Sep 1915,Gorre,"[0.0, 0.0]",0400PM,place,Gorre,"{""place""=>[""Gorre""], ""location""=>[""true""], ""name""=>["""", ""Le Quesnoy"", ""Gorre""], ""lat""=>["""", ""50.24797"", ""50.53759""], ""long""=>["""", ""3.63656"", ""2.70091""], ""id""=>["""", ""3002420"", ""3015646""]}",3015646,Gorre,"[2.70091, 50.53759]"
+24,AWD0002xhu,diary,10,3,1915-09-28 19:00:00 UTC,28 Sep 1915,Gorre,"[0.0, 0.0]",0700PM,time,0700PM,{},3015646,Gorre,"[2.70091, 50.53759]"
+25,AWD0002xhu,diary,10,3,1915-09-28 19:00:00 UTC,28 Sep 1915,le quesnoy,"[3.63656, 50.24797]",0700PM,place,le quesnoy,"{""place""=>[""le quesnoy""], ""location""=>[""true""], ""name""=>[""Le Quesnoy""], ""lat""=>[""50.24797""], ""long""=>[""3.63656""], ""id""=>[""3002420""]}",3002420,Le Quesnoy,"[3.63656, 50.24797]"
+27,AWD0002xhu,diary,10,2,1915-09-28 19:00:00 UTC,28 Sep 1915,le quesnoy,"[3.63656, 50.24797]",0700PM,unit,Glasgow Highlanders,"{""name""=>[""Glasgow Highlanders""], ""context""=>[""other"", ""relieved""]}",3002420,Le Quesnoy,"[3.63656, 50.24797]"
+28,AWD0002xhu,diary,10,3,1915-09-28 19:00:00 UTC,28 Sep 1915,le quesnoy,"[3.63656, 50.24797]",0700PM,weather,rain,{},3002420,Le Quesnoy,"[3.63656, 50.24797]"
+29,AWD0002xhu,diary,10,4,1915-09-29 00:00:00 UTC,29 Sep 1915,le quesnoy,"[3.63656, 50.24797]","",diaryDate,29 Sep 1915,"{""day""=>[""29""], ""month""=>[""Sep""], ""year""=>[""1915""]}",3002420,Le Quesnoy,"[3.63656, 50.24797]"
+30,AWD0002xhu,diary,10,3,1915-09-29 15:00:00 UTC,29 Sep 1915,le quesnoy,"[3.63656, 50.24797]",0300PM,time,0300PM,{},3002420,Le Quesnoy,"[3.63656, 50.24797]"
+33,AWD0002xhu,diary,10,2,1915-09-29 15:00:00 UTC,29 Sep 1915,le quesnoy,"[3.63656, 50.24797]",0300PM,activity,training,{},3002420,Le Quesnoy,"[3.63656, 50.24797]"
+34,AWD0002xhu,diary,10,3,1915-09-29 17:00:00 UTC,29 Sep 1915,le quesnoy,"[3.63656, 50.24797]",0500PM,time,0500PM,{},3002420,Le Quesnoy,"[3.63656, 50.24797]"
+35,AWD0002xhu,diary,10,2,1915-09-29 17:00:00 UTC,29 Sep 1915,le quesnoy,"[3.63656, 50.24797]",0500PM,activity,movement,{},3002420,Le Quesnoy,"[3.63656, 50.24797]"
+39,AWD0002xhu,diary,10,3,1915-09-29 20:30:00 UTC,29 Sep 1915,le quesnoy,"[3.63656, 50.24797]",0830PM,time,0830PM,{},3002420,Le Quesnoy,"[3.63656, 50.24797]"
+1,AWD0002xi5,diary,11,3,1915-09-30 00:00:00 UTC,30 Sep 1915,le quesnoy,"[3.63656, 50.24797]","",diaryDate,30 Sep 1915,"{""day""=>[""30""], ""month""=>[""Sep""], ""year""=>[""1915""]}",3002420,Le Quesnoy,"[3.63656, 50.24797]"
+2,AWD0002xi5,diary,11,3,1915-09-30 00:00:00 UTC,30 Sep 1915,Gorre,"[0.0, 0.0]","",place,Gorre,"{""place""=>[""Gorre""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3015646,Gorre,"[2.70091, 50.53759]"
+4,AWD0002xhv,signals,12,2,,,,[],,unit,"1 / HLI, 1/1 GR","{""name""=>[""1 / HLI"", ""1/1 GR""], ""context""=>[""other""]}",,,
+8,AWD0002xhv,signals,12,2,,,,[],,date,25 Sep 1915,{},,,
+13,AWD0002xhv,signals,12,2,,,,[],,unit,"1/1 GR, 1 / HLI","{""name""=>[""1/1 GR"", ""1 / HLI""], ""context""=>[""other""]}",,,
+23,AWD0002xhv,signals,12,4,,,,[],,time,0745AM,{},,,
+2,AWD0002xhz,signals,13,2,,,,[],,unit,"1 / HLI, 1/1 GR","{""name""=>[""1 / HLI"", ""1/1 GR""], ""context""=>[""other""]}",,,
+4,AWD0002xhz,signals,13,2,,,,[],,date,25 Sep 1915,{},,,
+10,AWD0002xhz,signals,13,2,,,,[],,person,Lieutenant Colonel  Anderson,"{""first""=>[""""], ""surname""=>[""Anderson""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+18,AWD0002xhz,signals,13,3,,,,[],,unit,1 / HLI,"{""name""=>[""1 / HLI""], ""context""=>[""other""]}",,,
+9,AWD0002xi4,signals,14,2,,,,[],,time,1245PM,{},,,
+5,AWD0002xho,signals,15,2,,,,[],,unit,"HLI, 27 P","{""name""=>[""HLI"", ""27 P""], ""context""=>[""other""]}",,,
+11,AWD0002xho,signals,15,2,,,,[],,unit,"1st Seaforths AAD, 1st Seaforths","{""name""=>[""1st Seaforths AAD"", ""1st Seaforths""], ""context""=>[""other""]}",,,
+9,AWD0002xi0,signals,16,2,,,,[],,date,28 Sep 1915,{},,,
+13,AWD0002xi0,signals,16,2,,,,[],,unit,"HLI, 27 P","{""name""=>[""HLI"", ""27 P""], ""context""=>[""other""]}",,,
+15,AWD0002xi0,signals,16,2,,,,[],,unit,1/1 GR,"{""name""=>[""1/1 GR""], ""context""=>[""other""]}",,,
+18,AWD0002xi0,signals,16,3,,,,[],,time,1220PM,{},,,
+2,AWD0002xid,diary,18,5,1915-10-01 00:00:00 UTC,1 Oct 1915,Gorre,"[0.0, 0.0]","",diaryDate,1 Oct 1915,"{""day""=>[""1""], ""month""=>[""Oct""], ""year""=>[""1915""]}",3015646,Gorre,"[2.70091, 50.53759]"
+4,AWD0002xid,diary,18,5,1915-10-01 00:00:00 UTC,1 Oct 1915,Gorre,"[2.70091, 50.53759]","",place,Gorre,"{""place""=>[""Gorre""], ""location""=>[""true""], ""name""=>[""Gorre""], ""lat""=>[""50.53759"", """"], ""long""=>[""2.70091"", """"], ""id""=>[""3015646"", """"]}",3015646,Gorre,"[2.70091, 50.53759]"
+6,AWD0002xid,diary,18,2,1915-10-01 00:00:00 UTC,1 Oct 1915,Gorre,"[2.70091, 50.53759]","",place,La Gorgue,"{""place""=>[""La Gorgue""], ""location""=>[""false""], ""name""=>[""La Gorgue""], ""lat""=>[""50.6379""], ""long""=>[""2.71502""], ""id""=>[""3009050""]}",3015646,Gorre,"[2.70091, 50.53759]"
+9,AWD0002xid,diary,18,2,1915-10-01 00:00:00 UTC,1 Oct 1915,Gorre,"[2.70091, 50.53759]","",place,"Lehamel, Le Hamel","{""place""=>[""Lehamel"", ""Le Hamel""], ""location""=>[""false""], ""name""=>[""La Gorgue"", ""Le Hamel""], ""lat""=>[""50.6379"", ""49.89877""], ""long""=>[""2.71502"", ""2.56936""], ""id""=>[""3009050"", ""3003841""]}",3015646,Gorre,"[2.70091, 50.53759]"
+12,AWD0002xid,diary,18,3,1915-10-01 00:00:00 UTC,1 Oct 1915,Gorre,"[2.70091, 50.53759]","",activity,movement,{},3015646,Gorre,"[2.70091, 50.53759]"
+15,AWD0002xid,diary,18,2,1915-10-01 15:00:00 UTC,1 Oct 1915,Gorre,"[2.70091, 50.53759]",0300PM,time,0300PM,{},3015646,Gorre,"[2.70091, 50.53759]"
+16,AWD0002xid,diary,18,3,1915-10-01 18:00:00 UTC,1 Oct 1915,Gorre,"[2.70091, 50.53759]",0600PM,time,0600PM,{},3015646,Gorre,"[2.70091, 50.53759]"
+17,AWD0002xid,diary,18,3,1915-10-01 18:00:00 UTC,1 Oct 1915,Bethune,"[2.63333, 50.53333]",0600PM,place,Bethune,"{""place""=>[""Bethune""], ""location""=>[""true""], ""name""=>[""Béthune""], ""lat""=>[""50.53333""], ""long""=>[""2.63333""], ""id""=>[""3033002""]}",3033002,Béthune,"[2.63333, 50.53333]"
+18,AWD0002xid,diary,18,3,1915-10-01 00:00:00 UTC,1 Oct 1915,Bethune,"[2.63333, 50.53333]","",diaryDate,1 Oct 1915,"{""day""=>[""1""], ""month""=>[""Oct""], ""year""=>[""1915""]}",3033002,Béthune,"[2.63333, 50.53333]"
+20,AWD0002xid,diary,18,2,1915-10-01 00:00:00 UTC,1 Oct 1915,Bethune,"[2.63333, 50.53333]","",domestic,accomodation,{},3033002,Béthune,"[2.63333, 50.53333]"
+21,AWD0002xid,diary,18,5,1915-10-02 00:00:00 UTC,2 Oct 1915,Bethune,"[2.63333, 50.53333]","",diaryDate,2 Oct 1915,"{""day""=>[""2""], ""month""=>[""Oct""], ""year""=>[""1915""]}",3033002,Béthune,"[2.63333, 50.53333]"
+24,AWD0002xid,diary,18,4,1915-10-02 00:30:00 UTC,2 Oct 1915,Bethune,"[2.63333, 50.53333]",1230AM,time,1230AM,{},3033002,Béthune,"[2.63333, 50.53333]"
+26,AWD0002xid,diary,18,4,1915-10-02 08:40:00 UTC,2 Oct 1915,Bethune,"[2.63333, 50.53333]",0840AM,time,0840AM,{},3033002,Béthune,"[2.63333, 50.53333]"
+27,AWD0002xid,diary,18,2,1915-10-02 00:00:00 UTC,2 Oct 1915,Bethune,"[2.63333, 50.53333]","",diaryDate,2 Oct 1915,"{""day""=>[""2""], ""month""=>[""Oct""], ""year""=>[""1915""]}",3033002,Béthune,"[2.63333, 50.53333]"
+28,AWD0002xid,diary,18,3,1915-10-02 00:00:00 UTC,2 Oct 1915,Bethune,"[2.63333, 50.53333]","",activity,movement,{},3033002,Béthune,"[2.63333, 50.53333]"
+31,AWD0002xid,diary,18,2,1915-10-02 00:00:00 UTC,2 Oct 1915,Bethune,"[2.63333, 50.53333]","",diaryDate,2 Oct 1915,"{""day""=>[""2""], ""month""=>[""Oct""], ""year""=>[""1915""]}",3033002,Béthune,"[2.63333, 50.53333]"
+32,AWD0002xid,diary,18,4,1915-10-02 13:30:00 UTC,2 Oct 1915,Bethune,"[2.63333, 50.53333]",0130PM,time,0130PM,{},3033002,Béthune,"[2.63333, 50.53333]"
+33,AWD0002xid,diary,18,3,1915-10-02 13:30:00 UTC,2 Oct 1915,Merville,"[2.64125, 50.64329]",0130PM,place,Merville,"{""place""=>[""Merville""], ""location""=>[""true""], ""name""=>[""Merville""], ""lat""=>[""50.64329""], ""long""=>[""2.64125""], ""id""=>[""2994297""]}",2994297,Merville,"[2.64125, 50.64329]"
+34,AWD0002xid,diary,18,2,1915-10-02 13:30:00 UTC,2 Oct 1915,Merville,"[2.64125, 50.64329]",0130PM,domestic,accomodation,{},2994297,Merville,"[2.64125, 50.64329]"
+2,AWD0002xi7,diary,19,5,1915-10-03 00:00:00 UTC,3 Oct 1915,Merville,"[2.64125, 50.64329]","",diaryDate,3 Oct 1915,"{""day""=>[""3""], ""month""=>[""Oct""], ""year""=>[""1915""]}",2994297,Merville,"[2.64125, 50.64329]"
+3,AWD0002xi7,diary,19,5,1915-10-03 07:00:00 UTC,3 Oct 1915,Merville,"[2.64125, 50.64329]",0700AM,time,0700AM,{},2994297,Merville,"[2.64125, 50.64329]"
+8,AWD0002xi7,diary,19,5,1915-10-03 13:00:00 UTC,3 Oct 1915,Merville,"[2.64125, 50.64329]",0100PM,time,0100PM,{},2994297,Merville,"[2.64125, 50.64329]"
+11,AWD0002xi7,diary,19,2,1915-10-03 00:00:00 UTC,3 Oct 1915,Merville,"[2.64125, 50.64329]","",diaryDate,3 Oct 1915,"{""day""=>[""3""], ""month""=>[""Oct""], ""year""=>[""1915""]}",2994297,Merville,"[2.64125, 50.64329]"
+14,AWD0002xi7,diary,19,2,1915-10-03 00:00:00 UTC,3 Oct 1915,Merville,"[2.64125, 50.64329]","",place,"La Bassee R, La Bassee Road","{""place""=>[""La Bassee R"", ""La Bassee Road""], ""location""=>[""false""], ""name""=>["""", ""Paradis""], ""lat""=>["""", ""49.5""], ""long""=>["""", ""-2.51667""], ""id""=>["""", ""3042307""]}",2994297,Merville,"[2.64125, 50.64329]"
+16,AWD0002xi7,diary,19,3,1915-10-03 16:45:00 UTC,3 Oct 1915,Merville,"[2.64125, 50.64329]",0445PM,time,0445PM,{},2994297,Merville,"[2.64125, 50.64329]"
+22,AWD0002xi7,diary,19,3,1915-10-03 00:00:00 UTC,3 Oct 1915,Merville,"[2.64125, 50.64329]","",diaryDate,3 Oct 1915,"{""day""=>[""3""], ""month""=>[""Oct""], ""year""=>[""1915""]}",2994297,Merville,"[2.64125, 50.64329]"
+23,AWD0002xi7,diary,19,4,1915-10-03 17:15:00 UTC,3 Oct 1915,Merville,"[2.64125, 50.64329]",0515PM,time,0515PM,{},2994297,Merville,"[2.64125, 50.64329]"
+24,AWD0002xi7,diary,19,4,1915-10-03 17:15:00 UTC,3 Oct 1915,Merville,"[2.64125, 50.64329]",0515PM,activity,movement,{},2994297,Merville,"[2.64125, 50.64329]"
+26,AWD0002xi7,diary,19,2,1915-10-03 17:15:00 UTC,3 Oct 1915,Merville,"[2.64125, 50.64329]",0515PM,domestic,accomodation,{},2994297,Merville,"[2.64125, 50.64329]"
+27,AWD0002xi7,diary,19,5,1915-10-04 00:00:00 UTC,4 Oct 1915,Merville,"[2.64125, 50.64329]","",diaryDate,4 Oct 1915,"{""day""=>[""4""], ""month""=>[""Oct""], ""year""=>[""1915""]}",2994297,Merville,"[2.64125, 50.64329]"
+29,AWD0002xi7,diary,19,5,1915-10-04 01:00:00 UTC,4 Oct 1915,Merville,"[2.64125, 50.64329]",0100AM,time,0100AM,{},2994297,Merville,"[2.64125, 50.64329]"
+30,AWD0002xi7,diary,19,5,1915-10-04 01:00:00 UTC,4 Oct 1915,Merville,"[2.64125, 50.64329]",0100AM,activity,line,{},2994297,Merville,"[2.64125, 50.64329]"
+33,AWD0002xi7,diary,19,5,1915-10-05 00:00:00 UTC,5 Oct 1915,Merville,"[2.64125, 50.64329]","",diaryDate,5 Oct 1915,"{""day""=>[""5""], ""month""=>[""Oct""], ""year""=>[""1915""]}",2994297,Merville,"[2.64125, 50.64329]"
+36,AWD0002xi7,diary,19,2,1915-10-05 02:00:00 UTC,5 Oct 1915,Merville,"[2.64125, 50.64329]",0200AM,time,0200AM,{},2994297,Merville,"[2.64125, 50.64329]"
+39,AWD0002xi7,diary,19,2,1915-10-05 02:00:00 UTC,5 Oct 1915,Merville,"[2.64125, 50.64329]",0200AM,activity,fire,{},2994297,Merville,"[2.64125, 50.64329]"
+42,AWD0002xi7,diary,19,2,1915-10-05 00:00:00 UTC,5 Oct 1915,Merville,"[2.64125, 50.64329]","",diaryDate,5 Oct 1915,"{""day""=>[""5""], ""month""=>[""Oct""], ""year""=>[""1915""]}",2994297,Merville,"[2.64125, 50.64329]"
+43,AWD0002xi7,diary,19,4,1915-10-05 00:00:00 UTC,5 Oct 1915,Merville,"[2.64125, 50.64329]","",activity,quiet,{},2994297,Merville,"[2.64125, 50.64329]"
+46,AWD0002xi7,diary,19,3,1915-10-05 00:00:00 UTC,5 Oct 1915,Merville,"[2.64125, 50.64329]","",activity,quiet,{},2994297,Merville,"[2.64125, 50.64329]"
+50,AWD0002xi7,diary,19,6,1915-10-08 00:00:00 UTC,8 Oct 1915,Merville,"[2.64125, 50.64329]","",diaryDate,8 Oct 1915,"{""day""=>[""8""], ""month""=>[""Oct""], ""year""=>[""1915""]}",2994297,Merville,"[2.64125, 50.64329]"
+51,AWD0002xi7,diary,19,2,1915-10-08 00:00:00 UTC,8 Oct 1915,Merville,"[2.64125, 50.64329]","",activity,line,{},2994297,Merville,"[2.64125, 50.64329]"
+52,AWD0002xi7,diary,19,3,1915-10-08 00:00:00 UTC,8 Oct 1915,Merville,"[2.64125, 50.64329]","",activity,enemy_activity,{},2994297,Merville,"[2.64125, 50.64329]"
+1,AWD0002xil,diary,20,4,1915-10-09 00:00:00 UTC,9 Oct 1915,Merville,"[2.64125, 50.64329]","",diaryDate,9 Oct 1915,"{""day""=>[""9""], ""month""=>[""Oct""], ""year""=>[""1915""]}",2994297,Merville,"[2.64125, 50.64329]"
+3,AWD0002xil,diary,20,3,1915-10-09 12:00:00 UTC,9 Oct 1915,Merville,"[2.64125, 50.64329]",1200PM,time,1200PM,{},2994297,Merville,"[2.64125, 50.64329]"
+5,AWD0002xil,diary,20,2,1915-10-09 12:00:00 UTC,9 Oct 1915,Merville,"[2.64125, 50.64329]",1200PM,activity,line,{},2994297,Merville,"[2.64125, 50.64329]"
+7,AWD0002xil,diary,20,2,1915-10-09 12:00:00 UTC,9 Oct 1915,Merville,"[2.64125, 50.64329]",1200PM,unit,"1/1 Gurkha Rifles, 1/1 Gurkha rifles","{""name""=>[""1/1 Gurkha Rifles"", ""1/1 Gurkha rifles""], ""context""=>[""relieved_by""]}",2994297,Merville,"[2.64125, 50.64329]"
+8,AWD0002xil,diary,20,2,1915-10-09 12:00:00 UTC,9 Oct 1915,Merville,"[2.64125, 50.64329]",1200PM,activity,movement,{},2994297,Merville,"[2.64125, 50.64329]"
+10,AWD0002xil,diary,20,5,1915-10-10 00:00:00 UTC,10 Oct 1915,Merville,"[2.64125, 50.64329]","",diaryDate,10 Oct 1915,"{""day""=>[""10""], ""month""=>[""Oct""], ""year""=>[""1915""]}",2994297,Merville,"[2.64125, 50.64329]"
+11,AWD0002xil,diary,20,4,1915-10-10 20:00:00 UTC,10 Oct 1915,Merville,"[2.64125, 50.64329]",0800PM,time,0800PM,{},2994297,Merville,"[2.64125, 50.64329]"
+14,AWD0002xil,diary,20,2,1915-10-10 20:00:00 UTC,10 Oct 1915,Merville,"[2.64125, 50.64329]",0800PM,place,"Landsdowne  post, Lansdowne Post","{""place""=>[""Landsdowne  post"", ""Lansdowne Post""], ""location""=>[""true"", ""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2994297,Merville,"[2.64125, 50.64329]"
+16,AWD0002xil,diary,20,4,1915-10-11 00:00:00 UTC,11 Oct 1915,Merville,"[2.64125, 50.64329]","",diaryDate,11 Oct 1915,"{""day""=>[""11""], ""month""=>[""Oct""], ""year""=>[""1915""]}",2994297,Merville,"[2.64125, 50.64329]"
+18,AWD0002xil,diary,20,4,1915-10-11 18:00:00 UTC,11 Oct 1915,Merville,"[2.64125, 50.64329]",0600PM,time,0600PM,{},2994297,Merville,"[2.64125, 50.64329]"
+19,AWD0002xil,diary,20,3,1915-10-11 18:00:00 UTC,11 Oct 1915,Merville,"[2.64125, 50.64329]",0600PM,activity,working,{},2994297,Merville,"[2.64125, 50.64329]"
+21,AWD0002xil,diary,20,2,,"10 Nov,Dec 1915",Merville,"[2.64125, 50.64329]","",diaryDate,"10 Nov,Dec 1915","{""day""=>[""10""], ""month""=>[""Nov"", ""Dec""], ""year""=>[""1915""]}",2994297,Merville,"[2.64125, 50.64329]"
+22,AWD0002xil,diary,20,3,1915-10-12 00:00:00 UTC,12 Oct 1915,Merville,"[2.64125, 50.64329]","",diaryDate,12 Oct 1915,"{""day""=>[""12""], ""month""=>[""Oct""], ""year""=>[""1915""]}",2994297,Merville,"[2.64125, 50.64329]"
+23,AWD0002xil,diary,20,3,1915-10-12 00:00:00 UTC,12 Oct 1915,Merville,"[2.64125, 50.64329]","",activity,working,{},2994297,Merville,"[2.64125, 50.64329]"
+25,AWD0002xil,diary,20,3,1915-10-12 18:00:00 UTC,12 Oct 1915,Merville,"[2.64125, 50.64329]",0600PM,time,0600PM,{},2994297,Merville,"[2.64125, 50.64329]"
+27,AWD0002xil,diary,20,4,1915-10-13 00:00:00 UTC,13 Oct 1915,Merville,"[2.64125, 50.64329]","",diaryDate,13 Oct 1915,"{""day""=>[""13""], ""month""=>[""Oct""], ""year""=>[""1915""]}",2994297,Merville,"[2.64125, 50.64329]"
+38,AWD0002xil,diary,20,3,1915-10-13 00:00:00 UTC,13 Oct 1915,Merville,"[2.64125, 50.64329]","",person,Second Lieutenant I A R Browne,"{""first""=>[""I A R""], ""surname""=>[""Browne""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",2994297,Merville,"[2.64125, 50.64329]"
+39,AWD0002xil,diary,20,3,1915-10-14 00:00:00 UTC,14 Oct 1915,Merville,"[2.64125, 50.64329]","",diaryDate,14 Oct 1915,"{""day""=>[""14""], ""month""=>[""Oct""], ""year""=>[""1915""]}",2994297,Merville,"[2.64125, 50.64329]"
+40,AWD0002xil,diary,20,3,1915-10-14 00:00:00 UTC,14 Oct 1915,Merville,"[2.64125, 50.64329]","",activity,working,{},2994297,Merville,"[2.64125, 50.64329]"
+42,AWD0002xil,diary,20,3,1915-10-14 00:00:00 UTC,14 Oct 1915,Merville,"[2.64125, 50.64329]","",activity,repair,{},2994297,Merville,"[2.64125, 50.64329]"
+43,AWD0002xil,diary,20,3,1915-10-14 00:00:00 UTC,14 Oct 1915,Merville,"[2.64125, 50.64329]","",person,Lieutenant  Todd,"{""first""=>[""""], ""surname""=>[""Todd""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_posted""], ""unit""=>[""2/8 Gurkhas"", ""2/8th Gurkhas"", ""2/8  Gurkhas""]}",2994297,Merville,"[2.64125, 50.64329]"
+44,AWD0002xil,diary,20,3,1915-10-14 00:00:00 UTC,14 Oct 1915,Merville,"[2.64125, 50.64329]","",person,Lieutenant  Welman,"{""first""=>[""""], ""surname""=>[""Welman""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_posted""], ""unit""=>[""2/3 Gurkhas""]}",2994297,Merville,"[2.64125, 50.64329]"
+45,AWD0002xil,diary,20,3,1915-10-14 00:00:00 UTC,14 Oct 1915,Merville,"[2.64125, 50.64329]","",diaryDate,14 Oct 1915,"{""day""=>[""14""], ""month""=>[""Oct""], ""year""=>[""1915""]}",2994297,Merville,"[2.64125, 50.64329]"
+46,AWD0002xil,diary,20,3,1915-10-14 00:00:00 UTC,14 Oct 1915,Merville,"[2.64125, 50.64329]","",person,Lieutenant Colonel  Bell,"{""first""=>[""""], ""surname""=>[""Bell""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""departed_posted""], ""unit""=>[""69 Punjabis""]}",2994297,Merville,"[2.64125, 50.64329]"
+47,AWD0002xil,diary,20,2,1915-10-14 00:00:00 UTC,14 Oct 1915,Merville,"[2.64125, 50.64329]","",place,Lansdowne Post,"{""place""=>[""Lansdowne Post""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2994297,Merville,"[2.64125, 50.64329]"
+48,AWD0002xil,diary,20,4,1915-10-21 00:00:00 UTC,21 Oct 1915,Merville,"[2.64125, 50.64329]","",diaryDate,21 Oct 1915,"{""day""=>[""21""], ""month""=>[""Oct""], ""year""=>[""1915""]}",2994297,Merville,"[2.64125, 50.64329]"
+49,AWD0002xil,diary,20,4,1915-10-21 18:00:00 UTC,21 Oct 1915,Merville,"[2.64125, 50.64329]",0600PM,time,0600PM,{},2994297,Merville,"[2.64125, 50.64329]"
+51,AWD0002xil,diary,20,2,1915-10-21 18:00:00 UTC,21 Oct 1915,Merville,"[2.64125, 50.64329]",0600PM,unit,"2/2  Gurkhas, 2/2nd Gurkhas","{""name""=>[""2/2  Gurkhas"", ""2/2nd Gurkhas""], ""context""=>[""relieved_by""]}",2994297,Merville,"[2.64125, 50.64329]"
+53,AWD0002xil,diary,20,2,1915-10-21 18:00:00 UTC,21 Oct 1915,Merville,"[2.64125, 50.64329]",0600PM,domestic,accomodation,{},2994297,Merville,"[2.64125, 50.64329]"
+54,AWD0002xil,diary,20,3,1915-10-21 18:00:00 UTC,21 Oct 1915,La Gorgue,"[2.71502, 50.6379]",0600PM,place,La Gorgue,"{""place""=>[""La Gorgue""], ""location""=>[""true""], ""name""=>[""La Gorgue""], ""lat""=>[""50.6379""], ""long""=>[""2.71502""], ""id""=>[""3009050""]}",3009050,La Gorgue,"[2.71502, 50.6379]"
+55,AWD0002xil,diary,20,2,1915-10-21 00:00:00 UTC,21 Oct 1915,La Gorgue,"[2.71502, 50.6379]","",diaryDate,21 Oct 1915,"{""day""=>[""21""], ""month""=>[""Oct""], ""year""=>[""1915""]}",3009050,La Gorgue,"[2.71502, 50.6379]"
+59,AWD0002xil,diary,20,3,1915-10-21 21:30:00 UTC,21 Oct 1915,La Gorgue,"[2.71502, 50.6379]",0930PM,time,0930PM,{},3009050,La Gorgue,"[2.71502, 50.6379]"
+1,AWD0002xij,diary,21,3,1915-10-22 00:00:00 UTC,22 Oct 1915,La Gorgue,"[2.71502, 50.6379]","",diaryDate,22 Oct 1915,"{""day""=>[""22""], ""month""=>[""Oct""], ""year""=>[""1915""]}",3009050,La Gorgue,"[2.71502, 50.6379]"
+2,AWD0002xij,diary,21,3,1915-10-22 00:00:00 UTC,22 Oct 1915,La Gorgue,"[2.71502, 50.6379]","",person,Lieutenant Colonel  Carey,"{""first""=>[""""], ""surname""=>[""Carey""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""departed_posted""], ""unit""=>[""Sirhind Brigade"", ""Sirhind Bde"", ""Sirhind BDE""]}",3009050,La Gorgue,"[2.71502, 50.6379]"
+6,AWD0002xij,diary,21,3,1915-10-22 00:00:00 UTC,22 Oct 1915,La Gorgue,"[2.71502, 50.6379]","",person,General  Walker,"{""first""=>[""""], ""surname""=>[""Walker""], ""rank""=>[""General""], ""number""=>[""""], ""reason""=>[""departed_leave""], ""unit""=>[""""]}",3009050,La Gorgue,"[2.71502, 50.6379]"
+9,AWD0002xij,diary,21,4,1915-10-24 00:00:00 UTC,24 Oct 1915,La Gorgue,"[2.71502, 50.6379]","",diaryDate,24 Oct 1915,"{""day""=>[""24""], ""month""=>[""Oct""], ""year""=>[""1915""]}",3009050,La Gorgue,"[2.71502, 50.6379]"
+10,AWD0002xij,diary,21,3,1915-10-24 00:00:00 UTC,24 Oct 1915,La Gorgue,"[2.71502, 50.6379]","",person,Second Lieutenant  Sturrock,"{""first""=>[""""], ""surname""=>[""Sturrock""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",3009050,La Gorgue,"[2.71502, 50.6379]"
+13,AWD0002xij,diary,21,4,1915-10-25 00:00:00 UTC,25 Oct 1915,La Gorgue,"[2.71502, 50.6379]","",diaryDate,25 Oct 1915,"{""day""=>[""25""], ""month""=>[""Oct""], ""year""=>[""1915""]}",3009050,La Gorgue,"[2.71502, 50.6379]"
+14,AWD0002xij,diary,21,3,1915-10-25 00:00:00 UTC,25 Oct 1915,La Gorgue,"[2.71502, 50.6379]","",person,other  Kharku,"{""first""=>[""""], ""surname""=>[""Kharku""], ""rank""=>[""other""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",3009050,La Gorgue,"[2.71502, 50.6379]"
+18,AWD0002xij,diary,21,2,1915-10-25 00:00:00 UTC,25 Oct 1915,La Gorgue,"[2.71502, 50.6379]","",unit,Jullundua Bde,"{""name""=>[""Jullundua Bde""], ""context""=>[""other""]}",3009050,La Gorgue,"[2.71502, 50.6379]"
+19,AWD0002xij,diary,21,3,1915-10-25 11:00:00 UTC,25 Oct 1915,La Gorgue,"[2.71502, 50.6379]",1100AM,time,1100AM,{},3009050,La Gorgue,"[2.71502, 50.6379]"
+30,AWD0002xij,diary,21,3,1915-10-25 10:00:00 UTC,25 Oct 1915,La Gorgue,"[2.71502, 50.6379]",1000AM,time,1000AM,{},3009050,La Gorgue,"[2.71502, 50.6379]"
+31,AWD0002xij,diary,21,3,1915-10-26 00:00:00 UTC,26 Oct 1915,La Gorgue,"[2.71502, 50.6379]","",diaryDate,26 Oct 1915,"{""day""=>[""26""], ""month""=>[""Oct""], ""year""=>[""1915""]}",3009050,La Gorgue,"[2.71502, 50.6379]"
+32,AWD0002xij,diary,21,3,1915-10-26 00:00:00 UTC,26 Oct 1915,La Gorgue,"[2.71502, 50.6379]","",person,Captain  Vernon,"{""first""=>[""""], ""surname""=>[""Vernon""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",3009050,La Gorgue,"[2.71502, 50.6379]"
+33,AWD0002xij,diary,21,3,1915-10-26 00:00:00 UTC,26 Oct 1915,La Gorgue,"[2.71502, 50.6379]","",domestic,inspections,{},3009050,La Gorgue,"[2.71502, 50.6379]"
+1,AWD0002xht,diary,22,3,1915-10-26 00:00:00 UTC,26 Oct 1915,La Gorgue,"[2.71502, 50.6379]","",diaryDate,26 Oct 1915,"{""day""=>[""26""], ""month""=>[""Oct""], ""year""=>[""1915""]}",3009050,La Gorgue,"[2.71502, 50.6379]"
+2,AWD0002xht,diary,22,4,1915-10-26 13:30:00 UTC,26 Oct 1915,La Gorgue,"[2.71502, 50.6379]",0130PM,time,0130PM,{},3009050,La Gorgue,"[2.71502, 50.6379]"
+3,AWD0002xht,diary,22,4,1915-10-26 13:30:00 UTC,26 Oct 1915,La Gorgue,"[2.71502, 50.6379]",0130PM,person,Major  Hulsberg,"{""first""=>[""""], ""surname""=>[""Hulsberg""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",3009050,La Gorgue,"[2.71502, 50.6379]"
+6,AWD0002xht,diary,22,3,1915-10-26 13:30:00 UTC,26 Oct 1915,La Gorgue,"[2.71502, 50.6379]",0130PM,domestic,inspections,{},3009050,La Gorgue,"[2.71502, 50.6379]"
+7,AWD0002xht,diary,22,4,1915-10-26 14:30:00 UTC,26 Oct 1915,La Gorgue,"[2.71502, 50.6379]",0230PM,time,0230PM,{},3009050,La Gorgue,"[2.71502, 50.6379]"
+15,AWD0002xht,diary,22,2,1915-10-26 12:30:00 UTC,26 Oct 1915,La Gorgue,"[2.71502, 50.6379]",1230PM,time,1230PM,{},3009050,La Gorgue,"[2.71502, 50.6379]"
+17,AWD0002xht,diary,22,2,1915-10-26 12:30:00 UTC,26 Oct 1915,"Euston Post, Curzon Post","[0.0, 0.0]",1230PM,place,"Euston Post, Curzon Post","{""place""=>[""Euston Post"", ""Curzon Post""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+18,AWD0002xht,diary,22,2,1915-10-27 00:00:00 UTC,27 Oct 1915,"Euston Post, Curzon Post","[0.0, 0.0]","",diaryDate,27 Oct 1915,"{""day""=>[""27""], ""month""=>[""Oct""], ""year""=>[""1915""]}",2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+21,AWD0002xht,diary,22,3,1915-10-27 00:00:00 UTC,27 Oct 1915,"Euston Post, Curzon Post","[0.0, 0.0]","",activity,movement,{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+23,AWD0002xht,diary,22,3,1915-10-27 13:00:00 UTC,27 Oct 1915,"Euston Post, Curzon Post","[0.0, 0.0]",0100PM,time,0100PM,{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+24,AWD0002xht,diary,22,3,1915-10-27 13:00:00 UTC,27 Oct 1915,"Euston Post, Curzon Post","[0.0, 0.0]",0100PM,activity,movement,{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+28,AWD0002xht,diary,22,3,1915-10-27 16:00:00 UTC,27 Oct 1915,"Euston Post, Curzon Post","[0.0, 0.0]",0400PM,time,0400PM,{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+30,AWD0002xht,diary,22,2,1915-10-27 16:00:00 UTC,27 Oct 1915,"Euston Post, Curzon Post","[0.0, 0.0]",0400PM,unit,57th Rifles,"{""name""=>[""57th Rifles""], ""context""=>[""other"", ""relieved""]}",2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+3,AWD0002xhy,diary,23,2,1915-10-28 00:00:00 UTC,28 Oct 1915,"Euston Post, Curzon Post","[0.0, 0.0]","",diaryDate,28 Oct 1915,"{""day""=>[""28""], ""month""=>[""Oct""], ""year""=>[""1915""]}",2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+5,AWD0002xhy,diary,23,4,1915-10-28 00:00:00 UTC,28 Oct 1915,"Euston Post, Curzon Post","[0.0, 0.0]","",activity,working,{},2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+6,AWD0002xhy,diary,23,2,1915-10-31 00:00:00 UTC,31 Oct 1915,"Euston Post, Curzon Post","[0.0, 0.0]","",diaryDate,31 Oct 1915,"{""day""=>[""31""], ""month""=>[""Oct""], ""year""=>[""1915""]}",2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+2,AWD0002xhw,diary,25,2,1915-11-01 00:00:00 UTC,1 Nov 1915,"Euston Post, Curzon Post","[0.0, 0.0]","",diaryDate,1 Nov 1915,"{""day""=>[""1""], ""month""=>[""Nov""], ""year""=>[""1915""]}",2990589,Neuve-Chapelle,"[2.78196, 50.58582]"
+3,AWD0002xhw,diary,25,3,1915-11-01 00:00:00 UTC,1 Nov 1915,Ludhiana Lodge,"[0.0, 0.0]","",place,Ludhiana Lodge,"{""place""=>[""Ludhiana Lodge""], ""location""=>[""true""], ""name""=>[""La Bassée"", """", ""La Gorgue""], ""lat""=>[""50.53424"", """", ""50.6379""], ""long""=>[""2.8062"", """", ""2.71502""], ""id""=>[""3011307"", """", ""3009050""]}",,,
+4,AWD0002xhw,diary,25,2,1915-11-01 00:00:00 UTC,1 Nov 1915,Ludhiana Lodge,"[0.0, 0.0]","",diaryDate,1 Nov 1915,"{""day""=>[""1""], ""month""=>[""Nov""], ""year""=>[""1915""]}",,,
+13,AWD0002xhw,diary,25,2,1915-11-06 00:00:00 UTC,6 Nov 1915,Ludhiana Lodge,"[0.0, 0.0]","",diaryDate,6 Nov 1915,"{""day""=>[""6""], ""month""=>[""Nov""], ""year""=>[""1915""]}",,,
+14,AWD0002xhw,diary,25,2,1915-11-06 00:00:00 UTC,6 Nov 1915,Ludhiana Lodge,"[0.0, 0.0]","",unit,Sirhind Bde,"{""name""=>[""Sirhind Bde""], ""context""=>[""other"", ""joined""]}",,,
+16,AWD0002xhw,diary,25,4,1915-11-06 21:00:00 UTC,6 Nov 1915,Ludhiana Lodge,"[0.0, 0.0]",0900PM,time,0900PM,{},,,
+20,AWD0002xhw,diary,25,2,1915-11-06 21:00:00 UTC,6 Nov 1915,Ludhiana Lodge,"[0.0, 0.0]",0900PM,place,"Ludhiana Lodge, ludiana lodge","{""place""=>[""Ludhiana Lodge"", ""ludiana lodge""], ""location""=>[""false"", ""true""], ""name""=>["""", ""Aldershot""], ""lat""=>["""", ""51.24827""], ""long""=>["""", ""-0.76389""], ""id""=>["""", ""2657540""]}",,,
+23,AWD0002xhw,diary,25,4,1915-11-07 00:00:00 UTC,7 Nov 1915,Ludhiana Lodge,"[0.0, 0.0]","",diaryDate,7 Nov 1915,"{""day""=>[""7""], ""month""=>[""Nov""], ""year""=>[""1915""]}",,,
+24,AWD0002xhw,diary,25,3,1915-11-07 09:00:00 UTC,7 Nov 1915,Ludhiana Lodge,"[0.0, 0.0]",0900AM,time,0900AM,{},,,
+29,AWD0002xhw,diary,25,2,1915-11-07 11:00:00 UTC,7 Nov 1915,Ludhiana Lodge,"[0.0, 0.0]",1100AM,time,1100AM,{},,,
+31,AWD0002xhw,diary,25,2,1915-11-07 11:00:00 UTC,7 Nov 1915,Ludhiana Lodge,"[0.0, 0.0]",1100AM,activity,movement,{},,,
+32,AWD0002xhw,diary,25,2,1915-11-07 11:00:00 UTC,7 Nov 1915,Ludhiana Lodge,"[0.0, 0.0]",1100AM,place,"La Bassee, la bassee","{""place""=>[""La Bassee"", ""la bassee""], ""location""=>[""false"", ""true""], ""name""=>[""La Bassée"", """"], ""lat""=>[""50.53424"", """"], ""long""=>[""2.8062"", """"], ""id""=>[""3011307"", """"]}",,,
+34,AWD0002xhw,diary,25,3,1915-11-07 11:00:00 UTC,7 Nov 1915,Fosse,"[0.0, 0.0]",1100AM,place,Fosse,"{""place""=>[""Fosse""], ""location""=>[""true""], ""name""=>[""Fosse""], ""lat""=>[""42.78737"", ""50.34001"", """"], ""long""=>[""2.4294"", ""5.84083"", """"], ""id""=>[""3017674"", ""2798100"", """"]}",2798100,Fosse,"[5.84083, 50.34001]"
+1,AWD0002xig,diary,26,3,1915-11-07 00:00:00 UTC,7 Nov 1915,Fosse,"[0.0, 0.0]","",diaryDate,7 Nov 1915,"{""day""=>[""7""], ""month""=>[""Nov""], ""year""=>[""1915""]}",2798100,Fosse,"[5.84083, 50.34001]"
+4,AWD0002xig,diary,26,2,1915-11-07 00:00:00 UTC,7 Nov 1915,Fosse,"[0.0, 0.0]","",activity,other,{},2798100,Fosse,"[5.84083, 50.34001]"
+7,AWD0002xig,diary,26,3,1915-11-07 00:00:00 UTC,7 Nov 1915,Fosse,"[0.0, 0.0]","",activity,other,{},2798100,Fosse,"[5.84083, 50.34001]"
+13,AWD0002xig,diary,26,2,1915-11-07 00:00:00 UTC,7 Nov 1915,Fosse,"[0.0, 0.0]","",place,Fosse,"{""place""=>[""Fosse""], ""location""=>[""false"", ""true""], ""name""=>[""Fosse""], ""lat""=>[""50.34001"", ""42.78737""], ""long""=>[""5.84083"", ""2.4294""], ""id""=>[""2798100"", ""3017674""]}",2798100,Fosse,"[5.84083, 50.34001]"
+16,AWD0002xig,diary,26,2,1915-11-07 12:30:00 UTC,7 Nov 1915,Fosse,"[0.0, 0.0]",1230PM,time,1230PM,{},2798100,Fosse,"[5.84083, 50.34001]"
+20,AWD0002xig,diary,26,3,1915-11-07 15:00:00 UTC,7 Nov 1915,Fosse,"[0.0, 0.0]",0300PM,time,0300PM,{},2798100,Fosse,"[5.84083, 50.34001]"
+23,AWD0002xig,diary,26,2,1915-11-07 15:00:00 UTC,7 Nov 1915,Fosse,"[0.0, 0.0]",0300PM,domestic,accomodation,{},2798100,Fosse,"[5.84083, 50.34001]"
+26,AWD0002xig,diary,26,2,1915-11-07 19:00:00 UTC,7 Nov 1915,Fosse,"[0.0, 0.0]",0700PM,time,0700PM,{},2798100,Fosse,"[5.84083, 50.34001]"
+28,AWD0002xig,diary,26,2,1915-11-07 19:00:00 UTC,7 Nov 1915,Fosse,"[0.0, 0.0]",0700PM,activity,other,{},2798100,Fosse,"[5.84083, 50.34001]"
+1,AWD0002xib,diary,27,4,1915-11-07 00:00:00 UTC,7 Nov 1915,Fosse,"[0.0, 0.0]","",diaryDate,7 Nov 1915,"{""day""=>[""7""], ""month""=>[""Nov""], ""year""=>[""1915""]}",2798100,Fosse,"[5.84083, 50.34001]"
+3,AWD0002xib,diary,27,3,1915-11-07 00:00:00 UTC,7 Nov 1915,Fosse,"[0.0, 0.0]","",domestic,accomodation,{},2798100,Fosse,"[5.84083, 50.34001]"
+4,AWD0002xib,diary,27,2,1915-11-07 00:00:00 UTC,7 Nov 1915,Fosse,"[0.0, 0.0]","",domestic,medical,{},2798100,Fosse,"[5.84083, 50.34001]"
+6,AWD0002xib,diary,27,2,1915-11-07 00:00:00 UTC,7 Nov 1915,Fosse,"[0.0, 0.0]","",activity,quiet,{},2798100,Fosse,"[5.84083, 50.34001]"
+7,AWD0002xib,diary,27,2,1915-11-07 00:00:00 UTC,7 Nov 1915,Fosse,"[0.0, 0.0]","",domestic,accomodation,{},2798100,Fosse,"[5.84083, 50.34001]"
+9,AWD0002xib,diary,27,2,1915-11-16 00:00:00 UTC,16 Nov 1915,Fosse,"[0.0, 0.0]","",diaryDate,16 Nov 1915,"{""day""=>[""16""], ""month""=>[""Nov""], ""year""=>[""1915""]}",2798100,Fosse,"[5.84083, 50.34001]"
+10,AWD0002xib,diary,27,3,1915-11-16 00:00:00 UTC,16 Nov 1915,Fosse,"[0.0, 0.0]","",domestic,accomodation,{},2798100,Fosse,"[5.84083, 50.34001]"
+12,AWD0002xib,diary,27,3,1915-11-17 00:00:00 UTC,17 Nov 1915,Fosse,"[0.0, 0.0]","",diaryDate,17 Nov 1915,"{""day""=>[""17""], ""month""=>[""Nov""], ""year""=>[""1915""]}",2798100,Fosse,"[5.84083, 50.34001]"
+13,AWD0002xib,diary,27,2,1915-11-17 00:00:00 UTC,17 Nov 1915,Fosse,"[0.0, 0.0]","",domestic,accomodation,{},2798100,Fosse,"[5.84083, 50.34001]"
+15,AWD0002xib,diary,27,2,1915-11-17 00:00:00 UTC,17 Nov 1915,Fosse,"[0.0, 0.0]","",place,"Ligne, Warne","{""place""=>[""Ligne"", ""Warne""], ""location""=>[""false""], ""name""=>[""Ligné"", ""Warne""], ""lat""=>[""47.41096"", ""50.66104""], ""long""=>[""-1.37726"", ""2.35069""], ""id""=>[""2998404"", ""2967447""]}",2798100,Fosse,"[5.84083, 50.34001]"
+19,AWD0002xib,diary,27,2,1915-11-17 20:00:00 UTC,17 Nov 1915,Fosse,"[0.0, 0.0]",0800PM,time,0800PM,{},2798100,Fosse,"[5.84083, 50.34001]"
+28,AWD0002xib,diary,27,2,1915-11-17 20:00:00 UTC,17 Nov 1915,Fosse,"[0.0, 0.0]",0800PM,person,"other ,Khushial Khushial Singh, Singh","{""first""=>["""", ""Khushial""], ""surname""=>[""Khushial Singh"", ""Singh""], ""rank""=>[""other""], ""number""=>[""""], ""reason""=>[""departed_leave""], ""unit""=>[""""]}",2798100,Fosse,"[5.84083, 50.34001]"
+1,AWD0002xi8,diary,28,5,1915-11-18 00:00:00 UTC,18 Nov 1915,Fosse,"[0.0, 0.0]","",diaryDate,18 Nov 1915,"{""day""=>[""18""], ""month""=>[""Nov""], ""year""=>[""1915""]}",2798100,Fosse,"[5.84083, 50.34001]"
+2,AWD0002xi8,diary,28,3,1915-11-18 00:00:00 UTC,18 Nov 1915,Fosse,"[0.0, 0.0]","",person,"other Pertab,,Gertab Singh","{""first""=>[""Pertab"", """", ""Gertab""], ""surname""=>[""Singh""], ""rank""=>[""other""], ""number""=>[""""], ""reason""=>[""resigned""], ""unit""=>[""""]}",2798100,Fosse,"[5.84083, 50.34001]"
+5,AWD0002xi8,diary,28,2,1915-11-18 00:00:00 UTC,18 Nov 1915,Fosse,"[0.0, 0.0]","",domestic,accomodation,{},2798100,Fosse,"[5.84083, 50.34001]"
+7,AWD0002xi8,diary,28,3,1915-11-18 00:00:00 UTC,18 Nov 1915,Fosse,"[0.0, 0.0]","",activity,movement,{},2798100,Fosse,"[5.84083, 50.34001]"
+8,AWD0002xi8,diary,28,4,1915-11-19 00:00:00 UTC,19 Nov 1915,Fosse,"[0.0, 0.0]","",diaryDate,19 Nov 1915,"{""day""=>[""19""], ""month""=>[""Nov""], ""year""=>[""1915""]}",2798100,Fosse,"[5.84083, 50.34001]"
+10,AWD0002xi8,diary,28,2,1915-11-22 00:00:00 UTC,22 Nov 1915,Fosse,"[0.0, 0.0]","",diaryDate,22 Nov 1915,"{""day""=>[""22""], ""month""=>[""Nov""], ""year""=>[""1915""]}",2798100,Fosse,"[5.84083, 50.34001]"
+11,AWD0002xi8,diary,28,5,1915-11-23 00:00:00 UTC,23 Nov 1915,Fosse,"[0.0, 0.0]","",diaryDate,23 Nov 1915,"{""day""=>[""23""], ""month""=>[""Nov""], ""year""=>[""1915""]}",2798100,Fosse,"[5.84083, 50.34001]"
+12,AWD0002xi8,diary,28,3,1915-11-23 00:00:00 UTC,23 Nov 1915,Fosse,"[0.0, 0.0]","",person,other Khushial Singh,"{""first""=>[""Khushial""], ""surname""=>[""Singh""], ""rank""=>[""other""], ""number""=>[""""], ""reason""=>[""returned_leave""], ""unit""=>[""""]}",2798100,Fosse,"[5.84083, 50.34001]"
+13,AWD0002xi8,diary,28,5,1915-11-24 00:00:00 UTC,24 Nov 1915,Fosse,"[0.0, 0.0]","",diaryDate,24 Nov 1915,"{""day""=>[""24""], ""month""=>[""Nov""], ""year""=>[""1915""]}",2798100,Fosse,"[5.84083, 50.34001]"
+14,AWD0002xi8,diary,28,3,1915-11-24 00:00:00 UTC,24 Nov 1915,Fosse,"[0.0, 0.0]","",person,Lieutenant  Shewen,"{""first""=>[""""], ""surname""=>[""Shewen""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",2798100,Fosse,"[5.84083, 50.34001]"
+15,AWD0002xi8,diary,28,3,1915-11-24 00:00:00 UTC,24 Nov 1915,Fosse,"[0.0, 0.0]","",person,Second Lieutenant  Gavin,"{""first""=>[""""], ""surname""=>[""Gavin""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",2798100,Fosse,"[5.84083, 50.34001]"
+17,AWD0002xi8,diary,28,2,1915-11-24 00:00:00 UTC,24 Nov 1915,Fosse,"[0.0, 0.0]","",casualties,non_combat: 1,{},2798100,Fosse,"[5.84083, 50.34001]"
+19,AWD0002xi8,diary,28,5,1915-11-25 00:00:00 UTC,25 Nov 1915,Fosse,"[0.0, 0.0]","",diaryDate,25 Nov 1915,"{""day""=>[""25""], ""month""=>[""Nov""], ""year""=>[""1915""]}",2798100,Fosse,"[5.84083, 50.34001]"
+20,AWD0002xi8,diary,28,3,1915-11-25 00:00:00 UTC,25 Nov 1915,Fosse,"[0.0, 0.0]","",domestic,parades,{},2798100,Fosse,"[5.84083, 50.34001]"
+23,AWD0002xi8,diary,28,3,1915-11-25 00:00:00 UTC,25 Nov 1915,Fosse,"[0.0, 0.0]","",domestic,inspections,{},2798100,Fosse,"[5.84083, 50.34001]"
+24,AWD0002xi8,diary,28,2,1915-11-25 00:00:00 UTC,25 Nov 1915,Fosse,"[0.0, 0.0]","",person," ,H R H H.R.H. Prince of Wales, The Prince of Wales","{""first""=>["""", ""H R H""], ""surname""=>[""H.R.H. Prince of Wales"", ""The Prince of Wales""], ""rank""=>[""""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2798100,Fosse,"[5.84083, 50.34001]"
+25,AWD0002xi8,diary,28,3,1915-11-25 00:00:00 UTC,25 Nov 1915,Fosse,"[0.0, 0.0]","",activity,other,{},2798100,Fosse,"[5.84083, 50.34001]"
+4,AWD0002xi1,diary,29,8,1915-11-25 00:00:00 UTC,25 Nov 1915,Fosse,"[0.0, 0.0]","",diaryDate,25 Nov 1915,"{""day""=>[""25""], ""month""=>[""Nov""], ""year""=>[""1915""]}",2798100,Fosse,"[5.84083, 50.34001]"
+5,AWD0002xi1,diary,29,2,1915-11-25 00:00:00 UTC,25 Nov 1915,Fosse,"[0.0, 0.0]","",casualties,non_combat: 1,{},2798100,Fosse,"[5.84083, 50.34001]"
+6,AWD0002xi1,diary,29,2,1915-11-25 00:00:00 UTC,25 Nov 1915,Fosse,"[0.0, 0.0]","",casualties,died: 1,{},2798100,Fosse,"[5.84083, 50.34001]"
+7,AWD0002xi1,diary,29,2,1915-11-25 00:00:00 UTC,25 Nov 1915,Fosse,"[0.0, 0.0]","",domestic,medical,{},2798100,Fosse,"[5.84083, 50.34001]"
+9,AWD0002xi1,diary,29,8,1915-11-26 00:00:00 UTC,26 Nov 1915,Fosse,"[0.0, 0.0]","",diaryDate,26 Nov 1915,"{""day""=>[""26""], ""month""=>[""Nov""], ""year""=>[""1915""]}",2798100,Fosse,"[5.84083, 50.34001]"
+13,AWD0002xi1,diary,29,7,1915-11-27 00:00:00 UTC,27 Nov 1915,Fosse,"[0.0, 0.0]","",diaryDate,27 Nov 1915,"{""day""=>[""27""], ""month""=>[""Nov""], ""year""=>[""1915""]}",2798100,Fosse,"[5.84083, 50.34001]"
+16,AWD0002xi1,diary,29,8,1915-11-28 00:00:00 UTC,28 Nov 1915,Fosse,"[0.0, 0.0]","",diaryDate,28 Nov 1915,"{""day""=>[""28""], ""month""=>[""Nov""], ""year""=>[""1915""]}",2798100,Fosse,"[5.84083, 50.34001]"
+21,AWD0002xi1,diary,29,2,1915-11-28 00:00:00 UTC,28 Nov 1915,Fosse,"[0.0, 0.0]","",diaryDate,28 Nov 1915,"{""day""=>[""28""], ""month""=>[""Nov""], ""year""=>[""1915""]}",2798100,Fosse,"[5.84083, 50.34001]"
+22,AWD0002xi1,diary,29,6,1915-11-28 14:30:00 UTC,28 Nov 1915,Fosse,"[0.0, 0.0]",0230PM,time,0230PM,{},2798100,Fosse,"[5.84083, 50.34001]"
+26,AWD0002xi1,diary,29,5,1915-11-28 16:00:00 UTC,28 Nov 1915,Fosse,"[0.0, 0.0]",0400PM,time,0400PM,{},2798100,Fosse,"[5.84083, 50.34001]"
+27,AWD0002xi1,diary,29,3,1915-11-28 16:00:00 UTC,28 Nov 1915,Fosse,"[0.0, 0.0]",0400PM,person,Lieutenant Colonel  Carey,"{""first""=>[""""], ""surname""=>[""Carey""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",2798100,Fosse,"[5.84083, 50.34001]"
+28,AWD0002xi1,diary,29,3,1915-11-28 16:00:00 UTC,28 Nov 1915,Fosse,"[0.0, 0.0]",0400PM,person,Colonel  Campbell,"{""first""=>[""""], ""surname""=>[""Campbell""], ""rank""=>[""Colonel""], ""number""=>[""""], ""reason""=>[""departed_leave""], ""unit""=>[""""]}",2798100,Fosse,"[5.84083, 50.34001]"
+30,AWD0002xi1,diary,29,7,1915-11-29 00:00:00 UTC,29 Nov 1915,Fosse,"[0.0, 0.0]","",diaryDate,29 Nov 1915,"{""day""=>[""29""], ""month""=>[""Nov""], ""year""=>[""1915""]}",2798100,Fosse,"[5.84083, 50.34001]"
+31,AWD0002xi1,diary,29,5,1915-11-29 01:00:00 UTC,29 Nov 1915,Fosse,"[0.0, 0.0]",0100AM,time,0100AM,{},2798100,Fosse,"[5.84083, 50.34001]"
+35,AWD0002xi1,diary,29,2,1915-11-29 01:00:00 UTC,29 Nov 1915,Fosse,"[0.0, 0.0]",0100AM,activity,movement,{},2798100,Fosse,"[5.84083, 50.34001]"
+41,AWD0002xi1,diary,29,5,1915-11-29 00:00:00 UTC,29 Nov 1915,Fosse,"[0.0, 0.0]","",diaryDate,29 Nov 1915,"{""day""=>[""29""], ""month""=>[""Nov""], ""year""=>[""1915""]}",2798100,Fosse,"[5.84083, 50.34001]"
+42,AWD0002xi1,diary,29,6,1915-11-29 09:00:00 UTC,29 Nov 1915,Fosse,"[0.0, 0.0]",0900AM,time,0900AM,{},2798100,Fosse,"[5.84083, 50.34001]"
+44,AWD0002xi1,diary,29,7,1915-11-29 11:00:00 UTC,29 Nov 1915,Fosse,"[0.0, 0.0]",1100AM,time,1100AM,{},2798100,Fosse,"[5.84083, 50.34001]"
+45,AWD0002xi1,diary,29,2,1915-11-29 11:00:00 UTC,29 Nov 1915,Fosse,"[0.0, 0.0]",1100AM,activity,movement,{},2798100,Fosse,"[5.84083, 50.34001]"
+46,AWD0002xi1,diary,29,2,1915-11-29 00:00:00 UTC,29 Nov 1915,Fosse,"[0.0, 0.0]","",diaryDate,29 Nov 1915,"{""day""=>[""29""], ""month""=>[""Nov""], ""year""=>[""1915""]}",2798100,Fosse,"[5.84083, 50.34001]"
+49,AWD0002xi1,diary,29,4,1915-11-29 11:10:00 UTC,29 Nov 1915,Fosse,"[0.0, 0.0]",1110AM,time,1110AM,{},2798100,Fosse,"[5.84083, 50.34001]"
+54,AWD0002xi1,diary,29,2,1915-11-29 11:10:00 UTC,29 Nov 1915,"St Augustine Wales, st augustines, Wales","[0.0, 0.0]",1110AM,place,"St Augustine Wales, st augustines, Wales","{""place""=>[""St Augustine Wales"", ""st augustines, Wales""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+1,AWD0002xif,diary,30,4,1915-11-29 00:00:00 UTC,29 Nov 1915,"St Augustine Wales, st augustines, Wales","[0.0, 0.0]","",diaryDate,29 Nov 1915,"{""day""=>[""29""], ""month""=>[""Nov""], ""year""=>[""1915""]}",,,
+2,AWD0002xif,diary,30,2,1915-11-29 12:30:00 UTC,29 Nov 1915,"St Augustine Wales, st augustines, Wales","[0.0, 0.0]",1230PM,time,1230PM,{},,,
+3,AWD0002xif,diary,30,2,1915-11-29 12:30:00 UTC,29 Nov 1915,"St Augustine Wales, st augustines, Wales","[0.0, 0.0]",1230PM,place,"St. Augustine, St Augustine","{""place""=>[""St. Augustine"", ""St Augustine""], ""location""=>[""true"", ""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+6,AWD0002xif,diary,30,2,1915-11-29 12:30:00 UTC,29 Nov 1915,"St Augustine Wales, st augustines, Wales","[0.0, 0.0]",1230PM,unit,"1/1 GR, 1/HLI","{""name""=>[""1/1 GR"", ""1/HLI""], ""context""=>[""other""]}",,,
+9,AWD0002xif,diary,30,2,1915-11-29 12:30:00 UTC,29 Nov 1915,"St Augustine Wales, st augustines, Wales","[0.0, 0.0]",1230PM,activity,other,{},,,
+11,AWD0002xif,diary,30,3,1915-11-29 12:30:00 UTC,29 Nov 1915,"St Augustine Wales, st augustines, Wales","[0.0, 0.0]",1230PM,activity,movement,{},,,
+12,AWD0002xif,diary,30,2,1915-11-29 12:30:00 UTC,29 Nov 1915,"St Augustine Wales, st augustines, Wales","[0.0, 0.0]",1230PM,domestic,accomodation,{},,,
+14,AWD0002xif,diary,30,2,1915-11-29 12:30:00 UTC,29 Nov 1915,"St Augustine Wales, st augustines, Wales","[0.0, 0.0]",1230PM,place,"Mollinghem, mollingham","{""place""=>[""Mollinghem"", ""mollingham""], ""location""=>[""false"", ""true""], ""name""=>["""", ""Warne""], ""lat""=>["""", ""50.66104""], ""long""=>["""", ""2.35069""], ""id""=>["""", ""2967447""]}",,,
+15,AWD0002xif,diary,30,2,1915-11-29 12:30:00 UTC,29 Nov 1915,"St Augustine Wales, st augustines, Wales","[0.0, 0.0]",1230PM,weather,rain,{},,,
+16,AWD0002xif,diary,30,3,1915-11-30 00:00:00 UTC,30 Nov 1915,"St Augustine Wales, st augustines, Wales","[0.0, 0.0]","",diaryDate,30 Nov 1915,"{""day""=>[""30""], ""month""=>[""Nov""], ""year""=>[""1915""]}",,,
+18,AWD0002xif,diary,30,2,1915-11-30 00:00:00 UTC,30 Nov 1915,"St Augustine Wales, st augustines, Wales","[0.0, 0.0]","",domestic,accomodation,{},,,
+20,AWD0002xif,diary,30,3,1915-11-30 15:00:00 UTC,30 Nov 1915,"St Augustine Wales, st augustines, Wales","[0.0, 0.0]",0300PM,time,0300PM,{},,,
+24,AWD0002xif,diary,30,2,1915-11-30 15:00:00 UTC,30 Nov 1915,"St Augustine Wales, st augustines, Wales","[0.0, 0.0]",0300PM,domestic,discipline,{},,,
+1,AWD0002xia,diary,32,3,1915-12-01 00:00:00 UTC,1 Dec 1915,"St Augustine Wales, st augustines, Wales","[0.0, 0.0]","",diaryDate,1 Dec 1915,"{""day""=>[""1""], ""month""=>[""Dec""], ""year""=>[""1915""]}",,,
+2,AWD0002xia,diary,32,5,1915-12-01 00:00:00 UTC,1 Dec 1915,Capelle,"[3.54745, 50.23968]","",place,Capelle,"{""place""=>[""Capelle""], ""location""=>[""true""], ""name""=>[""Capelle""], ""lat""=>["""", ""50.23968""], ""long""=>["""", ""3.54745""], ""id""=>["""", ""3028730""]}",3028730,Capelle,"[3.54745, 50.23968]"
+3,AWD0002xia,diary,32,4,1915-12-01 09:00:00 UTC,1 Dec 1915,Capelle,"[3.54745, 50.23968]",0900AM,time,0900AM,{},3028730,Capelle,"[3.54745, 50.23968]"
+5,AWD0002xia,diary,32,3,1915-12-01 09:00:00 UTC,1 Dec 1915,Capelle,"[3.54745, 50.23968]",0900AM,activity,movement,{},3028730,Capelle,"[3.54745, 50.23968]"
+9,AWD0002xia,diary,32,2,1915-12-01 09:00:00 UTC,1 Dec 1915,Capelle,"[3.54745, 50.23968]",0900AM,mapRef,sheet: 36A,{},3028730,Capelle,"[3.54745, 50.23968]"
+10,AWD0002xia,diary,32,2,1915-12-01 09:00:00 UTC,1 Dec 1915,Capelle,"[3.54745, 50.23968]",0900AM,gridRef,N 26 b 29,{},3028730,Capelle,"[3.54745, 50.23968]"
+11,AWD0002xia,diary,32,2,1915-12-01 09:00:00 UTC,1 Dec 1915,Capelle,"[3.54745, 50.23968]",0900AM,gridRef,N 22 a 12,{},3028730,Capelle,"[3.54745, 50.23968]"
+13,AWD0002xia,diary,32,2,1915-12-01 09:00:00 UTC,1 Dec 1915,"Linghem, Longhem","[2.36998, 50.59352]",0900AM,place,"Linghem, Longhem","{""place""=>[""Linghem"", ""Longhem""], ""location""=>[""true""], ""name""=>[""Linghem"", """"], ""lat""=>[""50.59352"", """"], ""long""=>[""2.36998"", """"], ""id""=>[""2998226"", """"]}",,,
+16,AWD0002xia,diary,32,3,1915-12-02 00:00:00 UTC,2 Dec 1915,"Linghem, Longhem","[2.36998, 50.59352]","",diaryDate,2 Dec 1915,"{""day""=>[""2""], ""month""=>[""Dec""], ""year""=>[""1915""]}",,,
+18,AWD0002xia,diary,32,2,1915-12-02 00:00:00 UTC,2 Dec 1915,"Linghem, Longhem","[2.36998, 50.59352]","",activity,movement,{},,,
+19,AWD0002xia,diary,32,2,1915-12-02 00:00:00 UTC,2 Dec 1915,"Linghem, Longhem","[2.36998, 50.59352]","",domestic,accomodation,{},,,
+20,AWD0002xia,diary,32,2,1915-12-02 00:00:00 UTC,2 Dec 1915,"Linghem, Longhem","[2.36998, 50.59352]","",mapRef,sheet: 36A,{},,,
+21,AWD0002xia,diary,32,5,1915-12-02 00:00:00 UTC,2 Dec 1915,Rombly,"[2.38875, 50.59902]","",place,Rombly,"{""place""=>[""Rombly""], ""location""=>[""true""], ""name""=>[""Rombly""], ""lat""=>[""50.59902""], ""long""=>[""2.38875""], ""id""=>[""2983002""]}",2983002,Rombly,"[2.38875, 50.59902]"
+22,AWD0002xia,diary,32,2,1915-12-02 11:30:00 UTC,2 Dec 1915,Rombly,"[2.38875, 50.59902]",1130AM,time,1130AM,{},2983002,Rombly,"[2.38875, 50.59902]"
+28,AWD0002xia,diary,32,4,1915-12-02 13:00:00 UTC,2 Dec 1915,Rombly,"[2.38875, 50.59902]",0100PM,time,0100PM,{},2983002,Rombly,"[2.38875, 50.59902]"
+31,AWD0002xia,diary,32,2,1915-12-02 13:00:00 UTC,2 Dec 1915,Rombly,"[2.38875, 50.59902]",0100PM,casualties,non_combat: 1,{},2983002,Rombly,"[2.38875, 50.59902]"
+32,AWD0002xia,diary,32,2,1915-12-02 13:00:00 UTC,2 Dec 1915,Rombly,"[2.38875, 50.59902]",0100PM,place,"Ronbly, Rombly","{""place""=>[""Ronbly"", ""Rombly""], ""location""=>[""false""], ""name""=>["""", ""Rombly""], ""lat""=>["""", ""50.59902""], ""long""=>["""", ""2.38875""], ""id""=>["""", ""2983002""]}",2983002,Rombly,"[2.38875, 50.59902]"
+33,AWD0002xia,diary,32,2,1915-12-02 13:00:00 UTC,2 Dec 1915,Rombly,"[2.38875, 50.59902]",0100PM,domestic,accomodation,{},2983002,Rombly,"[2.38875, 50.59902]"
+36,AWD0002xia,diary,32,4,1915-12-02 15:00:00 UTC,2 Dec 1915,Rombly,"[2.38875, 50.59902]",0300PM,time,0300PM,{},2983002,Rombly,"[2.38875, 50.59902]"
+41,AWD0002xia,diary,32,3,1915-12-03 00:00:00 UTC,3 Dec 1915,Rombly,"[2.38875, 50.59902]","",diaryDate,3 Dec 1915,"{""day""=>[""3""], ""month""=>[""Dec""], ""year""=>[""1915""]}",2983002,Rombly,"[2.38875, 50.59902]"
+42,AWD0002xia,diary,32,2,1915-12-03 00:00:00 UTC,3 Dec 1915,Rombly,"[2.38875, 50.59902]","",place,"Ronbly, Rombly","{""place""=>[""Ronbly"", ""Rombly""], ""location""=>[""false""], ""name""=>["""", ""Rombly""], ""lat""=>["""", ""50.59902""], ""long""=>["""", ""2.38875""], ""id""=>["""", ""2983002""]}",2983002,Rombly,"[2.38875, 50.59902]"
+43,AWD0002xia,diary,32,3,1915-12-03 00:00:00 UTC,3 Dec 1915,Rombly,"[2.38875, 50.59902]","",domestic,inspections,{},2983002,Rombly,"[2.38875, 50.59902]"
+44,AWD0002xia,diary,32,4,1915-12-03 11:00:00 UTC,3 Dec 1915,Rombly,"[2.38875, 50.59902]",1100AM,time,1100AM,{},2983002,Rombly,"[2.38875, 50.59902]"
+46,AWD0002xia,diary,32,3,1915-12-06 00:00:00 UTC,6 Dec 1915,Rombly,"[2.38875, 50.59902]","",diaryDate,6 Dec 1915,"{""day""=>[""6""], ""month""=>[""Dec""], ""year""=>[""1915""]}",2983002,Rombly,"[2.38875, 50.59902]"
+47,AWD0002xia,diary,32,2,1915-12-06 00:00:00 UTC,6 Dec 1915,Rombly,"[2.38875, 50.59902]","",place,"Ronbly, Rombly","{""place""=>[""Ronbly"", ""Rombly""], ""location""=>[""true"", ""false""], ""name""=>["""", ""Rombly""], ""lat""=>["""", ""50.59902""], ""long""=>["""", ""2.38875""], ""id""=>["""", ""2983002""]}",2983002,Rombly,"[2.38875, 50.59902]"
+48,AWD0002xia,diary,32,4,1915-12-06 13:00:00 UTC,6 Dec 1915,Rombly,"[2.38875, 50.59902]",0100PM,time,0100PM,{},2983002,Rombly,"[2.38875, 50.59902]"
+49,AWD0002xia,diary,32,3,1915-12-06 13:00:00 UTC,6 Dec 1915,Rombly,"[2.38875, 50.59902]",0100PM,person,Second Lieutenant  Sturrock,"{""first""=>[""""], ""surname""=>[""Sturrock""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_posted""], ""unit""=>[""Royal Flying Corps""]}",2983002,Rombly,"[2.38875, 50.59902]"
+1,AWD0002xii,diary,33,3,1915-12-11 00:00:00 UTC,11 Dec 1915,Rombly,"[2.38875, 50.59902]","",diaryDate,11 Dec 1915,"{""day""=>[""11""], ""month""=>[""Dec""], ""year""=>[""1915""]}",2983002,Rombly,"[2.38875, 50.59902]"
+4,AWD0002xii,diary,33,4,1915-12-11 00:00:00 UTC,11 Dec 1915,Rombly,"[0.0, 0.0]","",place,Rombly,"{""place""=>[""Rombly""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2983002,Rombly,"[2.38875, 50.59902]"
+5,AWD0002xii,diary,33,3,1915-12-11 14:00:00 UTC,11 Dec 1915,Rombly,"[0.0, 0.0]",0200PM,time,0200PM,{},2983002,Rombly,"[2.38875, 50.59902]"
+6,AWD0002xii,diary,33,2,1915-12-11 14:00:00 UTC,11 Dec 1915,Rombly,"[0.0, 0.0]",0200PM,activity,other,{},2983002,Rombly,"[2.38875, 50.59902]"
+8,AWD0002xii,diary,33,2,1915-12-11 09:41:00 UTC,11 Dec 1915,Rombly,"[0.0, 0.0]",0941AM,time,0941AM,{},2983002,Rombly,"[2.38875, 50.59902]"
+9,AWD0002xii,diary,33,3,1915-12-12 00:00:00 UTC,12 Dec 1915,Rombly,"[0.0, 0.0]","",diaryDate,12 Dec 1915,"{""day""=>[""12""], ""month""=>[""Dec""], ""year""=>[""1915""]}",2983002,Rombly,"[2.38875, 50.59902]"
+10,AWD0002xii,diary,33,3,1915-12-12 00:00:00 UTC,12 Dec 1915,Rombly,"[0.0, 0.0]","",place,Rombly,"{""place""=>[""Rombly""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2983002,Rombly,"[2.38875, 50.59902]"
+12,AWD0002xii,diary,33,2,1915-12-12 05:15:00 UTC,12 Dec 1915,Rombly,"[0.0, 0.0]",0515AM,time,0515AM,{},2983002,Rombly,"[2.38875, 50.59902]"
+14,AWD0002xii,diary,33,3,1915-12-13 00:00:00 UTC,13 Dec 1915,Rombly,"[0.0, 0.0]","",diaryDate,13 Dec 1915,"{""day""=>[""13""], ""month""=>[""Dec""], ""year""=>[""1915""]}",2983002,Rombly,"[2.38875, 50.59902]"
+16,AWD0002xii,diary,33,4,1915-12-13 05:15:00 UTC,13 Dec 1915,Rombly,"[0.0, 0.0]",0515AM,time,0515AM,{},2983002,Rombly,"[2.38875, 50.59902]"
+17,AWD0002xii,diary,33,4,1915-12-13 05:15:00 UTC,13 Dec 1915,Rombly,"[0.0, 0.0]",0515AM,activity,movement,{},2983002,Rombly,"[2.38875, 50.59902]"
+18,AWD0002xii,diary,33,2,1915-12-13 05:15:00 UTC,13 Dec 1915,Rombly,"[2.38875, 50.59902]",0515AM,place,Rombly,"{""place""=>[""Rombly""], ""location""=>[""true""], ""name""=>["""", ""Rombly""], ""lat""=>["""", ""50.59902""], ""long""=>["""", ""2.38875""], ""id""=>["""", ""2983002""]}",2983002,Rombly,"[2.38875, 50.59902]"
+19,AWD0002xii,diary,33,4,1915-12-13 06:45:00 UTC,13 Dec 1915,Rombly,"[2.38875, 50.59902]",0645AM,time,0645AM,{},2983002,Rombly,"[2.38875, 50.59902]"
+20,AWD0002xii,diary,33,2,1915-12-13 06:45:00 UTC,13 Dec 1915,Rombly,"[2.38875, 50.59902]",0645AM,activity,movement,{},2983002,Rombly,"[2.38875, 50.59902]"
+21,AWD0002xii,diary,33,6,1915-12-13 06:45:00 UTC,13 Dec 1915,Berguette,"[2.47431, 50.60722]",0645AM,place,Berguette,"{""place""=>[""Berguette""], ""location""=>[""true""], ""name""=>[""Berguette""], ""lat""=>[""50.60722""], ""long""=>[""2.47431""], ""id""=>[""3033360""]}",3033360,Berguette,"[2.47431, 50.60722]"
+23,AWD0002xii,diary,33,4,1915-12-13 09:45:00 UTC,13 Dec 1915,Berguette,"[2.47431, 50.60722]",0945AM,time,0945AM,{},3033360,Berguette,"[2.47431, 50.60722]"
+25,AWD0002xii,diary,33,2,1915-12-13 09:45:00 UTC,13 Dec 1915,Berguette,"[2.47431, 50.60722]",0945AM,activity,movement,{},3033360,Berguette,"[2.47431, 50.60722]"
+27,AWD0002xii,diary,33,2,1915-12-13 09:45:00 UTC,13 Dec 1915,Berguette,"[2.47431, 50.60722]",0945AM,place,Berguette,"{""place""=>[""Berguette""], ""location""=>[""true"", ""false""], ""name""=>[""Berguette""], ""lat""=>[""50.60722""], ""long""=>[""2.47431""], ""id""=>[""3033360""]}",3033360,Berguette,"[2.47431, 50.60722]"
+28,AWD0002xii,diary,33,3,1915-12-15 00:00:00 UTC,15 Dec 1915,Berguette,"[2.47431, 50.60722]","",diaryDate,15 Dec 1915,"{""day""=>[""15""], ""month""=>[""Dec""], ""year""=>[""1915""]}",3033360,Berguette,"[2.47431, 50.60722]"
+32,AWD0002xii,diary,33,4,1915-12-15 16:30:00 UTC,15 Dec 1915,Berguette,"[2.47431, 50.60722]",0430PM,time,0430PM,{},3033360,Berguette,"[2.47431, 50.60722]"
+33,AWD0002xii,diary,33,4,1915-12-15 16:30:00 UTC,15 Dec 1915,Marseilles,"[5.38107, 43.29695]",0430PM,place,Marseilles,"{""place""=>[""Marseilles""], ""location""=>[""true""], ""name""=>[""Marseille""], ""lat""=>[""43.29695""], ""long""=>[""5.38107""], ""id""=>[""2995469""]}",2995469,Marseille,"[5.38107, 43.29695]"
+37,AWD0002xii,diary,33,2,1915-12-15 21:00:00 UTC,15 Dec 1915,Marseilles,"[5.38107, 43.29695]",0900PM,time,0900PM,{},2995469,Marseille,"[5.38107, 43.29695]"
+38,AWD0002xii,diary,33,2,1915-12-15 21:00:00 UTC,15 Dec 1915,Marseilles,"[5.38107, 43.29695]",0900PM,place,Marseilles,"{""place""=>[""Marseilles""], ""location""=>[""true"", ""false""], ""name""=>[""Marseilles-lès-Aubigny"", ""Marseille""], ""lat""=>[""47.06672"", ""43.29695""], ""long""=>[""3.01183"", ""5.38107""], ""id""=>[""2995461"", ""2995469""]}",2995469,Marseille,"[5.38107, 43.29695]"
+39,AWD0002xii,diary,33,3,1915-12-17 00:00:00 UTC,17 Dec 1915,Marseilles,"[5.38107, 43.29695]","",diaryDate,17 Dec 1915,"{""day""=>[""17""], ""month""=>[""Dec""], ""year""=>[""1915""]}",2995469,Marseille,"[5.38107, 43.29695]"
+41,AWD0002xii,diary,33,3,1915-12-17 00:00:00 UTC,17 Dec 1915,Marseilles,"[5.38107, 43.29695]","",activity,movement,{},2995469,Marseille,"[5.38107, 43.29695]"
+43,AWD0002xii,diary,33,3,1915-12-17 10:35:00 UTC,17 Dec 1915,Marseilles,"[5.38107, 43.29695]",1035AM,time,1035AM,{},2995469,Marseille,"[5.38107, 43.29695]"
+44,AWD0002xii,diary,33,2,1915-12-17 10:35:00 UTC,17 Dec 1915,Marseilles,"[5.38107, 43.29695]",1035AM,place,Marseilles,"{""place""=>[""Marseilles""], ""location""=>[""true"", ""false""], ""name""=>[""Marseilles-lès-Aubigny"", ""Marseille""], ""lat""=>[""47.06672"", ""43.29695""], ""long""=>[""3.01183"", ""5.38107""], ""id""=>[""2995461"", ""2995469""]}",2995469,Marseille,"[5.38107, 43.29695]"
+1,AWD0002xhp,diary,34,6,1915-12-22 00:00:00 UTC,22 Dec 1915,Marseilles,"[5.38107, 43.29695]","",diaryDate,22 Dec 1915,"{""day""=>[""22""], ""month""=>[""Dec""], ""year""=>[""1915""]}",2995469,Marseille,"[5.38107, 43.29695]"
+2,AWD0002xhp,diary,34,9,1915-12-22 00:00:00 UTC,22 Dec 1915,Alexandria,"[-4.5864, 55.99379]","",place,Alexandria,"{""place""=>[""Alexandria""], ""location""=>[""true""], ""name""=>[""Alexandria""], ""lat""=>[""55.99379""], ""long""=>[""-4.5864""], ""id""=>[""2657513""]}",2657513,Alexandria,"[-4.5864, 55.99379]"
+5,AWD0002xhp,diary,34,7,1915-12-22 08:00:00 UTC,22 Dec 1915,Alexandria,"[-4.5864, 55.99379]",0800AM,time,0800AM,{},2657513,Alexandria,"[-4.5864, 55.99379]"
+6,AWD0002xhp,diary,34,2,1915-12-22 08:00:00 UTC,22 Dec 1915,Alexandria,"[-4.5864, 55.99379]",0800AM,activity,movement,{},2657513,Alexandria,"[-4.5864, 55.99379]"
+10,AWD0002xhp,diary,34,2,1915-12-22 08:00:00 UTC,22 Dec 1915,Port Said,"[10.5, 51.9]",0800AM,place,Port Said,"{""place""=>[""Port Said""], ""location""=>[""true""], ""name""=>["""", ""Aden-Berg""], ""lat""=>["""", ""51.9""], ""long""=>["""", ""10.5""], ""id""=>["""", ""2959485""]}",2995469,Marseille,"[5.38107, 43.29695]"
+11,AWD0002xhp,diary,34,2,1915-12-22 08:00:00 UTC,22 Dec 1915,Alexandria,"[-4.5864, 55.99379]",0800AM,place,Alexandria,"{""place""=>[""Alexandria""], ""location""=>[""true""], ""name""=>["""", ""Alexandria""], ""lat""=>["""", ""55.99379""], ""long""=>["""", ""-4.5864""], ""id""=>["""", ""2657513""]}",2657513,Alexandria,"[-4.5864, 55.99379]"
+12,AWD0002xhp,diary,34,7,1915-12-22 17:00:00 UTC,22 Dec 1915,Alexandria,"[-4.5864, 55.99379]",0500PM,time,0500PM,{},2657513,Alexandria,"[-4.5864, 55.99379]"
+13,AWD0002xhp,diary,34,2,1915-12-22 17:00:00 UTC,22 Dec 1915,Alexandria,"[-4.5864, 55.99379]",0500PM,place,Alexandria,"{""place""=>[""Alexandria""], ""location""=>[""true""], ""name""=>[""Alexandria""], ""lat""=>[""55.99379""], ""long""=>[""-4.5864""], ""id""=>[""2657513""]}",2657513,Alexandria,"[-4.5864, 55.99379]"
+14,AWD0002xhp,diary,34,3,1915-12-22 00:00:00 UTC,22 Dec 1915,Alexandria,"[-4.5864, 55.99379]","",diaryDate,22 Dec 1915,"{""day""=>[""22""], ""month""=>[""Dec""], ""year""=>[""1915""]}",2657513,Alexandria,"[-4.5864, 55.99379]"
+15,AWD0002xhp,diary,34,10,1915-12-22 00:00:00 UTC,22 Dec 1915,Alexandria,"[-4.5864, 55.99379]","",activity,movement,{},2657513,Alexandria,"[-4.5864, 55.99379]"
+16,AWD0002xhp,diary,34,6,1915-12-23 00:00:00 UTC,23 Dec 1915,Alexandria,"[-4.5864, 55.99379]","",diaryDate,23 Dec 1915,"{""day""=>[""23""], ""month""=>[""Dec""], ""year""=>[""1915""]}",2657513,Alexandria,"[-4.5864, 55.99379]"
+17,AWD0002xhp,diary,34,2,1915-12-23 20:00:00 UTC,23 Dec 1915,Alexandria,"[-4.5864, 55.99379]",0800PM,time,0800PM,{},2657513,Alexandria,"[-4.5864, 55.99379]"
+18,AWD0002xhp,diary,34,5,1915-12-23 08:00:00 UTC,23 Dec 1915,Alexandria,"[-4.5864, 55.99379]",0800AM,time,0800AM,{},2657513,Alexandria,"[-4.5864, 55.99379]"
+19,AWD0002xhp,diary,34,9,1915-12-23 08:00:00 UTC,23 Dec 1915,Port Said,"[0.0, 0.0]",0800AM,place,Port Said,"{""place""=>[""Port Said""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2995469,Marseille,"[5.38107, 43.29695]"
+20,AWD0002xhp,diary,34,4,1915-12-23 08:00:00 UTC,23 Dec 1915,P S ,"[-4.5864, 55.99379]",0800AM,place,P S ,"{""place""=>[""P S ""], ""location""=>[""true""], ""name""=>["""", ""Alexandria""], ""lat""=>["""", ""55.99379""], ""long""=>["""", ""-4.5864""], ""id""=>["""", ""2657513""]}",,,
+23,AWD0002xhp,diary,34,6,1915-12-24 00:00:00 UTC,24 Dec 1915,P S ,"[-4.5864, 55.99379]","",diaryDate,24 Dec 1915,"{""day""=>[""24""], ""month""=>[""Dec""], ""year""=>[""1915""]}",,,
+24,AWD0002xhp,diary,34,5,1915-12-24 11:15:00 UTC,24 Dec 1915,P S ,"[-4.5864, 55.99379]",1115AM,time,1115AM,{},,,
+26,AWD0002xhp,diary,34,2,1915-12-24 11:15:00 UTC,24 Dec 1915,P S ,"[-4.5864, 55.99379]",1115AM,activity,movement,{},,,
+28,AWD0002xhp,diary,34,4,1915-12-24 11:15:00 UTC,24 Dec 1915,P S ,"[-4.5864, 55.99379]",1115AM,activity,movement,{},,,
+29,AWD0002xhp,diary,34,8,1915-12-24 11:15:00 UTC,24 Dec 1915,Ismailia,"[0.0, 0.0]",1115AM,place,Ismailia,"{""place""=>[""Ismailia""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+30,AWD0002xhp,diary,34,2,,"24 Aug,Dec 1915",Ismailia,"[0.0, 0.0]","",diaryDate,"24 Aug,Dec 1915","{""day""=>[""24""], ""month""=>[""Aug"", ""Dec""], ""year""=>[""1915""]}",,,
+31,AWD0002xhp,diary,34,7,,"24 Aug,Dec 1915",Ismailia,"[0.0, 0.0]",0615PM,time,0615PM,{},,,
+32,AWD0002xhp,diary,34,3,,"24 Aug,Dec 1915",Ismailia,"[0.0, 0.0]",0615PM,place,Ismailia,"{""place""=>[""Ismailia""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+35,AWD0002xhp,diary,34,6,,"24 Aug,Dec 1915",Ismailia,"[0.0, 0.0]",0615PM,activity,movement,{},,,
+36,AWD0002xhp,diary,34,6,1915-12-25 00:00:00 UTC,25 Dec 1915,Ismailia,"[0.0, 0.0]","",diaryDate,25 Dec 1915,"{""day""=>[""25""], ""month""=>[""Dec""], ""year""=>[""1915""]}",,,
+37,AWD0002xhp,diary,34,2,1915-12-25 00:00:00 UTC,25 Dec 1915,"ismailia, Ismailia","[0.0, 0.0]","",place,"ismailia, Ismailia","{""place""=>[""ismailia"", ""Ismailia""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+38,AWD0002xhp,diary,34,3,1915-12-25 07:00:00 UTC,25 Dec 1915,"ismailia, Ismailia","[0.0, 0.0]",0700AM,time,0700AM,{},,,
+41,AWD0002xhp,diary,34,2,1915-12-25 01:00:00 UTC,25 Dec 1915,"ismailia, Ismailia","[0.0, 0.0]",0100AM,time,0100AM,{},,,
+43,AWD0002xhp,diary,34,5,1915-12-25 01:00:00 UTC,25 Dec 1915,"ismailia, Ismailia","[0.0, 0.0]",0100AM,activity,movement,{},,,
+44,AWD0002xhp,diary,34,4,1915-12-25 01:00:00 UTC,25 Dec 1915,Suez,"[0.0, 0.0]",0100AM,place,Suez,"{""place""=>[""Suez""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+45,AWD0002xhp,diary,34,3,1915-12-25 00:00:00 UTC,25 Dec 1915,Suez,"[0.0, 0.0]","",diaryDate,25 Dec 1915,"{""day""=>[""25""], ""month""=>[""Dec""], ""year""=>[""1915""]}",,,
+46,AWD0002xhp,diary,34,7,1915-12-25 00:00:00 UTC,25 Dec 1915,suez,"[0.0, 0.0]","",place,suez,"{""place""=>[""suez""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+47,AWD0002xhp,diary,34,6,1915-12-25 14:30:00 UTC,25 Dec 1915,suez,"[0.0, 0.0]",0230PM,time,0230PM,{},,,
+49,AWD0002xhp,diary,34,6,1915-12-26 00:00:00 UTC,26 Dec 1915,suez,"[0.0, 0.0]","",diaryDate,26 Dec 1915,"{""day""=>[""26""], ""month""=>[""Dec""], ""year""=>[""1915""]}",,,
+50,AWD0002xhp,diary,34,2,1915-12-26 00:00:00 UTC,26 Dec 1915,suez,"[0.0, 0.0]","",activity,movement,{},,,
+52,AWD0002xhp,diary,34,2,1915-12-26 00:00:00 UTC,26 Dec 1915,suez,"[0.0, 0.0]",1200AM,time,1200AM,{},,,
+53,AWD0002xhp,diary,34,4,1915-12-26 12:00:00 UTC,26 Dec 1915,suez,"[0.0, 0.0]",1200PM,time,1200PM,{},,,
+55,AWD0002xhp,diary,34,4,1915-12-26 12:00:00 UTC,26 Dec 1915,suez,"[0.0, 0.0]",1200PM,activity,movement,{},,,
+56,AWD0002xhp,diary,34,5,1915-12-26 12:00:00 UTC,26 Dec 1915,"Suez, Aden","[0.0, 0.0]",1200PM,place,"Suez, Aden","{""place""=>[""Suez"", ""Aden""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+58,AWD0002xhp,diary,34,6,1915-12-30 00:00:00 UTC,30 Dec 1915,"Suez, Aden","[0.0, 0.0]","",diaryDate,30 Dec 1915,"{""day""=>[""30""], ""month""=>[""Dec""], ""year""=>[""1915""]}",,,
+59,AWD0002xhp,diary,34,4,1915-12-30 10:30:00 UTC,30 Dec 1915,"Suez, Aden","[0.0, 0.0]",1030AM,time,1030AM,{},,,
+61,AWD0002xhp,diary,34,2,1915-12-30 10:30:00 UTC,30 Dec 1915,"Suez, Aden","[0.0, 0.0]",1030AM,activity,movement,{},,,
+62,AWD0002xhp,diary,34,3,1915-12-30 10:30:00 UTC,30 Dec 1915,Aden,"[0.0, 0.0]",1030AM,place,Aden,"{""place""=>[""Aden""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+64,AWD0002xhp,diary,34,6,1915-12-30 10:30:00 UTC,30 Dec 1915,Aden,"[0.0, 0.0]",1030AM,place,Aden,"{""place""=>[""Aden""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+65,AWD0002xhp,diary,34,2,1915-12-30 22:30:00 UTC,30 Dec 1915,Aden,"[0.0, 0.0]",1030PM,time,1030PM,{},,,
+66,AWD0002xhp,diary,34,2,1915-12-30 22:30:00 UTC,30 Dec 1915,"aden, Aden","[0.0, 0.0]",1030PM,place,"aden, Aden","{""place""=>[""aden"", ""Aden""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+67,AWD0002xhp,diary,34,5,1915-12-30 22:30:00 UTC,30 Dec 1915,"aden, Aden","[0.0, 0.0]",1030PM,activity,movement,{},,,
+68,AWD0002xhp,diary,34,2,1915-12-30 22:30:00 UTC,30 Dec 1915,"aden, Aden","[0.0, 0.0]",1030PM,place,Aden,"{""place""=>[""Aden""], ""location""=>[""true"", ""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+70,AWD0002xhp,diary,34,2,,"30 Dec,Aug 1915","aden, Aden","[0.0, 0.0]","",diaryDate,"30 Dec,Aug 1915","{""day""=>[""30""], ""month""=>[""Dec"", ""Aug""], ""year""=>[""1915""]}",,,
+71,AWD0002xhp,diary,34,7,,"30 Dec,Aug 1915","aden, Aden","[0.0, 0.0]",1130AM,time,1130AM,{},,,

@@ -1,0 +1,393 @@
+Order,Page,Page type,Page number,Count,DateTime,Date,Place,Lat/Lon,Time,Type,Label,Data,GeoID,GeoName,GeoCoords
+1,AWD0001s3u,diary,575,6,1914-12-01 00:00:00 UTC,1 Dec 1914,"","[0.0, 0.0]","",diaryDate,1 Dec 1914,"{""day""=>[""1""], ""month""=>[""Dec""], ""year""=>[""1914""]}",2985684,Pozières,"[2.72929, 50.04047]"
+2,AWD0001s3u,diary,575,3,1914-12-01 00:00:00 UTC,1 Dec 1914,Railhead Hazebrouck,"[0.0, 0.0]","",place,Railhead Hazebrouck,"{""place""=>[""Railhead Hazebrouck""], ""location""=>[""true""], ""name""=>[""Mont-Notre-Dame"", """", ""Aldershot""], ""lat""=>[""49.29596"", """", ""51.24827""], ""long""=>[""3.58464"", """", ""-0.76389""], ""id""=>[""2992209"", """", ""2657540""]}",,,
+3,AWD0001s3u,diary,575,6,1914-12-01 09:00:00 UTC,1 Dec 1914,Railhead Hazebrouck,"[0.0, 0.0]",0900AM,time,0900AM,{},,,
+4,AWD0001s3u,diary,575,5,1914-12-01 10:00:00 UTC,1 Dec 1914,Railhead Hazebrouck,"[0.0, 0.0]",1000AM,time,1000AM,{},,,
+6,AWD0001s3u,diary,575,2,1914-12-01 10:00:00 UTC,1 Dec 1914,Grande Place,"[0.0, 0.0]",1000AM,place,Grande Place,"{""place""=>[""Grande Place""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+7,AWD0001s3u,diary,575,5,1914-12-01 15:00:00 UTC,1 Dec 1914,Grande Place,"[0.0, 0.0]",0300PM,time,0300PM,{},,,
+9,AWD0001s3u,diary,575,3,1914-12-01 15:00:00 UTC,1 Dec 1914,Grande Place,"[0.0, 0.0]",0300PM,activity,resupplying,{},,,
+11,AWD0001s3u,diary,575,5,1914-12-01 17:00:00 UTC,1 Dec 1914,Grande Place,"[0.0, 0.0]",0500PM,time,0500PM,{},,,
+12,AWD0001s3u,diary,575,5,1914-12-01 20:30:00 UTC,1 Dec 1914,Grande Place,"[0.0, 0.0]",0830PM,time,0830PM,{},,,
+14,AWD0001s3u,diary,575,3,1914-12-13 00:00:00 UTC,13 Dec 1914,Grande Place,"[0.0, 0.0]","",diaryDate,13 Dec 1914,"{""day""=>[""13""], ""month""=>[""Dec""], ""year""=>[""1914""]}",,,
+15,AWD0001s3u,diary,575,4,1914-12-02 00:00:00 UTC,2 Dec 1914,Grande Place,"[0.0, 0.0]","",diaryDate,2 Dec 1914,"{""day""=>[""2""], ""month""=>[""Dec""], ""year""=>[""1914""]}",,,
+19,AWD0001s3u,diary,575,2,1914-12-02 00:00:00 UTC,2 Dec 1914,Grande Place,"[0.0, 0.0]","",activity,training,{},,,
+20,AWD0001s3u,diary,575,4,1914-12-02 20:30:00 UTC,2 Dec 1914,Grande Place,"[0.0, 0.0]",0830PM,time,0830PM,{},,,
+22,AWD0001s3u,diary,575,5,1914-12-14 00:00:00 UTC,14 Dec 1914,Grande Place,"[0.0, 0.0]","",diaryDate,14 Dec 1914,"{""day""=>[""14""], ""month""=>[""Dec""], ""year""=>[""1914""]}",,,
+23,AWD0001s3u,diary,575,2,1914-12-14 00:00:00 UTC,14 Dec 1914,"Railhead Steenbucque, Railhead Steenbecque","[0.0, 0.0]","",place,"Railhead Steenbucque, Railhead Steenbecque","{""place""=>[""Railhead Steenbucque"", ""Railhead Steenbecque""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+24,AWD0001s3u,diary,575,4,1914-12-14 09:00:00 UTC,14 Dec 1914,"Railhead Steenbucque, Railhead Steenbecque","[0.0, 0.0]",0900AM,time,0900AM,{},,,
+26,AWD0001s3u,diary,575,4,1914-12-14 21:00:00 UTC,14 Dec 1914,"Railhead Steenbucque, Railhead Steenbecque","[0.0, 0.0]",0900PM,time,0900PM,{},,,
+27,AWD0001s3u,diary,575,4,1914-12-15 00:00:00 UTC,15 Dec 1914,"Railhead Steenbucque, Railhead Steenbecque","[0.0, 0.0]","",diaryDate,15 Dec 1914,"{""day""=>[""15""], ""month""=>[""Dec""], ""year""=>[""1914""]}",,,
+28,AWD0001s3u,diary,575,2,1914-12-30 00:00:00 UTC,30 Dec 1914,"Railhead Steenbucque, Railhead Steenbecque","[0.0, 0.0]","",diaryDate,30 Dec 1914,"{""day""=>[""30""], ""month""=>[""Dec""], ""year""=>[""1914""]}",,,
+30,AWD0001s3u,diary,575,2,1914-12-30 00:00:00 UTC,30 Dec 1914,"Railhead Steenbucque, Railhead Steenbecque","[0.0, 0.0]","",activity,resupplying,{},,,
+34,AWD0001s3u,diary,575,2,1914-12-25 00:00:00 UTC,25 Dec 1914,"Railhead Steenbucque, Railhead Steenbecque","[0.0, 0.0]","",diaryDate,25 Dec 1914,"{""day""=>[""25""], ""month""=>[""Dec""], ""year""=>[""1914""]}",,,
+35,AWD0001s3u,diary,575,3,1914-12-25 18:00:00 UTC,25 Dec 1914,"Railhead Steenbucque, Railhead Steenbecque","[0.0, 0.0]",0600PM,time,0600PM,{},,,
+36,AWD0001s3u,diary,575,2,1914-12-25 18:30:00 UTC,25 Dec 1914,"Railhead Steenbucque, Railhead Steenbecque","[0.0, 0.0]",0630PM,time,0630PM,{},,,
+39,AWD0001s3u,diary,575,2,1914-12-25 18:30:00 UTC,25 Dec 1914,"Railhead Steenbucque, Railhead Steenbecque","[0.0, 0.0]",0630PM,person,"Private  Morsla, HOSKA","{""first""=>[""""], ""surname""=>[""Morsla"", ""HOSKA""], ""rank""=>[""Private""], ""number""=>[""c/664"", """"], ""reason""=>[""casualty_non"", ""other""], ""unit""=>[""""]}",,,
+2,AWD0001s4h,diary,577,4,1918-05-01 00:00:00 UTC,1 May 1918,"Railhead Steenbucque, Railhead Steenbecque","[0.0, 0.0]","",diaryDate,1 May 1918,"{""day""=>[""1""], ""month""=>[""May""], ""year""=>[""1918""]}",,,
+4,AWD0001s4h,diary,577,3,1918-05-01 00:00:00 UTC,1 May 1918,"Gondardennes, gondardennes, gondaryennes","[0.0, 0.0]","",place,"Gondardennes, gondardennes, gondaryennes","{""place""=>[""Gondardennes"", ""gondardennes"", ""gondaryennes""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+5,AWD0001s4h,diary,577,2,1918-05-01 08:00:00 UTC,1 May 1918,"Gondardennes, gondardennes, gondaryennes","[0.0, 0.0]",0800AM,time,0800AM,{},,,
+9,AWD0001s4h,diary,577,2,,"2 May,Apr 1918","Gondardennes, gondardennes, gondaryennes","[0.0, 0.0]","",diaryDate,"2 May,Apr 1918","{""day""=>[""2""], ""month""=>[""May"", ""Apr""], ""year""=>[""1918""]}",,,
+10,AWD0001s4h,diary,577,2,1918-05-02 00:00:00 UTC,2 May 1918,"Gondardennes, gondardennes, gondaryennes","[0.0, 0.0]","",diaryDate,2 May 1918,"{""day""=>[""2""], ""month""=>[""May""], ""year""=>[""1918""]}",,,
+15,AWD0001s4h,diary,577,2,1918-05-02 13:00:00 UTC,2 May 1918,"Gondardennes, gondardennes, gondaryennes","[0.0, 0.0]",0100PM,time,0100PM,{},,,
+16,AWD0001s4h,diary,577,4,1918-05-02 13:00:00 UTC,2 May 1918,enquingatte,"[1.87763, 50.49306]",0100PM,place,enquingatte,"{""place""=>[""enquingatte""], ""location""=>[""true""], ""name""=>[""Sempy"", """"], ""lat""=>[""50.49306"", """"], ""long""=>[""1.87763"", """"], ""id""=>[""2975144"", """"]}",,,
+17,AWD0001s4h,diary,577,4,1918-05-03 00:00:00 UTC,3 May 1918,enquingatte,"[1.87763, 50.49306]","",diaryDate,3 May 1918,"{""day""=>[""3""], ""month""=>[""May""], ""year""=>[""1918""]}",,,
+18,AWD0001s4h,diary,577,2,1918-05-03 08:00:00 UTC,3 May 1918,enquingatte,"[1.87763, 50.49306]",0800AM,time,0800AM,{},,,
+19,AWD0001s4h,diary,577,4,1918-05-04 00:00:00 UTC,4 May 1918,enquingatte,"[1.87763, 50.49306]","",diaryDate,4 May 1918,"{""day""=>[""4""], ""month""=>[""May""], ""year""=>[""1918""]}",,,
+20,AWD0001s4h,diary,577,2,1918-05-04 07:30:00 UTC,4 May 1918,enquingatte,"[1.87763, 50.49306]",0730AM,time,0730AM,{},,,
+21,AWD0001s4h,diary,577,4,1918-05-05 00:00:00 UTC,5 May 1918,enquingatte,"[1.87763, 50.49306]","",diaryDate,5 May 1918,"{""day""=>[""5""], ""month""=>[""May""], ""year""=>[""1918""]}",,,
+22,AWD0001s4h,diary,577,2,1918-05-05 08:00:00 UTC,5 May 1918,enquingatte,"[1.87763, 50.49306]",0800AM,time,0800AM,{},,,
+23,AWD0001s4h,diary,577,2,1918-05-05 15:00:00 UTC,5 May 1918,enquingatte,"[1.87763, 50.49306]",0300PM,time,0300PM,{},,,
+24,AWD0001s4h,diary,577,4,1918-05-05 15:00:00 UTC,5 May 1918,sempy,"[1.87763, 50.49306]",0300PM,place,sempy,"{""place""=>[""sempy""], ""location""=>[""true""], ""name""=>[""Sempy"", """"], ""lat""=>[""50.49306"", """"], ""long""=>[""1.87763"", """"], ""id""=>[""2975144"", """"]}",2975144,Sempy,"[1.87763, 50.49306]"
+1,AWD0001s3t,diary,578,4,1918-05-05 15:00:00 UTC,5 May 1918,"Sempy, sempy","[1.87763, 50.49306]",0300PM,place,"Sempy, sempy","{""place""=>[""Sempy"", ""sempy""], ""location""=>[""true""], ""name""=>[""Sempy""], ""lat""=>[""50.49306""], ""long""=>[""1.87763""], ""id""=>[""2975144""]}",2975144,Sempy,"[1.87763, 50.49306]"
+2,AWD0001s3t,diary,578,3,1918-05-06 00:00:00 UTC,6 May 1918,"Sempy, sempy","[1.87763, 50.49306]","",diaryDate,6 May 1918,"{""day""=>[""6""], ""month""=>[""May""], ""year""=>[""1918""]}",2975144,Sempy,"[1.87763, 50.49306]"
+3,AWD0001s3t,diary,578,2,1918-05-06 08:00:00 UTC,6 May 1918,"Sempy, sempy","[1.87763, 50.49306]",0800AM,time,0800AM,{},2975144,Sempy,"[1.87763, 50.49306]"
+4,AWD0001s3t,diary,578,2,1918-05-06 08:00:00 UTC,6 May 1918,"Sempy, sempy","[1.87763, 50.49306]",0800AM,activity,resupplying,{},2975144,Sempy,"[1.87763, 50.49306]"
+6,AWD0001s3t,diary,578,2,1918-05-06 14:00:00 UTC,6 May 1918,"Sempy, sempy","[1.87763, 50.49306]",0200PM,time,0200PM,{},2975144,Sempy,"[1.87763, 50.49306]"
+7,AWD0001s3t,diary,578,4,1918-05-06 14:00:00 UTC,6 May 1918,Beaurainville,"[1.89938, 50.42432]",0200PM,place,Beaurainville,"{""place""=>[""Beaurainville""], ""location""=>[""true""], ""name""=>[""Beaurainville""], ""lat""=>[""50.42432""], ""long""=>[""1.89938""], ""id""=>[""3034101""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+8,AWD0001s3t,diary,578,3,1918-05-07 00:00:00 UTC,7 May 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,7 May 1918,"{""day""=>[""7""], ""month""=>[""May""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+9,AWD0001s3t,diary,578,3,1918-05-07 08:00:00 UTC,7 May 1918,Beaurainville,"[1.89938, 50.42432]",0800AM,time,0800AM,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+10,AWD0001s3t,diary,578,2,1918-05-07 08:00:00 UTC,7 May 1918,Beaurainville,"[1.89938, 50.42432]",0800AM,activity,resupplying,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+12,AWD0001s3t,diary,578,3,1918-05-08 00:00:00 UTC,8 May 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,8 May 1918,"{""day""=>[""8""], ""month""=>[""May""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+13,AWD0001s3t,diary,578,2,1918-05-08 00:00:00 UTC,8 May 1918,Beaurainville,"[1.89938, 50.42432]","",activity,resupplying,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+14,AWD0001s3t,diary,578,3,1918-05-08 09:00:00 UTC,8 May 1918,Beaurainville,"[1.89938, 50.42432]",0900AM,time,0900AM,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+17,AWD0001s3t,diary,578,3,1918-05-08 08:00:00 UTC,8 May 1918,Beaurainville,"[1.89938, 50.42432]",0800AM,time,0800AM,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+18,AWD0001s3t,diary,578,3,1918-05-09 00:00:00 UTC,9 May 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,9 May 1918,"{""day""=>[""9""], ""month""=>[""May""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+19,AWD0001s3t,diary,578,2,1918-05-09 00:00:00 UTC,9 May 1918,Beaurainville,"[1.89938, 50.42432]","",activity,resupplying,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+20,AWD0001s3t,diary,578,2,1918-05-10 00:00:00 UTC,10 May 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,10 May 1918,"{""day""=>[""10""], ""month""=>[""May""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+21,AWD0001s3t,diary,578,2,1918-05-10 09:00:00 UTC,10 May 1918,Beaurainville,"[1.89938, 50.42432]",0900AM,time,0900AM,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+22,AWD0001s3t,diary,578,2,1918-05-10 09:00:00 UTC,10 May 1918,Beaurainville,"[1.89938, 50.42432]",0900AM,activity,resupplying,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+1,AWD0001s3w,diary,579,3,1918-05-11 00:00:00 UTC,11 May 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,11 May 1918,"{""day""=>[""11""], ""month""=>[""May""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+3,AWD0001s3w,diary,579,2,1918-05-11 00:00:00 UTC,11 May 1918,"beaurainville, Beaurainville","[1.89938, 50.42432]","",place,"beaurainville, Beaurainville","{""place""=>[""beaurainville"", ""Beaurainville""], ""location""=>[""true""], ""name""=>[""Beaurainville""], ""lat""=>[""50.42432""], ""long""=>[""1.89938""], ""id""=>[""3034101""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+4,AWD0001s3w,diary,579,2,1918-05-11 08:00:00 UTC,11 May 1918,"beaurainville, Beaurainville","[1.89938, 50.42432]",0800AM,time,0800AM,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+5,AWD0001s3w,diary,579,2,1918-05-11 08:00:00 UTC,11 May 1918,"beaurainville, Beaurainville","[1.89938, 50.42432]",0800AM,activity,resupplying,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+8,AWD0001s3w,diary,579,2,1918-05-11 08:00:00 UTC,11 May 1918,"beaurainville, Beaurainville","[1.89938, 50.42432]",0800AM,activity,resupplying,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+9,AWD0001s3w,diary,579,3,1918-05-12 00:00:00 UTC,12 May 1918,"beaurainville, Beaurainville","[1.89938, 50.42432]","",diaryDate,12 May 1918,"{""day""=>[""12""], ""month""=>[""May""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+10,AWD0001s3w,diary,579,4,1918-05-12 08:00:00 UTC,12 May 1918,"beaurainville, Beaurainville","[1.89938, 50.42432]",0800AM,time,0800AM,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+11,AWD0001s3w,diary,579,3,1918-05-13 00:00:00 UTC,13 May 1918,"beaurainville, Beaurainville","[1.89938, 50.42432]","",diaryDate,13 May 1918,"{""day""=>[""13""], ""month""=>[""May""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+12,AWD0001s3w,diary,579,4,1918-05-13 00:00:00 UTC,13 May 1918,"beaurainville, Beaurainville","[1.89938, 50.42432]","",activity,resupplying,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+15,AWD0001s3w,diary,579,3,1918-05-14 00:00:00 UTC,14 May 1918,"beaurainville, Beaurainville","[1.89938, 50.42432]","",diaryDate,14 May 1918,"{""day""=>[""14""], ""month""=>[""May""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+16,AWD0001s3w,diary,579,2,1918-05-14 08:00:00 UTC,14 May 1918,"beaurainville, Beaurainville","[1.89938, 50.42432]",0800AM,time,0800AM,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+18,AWD0001s3w,diary,579,3,1918-05-14 08:00:00 UTC,14 May 1918,"beaurainville, Beaurainville","[1.89938, 50.42432]",0800AM,activity,resupplying,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+20,AWD0001s3w,diary,579,3,1918-05-15 00:00:00 UTC,15 May 1918,"beaurainville, Beaurainville","[1.89938, 50.42432]","",diaryDate,15 May 1918,"{""day""=>[""15""], ""month""=>[""May""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+21,AWD0001s3w,diary,579,2,1918-05-15 07:00:00 UTC,15 May 1918,"beaurainville, Beaurainville","[1.89938, 50.42432]",0700AM,time,0700AM,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+26,AWD0001s3w,diary,579,2,1918-05-16 00:00:00 UTC,16 May 1918,"beaurainville, Beaurainville","[1.89938, 50.42432]","",diaryDate,16 May 1918,"{""day""=>[""16""], ""month""=>[""May""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+1,AWD0001s3a,diary,580,2,1918-05-16 00:00:00 UTC,16 May 1918,"sempy, Sempy","[1.87763, 50.49306]","",place,"sempy, Sempy","{""place""=>[""sempy"", ""Sempy""], ""location""=>[""true""], ""name""=>["""", ""Sempy""], ""lat""=>["""", ""50.49306""], ""long""=>["""", ""1.87763""], ""id""=>["""", ""2975144""]}",2975144,Sempy,"[1.87763, 50.49306]"
+2,AWD0001s3a,diary,580,3,1918-05-06 00:00:00 UTC,6 May 1918,"sempy, Sempy","[1.87763, 50.49306]","",diaryDate,6 May 1918,"{""day""=>[""6""], ""month""=>[""May""], ""year""=>[""1918""]}",2975144,Sempy,"[1.87763, 50.49306]"
+3,AWD0001s3a,diary,580,2,1918-05-06 08:00:00 UTC,6 May 1918,"sempy, Sempy","[1.87763, 50.49306]",0800AM,time,0800AM,{},2975144,Sempy,"[1.87763, 50.49306]"
+5,AWD0001s3a,diary,580,2,1918-05-06 08:00:00 UTC,6 May 1918,"maresquel, Maresquel","[1.93333, 50.4]",0800AM,place,"maresquel, Maresquel","{""place""=>[""maresquel"", ""Maresquel""], ""location""=>[""true""], ""name""=>[""Maresquel-Ecquemicourt""], ""lat""=>[""50.4""], ""long""=>[""1.93333""], ""id""=>[""2995847""]}",2995847,Maresquel-Ecquemicourt,"[1.93333, 50.4]"
+10,AWD0001s3a,diary,580,4,1918-05-06 08:00:00 UTC,6 May 1918,beaurainville,"[1.89938, 50.42432]",0800AM,place,beaurainville,"{""place""=>[""beaurainville""], ""location""=>[""true""], ""name""=>[""Beaurainville""], ""lat""=>[""50.42432""], ""long""=>[""1.89938""], ""id""=>[""3034101""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+12,AWD0001s3a,diary,580,2,1918-05-07 00:00:00 UTC,7 May 1918,beaurainville,"[1.89938, 50.42432]","",diaryDate,7 May 1918,"{""day""=>[""7""], ""month""=>[""May""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+13,AWD0001s3a,diary,580,2,1918-05-07 08:00:00 UTC,7 May 1918,beaurainville,"[1.89938, 50.42432]",0800AM,time,0800AM,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+14,AWD0001s3a,diary,580,3,1918-05-08 00:00:00 UTC,8 May 1918,beaurainville,"[1.89938, 50.42432]","",diaryDate,8 May 1918,"{""day""=>[""8""], ""month""=>[""May""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+15,AWD0001s3a,diary,580,2,1918-05-08 09:00:00 UTC,8 May 1918,beaurainville,"[1.89938, 50.42432]",0900AM,time,0900AM,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+19,AWD0001s3a,diary,580,2,1918-05-08 09:00:00 UTC,8 May 1918,abbeville,"[1.83333, 50.1]",0900AM,place,abbeville,"{""place""=>[""abbeville""], ""location""=>[""true""], ""name""=>[""Abbeville""], ""lat""=>[""50.1""], ""long""=>[""1.83333""], ""id""=>[""3038789""]}",3038789,Abbeville,"[1.83333, 50.1]"
+21,AWD0001s3a,diary,580,3,1918-05-09 00:00:00 UTC,9 May 1918,abbeville,"[1.83333, 50.1]","",diaryDate,9 May 1918,"{""day""=>[""9""], ""month""=>[""May""], ""year""=>[""1918""]}",3038789,Abbeville,"[1.83333, 50.1]"
+22,AWD0001s3a,diary,580,2,1918-05-09 08:00:00 UTC,9 May 1918,abbeville,"[1.83333, 50.1]",0800AM,time,0800AM,{},3038789,Abbeville,"[1.83333, 50.1]"
+24,AWD0001s3a,diary,580,3,1918-05-10 00:00:00 UTC,10 May 1918,abbeville,"[1.83333, 50.1]","",diaryDate,10 May 1918,"{""day""=>[""10""], ""month""=>[""May""], ""year""=>[""1918""]}",3038789,Abbeville,"[1.83333, 50.1]"
+25,AWD0001s3a,diary,580,2,1918-05-10 09:00:00 UTC,10 May 1918,abbeville,"[1.83333, 50.1]",0900AM,time,0900AM,{},3038789,Abbeville,"[1.83333, 50.1]"
+1,AWD0001s2v,diary,581,2,1918-05-11 00:00:00 UTC,11 May 1918,abbeville,"[1.83333, 50.1]","",diaryDate,11 May 1918,"{""day""=>[""11""], ""month""=>[""May""], ""year""=>[""1918""]}",3038789,Abbeville,"[1.83333, 50.1]"
+3,AWD0001s2v,diary,581,2,1918-05-11 08:00:00 UTC,11 May 1918,abbeville,"[1.83333, 50.1]",0800AM,time,0800AM,{},3038789,Abbeville,"[1.83333, 50.1]"
+19,AWD0001s2v,diary,581,2,1918-05-15 00:00:00 UTC,15 May 1918,abbeville,"[1.83333, 50.1]","",diaryDate,15 May 1918,"{""day""=>[""15""], ""month""=>[""May""], ""year""=>[""1918""]}",3038789,Abbeville,"[1.83333, 50.1]"
+1,AWD0001s5y,diary,582,3,1918-05-15 00:00:00 UTC,15 May 1918,Beaurainville,"[1.89938, 50.42432]","",place,Beaurainville,"{""place""=>[""Beaurainville""], ""location""=>[""true""], ""name""=>[""Beaurainville""], ""lat""=>[""50.42432""], ""long""=>[""1.89938""], ""id""=>[""3034101""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+2,AWD0001s5y,diary,582,4,1918-05-17 00:00:00 UTC,17 May 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,17 May 1918,"{""day""=>[""17""], ""month""=>[""May""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+5,AWD0001s5y,diary,582,2,1918-05-17 00:00:00 UTC,17 May 1918,Beaurainville,"[1.89938, 50.42432]","",place,"Maresquel, Maresquelle","{""place""=>[""Maresquel"", ""Maresquelle""], ""location""=>[""true"", ""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+6,AWD0001s5y,diary,582,2,1918-05-17 00:00:00 UTC,17 May 1918,Beaurainville,"[1.89938, 50.42432]","",activity,resupplying,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+8,AWD0001s5y,diary,582,2,1918-05-17 08:00:00 UTC,17 May 1918,Beaurainville,"[1.89938, 50.42432]",0800AM,time,0800AM,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+11,AWD0001s5y,diary,582,4,1918-05-18 00:00:00 UTC,18 May 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,18 May 1918,"{""day""=>[""18""], ""month""=>[""May""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+14,AWD0001s5y,diary,582,2,1918-05-18 08:00:00 UTC,18 May 1918,Beaurainville,"[1.89938, 50.42432]",0800AM,time,0800AM,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+16,AWD0001s5y,diary,582,2,1918-05-18 08:00:00 UTC,18 May 1918,Beaurainville,"[1.89938, 50.42432]",0800AM,place,Beaurainville,"{""place""=>[""Beaurainville""], ""location""=>[""true""], ""name""=>[""Beaurainville""], ""lat""=>[""50.42432""], ""long""=>[""1.89938""], ""id""=>[""3034101""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+17,AWD0001s5y,diary,582,3,1918-05-18 08:00:00 UTC,18 May 1918,Beaurainville,"[1.89938, 50.42432]",0800AM,activity,resupplying,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+18,AWD0001s5y,diary,582,4,1918-05-19 00:00:00 UTC,19 May 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,19 May 1918,"{""day""=>[""19""], ""month""=>[""May""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+20,AWD0001s5y,diary,582,2,1918-05-19 08:00:00 UTC,19 May 1918,Beaurainville,"[1.89938, 50.42432]",0800AM,time,0800AM,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+25,AWD0001s5y,diary,582,2,1918-05-19 08:00:00 UTC,19 May 1918,Beaurainville,"[1.89938, 50.42432]",0800AM,activity,resupplying,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+27,AWD0001s5y,diary,582,2,1918-05-19 08:00:00 UTC,19 May 1918,Beaurainville,"[1.89938, 50.42432]",0800AM,activity,fire,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+29,AWD0001s5y,diary,582,2,1918-05-19 01:30:00 UTC,19 May 1918,Beaurainville,"[1.89938, 50.42432]",0130AM,time,0130AM,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+30,AWD0001s5y,diary,582,3,1918-05-19 01:30:00 UTC,19 May 1918,Beaurainville,"[1.89938, 50.42432]",0130AM,activity,enemy_activity,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+33,AWD0001s5y,diary,582,3,1918-05-20 00:00:00 UTC,20 May 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,20 May 1918,"{""day""=>[""20""], ""month""=>[""May""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+35,AWD0001s5y,diary,582,2,1918-05-20 08:00:00 UTC,20 May 1918,Beaurainville,"[1.89938, 50.42432]",0800AM,time,0800AM,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+41,AWD0001s5y,diary,582,4,1918-05-21 00:00:00 UTC,21 May 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,21 May 1918,"{""day""=>[""21""], ""month""=>[""May""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+49,AWD0001s5y,diary,582,2,1918-05-21 00:00:00 UTC,21 May 1918,Beaurainville,"[1.89938, 50.42432]","",activity,enemy_activity,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+1,AWD0001s4c,diary,583,2,1918-05-21 00:00:00 UTC,21 May 1918,Beaurainville,"[1.89938, 50.42432]","",place,Beaurainville,"{""place""=>[""Beaurainville""], ""location""=>[""true""], ""name""=>[""Beaurainville""], ""lat""=>[""50.42432""], ""long""=>[""1.89938""], ""id""=>[""3034101""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+2,AWD0001s4c,diary,583,4,1918-05-22 00:00:00 UTC,22 May 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,22 May 1918,"{""day""=>[""22""], ""month""=>[""May""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+4,AWD0001s4c,diary,583,2,1918-05-22 00:00:00 UTC,22 May 1918,Beaurainville,"[1.89938, 50.42432]","",activity,resupplying,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+8,AWD0001s4c,diary,583,3,1918-05-22 00:00:00 UTC,22 May 1918,Beaurainville,"[1.89938, 50.42432]","",activity,resupplying,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+9,AWD0001s4c,diary,583,4,1918-05-23 00:00:00 UTC,23 May 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,23 May 1918,"{""day""=>[""23""], ""month""=>[""May""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+10,AWD0001s4c,diary,583,2,1918-05-23 00:00:00 UTC,23 May 1918,Beaurainville,"[1.89938, 50.42432]","",place,Beaurainville,"{""place""=>[""Beaurainville""], ""location""=>[""true""], ""name""=>[""Beaurainville""], ""lat""=>[""50.42432""], ""long""=>[""1.89938""], ""id""=>[""3034101""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+15,AWD0001s4c,diary,583,3,1918-05-24 00:00:00 UTC,24 May 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,24 May 1918,"{""day""=>[""24""], ""month""=>[""May""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+23,AWD0001s4c,diary,583,4,1918-05-25 00:00:00 UTC,25 May 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,25 May 1918,"{""day""=>[""25""], ""month""=>[""May""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+26,AWD0001s4c,diary,583,2,1918-05-25 08:00:00 UTC,25 May 1918,Beaurainville,"[1.89938, 50.42432]",0800AM,time,0800AM,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+29,AWD0001s4c,diary,583,4,1918-05-26 00:00:00 UTC,26 May 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,26 May 1918,"{""day""=>[""26""], ""month""=>[""May""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+30,AWD0001s4c,diary,583,2,1918-05-26 08:00:00 UTC,26 May 1918,Beaurainville,"[1.89938, 50.42432]",0800AM,time,0800AM,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+32,AWD0001s4c,diary,583,3,1918-05-26 08:00:00 UTC,26 May 1918,Beaurainville,"[1.89938, 50.42432]",0800AM,activity,resupplying,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+1,AWD0001s49,diary,584,4,1918-05-27 00:00:00 UTC,27 May 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,27 May 1918,"{""day""=>[""27""], ""month""=>[""May""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+2,AWD0001s49,diary,584,2,1918-05-27 00:00:00 UTC,27 May 1918,Beaurainville,"[1.89938, 50.42432]","",place,Beaurainville,"{""place""=>[""Beaurainville""], ""location""=>[""true""], ""name""=>[""Beaurainville""], ""lat""=>[""50.42432""], ""long""=>[""1.89938""], ""id""=>[""3034101""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+6,AWD0001s49,diary,584,3,1918-05-27 00:00:00 UTC,27 May 1918,Beaurainville,"[1.89938, 50.42432]","",activity,resupplying,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+10,AWD0001s49,diary,584,2,1918-05-27 00:00:00 UTC,27 May 1918,Beaurainville,"[1.89938, 50.42432]","",activity,enemy_activity,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+13,AWD0001s49,diary,584,3,1918-05-28 00:00:00 UTC,28 May 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,28 May 1918,"{""day""=>[""28""], ""month""=>[""May""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+16,AWD0001s49,diary,584,2,1918-05-28 00:00:00 UTC,28 May 1918,Beaurainville,"[1.89938, 50.42432]","",activity,resupplying,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+18,AWD0001s49,diary,584,3,1918-05-29 00:00:00 UTC,29 May 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,29 May 1918,"{""day""=>[""29""], ""month""=>[""May""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+20,AWD0001s49,diary,584,2,1918-05-29 00:00:00 UTC,29 May 1918,Beaurainville,"[1.89938, 50.42432]","",activity,resupplying,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+24,AWD0001s49,diary,584,3,1918-05-30 00:00:00 UTC,30 May 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,30 May 1918,"{""day""=>[""30""], ""month""=>[""May""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+26,AWD0001s49,diary,584,2,1918-05-30 00:00:00 UTC,30 May 1918,Beaurainville,"[1.89938, 50.42432]","",activity,resupplying,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+30,AWD0001s49,diary,584,2,1918-05-30 00:00:00 UTC,30 May 1918,Beaurainville,"[1.89938, 50.42432]","",activity,enemy_activity,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+31,AWD0001s49,diary,584,4,1918-05-31 00:00:00 UTC,31 May 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,31 May 1918,"{""day""=>[""31""], ""month""=>[""May""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+34,AWD0001s49,diary,584,2,1918-05-31 00:00:00 UTC,31 May 1918,Beaurainville,"[1.89938, 50.42432]","",activity,resupplying,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+1,AWD0001s2w,report,585,3,,,,[],,title,Rations saved,{},,,
+3,AWD0001s2w,report,585,3,,,,[],,date,31 May 1918,{},,,
+2,AWD0001s4p,report,586,2,,,,[],,title,Daily Return of M.T. in Workshops,{},,,
+3,AWD0001s4p,report,586,4,,,,[],,date,31 May 1918,{},,,
+2,AWD0001s2u,report,587,2,,,,[],,title,daily return of M .T. in workshops,{},,,
+3,AWD0001s2u,report,587,4,,,,[],,date,30 May 1918,{},,,
+1,AWD0001s4v,"diary, report",588,2,,,,[],,title,Daily Return of M.T. in Workshops,{},,,
+1,AWD0001s2y,report,589,2,,,,[],,title,Daily Return of M.T. in Workshops,{},,,
+3,AWD0001s2y,report,589,3,,,,[],,date,28 May 1918,{},,,
+1,AWD0001s5s,report,590,2,,,,[],,title,Daily Return of M.T. in Workshops,{},,,
+3,AWD0001s5s,report,590,3,,,,[],,date,27 May 1918,{},,,
+1,AWD0001s5f,report,591,2,,,,[],,title,daily return of M .T. in workshops,{},,,
+3,AWD0001s5f,report,591,3,,,,[],,date,26 May 1918,{},,,
+1,AWD0001s4o,report,592,2,,,,[],,title,Daily Return of M.T. in Workshops,{},,,
+3,AWD0001s4o,report,592,3,,,,[],,date,25 May 1918,{},,,
+1,AWD0001s3z,report,593,2,,,,[],,title,daily return of M .T. in workshops,{},,,
+3,AWD0001s3z,report,593,3,,,,[],,date,24 May 1918,{},,,
+1,AWD0001s5m,report,594,2,,,,[],,title,Daily Return of M.T. in Workshops,{},,,
+3,AWD0001s5m,report,594,3,,,,[],,date,23 May 1918,{},,,
+1,AWD0001s4g,report,595,2,,,,[],,title,Daily Return of M.T. in Workshops,{},,,
+3,AWD0001s4g,report,595,3,,,,[],,date,22 May 1918,{},,,
+1,AWD0001s47,report,596,2,,,,[],,title,daily return of M .T. in workshops,{},,,
+3,AWD0001s47,report,596,3,,,,[],,date,21 May 1918,{},,,
+1,AWD0001s58,report,597,2,,,,[],,title,daily return of M .T. in workshops,{},,,
+3,AWD0001s58,report,597,3,,,,[],,date,20 May 1918,{},,,
+1,AWD0001s51,report,598,2,,,,[],,title,Daily Return of M.T. in Workshops,{},,,
+3,AWD0001s51,report,598,3,,,,[],,date,19 May 1918,{},,,
+1,AWD0001s5p,report,599,2,,,,[],,title,daily return of M .T. in workshops,{},,,
+3,AWD0001s5p,report,599,4,,,,[],,date,18 May 1918,{},,,
+1,AWD0001s65,report,600,2,,,,[],,title,Daily Return of M.T. in Workshops,{},,,
+3,AWD0001s65,report,600,3,,,,[],,date,18 May 1918,{},,,
+1,AWD0001s4w,report,601,2,,,,[],,title,daily return of M .T. in workshops,{},,,
+2,AWD0001s4w,report,601,3,,,,[],,date,16 May 1918,{},,,
+5,AWD0001s5c,report,602,3,,,,[],,date,15 May 1918,{},,,
+4,AWD0001s5v,report,603,3,,,,[],,date,14 May 1918,{},,,
+4,AWD0001s59,report,604,3,,,,[],,date,13 May 1918,{},,,
+4,AWD0001s3d,report,605,3,,,,[],,date,12 May 1918,{},,,
+4,AWD0001s3g,report,606,3,,,,[],,date,10 May 1918,{},,,
+4,AWD0001s54,report,607,3,,,,[],,date,9 May 1918,{},,,
+4,AWD0001s4d,report,608,3,,,,[],,date,8 May 1918,{},,,
+2,AWD0001s3l,report,609,3,,,,[],,date,7 May 1918,{},,,
+3,AWD0001s42,report,611,2,,,,[],,date,4 May 1918,{},,,
+3,AWD0001s3k,report,612,3,,,,[],,date,3 May 1918,{},,,
+3,AWD0001s3i,report,613,2,,,,[],,date,2 May 1918,{},,,
+3,AWD0001s4a,report,614,3,,,,[],,date,1 May 1918,{},,,
+1,AWD0001s3x,diary,616,2,1918-06-01 00:00:00 UTC,1 Jun 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,1 Jun 1918,"{""day""=>[""1""], ""month""=>[""Jun""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+2,AWD0001s3x,diary,616,2,1918-06-01 08:00:00 UTC,1 Jun 1918,Beaurainville,"[1.89938, 50.42432]",0800AM,time,0800AM,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+3,AWD0001s3x,diary,616,3,1918-06-01 08:00:00 UTC,1 Jun 1918,Beaurainville,"[1.89938, 50.42432]",0800AM,place,Beaurainville,"{""place""=>[""Beaurainville""], ""location""=>[""true""], ""name""=>[""Beaurainville""], ""lat""=>[""50.42432""], ""long""=>[""1.89938""], ""id""=>[""3034101""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+6,AWD0001s3x,diary,616,3,1918-06-01 11:00:00 UTC,1 Jun 1918,Beaurainville,"[1.89938, 50.42432]",1100AM,time,1100AM,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+9,AWD0001s3x,diary,616,2,1918-06-01 11:00:00 UTC,1 Jun 1918,Beaurainville,"[1.89938, 50.42432]",1100AM,activity,resupplying,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+11,AWD0001s3x,diary,616,4,1918-06-02 00:00:00 UTC,2 Jun 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,2 Jun 1918,"{""day""=>[""2""], ""month""=>[""Jun""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+12,AWD0001s3x,diary,616,2,1918-06-02 08:00:00 UTC,2 Jun 1918,Beaurainville,"[1.89938, 50.42432]",0800AM,time,0800AM,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+13,AWD0001s3x,diary,616,2,1918-06-02 08:00:00 UTC,2 Jun 1918,Beaurainville,"[1.89938, 50.42432]",0800AM,place,Maresquel,"{""place""=>[""Maresquel""], ""location""=>[""false"", ""true""], ""name""=>["""", ""Maresquel-Ecquemicourt""], ""lat""=>["""", ""50.4""], ""long""=>["""", ""1.93333""], ""id""=>["""", ""2995847""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+15,AWD0001s3x,diary,616,2,1918-06-02 08:00:00 UTC,2 Jun 1918,Beaurainville,"[1.89938, 50.42432]",0800AM,activity,resupplying,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+16,AWD0001s3x,diary,616,4,1918-06-03 00:00:00 UTC,3 Jun 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,3 Jun 1918,"{""day""=>[""3""], ""month""=>[""Jun""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+18,AWD0001s3x,diary,616,2,1918-06-03 09:30:00 UTC,3 Jun 1918,Beaurainville,"[1.89938, 50.42432]",0930AM,time,0930AM,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+21,AWD0001s3x,diary,616,2,1918-06-03 09:30:00 UTC,3 Jun 1918,Beaurainville,"[1.89938, 50.42432]",0930AM,activity,resupplying,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+22,AWD0001s3x,diary,616,4,1918-06-04 00:00:00 UTC,4 Jun 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,4 Jun 1918,"{""day""=>[""4""], ""month""=>[""Jun""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+23,AWD0001s3x,diary,616,2,1918-06-04 08:00:00 UTC,4 Jun 1918,Beaurainville,"[1.89938, 50.42432]",0800AM,time,0800AM,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+24,AWD0001s3x,diary,616,2,1918-06-04 08:00:00 UTC,4 Jun 1918,Beaurainville,"[1.89938, 50.42432]",0800AM,place,Maresquel,"{""place""=>[""Maresquel""], ""location""=>[""true"", ""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+26,AWD0001s3x,diary,616,2,1918-06-04 08:00:00 UTC,4 Jun 1918,Beaurainville,"[1.89938, 50.42432]",0800AM,activity,resupplying,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+1,AWD0001s40,diary,617,5,1918-06-05 00:00:00 UTC,5 Jun 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,5 Jun 1918,"{""day""=>[""5""], ""month""=>[""Jun""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+3,AWD0001s40,diary,617,3,1918-06-05 00:00:00 UTC,5 Jun 1918,Beaurainville,"[1.89938, 50.42432]","",place,Beaurainville,"{""place""=>[""Beaurainville""], ""location""=>[""true""], ""name""=>[""Beaurainville""], ""lat""=>[""50.42432""], ""long""=>[""1.89938""], ""id""=>[""3034101""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+7,AWD0001s40,diary,617,4,1918-06-06 00:00:00 UTC,6 Jun 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,6 Jun 1918,"{""day""=>[""6""], ""month""=>[""Jun""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+13,AWD0001s40,diary,617,3,1918-06-07 00:00:00 UTC,7 Jun 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,7 Jun 1918,"{""day""=>[""7""], ""month""=>[""Jun""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+16,AWD0001s40,diary,617,3,1918-06-07 00:00:00 UTC,7 Jun 1918,Beaurainville,"[1.89938, 50.42432]","",activity,resupplying,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+21,AWD0001s40,diary,617,3,1918-06-08 00:00:00 UTC,8 Jun 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,8 Jun 1918,"{""day""=>[""8""], ""month""=>[""Jun""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+24,AWD0001s40,diary,617,2,1918-06-08 08:00:00 UTC,8 Jun 1918,Beaurainville,"[1.89938, 50.42432]",0800AM,time,0800AM,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+25,AWD0001s40,diary,617,2,1918-06-08 08:00:00 UTC,8 Jun 1918,Beaurainville,"[1.89938, 50.42432]",0800AM,place,Maresquel,"{""place""=>[""Maresquel""], ""location""=>[""false""], ""name""=>["""", ""Maresquel-Ecquemicourt""], ""lat""=>["""", ""50.4""], ""long""=>["""", ""1.93333""], ""id""=>["""", ""2995847""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+26,AWD0001s40,diary,617,3,1918-06-09 00:00:00 UTC,9 Jun 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,9 Jun 1918,"{""day""=>[""9""], ""month""=>[""Jun""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+30,AWD0001s40,diary,617,3,1918-06-10 00:00:00 UTC,10 Jun 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,10 Jun 1918,"{""day""=>[""10""], ""month""=>[""Jun""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+31,AWD0001s40,diary,617,2,1918-06-10 00:00:00 UTC,10 Jun 1918,Beaurainville,"[1.89938, 50.42432]","",activity,resupplying,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+1,AWD0001s4y,diary,618,4,1918-06-11 00:00:00 UTC,11 Jun 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,11 Jun 1918,"{""day""=>[""11""], ""month""=>[""Jun""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+2,AWD0001s4y,diary,618,4,1918-06-11 00:00:00 UTC,11 Jun 1918,Beaurainville,"[1.89938, 50.42432]","",place,Beaurainville,"{""place""=>[""Beaurainville""], ""location""=>[""true""], ""name""=>[""Beaurainville""], ""lat""=>[""50.42432""], ""long""=>[""1.89938""], ""id""=>[""3034101""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+8,AWD0001s4y,diary,618,2,1918-06-11 00:00:00 UTC,11 Jun 1918,Beaurainville,"[1.89938, 50.42432]","",activity,training,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+9,AWD0001s4y,diary,618,2,1918-06-12 00:00:00 UTC,12 Jun 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,12 Jun 1918,"{""day""=>[""12""], ""month""=>[""Jun""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+15,AWD0001s4y,diary,618,3,1918-06-13 00:00:00 UTC,13 Jun 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,13 Jun 1918,"{""day""=>[""13""], ""month""=>[""Jun""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+21,AWD0001s4y,diary,618,2,1918-06-14 00:00:00 UTC,14 Jun 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,14 Jun 1918,"{""day""=>[""14""], ""month""=>[""Jun""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+26,AWD0001s4y,diary,618,2,1918-06-15 00:00:00 UTC,15 Jun 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,15 Jun 1918,"{""day""=>[""15""], ""month""=>[""Jun""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+31,AWD0001s4y,diary,618,3,1918-06-16 00:00:00 UTC,16 Jun 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,16 Jun 1918,"{""day""=>[""16""], ""month""=>[""Jun""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+36,AWD0001s4y,diary,618,3,1918-06-16 00:00:00 UTC,16 Jun 1918,Beaurainville,"[1.89938, 50.42432]","",domestic,medical,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+37,AWD0001s4y,diary,618,3,1918-06-17 00:00:00 UTC,17 Jun 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,17 Jun 1918,"{""day""=>[""17""], ""month""=>[""Jun""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+1,AWD0001s68,diary,619,4,1918-06-18 00:00:00 UTC,18 Jun 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,18 Jun 1918,"{""day""=>[""18""], ""month""=>[""Jun""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+2,AWD0001s68,diary,619,3,1918-06-18 00:00:00 UTC,18 Jun 1918,"BEAURAINVILLE, Beaurainville, beaurainville","[1.89938, 50.42432]","",place,"BEAURAINVILLE, Beaurainville, beaurainville","{""place""=>[""BEAURAINVILLE"", ""Beaurainville"", ""beaurainville""], ""location""=>[""true""], ""name""=>[""Beaurainville""], ""lat""=>[""50.42432""], ""long""=>[""1.89938""], ""id""=>[""3034101""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+6,AWD0001s68,diary,619,2,1918-06-19 00:00:00 UTC,19 Jun 1918,"BEAURAINVILLE, Beaurainville, beaurainville","[1.89938, 50.42432]","",diaryDate,19 Jun 1918,"{""day""=>[""19""], ""month""=>[""Jun""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+9,AWD0001s68,diary,619,3,1918-06-20 00:00:00 UTC,20 Jun 1918,"BEAURAINVILLE, Beaurainville, beaurainville","[1.89938, 50.42432]","",diaryDate,20 Jun 1918,"{""day""=>[""20""], ""month""=>[""Jun""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+12,AWD0001s68,diary,619,2,1918-06-20 00:00:00 UTC,20 Jun 1918,Beaurainville,"[1.89938, 50.42432]","",place,Beaurainville,"{""place""=>[""Beaurainville""], ""location""=>[""true""], ""name""=>[""Beaurainville""], ""lat""=>[""50.42432""], ""long""=>[""1.89938""], ""id""=>[""3034101""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+13,AWD0001s68,diary,619,2,1918-06-21 00:00:00 UTC,21 Jun 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,21 Jun 1918,"{""day""=>[""21""], ""month""=>[""Jun""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+14,AWD0001s68,diary,619,2,1918-06-21 00:00:00 UTC,21 Jun 1918,Beaurainville,"[1.89938, 50.42432]","",activity,resupplying,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+15,AWD0001s68,diary,619,3,1918-06-22 00:00:00 UTC,22 Jun 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,22 Jun 1918,"{""day""=>[""22""], ""month""=>[""Jun""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+18,AWD0001s68,diary,619,2,1918-06-22 00:00:00 UTC,22 Jun 1918,Beaurainville,"[1.89938, 50.42432]","",activity,training,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+19,AWD0001s68,diary,619,3,1918-06-23 00:00:00 UTC,23 Jun 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,23 Jun 1918,"{""day""=>[""23""], ""month""=>[""Jun""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+22,AWD0001s68,diary,619,2,1918-06-23 00:00:00 UTC,23 Jun 1918,Beaurainville,"[1.89938, 50.42432]","",activity,training,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+23,AWD0001s68,diary,619,3,1918-06-24 00:00:00 UTC,24 Jun 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,24 Jun 1918,"{""day""=>[""24""], ""month""=>[""Jun""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+26,AWD0001s68,diary,619,2,1918-06-24 00:00:00 UTC,24 Jun 1918,Beaurainville,"[1.89938, 50.42432]","",activity,training,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+1,AWD0001s4l,diary,620,5,1918-06-25 00:00:00 UTC,25 Jun 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,25 Jun 1918,"{""day""=>[""25""], ""month""=>[""Jun""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+2,AWD0001s4l,diary,620,4,1918-06-25 00:00:00 UTC,25 Jun 1918,Beaurainville,"[1.89938, 50.42432]","",place,Beaurainville,"{""place""=>[""Beaurainville""], ""location""=>[""true""], ""name""=>[""Beaurainville""], ""lat""=>[""50.42432""], ""long""=>[""1.89938""], ""id""=>[""3034101""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+8,AWD0001s4l,diary,620,4,1918-06-26 00:00:00 UTC,26 Jun 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,26 Jun 1918,"{""day""=>[""26""], ""month""=>[""Jun""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+18,AWD0001s4l,diary,620,4,1918-06-27 00:00:00 UTC,27 Jun 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,27 Jun 1918,"{""day""=>[""27""], ""month""=>[""Jun""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+23,AWD0001s4l,diary,620,2,1918-06-27 00:00:00 UTC,27 Jun 1918,Beaurainville,"[1.89938, 50.42432]","",person,"Major General,Brigadier General T T ","{""first""=>[""T T""], ""surname""=>[""""], ""rank""=>[""Major General"", ""Brigadier General""], ""number""=>["""", ""Titmas~~""], ""reason""=>[""other"", ""award""], ""unit""=>[""""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+24,AWD0001s4l,diary,620,2,1918-06-27 00:00:00 UTC,27 Jun 1918,Beaurainville,"[1.89938, 50.42432]","",activity,enemy_activity,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+25,AWD0001s4l,diary,620,3,1918-06-28 00:00:00 UTC,28 Jun 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,28 Jun 1918,"{""day""=>[""28""], ""month""=>[""Jun""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+30,AWD0001s4l,diary,620,5,1918-06-29 00:00:00 UTC,29 Jun 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,29 Jun 1918,"{""day""=>[""29""], ""month""=>[""Jun""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+33,AWD0001s4l,diary,620,2,1918-06-29 00:00:00 UTC,29 Jun 1918,Beaurainville,"[1.89938, 50.42432]","",activity,enemy_activity,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+34,AWD0001s4l,diary,620,2,1918-06-29 00:00:00 UTC,29 Jun 1918,Beaurainville,"[1.89938, 50.42432]","",place,Maresquel,"{""place""=>[""Maresquel""], ""location""=>[""false""], ""name""=>[""Maresquel-Ecquemicourt""], ""lat""=>[""50.4""], ""long""=>[""1.93333""], ""id""=>[""2995847""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+35,AWD0001s4l,diary,620,2,1918-06-29 00:00:00 UTC,29 Jun 1918,Beaurainville,"[1.89938, 50.42432]","",activity,resupplying,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+36,AWD0001s4l,diary,620,3,1918-06-30 00:00:00 UTC,30 Jun 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,30 Jun 1918,"{""day""=>[""30""], ""month""=>[""Jun""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+38,AWD0001s4l,diary,620,2,1918-06-30 00:00:00 UTC,30 Jun 1918,Beaurainville,"[1.89938, 50.42432]","",place,Beaurainville,"{""place""=>[""Beaurainville""], ""location""=>[""true"", ""false""], ""name""=>[""Beaurainville""], ""lat""=>[""50.42432""], ""long""=>[""1.89938""], ""id""=>[""3034101""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+42,AWD0001s4l,diary,620,2,1918-06-30 00:00:00 UTC,30 Jun 1918,Beaurainville,"[1.89938, 50.42432]","",activity,enemy_activity,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+1,AWD0001s3b,report,621,2,,,,[],,title,statement of clothing issued & returned june 1918,{},,,
+3,AWD0001s3b,report,621,3,,,,[],,date,30 Jun 1918,{},,,
+1,AWD0001s63,report,622,2,,,,[],,title,Economy of Rations,{},,,
+2,AWD0001s63,report,622,2,,,,[],,person,"Major j,J murphy, Murphy","{""first""=>[""j"", ""J""], ""surname""=>[""murphy"", ""Murphy""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>["""", ""2nd Cavalry M.T. Company""]}",,,
+3,AWD0001s63,report,622,3,,,,[],,date,1 Jul 1918,{},,,
+6,AWD0001s4q,report,623,2,,,,[],,date,30 Jun 1918,{},,,
+3,AWD0001s5o,other,624,2,,,,[],,date,29 Jun 1918,{},,,
+3,AWD0001s4e,"report, other",625,2,,,,[],,date,28 Jun 1918,{},,,
+3,AWD0001s35,other,626,2,,,,[],,date,27 Jun 1918,{},,,
+4,AWD0001s5k,report,627,3,,,,[],,date,26 Jun 1918,{},,,
+3,AWD0001s3n,report,628,2,,,,[],,date,25 Jun 1918,{},,,
+3,AWD0001s57,other,629,2,,,,[],,date,24 Jun 1918,{},,,
+4,AWD0001s3m,report,630,3,,,,[],,date,23 Jun 1918,{},,,
+7,AWD0001s36,"report, other",631,2,,,,[],,date,22 Jun 1918,{},,,
+4,AWD0001s5x,report,632,3,,,,[],,date,21 Jun 1918,{},,,
+4,AWD0001s3s,report,633,3,,,,[],,date,20 Jun 1918,{},,,
+4,AWD0001s5u,report,634,3,,,,[],,date,19 Jun 1918,{},,,
+4,AWD0001s3v,report,635,3,,,,[],,date,18 Jun 1918,{},,,
+4,AWD0001s4f,report,636,3,,,,[],,date,17 Jun 1918,{},,,
+4,AWD0001s3y,report,637,3,,,,[],,date,16 Jun 1918,{},,,
+4,AWD0001s3p,report,638,3,,,,[],,date,15 Jun 1918,{},,,
+4,AWD0001s5i,report,639,3,,,,[],,date,14 Jun 1918,{},,,
+4,AWD0001s2z,report,640,3,,,,[],,date,13 Jun 1918,{},,,
+4,AWD0001s5e,report,641,3,,,,[],,date,12 Jun 1918,{},,,
+3,AWD0001s62,report,642,3,,,,[],,date,11 Jun 1918,{},,,
+4,AWD0001s5l,report,643,3,,,,[],,date,10 Jun 1918,{},,,
+3,AWD0001s3c,report,644,2,,,,[],,date,9 Jun 1918,{},,,
+4,AWD0001s38,report,645,3,,,,[],,date,8 Jun 1918,{},,,
+3,AWD0001s3o,"report, other",646,2,,,,[],,date,7 Jun 1918,{},,,
+3,AWD0001s66,report,647,2,,,,[],,date,6 Jun 1918,{},,,
+3,AWD0001s3j,"report, other",648,3,,,,[],,date,5 Jun 1918,{},,,
+4,AWD0001s3j,"report, other",648,3,,,,[],,person,  ,"{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+4,AWD0001s53,report,649,3,,,,[],,date,4 Jun 1918,{},,,
+3,AWD0001s4n,report,650,3,,,,[],,date,3 Jun 1918,{},,,
+2,AWD0001s52,report,651,2,,,,[],,date,2 Jun 1918,{},,,
+4,AWD0001s5w,report,652,3,,,,[],,date,1 Jun 1918,{},,,
+1,AWD0001s4j,diary,654,4,1918-07-01 00:00:00 UTC,1 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,1 Jul 1918,"{""day""=>[""1""], ""month""=>[""Jul""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+4,AWD0001s4j,diary,654,4,1918-07-01 00:00:00 UTC,1 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",place,Beaurainville,"{""place""=>[""Beaurainville""], ""location""=>[""true""], ""name""=>[""Beaurainville""], ""lat""=>[""50.42432""], ""long""=>[""1.89938""], ""id""=>[""3034101""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+6,AWD0001s4j,diary,654,3,1918-07-01 00:00:00 UTC,1 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",activity,training,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+7,AWD0001s4j,diary,654,2,1918-07-01 00:00:00 UTC,1 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",activity,enemy_activity,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+13,AWD0001s4j,diary,654,4,1918-07-02 00:00:00 UTC,2 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,2 Jul 1918,"{""day""=>[""2""], ""month""=>[""Jul""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+19,AWD0001s4j,diary,654,4,1918-07-02 00:00:00 UTC,2 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",person,Second Lieutenant  Rowlands,"{""first""=>[""""], ""surname""=>[""Rowlands""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+20,AWD0001s4j,diary,654,3,1918-07-02 00:00:00 UTC,2 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",person,Second Lieutenant  Luffton,"{""first""=>[""""], ""surname""=>[""Luffton""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+21,AWD0001s4j,diary,654,2,1918-07-02 00:00:00 UTC,2 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",activity,training,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+23,AWD0001s4j,diary,654,4,1918-07-03 00:00:00 UTC,3 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,3 Jul 1918,"{""day""=>[""3""], ""month""=>[""Jul""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+29,AWD0001s4j,diary,654,2,1918-07-03 00:00:00 UTC,3 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",domestic,medical,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+30,AWD0001s4j,diary,654,4,1918-07-04 00:00:00 UTC,4 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,4 Jul 1918,"{""day""=>[""4""], ""month""=>[""Jul""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+37,AWD0001s4j,diary,654,2,1918-07-04 00:00:00 UTC,4 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",domestic,medical,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+41,AWD0001s4j,diary,654,3,1918-07-05 00:00:00 UTC,5 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,5 Jul 1918,"{""day""=>[""5""], ""month""=>[""Jul""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+48,AWD0001s4j,diary,654,2,1918-07-05 00:00:00 UTC,5 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",domestic,medical,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+49,AWD0001s4j,diary,654,4,1918-07-06 00:00:00 UTC,6 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,6 Jul 1918,"{""day""=>[""6""], ""month""=>[""Jul""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+55,AWD0001s4j,diary,654,4,1918-07-06 00:00:00 UTC,6 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",person,Lieutenant J Murray,"{""first""=>[""J""], ""surname""=>[""Murray""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+1,AWD0001s43,diary,655,4,1918-07-07 00:00:00 UTC,7 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,7 Jul 1918,"{""day""=>[""7""], ""month""=>[""Jul""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+2,AWD0001s43,diary,655,4,1918-07-07 00:00:00 UTC,7 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",place,Beaurainville,"{""place""=>[""Beaurainville""], ""location""=>[""true""], ""name""=>[""Beaurainville""], ""lat""=>[""50.42432""], ""long""=>[""1.89938""], ""id""=>[""3034101""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+6,AWD0001s43,diary,655,4,1918-07-07 00:00:00 UTC,7 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",person,Lieutenant  Pollard,"{""first""=>[""""], ""surname""=>[""Pollard""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_leave""], ""unit""=>[""""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+7,AWD0001s43,diary,655,4,1918-07-08 00:00:00 UTC,8 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,8 Jul 1918,"{""day""=>[""8""], ""month""=>[""Jul""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+12,AWD0001s43,diary,655,2,1918-07-08 00:00:00 UTC,8 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",place,Beaurainville,"{""place""=>[""Beaurainville""], ""location""=>[""true""], ""name""=>[""Beaurainville""], ""lat""=>[""50.42432""], ""long""=>[""1.89938""], ""id""=>[""3034101""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+13,AWD0001s43,diary,655,2,1918-07-08 00:00:00 UTC,8 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",domestic,medical,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+14,AWD0001s43,diary,655,4,1918-07-09 00:00:00 UTC,9 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,9 Jul 1918,"{""day""=>[""9""], ""month""=>[""Jul""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+18,AWD0001s43,diary,655,2,1918-07-09 00:00:00 UTC,9 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",place,Beaurainville,"{""place""=>[""Beaurainville""], ""location""=>[""true""], ""name""=>[""Beaurainville""], ""lat""=>[""50.42432""], ""long""=>[""1.89938""], ""id""=>[""3034101""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+19,AWD0001s43,diary,655,3,1918-07-09 00:00:00 UTC,9 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",domestic,medical,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+20,AWD0001s43,diary,655,4,1918-07-10 00:00:00 UTC,10 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,10 Jul 1918,"{""day""=>[""10""], ""month""=>[""Jul""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+22,AWD0001s43,diary,655,2,1918-07-10 00:00:00 UTC,10 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",place,Maresquel,"{""place""=>[""Maresquel""], ""location""=>[""false""], ""name""=>[""Maresquel-Ecquemicourt"", """"], ""lat""=>[""50.4"", """"], ""long""=>[""1.93333"", """"], ""id""=>[""2995847"", """"]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+24,AWD0001s43,diary,655,2,1918-07-10 00:00:00 UTC,10 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",place,Beaurainville,"{""place""=>[""Beaurainville""], ""location""=>[""true""], ""name""=>[""Beaurainville""], ""lat""=>[""50.42432""], ""long""=>[""1.89938""], ""id""=>[""3034101""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+25,AWD0001s43,diary,655,2,1918-07-10 00:00:00 UTC,10 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",domestic,inspections,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+26,AWD0001s43,diary,655,3,1918-07-10 00:00:00 UTC,10 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",domestic,medical,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+27,AWD0001s43,diary,655,4,1918-07-11 00:00:00 UTC,11 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,11 Jul 1918,"{""day""=>[""11""], ""month""=>[""Jul""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+28,AWD0001s43,diary,655,2,1918-07-11 00:00:00 UTC,11 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",place,Beaurainville,"{""place""=>[""Beaurainville""], ""location""=>[""true""], ""name""=>[""Beaurainville""], ""lat""=>[""50.42432""], ""long""=>[""1.89938""], ""id""=>[""3034101""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+32,AWD0001s43,diary,655,2,1918-07-11 00:00:00 UTC,11 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",domestic,inspections,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+34,AWD0001s43,diary,655,3,1918-07-11 00:00:00 UTC,11 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",domestic,medical,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+35,AWD0001s43,diary,655,4,1918-07-12 00:00:00 UTC,12 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,12 Jul 1918,"{""day""=>[""12""], ""month""=>[""Jul""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+39,AWD0001s43,diary,655,2,1918-07-12 00:00:00 UTC,12 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",place,Beaurainville,"{""place""=>[""Beaurainville""], ""location""=>[""true""], ""name""=>[""Beaurainville""], ""lat""=>[""50.42432""], ""long""=>[""1.89938""], ""id""=>[""3034101""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+41,AWD0001s43,diary,655,3,1918-07-12 00:00:00 UTC,12 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",domestic,medical,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+42,AWD0001s43,diary,655,2,1918-07-12 00:00:00 UTC,12 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",domestic,inspections,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+1,AWD0001s5q,diary,656,2,1918-07-12 00:00:00 UTC,12 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",place,"beadraindalle, Bead Rainoille","{""place""=>[""beadraindalle"", ""Bead Rainoille""], ""location""=>[""false"", ""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+2,AWD0001s5q,diary,656,5,1918-07-13 00:00:00 UTC,13 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,13 Jul 1918,"{""day""=>[""13""], ""month""=>[""Jul""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+4,AWD0001s5q,diary,656,3,1918-07-13 00:00:00 UTC,13 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",place,Beaurainville,"{""place""=>[""Beaurainville""], ""location""=>[""true""], ""name""=>[""Beaurainville""], ""lat""=>[""50.42432""], ""long""=>[""1.89938""], ""id""=>[""3034101""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+5,AWD0001s5q,diary,656,2,1918-07-13 00:00:00 UTC,13 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",domestic,medical,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+8,AWD0001s5q,diary,656,2,1918-07-13 00:00:00 UTC,13 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",person,"Lieutenant  Salsbury, Labsburry","{""first""=>[""""], ""surname""=>[""Salsbury"", ""Labsburry""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+9,AWD0001s5q,diary,656,4,1918-07-13 00:00:00 UTC,13 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",person,"Lieutenant  Clash, CLARK, Clark, LAB..?","{""first""=>[""""], ""surname""=>[""Clash"", ""CLARK"", ""Clark"", ""LAB..?""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other"", ""departed_posted""], ""unit""=>["""", ""HQASC""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+11,AWD0001s5q,diary,656,4,1918-07-14 00:00:00 UTC,14 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,14 Jul 1918,"{""day""=>[""14""], ""month""=>[""Jul""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+13,AWD0001s5q,diary,656,3,1918-07-14 00:00:00 UTC,14 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",place,Beaurainville,"{""place""=>[""Beaurainville""], ""location""=>[""true""], ""name""=>[""Beaurainville""], ""lat""=>[""50.42432""], ""long""=>[""1.89938""], ""id""=>[""3034101""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+15,AWD0001s5q,diary,656,3,1918-07-14 00:00:00 UTC,14 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",person,Lieutenant  Coles,"{""first""=>[""""], ""surname""=>[""Coles""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+19,AWD0001s5q,diary,656,3,1918-07-15 00:00:00 UTC,15 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,15 Jul 1918,"{""day""=>[""15""], ""month""=>[""Jul""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+22,AWD0001s5q,diary,656,3,1918-07-15 00:00:00 UTC,15 Jul 1918,Penin,"[2.48338, 50.32788]","",place,Penin,"{""place""=>[""Penin""], ""location""=>[""true""], ""name""=>[""Penin""], ""lat""=>[""50.32788""], ""long""=>[""2.48338""], ""id""=>[""2988098""]}",2988098,Penin,"[2.48338, 50.32788]"
+23,AWD0001s5q,diary,656,3,1918-07-15 00:00:00 UTC,15 Jul 1918,Penin,"[2.48338, 50.32788]","",person,"Captain  Nisbet, Nisbit, NISBET","{""first""=>[""""], ""surname""=>[""Nisbet"", ""Nisbit"", ""NISBET""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2988098,Penin,"[2.48338, 50.32788]"
+24,AWD0001s5q,diary,656,2,1918-07-15 00:00:00 UTC,15 Jul 1918,Penin,"[2.48338, 50.32788]","",activity,movement,{},2988098,Penin,"[2.48338, 50.32788]"
+26,AWD0001s5q,diary,656,3,1918-07-15 00:00:00 UTC,15 Jul 1918,Penin,"[2.48338, 50.32788]","",person,Lieutenant  Benjamin,"{""first""=>[""""], ""surname""=>[""Benjamin""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2988098,Penin,"[2.48338, 50.32788]"
+1,AWD0001s71,diary,657,5,1918-07-16 00:00:00 UTC,16 Jul 1918,Penin,"[2.48338, 50.32788]","",diaryDate,16 Jul 1918,"{""day""=>[""16""], ""month""=>[""Jul""], ""year""=>[""1918""]}",2988098,Penin,"[2.48338, 50.32788]"
+3,AWD0001s71,diary,657,5,1918-07-16 00:00:00 UTC,16 Jul 1918,"Penin, penin","[2.48338, 50.32788]","",place,"Penin, penin","{""place""=>[""Penin"", ""penin""], ""location""=>[""true""], ""name""=>[""Penin""], ""lat""=>[""50.32788""], ""long""=>[""2.48338""], ""id""=>[""2988098""]}",2988098,Penin,"[2.48338, 50.32788]"
+5,AWD0001s71,diary,657,3,1918-07-16 00:00:00 UTC,16 Jul 1918,"Penin, penin","[2.48338, 50.32788]","",person,Second Lieutenant  Lewis,"{""first""=>[""""], ""surname""=>[""Lewis""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_posted""], ""unit""=>[""""]}",2988098,Penin,"[2.48338, 50.32788]"
+11,AWD0001s71,diary,657,2,1918-07-16 00:00:00 UTC,16 Jul 1918,"Penin, penin","[2.48338, 50.32788]","",person,"Lieutenant  Murray, MURRAY","{""first""=>[""""], ""surname""=>[""Murray"", ""MURRAY""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2988098,Penin,"[2.48338, 50.32788]"
+12,AWD0001s71,diary,657,2,1918-07-16 00:00:00 UTC,16 Jul 1918,"Penin, penin","[2.48338, 50.32788]","",person,"Second Lieutenant,Lieutenant  Lipton, LUPTON","{""first""=>[""""], ""surname""=>[""Lipton"", ""LUPTON""], ""rank""=>[""Second Lieutenant"", ""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2988098,Penin,"[2.48338, 50.32788]"
+14,AWD0001s71,diary,657,3,1918-07-16 00:00:00 UTC,16 Jul 1918,"Penin, penin","[2.48338, 50.32788]","",domestic,parades,{},2988098,Penin,"[2.48338, 50.32788]"
+15,AWD0001s71,diary,657,3,1918-07-17 00:00:00 UTC,17 Jul 1918,"Penin, penin","[2.48338, 50.32788]","",diaryDate,17 Jul 1918,"{""day""=>[""17""], ""month""=>[""Jul""], ""year""=>[""1918""]}",2988098,Penin,"[2.48338, 50.32788]"
+19,AWD0001s71,diary,657,2,1918-07-17 00:00:00 UTC,17 Jul 1918,"Penin, penin","[2.48338, 50.32788]","",place,"Tinques, TINQUES","{""place""=>[""Tinques"", ""TINQUES""], ""location""=>[""true"", ""false""], ""name""=>[""Tincques""], ""lat""=>[""50.35904""], ""long""=>[""2.49306""], ""id""=>[""2972553""]}",2988098,Penin,"[2.48338, 50.32788]"
+22,AWD0001s71,diary,657,3,1918-07-17 00:00:00 UTC,17 Jul 1918,"Penin, penin","[2.48338, 50.32788]","",person,Lieutenant  Carter,"{""first""=>[""""], ""surname""=>[""Carter""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_leave""], ""unit""=>[""""]}",2988098,Penin,"[2.48338, 50.32788]"
+25,AWD0001s71,diary,657,2,1918-07-17 00:00:00 UTC,17 Jul 1918,"Penin, penin","[2.48338, 50.32788]","",activity,resupplying,{},2988098,Penin,"[2.48338, 50.32788]"
+26,AWD0001s71,diary,657,3,1918-07-18 00:00:00 UTC,18 Jul 1918,"Penin, penin","[2.48338, 50.32788]","",diaryDate,18 Jul 1918,"{""day""=>[""18""], ""month""=>[""Jul""], ""year""=>[""1918""]}",2988098,Penin,"[2.48338, 50.32788]"
+30,AWD0001s71,diary,657,3,1918-07-18 00:00:00 UTC,18 Jul 1918,"Penin, penin","[2.48338, 50.32788]","",person,Lieutenant  Coles,"{""first""=>[""""], ""surname""=>[""Coles""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_posted""], ""unit""=>[""ASC-CAV CORPS"", """", ""Cavalry Corps""]}",2988098,Penin,"[2.48338, 50.32788]"
+1,AWD0001s3h,diary,658,4,1918-07-18 00:00:00 UTC,18 Jul 1918,"Penin, penin","[2.48338, 50.32788]","",diaryDate,18 Jul 1918,"{""day""=>[""18""], ""month""=>[""Jul""], ""year""=>[""1918""]}",2988098,Penin,"[2.48338, 50.32788]"
+2,AWD0001s3h,diary,658,3,1918-07-18 00:00:00 UTC,18 Jul 1918,"PENIN, penin, Penin","[2.48338, 50.32788]","",place,"PENIN, penin, Penin","{""place""=>[""PENIN"", ""penin"", ""Penin""], ""location""=>[""true""], ""name""=>[""Penin""], ""lat""=>[""50.32788""], ""long""=>[""2.48338""], ""id""=>[""2988098""]}",2988098,Penin,"[2.48338, 50.32788]"
+3,AWD0001s3h,diary,658,4,1918-07-18 00:00:00 UTC,18 Jul 1918,"PENIN, penin, Penin","[2.48338, 50.32788]","",person,"Lieutenant J L, Pollard","{""first""=>[""J L"", """"], ""surname""=>[""Pollard""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""returned_leave""], ""unit""=>[""""]}",2988098,Penin,"[2.48338, 50.32788]"
+4,AWD0001s3h,diary,658,2,1918-07-18 00:00:00 UTC,18 Jul 1918,"PENIN, penin, Penin","[2.48338, 50.32788]","",activity,enemy_activity,{},2988098,Penin,"[2.48338, 50.32788]"
+5,AWD0001s3h,diary,658,3,1918-07-19 00:00:00 UTC,19 Jul 1918,"PENIN, penin, Penin","[2.48338, 50.32788]","",diaryDate,19 Jul 1918,"{""day""=>[""19""], ""month""=>[""Jul""], ""year""=>[""1918""]}",2988098,Penin,"[2.48338, 50.32788]"
+9,AWD0001s3h,diary,658,2,1918-07-19 00:00:00 UTC,19 Jul 1918,"PENIN, penin, Penin","[2.48338, 50.32788]","",activity,enemy_activity,{},2988098,Penin,"[2.48338, 50.32788]"
+11,AWD0001s3h,diary,658,3,1918-07-20 00:00:00 UTC,20 Jul 1918,"PENIN, penin, Penin","[2.48338, 50.32788]","",diaryDate,20 Jul 1918,"{""day""=>[""20""], ""month""=>[""Jul""], ""year""=>[""1918""]}",2988098,Penin,"[2.48338, 50.32788]"
+14,AWD0001s3h,diary,658,3,1918-07-20 00:00:00 UTC,20 Jul 1918,"PENIN, penin, Penin","[2.48338, 50.32788]","",person,Lieutenant  Vutch,"{""first""=>[""""], ""surname""=>[""Vutch""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""returned_posted""], ""unit""=>[""""]}",2988098,Penin,"[2.48338, 50.32788]"
+15,AWD0001s3h,diary,658,3,1918-07-20 00:00:00 UTC,20 Jul 1918,"PENIN, penin, Penin","[2.48338, 50.32788]","",person,Second Lieutenant  Lewis,"{""first""=>[""""], ""surname""=>[""Lewis""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""returned_posted""], ""unit""=>[""""]}",2988098,Penin,"[2.48338, 50.32788]"
+16,AWD0001s3h,diary,658,3,1918-07-21 00:00:00 UTC,21 Jul 1918,"PENIN, penin, Penin","[2.48338, 50.32788]","",diaryDate,21 Jul 1918,"{""day""=>[""21""], ""month""=>[""Jul""], ""year""=>[""1918""]}",2988098,Penin,"[2.48338, 50.32788]"
+19,AWD0001s3h,diary,658,2,1918-07-21 00:00:00 UTC,21 Jul 1918,"PENIN, penin, Penin","[2.48338, 50.32788]","",activity,enemy_activity,{},2988098,Penin,"[2.48338, 50.32788]"
+20,AWD0001s3h,diary,658,3,1918-07-22 00:00:00 UTC,22 Jul 1918,"PENIN, penin, Penin","[2.48338, 50.32788]","",diaryDate,22 Jul 1918,"{""day""=>[""22""], ""month""=>[""Jul""], ""year""=>[""1918""]}",2988098,Penin,"[2.48338, 50.32788]"
+1,AWD0001s41,diary,659,5,1918-07-22 00:00:00 UTC,22 Jul 1918,"PENIN, penin, Penin","[2.48338, 50.32788]","",diaryDate,22 Jul 1918,"{""day""=>[""22""], ""month""=>[""Jul""], ""year""=>[""1918""]}",2988098,Penin,"[2.48338, 50.32788]"
+2,AWD0001s41,diary,659,5,1918-07-22 00:00:00 UTC,22 Jul 1918,Penin,"[2.48338, 50.32788]","",place,Penin,"{""place""=>[""Penin""], ""location""=>[""true""], ""name""=>[""Penin""], ""lat""=>[""50.32788""], ""long""=>[""2.48338""], ""id""=>[""2988098""]}",2988098,Penin,"[2.48338, 50.32788]"
+5,AWD0001s41,diary,659,4,1918-07-23 00:00:00 UTC,23 Jul 1918,Penin,"[2.48338, 50.32788]","",diaryDate,23 Jul 1918,"{""day""=>[""23""], ""month""=>[""Jul""], ""year""=>[""1918""]}",2988098,Penin,"[2.48338, 50.32788]"
+13,AWD0001s41,diary,659,2,1918-07-23 00:00:00 UTC,23 Jul 1918,Penin,"[2.48338, 50.32788]","",place,Montcavrel,"{""place""=>[""Montcavrel""], ""location""=>[""false""], ""name""=>[""Montcavrel""], ""lat""=>[""50.51501""], ""long""=>[""1.81055""], ""id""=>[""2992866""]}",2988098,Penin,"[2.48338, 50.32788]"
+14,AWD0001s41,diary,659,3,1918-07-23 00:00:00 UTC,23 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",place,Beaurainville,"{""place""=>[""Beaurainville""], ""location""=>[""true""], ""name""=>[""Beaurainville""], ""lat""=>[""50.42432""], ""long""=>[""1.89938""], ""id""=>[""3034101""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+15,AWD0001s41,diary,659,5,1918-07-24 00:00:00 UTC,24 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,24 Jul 1918,"{""day""=>[""24""], ""month""=>[""Jul""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+18,AWD0001s41,diary,659,2,1918-07-24 00:00:00 UTC,24 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",place,"Beaurainville, bearainville","{""place""=>[""Beaurainville"", ""bearainville""], ""location""=>[""true"", ""false""], ""name""=>[""Beaurainville"", """"], ""lat""=>[""50.42432"", """"], ""long""=>[""1.89938"", """"], ""id""=>[""3034101"", """"]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+22,AWD0001s41,diary,659,4,1918-07-25 00:00:00 UTC,25 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,25 Jul 1918,"{""day""=>[""25""], ""month""=>[""Jul""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+25,AWD0001s41,diary,659,2,1918-07-25 00:00:00 UTC,25 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",place,Beaurainville,"{""place""=>[""Beaurainville""], ""location""=>[""true""], ""name""=>[""Beaurainville""], ""lat""=>[""50.42432""], ""long""=>[""1.89938""], ""id""=>[""3034101""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+27,AWD0001s41,diary,659,3,1918-07-26 00:00:00 UTC,26 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,26 Jul 1918,"{""day""=>[""26""], ""month""=>[""Jul""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+28,AWD0001s41,diary,659,2,1918-07-26 00:00:00 UTC,26 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",activity,resupplying,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+29,AWD0001s41,diary,659,2,1918-07-26 00:00:00 UTC,26 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",place,Maresquel,"{""place""=>[""Maresquel""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+30,AWD0001s41,diary,659,4,1918-07-27 00:00:00 UTC,27 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,27 Jul 1918,"{""day""=>[""27""], ""month""=>[""Jul""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+1,AWD0001s4t,diary,660,5,1918-07-28 00:00:00 UTC,28 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,28 Jul 1918,"{""day""=>[""28""], ""month""=>[""Jul""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+3,AWD0001s4t,diary,660,5,1918-07-28 00:00:00 UTC,28 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",place,Beaurainville,"{""place""=>[""Beaurainville""], ""location""=>[""true""], ""name""=>[""Beaurainville""], ""lat""=>[""50.42432""], ""long""=>[""1.89938""], ""id""=>[""3034101""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+5,AWD0001s4t,diary,660,4,1918-07-29 00:00:00 UTC,29 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,29 Jul 1918,"{""day""=>[""29""], ""month""=>[""Jul""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+7,AWD0001s4t,diary,660,2,1918-07-29 00:00:00 UTC,29 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",place,Beaurainville,"{""place""=>[""Beaurainville""], ""location""=>[""true""], ""name""=>[""Beaurainville""], ""lat""=>[""50.42432""], ""long""=>[""1.89938""], ""id""=>[""3034101""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+8,AWD0001s4t,diary,660,4,1918-07-29 00:00:00 UTC,29 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",person,"Second Lieutenant,Lieutenant  Carters","{""first""=>[""""], ""surname""=>[""Carters""], ""rank""=>[""Second Lieutenant"", ""Lieutenant""], ""number""=>[""""], ""reason""=>[""returned_leave""], ""unit""=>[""""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+9,AWD0001s4t,diary,660,2,1918-07-29 00:00:00 UTC,29 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",person,  ,"{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+10,AWD0001s4t,diary,660,4,1918-07-29 00:00:00 UTC,29 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",person,Major  Murphy,"{""first""=>[""""], ""surname""=>[""Murphy""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""departed_leave""], ""unit""=>[""""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+11,AWD0001s4t,diary,660,4,1918-07-30 00:00:00 UTC,30 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,30 Jul 1918,"{""day""=>[""30""], ""month""=>[""Jul""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+14,AWD0001s4t,diary,660,2,1918-07-30 00:00:00 UTC,30 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",place,Beaurainville,"{""place""=>[""Beaurainville""], ""location""=>[""true""], ""name""=>[""Beaurainville""], ""lat""=>[""50.42432""], ""long""=>[""1.89938""], ""id""=>[""3034101""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+15,AWD0001s4t,diary,660,4,1918-07-31 00:00:00 UTC,31 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",diaryDate,31 Jul 1918,"{""day""=>[""31""], ""month""=>[""Jul""], ""year""=>[""1918""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+18,AWD0001s4t,diary,660,2,1918-07-31 00:00:00 UTC,31 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",place,Beaurainville,"{""place""=>[""Beaurainville""], ""location""=>[""true""], ""name""=>[""Beaurainville""], ""lat""=>[""50.42432""], ""long""=>[""1.89938""], ""id""=>[""3034101""]}",3034101,Beaurainville,"[1.89938, 50.42432]"
+19,AWD0001s4t,diary,660,2,1918-07-31 00:00:00 UTC,31 Jul 1918,Beaurainville,"[1.89938, 50.42432]","",activity,enemy_activity,{},3034101,Beaurainville,"[1.89938, 50.42432]"
+6,AWD0001s45,report,662,2,,,,[],,date,31 Jul 1918,{},,,
+3,AWD0001s61,other,663,2,,,,[],,date,31 Jul 1918,{},,,
+3,AWD0001s5z,other,668,2,,,,[],,date,26 Jul 1918,{},,,
+3,AWD0001s4z,other,670,2,,,,[],,date,24 Jul 1918,{},,,
+3,AWD0001s5h,other,673,2,,,,[],,date,21 Jul 1918,{},,,
+3,AWD0001s4k,other,678,2,,,,[],,date,17 Jul 1918,{},,,
+3,AWD0001s34,other,680,2,,,,[],,date,14 Jul 1918,{},,,
+4,AWD0001s4m,other,682,2,,,,[],,date,12 Jul 1918,{},,,
+4,AWD0001s3e,other,684,2,,,,[],,date,10 Jul 1918,{},,,
+3,AWD0001s5b,other,685,2,,,,[],,date,9 Jul 1918,{},,,
+3,AWD0001s5t,other,687,2,,,,[],,date,7 Jul 1918,{},,,
+3,AWD0001s5n,report,688,2,,,,[],,date,6 Jul 1918,{},,,
+3,AWD0001s3f,other,693,2,,,,[],,date,1 Jul 1918,{},,,

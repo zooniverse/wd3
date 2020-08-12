@@ -1,0 +1,477 @@
+Order,Page,Page type,Page number,Count,DateTime,Date,Place,Lat/Lon,Time,Type,Label,Data,GeoID,GeoName,GeoCoords
+6,AWD0000nik,diary,2,6,,"","","[0.0, 0.0]","",domestic,sport,{},2985684,Pozières,"[2.72929, 50.04047]"
+7,AWD0000nik,diary,2,3,,"","","[0.0, 0.0]","",activity,training,{},2985684,Pozières,"[2.72929, 50.04047]"
+8,AWD0000nik,diary,2,2,,"","","[0.0, 0.0]","",unit,52nd Kings,"{""name""=>[""52nd Kings""], ""context""=>[""other""]}",2985684,Pozières,"[2.72929, 50.04047]"
+9,AWD0000nik,diary,2,3,,"","","[0.0, 0.0]","",domestic,other,{},2985684,Pozières,"[2.72929, 50.04047]"
+13,AWD0000nik,diary,2,2,,"","","[0.0, 0.0]","",unit,"51st Kings, 13th Kings","{""name""=>[""51st Kings"", ""13th Kings""], ""context""=>[""other""]}",2985684,Pozières,"[2.72929, 50.04047]"
+14,AWD0000nik,diary,2,5,,"","","[0.0, 0.0]","",activity,training,{},2985684,Pozières,"[2.72929, 50.04047]"
+15,AWD0000nik,diary,2,2,,"","","[0.0, 0.0]","",domestic,sport,{},2985684,Pozières,"[2.72929, 50.04047]"
+17,AWD0000nik,diary,2,3,,"","","[0.0, 0.0]","",domestic,hygiene,{},2985684,Pozières,"[2.72929, 50.04047]"
+18,AWD0000nik,diary,2,2,,"","","[0.0, 0.0]","",unit,52nd Kings,"{""name""=>[""52nd Kings""], ""context""=>[""other""]}",2985684,Pozières,"[2.72929, 50.04047]"
+19,AWD0000nik,diary,2,2,,"","","[0.0, 0.0]","",domestic,inspections,{},2985684,Pozières,"[2.72929, 50.04047]"
+25,AWD0000nik,diary,2,3,,"","","[0.0, 0.0]","",domestic,sport,{},2985684,Pozières,"[2.72929, 50.04047]"
+26,AWD0000nik,diary,2,7,,"","","[0.0, 0.0]","",activity,training,{},2985684,Pozières,"[2.72929, 50.04047]"
+27,AWD0000nik,diary,2,3,,"","","[0.0, 0.0]","",domestic,hygiene,{},2985684,Pozières,"[2.72929, 50.04047]"
+28,AWD0000nik,diary,2,2,,"","","[0.0, 0.0]","",unit,52nd Kings,"{""name""=>[""52nd Kings""], ""context""=>[""other""]}",2985684,Pozières,"[2.72929, 50.04047]"
+29,AWD0000nik,diary,2,2,,"","","[0.0, 0.0]","",activity,training,{},2985684,Pozières,"[2.72929, 50.04047]"
+30,AWD0000nik,diary,2,3,,"","","[0.0, 0.0]","",person,Lieutenant Colonel G L Torrens,"{""first""=>[""G L""], ""surname""=>[""Torrens""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""author"", ""other"", ""joined""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+31,AWD0000nik,diary,2,2,,"","","[0.0, 0.0]","",domestic,sport,{},2985684,Pozières,"[2.72929, 50.04047]"
+32,AWD0000nik,diary,2,4,,"","","[0.0, 0.0]","",activity,training,{},2985684,Pozières,"[2.72929, 50.04047]"
+33,AWD0000nik,diary,2,6,,"","","[0.0, 0.0]","",domestic,sport,{},2985684,Pozières,"[2.72929, 50.04047]"
+35,AWD0000nik,diary,2,6,,"","","[0.0, 0.0]","",activity,training,{},2985684,Pozières,"[2.72929, 50.04047]"
+39,AWD0000nik,diary,2,3,,"","","[0.0, 0.0]","",domestic,inspections,{},2985684,Pozières,"[2.72929, 50.04047]"
+40,AWD0000nik,diary,2,6,,"","","[0.0, 0.0]","",activity,training,{},2985684,Pozières,"[2.72929, 50.04047]"
+41,AWD0000nik,diary,2,2,,"","","[0.0, 0.0]","",domestic,sport,{},2985684,Pozières,"[2.72929, 50.04047]"
+43,AWD0000nik,diary,2,3,,"","","[0.0, 0.0]","",domestic,inspections,{},2985684,Pozières,"[2.72929, 50.04047]"
+44,AWD0000nik,diary,2,2,,"","","[0.0, 0.0]","",unit,"10 platoon, 4 platoon","{""name""=>[""10 platoon"", ""4 platoon""], ""context""=>[""other""]}",2985684,Pozières,"[2.72929, 50.04047]"
+45,AWD0000nik,diary,2,3,,"","","[0.0, 0.0]","",activity,training,{},2985684,Pozières,"[2.72929, 50.04047]"
+47,AWD0000nik,diary,2,4,,"","","[0.0, 0.0]","",domestic,sport,{},2985684,Pozières,"[2.72929, 50.04047]"
+48,AWD0000nik,diary,2,4,,"","","[0.0, 0.0]","",activity,training,{},2985684,Pozières,"[2.72929, 50.04047]"
+2,AWD0000nj2,diary,3,4,1919-04-18 00:00:00 UTC,18 Apr 1919,"","[0.0, 0.0]","",diaryDate,18 Apr 1919,"{""day""=>[""18""], ""month""=>[""Apr""], ""year""=>[""1919""]}",2985684,Pozières,"[2.72929, 50.04047]"
+3,AWD0000nj2,diary,3,4,1919-04-18 00:00:00 UTC,18 Apr 1919,Beuel,"[7.13445, 50.73779]","",place,Beuel,"{""place""=>[""Beuel""], ""location""=>[""true""], ""name""=>[""Beuel""], ""lat""=>[""50.73779""], ""long""=>[""7.13445""], ""id""=>[""2949619""]}",2949619,Beuel,"[7.13445, 50.73779]"
+4,AWD0000nj2,diary,3,4,1919-04-18 00:00:00 UTC,18 Apr 1919,Beuel,"[7.13445, 50.73779]","",domestic,sport,{},2949619,Beuel,"[7.13445, 50.73779]"
+6,AWD0000nj2,diary,3,2,,"19 Apr,May 1919",Beuel,"[7.13445, 50.73779]","",diaryDate,"19 Apr,May 1919","{""day""=>[""19""], ""month""=>[""Apr"", ""May""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+8,AWD0000nj2,diary,3,7,,"19 Apr,May 1919",Beuel,"[7.13445, 50.73779]","",domestic,religion,{},2949619,Beuel,"[7.13445, 50.73779]"
+9,AWD0000nj2,diary,3,4,1919-04-20 00:00:00 UTC,20 Apr 1919,Beuel,"[7.13445, 50.73779]","",diaryDate,20 Apr 1919,"{""day""=>[""20""], ""month""=>[""Apr""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+10,AWD0000nj2,diary,3,2,1919-04-20 00:00:00 UTC,20 Apr 1919,Beuel,"[7.13445, 50.73779]","",activity,training,{},2949619,Beuel,"[7.13445, 50.73779]"
+11,AWD0000nj2,diary,3,4,1919-04-21 00:00:00 UTC,21 Apr 1919,Beuel,"[7.13445, 50.73779]","",diaryDate,21 Apr 1919,"{""day""=>[""21""], ""month""=>[""Apr""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+12,AWD0000nj2,diary,3,2,1919-04-21 00:00:00 UTC,21 Apr 1919,Beuel,"[7.13445, 50.73779]","",domestic,hygiene,{},2949619,Beuel,"[7.13445, 50.73779]"
+13,AWD0000nj2,diary,3,4,1919-04-22 00:00:00 UTC,22 Apr 1919,Beuel,"[7.13445, 50.73779]","",diaryDate,22 Apr 1919,"{""day""=>[""22""], ""month""=>[""Apr""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+14,AWD0000nj2,diary,3,2,1919-04-22 00:00:00 UTC,22 Apr 1919,Beuel,"[7.13445, 50.73779]","",domestic,sport,{},2949619,Beuel,"[7.13445, 50.73779]"
+15,AWD0000nj2,diary,3,2,1919-04-22 00:00:00 UTC,22 Apr 1919,Beuel,"[7.13445, 50.73779]","",domestic,hygiene,{},2949619,Beuel,"[7.13445, 50.73779]"
+18,AWD0000nj2,diary,3,4,1919-04-23 00:00:00 UTC,23 Apr 1919,Beuel,"[7.13445, 50.73779]","",diaryDate,23 Apr 1919,"{""day""=>[""23""], ""month""=>[""Apr""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+19,AWD0000nj2,diary,3,4,1919-04-24 00:00:00 UTC,24 Apr 1919,Beuel,"[7.13445, 50.73779]","",diaryDate,24 Apr 1919,"{""day""=>[""24""], ""month""=>[""Apr""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+20,AWD0000nj2,diary,3,7,1919-04-24 00:00:00 UTC,24 Apr 1919,Beuel,"[7.13445, 50.73779]","",activity,training,{},2949619,Beuel,"[7.13445, 50.73779]"
+22,AWD0000nj2,diary,3,4,1919-04-25 00:00:00 UTC,25 Apr 1919,Beuel,"[7.13445, 50.73779]","",diaryDate,25 Apr 1919,"{""day""=>[""25""], ""month""=>[""Apr""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+24,AWD0000nj2,diary,3,2,1919-04-25 00:00:00 UTC,25 Apr 1919,Beuel,"[7.13445, 50.73779]","",domestic,sport,{},2949619,Beuel,"[7.13445, 50.73779]"
+25,AWD0000nj2,diary,3,4,1919-04-26 00:00:00 UTC,26 Apr 1919,Beuel,"[7.13445, 50.73779]","",diaryDate,26 Apr 1919,"{""day""=>[""26""], ""month""=>[""Apr""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+27,AWD0000nj2,diary,3,4,1919-04-27 00:00:00 UTC,27 Apr 1919,Beuel,"[7.13445, 50.73779]","",diaryDate,27 Apr 1919,"{""day""=>[""27""], ""month""=>[""Apr""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+28,AWD0000nj2,diary,3,3,1919-04-27 00:00:00 UTC,27 Apr 1919,Beuel,"[7.13445, 50.73779]","",domestic,religion,{},2949619,Beuel,"[7.13445, 50.73779]"
+29,AWD0000nj2,diary,3,4,1919-04-27 00:00:00 UTC,27 Apr 1919,Beuel,"[7.13445, 50.73779]","",activity,training,{},2949619,Beuel,"[7.13445, 50.73779]"
+30,AWD0000nj2,diary,3,2,1919-04-27 00:00:00 UTC,27 Apr 1919,Beuel,"[7.13445, 50.73779]","",domestic,inspections,{},2949619,Beuel,"[7.13445, 50.73779]"
+31,AWD0000nj2,diary,3,2,1919-04-27 00:00:00 UTC,27 Apr 1919,Beuel,"[7.13445, 50.73779]","",domestic,sport,{},2949619,Beuel,"[7.13445, 50.73779]"
+32,AWD0000nj2,diary,3,4,1919-04-28 00:00:00 UTC,28 Apr 1919,Beuel,"[7.13445, 50.73779]","",diaryDate,28 Apr 1919,"{""day""=>[""28""], ""month""=>[""Apr""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+33,AWD0000nj2,diary,3,4,1919-04-29 00:00:00 UTC,29 Apr 1919,Beuel,"[7.13445, 50.73779]","",diaryDate,29 Apr 1919,"{""day""=>[""29""], ""month""=>[""Apr""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+35,AWD0000nj2,diary,3,4,1919-04-30 00:00:00 UTC,30 Apr 1919,Beuel,"[7.13445, 50.73779]","",diaryDate,30 Apr 1919,"{""day""=>[""30""], ""month""=>[""Apr""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+36,AWD0000nj2,diary,3,9,1919-04-30 00:00:00 UTC,30 Apr 1919,Beuel,"[7.13445, 50.73779]","",activity,training,{},2949619,Beuel,"[7.13445, 50.73779]"
+38,AWD0000nj2,diary,3,3,1919-05-01 00:00:00 UTC,1 May 1919,Beuel,"[7.13445, 50.73779]","",diaryDate,1 May 1919,"{""day""=>[""1""], ""month""=>[""May""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+39,AWD0000nj2,diary,3,3,1919-05-01 00:00:00 UTC,1 May 1919,Beuel,"[7.13445, 50.73779]","",person,"Major G L,GL,G H Towers","{""first""=>[""G L"", ""GL"", ""G H""], ""surname""=>[""Towers""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",2949619,Beuel,"[7.13445, 50.73779]"
+1,AWD0000nkn,diary,4,6,1919-05-01 00:00:00 UTC,1 May 1919,Beuel,"[7.13445, 50.73779]","",diaryDate,1 May 1919,"{""day""=>[""1""], ""month""=>[""May""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+4,AWD0000nkn,diary,4,7,1919-05-01 00:00:00 UTC,1 May 1919,Beuel,"[7.13445, 50.73779]","",place,Beuel,"{""place""=>[""Beuel""], ""location""=>[""true""], ""name""=>[""Beuel""], ""lat""=>[""50.73779""], ""long""=>[""7.13445""], ""id""=>[""2949619""]}",2949619,Beuel,"[7.13445, 50.73779]"
+5,AWD0000nkn,diary,4,2,1919-05-19 00:00:00 UTC,19 May 1919,Beuel,"[7.13445, 50.73779]","",diaryDate,19 May 1919,"{""day""=>[""19""], ""month""=>[""May""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+6,AWD0000nkn,diary,4,6,1919-05-19 00:00:00 UTC,19 May 1919,Beuel,"[7.13445, 50.73779]","",activity,training,{},2949619,Beuel,"[7.13445, 50.73779]"
+7,AWD0000nkn,diary,4,2,1919-05-19 00:00:00 UTC,19 May 1919,Beuel,"[7.13445, 50.73779]","",domestic,sport,{},2949619,Beuel,"[7.13445, 50.73779]"
+8,AWD0000nkn,diary,4,4,1919-05-02 00:00:00 UTC,2 May 1919,Beuel,"[7.13445, 50.73779]","",diaryDate,2 May 1919,"{""day""=>[""2""], ""month""=>[""May""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+9,AWD0000nkn,diary,4,4,1919-05-03 00:00:00 UTC,3 May 1919,Beuel,"[7.13445, 50.73779]","",diaryDate,3 May 1919,"{""day""=>[""3""], ""month""=>[""May""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+10,AWD0000nkn,diary,4,2,1919-05-03 00:00:00 UTC,3 May 1919,Beuel,"[7.13445, 50.73779]","",domestic,inspections,{},2949619,Beuel,"[7.13445, 50.73779]"
+11,AWD0000nkn,diary,4,2,1919-05-19 00:00:00 UTC,19 May 1919,Beuel,"[7.13445, 50.73779]","",diaryDate,19 May 1919,"{""day""=>[""19""], ""month""=>[""May""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+14,AWD0000nkn,diary,4,2,1919-05-19 00:00:00 UTC,19 May 1919,Beuel,"[7.13445, 50.73779]","",place,Beuel,"{""place""=>[""Beuel""], ""location""=>[""true""], ""name""=>[""Beuel""], ""lat""=>[""50.73779""], ""long""=>[""7.13445""], ""id""=>[""2949619""]}",2949619,Beuel,"[7.13445, 50.73779]"
+15,AWD0000nkn,diary,4,3,1919-05-19 00:00:00 UTC,19 May 1919,Beuel,"[7.13445, 50.73779]","",activity,training,{},2949619,Beuel,"[7.13445, 50.73779]"
+16,AWD0000nkn,diary,4,6,1919-05-19 00:00:00 UTC,19 May 1919,Beuel,"[7.13445, 50.73779]","",domestic,sport,{},2949619,Beuel,"[7.13445, 50.73779]"
+17,AWD0000nkn,diary,4,4,1919-05-04 00:00:00 UTC,4 May 1919,Beuel,"[7.13445, 50.73779]","",diaryDate,4 May 1919,"{""day""=>[""4""], ""month""=>[""May""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+21,AWD0000nkn,diary,4,5,1919-05-05 00:00:00 UTC,5 May 1919,Beuel,"[7.13445, 50.73779]","",diaryDate,5 May 1919,"{""day""=>[""5""], ""month""=>[""May""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+22,AWD0000nkn,diary,4,4,1919-05-05 00:00:00 UTC,5 May 1919,Beuel,"[7.13445, 50.73779]","",domestic,hygiene,{},2949619,Beuel,"[7.13445, 50.73779]"
+23,AWD0000nkn,diary,4,6,1919-05-05 00:00:00 UTC,5 May 1919,Beuel,"[7.13445, 50.73779]","",activity,training,{},2949619,Beuel,"[7.13445, 50.73779]"
+24,AWD0000nkn,diary,4,2,1919-05-05 00:00:00 UTC,5 May 1919,Beuel,"[7.13445, 50.73779]","",place,Beuel,"{""place""=>[""Beuel""], ""location""=>[""true""], ""name""=>[""Beuel""], ""lat""=>[""50.73779""], ""long""=>[""7.13445""], ""id""=>[""2949619""]}",2949619,Beuel,"[7.13445, 50.73779]"
+25,AWD0000nkn,diary,4,2,1919-05-05 00:00:00 UTC,5 May 1919,Beuel,"[7.13445, 50.73779]","",place,"OBERKASSEL, obercassel","{""place""=>[""OBERKASSEL"", ""obercassel""], ""location""=>[""true"", ""false""], ""name""=>[""Oberkassel"", ""Beuel""], ""lat""=>[""50.71379"", ""50.73779""], ""long""=>[""7.16638"", ""7.13445""], ""id""=>[""2860104"", ""2949619""]}",2949619,Beuel,"[7.13445, 50.73779]"
+27,AWD0000nkn,diary,4,6,1919-05-06 00:00:00 UTC,6 May 1919,Beuel,"[7.13445, 50.73779]","",diaryDate,6 May 1919,"{""day""=>[""6""], ""month""=>[""May""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+28,AWD0000nkn,diary,4,3,1919-05-06 00:00:00 UTC,6 May 1919,Beuel,"[7.13445, 50.73779]","",domestic,sport,{},2949619,Beuel,"[7.13445, 50.73779]"
+29,AWD0000nkn,diary,4,2,1919-05-06 00:00:00 UTC,6 May 1919,Beuel,"[7.13445, 50.73779]","",person,",other ,canon Canon Mayrick, mayrick","{""first""=>["""", ""canon""], ""surname""=>[""Canon Mayrick"", ""mayrick""], ""rank""=>["""", ""other""], ""number""=>[""""], ""reason""=>[""other"", ""author""], ""unit""=>[""""]}",2949619,Beuel,"[7.13445, 50.73779]"
+30,AWD0000nkn,diary,4,3,1919-05-06 00:00:00 UTC,6 May 1919,Beuel,"[7.13445, 50.73779]","",unit,52nd kings,"{""name""=>[""52nd kings""], ""context""=>[""other""]}",2949619,Beuel,"[7.13445, 50.73779]"
+31,AWD0000nkn,diary,4,2,1919-05-06 00:00:00 UTC,6 May 1919,Beuel,"[7.13445, 50.73779]","",unit,"13th kings, 13th. King's 1","{""name""=>[""13th kings"", ""13th. King's 1""], ""context""=>[""other"", ""joined""]}",2949619,Beuel,"[7.13445, 50.73779]"
+33,AWD0000nkn,diary,4,5,1919-05-07 00:00:00 UTC,7 May 1919,Beuel,"[7.13445, 50.73779]","",diaryDate,7 May 1919,"{""day""=>[""7""], ""month""=>[""May""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+36,AWD0000nkn,diary,4,4,1919-05-07 00:00:00 UTC,7 May 1919,Beuel,"[7.13445, 50.73779]","",domestic,sport,{},2949619,Beuel,"[7.13445, 50.73779]"
+37,AWD0000nkn,diary,4,2,1919-05-08 00:00:00 UTC,8 May 1919,Beuel,"[7.13445, 50.73779]","",diaryDate,8 May 1919,"{""day""=>[""8""], ""month""=>[""May""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+38,AWD0000nkn,diary,4,2,1919-05-08 00:00:00 UTC,8 May 1919,Beuel,"[7.13445, 50.73779]","",place,Beuel,"{""place""=>[""Beuel""], ""location""=>[""true""], ""name""=>[""Beuel""], ""lat""=>[""50.73779""], ""long""=>[""7.13445""], ""id""=>[""2949619""]}",2949619,Beuel,"[7.13445, 50.73779]"
+39,AWD0000nkn,diary,4,6,1919-05-08 00:00:00 UTC,8 May 1919,Beuel,"[7.13445, 50.73779]","",activity,training,{},2949619,Beuel,"[7.13445, 50.73779]"
+40,AWD0000nkn,diary,4,3,1919-05-08 00:00:00 UTC,8 May 1919,Beuel,"[7.13445, 50.73779]","",diaryDate,8 May 1919,"{""day""=>[""8""], ""month""=>[""May""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+41,AWD0000nkn,diary,4,5,1919-05-09 00:00:00 UTC,9 May 1919,Beuel,"[7.13445, 50.73779]","",diaryDate,9 May 1919,"{""day""=>[""9""], ""month""=>[""May""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+42,AWD0000nkn,diary,4,2,1919-05-09 00:00:00 UTC,9 May 1919,Beuel,"[7.13445, 50.73779]","",person,"other,  bishop of lichfield, Bishop of Lichfield","{""first""=>[""""], ""surname""=>[""bishop of lichfield"", ""Bishop of Lichfield""], ""rank""=>[""other"", """"], ""number""=>[""""], ""reason""=>[""author"", ""other""], ""unit""=>[""""]}",2949619,Beuel,"[7.13445, 50.73779]"
+43,AWD0000nkn,diary,4,5,1919-05-09 00:00:00 UTC,9 May 1919,Beuel,"[7.13445, 50.73779]","",activity,training,{},2949619,Beuel,"[7.13445, 50.73779]"
+44,AWD0000nkn,diary,4,2,1919-05-09 00:00:00 UTC,9 May 1919,Beuel,"[7.13445, 50.73779]","",place,Beuel,"{""place""=>[""Beuel""], ""location""=>[""true""], ""name""=>[""Beuel""], ""lat""=>[""50.73779""], ""long""=>[""7.13445""], ""id""=>[""2949619""]}",2949619,Beuel,"[7.13445, 50.73779]"
+45,AWD0000nkn,diary,4,5,1919-05-10 00:00:00 UTC,10 May 1919,Beuel,"[7.13445, 50.73779]","",diaryDate,10 May 1919,"{""day""=>[""10""], ""month""=>[""May""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+46,AWD0000nkn,diary,4,3,1919-05-10 00:00:00 UTC,10 May 1919,Beuel,"[7.13445, 50.73779]","",domestic,inspections,{},2949619,Beuel,"[7.13445, 50.73779]"
+47,AWD0000nkn,diary,4,5,1919-05-11 00:00:00 UTC,11 May 1919,Beuel,"[7.13445, 50.73779]","",diaryDate,11 May 1919,"{""day""=>[""11""], ""month""=>[""May""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+48,AWD0000nkn,diary,4,3,1919-05-11 00:00:00 UTC,11 May 1919,Beuel,"[7.13445, 50.73779]","",domestic,religion,{},2949619,Beuel,"[7.13445, 50.73779]"
+49,AWD0000nkn,diary,4,4,1919-05-12 00:00:00 UTC,12 May 1919,Beuel,"[7.13445, 50.73779]","",diaryDate,12 May 1919,"{""day""=>[""12""], ""month""=>[""May""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+50,AWD0000nkn,diary,4,2,1919-05-12 00:00:00 UTC,12 May 1919,Beuel,"[7.13445, 50.73779]","",place,Beuel,"{""place""=>[""Beuel""], ""location""=>[""true""], ""name""=>[""Beuel""], ""lat""=>[""50.73779""], ""long""=>[""7.13445""], ""id""=>[""2949619""]}",2949619,Beuel,"[7.13445, 50.73779]"
+51,AWD0000nkn,diary,4,4,1919-05-12 00:00:00 UTC,12 May 1919,Beuel,"[7.13445, 50.73779]","",activity,training,{},2949619,Beuel,"[7.13445, 50.73779]"
+54,AWD0000nkn,diary,4,4,1919-05-13 00:00:00 UTC,13 May 1919,Beuel,"[7.13445, 50.73779]","",diaryDate,13 May 1919,"{""day""=>[""13""], ""month""=>[""May""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+55,AWD0000nkn,diary,4,5,1919-05-13 00:00:00 UTC,13 May 1919,Beuel,"[7.13445, 50.73779]","",activity,training,{},2949619,Beuel,"[7.13445, 50.73779]"
+56,AWD0000nkn,diary,4,2,1919-05-13 00:00:00 UTC,13 May 1919,Beuel,"[7.13445, 50.73779]","",place,Beuel,"{""place""=>[""Beuel""], ""location""=>[""true""], ""name""=>[""Beuel""], ""lat""=>[""50.73779""], ""long""=>[""7.13445""], ""id""=>[""2949619""]}",2949619,Beuel,"[7.13445, 50.73779]"
+57,AWD0000nkn,diary,4,4,1919-05-14 00:00:00 UTC,14 May 1919,Beuel,"[7.13445, 50.73779]","",diaryDate,14 May 1919,"{""day""=>[""14""], ""month""=>[""May""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+58,AWD0000nkn,diary,4,3,1919-05-14 00:00:00 UTC,14 May 1919,Beuel,"[7.13445, 50.73779]","",domestic,sport,{},2949619,Beuel,"[7.13445, 50.73779]"
+59,AWD0000nkn,diary,4,3,1919-05-14 00:00:00 UTC,14 May 1919,Beuel,"[7.13445, 50.73779]","",activity,training,{},2949619,Beuel,"[7.13445, 50.73779]"
+62,AWD0000nkn,diary,4,2,1919-05-14 00:00:00 UTC,14 May 1919,Beuel,"[7.13445, 50.73779]","",activity,training,{},2949619,Beuel,"[7.13445, 50.73779]"
+63,AWD0000nkn,diary,4,3,1919-05-14 00:00:00 UTC,14 May 1919,Beuel,"[7.13445, 50.73779]","",domestic,sport,{},2949619,Beuel,"[7.13445, 50.73779]"
+64,AWD0000nkn,diary,4,5,1919-05-15 00:00:00 UTC,15 May 1919,Beuel,"[7.13445, 50.73779]","",diaryDate,15 May 1919,"{""day""=>[""15""], ""month""=>[""May""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+65,AWD0000nkn,diary,4,2,1919-05-15 00:00:00 UTC,15 May 1919,Beuel,"[7.13445, 50.73779]","",unit,"51st kings, 51st Kings","{""name""=>[""51st kings"", ""51st Kings""], ""context""=>[""other""]}",2949619,Beuel,"[7.13445, 50.73779]"
+66,AWD0000nkn,diary,4,3,1919-05-15 00:00:00 UTC,15 May 1919,Beuel,"[7.13445, 50.73779]","",domestic,sport,{},2949619,Beuel,"[7.13445, 50.73779]"
+67,AWD0000nkn,diary,4,2,1919-05-15 00:00:00 UTC,15 May 1919,Beuel,"[7.13445, 50.73779]","",place,Beuel,"{""place""=>[""Beuel""], ""location""=>[""false""], ""name""=>[""Beuel""], ""lat""=>[""50.73779""], ""long""=>[""7.13445""], ""id""=>[""2949619""]}",2949619,Beuel,"[7.13445, 50.73779]"
+69,AWD0000nkn,diary,4,7,1919-05-15 00:00:00 UTC,15 May 1919,Beuel,"[7.13445, 50.73779]","",activity,training,{},2949619,Beuel,"[7.13445, 50.73779]"
+70,AWD0000nkn,diary,4,3,1919-05-16 00:00:00 UTC,16 May 1919,Beuel,"[7.13445, 50.73779]","",diaryDate,16 May 1919,"{""day""=>[""16""], ""month""=>[""May""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+1,AWD0000nj9,diary,5,6,1919-05-17 00:00:00 UTC,17 May 1919,Beuel,"[7.13445, 50.73779]","",diaryDate,17 May 1919,"{""day""=>[""17""], ""month""=>[""May""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+2,AWD0000nj9,diary,5,5,1919-05-17 00:00:00 UTC,17 May 1919,Beuel,"[7.13445, 50.73779]","",activity,training,{},2949619,Beuel,"[7.13445, 50.73779]"
+3,AWD0000nj9,diary,5,4,1919-05-17 00:00:00 UTC,17 May 1919,Beuel,"[7.13445, 50.73779]","",place,Beuel,"{""place""=>[""Beuel""], ""location""=>[""true""], ""name""=>[""Beuel""], ""lat""=>[""50.73779""], ""long""=>[""7.13445""], ""id""=>[""2949619""]}",2949619,Beuel,"[7.13445, 50.73779]"
+4,AWD0000nj9,diary,5,3,1919-05-17 00:00:00 UTC,17 May 1919,Beuel,"[7.13445, 50.73779]","",domestic,sport,{},2949619,Beuel,"[7.13445, 50.73779]"
+6,AWD0000nj9,diary,5,5,1919-05-18 00:00:00 UTC,18 May 1919,Beuel,"[7.13445, 50.73779]","",diaryDate,18 May 1919,"{""day""=>[""18""], ""month""=>[""May""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+7,AWD0000nj9,diary,5,4,1919-05-18 00:00:00 UTC,18 May 1919,Beuel,"[7.13445, 50.73779]","",domestic,religion,{},2949619,Beuel,"[7.13445, 50.73779]"
+9,AWD0000nj9,diary,5,5,1919-05-19 00:00:00 UTC,19 May 1919,Beuel,"[7.13445, 50.73779]","",diaryDate,19 May 1919,"{""day""=>[""19""], ""month""=>[""May""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+11,AWD0000nj9,diary,5,5,1919-05-19 00:00:00 UTC,19 May 1919,Beuel,"[7.13445, 50.73779]","",activity,training,{},2949619,Beuel,"[7.13445, 50.73779]"
+13,AWD0000nj9,diary,5,2,1919-05-19 00:00:00 UTC,19 May 1919,Beuel,"[7.13445, 50.73779]","",domestic,sport,{},2949619,Beuel,"[7.13445, 50.73779]"
+14,AWD0000nj9,diary,5,5,1919-05-20 00:00:00 UTC,20 May 1919,Beuel,"[7.13445, 50.73779]","",diaryDate,20 May 1919,"{""day""=>[""20""], ""month""=>[""May""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+15,AWD0000nj9,diary,5,4,1919-05-20 00:00:00 UTC,20 May 1919,Beuel,"[7.13445, 50.73779]","",domestic,sport,{},2949619,Beuel,"[7.13445, 50.73779]"
+16,AWD0000nj9,diary,5,2,1919-05-20 00:00:00 UTC,20 May 1919,Beuel,"[7.13445, 50.73779]","",person,"other,  archdeacon jones, Archdeacon Jones","{""first""=>[""""], ""surname""=>[""archdeacon jones"", ""Archdeacon Jones""], ""rank""=>[""other"", """"], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2949619,Beuel,"[7.13445, 50.73779]"
+17,AWD0000nj9,diary,5,2,1919-05-20 00:00:00 UTC,20 May 1919,Beuel,"[7.13445, 50.73779]","",domestic,hygiene,{},2949619,Beuel,"[7.13445, 50.73779]"
+19,AWD0000nj9,diary,5,9,1919-05-20 00:00:00 UTC,20 May 1919,Beuel,"[7.13445, 50.73779]","",activity,training,{},2949619,Beuel,"[7.13445, 50.73779]"
+20,AWD0000nj9,diary,5,5,1919-05-21 00:00:00 UTC,21 May 1919,Beuel,"[7.13445, 50.73779]","",diaryDate,21 May 1919,"{""day""=>[""21""], ""month""=>[""May""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+21,AWD0000nj9,diary,5,2,1919-05-21 00:00:00 UTC,21 May 1919,Beuel,"[7.13445, 50.73779]","",person,"Lieutenant Colonel  tysham, Tysham","{""first""=>[""""], ""surname""=>[""tysham"", ""Tysham""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2949619,Beuel,"[7.13445, 50.73779]"
+22,AWD0000nj9,diary,5,4,1919-05-22 00:00:00 UTC,22 May 1919,Beuel,"[7.13445, 50.73779]","",diaryDate,22 May 1919,"{""day""=>[""22""], ""month""=>[""May""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+23,AWD0000nj9,diary,5,4,1919-05-22 00:00:00 UTC,22 May 1919,Beuel,"[7.13445, 50.73779]","",domestic,sport,{},2949619,Beuel,"[7.13445, 50.73779]"
+25,AWD0000nj9,diary,5,2,1919-05-22 00:00:00 UTC,22 May 1919,Beuel,"[7.13445, 50.73779]","",unit,"52nd kings, 52nd Kings","{""name""=>[""52nd kings"", ""52nd Kings""], ""context""=>[""other""]}",2949619,Beuel,"[7.13445, 50.73779]"
+26,AWD0000nj9,diary,5,4,1919-05-23 00:00:00 UTC,23 May 1919,Beuel,"[7.13445, 50.73779]","",diaryDate,23 May 1919,"{""day""=>[""23""], ""month""=>[""May""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+27,AWD0000nj9,diary,5,8,1919-05-23 00:00:00 UTC,23 May 1919,Beuel,"[7.13445, 50.73779]","",activity,training,{},2949619,Beuel,"[7.13445, 50.73779]"
+28,AWD0000nj9,diary,5,3,1919-05-23 00:00:00 UTC,23 May 1919,Beuel,"[7.13445, 50.73779]","",domestic,sport,{},2949619,Beuel,"[7.13445, 50.73779]"
+29,AWD0000nj9,diary,5,4,1919-05-24 00:00:00 UTC,24 May 1919,Beuel,"[7.13445, 50.73779]","",diaryDate,24 May 1919,"{""day""=>[""24""], ""month""=>[""May""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+30,AWD0000nj9,diary,5,4,1919-05-24 00:00:00 UTC,24 May 1919,Beuel,"[7.13445, 50.73779]","",domestic,inspections,{},2949619,Beuel,"[7.13445, 50.73779]"
+31,AWD0000nj9,diary,5,3,1919-05-24 00:00:00 UTC,24 May 1919,Beuel,"[7.13445, 50.73779]","",person,"Chaplain,,other T,,t Knight, Rev T Knight, rev knight","{""first""=>[""T"", """", ""t""], ""surname""=>[""Knight"", ""Rev T Knight"", ""rev knight""], ""rank""=>[""Chaplain"", """", ""other""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2949619,Beuel,"[7.13445, 50.73779]"
+33,AWD0000nj9,diary,5,4,1919-05-25 00:00:00 UTC,25 May 1919,Beuel,"[7.13445, 50.73779]","",diaryDate,25 May 1919,"{""day""=>[""25""], ""month""=>[""May""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+34,AWD0000nj9,diary,5,5,1919-05-25 00:00:00 UTC,25 May 1919,Beuel,"[7.13445, 50.73779]","",domestic,religion,{},2949619,Beuel,"[7.13445, 50.73779]"
+36,AWD0000nj9,diary,5,4,1919-05-26 00:00:00 UTC,26 May 1919,Beuel,"[7.13445, 50.73779]","",diaryDate,26 May 1919,"{""day""=>[""26""], ""month""=>[""May""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+37,AWD0000nj9,diary,5,9,1919-05-26 00:00:00 UTC,26 May 1919,Beuel,"[7.13445, 50.73779]","",activity,training,{},2949619,Beuel,"[7.13445, 50.73779]"
+38,AWD0000nj9,diary,5,4,1919-05-27 00:00:00 UTC,27 May 1919,Beuel,"[7.13445, 50.73779]","",diaryDate,27 May 1919,"{""day""=>[""27""], ""month""=>[""May""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+39,AWD0000nj9,diary,5,5,1919-05-27 00:00:00 UTC,27 May 1919,Beuel,"[7.13445, 50.73779]","",domestic,hygiene,{},2949619,Beuel,"[7.13445, 50.73779]"
+40,AWD0000nj9,diary,5,3,1919-05-27 00:00:00 UTC,27 May 1919,Beuel,"[7.13445, 50.73779]","",domestic,sport,{},2949619,Beuel,"[7.13445, 50.73779]"
+41,AWD0000nj9,diary,5,4,1919-05-28 00:00:00 UTC,28 May 1919,Beuel,"[7.13445, 50.73779]","",diaryDate,28 May 1919,"{""day""=>[""28""], ""month""=>[""May""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+42,AWD0000nj9,diary,5,3,1919-05-28 00:00:00 UTC,28 May 1919,Beuel,"[7.13445, 50.73779]","",person,"other,Chaplain, t,T, rev heaslett, Heaslett, Rev T haslett","{""first""=>[""t"", ""T"", """"], ""surname""=>[""rev heaslett"", ""Heaslett"", ""Rev T haslett""], ""rank""=>[""other"", ""Chaplain"", """"], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2949619,Beuel,"[7.13445, 50.73779]"
+44,AWD0000nj9,diary,5,9,1919-05-28 00:00:00 UTC,28 May 1919,Beuel,"[7.13445, 50.73779]","",activity,training,{},2949619,Beuel,"[7.13445, 50.73779]"
+45,AWD0000nj9,diary,5,4,1919-05-29 00:00:00 UTC,29 May 1919,Beuel,"[7.13445, 50.73779]","",diaryDate,29 May 1919,"{""day""=>[""29""], ""month""=>[""May""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+46,AWD0000nj9,diary,5,6,1919-05-29 00:00:00 UTC,29 May 1919,Beuel,"[7.13445, 50.73779]","",domestic,sport,{},2949619,Beuel,"[7.13445, 50.73779]"
+47,AWD0000nj9,diary,5,4,1919-05-30 00:00:00 UTC,30 May 1919,Beuel,"[7.13445, 50.73779]","",diaryDate,30 May 1919,"{""day""=>[""30""], ""month""=>[""May""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+48,AWD0000nj9,diary,5,7,1919-05-30 00:00:00 UTC,30 May 1919,Beuel,"[7.13445, 50.73779]","",activity,training,{},2949619,Beuel,"[7.13445, 50.73779]"
+49,AWD0000nj9,diary,5,3,1919-05-30 00:00:00 UTC,30 May 1919,Beuel,"[7.13445, 50.73779]","",domestic,sport,{},2949619,Beuel,"[7.13445, 50.73779]"
+50,AWD0000nj9,diary,5,4,1919-05-31 00:00:00 UTC,31 May 1919,Beuel,"[7.13445, 50.73779]","",diaryDate,31 May 1919,"{""day""=>[""31""], ""month""=>[""May""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+56,AWD0000nj9,diary,5,4,1919-05-31 00:00:00 UTC,31 May 1919,Beuel,"[7.13445, 50.73779]","",person,Colonel  Potter,"{""first""=>[""""], ""surname""=>[""Potter""], ""rank""=>[""Colonel""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",2949619,Beuel,"[7.13445, 50.73779]"
+58,AWD0000nj9,diary,5,4,1919-06-01 00:00:00 UTC,1 Jun 1919,Beuel,"[7.13445, 50.73779]","",diaryDate,1 Jun 1919,"{""day""=>[""1""], ""month""=>[""Jun""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+1,AWD0000nj5,diary,6,6,1919-06-01 00:00:00 UTC,1 Jun 1919,Beuel,"[7.13445, 50.73779]","",place,Beuel,"{""place""=>[""Beuel""], ""location""=>[""true""], ""name""=>[""Beuel""], ""lat""=>[""50.73779""], ""long""=>[""7.13445""], ""id""=>[""2949619""]}",2949619,Beuel,"[7.13445, 50.73779]"
+2,AWD0000nj5,diary,6,5,1919-06-01 00:00:00 UTC,1 Jun 1919,Beuel,"[7.13445, 50.73779]","",domestic,religion,{},2949619,Beuel,"[7.13445, 50.73779]"
+3,AWD0000nj5,diary,6,4,1919-06-01 00:00:00 UTC,1 Jun 1919,Beuel,"[7.13445, 50.73779]","",diaryDate,1 Jun 1919,"{""day""=>[""1""], ""month""=>[""Jun""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+4,AWD0000nj5,diary,6,2,1919-06-02 00:00:00 UTC,2 Jun 1919,Beuel,"[7.13445, 50.73779]","",diaryDate,2 Jun 1919,"{""day""=>[""2""], ""month""=>[""Jun""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+5,AWD0000nj5,diary,6,7,1919-06-02 00:00:00 UTC,2 Jun 1919,Beuel,"[7.13445, 50.73779]","",activity,training,{},2949619,Beuel,"[7.13445, 50.73779]"
+8,AWD0000nj5,diary,6,2,1919-06-03 00:00:00 UTC,3 Jun 1919,Beuel,"[7.13445, 50.73779]","",diaryDate,3 Jun 1919,"{""day""=>[""3""], ""month""=>[""Jun""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+9,AWD0000nj5,diary,6,5,1919-06-03 00:00:00 UTC,3 Jun 1919,Beuel,"[7.13445, 50.73779]","",domestic,parades,{},2949619,Beuel,"[7.13445, 50.73779]"
+11,AWD0000nj5,diary,6,4,1919-06-03 00:00:00 UTC,3 Jun 1919,Beuel,"[7.13445, 50.73779]","",domestic,sport,{},2949619,Beuel,"[7.13445, 50.73779]"
+12,AWD0000nj5,diary,6,2,1919-06-04 00:00:00 UTC,4 Jun 1919,Beuel,"[7.13445, 50.73779]","",diaryDate,4 Jun 1919,"{""day""=>[""4""], ""month""=>[""Jun""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+13,AWD0000nj5,diary,6,3,1919-06-04 00:00:00 UTC,4 Jun 1919,Rammersdorf,"[11.77434, 49.1591]","",place,Rammersdorf,"{""place""=>[""Rammersdorf""], ""location""=>[""true""], ""name""=>[""Rammersdorf""], ""lat""=>[""49.1591""], ""long""=>[""11.77434""], ""id""=>[""2850643""]}",,,
+14,AWD0000nj5,diary,6,2,1919-06-05 00:00:00 UTC,5 Jun 1919,Rammersdorf,"[11.77434, 49.1591]","",diaryDate,5 Jun 1919,"{""day""=>[""5""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+15,AWD0000nj5,diary,6,12,1919-06-05 00:00:00 UTC,5 Jun 1919,Rammersdorf,"[11.77434, 49.1591]","",activity,training,{},,,
+16,AWD0000nj5,diary,6,2,1919-06-06 00:00:00 UTC,6 Jun 1919,Rammersdorf,"[11.77434, 49.1591]","",diaryDate,6 Jun 1919,"{""day""=>[""6""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+17,AWD0000nj5,diary,6,2,1919-06-07 00:00:00 UTC,7 Jun 1919,Rammersdorf,"[11.77434, 49.1591]","",diaryDate,7 Jun 1919,"{""day""=>[""7""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+18,AWD0000nj5,diary,6,5,1919-06-07 00:00:00 UTC,7 Jun 1919,Rammersdorf,"[11.77434, 49.1591]","",domestic,inspections,{},,,
+19,AWD0000nj5,diary,6,2,1919-06-08 00:00:00 UTC,8 Jun 1919,Rammersdorf,"[11.77434, 49.1591]","",diaryDate,8 Jun 1919,"{""day""=>[""8""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+20,AWD0000nj5,diary,6,5,1919-06-08 00:00:00 UTC,8 Jun 1919,Rammersdorf,"[11.77434, 49.1591]","",domestic,religion,{},,,
+21,AWD0000nj5,diary,6,2,1919-06-09 00:00:00 UTC,9 Jun 1919,Rammersdorf,"[11.77434, 49.1591]","",diaryDate,9 Jun 1919,"{""day""=>[""9""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+22,AWD0000nj5,diary,6,2,1919-06-10 00:00:00 UTC,10 Jun 1919,Rammersdorf,"[11.77434, 49.1591]","",diaryDate,10 Jun 1919,"{""day""=>[""10""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+23,AWD0000nj5,diary,6,2,1919-06-11 00:00:00 UTC,11 Jun 1919,Rammersdorf,"[11.77434, 49.1591]","",diaryDate,11 Jun 1919,"{""day""=>[""11""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+24,AWD0000nj5,diary,6,9,1919-06-11 00:00:00 UTC,11 Jun 1919,Rammersdorf,"[11.77434, 49.1591]","",activity,training,{},,,
+25,AWD0000nj5,diary,6,2,1919-06-12 00:00:00 UTC,12 Jun 1919,Rammersdorf,"[11.77434, 49.1591]","",diaryDate,12 Jun 1919,"{""day""=>[""12""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+26,AWD0000nj5,diary,6,2,1919-06-13 00:00:00 UTC,13 Jun 1919,Rammersdorf,"[11.77434, 49.1591]","",diaryDate,13 Jun 1919,"{""day""=>[""13""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+27,AWD0000nj5,diary,6,3,1919-06-13 00:00:00 UTC,13 Jun 1919,Rammersdorf,"[11.77434, 49.1591]","",activity,training,{},,,
+28,AWD0000nj5,diary,6,2,1919-06-14 00:00:00 UTC,14 Jun 1919,Rammersdorf,"[11.77434, 49.1591]","",diaryDate,14 Jun 1919,"{""day""=>[""14""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+30,AWD0000nj5,diary,6,2,1919-06-14 00:00:00 UTC,14 Jun 1919,Rammersdorf,"[11.77434, 49.1591]","",domestic,medical,{},,,
+31,AWD0000nj5,diary,6,2,1919-06-14 00:00:00 UTC,14 Jun 1919,Rammersdorf,"[11.77434, 49.1591]","",domestic,inspections,{},,,
+32,AWD0000nj5,diary,6,2,1919-06-15 00:00:00 UTC,15 Jun 1919,Rammersdorf,"[11.77434, 49.1591]","",diaryDate,15 Jun 1919,"{""day""=>[""15""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+33,AWD0000nj5,diary,6,5,1919-06-15 00:00:00 UTC,15 Jun 1919,Rammersdorf,"[11.77434, 49.1591]","",domestic,religion,{},,,
+34,AWD0000nj5,diary,6,6,1919-06-15 00:00:00 UTC,15 Jun 1919,Rammersdorf,"[11.77434, 49.1591]","",domestic,inspections,{},,,
+35,AWD0000nj5,diary,6,2,1919-06-16 00:00:00 UTC,16 Jun 1919,Rammersdorf,"[11.77434, 49.1591]","",diaryDate,16 Jun 1919,"{""day""=>[""16""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+36,AWD0000nj5,diary,6,4,1919-06-16 00:00:00 UTC,16 Jun 1919,Rammersdorf,"[11.77434, 49.1591]","",domestic,parades,{},,,
+37,AWD0000nj5,diary,6,2,1919-06-17 00:00:00 UTC,17 Jun 1919,Rammersdorf,"[11.77434, 49.1591]","",diaryDate,17 Jun 1919,"{""day""=>[""17""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+39,AWD0000nj5,diary,6,2,1919-06-18 00:00:00 UTC,18 Jun 1919,Rammersdorf,"[11.77434, 49.1591]","",diaryDate,18 Jun 1919,"{""day""=>[""18""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+40,AWD0000nj5,diary,6,2,1919-06-19 00:00:00 UTC,19 Jun 1919,Rammersdorf,"[11.77434, 49.1591]","",diaryDate,19 Jun 1919,"{""day""=>[""19""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+41,AWD0000nj5,diary,6,2,1919-06-19 00:00:00 UTC,19 Jun 1919,Rammersdorf,"[11.77434, 49.1591]","",activity,movement,{},,,
+42,AWD0000nj5,diary,6,3,1919-06-19 00:00:00 UTC,19 Jun 1919,Siegburg-Mulldorf,"[11.77434, 49.1591]","",place,Siegburg-Mulldorf,"{""place""=>[""Siegburg-Mulldorf""], ""location""=>[""true""], ""name""=>[""Rammersdorf""], ""lat""=>[""49.1591""], ""long""=>[""11.77434""], ""id""=>[""2850643""]}",,,
+44,AWD0000nj5,diary,6,2,1919-06-20 00:00:00 UTC,20 Jun 1919,Siegburg-Mulldorf,"[11.77434, 49.1591]","",diaryDate,20 Jun 1919,"{""day""=>[""20""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+45,AWD0000nj5,diary,6,2,1919-06-21 00:00:00 UTC,21 Jun 1919,Siegburg-Mulldorf,"[11.77434, 49.1591]","",diaryDate,21 Jun 1919,"{""day""=>[""21""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+46,AWD0000nj5,diary,6,6,1919-06-21 00:00:00 UTC,21 Jun 1919,Siegburg-Mulldorf,"[11.77434, 49.1591]","",domestic,sport,{},,,
+47,AWD0000nj5,diary,6,2,1919-06-22 00:00:00 UTC,22 Jun 1919,Siegburg-Mulldorf,"[11.77434, 49.1591]","",diaryDate,22 Jun 1919,"{""day""=>[""22""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+48,AWD0000nj5,diary,6,5,1919-06-22 00:00:00 UTC,22 Jun 1919,Siegburg-Mulldorf,"[11.77434, 49.1591]","",domestic,religion,{},,,
+50,AWD0000nj5,diary,6,2,1919-06-23 00:00:00 UTC,23 Jun 1919,Siegburg-Mulldorf,"[11.77434, 49.1591]","",diaryDate,23 Jun 1919,"{""day""=>[""23""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+51,AWD0000nj5,diary,6,2,1919-06-24 00:00:00 UTC,24 Jun 1919,Siegburg-Mulldorf,"[11.77434, 49.1591]","",diaryDate,24 Jun 1919,"{""day""=>[""24""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+52,AWD0000nj5,diary,6,11,1919-06-24 00:00:00 UTC,24 Jun 1919,Siegburg-Mulldorf,"[11.77434, 49.1591]","",domestic,parades,{},,,
+53,AWD0000nj5,diary,6,2,1919-06-25 00:00:00 UTC,25 Jun 1919,Siegburg-Mulldorf,"[11.77434, 49.1591]","",diaryDate,25 Jun 1919,"{""day""=>[""25""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+54,AWD0000nj5,diary,6,2,1919-06-25 00:00:00 UTC,25 Jun 1919,Siegburg-Mulldorf,"[11.77434, 49.1591]","",domestic,sport,{},,,
+55,AWD0000nj5,diary,6,2,1919-06-26 00:00:00 UTC,26 Jun 1919,Siegburg-Mulldorf,"[11.77434, 49.1591]","",diaryDate,26 Jun 1919,"{""day""=>[""26""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+56,AWD0000nj5,diary,6,7,1919-06-26 00:00:00 UTC,26 Jun 1919,Siegburg-Mulldorf,"[11.77434, 49.1591]","",domestic,sport,{},,,
+57,AWD0000nj5,diary,6,7,1919-06-26 00:00:00 UTC,26 Jun 1919,Siegburg-Mulldorf,"[11.77434, 49.1591]","",domestic,parades,{},,,
+58,AWD0000nj5,diary,6,2,1919-06-27 00:00:00 UTC,27 Jun 1919,Siegburg-Mulldorf,"[11.77434, 49.1591]","",diaryDate,27 Jun 1919,"{""day""=>[""27""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+59,AWD0000nj5,diary,6,2,1919-06-28 00:00:00 UTC,28 Jun 1919,Siegburg-Mulldorf,"[11.77434, 49.1591]","",diaryDate,28 Jun 1919,"{""day""=>[""28""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+61,AWD0000nj5,diary,6,2,1919-06-28 00:00:00 UTC,28 Jun 1919,Siegburg-Mulldorf,"[11.77434, 49.1591]","",domestic,medical,{},,,
+62,AWD0000nj5,diary,6,3,1919-06-28 00:00:00 UTC,28 Jun 1919,Siegburg-Mulldorf,"[11.77434, 49.1591]","",domestic,sport,{},,,
+63,AWD0000nj5,diary,6,5,1919-06-28 00:00:00 UTC,28 Jun 1919,Siegburg-Mulldorf,"[11.77434, 49.1591]","",domestic,inspections,{},,,
+64,AWD0000nj5,diary,6,2,1919-06-29 00:00:00 UTC,29 Jun 1919,Siegburg-Mulldorf,"[11.77434, 49.1591]","",diaryDate,29 Jun 1919,"{""day""=>[""29""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+65,AWD0000nj5,diary,6,4,1919-06-29 00:00:00 UTC,29 Jun 1919,Siegburg-Mulldorf,"[11.77434, 49.1591]","",domestic,religion,{},,,
+66,AWD0000nj5,diary,6,4,1919-06-29 00:00:00 UTC,29 Jun 1919,Beuel,"[7.13445, 50.73779]","",place,Beuel,"{""place""=>[""Beuel""], ""location""=>[""true""], ""name""=>[""Beuel""], ""lat""=>[""50.73779""], ""long""=>[""7.13445""], ""id""=>[""2949619""]}",2949619,Beuel,"[7.13445, 50.73779]"
+67,AWD0000nj5,diary,6,5,1919-06-29 00:00:00 UTC,29 Jun 1919,Nieder-Holtorf,"[7.13445, 50.73779]","",place,Nieder-Holtorf,"{""place""=>[""Nieder-Holtorf""], ""location""=>[""true""], ""name""=>[""Beuel""], ""lat""=>[""50.73779""], ""long""=>[""7.13445""], ""id""=>[""2949619""]}",,,
+68,AWD0000nj5,diary,6,3,1919-06-30 00:00:00 UTC,30 Jun 1919,Nieder-Holtorf,"[7.13445, 50.73779]","",diaryDate,30 Jun 1919,"{""day""=>[""30""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+69,AWD0000nj5,diary,6,4,1919-06-30 00:00:00 UTC,30 Jun 1919,Nieder-Holtorf,"[7.13445, 50.73779]","",activity,movement,{},,,
+70,AWD0000nj5,diary,6,2,1919-06-30 00:00:00 UTC,30 Jun 1919,Nieder-Holtorf,"[7.13445, 50.73779]","",domestic,accomodation,{},,,
+3,AWD0000nkq,diary,7,2,1919-06-30 00:00:00 UTC,30 Jun 1919,Nieder-Holtorf,"[7.13445, 50.73779]","",activity,movement,{},,,
+4,AWD0000nkq,diary,7,4,1919-06-30 00:00:00 UTC,30 Jun 1919,Nieder-Holtorf,"[7.13445, 50.73779]","",domestic,sport,{},,,
+7,AWD0000nkq,diary,7,3,1919-06-30 00:00:00 UTC,30 Jun 1919,Nieder-Holtorf,"[7.13445, 50.73779]","",domestic,sport,{},,,
+9,AWD0000nkq,diary,7,2,1919-06-30 00:00:00 UTC,30 Jun 1919,Nieder-Holtorf,"[7.13445, 50.73779]","",activity,training,{},,,
+10,AWD0000nkq,diary,7,3,1919-06-30 00:00:00 UTC,30 Jun 1919,Nieder-Holtorf,"[7.13445, 50.73779]","",domestic,inspections,{},,,
+11,AWD0000nkq,diary,7,5,1919-06-30 00:00:00 UTC,30 Jun 1919,Nieder-Holtorf,"[7.13445, 50.73779]","",domestic,sport,{},,,
+12,AWD0000nkq,diary,7,4,1919-06-30 00:00:00 UTC,30 Jun 1919,Nieder-Holtorf,"[7.13445, 50.73779]","",domestic,religion,{},,,
+13,AWD0000nkq,diary,7,4,1919-06-30 00:00:00 UTC,30 Jun 1919,Nieder-Holtorf,"[7.13445, 50.73779]","",activity,training,{},,,
+16,AWD0000nkq,diary,7,5,1919-06-30 00:00:00 UTC,30 Jun 1919,Nieder-Holtorf,"[7.13445, 50.73779]","",domestic,sport,{},,,
+18,AWD0000nkq,diary,7,2,1919-06-30 00:00:00 UTC,30 Jun 1919,Nieder-Holtorf,"[7.13445, 50.73779]","",activity,training,{},,,
+19,AWD0000nkq,diary,7,2,1919-06-30 00:00:00 UTC,30 Jun 1919,Nieder-Holtorf,"[7.13445, 50.73779]","",domestic,sport,{},,,
+22,AWD0000nkq,diary,7,6,1919-06-30 00:00:00 UTC,30 Jun 1919,Nieder-Holtorf,"[7.13445, 50.73779]","",domestic,inspections,{},,,
+23,AWD0000nkq,diary,7,3,1919-06-30 00:00:00 UTC,30 Jun 1919,Nieder-Holtorf,"[7.13445, 50.73779]","",domestic,medical,{},,,
+24,AWD0000nkq,diary,7,2,1919-06-30 00:00:00 UTC,30 Jun 1919,Nieder-Holtorf,"[7.13445, 50.73779]","",domestic,religion,{},,,
+25,AWD0000nkq,diary,7,5,1919-06-30 00:00:00 UTC,30 Jun 1919,Nieder-Holtorf,"[7.13445, 50.73779]","",activity,training,{},,,
+26,AWD0000nkq,diary,7,2,1919-06-30 00:00:00 UTC,30 Jun 1919,Nieder-Holtorf,"[7.13445, 50.73779]","",domestic,sport,{},,,
+27,AWD0000nkq,diary,7,4,1919-06-30 00:00:00 UTC,30 Jun 1919,Nieder-Holtorf,"[7.13445, 50.73779]","",person,Major  Torrens,"{""first""=>[""""], ""surname""=>[""Torrens""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""departed_leave""], ""unit""=>[""""]}",,,
+28,AWD0000nkq,diary,7,2,1919-06-30 00:00:00 UTC,30 Jun 1919,Nieder-Holtorf,"[7.13445, 50.73779]","",unit,"Lancashire Fusiliers, lancashire fusiliers","{""name""=>[""Lancashire Fusiliers"", ""lancashire fusiliers""], ""context""=>[""joined"", ""other""]}",,,
+29,AWD0000nkq,diary,7,4,1919-06-30 00:00:00 UTC,30 Jun 1919,Nieder-Holtorf,"[7.13445, 50.73779]","",domestic,sport,{},,,
+31,AWD0000nkq,diary,7,2,1919-06-30 00:00:00 UTC,30 Jun 1919,Nieder-Holtorf,"[7.13445, 50.73779]","",activity,training,{},,,
+1,AWD0000niu,diary,8,6,1919-07-19 00:00:00 UTC,19 Jul 1919,Nieder-Holtorf,"[7.13445, 50.73779]","",diaryDate,19 Jul 1919,"{""day""=>[""19""], ""month""=>[""Jul""], ""year""=>[""1919""]}",,,
+2,AWD0000niu,diary,8,7,1919-07-19 00:00:00 UTC,19 Jul 1919,Nieder-Holtorf,"[7.13445, 50.73779]","",domestic,inspections,{},,,
+3,AWD0000niu,diary,8,4,1919-07-19 00:00:00 UTC,19 Jul 1919,Nieder-Holtorf,"[7.13445, 50.73779]","",domestic,hygiene,{},,,
+4,AWD0000niu,diary,8,2,1919-07-19 00:00:00 UTC,19 Jul 1919,Nieder-Holtorf,"[7.13445, 50.73779]","",activity,training,{},,,
+5,AWD0000niu,diary,8,3,1919-07-20 00:00:00 UTC,20 Jul 1919,Nieder-Holtorf,"[7.13445, 50.73779]","",diaryDate,20 Jul 1919,"{""day""=>[""20""], ""month""=>[""Jul""], ""year""=>[""1919""]}",,,
+6,AWD0000niu,diary,8,5,1919-07-20 00:00:00 UTC,20 Jul 1919,Nieder-Holtorf,"[7.13445, 50.73779]","",domestic,religion,{},,,
+7,AWD0000niu,diary,8,3,1919-07-21 00:00:00 UTC,21 Jul 1919,Nieder-Holtorf,"[7.13445, 50.73779]","",diaryDate,21 Jul 1919,"{""day""=>[""21""], ""month""=>[""Jul""], ""year""=>[""1919""]}",,,
+8,AWD0000niu,diary,8,3,1919-07-22 00:00:00 UTC,22 Jul 1919,Nieder-Holtorf,"[7.13445, 50.73779]","",diaryDate,22 Jul 1919,"{""day""=>[""22""], ""month""=>[""Jul""], ""year""=>[""1919""]}",,,
+10,AWD0000niu,diary,8,14,1919-07-22 00:00:00 UTC,22 Jul 1919,Nieder-Holtorf,"[7.13445, 50.73779]","",activity,training,{},,,
+11,AWD0000niu,diary,8,3,1919-07-23 00:00:00 UTC,23 Jul 1919,Nieder-Holtorf,"[7.13445, 50.73779]","",diaryDate,23 Jul 1919,"{""day""=>[""23""], ""month""=>[""Jul""], ""year""=>[""1919""]}",,,
+12,AWD0000niu,diary,8,2,1919-07-23 00:00:00 UTC,23 Jul 1919,Nieder-Holtorf,"[7.13445, 50.73779]","",domestic,sport,{},,,
+13,AWD0000niu,diary,8,3,1919-07-24 00:00:00 UTC,24 Jul 1919,Nieder-Holtorf,"[7.13445, 50.73779]","",diaryDate,24 Jul 1919,"{""day""=>[""24""], ""month""=>[""Jul""], ""year""=>[""1919""]}",,,
+15,AWD0000niu,diary,8,4,1919-07-24 00:00:00 UTC,24 Jul 1919,Nieder-Holtorf,"[7.13445, 50.73779]","",unit,"52nd kings, 51st kings","{""name""=>[""52nd kings"", ""51st kings""], ""context""=>[""other""]}",,,
+16,AWD0000niu,diary,8,9,1919-07-24 00:00:00 UTC,24 Jul 1919,Nieder-Holtorf,"[7.13445, 50.73779]","",activity,training,{},,,
+17,AWD0000niu,diary,8,3,1919-07-25 00:00:00 UTC,25 Jul 1919,Nieder-Holtorf,"[7.13445, 50.73779]","",diaryDate,25 Jul 1919,"{""day""=>[""25""], ""month""=>[""Jul""], ""year""=>[""1919""]}",,,
+18,AWD0000niu,diary,8,2,1919-07-25 00:00:00 UTC,25 Jul 1919,Nieder-Holtorf,"[7.13445, 50.73779]","",unit,1st kings,"{""name""=>[""1st kings""], ""context""=>[""other""]}",,,
+19,AWD0000niu,diary,8,3,1919-07-26 00:00:00 UTC,26 Jul 1919,Nieder-Holtorf,"[7.13445, 50.73779]","",diaryDate,26 Jul 1919,"{""day""=>[""26""], ""month""=>[""Jul""], ""year""=>[""1919""]}",,,
+20,AWD0000niu,diary,8,3,1919-07-26 00:00:00 UTC,26 Jul 1919,Nieder-Holtorf,"[7.13445, 50.73779]","",domestic,sport,{},,,
+21,AWD0000niu,diary,8,6,1919-07-26 00:00:00 UTC,26 Jul 1919,Nieder-Holtorf,"[7.13445, 50.73779]","",domestic,inspections,{},,,
+22,AWD0000niu,diary,8,4,1919-07-26 00:00:00 UTC,26 Jul 1919,Nieder-Holtorf,"[7.13445, 50.73779]","",domestic,hygiene,{},,,
+24,AWD0000niu,diary,8,3,1919-07-26 00:00:00 UTC,26 Jul 1919,Nieder-Holtorf,"[7.13445, 50.73779]","",domestic,inspections,{},,,
+25,AWD0000niu,diary,8,3,1919-07-27 00:00:00 UTC,27 Jul 1919,Nieder-Holtorf,"[7.13445, 50.73779]","",diaryDate,27 Jul 1919,"{""day""=>[""27""], ""month""=>[""Jul""], ""year""=>[""1919""]}",,,
+26,AWD0000niu,diary,8,3,1919-07-27 00:00:00 UTC,27 Jul 1919,Nieder-Holtorf,"[7.13445, 50.73779]","",domestic,medical,{},,,
+27,AWD0000niu,diary,8,5,1919-07-27 00:00:00 UTC,27 Jul 1919,Nieder-Holtorf,"[7.13445, 50.73779]","",domestic,religion,{},,,
+28,AWD0000niu,diary,8,4,1919-07-27 00:00:00 UTC,27 Jul 1919,Nieder-Holtorf,"[7.13445, 50.73779]","",activity,training,{},,,
+29,AWD0000niu,diary,8,6,1919-07-27 00:00:00 UTC,27 Jul 1919,Nieder-Holtorf,"[7.13445, 50.73779]","",domestic,sport,{},,,
+30,AWD0000niu,diary,8,3,1919-07-28 00:00:00 UTC,28 Jul 1919,Nieder-Holtorf,"[7.13445, 50.73779]","",diaryDate,28 Jul 1919,"{""day""=>[""28""], ""month""=>[""Jul""], ""year""=>[""1919""]}",,,
+32,AWD0000niu,diary,8,3,1919-07-29 00:00:00 UTC,29 Jul 1919,Nieder-Holtorf,"[7.13445, 50.73779]","",diaryDate,29 Jul 1919,"{""day""=>[""29""], ""month""=>[""Jul""], ""year""=>[""1919""]}",,,
+33,AWD0000niu,diary,8,7,1919-07-29 00:00:00 UTC,29 Jul 1919,Nieder-Holtorf,"[7.13445, 50.73779]","",activity,training,{},,,
+34,AWD0000niu,diary,8,3,1919-07-30 00:00:00 UTC,30 Jul 1919,Nieder-Holtorf,"[7.13445, 50.73779]","",diaryDate,30 Jul 1919,"{""day""=>[""30""], ""month""=>[""Jul""], ""year""=>[""1919""]}",,,
+35,AWD0000niu,diary,8,5,1919-07-30 00:00:00 UTC,30 Jul 1919,Nieder-Holtorf,"[7.13445, 50.73779]","",domestic,sport,{},,,
+36,AWD0000niu,diary,8,2,1919-07-30 00:00:00 UTC,30 Jul 1919,Nieder-Holtorf,"[7.13445, 50.73779]","",unit,4th suffolks,"{""name""=>[""4th suffolks""], ""context""=>[""other""]}",,,
+37,AWD0000niu,diary,8,5,1919-07-31 00:00:00 UTC,31 Jul 1919,Nieder-Holtorf,"[7.13445, 50.73779]","",diaryDate,31 Jul 1919,"{""day""=>[""31""], ""month""=>[""Jul""], ""year""=>[""1919""]}",,,
+38,AWD0000niu,diary,8,2,1919-07-31 00:00:00 UTC,31 Jul 1919,Nieder-Holtorf,"[7.13445, 50.73779]","",activity,movement,{},,,
+39,AWD0000niu,diary,8,4,1919-07-31 00:00:00 UTC,31 Jul 1919,nieder holtorf,"[7.13445, 50.73779]","",place,nieder holtorf,"{""place""=>[""nieder holtorf""], ""location""=>[""true""], ""name""=>["""", ""Beuel""], ""lat""=>["""", ""50.73779""], ""long""=>["""", ""7.13445""], ""id""=>["""", ""2949619""]}",,,
+40,AWD0000niu,diary,8,2,1919-07-31 00:00:00 UTC,31 Jul 1919,nieder holtorf,"[7.13445, 50.73779]","",unit,51st kings,"{""name""=>[""51st kings""], ""context""=>[""relieved_by""]}",,,
+41,AWD0000niu,diary,8,3,1919-07-31 00:00:00 UTC,31 Jul 1919,beuel,"[7.13445, 50.73779]","",place,beuel,"{""place""=>[""beuel""], ""location""=>[""true""], ""name""=>[""Beuel""], ""lat""=>[""50.73779""], ""long""=>[""7.13445""], ""id""=>[""2949619""]}",2949619,Beuel,"[7.13445, 50.73779]"
+44,AWD0000niu,diary,8,3,1919-07-31 00:00:00 UTC,31 Jul 1919,beuel,"[7.13445, 50.73779]","",person,Lieutenant Colonel v b thurston,"{""first""=>[""v b""], ""surname""=>[""thurston""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",2949619,Beuel,"[7.13445, 50.73779]"
+2,AWD0000nkk,diary,9,4,1919-08-01 00:00:00 UTC,1 Aug 1919,beuel,"[7.13445, 50.73779]","",diaryDate,1 Aug 1919,"{""day""=>[""1""], ""month""=>[""Aug""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+3,AWD0000nkk,diary,9,3,1919-08-01 00:00:00 UTC,1 Aug 1919,"Beuel, beuel, BEUEL","[7.13445, 50.73779]","",place,"Beuel, beuel, BEUEL","{""place""=>[""Beuel"", ""beuel"", ""BEUEL""], ""location""=>[""true""], ""name""=>[""Beuel""], ""lat""=>[""50.73779""], ""long""=>[""7.13445""], ""id""=>[""2949619""]}",2949619,Beuel,"[7.13445, 50.73779]"
+4,AWD0000nkk,diary,9,4,1919-08-01 00:00:00 UTC,1 Aug 1919,"Beuel, beuel, BEUEL","[7.13445, 50.73779]","",domestic,sport,{},2949619,Beuel,"[7.13445, 50.73779]"
+6,AWD0000nkk,diary,9,2,1919-08-02 00:00:00 UTC,2 Aug 1919,"Beuel, beuel, BEUEL","[7.13445, 50.73779]","",diaryDate,2 Aug 1919,"{""day""=>[""2""], ""month""=>[""Aug""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+7,AWD0000nkk,diary,9,2,1919-08-02 00:00:00 UTC,2 Aug 1919,"Beuel, beuel, BEUEL","[7.13445, 50.73779]","",domestic,hygiene,{},2949619,Beuel,"[7.13445, 50.73779]"
+8,AWD0000nkk,diary,9,6,1919-08-02 00:00:00 UTC,2 Aug 1919,"Beuel, beuel, BEUEL","[7.13445, 50.73779]","",domestic,inspections,{},2949619,Beuel,"[7.13445, 50.73779]"
+9,AWD0000nkk,diary,9,2,1919-08-02 00:00:00 UTC,2 Aug 1919,"Beuel, beuel, BEUEL","[7.13445, 50.73779]","",domestic,sport,{},2949619,Beuel,"[7.13445, 50.73779]"
+10,AWD0000nkk,diary,9,3,1919-08-02 00:00:00 UTC,2 Aug 1919,"Beuel, beuel, BEUEL","[7.13445, 50.73779]","",domestic,medical,{},2949619,Beuel,"[7.13445, 50.73779]"
+11,AWD0000nkk,diary,9,2,1919-08-03 00:00:00 UTC,3 Aug 1919,"Beuel, beuel, BEUEL","[7.13445, 50.73779]","",diaryDate,3 Aug 1919,"{""day""=>[""3""], ""month""=>[""Aug""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+12,AWD0000nkk,diary,9,4,1919-08-03 00:00:00 UTC,3 Aug 1919,"Beuel, beuel, BEUEL","[7.13445, 50.73779]","",domestic,religion,{},2949619,Beuel,"[7.13445, 50.73779]"
+13,AWD0000nkk,diary,9,2,1919-08-04 00:00:00 UTC,4 Aug 1919,"Beuel, beuel, BEUEL","[7.13445, 50.73779]","",diaryDate,4 Aug 1919,"{""day""=>[""4""], ""month""=>[""Aug""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+14,AWD0000nkk,diary,9,6,1919-08-04 00:00:00 UTC,4 Aug 1919,"Beuel, beuel, BEUEL","[7.13445, 50.73779]","",domestic,sport,{},2949619,Beuel,"[7.13445, 50.73779]"
+15,AWD0000nkk,diary,9,2,1919-08-05 00:00:00 UTC,5 Aug 1919,"Beuel, beuel, BEUEL","[7.13445, 50.73779]","",diaryDate,5 Aug 1919,"{""day""=>[""5""], ""month""=>[""Aug""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+16,AWD0000nkk,diary,9,7,1919-08-05 00:00:00 UTC,5 Aug 1919,"Beuel, beuel, BEUEL","[7.13445, 50.73779]","",activity,training,{},2949619,Beuel,"[7.13445, 50.73779]"
+17,AWD0000nkk,diary,9,2,1919-08-06 00:00:00 UTC,6 Aug 1919,"Beuel, beuel, BEUEL","[7.13445, 50.73779]","",diaryDate,6 Aug 1919,"{""day""=>[""6""], ""month""=>[""Aug""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+20,AWD0000nkk,diary,9,2,1919-08-07 00:00:00 UTC,7 Aug 1919,"Beuel, beuel, BEUEL","[7.13445, 50.73779]","",diaryDate,7 Aug 1919,"{""day""=>[""7""], ""month""=>[""Aug""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+22,AWD0000nkk,diary,9,6,1919-08-07 00:00:00 UTC,7 Aug 1919,"Beuel, beuel, BEUEL","[7.13445, 50.73779]","",activity,training,{},2949619,Beuel,"[7.13445, 50.73779]"
+23,AWD0000nkk,diary,9,2,1919-08-07 00:00:00 UTC,7 Aug 1919,"Beuel, beuel, BEUEL","[7.13445, 50.73779]","",domestic,sport,{},2949619,Beuel,"[7.13445, 50.73779]"
+24,AWD0000nkk,diary,9,2,1919-08-08 00:00:00 UTC,8 Aug 1919,"Beuel, beuel, BEUEL","[7.13445, 50.73779]","",diaryDate,8 Aug 1919,"{""day""=>[""8""], ""month""=>[""Aug""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+25,AWD0000nkk,diary,9,2,1919-08-08 00:00:00 UTC,8 Aug 1919,"Beuel, beuel, BEUEL","[7.13445, 50.73779]","",domestic,sport,{},2949619,Beuel,"[7.13445, 50.73779]"
+27,AWD0000nkk,diary,9,2,1919-08-09 00:00:00 UTC,9 Aug 1919,"Beuel, beuel, BEUEL","[7.13445, 50.73779]","",diaryDate,9 Aug 1919,"{""day""=>[""9""], ""month""=>[""Aug""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+28,AWD0000nkk,diary,9,2,1919-08-09 00:00:00 UTC,9 Aug 1919,"Beuel, beuel, BEUEL","[7.13445, 50.73779]","",domestic,hygiene,{},2949619,Beuel,"[7.13445, 50.73779]"
+29,AWD0000nkk,diary,9,4,1919-08-09 00:00:00 UTC,9 Aug 1919,"Beuel, beuel, BEUEL","[7.13445, 50.73779]","",person,Major General  Richie,"{""first""=>[""""], ""surname""=>[""Richie""], ""rank""=>[""Major General""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2949619,Beuel,"[7.13445, 50.73779]"
+31,AWD0000nkk,diary,9,2,1919-08-10 00:00:00 UTC,10 Aug 1919,"Beuel, beuel, BEUEL","[7.13445, 50.73779]","",diaryDate,10 Aug 1919,"{""day""=>[""10""], ""month""=>[""Aug""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+32,AWD0000nkk,diary,9,3,1919-08-10 00:00:00 UTC,10 Aug 1919,"Beuel, beuel, BEUEL","[7.13445, 50.73779]","",domestic,religion,{},2949619,Beuel,"[7.13445, 50.73779]"
+33,AWD0000nkk,diary,9,2,1919-08-11 00:00:00 UTC,11 Aug 1919,"Beuel, beuel, BEUEL","[7.13445, 50.73779]","",diaryDate,11 Aug 1919,"{""day""=>[""11""], ""month""=>[""Aug""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+34,AWD0000nkk,diary,9,2,1919-08-12 00:00:00 UTC,12 Aug 1919,"Beuel, beuel, BEUEL","[7.13445, 50.73779]","",diaryDate,12 Aug 1919,"{""day""=>[""12""], ""month""=>[""Aug""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+35,AWD0000nkk,diary,9,2,1919-08-12 00:00:00 UTC,12 Aug 1919,"Beuel, beuel, BEUEL","[7.13445, 50.73779]","",activity,training,{},2949619,Beuel,"[7.13445, 50.73779]"
+37,AWD0000nkk,diary,9,7,1919-08-12 00:00:00 UTC,12 Aug 1919,"Beuel, beuel, BEUEL","[7.13445, 50.73779]","",domestic,sport,{},2949619,Beuel,"[7.13445, 50.73779]"
+40,AWD0000nkk,diary,9,2,1919-08-13 00:00:00 UTC,13 Aug 1919,"Beuel, beuel, BEUEL","[7.13445, 50.73779]","",diaryDate,13 Aug 1919,"{""day""=>[""13""], ""month""=>[""Aug""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+41,AWD0000nkk,diary,9,4,1919-08-13 00:00:00 UTC,13 Aug 1919,"Beuel, beuel, BEUEL","[7.13445, 50.73779]","",domestic,inspections,{},2949619,Beuel,"[7.13445, 50.73779]"
+44,AWD0000nkk,diary,9,2,1919-08-14 00:00:00 UTC,14 Aug 1919,"Beuel, beuel, BEUEL","[7.13445, 50.73779]","",diaryDate,14 Aug 1919,"{""day""=>[""14""], ""month""=>[""Aug""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+45,AWD0000nkk,diary,9,4,1919-08-14 00:00:00 UTC,14 Aug 1919,"Beuel, beuel, BEUEL","[7.13445, 50.73779]","",domestic,sport,{},2949619,Beuel,"[7.13445, 50.73779]"
+46,AWD0000nkk,diary,9,2,1919-08-15 00:00:00 UTC,15 Aug 1919,"Beuel, beuel, BEUEL","[7.13445, 50.73779]","",diaryDate,15 Aug 1919,"{""day""=>[""15""], ""month""=>[""Aug""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+47,AWD0000nkk,diary,9,2,1919-08-16 00:00:00 UTC,16 Aug 1919,"Beuel, beuel, BEUEL","[7.13445, 50.73779]","",diaryDate,16 Aug 1919,"{""day""=>[""16""], ""month""=>[""Aug""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+48,AWD0000nkk,diary,9,5,1919-08-16 00:00:00 UTC,16 Aug 1919,"Beuel, beuel, BEUEL","[7.13445, 50.73779]","",domestic,inspections,{},2949619,Beuel,"[7.13445, 50.73779]"
+49,AWD0000nkk,diary,9,2,1919-08-16 00:00:00 UTC,16 Aug 1919,"Beuel, beuel, BEUEL","[7.13445, 50.73779]","",domestic,hygiene,{},2949619,Beuel,"[7.13445, 50.73779]"
+50,AWD0000nkk,diary,9,3,1919-08-16 00:00:00 UTC,16 Aug 1919,"Beuel, beuel, BEUEL","[7.13445, 50.73779]","",domestic,medical,{},2949619,Beuel,"[7.13445, 50.73779]"
+53,AWD0000nkk,diary,9,2,1919-08-17 00:00:00 UTC,17 Aug 1919,"Beuel, beuel, BEUEL","[7.13445, 50.73779]","",diaryDate,17 Aug 1919,"{""day""=>[""17""], ""month""=>[""Aug""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+54,AWD0000nkk,diary,9,4,1919-08-17 00:00:00 UTC,17 Aug 1919,"Beuel, beuel, BEUEL","[7.13445, 50.73779]","",domestic,religion,{},2949619,Beuel,"[7.13445, 50.73779]"
+55,AWD0000nkk,diary,9,2,1919-08-18 00:00:00 UTC,18 Aug 1919,"Beuel, beuel, BEUEL","[7.13445, 50.73779]","",diaryDate,18 Aug 1919,"{""day""=>[""18""], ""month""=>[""Aug""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+56,AWD0000nkk,diary,9,2,1919-08-19 00:00:00 UTC,19 Aug 1919,"Beuel, beuel, BEUEL","[7.13445, 50.73779]","",diaryDate,19 Aug 1919,"{""day""=>[""19""], ""month""=>[""Aug""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+57,AWD0000nkk,diary,9,6,1919-08-19 00:00:00 UTC,19 Aug 1919,"Beuel, beuel, BEUEL","[7.13445, 50.73779]","",activity,training,{},2949619,Beuel,"[7.13445, 50.73779]"
+61,AWD0000nkk,diary,9,2,1919-08-20 00:00:00 UTC,20 Aug 1919,"Beuel, beuel, BEUEL","[7.13445, 50.73779]","",diaryDate,20 Aug 1919,"{""day""=>[""20""], ""month""=>[""Aug""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+62,AWD0000nkk,diary,9,7,1919-08-20 00:00:00 UTC,20 Aug 1919,"Beuel, beuel, BEUEL","[7.13445, 50.73779]","",domestic,sport,{},2949619,Beuel,"[7.13445, 50.73779]"
+63,AWD0000nkk,diary,9,3,1919-08-21 00:00:00 UTC,21 Aug 1919,"Beuel, beuel, BEUEL","[7.13445, 50.73779]","",diaryDate,21 Aug 1919,"{""day""=>[""21""], ""month""=>[""Aug""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+64,AWD0000nkk,diary,9,3,1919-08-21 00:00:00 UTC,21 Aug 1919,"Beuel, beuel, BEUEL","[7.13445, 50.73779]","",activity,training,{},2949619,Beuel,"[7.13445, 50.73779]"
+3,AWD0000njh,diary,10,5,1919-08-21 00:00:00 UTC,21 Aug 1919,"Beuel, beuel, BEUEL","[7.13445, 50.73779]","",domestic,sport,{},2949619,Beuel,"[7.13445, 50.73779]"
+4,AWD0000njh,diary,10,4,1919-08-21 00:00:00 UTC,21 Aug 1919,Beuel,"[7.13445, 50.73779]","",place,Beuel,"{""place""=>[""Beuel""], ""location""=>[""true""], ""name""=>[""Beuel""], ""lat""=>[""50.73779""], ""long""=>[""7.13445""], ""id""=>[""2949619""]}",2949619,Beuel,"[7.13445, 50.73779]"
+5,AWD0000njh,diary,10,5,1919-08-22 00:00:00 UTC,22 Aug 1919,Beuel,"[7.13445, 50.73779]","",diaryDate,22 Aug 1919,"{""day""=>[""22""], ""month""=>[""Aug""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+6,AWD0000njh,diary,10,9,1919-08-22 00:00:00 UTC,22 Aug 1919,Beuel,"[7.13445, 50.73779]","",activity,training,{},2949619,Beuel,"[7.13445, 50.73779]"
+7,AWD0000njh,diary,10,4,1919-08-23 00:00:00 UTC,23 Aug 1919,Beuel,"[7.13445, 50.73779]","",diaryDate,23 Aug 1919,"{""day""=>[""23""], ""month""=>[""Aug""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+8,AWD0000njh,diary,10,4,1919-08-24 00:00:00 UTC,24 Aug 1919,Beuel,"[7.13445, 50.73779]","",diaryDate,24 Aug 1919,"{""day""=>[""24""], ""month""=>[""Aug""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+9,AWD0000njh,diary,10,3,1919-08-24 00:00:00 UTC,24 Aug 1919,Beuel,"[7.13445, 50.73779]","",activity,training,{},2949619,Beuel,"[7.13445, 50.73779]"
+10,AWD0000njh,diary,10,4,1919-08-24 00:00:00 UTC,24 Aug 1919,Beuel,"[7.13445, 50.73779]","",domestic,religion,{},2949619,Beuel,"[7.13445, 50.73779]"
+12,AWD0000njh,diary,10,4,1919-08-25 00:00:00 UTC,25 Aug 1919,Beuel,"[7.13445, 50.73779]","",diaryDate,25 Aug 1919,"{""day""=>[""25""], ""month""=>[""Aug""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+15,AWD0000njh,diary,10,4,1919-08-26 00:00:00 UTC,26 Aug 1919,Beuel,"[7.13445, 50.73779]","",diaryDate,26 Aug 1919,"{""day""=>[""26""], ""month""=>[""Aug""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+16,AWD0000njh,diary,10,11,1919-08-26 00:00:00 UTC,26 Aug 1919,Beuel,"[7.13445, 50.73779]","",activity,training,{},2949619,Beuel,"[7.13445, 50.73779]"
+17,AWD0000njh,diary,10,4,1919-08-27 00:00:00 UTC,27 Aug 1919,Beuel,"[7.13445, 50.73779]","",diaryDate,27 Aug 1919,"{""day""=>[""27""], ""month""=>[""Aug""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+18,AWD0000njh,diary,10,4,1919-08-28 00:00:00 UTC,28 Aug 1919,Beuel,"[7.13445, 50.73779]","",diaryDate,28 Aug 1919,"{""day""=>[""28""], ""month""=>[""Aug""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+20,AWD0000njh,diary,10,5,1919-08-28 00:00:00 UTC,28 Aug 1919,Beuel,"[7.13445, 50.73779]","",activity,training,{},2949619,Beuel,"[7.13445, 50.73779]"
+21,AWD0000njh,diary,10,4,1919-08-29 00:00:00 UTC,29 Aug 1919,Beuel,"[7.13445, 50.73779]","",diaryDate,29 Aug 1919,"{""day""=>[""29""], ""month""=>[""Aug""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+22,AWD0000njh,diary,10,4,1919-08-29 00:00:00 UTC,29 Aug 1919,Beuel,"[7.13445, 50.73779]","",activity,training,{},2949619,Beuel,"[7.13445, 50.73779]"
+23,AWD0000njh,diary,10,2,1919-08-29 00:00:00 UTC,29 Aug 1919,"Ramersdorf Range, RAMERSDORF RANGE","[0.0, 0.0]","",place,"Ramersdorf Range, RAMERSDORF RANGE","{""place""=>[""Ramersdorf Range"", ""RAMERSDORF RANGE""], ""location""=>[""true""], ""name""=>[""Aldershot"", ""Beuel""], ""lat""=>[""51.24827"", ""50.73779""], ""long""=>[""-0.76389"", ""7.13445""], ""id""=>[""2657540"", ""2949619""]}",,,
+24,AWD0000njh,diary,10,4,1919-08-29 00:00:00 UTC,29 Aug 1919,"Ramsdorf, Ramersdorf","[7.1346, 50.72638]","",place,"Ramsdorf, Ramersdorf","{""place""=>[""Ramsdorf"", ""Ramersdorf""], ""location""=>[""true""], ""name""=>["""", ""Ramersdorf""], ""lat""=>["""", ""50.72638""], ""long""=>["""", ""7.1346""], ""id""=>["""", ""2850698""]}",,,
+27,AWD0000njh,diary,10,4,1919-08-30 00:00:00 UTC,30 Aug 1919,"Ramsdorf, Ramersdorf","[7.1346, 50.72638]","",diaryDate,30 Aug 1919,"{""day""=>[""30""], ""month""=>[""Aug""], ""year""=>[""1919""]}",,,
+28,AWD0000njh,diary,10,5,1919-08-30 00:00:00 UTC,30 Aug 1919,"Ramsdorf, Ramersdorf","[7.1346, 50.72638]","",domestic,religion,{},,,
+29,AWD0000njh,diary,10,4,1919-08-31 00:00:00 UTC,31 Aug 1919,"Ramsdorf, Ramersdorf","[7.1346, 50.72638]","",diaryDate,31 Aug 1919,"{""day""=>[""31""], ""month""=>[""Aug""], ""year""=>[""1919""]}",,,
+31,AWD0000njh,diary,10,2,1919-08-31 00:00:00 UTC,31 Aug 1919,"Ramsdorf, Ramersdorf","[7.1346, 50.72638]","",person,"Colonel,Lieutenant Colonel V B Thurston","{""first""=>[""V B""], ""surname""=>[""Thurston""], ""rank""=>[""Colonel"", ""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+2,AWD0000nio,diary,11,3,1919-08-31 00:00:00 UTC,31 Aug 1919,"Ramsdorf, Ramersdorf","[7.1346, 50.72638]","",domestic,sport,{},,,
+3,AWD0000nio,diary,11,4,1919-09-01 00:00:00 UTC,1 Sep 1919,"Ramsdorf, Ramersdorf","[7.1346, 50.72638]","",diaryDate,1 Sep 1919,"{""day""=>[""1""], ""month""=>[""Sep""], ""year""=>[""1919""]}",,,
+4,AWD0000nio,diary,11,3,1919-09-01 00:00:00 UTC,1 Sep 1919,"Beuel, beuel, BEUEL","[7.13445, 50.73779]","",place,"Beuel, beuel, BEUEL","{""place""=>[""Beuel"", ""beuel"", ""BEUEL""], ""location""=>[""true""], ""name""=>[""Beuel""], ""lat""=>[""50.73779""], ""long""=>[""7.13445""], ""id""=>[""2949619""]}",2949619,Beuel,"[7.13445, 50.73779]"
+6,AWD0000nio,diary,11,2,1919-09-02 00:00:00 UTC,2 Sep 1919,"Beuel, beuel, BEUEL","[7.13445, 50.73779]","",diaryDate,2 Sep 1919,"{""day""=>[""2""], ""month""=>[""Sep""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+8,AWD0000nio,diary,11,2,1919-09-03 00:00:00 UTC,3 Sep 1919,"Beuel, beuel, BEUEL","[7.13445, 50.73779]","",diaryDate,3 Sep 1919,"{""day""=>[""3""], ""month""=>[""Sep""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+9,AWD0000nio,diary,11,3,1919-09-03 00:00:00 UTC,3 Sep 1919,"Beuel, beuel, BEUEL","[7.13445, 50.73779]","",domestic,inspections,{},2949619,Beuel,"[7.13445, 50.73779]"
+10,AWD0000nio,diary,11,2,1919-09-04 00:00:00 UTC,4 Sep 1919,"Beuel, beuel, BEUEL","[7.13445, 50.73779]","",diaryDate,4 Sep 1919,"{""day""=>[""4""], ""month""=>[""Sep""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+11,AWD0000nio,diary,11,3,1919-09-04 00:00:00 UTC,4 Sep 1919,"Beuel, beuel, BEUEL","[7.13445, 50.73779]","",domestic,parades,{},2949619,Beuel,"[7.13445, 50.73779]"
+12,AWD0000nio,diary,11,2,1919-09-04 00:00:00 UTC,4 Sep 1919,"Ramersdorf, ramersdorf","[0.0, 0.0]","",place,"Ramersdorf, ramersdorf","{""place""=>[""Ramersdorf"", ""ramersdorf""], ""location""=>[""true""], ""name""=>[""Beuel"", ""Ramersdorf""], ""lat""=>[""50.73779"", ""50.72638""], ""long""=>[""7.13445"", ""7.1346""], ""id""=>[""2949619"", ""2850698""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+13,AWD0000nio,diary,11,2,1919-09-05 00:00:00 UTC,5 Sep 1919,"Ramersdorf, ramersdorf","[0.0, 0.0]","",diaryDate,5 Sep 1919,"{""day""=>[""5""], ""month""=>[""Sep""], ""year""=>[""1919""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+14,AWD0000nio,diary,11,2,1919-09-06 00:00:00 UTC,6 Sep 1919,"Ramersdorf, ramersdorf","[0.0, 0.0]","",diaryDate,6 Sep 1919,"{""day""=>[""6""], ""month""=>[""Sep""], ""year""=>[""1919""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+15,AWD0000nio,diary,11,2,1919-09-07 00:00:00 UTC,7 Sep 1919,"Ramersdorf, ramersdorf","[0.0, 0.0]","",diaryDate,7 Sep 1919,"{""day""=>[""7""], ""month""=>[""Sep""], ""year""=>[""1919""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+16,AWD0000nio,diary,11,4,1919-09-07 00:00:00 UTC,7 Sep 1919,"Ramersdorf, ramersdorf","[0.0, 0.0]","",domestic,religion,{},2850698,Ramersdorf,"[7.1346, 50.72638]"
+17,AWD0000nio,diary,11,2,1919-09-08 00:00:00 UTC,8 Sep 1919,"Ramersdorf, ramersdorf","[0.0, 0.0]","",diaryDate,8 Sep 1919,"{""day""=>[""8""], ""month""=>[""Sep""], ""year""=>[""1919""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+18,AWD0000nio,diary,11,2,1919-09-08 00:00:00 UTC,8 Sep 1919,"Ramersdorf, ramersdorf","[0.0, 0.0]","",activity,training,{},2850698,Ramersdorf,"[7.1346, 50.72638]"
+19,AWD0000nio,diary,11,2,1919-09-09 00:00:00 UTC,9 Sep 1919,"Ramersdorf, ramersdorf","[0.0, 0.0]","",diaryDate,9 Sep 1919,"{""day""=>[""9""], ""month""=>[""Sep""], ""year""=>[""1919""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+20,AWD0000nio,diary,11,2,1919-09-10 00:00:00 UTC,10 Sep 1919,"Ramersdorf, ramersdorf","[0.0, 0.0]","",diaryDate,10 Sep 1919,"{""day""=>[""10""], ""month""=>[""Sep""], ""year""=>[""1919""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+21,AWD0000nio,diary,11,3,1919-09-10 00:00:00 UTC,10 Sep 1919,"Ramersdorf, ramersdorf","[0.0, 0.0]","",domestic,parades,{},2850698,Ramersdorf,"[7.1346, 50.72638]"
+22,AWD0000nio,diary,11,2,1919-09-11 00:00:00 UTC,11 Sep 1919,"Ramersdorf, ramersdorf","[0.0, 0.0]","",diaryDate,11 Sep 1919,"{""day""=>[""11""], ""month""=>[""Sep""], ""year""=>[""1919""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+24,AWD0000nio,diary,11,2,1919-09-12 00:00:00 UTC,12 Sep 1919,"Ramersdorf, ramersdorf","[0.0, 0.0]","",diaryDate,12 Sep 1919,"{""day""=>[""12""], ""month""=>[""Sep""], ""year""=>[""1919""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+25,AWD0000nio,diary,11,4,1919-09-12 00:00:00 UTC,12 Sep 1919,"Ramersdorf, ramersdorf","[0.0, 0.0]","",domestic,inspections,{},2850698,Ramersdorf,"[7.1346, 50.72638]"
+26,AWD0000nio,diary,11,2,1919-09-13 00:00:00 UTC,13 Sep 1919,"Ramersdorf, ramersdorf","[0.0, 0.0]","",diaryDate,13 Sep 1919,"{""day""=>[""13""], ""month""=>[""Sep""], ""year""=>[""1919""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+27,AWD0000nio,diary,11,2,1919-09-14 00:00:00 UTC,14 Sep 1919,"Ramersdorf, ramersdorf","[0.0, 0.0]","",diaryDate,14 Sep 1919,"{""day""=>[""14""], ""month""=>[""Sep""], ""year""=>[""1919""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+28,AWD0000nio,diary,11,3,1919-09-14 00:00:00 UTC,14 Sep 1919,"Ramersdorf, ramersdorf","[0.0, 0.0]","",domestic,religion,{},2850698,Ramersdorf,"[7.1346, 50.72638]"
+29,AWD0000nio,diary,11,2,1919-09-15 00:00:00 UTC,15 Sep 1919,"Ramersdorf, ramersdorf","[0.0, 0.0]","",diaryDate,15 Sep 1919,"{""day""=>[""15""], ""month""=>[""Sep""], ""year""=>[""1919""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+30,AWD0000nio,diary,11,2,1919-09-16 00:00:00 UTC,16 Sep 1919,"Ramersdorf, ramersdorf","[0.0, 0.0]","",diaryDate,16 Sep 1919,"{""day""=>[""16""], ""month""=>[""Sep""], ""year""=>[""1919""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+31,AWD0000nio,diary,11,3,1919-09-16 00:00:00 UTC,16 Sep 1919,"Ramersdorf, ramersdorf","[0.0, 0.0]","",domestic,parades,{},2850698,Ramersdorf,"[7.1346, 50.72638]"
+32,AWD0000nio,diary,11,3,1919-09-16 00:00:00 UTC,16 Sep 1919,"Ramersdorf, ramersdorf","[0.0, 0.0]","",domestic,medical,{},2850698,Ramersdorf,"[7.1346, 50.72638]"
+33,AWD0000nio,diary,11,2,1919-09-17 00:00:00 UTC,17 Sep 1919,"Ramersdorf, ramersdorf","[0.0, 0.0]","",diaryDate,17 Sep 1919,"{""day""=>[""17""], ""month""=>[""Sep""], ""year""=>[""1919""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+35,AWD0000nio,diary,11,2,1919-09-18 00:00:00 UTC,18 Sep 1919,"Ramersdorf, ramersdorf","[0.0, 0.0]","",diaryDate,18 Sep 1919,"{""day""=>[""18""], ""month""=>[""Sep""], ""year""=>[""1919""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+36,AWD0000nio,diary,11,2,1919-09-19 00:00:00 UTC,19 Sep 1919,"Ramersdorf, ramersdorf","[0.0, 0.0]","",diaryDate,19 Sep 1919,"{""day""=>[""19""], ""month""=>[""Sep""], ""year""=>[""1919""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+37,AWD0000nio,diary,11,2,1919-09-20 00:00:00 UTC,20 Sep 1919,"Ramersdorf, ramersdorf","[0.0, 0.0]","",diaryDate,20 Sep 1919,"{""day""=>[""20""], ""month""=>[""Sep""], ""year""=>[""1919""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+39,AWD0000nio,diary,11,4,1919-09-20 00:00:00 UTC,20 Sep 1919,"Ramersdorf, ramersdorf","[0.0, 0.0]","",domestic,inspections,{},2850698,Ramersdorf,"[7.1346, 50.72638]"
+40,AWD0000nio,diary,11,2,1919-09-21 00:00:00 UTC,21 Sep 1919,"Ramersdorf, ramersdorf","[0.0, 0.0]","",diaryDate,21 Sep 1919,"{""day""=>[""21""], ""month""=>[""Sep""], ""year""=>[""1919""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+41,AWD0000nio,diary,11,3,1919-09-21 00:00:00 UTC,21 Sep 1919,"Ramersdorf, ramersdorf","[0.0, 0.0]","",domestic,religion,{},2850698,Ramersdorf,"[7.1346, 50.72638]"
+42,AWD0000nio,diary,11,2,1919-09-22 00:00:00 UTC,22 Sep 1919,"Ramersdorf, ramersdorf","[0.0, 0.0]","",diaryDate,22 Sep 1919,"{""day""=>[""22""], ""month""=>[""Sep""], ""year""=>[""1919""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+43,AWD0000nio,diary,11,2,1919-09-23 00:00:00 UTC,23 Sep 1919,"Ramersdorf, ramersdorf","[0.0, 0.0]","",diaryDate,23 Sep 1919,"{""day""=>[""23""], ""month""=>[""Sep""], ""year""=>[""1919""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+44,AWD0000nio,diary,11,4,1919-09-23 00:00:00 UTC,23 Sep 1919,"Ramersdorf, ramersdorf","[0.0, 0.0]","",domestic,parades,{},2850698,Ramersdorf,"[7.1346, 50.72638]"
+45,AWD0000nio,diary,11,5,1919-09-23 00:00:00 UTC,23 Sep 1919,"Ramersdorf, ramersdorf","[0.0, 0.0]","",person,General  Lambert,"{""first""=>[""""], ""surname""=>[""Lambert""], ""rank""=>[""General""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+46,AWD0000nio,diary,11,2,1919-09-24 00:00:00 UTC,24 Sep 1919,"Ramersdorf, ramersdorf","[0.0, 0.0]","",diaryDate,24 Sep 1919,"{""day""=>[""24""], ""month""=>[""Sep""], ""year""=>[""1919""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+47,AWD0000nio,diary,11,2,1919-09-25 00:00:00 UTC,25 Sep 1919,"Ramersdorf, ramersdorf","[0.0, 0.0]","",diaryDate,25 Sep 1919,"{""day""=>[""25""], ""month""=>[""Sep""], ""year""=>[""1919""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+48,AWD0000nio,diary,11,2,1919-09-26 00:00:00 UTC,26 Sep 1919,"Ramersdorf, ramersdorf","[0.0, 0.0]","",diaryDate,26 Sep 1919,"{""day""=>[""26""], ""month""=>[""Sep""], ""year""=>[""1919""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+49,AWD0000nio,diary,11,2,1919-09-27 00:00:00 UTC,27 Sep 1919,"Ramersdorf, ramersdorf","[0.0, 0.0]","",diaryDate,27 Sep 1919,"{""day""=>[""27""], ""month""=>[""Sep""], ""year""=>[""1919""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+51,AWD0000nio,diary,11,3,1919-09-27 00:00:00 UTC,27 Sep 1919,"Ramersdorf, ramersdorf","[0.0, 0.0]","",domestic,inspections,{},2850698,Ramersdorf,"[7.1346, 50.72638]"
+52,AWD0000nio,diary,11,2,1919-09-28 00:00:00 UTC,28 Sep 1919,"Ramersdorf, ramersdorf","[0.0, 0.0]","",diaryDate,28 Sep 1919,"{""day""=>[""28""], ""month""=>[""Sep""], ""year""=>[""1919""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+53,AWD0000nio,diary,11,4,1919-09-28 00:00:00 UTC,28 Sep 1919,"Ramersdorf, ramersdorf","[0.0, 0.0]","",domestic,religion,{},2850698,Ramersdorf,"[7.1346, 50.72638]"
+54,AWD0000nio,diary,11,2,1919-09-28 00:00:00 UTC,28 Sep 1919,"Ramersdorf, ramersdorf","[0.0, 0.0]","",domestic,medical,{},2850698,Ramersdorf,"[7.1346, 50.72638]"
+55,AWD0000nio,diary,11,2,1919-09-29 00:00:00 UTC,29 Sep 1919,"Ramersdorf, ramersdorf","[0.0, 0.0]","",diaryDate,29 Sep 1919,"{""day""=>[""29""], ""month""=>[""Sep""], ""year""=>[""1919""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+59,AWD0000nio,diary,11,4,1919-09-30 00:00:00 UTC,30 Sep 1919,"Ramersdorf, ramersdorf","[0.0, 0.0]","",diaryDate,30 Sep 1919,"{""day""=>[""30""], ""month""=>[""Sep""], ""year""=>[""1919""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+1,AWD0000nl1,diary,12,5,1919-09-01 00:00:00 UTC,1 Sep 1919,"Ramersdorf, ramersdorf","[0.0, 0.0]","",diaryDate,1 Sep 1919,"{""day""=>[""1""], ""month""=>[""Sep""], ""year""=>[""1919""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+3,AWD0000nl1,diary,12,4,1919-09-01 00:00:00 UTC,1 Sep 1919,Beuel,"[7.13445, 50.73779]","",place,Beuel,"{""place""=>[""Beuel""], ""location""=>[""true""], ""name""=>[""Beuel""], ""lat""=>[""50.73779""], ""long""=>[""7.13445""], ""id""=>[""2949619""]}",2949619,Beuel,"[7.13445, 50.73779]"
+5,AWD0000nl1,diary,12,3,1919-09-01 00:00:00 UTC,1 Sep 1919,Beuel,"[7.13445, 50.73779]","",domestic,sport,{},2949619,Beuel,"[7.13445, 50.73779]"
+6,AWD0000nl1,diary,12,3,1919-09-02 00:00:00 UTC,2 Sep 1919,Beuel,"[7.13445, 50.73779]","",diaryDate,2 Sep 1919,"{""day""=>[""2""], ""month""=>[""Sep""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+7,AWD0000nl1,diary,12,3,1919-09-02 00:00:00 UTC,2 Sep 1919,Beuel,"[7.13445, 50.73779]","",activity,training,{},2949619,Beuel,"[7.13445, 50.73779]"
+8,AWD0000nl1,diary,12,3,1919-09-03 00:00:00 UTC,3 Sep 1919,Beuel,"[7.13445, 50.73779]","",diaryDate,3 Sep 1919,"{""day""=>[""3""], ""month""=>[""Sep""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+9,AWD0000nl1,diary,12,2,1919-09-04 00:00:00 UTC,4 Sep 1919,Beuel,"[7.13445, 50.73779]","",diaryDate,4 Sep 1919,"{""day""=>[""4""], ""month""=>[""Sep""], ""year""=>[""1919""]}",2949619,Beuel,"[7.13445, 50.73779]"
+11,AWD0000nl1,diary,12,3,1919-09-04 00:00:00 UTC,4 Sep 1919,Beuel,"[7.13445, 50.73779]","",domestic,parades,{},2949619,Beuel,"[7.13445, 50.73779]"
+13,AWD0000nl1,diary,12,2,1919-09-04 00:00:00 UTC,4 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",place,Ramersdorf,"{""place""=>[""Ramersdorf""], ""location""=>[""true""], ""name""=>[""Ramersdorf""], ""lat""=>[""50.72638""], ""long""=>[""7.1346""], ""id""=>[""2850698""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+14,AWD0000nl1,diary,12,2,1919-09-05 00:00:00 UTC,5 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",diaryDate,5 Sep 1919,"{""day""=>[""5""], ""month""=>[""Sep""], ""year""=>[""1919""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+15,AWD0000nl1,diary,12,3,1919-09-06 00:00:00 UTC,6 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",diaryDate,6 Sep 1919,"{""day""=>[""6""], ""month""=>[""Sep""], ""year""=>[""1919""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+16,AWD0000nl1,diary,12,2,1919-09-07 00:00:00 UTC,7 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",diaryDate,7 Sep 1919,"{""day""=>[""7""], ""month""=>[""Sep""], ""year""=>[""1919""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+17,AWD0000nl1,diary,12,3,1919-09-07 00:00:00 UTC,7 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",domestic,religion,{},2850698,Ramersdorf,"[7.1346, 50.72638]"
+19,AWD0000nl1,diary,12,2,1919-09-08 00:00:00 UTC,8 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",diaryDate,8 Sep 1919,"{""day""=>[""8""], ""month""=>[""Sep""], ""year""=>[""1919""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+20,AWD0000nl1,diary,12,8,1919-09-08 00:00:00 UTC,8 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",activity,training,{},2850698,Ramersdorf,"[7.1346, 50.72638]"
+21,AWD0000nl1,diary,12,2,1919-09-09 00:00:00 UTC,9 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",diaryDate,9 Sep 1919,"{""day""=>[""9""], ""month""=>[""Sep""], ""year""=>[""1919""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+22,AWD0000nl1,diary,12,2,1919-09-10 00:00:00 UTC,10 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",diaryDate,10 Sep 1919,"{""day""=>[""10""], ""month""=>[""Sep""], ""year""=>[""1919""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+23,AWD0000nl1,diary,12,3,1919-09-10 00:00:00 UTC,10 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",place,Ramersdorf,"{""place""=>[""Ramersdorf""], ""location""=>[""true""], ""name""=>[""Ramersdorf""], ""lat""=>[""50.72638""], ""long""=>[""7.1346""], ""id""=>[""2850698""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+24,AWD0000nl1,diary,12,2,1919-09-11 00:00:00 UTC,11 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",diaryDate,11 Sep 1919,"{""day""=>[""11""], ""month""=>[""Sep""], ""year""=>[""1919""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+25,AWD0000nl1,diary,12,3,1919-09-11 00:00:00 UTC,11 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",domestic,parades,{},2850698,Ramersdorf,"[7.1346, 50.72638]"
+26,AWD0000nl1,diary,12,2,1919-09-12 00:00:00 UTC,12 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",diaryDate,12 Sep 1919,"{""day""=>[""12""], ""month""=>[""Sep""], ""year""=>[""1919""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+28,AWD0000nl1,diary,12,2,1919-09-13 00:00:00 UTC,13 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",diaryDate,13 Sep 1919,"{""day""=>[""13""], ""month""=>[""Sep""], ""year""=>[""1919""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+29,AWD0000nl1,diary,12,3,1919-09-13 00:00:00 UTC,13 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",activity,training,{},2850698,Ramersdorf,"[7.1346, 50.72638]"
+30,AWD0000nl1,diary,12,2,1919-09-14 00:00:00 UTC,14 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",diaryDate,14 Sep 1919,"{""day""=>[""14""], ""month""=>[""Sep""], ""year""=>[""1919""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+31,AWD0000nl1,diary,12,2,1919-09-14 00:00:00 UTC,14 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",domestic,inspections,{},2850698,Ramersdorf,"[7.1346, 50.72638]"
+33,AWD0000nl1,diary,12,3,1919-09-14 00:00:00 UTC,14 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",domestic,religion,{},2850698,Ramersdorf,"[7.1346, 50.72638]"
+34,AWD0000nl1,diary,12,2,1919-09-15 00:00:00 UTC,15 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",diaryDate,15 Sep 1919,"{""day""=>[""15""], ""month""=>[""Sep""], ""year""=>[""1919""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+35,AWD0000nl1,diary,12,2,1919-09-15 00:00:00 UTC,15 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",activity,training,{},2850698,Ramersdorf,"[7.1346, 50.72638]"
+36,AWD0000nl1,diary,12,2,1919-09-16 00:00:00 UTC,16 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",diaryDate,16 Sep 1919,"{""day""=>[""16""], ""month""=>[""Sep""], ""year""=>[""1919""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+37,AWD0000nl1,diary,12,2,1919-09-16 00:00:00 UTC,16 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",domestic,parades,{},2850698,Ramersdorf,"[7.1346, 50.72638]"
+38,AWD0000nl1,diary,12,2,1919-09-17 00:00:00 UTC,17 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",diaryDate,17 Sep 1919,"{""day""=>[""17""], ""month""=>[""Sep""], ""year""=>[""1919""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+39,AWD0000nl1,diary,12,3,1919-09-17 00:00:00 UTC,17 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",domestic,medical,{},2850698,Ramersdorf,"[7.1346, 50.72638]"
+40,AWD0000nl1,diary,12,2,1919-09-18 00:00:00 UTC,18 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",diaryDate,18 Sep 1919,"{""day""=>[""18""], ""month""=>[""Sep""], ""year""=>[""1919""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+41,AWD0000nl1,diary,12,2,1919-09-18 00:00:00 UTC,18 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",activity,training,{},2850698,Ramersdorf,"[7.1346, 50.72638]"
+42,AWD0000nl1,diary,12,2,1919-09-19 00:00:00 UTC,19 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",diaryDate,19 Sep 1919,"{""day""=>[""19""], ""month""=>[""Sep""], ""year""=>[""1919""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+43,AWD0000nl1,diary,12,2,1919-09-19 00:00:00 UTC,19 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",place,Ramersdorf,"{""place""=>[""Ramersdorf""], ""location""=>[""true""], ""name""=>[""Ramersdorf""], ""lat""=>[""50.72638""], ""long""=>[""7.1346""], ""id""=>[""2850698""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+44,AWD0000nl1,diary,12,2,1919-09-20 00:00:00 UTC,20 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",diaryDate,20 Sep 1919,"{""day""=>[""20""], ""month""=>[""Sep""], ""year""=>[""1919""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+46,AWD0000nl1,diary,12,2,1919-09-20 00:00:00 UTC,20 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",domestic,inspections,{},2850698,Ramersdorf,"[7.1346, 50.72638]"
+47,AWD0000nl1,diary,12,2,1919-09-21 00:00:00 UTC,21 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",diaryDate,21 Sep 1919,"{""day""=>[""21""], ""month""=>[""Sep""], ""year""=>[""1919""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+48,AWD0000nl1,diary,12,4,1919-09-21 00:00:00 UTC,21 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",domestic,religion,{},2850698,Ramersdorf,"[7.1346, 50.72638]"
+49,AWD0000nl1,diary,12,2,1919-09-22 00:00:00 UTC,22 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",diaryDate,22 Sep 1919,"{""day""=>[""22""], ""month""=>[""Sep""], ""year""=>[""1919""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+50,AWD0000nl1,diary,12,2,1919-09-23 00:00:00 UTC,23 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",diaryDate,23 Sep 1919,"{""day""=>[""23""], ""month""=>[""Sep""], ""year""=>[""1919""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+51,AWD0000nl1,diary,12,5,1919-09-23 00:00:00 UTC,23 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",domestic,parades,{},2850698,Ramersdorf,"[7.1346, 50.72638]"
+52,AWD0000nl1,diary,12,2,1919-09-24 00:00:00 UTC,24 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",diaryDate,24 Sep 1919,"{""day""=>[""24""], ""month""=>[""Sep""], ""year""=>[""1919""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+53,AWD0000nl1,diary,12,3,1919-09-24 00:00:00 UTC,24 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",person,General  Lambert,"{""first""=>[""""], ""surname""=>[""Lambert""], ""rank""=>[""General""], ""number""=>[""""], ""reason""=>[""award""], ""unit""=>[""""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+54,AWD0000nl1,diary,12,2,1919-09-25 00:00:00 UTC,25 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",diaryDate,25 Sep 1919,"{""day""=>[""25""], ""month""=>[""Sep""], ""year""=>[""1919""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+55,AWD0000nl1,diary,12,4,1919-09-25 00:00:00 UTC,25 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",place,Ramersdorf,"{""place""=>[""Ramersdorf""], ""location""=>[""true""], ""name""=>[""Ramersdorf""], ""lat""=>[""50.72638""], ""long""=>[""7.1346""], ""id""=>[""2850698""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+56,AWD0000nl1,diary,12,2,1919-09-26 00:00:00 UTC,26 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",diaryDate,26 Sep 1919,"{""day""=>[""26""], ""month""=>[""Sep""], ""year""=>[""1919""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+57,AWD0000nl1,diary,12,2,1919-09-27 00:00:00 UTC,27 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",diaryDate,27 Sep 1919,"{""day""=>[""27""], ""month""=>[""Sep""], ""year""=>[""1919""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+58,AWD0000nl1,diary,12,2,1919-09-27 00:00:00 UTC,27 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",domestic,inspections,{},2850698,Ramersdorf,"[7.1346, 50.72638]"
+60,AWD0000nl1,diary,12,2,1919-09-28 00:00:00 UTC,28 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",diaryDate,28 Sep 1919,"{""day""=>[""28""], ""month""=>[""Sep""], ""year""=>[""1919""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+61,AWD0000nl1,diary,12,4,1919-09-28 00:00:00 UTC,28 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",domestic,religion,{},2850698,Ramersdorf,"[7.1346, 50.72638]"
+62,AWD0000nl1,diary,12,2,1919-09-29 00:00:00 UTC,29 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",diaryDate,29 Sep 1919,"{""day""=>[""29""], ""month""=>[""Sep""], ""year""=>[""1919""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+63,AWD0000nl1,diary,12,3,1919-09-29 00:00:00 UTC,29 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",activity,training,{},2850698,Ramersdorf,"[7.1346, 50.72638]"
+64,AWD0000nl1,diary,12,2,1919-09-29 00:00:00 UTC,29 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",domestic,medical,{},2850698,Ramersdorf,"[7.1346, 50.72638]"
+66,AWD0000nl1,diary,12,3,1919-09-30 00:00:00 UTC,30 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",diaryDate,30 Sep 1919,"{""day""=>[""30""], ""month""=>[""Sep""], ""year""=>[""1919""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+3,AWD0000nip,diary,13,3,1919-09-30 00:00:00 UTC,30 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",place,ramersdorf,"{""place""=>[""ramersdorf""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+6,AWD0000nip,diary,13,5,1919-09-30 00:00:00 UTC,30 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",activity,training,{},2850698,Ramersdorf,"[7.1346, 50.72638]"
+12,AWD0000nip,diary,13,2,1919-09-30 00:00:00 UTC,30 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",domestic,uniform,{},2850698,Ramersdorf,"[7.1346, 50.72638]"
+13,AWD0000nip,diary,13,2,1919-09-30 00:00:00 UTC,30 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",domestic,inspections,{},2850698,Ramersdorf,"[7.1346, 50.72638]"
+15,AWD0000nip,diary,13,3,1919-09-30 00:00:00 UTC,30 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",domestic,religion,{},2850698,Ramersdorf,"[7.1346, 50.72638]"
+17,AWD0000nip,diary,13,2,1919-09-30 00:00:00 UTC,30 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",domestic,medical,{},2850698,Ramersdorf,"[7.1346, 50.72638]"
+20,AWD0000nip,diary,13,4,1919-09-30 00:00:00 UTC,30 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",activity,training,{},2850698,Ramersdorf,"[7.1346, 50.72638]"
+21,AWD0000nip,diary,13,2,1919-09-30 00:00:00 UTC,30 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",domestic,medical,{},2850698,Ramersdorf,"[7.1346, 50.72638]"
+23,AWD0000nip,diary,13,3,1919-09-30 00:00:00 UTC,30 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",domestic,inspections,{},2850698,Ramersdorf,"[7.1346, 50.72638]"
+25,AWD0000nip,diary,13,2,1919-09-30 00:00:00 UTC,30 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",domestic,medical,{},2850698,Ramersdorf,"[7.1346, 50.72638]"
+26,AWD0000nip,diary,13,4,1919-09-30 00:00:00 UTC,30 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",activity,training,{},2850698,Ramersdorf,"[7.1346, 50.72638]"
+28,AWD0000nip,diary,13,2,1919-09-30 00:00:00 UTC,30 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",activity,training,{},2850698,Ramersdorf,"[7.1346, 50.72638]"
+29,AWD0000nip,diary,13,4,1919-09-30 00:00:00 UTC,30 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",domestic,medical,{},2850698,Ramersdorf,"[7.1346, 50.72638]"
+1,AWD0000nkb,diary,14,4,1919-09-30 00:00:00 UTC,30 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",domestic,religion,{},2850698,Ramersdorf,"[7.1346, 50.72638]"
+2,AWD0000nkb,diary,14,8,1919-09-30 00:00:00 UTC,30 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",activity,training,{},2850698,Ramersdorf,"[7.1346, 50.72638]"
+3,AWD0000nkb,diary,14,3,1919-09-30 00:00:00 UTC,30 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",unit,52nd Kings,"{""name""=>[""52nd Kings""], ""context""=>[""other""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+5,AWD0000nkb,diary,14,4,1919-09-30 00:00:00 UTC,30 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",person,Lieutenant  Newland,"{""first""=>[""""], ""surname""=>[""Newland""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+6,AWD0000nkb,diary,14,4,1919-09-30 00:00:00 UTC,30 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",person,Lieutenant  Smith,"{""first""=>[""""], ""surname""=>[""Smith""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+7,AWD0000nkb,diary,14,4,1919-09-30 00:00:00 UTC,30 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",person,Lieutenant  Potter,"{""first""=>[""""], ""surname""=>[""Potter""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+11,AWD0000nkb,diary,14,3,1919-09-30 00:00:00 UTC,30 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",unit,51st Kings,"{""name""=>[""51st Kings""], ""context""=>[""other""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+12,AWD0000nkb,diary,14,5,1919-09-30 00:00:00 UTC,30 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",person,Lieutenant  Pope,"{""first""=>[""""], ""surname""=>[""Pope""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+13,AWD0000nkb,diary,14,5,1919-09-30 00:00:00 UTC,30 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",person,Captain  Redhead,"{""first""=>[""""], ""surname""=>[""Redhead""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+14,AWD0000nkb,diary,14,4,1919-09-30 00:00:00 UTC,30 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",person,Captain  Richard,"{""first""=>[""""], ""surname""=>[""Richard""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""departed_posted"", ""other""], ""unit""=>[""""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+15,AWD0000nkb,diary,14,2,1919-09-30 00:00:00 UTC,30 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",person,"Lieutenant  Wilton, Milton","{""first""=>[""""], ""surname""=>[""Wilton"", ""Milton""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_posted""], ""unit""=>[""52 KLR"", """"]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+16,AWD0000nkb,diary,14,4,1919-09-30 00:00:00 UTC,30 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",person,Lieutenant  Lewtas,"{""first""=>[""""], ""surname""=>[""Lewtas""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other"", ""departed_posted""], ""unit""=>[""""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+17,AWD0000nkb,diary,14,2,1919-09-30 00:00:00 UTC,30 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",person,"Lieutenant  Bakdwin, Baldwin","{""first""=>[""""], ""surname""=>[""Bakdwin"", ""Baldwin""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_posted""], ""unit""=>[""51 KLR"", """"]}",2850698,Ramersdorf,"[7.1346, 50.72638]"
+24,AWD0000nkb,diary,14,3,1919-09-30 00:00:00 UTC,30 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",domestic,religion,{},2850698,Ramersdorf,"[7.1346, 50.72638]"
+27,AWD0000nkb,diary,14,3,1919-09-30 00:00:00 UTC,30 Sep 1919,Ramersdorf,"[7.1346, 50.72638]","",unit,13th K L R,"{""name""=>[""13th K L R""], ""context""=>[""other""]}",2850698,Ramersdorf,"[7.1346, 50.72638]"

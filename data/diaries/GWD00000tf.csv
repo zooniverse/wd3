@@ -1,0 +1,723 @@
+Order,Page,Page type,Page number,Count,DateTime,Date,Place,Lat/Lon,Time,Type,Label,Data,GeoID,GeoName,GeoCoords
+1,AWD0003z7h,diary,401,5,1917-04-01 00:00:00 UTC,1 Apr 1917,"","[0.0, 0.0]","",diaryDate,1 Apr 1917,"{""day""=>[""1""], ""month""=>[""Apr""], ""year""=>[""1917""]}",2985684,Pozières,"[2.72929, 50.04047]"
+2,AWD0003z7h,diary,401,2,1917-04-01 00:00:00 UTC,1 Apr 1917,"Neuville Saint Vaast, Neuville-Saint-Vaast","[2.76261, 50.35756]","",place,"Neuville Saint Vaast, Neuville-Saint-Vaast","{""place""=>[""Neuville Saint Vaast"", ""Neuville-Saint-Vaast""], ""location""=>[""true""], ""name""=>[""Neuville-Saint-Vaast""], ""lat""=>[""50.35756""], ""long""=>[""2.76261""], ""id""=>[""2990526""]}",2990526,Neuville-Saint-Vaast,"[2.76261, 50.35756]"
+4,AWD0003z7h,diary,401,3,1917-04-01 00:00:00 UTC,1 Apr 1917,"Neuville Saint Vaast, Neuville-Saint-Vaast","[2.76261, 50.35756]","",activity,reconnoitered,{},2990526,Neuville-Saint-Vaast,"[2.76261, 50.35756]"
+8,AWD0003z7h,diary,401,5,1917-04-02 00:00:00 UTC,2 Apr 1917,"Neuville Saint Vaast, Neuville-Saint-Vaast","[2.76261, 50.35756]","",diaryDate,2 Apr 1917,"{""day""=>[""2""], ""month""=>[""Apr""], ""year""=>[""1917""]}",2990526,Neuville-Saint-Vaast,"[2.76261, 50.35756]"
+10,AWD0003z7h,diary,401,2,1917-04-02 00:00:00 UTC,2 Apr 1917,"Neuville Saint Vaast, Neuville-Saint-Vaast","[2.76261, 50.35756]","",activity,attack,{},2990526,Neuville-Saint-Vaast,"[2.76261, 50.35756]"
+19,AWD0003z7h,diary,401,2,1917-04-02 00:00:00 UTC,2 Apr 1917,"Neuville Saint Vaast, Neuville-Saint-Vaast","[2.76261, 50.35756]","",activity,fire,{},2990526,Neuville-Saint-Vaast,"[2.76261, 50.35756]"
+21,AWD0003z7h,diary,401,2,1917-04-02 00:00:00 UTC,2 Apr 1917,"Neuville Saint Vaast, Neuville-Saint-Vaast","[2.76261, 50.35756]","",gridRef,A 22 a,{},2990526,Neuville-Saint-Vaast,"[2.76261, 50.35756]"
+22,AWD0003z7h,diary,401,2,1917-04-02 00:00:00 UTC,2 Apr 1917,"Neuville Saint Vaast, Neuville-Saint-Vaast","[2.76261, 50.35756]","",activity,fire,{},2990526,Neuville-Saint-Vaast,"[2.76261, 50.35756]"
+26,AWD0003z7h,diary,401,3,1917-04-02 00:00:00 UTC,2 Apr 1917,"Neuville Saint Vaast, Neuville-Saint-Vaast","[2.76261, 50.35756]","",casualties,other: 7,{},2990526,Neuville-Saint-Vaast,"[2.76261, 50.35756]"
+28,AWD0003z7h,diary,401,2,1917-04-02 18:15:00 UTC,2 Apr 1917,"Neuville Saint Vaast, Neuville-Saint-Vaast","[2.76261, 50.35756]",0615PM,time,0615PM,{},2990526,Neuville-Saint-Vaast,"[2.76261, 50.35756]"
+29,AWD0003z7h,diary,401,2,1917-04-02 18:15:00 UTC,2 Apr 1917,"Neuville Saint Vaast, Neuville-Saint-Vaast","[2.76261, 50.35756]",0615PM,activity,fire,{},2990526,Neuville-Saint-Vaast,"[2.76261, 50.35756]"
+32,AWD0003z7h,diary,401,2,1917-04-02 18:15:00 UTC,2 Apr 1917,"Neuville Saint Vaast, Neuville-Saint-Vaast","[2.76261, 50.35756]",0615PM,activity,enemy_activity,{},2990526,Neuville-Saint-Vaast,"[2.76261, 50.35756]"
+33,AWD0003z7h,diary,401,3,1917-04-02 18:15:00 UTC,2 Apr 1917,"Neuville Saint Vaast, Neuville-Saint-Vaast","[2.76261, 50.35756]",0615PM,weather,cold,{},2990526,Neuville-Saint-Vaast,"[2.76261, 50.35756]"
+35,AWD0003z7h,diary,401,2,1917-04-03 00:00:00 UTC,"3 Apr 1917, 1907","Neuville Saint Vaast, Neuville-Saint-Vaast","[2.76261, 50.35756]","",diaryDate,"3 Apr 1917, 1907","{""day""=>[""3""], ""month""=>[""Apr""], ""year""=>[""1917"", ""1907""]}",2990526,Neuville-Saint-Vaast,"[2.76261, 50.35756]"
+36,AWD0003z7h,diary,401,2,1917-04-03 00:00:00 UTC,3 Apr 1917,"Neuville Saint Vaast, Neuville-Saint-Vaast","[2.76261, 50.35756]","",diaryDate,3 Apr 1917,"{""day""=>[""3""], ""month""=>[""Apr""], ""year""=>[""1917""]}",2990526,Neuville-Saint-Vaast,"[2.76261, 50.35756]"
+39,AWD0003z7h,diary,401,2,1917-04-03 00:00:00 UTC,3 Apr 1917,"Neuville Saint Vaast, Neuville-Saint-Vaast","[2.76261, 50.35756]","",activity,attack,{},2990526,Neuville-Saint-Vaast,"[2.76261, 50.35756]"
+47,AWD0003z7h,diary,401,2,1917-04-03 00:00:00 UTC,3 Apr 1917,"Neuville Saint Vaast, Neuville-Saint-Vaast","[2.76261, 50.35756]","",activity,enemy_activity,{},2990526,Neuville-Saint-Vaast,"[2.76261, 50.35756]"
+50,AWD0003z7h,diary,401,2,1917-04-03 00:00:00 UTC,3 Apr 1917,"Neuville Saint Vaast, Neuville-Saint-Vaast","[2.76261, 50.35756]","",activity,fire,{},2990526,Neuville-Saint-Vaast,"[2.76261, 50.35756]"
+58,AWD0003z7h,diary,401,4,1917-04-03 00:00:00 UTC,3 Apr 1917,"Neuville Saint Vaast, Neuville-Saint-Vaast","[2.76261, 50.35756]","",weather,cold,{},2990526,Neuville-Saint-Vaast,"[2.76261, 50.35756]"
+1,AWD0003z8x,diary,402,4,1917-04-04 00:00:00 UTC,4 Apr 1917,"Neuville Saint Vaast, Neuville-Saint-Vaast","[2.76261, 50.35756]","",diaryDate,4 Apr 1917,"{""day""=>[""4""], ""month""=>[""Apr""], ""year""=>[""1917""]}",2990526,Neuville-Saint-Vaast,"[2.76261, 50.35756]"
+4,AWD0003z8x,diary,402,5,1917-04-04 00:00:00 UTC,4 Apr 1917,"Neuville Saint Vaast, Neuville-Saint-Vaast","[2.76261, 50.35756]","",weather,rain,{},2990526,Neuville-Saint-Vaast,"[2.76261, 50.35756]"
+6,AWD0003z8x,diary,402,2,1917-04-04 00:00:00 UTC,4 Apr 1917,"neuville, neville","[0.0, 0.0]","",place,"neuville, neville","{""place""=>[""neuville"", ""neville""], ""location""=>[""true""], ""name""=>[""Bertrancourt"", ""Néville""], ""lat""=>[""50.09298"", ""49.82472""], ""long""=>[""2.55829"", ""0.70862""], ""id""=>[""3033168"", ""2990468""]}",,,
+8,AWD0003z8x,diary,402,3,1917-04-04 00:00:00 UTC,4 Apr 1917,"neuville, neville","[0.0, 0.0]","",activity,attack,{},,,
+11,AWD0003z8x,diary,402,2,1917-04-04 04:00:00 UTC,4 Apr 1917,"neuville, neville","[0.0, 0.0]",0400AM,time,0400AM,{},,,
+13,AWD0003z8x,diary,402,2,1917-04-04 04:00:00 UTC,4 Apr 1917,"neuville, neville","[0.0, 0.0]",0400AM,activity,raid,{},,,
+24,AWD0003z8x,diary,402,2,1917-04-04 04:00:00 UTC,4 Apr 1917,"neuville, neville","[0.0, 0.0]",0400AM,activity,fire,{},,,
+28,AWD0003z8x,diary,402,5,1917-04-05 00:00:00 UTC,5 Apr 1917,"neuville, neville","[0.0, 0.0]","",diaryDate,5 Apr 1917,"{""day""=>[""5""], ""month""=>[""Apr""], ""year""=>[""1917""]}",,,
+29,AWD0003z8x,diary,402,3,1917-04-05 00:00:00 UTC,5 Apr 1917,"neuville, neville","[0.0, 0.0]","",weather,fine,{},,,
+31,AWD0003z8x,diary,402,3,1917-04-05 00:00:00 UTC,5 Apr 1917,"neuville, neville","[0.0, 0.0]","",activity,attack,{},,,
+40,AWD0003z8x,diary,402,2,1917-04-05 08:00:00 UTC,5 Apr 1917,"neuville, neville","[0.0, 0.0]",0800AM,time,0800AM,{},,,
+42,AWD0003z8x,diary,402,2,1917-04-05 08:00:00 UTC,5 Apr 1917,"neuville, neville","[0.0, 0.0]",0800AM,activity,fire,{},,,
+49,AWD0003z8x,diary,402,4,1917-04-06 00:00:00 UTC,6 Apr 1917,"neuville, neville","[0.0, 0.0]","",diaryDate,6 Apr 1917,"{""day""=>[""6""], ""month""=>[""Apr""], ""year""=>[""1917""]}",,,
+50,AWD0003z8x,diary,402,3,1917-04-06 00:00:00 UTC,6 Apr 1917,"neuville, neville","[0.0, 0.0]","",weather,rain,{},,,
+54,AWD0003z8x,diary,402,3,1917-04-06 00:00:00 UTC,6 Apr 1917,"neuville, neville","[0.0, 0.0]","",activity,attack,{},,,
+55,AWD0003z8x,diary,402,3,1917-04-06 00:00:00 UTC,6 Apr 1917,"neuville, neville","[0.0, 0.0]","",activity,fire,{},,,
+1,AWD0003z93,diary,403,4,1917-04-07 00:00:00 UTC,7 Apr 1917,"neuville, neville","[0.0, 0.0]","",diaryDate,7 Apr 1917,"{""day""=>[""7""], ""month""=>[""Apr""], ""year""=>[""1917""]}",,,
+2,AWD0003z93,diary,403,3,1917-04-07 00:00:00 UTC,7 Apr 1917,"neuville, neville","[0.0, 0.0]","",weather,fine,{},,,
+3,AWD0003z93,diary,403,2,1917-04-07 00:00:00 UTC,7 Apr 1917,"Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]","",place,"Neuville St. Vaast, Neuville Saint Vaast","{""place""=>[""Neuville St. Vaast"", ""Neuville Saint Vaast""], ""location""=>[""true""], ""name""=>["""", ""Neuville-Saint-Vaast""], ""lat""=>["""", ""50.35756""], ""long""=>["""", ""2.76261""], ""id""=>["""", ""2990526""]}",,,
+4,AWD0003z93,diary,403,2,1917-04-07 00:00:00 UTC,7 Apr 1917,"Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]","",activity,attack,{},,,
+14,AWD0003z93,diary,403,3,1917-04-07 00:00:00 UTC,7 Apr 1917,"Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]","",activity,fire,{},,,
+16,AWD0003z93,diary,403,2,1917-04-07 00:00:00 UTC,7 Apr 1917,"Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]","",activity,enemy_activity,{},,,
+19,AWD0003z93,diary,403,2,1917-04-07 00:00:00 UTC,7 Apr 1917,"Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]","",activity,enemy_activity,{},,,
+20,AWD0003z93,diary,403,3,1917-04-08 00:00:00 UTC,8 Apr 1917,"Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]","",diaryDate,8 Apr 1917,"{""day""=>[""8""], ""month""=>[""Apr""], ""year""=>[""1917""]}",,,
+21,AWD0003z93,diary,403,4,1917-04-08 00:00:00 UTC,8 Apr 1917,"Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]","",weather,fine,{},,,
+23,AWD0003z93,diary,403,2,1917-04-08 00:00:00 UTC,8 Apr 1917,"Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]","",activity,attack,{},,,
+29,AWD0003z93,diary,403,2,1917-04-08 11:15:00 UTC,8 Apr 1917,"Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]",1115AM,time,1115AM,{},,,
+30,AWD0003z93,diary,403,2,1917-04-08 11:15:00 UTC,8 Apr 1917,"Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]",1115AM,activity,attack,{},,,
+31,AWD0003z93,diary,403,2,1917-04-08 11:15:00 UTC,8 Apr 1917,"Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]",1115AM,activity,fire,{},,,
+33,AWD0003z93,diary,403,3,1917-04-08 11:15:00 UTC,8 Apr 1917,"Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]",1115AM,activity,enemy_activity,{},,,
+34,AWD0003z93,diary,403,2,1917-04-08 11:15:00 UTC,8 Apr 1917,"Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]",1115AM,place,Arras,"{""place""=>[""Arras""], ""location""=>[""false""], ""name""=>[""Arras""], ""lat""=>[""50.29301""], ""long""=>[""2.78186""], ""id""=>[""3036784""]}",,,
+2,AWD0003zaf,diary,404,4,1917-04-09 00:00:00 UTC,9 Apr 1917,"Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]","",diaryDate,9 Apr 1917,"{""day""=>[""9""], ""month""=>[""Apr""], ""year""=>[""1917""]}",,,
+4,AWD0003zaf,diary,404,2,1917-04-09 05:00:00 UTC,9 Apr 1917,"Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]",0500AM,time,0500AM,{},,,
+7,AWD0003zaf,diary,404,3,1917-04-09 05:00:00 UTC,9 Apr 1917,"Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]",0500AM,weather,overcast,{},,,
+13,AWD0003zaf,diary,404,2,1917-04-09 05:30:00 UTC,9 Apr 1917,"Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]",0530AM,time,0530AM,{},,,
+14,AWD0003zaf,diary,404,2,1917-04-09 05:30:00 UTC,9 Apr 1917,"Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]",0530AM,activity,fire,{},,,
+15,AWD0003zaf,diary,404,3,1917-04-09 05:30:00 UTC,9 Apr 1917,"Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]",0530AM,activity,attack,{},,,
+17,AWD0003zaf,diary,404,2,1917-04-09 05:56:00 UTC,9 Apr 1917,"Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]",0556AM,time,0556AM,{},,,
+18,AWD0003zaf,diary,404,2,1917-04-09 05:56:00 UTC,9 Apr 1917,"Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]",0556AM,person,Second Lieutenant  Charter,"{""first""=>[""""], ""surname""=>[""Charter""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""combat"", ""other""], ""unit""=>[""170th Bde Royal Field Artillery"", """"]}",,,
+22,AWD0003zaf,diary,404,2,1917-04-09 06:27:00 UTC,9 Apr 1917,"Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]",0627AM,time,0627AM,{},,,
+23,AWD0003zaf,diary,404,2,1917-04-09 06:27:00 UTC,9 Apr 1917,"Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]",0627AM,unit,"2nd Brigade, 4th Brigade","{""name""=>[""2nd Brigade"", ""4th Brigade""], ""context""=>[""other""]}",,,
+24,AWD0003zaf,diary,404,6,1917-04-09 06:27:00 UTC,9 Apr 1917,"Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]",0627AM,activity,achieved,{},,,
+27,AWD0003zaf,diary,404,3,1917-04-09 06:27:00 UTC,9 Apr 1917,"Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]",0627AM,activity,fire,{},,,
+31,AWD0003zaf,diary,404,2,1917-04-09 06:27:00 UTC,9 Apr 1917,"Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]",0627AM,casualties,prisoner: 200,{},,,
+38,AWD0003zaf,diary,404,2,1917-04-09 07:20:00 UTC,9 Apr 1917,"Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]",0720AM,time,0720AM,{},,,
+39,AWD0003zaf,diary,404,3,1917-04-09 07:20:00 UTC,9 Apr 1917,"Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]",0720AM,activity,achieved,{},,,
+1,AWD0003z89,diary,405,2,1917-04-09 00:00:00 UTC,9 Apr 1917,"Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]","",diaryDate,9 Apr 1917,"{""day""=>[""9""], ""month""=>[""Apr""], ""year""=>[""1917""]}",,,
+2,AWD0003z89,diary,405,2,1917-04-09 08:10:00 UTC,9 Apr 1917,"Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]",0810AM,time,0810AM,{},,,
+6,AWD0003z89,diary,405,2,1917-04-09 08:10:00 UTC,9 Apr 1917,"Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]",0810AM,place,Les Tilleuls,"{""place""=>[""Les Tilleuls""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+13,AWD0003z89,diary,405,3,1917-04-09 10:15:00 UTC,9 Apr 1917,"Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]",1015AM,time,1015AM,{},,,
+14,AWD0003z89,diary,405,3,1917-04-09 10:15:00 UTC,9 Apr 1917,"Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]",1015AM,activity,achieved,{},,,
+19,AWD0003z89,diary,405,2,1917-04-09 12:30:00 UTC,9 Apr 1917,"Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]",1230PM,time,1230PM,{},,,
+20,AWD0003z89,diary,405,3,1917-04-09 12:30:00 UTC,9 Apr 1917,"Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]",1230PM,activity,reconnoitered,{},,,
+22,AWD0003z89,diary,405,2,1917-04-09 12:30:00 UTC,9 Apr 1917,"Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]",1230PM,place,Bois Carre,"{""place""=>[""Bois Carre""], ""location""=>[""false""], ""name""=>[""Écurie"", """"], ""lat""=>[""50.33068"", """"], ""long""=>[""2.77091"", """"], ""id""=>[""3020381"", """"]}",,,
+23,AWD0003z89,diary,405,2,1917-04-09 13:24:00 UTC,9 Apr 1917,"Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]",0124PM,time,0124PM,{},,,
+26,AWD0003z89,diary,405,2,1917-04-09 13:24:00 UTC,9 Apr 1917,"Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]",0124PM,activity,attack,{},,,
+27,AWD0003z89,diary,405,2,1917-04-09 14:00:00 UTC,9 Apr 1917,"Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]",0200PM,time,0200PM,{},,,
+28,AWD0003z89,diary,405,2,1917-04-09 14:00:00 UTC,9 Apr 1917,"Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]",0200PM,activity,achieved,{},,,
+31,AWD0003z89,diary,405,3,1917-04-09 17:00:00 UTC,9 Apr 1917,"Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]",0500PM,time,0500PM,{},,,
+32,AWD0003z89,diary,405,3,1917-04-09 17:00:00 UTC,9 Apr 1917,"Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]",0500PM,activity,fire,{},,,
+33,AWD0003z89,diary,405,4,1917-04-09 17:00:00 UTC,9 Apr 1917,"Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]",0500PM,casualties,"killed: 1, wounded: 4",{},,,
+2,AWD0003z9r,diary,406,5,1917-04-10 00:00:00 UTC,10 Apr 1917,"Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]","",diaryDate,10 Apr 1917,"{""day""=>[""10""], ""month""=>[""Apr""], ""year""=>[""1917""]}",,,
+3,AWD0003z9r,diary,406,2,1917-04-10 00:00:00 UTC,10 Apr 1917,"Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]","",activity,quiet,{},,,
+4,AWD0003z9r,diary,406,4,1917-04-10 00:00:00 UTC,10 Apr 1917,"Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]","",activity,reconnoitered,{},,,
+5,AWD0003z9r,diary,406,3,1917-04-10 00:00:00 UTC,10 Apr 1917,Neuville Saint Vaast,"[0.0, 0.0]","",place,Neuville Saint Vaast,"{""place""=>[""Neuville Saint Vaast""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2969965,Verdrel,"[2.61647, 50.42588]"
+7,AWD0003z9r,diary,406,2,1917-04-10 00:00:00 UTC,10 Apr 1917,Neuville Saint Vaast,"[0.0, 0.0]","",activity,movement,{},2969965,Verdrel,"[2.61647, 50.42588]"
+8,AWD0003z9r,diary,406,2,1917-04-10 00:00:00 UTC,10 Apr 1917,Neuville Saint Vaast,"[0.0, 0.0]","",weather,cold,{},2969965,Verdrel,"[2.61647, 50.42588]"
+9,AWD0003z9r,diary,406,2,1917-04-10 00:00:00 UTC,10 Apr 1917,Neuville Saint Vaast,"[0.0, 0.0]","",activity,quiet,{},2969965,Verdrel,"[2.61647, 50.42588]"
+10,AWD0003z9r,diary,406,3,1917-04-10 00:00:00 UTC,10 Apr 1917,Neuville Saint Vaast,"[0.0, 0.0]","",weather,cold,{},2969965,Verdrel,"[2.61647, 50.42588]"
+11,AWD0003z9r,diary,406,2,1917-04-10 00:00:00 UTC,10 Apr 1917,Neuville Saint Vaast,"[0.0, 0.0]","",weather,rain,{},2969965,Verdrel,"[2.61647, 50.42588]"
+12,AWD0003z9r,diary,406,3,1917-04-10 00:00:00 UTC,10 Apr 1917,Neuville Saint Vaast,"[0.0, 0.0]","",person,Second Lieutenant  Turner,"{""first""=>[""""], ""surname""=>[""Turner""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2969965,Verdrel,"[2.61647, 50.42588]"
+13,AWD0003z9r,diary,406,4,1917-04-11 00:00:00 UTC,11 Apr 1917,Neuville Saint Vaast,"[0.0, 0.0]","",diaryDate,11 Apr 1917,"{""day""=>[""11""], ""month""=>[""Apr""], ""year""=>[""1917""]}",2969965,Verdrel,"[2.61647, 50.42588]"
+14,AWD0003z9r,diary,406,3,1917-04-11 00:00:00 UTC,11 Apr 1917,Neuville Saint Vaast,"[0.0, 0.0]","",activity,quiet,{},2969965,Verdrel,"[2.61647, 50.42588]"
+15,AWD0003z9r,diary,406,4,1917-04-11 00:00:00 UTC,11 Apr 1917,Neuville Saint Vaast,"[0.0, 0.0]","",weather,cold,{},2969965,Verdrel,"[2.61647, 50.42588]"
+16,AWD0003z9r,diary,406,3,1917-04-11 00:00:00 UTC,11 Apr 1917,Neuville Saint Vaast,"[0.0, 0.0]","",weather,rain,{},2969965,Verdrel,"[2.61647, 50.42588]"
+18,AWD0003z9r,diary,406,4,1917-04-12 00:00:00 UTC,12 Apr 1917,Neuville Saint Vaast,"[0.0, 0.0]","",diaryDate,12 Apr 1917,"{""day""=>[""12""], ""month""=>[""Apr""], ""year""=>[""1917""]}",2969965,Verdrel,"[2.61647, 50.42588]"
+23,AWD0003z9r,diary,406,2,1917-04-12 00:00:00 UTC,12 Apr 1917,Neuville Saint Vaast,"[0.0, 0.0]","",gridRef,A 28 c 4 6,{},2969965,Verdrel,"[2.61647, 50.42588]"
+26,AWD0003z9r,diary,406,2,1917-04-12 00:00:00 UTC,12 Apr 1917,Neuville Saint Vaast,"[0.0, 0.0]","",gridRef,A 28 b 1 9,{},2969965,Verdrel,"[2.61647, 50.42588]"
+36,AWD0003z9r,diary,406,4,1917-04-12 00:00:00 UTC,12 Apr 1917,Neuville Saint Vaast,"[0.0, 0.0]","",person,Lieutenant F E Harrison,"{""first""=>[""F E""], ""surname""=>[""Harrison""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2969965,Verdrel,"[2.61647, 50.42588]"
+37,AWD0003z9r,diary,406,4,1917-04-12 00:00:00 UTC,12 Apr 1917,Neuville Saint Vaast,"[0.0, 0.0]","",person,Lieutenant C C Reay,"{""first""=>[""C C""], ""surname""=>[""Reay""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2969965,Verdrel,"[2.61647, 50.42588]"
+38,AWD0003z9r,diary,406,4,1917-04-13 00:00:00 UTC,13 Apr 1917,Neuville Saint Vaast,"[0.0, 0.0]","",diaryDate,13 Apr 1917,"{""day""=>[""13""], ""month""=>[""Apr""], ""year""=>[""1917""]}",2969965,Verdrel,"[2.61647, 50.42588]"
+41,AWD0003z9r,diary,406,4,1917-04-13 00:00:00 UTC,13 Apr 1917,Neuville Saint Vaast,"[0.0, 0.0]","",activity,attack,{},2969965,Verdrel,"[2.61647, 50.42588]"
+45,AWD0003z9r,diary,406,2,1917-04-13 00:00:00 UTC,13 Apr 1917,Neuville Saint Vaast,"[0.0, 0.0]","",weather,fine,{},2969965,Verdrel,"[2.61647, 50.42588]"
+2,AWD0003z92,diary,407,4,1917-04-13 00:00:00 UTC,13 Apr 1917,Neuville Saint Vaast,"[0.0, 0.0]","",diaryDate,13 Apr 1917,"{""day""=>[""13""], ""month""=>[""Apr""], ""year""=>[""1917""]}",2969965,Verdrel,"[2.61647, 50.42588]"
+3,AWD0003z92,diary,407,2,1917-04-13 00:00:00 UTC,13 Apr 1917,Neuville Saint Vaast,"[0.0, 0.0]","",gridRef,A 26 d 6 5,{},2969965,Verdrel,"[2.61647, 50.42588]"
+4,AWD0003z92,diary,407,3,1917-04-13 00:00:00 UTC,13 Apr 1917,Neuville Saint Vaast,"[0.0, 0.0]","",activity,movement,{},2969965,Verdrel,"[2.61647, 50.42588]"
+5,AWD0003z92,diary,407,2,1917-04-13 00:00:00 UTC,13 Apr 1917,Neuville Saint Vaast,"[0.0, 0.0]","",domestic,accomodation,{},2969965,Verdrel,"[2.61647, 50.42588]"
+6,AWD0003z92,diary,407,3,1917-04-13 00:00:00 UTC,13 Apr 1917,"Neuville saint Vaast, Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]","",place,"Neuville saint Vaast, Neuville St. Vaast, Neuville Saint Vaast","{""place""=>[""Neuville saint Vaast"", ""Neuville St. Vaast"", ""Neuville Saint Vaast""], ""location""=>[""true""], ""name""=>[""Neuville-Saint-Vaast""], ""lat""=>[""50.35756""], ""long""=>[""2.76261""], ""id""=>[""2990526""]}",,,
+7,AWD0003z92,diary,407,5,1917-04-13 00:00:00 UTC,13 Apr 1917,"Neuville saint Vaast, Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]","",weather,fine,{},,,
+11,AWD0003z92,diary,407,5,1917-04-14 00:00:00 UTC,14 Apr 1917,"Neuville saint Vaast, Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]","",diaryDate,14 Apr 1917,"{""day""=>[""14""], ""month""=>[""Apr""], ""year""=>[""1917""]}",,,
+12,AWD0003z92,diary,407,3,1917-04-14 00:00:00 UTC,14 Apr 1917,"Neuville saint Vaast, Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]","",person,Colonel C B Simonds,"{""first""=>[""C B""], ""surname""=>[""Simonds""], ""rank""=>[""Colonel""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+14,AWD0003z92,diary,407,2,1917-04-14 00:00:00 UTC,14 Apr 1917,"Neuville saint Vaast, Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]","",activity,reconnoitered,{},,,
+18,AWD0003z92,diary,407,2,1917-04-14 00:00:00 UTC,14 Apr 1917,"Neuville saint Vaast, Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]","",gridRef,B 12 a,{},,,
+23,AWD0003z92,diary,407,2,1917-04-14 00:00:00 UTC,14 Apr 1917,"Neuville saint Vaast, Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]","",gridRef,B 15 c 9 9,{},,,
+25,AWD0003z92,diary,407,3,1917-04-14 00:00:00 UTC,14 Apr 1917,"Neuville saint Vaast, Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]","",activity,working,{},,,
+26,AWD0003z92,diary,407,2,1917-04-14 00:00:00 UTC,14 Apr 1917,"Neuville saint Vaast, Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]","",activity,repair,{},,,
+27,AWD0003z92,diary,407,4,1917-04-14 00:00:00 UTC,14 Apr 1917,"Neuville saint Vaast, Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]","",person,Major R S Massy,"{""first""=>[""R S""], ""surname""=>[""Massy""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+28,AWD0003z92,diary,407,3,1917-04-14 00:00:00 UTC,14 Apr 1917,"Neuville saint Vaast, Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]","",activity,resupplying,{},,,
+29,AWD0003z92,diary,407,5,1917-04-14 00:00:00 UTC,14 Apr 1917,"Neuville saint Vaast, Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]","",weather,fine,{},,,
+30,AWD0003z92,diary,407,5,1917-04-15 00:00:00 UTC,15 Apr 1917,"Neuville saint Vaast, Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]","",diaryDate,15 Apr 1917,"{""day""=>[""15""], ""month""=>[""Apr""], ""year""=>[""1917""]}",,,
+33,AWD0003z92,diary,407,2,1917-04-15 00:00:00 UTC,15 Apr 1917,"Neuville saint Vaast, Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]","",gridRef,B 28 b 1 9,{},,,
+34,AWD0003z92,diary,407,2,1917-04-15 00:00:00 UTC,15 Apr 1917,"Neuville saint Vaast, Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]","",gridRef,B 14 a 10 95,{},,,
+35,AWD0003z92,diary,407,3,1917-04-15 00:00:00 UTC,15 Apr 1917,"Neuville saint Vaast, Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]","",activity,working,{},,,
+36,AWD0003z92,diary,407,2,1917-04-15 00:00:00 UTC,15 Apr 1917,"Neuville saint Vaast, Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]","",activity,repair,{},,,
+3,AWD0003zan,diary,408,4,1917-04-15 00:00:00 UTC,15 Apr 1917,"Neuville saint Vaast, Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]","",person,Lieutenant F E Harrison,"{""first""=>[""F E""], ""surname""=>[""Harrison""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+4,AWD0003zan,diary,408,5,1917-04-15 00:00:00 UTC,15 Apr 1917,"Neuville saint Vaast, Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]","",activity,reconnoitered,{},,,
+5,AWD0003zan,diary,408,4,1917-04-16 00:00:00 UTC,16 Apr 1917,"Neuville saint Vaast, Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]","",diaryDate,16 Apr 1917,"{""day""=>[""16""], ""month""=>[""Apr""], ""year""=>[""1917""]}",,,
+6,AWD0003zan,diary,408,3,1917-04-16 00:00:00 UTC,16 Apr 1917,"Neuville saint Vaast, Neuville St. Vaast, Neuville Saint Vaast","[2.76261, 50.35756]","",activity,movement,{},,,
+7,AWD0003zan,diary,408,5,1917-04-16 00:00:00 UTC,16 Apr 1917,Ecurie,"[2.77091, 50.33068]","",place,Ecurie,"{""place""=>[""Ecurie""], ""location""=>[""true""], ""name""=>["""", ""Écurie""], ""lat""=>["""", ""50.33068""], ""long""=>["""", ""2.77091""], ""id""=>["""", ""3020381""]}",3020381,Écurie,"[2.77091, 50.33068]"
+8,AWD0003zan,diary,408,2,1917-04-16 00:00:00 UTC,16 Apr 1917,Ecurie,"[2.77091, 50.33068]","",activity,movement,{},3020381,Écurie,"[2.77091, 50.33068]"
+9,AWD0003zan,diary,408,2,1917-04-16 00:00:00 UTC,16 Apr 1917,Ecurie,"[2.77091, 50.33068]","",gridRef,B 13 B 7 2,{},3020381,Écurie,"[2.77091, 50.33068]"
+10,AWD0003zan,diary,408,2,1917-04-16 00:00:00 UTC,16 Apr 1917,Ecurie,"[2.77091, 50.33068]","",gridRef,B 13 B 5 7,{},3020381,Écurie,"[2.77091, 50.33068]"
+11,AWD0003zan,diary,408,2,1917-04-16 00:00:00 UTC,16 Apr 1917,Ecurie,"[2.77091, 50.33068]","",gridRef,B 13 B 6 5,{},3020381,Écurie,"[2.77091, 50.33068]"
+12,AWD0003zan,diary,408,2,1917-04-16 00:00:00 UTC,16 Apr 1917,Ecurie,"[2.77091, 50.33068]","",gridRef,B 13 a 7 2,{},3020381,Écurie,"[2.77091, 50.33068]"
+13,AWD0003zan,diary,408,2,1917-04-16 00:00:00 UTC,16 Apr 1917,Ecurie,"[2.77091, 50.33068]","",gridRef,B 13 c,{},3020381,Écurie,"[2.77091, 50.33068]"
+17,AWD0003zan,diary,408,2,1917-04-16 00:00:00 UTC,16 Apr 1917,Ecurie,"[2.77091, 50.33068]","",gridRef,A 28 B 1 9,{},3020381,Écurie,"[2.77091, 50.33068]"
+21,AWD0003zan,diary,408,4,1917-04-16 00:00:00 UTC,16 Apr 1917,Ecurie,"[2.77091, 50.33068]","",person,Major A V L Wood,"{""first""=>[""A V L""], ""surname""=>[""Wood""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""5th Lancers""]}",3020381,Écurie,"[2.77091, 50.33068]"
+22,AWD0003zan,diary,408,2,1917-04-16 00:00:00 UTC,16 Apr 1917,Willerval,"[2.8445, 50.35661]","",place,Willerval,"{""place""=>[""Willerval""], ""location""=>[""true""], ""name""=>[""Willerval""], ""lat""=>[""50.35661""], ""long""=>[""2.8445""], ""id""=>[""2967358""]}",2967358,Willerval,"[2.8445, 50.35661]"
+23,AWD0003zan,diary,408,3,1917-04-16 00:00:00 UTC,16 Apr 1917,Willerval,"[2.8445, 50.35661]","",weather,rain,{},2967358,Willerval,"[2.8445, 50.35661]"
+24,AWD0003zan,diary,408,2,1917-04-16 00:00:00 UTC,16 Apr 1917,Willerval,"[2.8445, 50.35661]","",weather,cold,{},2967358,Willerval,"[2.8445, 50.35661]"
+26,AWD0003zan,diary,408,5,1917-04-17 00:00:00 UTC,17 Apr 1917,Willerval,"[2.8445, 50.35661]","",diaryDate,17 Apr 1917,"{""day""=>[""17""], ""month""=>[""Apr""], ""year""=>[""1917""]}",2967358,Willerval,"[2.8445, 50.35661]"
+27,AWD0003zan,diary,408,2,1917-04-17 00:00:00 UTC,17 Apr 1917,Willerval,"[2.8445, 50.35661]","",activity,fire,{},2967358,Willerval,"[2.8445, 50.35661]"
+28,AWD0003zan,diary,408,3,1917-04-17 00:00:00 UTC,17 Apr 1917,Willerval,"[2.8445, 50.35661]","",activity,attack,{},2967358,Willerval,"[2.8445, 50.35661]"
+30,AWD0003zan,diary,408,3,1917-04-17 00:00:00 UTC,17 Apr 1917,Willerval,"[2.8445, 50.35661]","",weather,fine,{},2967358,Willerval,"[2.8445, 50.35661]"
+32,AWD0003zan,diary,408,5,1917-04-18 00:00:00 UTC,18 Apr 1917,Willerval,"[2.8445, 50.35661]","",diaryDate,18 Apr 1917,"{""day""=>[""18""], ""month""=>[""Apr""], ""year""=>[""1917""]}",2967358,Willerval,"[2.8445, 50.35661]"
+33,AWD0003zan,diary,408,2,1917-04-18 00:00:00 UTC,18 Apr 1917,Willerval,"[2.8445, 50.35661]","",activity,movement,{},2967358,Willerval,"[2.8445, 50.35661]"
+35,AWD0003zan,diary,408,3,1917-04-18 00:00:00 UTC,18 Apr 1917,Willerval,"[2.8445, 50.35661]","",domestic,accomodation,{},2967358,Willerval,"[2.8445, 50.35661]"
+41,AWD0003zan,diary,408,2,1917-04-18 00:00:00 UTC,18 Apr 1917,Willerval,"[2.8445, 50.35661]","",activity,other,{},2967358,Willerval,"[2.8445, 50.35661]"
+42,AWD0003zan,diary,408,2,1917-04-18 00:00:00 UTC,18 Apr 1917,Willerval,"[2.8445, 50.35661]","",activity,fire,{},2967358,Willerval,"[2.8445, 50.35661]"
+44,AWD0003zan,diary,408,3,1917-04-18 00:00:00 UTC,18 Apr 1917,Willerval,"[2.8445, 50.35661]","",weather,rain,{},2967358,Willerval,"[2.8445, 50.35661]"
+1,AWD0003z7j,diary,409,5,1917-04-19 00:00:00 UTC,19 Apr 1917,Willerval,"[2.8445, 50.35661]","",diaryDate,19 Apr 1917,"{""day""=>[""19""], ""month""=>[""Apr""], ""year""=>[""1917""]}",2967358,Willerval,"[2.8445, 50.35661]"
+2,AWD0003z7j,diary,409,3,1917-04-19 00:00:00 UTC,19 Apr 1917,Bailleul,"[0.0, 0.0]","",place,Bailleul,"{""place""=>[""Bailleul""], ""location""=>[""true""], ""name""=>["""", ""Bailleul"", ""Bailleul-Neuville""], ""lat""=>["""", ""50.73592"", ""49.80734""], ""long""=>["""", ""2.73594"", ""1.42315""], ""id""=>["""", ""3035359"", ""3035353""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+3,AWD0003z7j,diary,409,3,1917-04-19 00:00:00 UTC,19 Apr 1917,Bailleul,"[0.0, 0.0]","",gridRef,B 15 c 9 9,{},2794579,Kemmel,"[2.82714, 50.78333]"
+4,AWD0003z7j,diary,409,2,1917-04-19 00:00:00 UTC,19 Apr 1917,Bailleul,"[0.0, 0.0]","",activity,attack,{},2794579,Kemmel,"[2.82714, 50.78333]"
+7,AWD0003z7j,diary,409,2,1917-04-19 00:00:00 UTC,19 Apr 1917,Bailleul,"[0.0, 0.0]","",activity,fire,{},2794579,Kemmel,"[2.82714, 50.78333]"
+9,AWD0003z7j,diary,409,2,1917-04-19 00:00:00 UTC,19 Apr 1917,Bailleul,"[0.0, 0.0]","",weather,fine,{},2794579,Kemmel,"[2.82714, 50.78333]"
+12,AWD0003z7j,diary,409,5,1917-04-20 00:00:00 UTC,20 Apr 1917,Bailleul,"[0.0, 0.0]","",diaryDate,20 Apr 1917,"{""day""=>[""20""], ""month""=>[""Apr""], ""year""=>[""1917""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+15,AWD0003z7j,diary,409,3,1917-04-20 00:00:00 UTC,20 Apr 1917,Bailleul,"[0.0, 0.0]","",person,Major A V L Wood,"{""first""=>[""A V L""], ""surname""=>[""Wood""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""departed_posted""], ""unit""=>[""311st A F A bde"", ""31st AFA Bde"", ""31st A Y A Bde""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+17,AWD0003z7j,diary,409,4,1917-04-20 00:00:00 UTC,20 Apr 1917,Bailleul,"[0.0, 0.0]","",person,Lieutenant F E Harrison,"{""first""=>[""F E""], ""surname""=>[""Harrison""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""170th Bde Royal Field Artillery"", ""Bde H Qs Wagon"", """", ""Bde HQ Wagon Line""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+18,AWD0003z7j,diary,409,3,1917-04-20 00:00:00 UTC,20 Apr 1917,Bailleul,"[0.0, 0.0]","",domestic,medical,{},2794579,Kemmel,"[2.82714, 50.78333]"
+21,AWD0003z7j,diary,409,3,1917-04-20 00:00:00 UTC,20 Apr 1917,Bailleul,"[0.0, 0.0]","",person, P de Ronseray,"{""first""=>[""P""], ""surname""=>[""de Ronseray""], ""rank""=>[""""], ""number""=>[""""], ""reason""=>[""departed_leave""], ""unit""=>[""""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+22,AWD0003z7j,diary,409,4,1917-04-20 00:00:00 UTC,20 Apr 1917,Bailleul,"[0.0, 0.0]","",activity,attack,{},2794579,Kemmel,"[2.82714, 50.78333]"
+23,AWD0003z7j,diary,409,5,1917-04-21 00:00:00 UTC,21 Apr 1917,Bailleul,"[0.0, 0.0]","",diaryDate,21 Apr 1917,"{""day""=>[""21""], ""month""=>[""Apr""], ""year""=>[""1917""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+26,AWD0003z7j,diary,409,5,1917-04-21 00:00:00 UTC,21 Apr 1917,Bailleul,"[0.0, 0.0]","",activity,attack,{},2794579,Kemmel,"[2.82714, 50.78333]"
+30,AWD0003z7j,diary,409,2,1917-04-21 00:00:00 UTC,21 Apr 1917,Bailleul,"[0.0, 0.0]","",activity,fire,{},2794579,Kemmel,"[2.82714, 50.78333]"
+31,AWD0003z7j,diary,409,3,1917-04-21 00:00:00 UTC,21 Apr 1917,Bailleul,"[0.0, 0.0]","",activity,repair,{},2794579,Kemmel,"[2.82714, 50.78333]"
+32,AWD0003z7j,diary,409,2,1917-04-21 00:00:00 UTC,21 Apr 1917,Bailleul,"[0.0, 0.0]","",gridRef,B 15 c 2 9,{},2794579,Kemmel,"[2.82714, 50.78333]"
+39,AWD0003z7j,diary,409,2,1917-04-21 00:00:00 UTC,21 Apr 1917,Bailleul,"[0.0, 0.0]","",activity,enemy_activity,{},2794579,Kemmel,"[2.82714, 50.78333]"
+42,AWD0003z7j,diary,409,3,1917-04-21 00:00:00 UTC,21 Apr 1917,Bailleul,"[0.0, 0.0]","",weather,fine,{},2794579,Kemmel,"[2.82714, 50.78333]"
+1,AWD0003z79,diary,410,4,1917-04-22 00:00:00 UTC,22 Apr 1917,Bailleul,"[0.0, 0.0]","",diaryDate,22 Apr 1917,"{""day""=>[""22""], ""month""=>[""Apr""], ""year""=>[""1917""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+2,AWD0003z79,diary,410,4,1917-04-22 00:00:00 UTC,22 Apr 1917,Bailleul,"[0.0, 0.0]","",activity,attack,{},2794579,Kemmel,"[2.82714, 50.78333]"
+4,AWD0003z79,diary,410,3,1917-04-22 00:00:00 UTC,22 Apr 1917,Bailleul,"[2.73594, 50.73592]","",place,Bailleul,"{""place""=>[""Bailleul""], ""location""=>[""true""], ""name""=>[""Bailleul""], ""lat""=>[""50.73592""], ""long""=>[""2.73594""], ""id""=>[""3035359""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+8,AWD0003z79,diary,410,3,1917-04-22 00:00:00 UTC,22 Apr 1917,Bailleul,"[2.73594, 50.73592]","",activity,fire,{},2794579,Kemmel,"[2.82714, 50.78333]"
+9,AWD0003z79,diary,410,4,1917-04-22 00:00:00 UTC,22 Apr 1917,Bailleul,"[2.73594, 50.73592]","",weather,fine,{},2794579,Kemmel,"[2.82714, 50.78333]"
+10,AWD0003z79,diary,410,3,1917-04-23 00:00:00 UTC,23 Apr 1917,Bailleul,"[2.73594, 50.73592]","",diaryDate,23 Apr 1917,"{""day""=>[""23""], ""month""=>[""Apr""], ""year""=>[""1917""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+15,AWD0003z79,diary,410,2,1917-04-23 00:00:00 UTC,23 Apr 1917,Bailleul,"[2.73594, 50.73592]","",unit,63rd Division,"{""name""=>[""63rd Division""], ""context""=>[""right""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+16,AWD0003z79,diary,410,2,1917-04-23 00:00:00 UTC,23 Apr 1917,Bailleul,"[2.73594, 50.73592]","",place,Gavrelle,"{""place""=>[""Gavrelle""], ""location""=>[""false""], ""name""=>[""Gavrelle""], ""lat""=>[""50.32955""], ""long""=>[""2.88735""], ""id""=>[""3016472""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+17,AWD0003z79,diary,410,6,1917-04-23 00:00:00 UTC,23 Apr 1917,Bailleul,"[2.73594, 50.73592]","",activity,attack,{},2794579,Kemmel,"[2.82714, 50.78333]"
+18,AWD0003z79,diary,410,3,1917-04-23 00:00:00 UTC,23 Apr 1917,Bailleul,"[2.73594, 50.73592]","",weather,fine,{},2794579,Kemmel,"[2.82714, 50.78333]"
+19,AWD0003z79,diary,410,3,1917-04-24 00:00:00 UTC,24 Apr 1917,Bailleul,"[2.73594, 50.73592]","",diaryDate,24 Apr 1917,"{""day""=>[""24""], ""month""=>[""Apr""], ""year""=>[""1917""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+22,AWD0003z79,diary,410,2,1917-04-24 04:35:00 UTC,24 Apr 1917,Bailleul,"[2.73594, 50.73592]",0435AM,time,0435AM,{},2794579,Kemmel,"[2.82714, 50.78333]"
+24,AWD0003z79,diary,410,5,1917-04-24 04:35:00 UTC,24 Apr 1917,Bailleul,"[2.73594, 50.73592]",0435AM,activity,fire,{},2794579,Kemmel,"[2.82714, 50.78333]"
+25,AWD0003z79,diary,410,3,1917-04-24 04:35:00 UTC,24 Apr 1917,Bailleul,"[2.73594, 50.73592]",0435AM,place,Gavrelle,"{""place""=>[""Gavrelle""], ""location""=>[""false""], ""name""=>[""Gavrelle""], ""lat""=>[""50.32955""], ""long""=>[""2.88735""], ""id""=>[""3016472""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+27,AWD0003z79,diary,410,2,1917-04-24 04:35:00 UTC,24 Apr 1917,Bailleul,"[2.73594, 50.73592]",0435AM,activity,attack,{},2794579,Kemmel,"[2.82714, 50.78333]"
+28,AWD0003z79,diary,410,3,1917-04-24 04:35:00 UTC,24 Apr 1917,Bailleul,"[2.73594, 50.73592]",0435AM,person,Second Lieutenant C B Rawlins,"{""first""=>[""C B""], ""surname""=>[""Rawlins""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_posted""], ""unit""=>[""A170""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+29,AWD0003z79,diary,410,3,1917-04-24 04:35:00 UTC,24 Apr 1917,Bailleul,"[2.73594, 50.73592]",0435AM,person,Major  Ryan,"{""first""=>[""""], ""surname""=>[""Ryan""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""170th Bde Royal Field Artillery"", """", ""Section of A B and C""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+30,AWD0003z79,diary,410,3,1917-04-24 04:35:00 UTC,24 Apr 1917,Bailleul,"[2.73594, 50.73592]",0435AM,gridRef,B 9 b 3 5,{},2794579,Kemmel,"[2.82714, 50.78333]"
+31,AWD0003z79,diary,410,3,1917-04-24 04:35:00 UTC,24 Apr 1917,Bailleul,"[2.73594, 50.73592]",0435AM,weather,fine,{},2794579,Kemmel,"[2.82714, 50.78333]"
+33,AWD0003z79,diary,410,3,1917-04-25 00:00:00 UTC,25 Apr 1917,Bailleul,"[2.73594, 50.73592]","",diaryDate,25 Apr 1917,"{""day""=>[""25""], ""month""=>[""Apr""], ""year""=>[""1917""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+37,AWD0003z79,diary,410,3,1917-04-25 00:00:00 UTC,25 Apr 1917,Bailleul,"[2.73594, 50.73592]","",activity,attack,{},2794579,Kemmel,"[2.82714, 50.78333]"
+38,AWD0003z79,diary,410,2,1917-04-25 00:00:00 UTC,25 Apr 1917,Bailleul,"[2.73594, 50.73592]","",place,Willerval,"{""place""=>[""Willerval""], ""location""=>[""false""], ""name""=>[""Willerval""], ""lat""=>[""50.35661""], ""long""=>[""2.8445""], ""id""=>[""2967358""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+40,AWD0003z79,diary,410,3,1917-04-25 00:00:00 UTC,25 Apr 1917,Bailleul,"[2.73594, 50.73592]","",weather,fine,{},2794579,Kemmel,"[2.82714, 50.78333]"
+43,AWD0003z79,diary,410,2,1917-04-26 00:00:00 UTC,26 Apr 1917,Bailleul,"[2.73594, 50.73592]","",diaryDate,26 Apr 1917,"{""day""=>[""26""], ""month""=>[""Apr""], ""year""=>[""1917""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+44,AWD0003z79,diary,410,4,1917-04-26 00:00:00 UTC,26 Apr 1917,Bailleul,"[2.73594, 50.73592]","",activity,attack,{},2794579,Kemmel,"[2.82714, 50.78333]"
+49,AWD0003z79,diary,410,2,1917-04-26 00:00:00 UTC,26 Apr 1917,Bailleul,"[2.73594, 50.73592]","",weather,fine,{},2794579,Kemmel,"[2.82714, 50.78333]"
+51,AWD0003z79,diary,410,2,1917-04-26 00:00:00 UTC,26 Apr 1917,Bailleul,"[2.73594, 50.73592]","",activity,attack,{},2794579,Kemmel,"[2.82714, 50.78333]"
+53,AWD0003z79,diary,410,2,1917-04-26 00:00:00 UTC,26 Apr 1917,Bailleul,"[2.73594, 50.73592]","",mapRef,sheet: 51B NW,{},2794579,Kemmel,"[2.82714, 50.78333]"
+1,AWD0003z8e,diary,411,3,1917-04-27 00:00:00 UTC,27 Apr 1917,Bailleul,"[2.73594, 50.73592]","",diaryDate,27 Apr 1917,"{""day""=>[""27""], ""month""=>[""Apr""], ""year""=>[""1917""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+2,AWD0003z8e,diary,411,3,1917-04-27 00:00:00 UTC,27 Apr 1917,Bailleul,"[2.73594, 50.73592]","",activity,attack,{},2794579,Kemmel,"[2.82714, 50.78333]"
+4,AWD0003z8e,diary,411,2,1917-04-27 00:00:00 UTC,27 Apr 1917,"Bailleul, bailleul","[2.73594, 50.73592]","",place,"Bailleul, bailleul","{""place""=>[""Bailleul"", ""bailleul""], ""location""=>[""true""], ""name""=>[""Bailleul""], ""lat""=>[""50.73592""], ""long""=>[""2.73594""], ""id""=>[""3035359""]}",3035359,Bailleul,"[2.73594, 50.73592]"
+5,AWD0003z8e,diary,411,2,1917-04-27 00:00:00 UTC,27 Apr 1917,"Bailleul, bailleul","[2.73594, 50.73592]","",gridRef,C 7 a,{},3035359,Bailleul,"[2.73594, 50.73592]"
+10,AWD0003z8e,diary,411,3,1917-04-27 00:00:00 UTC,27 Apr 1917,"Bailleul, bailleul","[2.73594, 50.73592]","",weather,fine,{},3035359,Bailleul,"[2.73594, 50.73592]"
+11,AWD0003z8e,diary,411,2,1917-04-28 00:00:00 UTC,28 Apr 1917,"Bailleul, bailleul","[2.73594, 50.73592]","",diaryDate,28 Apr 1917,"{""day""=>[""28""], ""month""=>[""Apr""], ""year""=>[""1917""]}",3035359,Bailleul,"[2.73594, 50.73592]"
+12,AWD0003z8e,diary,411,2,1917-04-28 00:00:00 UTC,28 Apr 1917,Bailleul,"[2.73594, 50.73592]","",place,Bailleul,"{""place""=>[""Bailleul""], ""location""=>[""true""], ""name""=>[""Bailleul""], ""lat""=>[""50.73592""], ""long""=>[""2.73594""], ""id""=>[""3035359""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+13,AWD0003z8e,diary,411,2,1917-04-28 00:00:00 UTC,28 Apr 1917,Bailleul,"[2.73594, 50.73592]","",activity,attack,{},2794579,Kemmel,"[2.82714, 50.78333]"
+15,AWD0003z8e,diary,411,2,1917-04-28 00:00:00 UTC,28 Apr 1917,Bailleul,"[2.73594, 50.73592]","",place,Oppy,"{""place""=>[""Oppy""], ""location""=>[""false""], ""name""=>["""", ""Oppy""], ""lat""=>["""", ""50.34762""], ""long""=>["""", ""2.89119""], ""id""=>["""", ""2989479""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+17,AWD0003z8e,diary,411,2,1917-04-28 04:25:00 UTC,28 Apr 1917,Bailleul,"[2.73594, 50.73592]",0425AM,time,0425AM,{},2794579,Kemmel,"[2.82714, 50.78333]"
+18,AWD0003z8e,diary,411,2,1917-04-28 04:25:00 UTC,28 Apr 1917,Bailleul,"[2.73594, 50.73592]",0425AM,unit,"2nd Division, 63rd Division","{""name""=>[""2nd Division"", ""63rd Division""], ""context""=>[""other"", ""right""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+26,AWD0003z8e,diary,411,2,1917-04-28 04:25:00 UTC,28 Apr 1917,Bailleul,"[2.73594, 50.73592]",0425AM,activity,enemy_activity,{},2794579,Kemmel,"[2.82714, 50.78333]"
+27,AWD0003z8e,diary,411,2,1917-04-28 04:25:00 UTC,28 Apr 1917,Bailleul,"[2.73594, 50.73592]",0425AM,gridRef,B 23 c,{},2794579,Kemmel,"[2.82714, 50.78333]"
+29,AWD0003z8e,diary,411,2,1917-04-28 04:25:00 UTC,28 Apr 1917,Bailleul,"[2.73594, 50.73592]",0425AM,gridRef,B 23 d,{},2794579,Kemmel,"[2.82714, 50.78333]"
+30,AWD0003z8e,diary,411,3,1917-04-28 04:25:00 UTC,28 Apr 1917,Bailleul,"[2.73594, 50.73592]",0425AM,weather,fine,{},2794579,Kemmel,"[2.82714, 50.78333]"
+31,AWD0003z8e,diary,411,3,1917-04-29 00:00:00 UTC,29 Apr 1917,Bailleul,"[2.73594, 50.73592]","",diaryDate,29 Apr 1917,"{""day""=>[""29""], ""month""=>[""Apr""], ""year""=>[""1917""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+32,AWD0003z8e,diary,411,2,1917-04-29 00:00:00 UTC,29 Apr 1917,Bailleul,"[2.73594, 50.73592]","",gridRef,B 18 d 3 0,{},2794579,Kemmel,"[2.82714, 50.78333]"
+33,AWD0003z8e,diary,411,2,1917-04-29 00:00:00 UTC,29 Apr 1917,Bailleul,"[2.73594, 50.73592]","",gridRef,B 18 d 5 9,{},2794579,Kemmel,"[2.82714, 50.78333]"
+41,AWD0003z8e,diary,411,2,1917-04-29 00:00:00 UTC,29 Apr 1917,Bailleul,"[2.73594, 50.73592]","",gridRef,B 12 d 7 6,{},2794579,Kemmel,"[2.82714, 50.78333]"
+47,AWD0003z8e,diary,411,2,1917-04-29 00:00:00 UTC,29 Apr 1917,Bailleul,"[2.73594, 50.73592]","",gridRef,C 7 a 0 9,{},2794579,Kemmel,"[2.82714, 50.78333]"
+48,AWD0003z8e,diary,411,3,1917-04-29 00:00:00 UTC,29 Apr 1917,Bailleul,"[2.73594, 50.73592]","",activity,attack,{},2794579,Kemmel,"[2.82714, 50.78333]"
+49,AWD0003z8e,diary,411,3,1917-04-29 00:00:00 UTC,29 Apr 1917,Bailleul,"[2.73594, 50.73592]","",weather,fine,{},2794579,Kemmel,"[2.82714, 50.78333]"
+50,AWD0003z8e,diary,411,3,1917-04-30 00:00:00 UTC,30 Apr 1917,Bailleul,"[2.73594, 50.73592]","",diaryDate,30 Apr 1917,"{""day""=>[""30""], ""month""=>[""Apr""], ""year""=>[""1917""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+56,AWD0003z8e,diary,411,2,1917-04-30 00:00:00 UTC,30 Apr 1917,Bailleul,"[2.73594, 50.73592]","",gridRef,C 7 a 8 3,{},2794579,Kemmel,"[2.82714, 50.78333]"
+57,AWD0003z8e,diary,411,2,1917-04-30 00:00:00 UTC,30 Apr 1917,Bailleul,"[2.73594, 50.73592]","",gridRef,B 12 d 7 6,{},2794579,Kemmel,"[2.82714, 50.78333]"
+58,AWD0003z8e,diary,411,2,1917-04-30 00:00:00 UTC,30 Apr 1917,Bailleul,"[2.73594, 50.73592]","",gridRef,B 12 c 9 4,{},2794579,Kemmel,"[2.82714, 50.78333]"
+59,AWD0003z8e,diary,411,3,1917-04-30 00:00:00 UTC,30 Apr 1917,Bailleul,"[2.73594, 50.73592]","",weather,fine,{},2794579,Kemmel,"[2.82714, 50.78333]"
+61,AWD0003z8e,diary,411,2,1917-04-30 00:00:00 UTC,30 Apr 1917,Bailleul,"[2.73594, 50.73592]","",person,"Major H R L,H R S Massy","{""first""=>[""H R L"", ""H R S""], ""surname""=>[""Massy""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""author"", ""commander""], ""unit""=>["""", ""170th Bde Royal Field Artillery""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+1,AWD0003z87,report,412,2,,,,[],,title,Casualties 170 Brigade RFA - April 1917,{},,,
+5,AWD0003z87,report,412,3,,,,[],,person,Sergeant G Yarnold,"{""first""=>[""G""], ""surname""=>[""Yarnold""], ""rank""=>[""Sergeant""], ""number""=>[""L17816""], ""reason""=>[""casualty_wounded""], ""unit""=>[""B Coy, 170th Bde Royal Field Artillery"", ""B/170 Brigade Royal Field Artillery"", ""B170""]}",,,
+6,AWD0003z87,report,412,3,,,,[],,person,Bombardier G Liversedge,"{""first""=>[""G""], ""surname""=>[""Liversedge""], ""rank""=>[""Bombardier""], ""number""=>[""L18365""], ""reason""=>[""casualty_wounded""], ""unit""=>[""B170"", ""B/170 Brigade Royal Field Artillery"", ""B Coy, 170th Bde Royal Field Artillery""]}",,,
+7,AWD0003z87,report,412,3,,,,[],,person,Gunner N Beardsall,"{""first""=>[""N""], ""surname""=>[""Beardsall""], ""rank""=>[""Gunner""], ""number""=>[""127347""], ""reason""=>[""casualty_wounded""], ""unit""=>[""B170"", ""B/170 Brigade Royal Field Artillery"", ""B Coy, 170th Bde Royal Field Artillery""]}",,,
+9,AWD0003z87,report,412,2,,,,[],,person,other R Sedgwick,"{""first""=>[""R""], ""surname""=>[""Sedgwick""], ""rank""=>[""other""], ""number""=>[""17784""], ""reason""=>[""casualty_wounded""], ""unit""=>[""(Fitter) B/ 170 Brigade Royal Field Artillery"", ""B Coy, 170th Bde Royal Field Artillery""]}",,,
+10,AWD0003z87,report,412,3,,,,[],,person,Gunner E Greenedge,"{""first""=>[""E""], ""surname""=>[""Greenedge""], ""rank""=>[""Gunner""], ""number""=>[""92799""], ""reason""=>[""casualty_wounded""], ""unit""=>[""B170"", ""B/170 Brigade Royal Field Artillery"", ""B Coy, 170th Bde Royal Field Artillery""]}",,,
+11,AWD0003z87,report,412,3,,,,[],,person,Gunner J W Quigley,"{""first""=>[""J W""], ""surname""=>[""Quigley""], ""rank""=>[""Gunner""], ""number""=>[""13575""], ""reason""=>[""casualty_wounded""], ""unit""=>[""B170"", ""B/170 Brigade Royal Field Artillery"", ""B Coy, 170th Bde Royal Field Artillery""]}",,,
+12,AWD0003z87,report,412,3,,,,[],,person,Gunner S Brown,"{""first""=>[""S""], ""surname""=>[""Brown""], ""rank""=>[""Gunner""], ""number""=>[""L18591""], ""reason""=>[""casualty_wounded""], ""unit""=>[""C170"", ""C/170 Brigade Royal Field Artillery"", ""C Coy, 170th Bde Royal Field Artillery""]}",,,
+13,AWD0003z87,report,412,3,,,,[],,person,Bombardier J Eyers,"{""first""=>[""J""], ""surname""=>[""Eyers""], ""rank""=>[""Bombardier""], ""number""=>[""18089""], ""reason""=>[""casualty_wounded""], ""unit""=>[""C/170 Brigade Royal Field Artillery"", ""C Coy, 170th Bde Royal Field Artillery"", ""C170""]}",,,
+14,AWD0003z87,report,412,3,,,,[],,person,Driver R Hyslop,"{""first""=>[""R""], ""surname""=>[""Hyslop""], ""rank""=>[""Driver""], ""number""=>[""TF 635776"", ""TF635776"", ""TS 635776""], ""reason""=>[""casualty_wounded""], ""unit""=>[""C/170 Brigade Royal Field Artillery"", ""C Coy, 170th Bde Royal Field Artillery"", ""C170""]}",,,
+15,AWD0003z87,report,412,3,,,,[],,person,Driver J R Bradley,"{""first""=>[""J R""], ""surname""=>[""Bradley""], ""rank""=>[""Driver""], ""number""=>[""17386""], ""reason""=>[""casualty_wounded""], ""unit""=>[""C Coy, 170th Bde Royal Field Artillery"", ""C/170 Brigade Royal Field Artillery"", ""C170""]}",,,
+16,AWD0003z87,report,412,3,,,,[],,person,Gunner A S Walker,"{""first""=>[""A S""], ""surname""=>[""Walker""], ""rank""=>[""Gunner""], ""number""=>[""2328""], ""reason""=>[""casualty_wounded""], ""unit""=>[""C170"", ""C Coy, 170th Bde Royal Field Artillery"", ""C/170 Brigade Royal Field Artillery""]}",,,
+17,AWD0003z87,report,412,3,,,,[],,person,Gunner W Rothwell,"{""first""=>[""W""], ""surname""=>[""Rothwell""], ""rank""=>[""Gunner""], ""number""=>[""8013""], ""reason""=>[""casualty_wounded""], ""unit""=>[""C Coy, 170th Bde Royal Field Artillery"", ""C/170 Brigade Royal Field Artillery"", ""C170""]}",,,
+18,AWD0003z87,report,412,3,,,,[],,person,Gunner W Hunt,"{""first""=>[""W""], ""surname""=>[""Hunt""], ""rank""=>[""Gunner""], ""number""=>[""3082""], ""reason""=>[""casualty_kia""], ""unit""=>[""C Coy, 170th Bde Royal Field Artillery"", ""C/170 Brigade Royal Field Artillery"", ""C170""]}",,,
+19,AWD0003z87,report,412,2,,,,[],,person,Gunner W Bradshaw,"{""first""=>[""W""], ""surname""=>[""Bradshaw""], ""rank""=>[""Gunner""], ""number""=>[""78094"", ""78894""], ""reason""=>[""casualty_wounded""], ""unit""=>[""C Coy, 170th Bde Royal Field Artillery"", ""C/170 Brigade Royal Field Artillery""]}",,,
+22,AWD0003z87,report,412,3,,,,[],,person,Bombardier W Wilkinson,"{""first""=>[""W""], ""surname""=>[""Wilkinson""], ""rank""=>[""Bombardier""], ""number""=>[""18208""], ""reason""=>[""casualty_wounded""], ""unit""=>[""C Coy, 170th Bde Royal Field Artillery"", ""C/170 Brigade Royal Field Artillery"", ""C170""]}",,,
+23,AWD0003z87,report,412,3,,,,[],,person,Gunner R Abbott,"{""first""=>[""R""], ""surname""=>[""Abbott""], ""rank""=>[""Gunner""], ""number""=>[""17739""], ""reason""=>[""casualty_wounded""], ""unit""=>[""A Coy, 170th Bde Royal Field Artillery"", ""A/170 Brigade Royal Field Artillery"", """"]}",,,
+24,AWD0003z87,report,412,3,,,,[],,person,Sergeant H Parker,"{""first""=>[""H""], ""surname""=>[""Parker""], ""rank""=>[""Sergeant""], ""number""=>[""17709""], ""reason""=>[""casualty_wounded""], ""unit""=>[""A170"", ""A/170 Brigade Royal Field Artillery"", ""C Coy, 170th Bde Royal Field Artillery""]}",,,
+25,AWD0003z87,report,412,3,,,,[],,person,Bombardier G Geal,"{""first""=>[""G""], ""surname""=>[""Geal""], ""rank""=>[""Bombardier""], ""number""=>[""188904""], ""reason""=>[""casualty_wounded""], ""unit""=>[""A/170 Brigade Royal Field Artillery"", ""C Coy, 170th Bde Royal Field Artillery"", ""A170""]}",,,
+26,AWD0003z87,report,412,3,,,,[],,person,Gunner J Oldham,"{""first""=>[""J""], ""surname""=>[""Oldham""], ""rank""=>[""Gunner""], ""number""=>[""17643""], ""reason""=>[""casualty_wounded""], ""unit""=>[""C Coy, 170th Bde Royal Field Artillery"", ""A/170 Brigade Royal Field Artillery"", ""A170""]}",,,
+27,AWD0003z87,report,412,3,,,,[],,person,Gunner H Fenton,"{""first""=>[""H""], ""surname""=>[""Fenton""], ""rank""=>[""Gunner""], ""number""=>[""146213""], ""reason""=>[""casualty_wounded""], ""unit""=>[""A/170 Brigade Royal Field Artillery"", ""A170"", ""B Coy, 170th Bde Royal Field Artillery""]}",,,
+28,AWD0003z87,report,412,3,,,,[],,person,Gunner  Duerdon,"{""first""=>[""""], ""surname""=>[""Duerdon""], ""rank""=>[""Gunner""], ""number""=>[""18357""], ""reason""=>[""casualty_wounded""], ""unit""=>[""B170"", ""B/170 Brigade Royal Field Artillery"", ""B Coy, 170th Bde Royal Field Artillery""]}",,,
+29,AWD0003z87,report,412,2,,,,[],,person,"Gunner  Dangan, Dargan","{""first""=>[""""], ""surname""=>[""Dangan"", ""Dargan""], ""rank""=>[""Gunner""], ""number""=>[""73134""], ""reason""=>[""casualty_wounded""], ""unit""=>[""B170"", ""B/170 Brigade Royal Field Artillery""]}",,,
+30,AWD0003z87,report,412,3,,,,[],,person,Gunner W Smith,"{""first""=>[""W""], ""surname""=>[""Smith""], ""rank""=>[""Gunner""], ""number""=>[""149017""], ""reason""=>[""casualty_wounded""], ""unit""=>[""B170"", ""B Coy, 170th Bde Royal Field Artillery"", ""B/170 Brigade Royal Field Artillery""]}",,,
+31,AWD0003z87,report,412,3,,,,[],,person,"Second Lieutenant Cyril Beaumont Rawlins MC, Rawlins, Beaumont Rawlins","{""first""=>[""Cyril Beaumont""], ""surname""=>[""Rawlins MC"", ""Rawlins"", ""Beaumont Rawlins""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""A170"", ""A/170 Brigade Royal Field Artillery"", ""A Coy, 170th Bde Royal Field Artillery""]}",,,
+32,AWD0003z87,report,412,3,,,,[],,person,Bombardier E F Rodford,"{""first""=>[""E F""], ""surname""=>[""Rodford""], ""rank""=>[""Bombardier""], ""number""=>[""11817""], ""reason""=>[""casualty_wounded""], ""unit""=>[""D170"", ""D/170 Brigade Royal Field Artillery"", ""D Coy, 170th Bde Royal Field Artillery""]}",,,
+33,AWD0003z87,report,412,3,,,,[],,person,"Sergeant W Gerry, Guny, Geary","{""first""=>[""W""], ""surname""=>[""Gerry"", ""Guny"", ""Geary""], ""rank""=>[""Sergeant""], ""number""=>[""L17764""], ""reason""=>[""casualty_wounded""], ""unit""=>[""B/170 Brigade Royal Field Artillery"", ""B Coy, 170th Bde Royal Field Artillery"", ""B170""]}",,,
+34,AWD0003z87,report,412,3,,,,[],,person,Gunner H Wilson,"{""first""=>[""H""], ""surname""=>[""Wilson""], ""rank""=>[""Gunner""], ""number""=>[""17706""], ""reason""=>[""casualty_wounded""], ""unit""=>[""A Coy, 170th Bde Royal Field Artillery"", ""A/170 Brigade Royal Field Artillery"", ""A170""]}",,,
+2,AWD0003z9n,orders,413,4,,,,[],,date,2 Apr 1917,{},,,
+3,AWD0003z9n,orders,413,3,,,,[],,orders,attack,{},,,
+5,AWD0003z9n,orders,413,2,,,,[],,orders,attack,{},,,
+6,AWD0003z9n,orders,413,3,,,,[],,person,Lieutenant F E Harrison,"{""first""=>[""F E""], ""surname""=>[""Harrison""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""170th Bde Royal Field Artillery"", ""Adj. 170 Brigade Royal Field Artillery"", ""170th Brigade RFA""]}",,,
+3,AWD0003z90,orders,415,5,,,,[],,date,2 Apr 1917,{},,,
+4,AWD0003z90,orders,415,3,,,,[],,orders,attack,{},,,
+5,AWD0003z90,orders,415,3,,,,[],,person,Lieutenant F E Harrison,"{""first""=>[""F E""], ""surname""=>[""Harrison""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""170th Bde Royal Field Artillery"", ""Adj. 170 Brigade Royal Field Artillery"", ""170th Brigade RFA""]}",,,
+5,AWD0003z7s,report,416,3,,,,[],,title,Reconnaissance of roads forward towards new British Front Line,{},,,
+9,AWD0003z7s,report,416,2,,,,[],,reference,B.M. 24/417,{},,,
+4,AWD0003z8y,orders,417,2,,,,[],,orders,attack,{},,,
+5,AWD0003z8y,orders,417,5,,,,[],,date,3 Apr 1917,{},,,
+7,AWD0003z7l,orders,418,2,,,,[],,person,"Major  Goodeve, Goodeve RCA","{""first""=>[""""], ""surname""=>[""Goodeve"", ""Goodeve RCA""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""Liaison Officer - Canadian Infantry Bde"", ""Bde Liaison Officer""]}",,,
+8,AWD0003z7l,orders,418,3,,,,[],,person,Major H Hutchison,"{""first""=>[""H""], ""surname""=>[""Hutchison""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""31st Div Artillery"", ""BM. 31st Divisional Artillery"", ""31st Divisional Artillery""]}",,,
+9,AWD0003z7l,orders,418,2,,,,[],,person,Major  Goodeve,"{""first""=>[""""], ""surname""=>[""Goodeve""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>["""", ""Liaison Officer - Canadian Infantry Bde""]}",,,
+2,AWD0003z9m,orders,419,2,,,,[],,orders,attack,{},,,
+1,AWD0003z9h,orders,420,2,,,,[],,orders,attack,{},,,
+1,AWD0003z9l,orders,421,2,,,,[],,orders,attack,{},,,
+2,AWD0003z9l,orders,421,3,,,,[],,date,4 Apr 1917,{},,,
+4,AWD0003z9l,orders,421,2,,,,[],,date,4 Apr 1917,{},,,
+5,AWD0003z9l,orders,421,2,,,,[],,orders,attack,{},,,
+6,AWD0003z9l,orders,421,3,,,,[],,person,Lieutenant F E Harrison,"{""first""=>[""F E""], ""surname""=>[""Harrison""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""170th Brigade R.F.A."", ""170th Bde Royal Field Artillery"", ""170th Bde RFA""]}",,,
+1,AWD0003za0,orders,422,2,,,,[],,orders,attack,{},,,
+3,AWD0003za0,orders,422,4,,,,[],,date,4 Apr 1917,{},,,
+4,AWD0003za0,orders,422,2,,,,[],,person,"Lieutenant F E,R E Harrison","{""first""=>[""F E"", ""R E""], ""surname""=>[""Harrison""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other"", ""author""], ""unit""=>[""170th Bde Royal Field Artillery"", ""170th Brigade RFA""]}",,,
+2,AWD0003z7m,orders,423,2,,,,[],,orders,attack,{},,,
+3,AWD0003z7m,orders,423,4,,,,[],,date,4 Apr 1917,{},,,
+7,AWD0003z7m,orders,423,2,,,,[],,person,Lieutenant F E Harrison,"{""first""=>[""F E""], ""surname""=>[""Harrison""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other"", ""author""], ""unit""=>[""170th Bde Royal Field Artillery"", ""170th Brigade RFA""]}",,,
+1,AWD0003za5,orders,424,2,,,,[],,orders,attack,{},,,
+4,AWD0003za5,orders,424,3,,,,[],,date,4 Apr 1917,{},,,
+8,AWD0003za5,orders,424,3,,,,[],,person,Lieutenant  Charter,"{""first""=>[""""], ""surname""=>[""Charter""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""170th (C.P.) Bde R.F.A."", ""7th Canadian Battalion"", """"]}",,,
+9,AWD0003za5,orders,424,4,,,,[],,person,Lieutenant F E Harrison,"{""first""=>[""F E""], ""surname""=>[""Harrison""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""170th Bde Royal Field Artillery"", ""170th (C.P.) Bde R.F.A."", ""Adj. 170 Brigade Royal Field Artillery"", ""170th (CP) Brigade RFA""]}",,,
+2,AWD0003z9b,orders,425,3,,,,[],,date,5 Apr 1917,{},,,
+7,AWD0003z9b,orders,425,2,,,,[],,orders,attack,{},,,
+8,AWD0003z9b,orders,425,3,,,,[],,orders,other,{},,,
+5,AWD0003zag,orders,426,4,,,,[],,person,Major Robert T Hammick,"{""first""=>[""Robert T""], ""surname""=>[""Hammick""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other"", ""author""], ""unit""=>[""1st Canadian Division""]}",,,
+2,AWD0003z7q,report,427,2,,,,[],,title,Observation of Feint Barrage from 1.30pm 6/4/17,{},,,
+7,AWD0003z7q,report,427,2,,,,[],,date,6 Apr 1917,{},,,
+3,AWD0003z7n,orders,432,3,,,,[],,date,6 Apr 1917,{},,,
+2,AWD0003z8u,orders,433,3,,,,[],,person,Major Robert T Hammick,"{""first""=>[""Robert T""], ""surname""=>[""Hammick""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""1st Canadian Div"", ""1st Canadian Division"", """"]}",,,
+4,AWD0003z8a,orders,434,4,,,,[],,date,7 Apr 1917,{},,,
+5,AWD0003z8a,orders,434,2,,,,[],,orders,attack,{},,,
+7,AWD0003z8a,orders,434,4,,,,[],,person,Lieutenant F E Harrison,"{""first""=>[""F E""], ""surname""=>[""Harrison""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other"", ""author""], ""unit""=>[""170th Bde Royal Field Artillery"", ""170th Brigade RFA"", """", ""Adj. 170 Brigade Royal Field Artillery""]}",,,
+2,AWD0003za1,orders,439,2,,,,[],,date,7 Apr 1917,{},,,
+3,AWD0003za6,report,440,4,,,,[],,date,10 Apr 1917,{},,,
+4,AWD0003za6,report,440,2,,,,[],,person,"Lieutenant C C,U Reay","{""first""=>[""C C"", ""U""], ""surname""=>[""Reay""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other"", ""author""], ""unit""=>[""170th Bde Royal Field Artillery"", ""170th (County Palatine) Brigade RFA""]}",,,
+2,AWD0003z7y,report,441,2,,,,[],,title,"Reconnaissance and Progress Report, made on 15/4/17.",{},,,
+4,AWD0003z7y,report,441,4,,,,[],,date,15 Apr 1917,{},,,
+7,AWD0003z7y,report,441,6,,,,[],,person,Major  Massey,"{""first""=>[""""], ""surname""=>[""Massey""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""170 Brigade Royal Field Artillery""]}",,,
+8,AWD0003z7y,report,441,2,,,,[],,person,"Lieutenant Colonel C B,C B S Simonds","{""first""=>[""C B"", ""C B S""], ""surname""=>[""Simonds""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""170th Bde Royal Field Artillery"", ""170 Brigade Royal Field Artillery""]}",,,
+3,AWD0003z9d,orders,443,4,,,,[],,date,20 Apr 1917,{},,,
+5,AWD0003z9d,orders,443,3,,,,[],,orders,attack,{},,,
+8,AWD0003z9d,orders,443,2,,,,[],,person,"Major  Massy, Massey","{""first""=>[""""], ""surname""=>[""Massy"", ""Massey""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander"", ""other""], ""unit""=>[""Forward Sections"", ""170 Brigade Royal Field Artillery""]}",,,
+9,AWD0003z9d,orders,443,3,,,,[],,person,Major  Ryan,"{""first""=>[""""], ""surname""=>[""Ryan""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+10,AWD0003z9d,orders,443,3,,,,[],,person,Major  Massey,"{""first""=>[""""], ""surname""=>[""Massey""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""170 Brigade Royal Field Artillery""]}",,,
+11,AWD0003z9d,orders,443,3,,,,[],,person,Major  Ryan,"{""first""=>[""""], ""surname""=>[""Ryan""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+12,AWD0003z9d,orders,443,2,,,,[],,person,"Major  Fetherstonehaugh, Featherstonhaugh","{""first""=>[""""], ""surname""=>[""Fetherstonehaugh"", ""Featherstonhaugh""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander"", ""other""], ""unit""=>[""Howitzers"", ""170 Brigade Royal Field Artillery""]}",,,
+13,AWD0003z9d,orders,443,3,,,,[],,person,Second Lieutenant E G Turner,"{""first""=>[""E G""], ""surname""=>[""Turner""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""170 Brigade Royal Field Artillery"", ""170th Bde RFA"", ""170th Bde Royal Field Artillery""]}",,,
+1,AWD0003z9e,orders,444,2,,,,[],,reference,LG334,{},,,
+2,AWD0003z9e,orders,444,2,,,,[],,orders,attack,{},,,
+3,AWD0003z9e,orders,444,5,,,,[],,date,22 Apr 1917,{},,,
+8,AWD0003z9e,orders,444,4,,,,[],,person,Major  Massy,"{""first""=>[""""], ""surname""=>[""Massy""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+9,AWD0003z9e,orders,444,4,,,,[],,person,Lieutenant C C Reay,"{""first""=>[""C C""], ""surname""=>[""Reay""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other"", ""author""], ""unit""=>[""Adj. 170 Brigade Royal Field Artillery"", ""170th Brigde RFA"", """", ""170th Bde Royal Field Artillery""]}",,,
+1,AWD0003z8t,report,445,4,,,,[],,title,Where improvement can be made in our system of Communications Forward,{},,,
+4,AWD0003z8m,orders,447,3,,,,[],,date,26 Apr 1917,{},,,
+5,AWD0003z8m,orders,447,2,,,,[],,orders,move,{},,,
+7,AWD0003z8m,orders,447,2,,,,[],,person,Lieutenant C C Reay,"{""first""=>[""C C""], ""surname""=>[""Reay""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other"", ""author""], ""unit""=>[""170th Bde Royal Field Artillery"", ""170th Bde RFA""]}",,,
+7,AWD0003zar,orders,448,2,,,,[],,person,Major R Carrington,"{""first""=>[""R""], ""surname""=>[""Carrington""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""RA 2nd Div"", ""BM - RA 2nd Division""]}",,,
+10,AWD0003zar,orders,448,5,,,,[],,date,18 Apr 1917,{},,,
+1,AWD0003z7f,orders,449,2,,,,[],,orders,attack,{},,,
+4,AWD0003z7f,orders,449,2,,,,[],,orders,attack,{},,,
+2,AWD0003z75,orders,450,2,,,,[],,orders,attack,{},,,
+5,AWD0003z75,orders,450,4,,,,[],,person,Major R Carrington,"{""first""=>[""R""], ""surname""=>[""Carrington""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""BMRA 2nd Division"", ""B.M. - RA 2nd Division "", """", ""2nd Div""]}",,,
+6,AWD0003z75,orders,450,5,,,,[],,date,22 Apr 1917,{},,,
+3,AWD0003zah,"orders, diary",451,2,,,,[],,date,27 Apr 1917,{},,,
+3,AWD0003z8q,orders,452,5,,,,[],,date,27 Apr 1917,{},,,
+4,AWD0003z8q,orders,452,3,,,,[],,orders,attack,{},,,
+6,AWD0003z8q,orders,452,3,,,,[],,person,Major R Carrington,"{""first""=>[""R""], ""surname""=>[""Carrington""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""2nd Div"", ""BMRA 2nd Div"", ""B.M.  RA 2nd Division""]}",,,
+9,AWD0003z8q,orders,452,3,,,,[],,person,Lieutenant C C Reay,"{""first""=>[""C C""], ""surname""=>[""Reay""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""commander"", ""author"", ""other""], ""unit""=>["""", ""170th Bde RFA"", ""Adj. 170 Brigade Royal Field Artillery""]}",,,
+10,AWD0003z8q,orders,452,2,,,,[],,date,27 Apr 1917,{},,,
+3,AWD0003z9x,orders,453,3,,,,[],,date,30 Apr 1917,{},,,
+2,AWD0003z94,orders,454,2,,,,[],,orders,attack,{},,,
+3,AWD0003z94,orders,454,2,,,,[],,person,Lieutenant C C Reay,"{""first""=>[""C C""], ""surname""=>[""Reay""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""170th Bde Royal Field Artillery"", ""Adj. 170 Brigade Royal Field Artillery""]}",,,
+5,AWD0003z94,orders,454,2,,,,[],,person,"Lieutenant,Captain C C Reay","{""first""=>[""C C""], ""surname""=>[""Reay""], ""rank""=>[""Lieutenant"", ""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""170th (County Palatine) Brigade RFA"", """"]}",,,
+1,AWD0003z9q,report,455,2,,,,[],,date,30 Apr 1917,{},,,
+4,AWD0003z9q,report,455,3,,,,[],,date,30 Apr 1917,{},,,
+6,AWD0003z9q,report,455,3,,,,[],,person,Colonel  Reynolds,"{""first""=>[""""], ""surname""=>[""Reynolds""], ""rank""=>[""Colonel""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+7,AWD0003z9q,report,455,4,,,,[],,person,"Lieutenant Colonel C B S,C B,C,C A Simonds","{""first""=>[""C B S"", ""C B"", ""C"", ""C A""], ""surname""=>[""Simonds""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""170 Brigade Royal Field Artillery"", ""170th Bde Royal Field Artillery"", ""170th Brigade R F A"", ""170th Brigade RFA""]}",,,
+2,AWD0003z78,diary,458,4,1917-05-01 00:00:00 UTC,1 May 1917,Bailleul,"[2.73594, 50.73592]","",diaryDate,1 May 1917,"{""day""=>[""1""], ""month""=>[""May""], ""year""=>[""1917""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+4,AWD0003z78,diary,458,3,1917-05-01 00:00:00 UTC,1 May 1917,Willerval,"[2.8445, 50.35661]","",place,Willerval,"{""place""=>[""Willerval""], ""location""=>[""true""], ""name""=>[""Willerval""], ""lat""=>[""50.35661""], ""long""=>[""2.8445""], ""id""=>[""2967358""]}",2967358,Willerval,"[2.8445, 50.35661]"
+5,AWD0003z78,diary,458,2,1917-05-01 00:00:00 UTC,1 May 1917,Bailleul,"[2.73594, 50.73592]","",place,Bailleul,"{""place""=>[""Bailleul""], ""location""=>[""true""], ""name""=>["""", ""Bailleul""], ""lat""=>["""", ""50.73592""], ""long""=>["""", ""2.73594""], ""id""=>["""", ""3035359""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+7,AWD0003z78,diary,458,2,1917-05-01 00:00:00 UTC,1 May 1917,Bailleul,"[2.73594, 50.73592]","",activity,fire,{},2794579,Kemmel,"[2.82714, 50.78333]"
+8,AWD0003z78,diary,458,4,1917-05-01 00:00:00 UTC,1 May 1917,Bailleul,"[2.73594, 50.73592]","",activity,attack,{},2794579,Kemmel,"[2.82714, 50.78333]"
+9,AWD0003z78,diary,458,2,1917-05-01 00:00:00 UTC,1 May 1917,Bailleul,"[2.73594, 50.73592]","",activity,fire,{},2794579,Kemmel,"[2.82714, 50.78333]"
+12,AWD0003z78,diary,458,3,1917-05-01 00:00:00 UTC,1 May 1917,Bailleul,"[2.73594, 50.73592]","",gridRef,B 15 c 9 7,{},2794579,Kemmel,"[2.82714, 50.78333]"
+13,AWD0003z78,diary,458,2,1917-05-01 00:00:00 UTC,1 May 1917,Bailleul,"[2.73594, 50.73592]","",weather,fine,{},2794579,Kemmel,"[2.82714, 50.78333]"
+16,AWD0003z78,diary,458,2,1917-05-01 00:00:00 UTC,1 May 1917,Bailleul,"[2.73594, 50.73592]","",weather,fine,{},2794579,Kemmel,"[2.82714, 50.78333]"
+17,AWD0003z78,diary,458,3,1917-05-01 03:56:00 UTC,1 May 1917,Bailleul,"[2.73594, 50.73592]",0356AM,time,0356AM,{},2794579,Kemmel,"[2.82714, 50.78333]"
+18,AWD0003z78,diary,458,2,1917-05-01 03:56:00 UTC,1 May 1917,Bailleul,"[2.73594, 50.73592]",0356AM,activity,enemy_activity,{},2794579,Kemmel,"[2.82714, 50.78333]"
+19,AWD0003z78,diary,458,4,1917-05-01 03:56:00 UTC,1 May 1917,Bailleul,"[2.73594, 50.73592]",0356AM,activity,attack,{},2794579,Kemmel,"[2.82714, 50.78333]"
+20,AWD0003z78,diary,458,3,1917-05-01 03:56:00 UTC,1 May 1917,Bailleul,"[2.73594, 50.73592]",0356AM,activity,fire,{},2794579,Kemmel,"[2.82714, 50.78333]"
+22,AWD0003z78,diary,458,2,1917-05-01 03:56:00 UTC,1 May 1917,Bailleul,"[2.73594, 50.73592]",0356AM,activity,attack,{},2794579,Kemmel,"[2.82714, 50.78333]"
+23,AWD0003z78,diary,458,2,1917-05-01 03:56:00 UTC,1 May 1917,Bailleul,"[2.73594, 50.73592]",0356AM,person,"Second Lieutenant ----, Smith RE, Smith","{""first""=>[""----"", """"], ""surname""=>[""Smith RE"", ""Smith""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""joined"", ""other""], ""unit""=>[""Brigade Signalling Officer"", ""Signalling Officer - 170 Brigade Royal Field Artillery""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+24,AWD0003z78,diary,458,3,1917-05-02 00:00:00 UTC,2 May 1917,Bailleul,"[2.73594, 50.73592]","",diaryDate,2 May 1917,"{""day""=>[""2""], ""month""=>[""May""], ""year""=>[""1917""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+25,AWD0003z78,diary,458,2,1917-05-02 00:00:00 UTC,2 May 1917,Willerval,"[2.8445, 50.35661]","",place,Willerval,"{""place""=>[""Willerval""], ""location""=>[""true""], ""name""=>[""Willerval""], ""lat""=>[""50.35661""], ""long""=>[""2.8445""], ""id""=>[""2967358""]}",2967358,Willerval,"[2.8445, 50.35661]"
+27,AWD0003z78,diary,458,4,1917-05-02 00:00:00 UTC,2 May 1917,Willerval,"[2.8445, 50.35661]","",activity,attack,{},2967358,Willerval,"[2.8445, 50.35661]"
+29,AWD0003z78,diary,458,3,1917-05-02 22:00:00 UTC,2 May 1917,Willerval,"[2.8445, 50.35661]",1000PM,time,1000PM,{},2967358,Willerval,"[2.8445, 50.35661]"
+30,AWD0003z78,diary,458,3,1917-05-02 22:00:00 UTC,2 May 1917,Willerval,"[2.8445, 50.35661]",1000PM,activity,fire,{},2967358,Willerval,"[2.8445, 50.35661]"
+34,AWD0003z78,diary,458,2,1917-05-02 22:00:00 UTC,2 May 1917,Willerval,"[2.8445, 50.35661]",1000PM,weather,fine,{},2967358,Willerval,"[2.8445, 50.35661]"
+35,AWD0003z78,diary,458,3,1917-05-03 00:00:00 UTC,3 May 1917,Willerval,"[2.8445, 50.35661]","",diaryDate,3 May 1917,"{""day""=>[""3""], ""month""=>[""May""], ""year""=>[""1917""]}",2967358,Willerval,"[2.8445, 50.35661]"
+36,AWD0003z78,diary,458,2,1917-05-03 03:45:00 UTC,3 May 1917,Willerval,"[2.8445, 50.35661]",0345AM,time,0345AM,{},2967358,Willerval,"[2.8445, 50.35661]"
+37,AWD0003z78,diary,458,2,1917-05-03 03:45:00 UTC,3 May 1917,Willerval,"[2.8445, 50.35661]",0345AM,place,Willerval,"{""place""=>[""Willerval""], ""location""=>[""true""], ""name""=>[""Willerval""], ""lat""=>[""50.35661""], ""long""=>[""2.8445""], ""id""=>[""2967358""]}",2967358,Willerval,"[2.8445, 50.35661]"
+40,AWD0003z78,diary,458,3,1917-05-03 03:45:00 UTC,3 May 1917,Willerval,"[2.8445, 50.35661]",0345AM,activity,attack,{},2967358,Willerval,"[2.8445, 50.35661]"
+44,AWD0003z78,diary,458,2,1917-05-03 03:45:00 UTC,3 May 1917,Willerval,"[2.8445, 50.35661]",0345AM,place,"Arleux-Oppy Line, Arleux-Oppy line","{""place""=>[""Arleux-Oppy Line"", ""Arleux-Oppy line""], ""location""=>[""false""], ""name""=>[""Willerval"", ""Bailleul""], ""lat""=>[""50.35661"", ""50.73592""], ""long""=>[""2.8445"", ""2.73594""], ""id""=>[""2967358"", ""3035359""]}",2967358,Willerval,"[2.8445, 50.35661]"
+51,AWD0003z78,diary,458,2,1917-05-03 03:45:00 UTC,3 May 1917,Willerval,"[2.8445, 50.35661]",0345AM,unit,31st Div Infantry,"{""name""=>[""31st Div Infantry""], ""context""=>[""right""]}",2967358,Willerval,"[2.8445, 50.35661]"
+55,AWD0003z78,diary,458,2,1917-05-03 03:45:00 UTC,3 May 1917,Willerval,"[2.8445, 50.35661]",0345AM,unit,Canadians,"{""name""=>[""Canadians""], ""context""=>[""left""]}",2967358,Willerval,"[2.8445, 50.35661]"
+4,AWD0003z9g,diary,459,2,1917-05-03 03:45:00 UTC,3 May 1917,Willerval,"[2.8445, 50.35661]",0345AM,weather,fine,{},2967358,Willerval,"[2.8445, 50.35661]"
+5,AWD0003z9g,diary,459,2,1917-05-04 00:00:00 UTC,4 May 1917,Willerval,"[2.8445, 50.35661]","",diaryDate,4 May 1917,"{""day""=>[""4""], ""month""=>[""May""], ""year""=>[""1917""]}",2967358,Willerval,"[2.8445, 50.35661]"
+6,AWD0003z9g,diary,459,2,1917-05-04 00:00:00 UTC,4 May 1917,Willerval,"[2.8445, 50.35661]","",activity,fire,{},2967358,Willerval,"[2.8445, 50.35661]"
+7,AWD0003z9g,diary,459,2,1917-05-04 00:00:00 UTC,4 May 1917,Bailleul,"[2.73594, 50.73592]","",place,Bailleul,"{""place""=>[""Bailleul""], ""location""=>[""true""], ""name""=>[""Bailleul""], ""lat""=>[""50.73592""], ""long""=>[""2.73594""], ""id""=>[""3035359""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+11,AWD0003z9g,diary,459,2,1917-05-04 00:00:00 UTC,4 May 1917,Bailleul,"[2.73594, 50.73592]","",person,Major  Ryan,"{""first""=>[""""], ""surname""=>[""Ryan""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""combat"", ""commander""], ""unit""=>[""170th Bde Royal Field Artillery"", """"]}",2794579,Kemmel,"[2.82714, 50.78333]"
+12,AWD0003z9g,diary,459,2,1917-05-04 00:00:00 UTC,4 May 1917,Bailleul,"[2.73594, 50.73592]","",gridRef,B 9 b 3 6,{},2794579,Kemmel,"[2.82714, 50.78333]"
+13,AWD0003z9g,diary,459,2,1917-05-04 00:00:00 UTC,4 May 1917,Bailleul,"[2.73594, 50.73592]","",activity,attack,{},2794579,Kemmel,"[2.82714, 50.78333]"
+14,AWD0003z9g,diary,459,2,1917-05-04 00:00:00 UTC,4 May 1917,Bailleul,"[2.73594, 50.73592]","",person,"Major  Fetherstonbaugh, Fetherstonehaugh","{""first""=>[""""], ""surname""=>[""Fetherstonbaugh"", ""Fetherstonehaugh""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""combat"", ""commander""], ""unit""=>[""170th Bde Royal Field Artillery"", """"]}",2794579,Kemmel,"[2.82714, 50.78333]"
+15,AWD0003z9g,diary,459,2,1917-05-04 00:00:00 UTC,4 May 1917,Bailleul,"[2.73594, 50.73592]","",weather,fine,{},2794579,Kemmel,"[2.82714, 50.78333]"
+16,AWD0003z9g,diary,459,2,1917-05-05 00:00:00 UTC,5 May 1917,Bailleul,"[2.73594, 50.73592]","",diaryDate,5 May 1917,"{""day""=>[""5""], ""month""=>[""May""], ""year""=>[""1917""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+22,AWD0003z9g,diary,459,3,1917-05-05 00:00:00 UTC,5 May 1917,Bailleul,"[2.73594, 50.73592]","",unit,34th AFA,"{""name""=>[""34th AFA""], ""context""=>[""joined""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+25,AWD0003z9g,diary,459,2,1917-05-05 00:00:00 UTC,5 May 1917,Bailleul,"[2.73594, 50.73592]","",person,Major  Massy,"{""first""=>[""""], ""surname""=>[""Massy""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""departed_posted""], ""unit""=>[""1st Army Artillery School""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+28,AWD0003z9g,diary,459,2,1917-05-06 00:00:00 UTC,6 May 1917,Bailleul,"[2.73594, 50.73592]","",diaryDate,6 May 1917,"{""day""=>[""6""], ""month""=>[""May""], ""year""=>[""1917""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+31,AWD0003z9g,diary,459,2,1917-05-06 00:00:00 UTC,6 May 1917,Bailleul,"[2.73594, 50.73592]","",activity,quiet,{},2794579,Kemmel,"[2.82714, 50.78333]"
+33,AWD0003z9g,diary,459,2,1917-05-06 00:00:00 UTC,6 May 1917,Bailleul,"[2.73594, 50.73592]","",weather,fine,{},2794579,Kemmel,"[2.82714, 50.78333]"
+1,AWD0003z95,diary,460,5,1917-05-07 00:00:00 UTC,7 May 1917,Bailleul,"[2.73594, 50.73592]","",diaryDate,7 May 1917,"{""day""=>[""7""], ""month""=>[""May""], ""year""=>[""1917""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+3,AWD0003z95,diary,460,3,1917-05-07 00:00:00 UTC,7 May 1917,Bailleul,"[2.73594, 50.73592]","",place,Bailleul,"{""place""=>[""Bailleul""], ""location""=>[""true""], ""name""=>[""Bailleul""], ""lat""=>[""50.73592""], ""long""=>[""2.73594""], ""id""=>[""3035359""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+4,AWD0003z95,diary,460,2,1917-05-07 00:00:00 UTC,7 May 1917,Willerval,"[2.8445, 50.35661]","",place,Willerval,"{""place""=>[""Willerval""], ""location""=>[""true""], ""name""=>[""Willerval""], ""lat""=>[""50.35661""], ""long""=>[""2.8445""], ""id""=>[""2967358""]}",2967358,Willerval,"[2.8445, 50.35661]"
+5,AWD0003z95,diary,460,2,1917-05-07 00:00:00 UTC,7 May 1917,Willerval,"[2.8445, 50.35661]","",activity,other,{},2967358,Willerval,"[2.8445, 50.35661]"
+6,AWD0003z95,diary,460,5,1917-05-07 00:00:00 UTC,7 May 1917,Willerval,"[2.8445, 50.35661]","",weather,fine,{},2967358,Willerval,"[2.8445, 50.35661]"
+7,AWD0003z95,diary,460,4,1917-05-08 00:00:00 UTC,8 May 1917,Willerval,"[2.8445, 50.35661]","",diaryDate,8 May 1917,"{""day""=>[""8""], ""month""=>[""May""], ""year""=>[""1917""]}",2967358,Willerval,"[2.8445, 50.35661]"
+8,AWD0003z95,diary,460,2,1917-05-08 12:00:00 UTC,8 May 1917,Willerval,"[2.8445, 50.35661]",1200PM,time,1200PM,{},2967358,Willerval,"[2.8445, 50.35661]"
+12,AWD0003z95,diary,460,2,1917-05-08 12:00:00 UTC,8 May 1917,Willerval,"[2.8445, 50.35661]",1200PM,gridRef,B 29 d 3 2,{},2967358,Willerval,"[2.8445, 50.35661]"
+13,AWD0003z95,diary,460,2,1917-05-08 12:00:00 UTC,8 May 1917,Bailleul,"[2.73594, 50.73592]",1200PM,place,Bailleul,"{""place""=>[""Bailleul""], ""location""=>[""true""], ""name""=>[""Bailleul""], ""lat""=>[""50.73592""], ""long""=>[""2.73594""], ""id""=>[""3035359""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+16,AWD0003z95,diary,460,2,1917-05-08 12:00:00 UTC,8 May 1917,Willerval,"[2.8445, 50.35661]",1200PM,place,Willerval,"{""place""=>[""Willerval""], ""location""=>[""true""], ""name""=>[""Willerval""], ""lat""=>[""50.35661""], ""long""=>[""2.8445""], ""id""=>[""2967358""]}",2967358,Willerval,"[2.8445, 50.35661]"
+18,AWD0003z95,diary,460,2,1917-05-08 12:00:00 UTC,8 May 1917,Willerval,"[2.8445, 50.35661]",1200PM,activity,other,{},2967358,Willerval,"[2.8445, 50.35661]"
+24,AWD0003z95,diary,460,2,1917-05-08 12:00:00 UTC,8 May 1917,Willerval,"[2.8445, 50.35661]",1200PM,activity,attack,{},2967358,Willerval,"[2.8445, 50.35661]"
+25,AWD0003z95,diary,460,2,1917-05-08 12:00:00 UTC,8 May 1917,Willerval,"[2.8445, 50.35661]",1200PM,place,Fresnoy,"{""place""=>[""Fresnoy""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2967358,Willerval,"[2.8445, 50.35661]"
+27,AWD0003z95,diary,460,4,1917-05-08 12:00:00 UTC,8 May 1917,Willerval,"[2.8445, 50.35661]",1200PM,activity,enemy_activity,{},2967358,Willerval,"[2.8445, 50.35661]"
+29,AWD0003z95,diary,460,4,1917-05-08 19:45:00 UTC,8 May 1917,Willerval,"[2.8445, 50.35661]",0745PM,time,0745PM,{},2967358,Willerval,"[2.8445, 50.35661]"
+35,AWD0003z95,diary,460,3,1917-05-08 19:45:00 UTC,8 May 1917,Willerval,"[2.8445, 50.35661]",0745PM,place,Gavrelle,"{""place""=>[""Gavrelle""], ""location""=>[""false""], ""name""=>[""Gavrelle""], ""lat""=>[""50.32955""], ""long""=>[""2.88735""], ""id""=>[""3016472""]}",2967358,Willerval,"[2.8445, 50.35661]"
+36,AWD0003z95,diary,460,3,1917-05-08 19:45:00 UTC,8 May 1917,Willerval,"[2.8445, 50.35661]",0745PM,activity,attack,{},2967358,Willerval,"[2.8445, 50.35661]"
+37,AWD0003z95,diary,460,2,1917-05-08 19:45:00 UTC,8 May 1917,Willerval,"[2.8445, 50.35661]",0745PM,unit,Infantry Brigade,"{""name""=>[""Infantry Brigade""], ""context""=>[""other""]}",2967358,Willerval,"[2.8445, 50.35661]"
+38,AWD0003z95,diary,460,4,1917-05-09 00:00:00 UTC,9 May 1917,Willerval,"[2.8445, 50.35661]","",diaryDate,9 May 1917,"{""day""=>[""9""], ""month""=>[""May""], ""year""=>[""1917""]}",2967358,Willerval,"[2.8445, 50.35661]"
+39,AWD0003z95,diary,460,2,1917-05-09 00:00:00 UTC,9 May 1917,Bailleul,"[2.73594, 50.73592]","",place,Bailleul,"{""place""=>[""Bailleul""], ""location""=>[""true""], ""name""=>[""Bailleul""], ""lat""=>[""50.73592""], ""long""=>[""2.73594""], ""id""=>[""3035359""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+40,AWD0003z95,diary,460,2,1917-05-09 00:00:00 UTC,9 May 1917,Willerval,"[2.8445, 50.35661]","",place,Willerval,"{""place""=>[""Willerval""], ""location""=>[""true""], ""name""=>[""Willerval""], ""lat""=>[""50.35661""], ""long""=>[""2.8445""], ""id""=>[""2967358""]}",2967358,Willerval,"[2.8445, 50.35661]"
+42,AWD0003z95,diary,460,2,1917-05-09 02:00:00 UTC,9 May 1917,Willerval,"[2.8445, 50.35661]",0200AM,time,0200AM,{},2967358,Willerval,"[2.8445, 50.35661]"
+45,AWD0003z95,diary,460,4,1917-05-09 02:00:00 UTC,9 May 1917,Willerval,"[2.8445, 50.35661]",0200AM,activity,attack,{},2967358,Willerval,"[2.8445, 50.35661]"
+47,AWD0003z95,diary,460,2,1917-05-09 02:00:00 UTC,9 May 1917,Willerval,"[2.8445, 50.35661]",0200AM,unit,"5th Division, 5th Divisioon","{""name""=>[""5th Division"", ""5th Divisioon""], ""context""=>[""other"", ""joined""]}",2967358,Willerval,"[2.8445, 50.35661]"
+48,AWD0003z95,diary,460,3,1917-05-09 02:00:00 UTC,9 May 1917,Willerval,"[2.8445, 50.35661]",0200AM,activity,reconnoitered,{},2967358,Willerval,"[2.8445, 50.35661]"
+49,AWD0003z95,diary,460,3,1917-05-09 02:00:00 UTC,9 May 1917,Willerval,"[2.8445, 50.35661]",0200AM,activity,other,{},2967358,Willerval,"[2.8445, 50.35661]"
+50,AWD0003z95,diary,460,3,1917-05-09 17:50:00 UTC,9 May 1917,Willerval,"[2.8445, 50.35661]",0550PM,time,0550PM,{},2967358,Willerval,"[2.8445, 50.35661]"
+53,AWD0003z95,diary,460,2,1917-05-09 17:50:00 UTC,9 May 1917,Willerval,"[2.8445, 50.35661]",0550PM,place,Arleux,"{""place""=>[""Arleux""], ""location""=>[""false""], ""name""=>[""Arleux"", """"], ""lat""=>[""50.28037"", """"], ""long""=>[""3.10448"", """"], ""id""=>[""3036932"", """"]}",2967358,Willerval,"[2.8445, 50.35661]"
+54,AWD0003z95,diary,460,2,1917-05-09 17:50:00 UTC,9 May 1917,Willerval,"[2.8445, 50.35661]",0550PM,activity,enemy_activity,{},2967358,Willerval,"[2.8445, 50.35661]"
+58,AWD0003z95,diary,460,3,1917-05-09 17:50:00 UTC,9 May 1917,Willerval,"[2.8445, 50.35661]",0550PM,person,Major  Ryan,"{""first""=>[""""], ""surname""=>[""Ryan""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""departed_posted""], ""unit""=>[""94th Inf Bde"", ""94th Infantry Bde"", ""Liaison Officer - 94th Infantry Brigade""]}",2967358,Willerval,"[2.8445, 50.35661]"
+59,AWD0003z95,diary,460,3,1917-05-09 19:40:00 UTC,9 May 1917,Willerval,"[2.8445, 50.35661]",0740PM,time,0740PM,{},2967358,Willerval,"[2.8445, 50.35661]"
+60,AWD0003z95,diary,460,2,1917-05-09 19:40:00 UTC,9 May 1917,Willerval,"[2.8445, 50.35661]",0740PM,activity,attack,{},2967358,Willerval,"[2.8445, 50.35661]"
+62,AWD0003z95,diary,460,4,1917-05-09 19:40:00 UTC,9 May 1917,Willerval,"[2.8445, 50.35661]",0740PM,weather,fine,{},2967358,Willerval,"[2.8445, 50.35661]"
+1,AWD0003z8s,diary,461,4,1917-05-10 00:00:00 UTC,10 May 1917,Willerval,"[2.8445, 50.35661]","",diaryDate,10 May 1917,"{""day""=>[""10""], ""month""=>[""May""], ""year""=>[""1917""]}",2967358,Willerval,"[2.8445, 50.35661]"
+2,AWD0003z8s,diary,461,3,1917-05-10 07:00:00 UTC,10 May 1917,Willerval,"[2.8445, 50.35661]",0700AM,time,0700AM,{},2967358,Willerval,"[2.8445, 50.35661]"
+3,AWD0003z8s,diary,461,3,1917-05-10 07:00:00 UTC,10 May 1917,Bailleul,"[2.73594, 50.73592]",0700AM,place,Bailleul,"{""place""=>[""Bailleul""], ""location""=>[""true""], ""name""=>[""Bailleul""], ""lat""=>[""50.73592""], ""long""=>[""2.73594""], ""id""=>[""3035359""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+5,AWD0003z8s,diary,461,4,1917-05-10 07:00:00 UTC,10 May 1917,Bailleul,"[2.73594, 50.73592]",0700AM,person,"Second Lieutenant A F Rickard, Riccard","{""first""=>[""A F""], ""surname""=>[""Rickard"", ""Riccard""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""170th Bde Royal Field Artillery"", ""adj"", ""Adj. 170 Brigade Royal Field Artillery"", """"]}",2794579,Kemmel,"[2.82714, 50.78333]"
+6,AWD0003z8s,diary,461,2,1917-05-10 07:00:00 UTC,10 May 1917,Willerval,"[2.8445, 50.35661]",0700AM,place,Willerval,"{""place""=>[""Willerval""], ""location""=>[""true""], ""name""=>[""Willerval""], ""lat""=>[""50.35661""], ""long""=>[""2.8445""], ""id""=>[""2967358""]}",2967358,Willerval,"[2.8445, 50.35661]"
+7,AWD0003z8s,diary,461,3,1917-05-10 07:00:00 UTC,10 May 1917,Willerval,"[2.8445, 50.35661]",0700AM,person,Lieutenant C Reay,"{""first""=>[""C""], ""surname""=>[""Reay""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_leave""], ""unit""=>[""""]}",2967358,Willerval,"[2.8445, 50.35661]"
+8,AWD0003z8s,diary,461,2,1917-05-10 07:00:00 UTC,10 May 1917,Willerval,"[2.8445, 50.35661]",0700AM,place,Oppy,"{""place""=>[""Oppy""], ""location""=>[""false""], ""name""=>[""Oppy""], ""lat""=>[""50.34762""], ""long""=>[""2.89119""], ""id""=>[""2989479""]}",2967358,Willerval,"[2.8445, 50.35661]"
+9,AWD0003z8s,diary,461,3,1917-05-10 15:45:00 UTC,10 May 1917,Willerval,"[2.8445, 50.35661]",0345PM,time,0345PM,{},2967358,Willerval,"[2.8445, 50.35661]"
+10,AWD0003z8s,diary,461,4,1917-05-10 15:45:00 UTC,10 May 1917,Willerval,"[2.8445, 50.35661]",0345PM,activity,enemy_activity,{},2967358,Willerval,"[2.8445, 50.35661]"
+11,AWD0003z8s,diary,461,4,1917-05-10 15:45:00 UTC,10 May 1917,Willerval,"[2.8445, 50.35661]",0345PM,place,Neuvireuil,"{""place""=>[""Neuvireuil""], ""location""=>[""false""], ""name""=>[""Neuvireuil""], ""lat""=>[""50.35216""], ""long""=>[""2.91107""], ""id""=>[""2990502""]}",2967358,Willerval,"[2.8445, 50.35661]"
+13,AWD0003z8s,diary,461,2,1917-05-10 15:45:00 UTC,10 May 1917,Willerval,"[2.8445, 50.35661]",0345PM,place,Oppy,"{""place""=>[""Oppy""], ""location""=>[""false""], ""name""=>[""Oppy""], ""lat""=>[""50.34762""], ""long""=>[""2.89119""], ""id""=>[""2989479""]}",2967358,Willerval,"[2.8445, 50.35661]"
+16,AWD0003z8s,diary,461,2,1917-05-10 15:45:00 UTC,10 May 1917,Willerval,"[2.8445, 50.35661]",0345PM,activity,attack,{},2967358,Willerval,"[2.8445, 50.35661]"
+18,AWD0003z8s,diary,461,6,1917-05-10 15:45:00 UTC,10 May 1917,Willerval,"[2.8445, 50.35661]",0345PM,activity,attack,{},2967358,Willerval,"[2.8445, 50.35661]"
+20,AWD0003z8s,diary,461,2,1917-05-10 16:45:00 UTC,10 May 1917,Willerval,"[2.8445, 50.35661]",0445PM,time,0445PM,{},2967358,Willerval,"[2.8445, 50.35661]"
+21,AWD0003z8s,diary,461,2,1917-05-10 16:45:00 UTC,10 May 1917,Willerval,"[2.8445, 50.35661]",0445PM,place,Link Trench,"{""place""=>[""Link Trench""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2967358,Willerval,"[2.8445, 50.35661]"
+23,AWD0003z8s,diary,461,3,1917-05-10 15:00:00 UTC,10 May 1917,Willerval,"[2.8445, 50.35661]",0300PM,time,0300PM,{},2967358,Willerval,"[2.8445, 50.35661]"
+24,AWD0003z8s,diary,461,3,1917-05-10 15:00:00 UTC,10 May 1917,Willerval,"[2.8445, 50.35661]",0300PM,person,Major  Fetherstonhaugh,"{""first""=>[""""], ""surname""=>[""Fetherstonhaugh""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""departed_posted""], ""unit""=>[""Inf Bde HQ""]}",2967358,Willerval,"[2.8445, 50.35661]"
+25,AWD0003z8s,diary,461,3,1917-05-10 15:00:00 UTC,10 May 1917,Willerval,"[2.8445, 50.35661]",0300PM,person,Major  Ryan,"{""first""=>[""""], ""surname""=>[""Ryan""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""departed_posted""], ""unit""=>[""3rd Army RFC"", ""3rd Army Liaison Officer - RFC"", ""Third Army Liaison Officer RFC""]}",2967358,Willerval,"[2.8445, 50.35661]"
+26,AWD0003z8s,diary,461,3,1917-05-10 16:00:00 UTC,10 May 1917,Willerval,"[2.8445, 50.35661]",0400PM,time,0400PM,{},2967358,Willerval,"[2.8445, 50.35661]"
+27,AWD0003z8s,diary,461,2,1917-05-10 16:00:00 UTC,10 May 1917,Willerval,"[2.8445, 50.35661]",0400PM,gridRef,B 24 b 9 1,{},2967358,Willerval,"[2.8445, 50.35661]"
+31,AWD0003z8s,diary,461,3,1917-05-10 19:22:00 UTC,10 May 1917,Willerval,"[2.8445, 50.35661]",0722PM,time,0722PM,{},2967358,Willerval,"[2.8445, 50.35661]"
+32,AWD0003z8s,diary,461,6,1917-05-10 19:22:00 UTC,10 May 1917,Willerval,"[2.8445, 50.35661]",0722PM,activity,attack,{},2967358,Willerval,"[2.8445, 50.35661]"
+35,AWD0003z8s,diary,461,3,1917-05-10 20:42:00 UTC,10 May 1917,Willerval,"[2.8445, 50.35661]",0842PM,time,0842PM,{},2967358,Willerval,"[2.8445, 50.35661]"
+36,AWD0003z8s,diary,461,4,1917-05-10 20:42:00 UTC,10 May 1917,Willerval,"[2.8445, 50.35661]",0842PM,activity,attack,{},2967358,Willerval,"[2.8445, 50.35661]"
+38,AWD0003z8s,diary,461,3,1917-05-11 00:00:00 UTC,11 May 1917,Willerval,"[2.8445, 50.35661]","",diaryDate,11 May 1917,"{""day""=>[""11""], ""month""=>[""May""], ""year""=>[""1917""]}",2967358,Willerval,"[2.8445, 50.35661]"
+40,AWD0003z8s,diary,461,2,1917-05-11 00:00:00 UTC,11 May 1917,Bailleul,"[2.73594, 50.73592]","",place,Bailleul,"{""place""=>[""Bailleul""], ""location""=>[""true""], ""name""=>[""Bailleul""], ""lat""=>[""50.73592""], ""long""=>[""2.73594""], ""id""=>[""3035359""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+41,AWD0003z8s,diary,461,2,1917-05-11 00:00:00 UTC,11 May 1917,Willerval,"[2.8445, 50.35661]","",place,Willerval,"{""place""=>[""Willerval""], ""location""=>[""true""], ""name""=>[""Willerval""], ""lat""=>[""50.35661""], ""long""=>[""2.8445""], ""id""=>[""2967358""]}",2967358,Willerval,"[2.8445, 50.35661]"
+42,AWD0003z8s,diary,461,2,1917-05-11 03:30:00 UTC,11 May 1917,Willerval,"[2.8445, 50.35661]",0330AM,time,0330AM,{},2967358,Willerval,"[2.8445, 50.35661]"
+43,AWD0003z8s,diary,461,4,1917-05-11 03:30:00 UTC,11 May 1917,Willerval,"[2.8445, 50.35661]",0330AM,activity,fire,{},2967358,Willerval,"[2.8445, 50.35661]"
+44,AWD0003z8s,diary,461,2,1917-05-11 19:30:00 UTC,11 May 1917,Willerval,"[2.8445, 50.35661]",0730PM,time,0730PM,{},2967358,Willerval,"[2.8445, 50.35661]"
+49,AWD0003z8s,diary,461,3,1917-05-11 19:30:00 UTC,11 May 1917,Willerval,"[2.8445, 50.35661]",0730PM,activity,attack,{},2967358,Willerval,"[2.8445, 50.35661]"
+51,AWD0003z8s,diary,461,2,1917-05-11 19:30:00 UTC,11 May 1917,Willerval,"[2.8445, 50.35661]",0730PM,activity,attack,{},2967358,Willerval,"[2.8445, 50.35661]"
+53,AWD0003z8s,diary,461,3,1917-05-12 00:00:00 UTC,12 May 1917,Willerval,"[2.8445, 50.35661]","",diaryDate,12 May 1917,"{""day""=>[""12""], ""month""=>[""May""], ""year""=>[""1917""]}",2967358,Willerval,"[2.8445, 50.35661]"
+54,AWD0003z8s,diary,461,2,1917-05-12 06:30:00 UTC,12 May 1917,Willerval,"[2.8445, 50.35661]",0630AM,time,0630AM,{},2967358,Willerval,"[2.8445, 50.35661]"
+55,AWD0003z8s,diary,461,3,1917-05-12 06:30:00 UTC,12 May 1917,Willerval,"[2.8445, 50.35661]",0630AM,activity,attack,{},2967358,Willerval,"[2.8445, 50.35661]"
+57,AWD0003z8s,diary,461,2,1917-05-12 06:30:00 UTC,12 May 1917,Bailleul,"[2.73594, 50.73592]",0630AM,place,Bailleul,"{""place""=>[""Bailleul""], ""location""=>[""true""], ""name""=>[""Bailleul""], ""lat""=>[""50.73592""], ""long""=>[""2.73594""], ""id""=>[""3035359""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+58,AWD0003z8s,diary,461,2,1917-05-12 06:30:00 UTC,12 May 1917,Willerval,"[2.8445, 50.35661]",0630AM,place,Willerval,"{""place""=>[""Willerval""], ""location""=>[""true""], ""name""=>[""Willerval""], ""lat""=>[""50.35661""], ""long""=>[""2.8445""], ""id""=>[""2967358""]}",2967358,Willerval,"[2.8445, 50.35661]"
+61,AWD0003z8s,diary,461,5,1917-05-12 06:30:00 UTC,12 May 1917,Willerval,"[2.8445, 50.35661]",0630AM,unit,17th Corps,"{""name""=>[""17th Corps""], ""context""=>[""other""]}",2967358,Willerval,"[2.8445, 50.35661]"
+62,AWD0003z8s,diary,461,2,1917-05-12 06:30:00 UTC,12 May 1917,Willerval,"[2.8445, 50.35661]",0630AM,activity,enemy_activity,{},2967358,Willerval,"[2.8445, 50.35661]"
+64,AWD0003z8s,diary,461,2,1917-05-12 22:50:00 UTC,12 May 1917,Willerval,"[2.8445, 50.35661]",1050PM,time,1050PM,{},2967358,Willerval,"[2.8445, 50.35661]"
+65,AWD0003z8s,diary,461,2,1917-05-12 22:50:00 UTC,12 May 1917,Willerval,"[2.8445, 50.35661]",1050PM,activity,other,{},2967358,Willerval,"[2.8445, 50.35661]"
+66,AWD0003z8s,diary,461,2,1917-05-12 22:50:00 UTC,12 May 1917,Willerval,"[2.8445, 50.35661]",1050PM,activity,attack,{},2967358,Willerval,"[2.8445, 50.35661]"
+1,AWD0003z9c,diary,462,4,1917-05-13 00:00:00 UTC,13 May 1917,Willerval,"[2.8445, 50.35661]","",diaryDate,13 May 1917,"{""day""=>[""13""], ""month""=>[""May""], ""year""=>[""1917""]}",2967358,Willerval,"[2.8445, 50.35661]"
+2,AWD0003z9c,diary,462,2,1917-05-13 12:00:00 UTC,13 May 1917,Willerval,"[2.8445, 50.35661]",1200PM,time,1200PM,{},2967358,Willerval,"[2.8445, 50.35661]"
+5,AWD0003z9c,diary,462,2,1917-05-13 12:00:00 UTC,13 May 1917,Bailleul,"[2.73594, 50.73592]",1200PM,place,Bailleul,"{""place""=>[""Bailleul""], ""location""=>[""true""], ""name""=>[""Bailleul""], ""lat""=>[""50.73592""], ""long""=>[""2.73594""], ""id""=>[""3035359""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+6,AWD0003z9c,diary,462,3,1917-05-13 17:30:00 UTC,13 May 1917,Bailleul,"[2.73594, 50.73592]",0530PM,time,0530PM,{},2794579,Kemmel,"[2.82714, 50.78333]"
+7,AWD0003z9c,diary,462,3,1917-05-13 17:30:00 UTC,13 May 1917,Bailleul,"[2.73594, 50.73592]",0530PM,activity,attack,{},2794579,Kemmel,"[2.82714, 50.78333]"
+8,AWD0003z9c,diary,462,2,1917-05-13 17:30:00 UTC,13 May 1917,Bailleul,"[2.73594, 50.73592]",0530PM,person,"Major  Fetherstonbaugh, Fetherstonhaugh","{""first""=>[""""], ""surname""=>[""Fetherstonbaugh"", ""Fetherstonhaugh""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other"", ""returned_posted""], ""unit""=>[""170th Bde Royal Field Artillery"", """"]}",2794579,Kemmel,"[2.82714, 50.78333]"
+12,AWD0003z9c,diary,462,3,1917-05-14 00:00:00 UTC,14 May 1917,Bailleul,"[2.73594, 50.73592]","",diaryDate,14 May 1917,"{""day""=>[""14""], ""month""=>[""May""], ""year""=>[""1917""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+16,AWD0003z9c,diary,462,2,1917-05-14 12:00:00 UTC,14 May 1917,Bailleul,"[2.73594, 50.73592]",1200PM,time,1200PM,{},2794579,Kemmel,"[2.82714, 50.78333]"
+18,AWD0003z9c,diary,462,3,1917-05-14 12:00:00 UTC,14 May 1917,Bailleul,"[2.73594, 50.73592]",1200PM,unit,"165th Bde, 34th Bde, 64th Bde","{""name""=>[""165th Bde"", ""34th Bde"", ""64th Bde""], ""context""=>[""joined""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+19,AWD0003z9c,diary,462,2,1917-05-14 15:00:00 UTC,14 May 1917,Bailleul,"[2.73594, 50.73592]",0300PM,time,0300PM,{},2794579,Kemmel,"[2.82714, 50.78333]"
+21,AWD0003z9c,diary,462,3,1917-05-15 00:00:00 UTC,15 May 1917,Bailleul,"[2.73594, 50.73592]","",diaryDate,15 May 1917,"{""day""=>[""15""], ""month""=>[""May""], ""year""=>[""1917""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+25,AWD0003z9c,diary,462,3,1917-05-15 00:00:00 UTC,15 May 1917,Bailleul,"[2.73594, 50.73592]","",activity,attack,{},2794579,Kemmel,"[2.82714, 50.78333]"
+27,AWD0003z9c,diary,462,3,1917-05-16 00:00:00 UTC,16 May 1917,Bailleul,"[2.73594, 50.73592]","",diaryDate,16 May 1917,"{""day""=>[""16""], ""month""=>[""May""], ""year""=>[""1917""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+35,AWD0003z9c,diary,462,2,1917-05-16 00:00:00 UTC,16 May 1917,Bailleul,"[2.73594, 50.73592]","",place,Wood Trench,"{""place""=>[""Wood Trench""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+36,AWD0003z9c,diary,462,3,1917-05-17 00:00:00 UTC,17 May 1917,Bailleul,"[2.73594, 50.73592]","",diaryDate,17 May 1917,"{""day""=>[""17""], ""month""=>[""May""], ""year""=>[""1917""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+40,AWD0003z9c,diary,462,2,1917-05-17 00:00:00 UTC,17 May 1917,Bailleul,"[2.73594, 50.73592]","",unit,"34th Bde, 165th Bde","{""name""=>[""34th Bde"", ""165th Bde""], ""context""=>[""other""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+1,AWD0003z9z,diary,463,4,1917-05-17 00:00:00 UTC,17 May 1917,Bailleul,"[2.73594, 50.73592]","",diaryDate,17 May 1917,"{""day""=>[""17""], ""month""=>[""May""], ""year""=>[""1917""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+2,AWD0003z9z,diary,463,3,1917-05-17 18:00:00 UTC,17 May 1917,Bailleul,"[2.73594, 50.73592]",0600PM,time,0600PM,{},2794579,Kemmel,"[2.82714, 50.78333]"
+3,AWD0003z9z,diary,463,2,1917-05-17 18:00:00 UTC,17 May 1917,Willerval,"[2.8445, 50.35661]",0600PM,place,Willerval,"{""place""=>[""Willerval""], ""location""=>[""true""], ""name""=>[""Willerval""], ""lat""=>[""50.35661""], ""long""=>[""2.8445""], ""id""=>[""2967358""]}",2967358,Willerval,"[2.8445, 50.35661]"
+5,AWD0003z9z,diary,463,4,1917-05-17 18:00:00 UTC,17 May 1917,Willerval,"[2.8445, 50.35661]",0600PM,person,"Major  Fetherstonbaugh, Featherstonhaugh, Featherston Haugh, Fetherstonhaugh","{""first""=>[""""], ""surname""=>[""Fetherstonbaugh"", ""Featherstonhaugh"", ""Featherston Haugh"", ""Fetherstonhaugh""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""departed_posted""], ""unit""=>[""Inf Bde""]}",2967358,Willerval,"[2.8445, 50.35661]"
+7,AWD0003z9z,diary,463,3,1917-05-17 18:00:00 UTC,17 May 1917,Bailleul,"[2.73594, 50.73592]",0600PM,place,Bailleul,"{""place""=>[""Bailleul""], ""location""=>[""true""], ""name""=>[""Bailleul""], ""lat""=>[""50.73592""], ""long""=>[""2.73594""], ""id""=>[""3035359""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+9,AWD0003z9z,diary,463,3,1917-05-17 18:00:00 UTC,17 May 1917,Bailleul,"[2.73594, 50.73592]",0600PM,activity,attack,{},2794579,Kemmel,"[2.82714, 50.78333]"
+10,AWD0003z9z,diary,463,4,1917-05-18 00:00:00 UTC,18 May 1917,Bailleul,"[2.73594, 50.73592]","",diaryDate,18 May 1917,"{""day""=>[""18""], ""month""=>[""May""], ""year""=>[""1917""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+11,AWD0003z9z,diary,463,3,1917-05-18 00:30:00 UTC,18 May 1917,Bailleul,"[2.73594, 50.73592]",1230AM,time,1230AM,{},2794579,Kemmel,"[2.82714, 50.78333]"
+16,AWD0003z9z,diary,463,2,1917-05-18 00:30:00 UTC,18 May 1917,Bailleul,"[2.73594, 50.73592]",1230AM,activity,attack,{},2794579,Kemmel,"[2.82714, 50.78333]"
+20,AWD0003z9z,diary,463,2,1917-05-18 00:30:00 UTC,18 May 1917,Bailleul,"[2.73594, 50.73592]",1230AM,unit,165th Brigade,"{""name""=>[""165th Brigade""], ""context""=>[""other""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+25,AWD0003z9z,diary,463,3,1917-05-18 00:30:00 UTC,18 May 1917,Bailleul,"[2.73594, 50.73592]",1230AM,activity,attack,{},2794579,Kemmel,"[2.82714, 50.78333]"
+29,AWD0003z9z,diary,463,2,1917-05-18 00:30:00 UTC,18 May 1917,Bailleul,"[2.73594, 50.73592]",1230AM,gridRef,C 19 b,{},2794579,Kemmel,"[2.82714, 50.78333]"
+30,AWD0003z9z,diary,463,2,1917-05-18 00:30:00 UTC,18 May 1917,Bailleul,"[2.73594, 50.73592]",1230AM,activity,other,{},2794579,Kemmel,"[2.82714, 50.78333]"
+34,AWD0003z9z,diary,463,2,1917-05-18 00:30:00 UTC,18 May 1917,Bailleul,"[2.73594, 50.73592]",1230AM,activity,other,{},2794579,Kemmel,"[2.82714, 50.78333]"
+37,AWD0003z9z,diary,463,4,1917-05-19 00:00:00 UTC,19 May 1917,Bailleul,"[2.73594, 50.73592]","",diaryDate,19 May 1917,"{""day""=>[""19""], ""month""=>[""May""], ""year""=>[""1917""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+38,AWD0003z9z,diary,463,5,1917-05-19 00:00:00 UTC,19 May 1917,Bailleul,"[2.73594, 50.73592]","",activity,attack,{},2794579,Kemmel,"[2.82714, 50.78333]"
+41,AWD0003z9z,diary,463,2,1917-05-19 00:00:00 UTC,19 May 1917,Bailleul,"[2.73594, 50.73592]","",activity,other,{},2794579,Kemmel,"[2.82714, 50.78333]"
+42,AWD0003z9z,diary,463,2,1917-05-19 00:00:00 UTC,19 May 1917,Bailleul,"[2.73594, 50.73592]","",place,Bailleul,"{""place""=>[""Bailleul""], ""location""=>[""true""], ""name""=>[""Bailleul""], ""lat""=>[""50.73592""], ""long""=>[""2.73594""], ""id""=>[""3035359""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+43,AWD0003z9z,diary,463,2,1917-05-19 12:00:00 UTC,19 May 1917,Bailleul,"[2.73594, 50.73592]",1200PM,time,1200PM,{},2794579,Kemmel,"[2.82714, 50.78333]"
+44,AWD0003z9z,diary,463,2,1917-05-19 12:00:00 UTC,19 May 1917,Willerval,"[2.8445, 50.35661]",1200PM,place,Willerval,"{""place""=>[""Willerval""], ""location""=>[""true""], ""name""=>[""Willerval""], ""lat""=>[""50.35661""], ""long""=>[""2.8445""], ""id""=>[""2967358""]}",2967358,Willerval,"[2.8445, 50.35661]"
+46,AWD0003z9z,diary,463,4,1917-05-19 12:00:00 UTC,19 May 1917,Willerval,"[2.8445, 50.35661]",1200PM,person,Captain  Reilly,"{""first""=>[""""], ""surname""=>[""Reilly""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""departed_posted""], ""unit""=>[""Inf Bde""]}",2967358,Willerval,"[2.8445, 50.35661]"
+48,AWD0003z9z,diary,463,3,1917-05-19 12:00:00 UTC,19 May 1917,Willerval,"[2.8445, 50.35661]",1200PM,person,"Major  Fetherstonbaugh, Featherston Haugh, Fetherstonhaugh","{""first""=>[""""], ""surname""=>[""Fetherstonbaugh"", ""Featherston Haugh"", ""Fetherstonhaugh""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""returned_posted""], ""unit""=>[""""]}",2967358,Willerval,"[2.8445, 50.35661]"
+49,AWD0003z9z,diary,463,3,1917-05-19 18:00:00 UTC,19 May 1917,Willerval,"[2.8445, 50.35661]",0600PM,time,0600PM,{},2967358,Willerval,"[2.8445, 50.35661]"
+51,AWD0003z9z,diary,463,3,1917-05-19 18:00:00 UTC,19 May 1917,Willerval,"[2.8445, 50.35661]",0600PM,activity,attack,{},2967358,Willerval,"[2.8445, 50.35661]"
+52,AWD0003z9z,diary,463,4,1917-05-20 00:00:00 UTC,20 May 1917,Willerval,"[2.8445, 50.35661]","",diaryDate,20 May 1917,"{""day""=>[""20""], ""month""=>[""May""], ""year""=>[""1917""]}",2967358,Willerval,"[2.8445, 50.35661]"
+54,AWD0003z9z,diary,463,2,1917-05-20 00:00:00 UTC,20 May 1917,Bailleul,"[2.73594, 50.73592]","",place,Bailleul,"{""place""=>[""Bailleul""], ""location""=>[""true""], ""name""=>[""Bailleul""], ""lat""=>[""50.73592""], ""long""=>[""2.73594""], ""id""=>[""3035359""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+55,AWD0003z9z,diary,463,5,1917-05-20 00:00:00 UTC,20 May 1917,Bailleul,"[2.73594, 50.73592]","",activity,attack,{},2794579,Kemmel,"[2.82714, 50.78333]"
+56,AWD0003z9z,diary,463,2,1917-05-20 00:00:00 UTC,20 May 1917,Willerval,"[2.8445, 50.35661]","",place,Willerval,"{""place""=>[""Willerval""], ""location""=>[""true""], ""name""=>[""Willerval""], ""lat""=>[""50.35661""], ""long""=>[""2.8445""], ""id""=>[""2967358""]}",2967358,Willerval,"[2.8445, 50.35661]"
+57,AWD0003z9z,diary,463,4,1917-05-20 00:00:00 UTC,20 May 1917,Willerval,"[2.8445, 50.35661]","",activity,fire,{},2967358,Willerval,"[2.8445, 50.35661]"
+59,AWD0003z9z,diary,463,3,1917-05-20 00:00:00 UTC,20 May 1917,Willerval,"[2.8445, 50.35661]","",activity,attack,{},2967358,Willerval,"[2.8445, 50.35661]"
+62,AWD0003z9z,diary,463,4,1917-05-21 00:00:00 UTC,21 May 1917,Willerval,"[2.8445, 50.35661]","",diaryDate,21 May 1917,"{""day""=>[""21""], ""month""=>[""May""], ""year""=>[""1917""]}",2967358,Willerval,"[2.8445, 50.35661]"
+65,AWD0003z9z,diary,463,4,1917-05-21 00:00:00 UTC,21 May 1917,Willerval,"[2.8445, 50.35661]","",activity,attack,{},2967358,Willerval,"[2.8445, 50.35661]"
+66,AWD0003z9z,diary,463,2,1917-05-21 00:00:00 UTC,21 May 1917,Bailleul,"[2.73594, 50.73592]","",place,Bailleul,"{""place""=>[""Bailleul""], ""location""=>[""true""], ""name""=>[""Bailleul""], ""lat""=>[""50.73592""], ""long""=>[""2.73594""], ""id""=>[""3035359""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+68,AWD0003z9z,diary,463,4,1917-05-21 00:00:00 UTC,21 May 1917,Bailleul,"[2.73594, 50.73592]","",person,Captain  Reilly,"{""first""=>[""""], ""surname""=>[""Reilly""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""returned_posted""], ""unit""=>[""170th Bde Royal Field Artillery"", """", ""170 Brigade Royal Field Artillery"", ""Inf Bde liaison""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+73,AWD0003z9z,diary,463,3,1917-05-21 00:00:00 UTC,21 May 1917,Bailleul,"[2.73594, 50.73592]","",activity,attack,{},2794579,Kemmel,"[2.82714, 50.78333]"
+1,AWD0003z9t,diary,464,4,1917-05-22 00:00:00 UTC,22 May 1917,Bailleul,"[2.73594, 50.73592]","",diaryDate,22 May 1917,"{""day""=>[""22""], ""month""=>[""May""], ""year""=>[""1917""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+4,AWD0003z9t,diary,464,4,1917-05-22 00:00:00 UTC,22 May 1917,Bailleul,"[2.73594, 50.73592]","",activity,attack,{},2794579,Kemmel,"[2.82714, 50.78333]"
+11,AWD0003z9t,diary,464,3,1917-05-22 12:00:00 UTC,22 May 1917,Bailleul,"[2.73594, 50.73592]",1200PM,time,1200PM,{},2794579,Kemmel,"[2.82714, 50.78333]"
+12,AWD0003z9t,diary,464,2,1917-05-22 12:00:00 UTC,22 May 1917,Bailleul,"[2.73594, 50.73592]",1200PM,unit,63rd Div Arty,"{""name""=>[""63rd Div Arty""], ""context""=>[""joined"", ""other""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+15,AWD0003z9t,diary,464,2,1917-05-22 12:00:00 UTC,22 May 1917,Bailleul,"[2.73594, 50.73592]",1200PM,unit,63rd Divisional Artillery,"{""name""=>[""63rd Divisional Artillery""], ""context""=>[""other""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+16,AWD0003z9t,diary,464,3,1917-05-22 12:00:00 UTC,22 May 1917,Bailleul,"[2.73594, 50.73592]",1200PM,unit,"170 Bde RFA, 165 Bde RFA, 317th Bde RFA","{""name""=>[""170 Bde RFA"", ""165 Bde RFA"", ""317th Bde RFA""], ""context""=>[""other""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+17,AWD0003z9t,diary,464,2,1917-05-22 12:00:00 UTC,22 May 1917,Bailleul,"[2.73594, 50.73592]",1200PM,unit,"223rd Bde RFA, 223rd Bde","{""name""=>[""223rd Bde RFA"", ""223rd Bde""], ""context""=>[""other"", ""joined""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+18,AWD0003z9t,diary,464,2,1917-05-22 12:00:00 UTC,22 May 1917,Bailleul,"[2.73594, 50.73592]",1200PM,unit,"165th Bde, 317th Bde","{""name""=>[""165th Bde"", ""317th Bde""], ""context""=>[""joined""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+20,AWD0003z9t,diary,464,4,1917-05-22 12:00:00 UTC,22 May 1917,Bailleul,"[2.73594, 50.73592]",1200PM,activity,attack,{},2794579,Kemmel,"[2.82714, 50.78333]"
+21,AWD0003z9t,diary,464,2,1917-05-22 12:00:00 UTC,22 May 1917,Bailleul,"[2.73594, 50.73592]",1200PM,place,Link Trench,"{""place""=>[""Link Trench""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+22,AWD0003z9t,diary,464,2,1917-05-22 12:00:00 UTC,22 May 1917,Bailleul,"[2.73594, 50.73592]",1200PM,place,Link Maze,"{""place""=>[""Link Maze""], ""location""=>[""false""], ""name""=>["""", ""Willerval""], ""lat""=>["""", ""50.35661""], ""long""=>["""", ""2.8445""], ""id""=>["""", ""2967358""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+24,AWD0003z9t,diary,464,2,1917-05-22 12:00:00 UTC,22 May 1917,Bailleul,"[2.73594, 50.73592]",1200PM,place,Oppy Wood,"{""place""=>[""Oppy Wood""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+25,AWD0003z9t,diary,464,2,1917-05-22 12:00:00 UTC,22 May 1917,Bailleul,"[2.73594, 50.73592]",1200PM,activity,enemy_activity,{},2794579,Kemmel,"[2.82714, 50.78333]"
+26,AWD0003z9t,diary,464,2,1917-05-22 12:00:00 UTC,22 May 1917,Bailleul,"[2.73594, 50.73592]",1200PM,gridRef,C 13 c,{},2794579,Kemmel,"[2.82714, 50.78333]"
+28,AWD0003z9t,diary,464,2,1917-05-22 12:00:00 UTC,22 May 1917,Bailleul,"[2.73594, 50.73592]",1200PM,place,Oppy Wood,"{""place""=>[""Oppy Wood""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+29,AWD0003z9t,diary,464,2,1917-05-22 12:00:00 UTC,22 May 1917,Bailleul,"[2.73594, 50.73592]",1200PM,gridRef,C 13 c,{},2794579,Kemmel,"[2.82714, 50.78333]"
+32,AWD0003z9t,diary,464,4,1917-05-22 12:00:00 UTC,22 May 1917,Bailleul,"[2.73594, 50.73592]",1200PM,activity,attack,{},2794579,Kemmel,"[2.82714, 50.78333]"
+33,AWD0003z9t,diary,464,3,1917-05-23 00:00:00 UTC,23 May 1917,Bailleul,"[2.73594, 50.73592]","",diaryDate,23 May 1917,"{""day""=>[""23""], ""month""=>[""May""], ""year""=>[""1917""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+34,AWD0003z9t,diary,464,2,1917-05-23 00:00:00 UTC,23 May 1917,Bailleul,"[2.73594, 50.73592]","",gridRef,C 13 c,{},2794579,Kemmel,"[2.82714, 50.78333]"
+35,AWD0003z9t,diary,464,3,1917-05-23 00:00:00 UTC,23 May 1917,Bailleul,"[2.73594, 50.73592]","",activity,attack,{},2794579,Kemmel,"[2.82714, 50.78333]"
+37,AWD0003z9t,diary,464,3,1917-05-23 00:00:00 UTC,23 May 1917,Bailleul,"[2.73594, 50.73592]","",place,Oppy Wood,"{""place""=>[""Oppy Wood""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+38,AWD0003z9t,diary,464,3,1917-05-23 00:00:00 UTC,23 May 1917,Bailleul,"[2.73594, 50.73592]","",activity,attack,{},2794579,Kemmel,"[2.82714, 50.78333]"
+40,AWD0003z9t,diary,464,5,1917-05-23 00:00:00 UTC,23 May 1917,Bailleul,"[2.73594, 50.73592]","",activity,reconnoitered,{},2794579,Kemmel,"[2.82714, 50.78333]"
+41,AWD0003z9t,diary,464,2,1917-05-23 00:00:00 UTC,23 May 1917,Bailleul,"[2.73594, 50.73592]","",gridRef,B 18 b 3 7,{},2794579,Kemmel,"[2.82714, 50.78333]"
+42,AWD0003z9t,diary,464,3,1917-05-23 00:00:00 UTC,23 May 1917,Bailleul,"[2.73594, 50.73592]","",activity,attack,{},2794579,Kemmel,"[2.82714, 50.78333]"
+45,AWD0003z9t,diary,464,4,1917-05-24 00:00:00 UTC,24 May 1917,Bailleul,"[2.73594, 50.73592]","",diaryDate,24 May 1917,"{""day""=>[""24""], ""month""=>[""May""], ""year""=>[""1917""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+46,AWD0003z9t,diary,464,5,1917-05-24 00:00:00 UTC,24 May 1917,Bailleul,"[2.73594, 50.73592]","",person,Lieutenant C C Reay,"{""first""=>[""C C""], ""surname""=>[""Reay""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""returned_leave""], ""unit""=>[""""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+48,AWD0003z9t,diary,464,4,1917-05-24 00:00:00 UTC,24 May 1917,Bailleul,"[2.73594, 50.73592]","",person,Second Lieutenant A F Rickard,"{""first""=>[""A F""], ""surname""=>[""Rickard""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+49,AWD0003z9t,diary,464,4,1917-05-24 00:00:00 UTC,24 May 1917,Bailleul,"[2.73594, 50.73592]","",person,"Major  Fetherstonbaugh, Featherstonehaugh, Featherstonhaugh, Fetherstonhaugh","{""first""=>[""""], ""surname""=>[""Fetherstonbaugh"", ""Featherstonehaugh"", ""Featherstonhaugh"", ""Fetherstonhaugh""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""departed_leave""], ""unit""=>[""""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+50,AWD0003z9t,diary,464,4,1917-05-24 00:00:00 UTC,24 May 1917,Bailleul,"[2.73594, 50.73592]","",person,Lieutenant  Organ,"{""first""=>[""""], ""surname""=>[""Organ""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_leave""], ""unit""=>[""""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+51,AWD0003z9t,diary,464,4,1917-05-24 00:00:00 UTC,24 May 1917,Bailleul,"[2.73594, 50.73592]","",person,"Lieutenant,Second Lieutenant  Hale","{""first""=>[""""], ""surname""=>[""Hale""], ""rank""=>[""Lieutenant"", ""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""promotion""], ""unit""=>[""""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+52,AWD0003z9t,diary,464,4,1917-05-24 00:00:00 UTC,24 May 1917,Bailleul,"[2.73594, 50.73592]","",person,"Second Lieutenant,Lieutenant  Leckic, Leadic, Leedie, Laedie","{""first""=>[""""], ""surname""=>[""Leckic"", ""Leadic"", ""Leedie"", ""Laedie""], ""rank""=>[""Second Lieutenant"", ""Lieutenant""], ""number""=>[""""], ""reason""=>[""promotion""], ""unit""=>[""""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+54,AWD0003z9t,diary,464,5,1917-05-24 00:00:00 UTC,24 May 1917,Bailleul,"[2.73594, 50.73592]","",activity,attack,{},2794579,Kemmel,"[2.82714, 50.78333]"
+58,AWD0003z9t,diary,464,2,1917-05-24 00:00:00 UTC,24 May 1917,Bailleul,"[2.73594, 50.73592]","",place,Oppy,"{""place""=>[""Oppy""], ""location""=>[""false""], ""name""=>["""", ""Oppy""], ""lat""=>["""", ""50.34762""], ""long""=>["""", ""2.89119""], ""id""=>["""", ""2989479""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+60,AWD0003z9t,diary,464,3,1917-05-24 00:00:00 UTC,24 May 1917,Bailleul,"[2.73594, 50.73592]","",activity,fire,{},2794579,Kemmel,"[2.82714, 50.78333]"
+61,AWD0003z9t,diary,464,5,1917-05-24 00:00:00 UTC,24 May 1917,Bailleul,"[2.73594, 50.73592]","",casualties,killed: 1,{},2794579,Kemmel,"[2.82714, 50.78333]"
+3,AWD0003z8b,diary,465,4,1917-05-25 00:00:00 UTC,25 May 1917,Bailleul,"[2.73594, 50.73592]","",diaryDate,25 May 1917,"{""day""=>[""25""], ""month""=>[""May""], ""year""=>[""1917""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+6,AWD0003z8b,diary,465,5,1917-05-25 00:00:00 UTC,25 May 1917,Bailleul,"[2.73594, 50.73592]","",activity,attack,{},2794579,Kemmel,"[2.82714, 50.78333]"
+13,AWD0003z8b,diary,465,3,1917-05-25 00:00:00 UTC,25 May 1917,Bailleul,"[2.73594, 50.73592]","",place,Bailleul,"{""place""=>[""Bailleul""], ""location""=>[""true""], ""name""=>[""Bailleul""], ""lat""=>[""50.73592""], ""long""=>[""2.73594""], ""id""=>[""3035359""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+14,AWD0003z8b,diary,465,2,1917-05-25 00:00:00 UTC,25 May 1917,Bailleul,"[2.73594, 50.73592]","",activity,fire,{},2794579,Kemmel,"[2.82714, 50.78333]"
+15,AWD0003z8b,diary,465,2,1917-05-25 00:00:00 UTC,25 May 1917,Bailleul,"[2.73594, 50.73592]","",activity,line,{},2794579,Kemmel,"[2.82714, 50.78333]"
+18,AWD0003z8b,diary,465,2,1917-05-25 00:00:00 UTC,25 May 1917,Bailleul,"[2.73594, 50.73592]","",unit,2 guns C Bty 170 Bde RFA,"{""name""=>[""2 guns C Bty 170 Bde RFA""], ""context""=>[""other""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+19,AWD0003z8b,diary,465,2,1917-05-25 00:00:00 UTC,25 May 1917,Bailleul,"[2.73594, 50.73592]","",activity,movement,{},2794579,Kemmel,"[2.82714, 50.78333]"
+20,AWD0003z8b,diary,465,4,1917-05-25 00:00:00 UTC,25 May 1917,Bailleul,"[2.73594, 50.73592]","",gridRef,B 19 b 2 3,{},2794579,Kemmel,"[2.82714, 50.78333]"
+22,AWD0003z8b,diary,465,4,1917-05-25 00:00:00 UTC,25 May 1917,Bailleul,"[2.73594, 50.73592]","",weather,fine,{},2794579,Kemmel,"[2.82714, 50.78333]"
+23,AWD0003z8b,diary,465,4,1917-05-26 00:00:00 UTC,26 May 1917,Bailleul,"[2.73594, 50.73592]","",diaryDate,26 May 1917,"{""day""=>[""26""], ""month""=>[""May""], ""year""=>[""1917""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+24,AWD0003z8b,diary,465,4,1917-05-26 00:00:00 UTC,26 May 1917,Bailleul,"[2.73594, 50.73592]","",activity,attack,{},2794579,Kemmel,"[2.82714, 50.78333]"
+25,AWD0003z8b,diary,465,2,1917-05-26 00:00:00 UTC,26 May 1917,Bailleul,"[2.73594, 50.73592]","",place,Bailleul,"{""place""=>[""Bailleul""], ""location""=>[""true""], ""name""=>[""Bailleul""], ""lat""=>[""50.73592""], ""long""=>[""2.73594""], ""id""=>[""3035359""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+26,AWD0003z8b,diary,465,2,1917-05-26 00:00:00 UTC,26 May 1917,Willerval,"[2.8445, 50.35661]","",place,Willerval,"{""place""=>[""Willerval""], ""location""=>[""true""], ""name""=>[""Willerval""], ""lat""=>[""50.35661""], ""long""=>[""2.8445""], ""id""=>[""2967358""]}",2967358,Willerval,"[2.8445, 50.35661]"
+30,AWD0003z8b,diary,465,2,1917-05-26 00:00:00 UTC,26 May 1917,Willerval,"[2.8445, 50.35661]","",gridRef,B 16 a 3 2,{},2967358,Willerval,"[2.8445, 50.35661]"
+34,AWD0003z8b,diary,465,5,1917-05-26 00:00:00 UTC,26 May 1917,Willerval,"[2.8445, 50.35661]","",weather,fine,{},2967358,Willerval,"[2.8445, 50.35661]"
+35,AWD0003z8b,diary,465,4,1917-05-27 00:00:00 UTC,27 May 1917,Willerval,"[2.8445, 50.35661]","",diaryDate,27 May 1917,"{""day""=>[""27""], ""month""=>[""May""], ""year""=>[""1917""]}",2967358,Willerval,"[2.8445, 50.35661]"
+36,AWD0003z8b,diary,465,2,1917-05-27 00:00:00 UTC,27 May 1917,Bailleul,"[2.73594, 50.73592]","",place,Bailleul,"{""place""=>[""Bailleul""], ""location""=>[""true""], ""name""=>[""Bailleul""], ""lat""=>[""50.73592""], ""long""=>[""2.73594""], ""id""=>[""3035359""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+37,AWD0003z8b,diary,465,5,1917-05-27 00:00:00 UTC,27 May 1917,Bailleul,"[2.73594, 50.73592]","",activity,attack,{},2794579,Kemmel,"[2.82714, 50.78333]"
+38,AWD0003z8b,diary,465,2,1917-05-27 00:00:00 UTC,27 May 1917,Willerval,"[2.8445, 50.35661]","",place,Willerval,"{""place""=>[""Willerval""], ""location""=>[""true""], ""name""=>[""Willerval""], ""lat""=>[""50.35661""], ""long""=>[""2.8445""], ""id""=>[""2967358""]}",2967358,Willerval,"[2.8445, 50.35661]"
+40,AWD0003z8b,diary,465,4,1917-05-27 00:00:00 UTC,27 May 1917,Willerval,"[2.8445, 50.35661]","",activity,reconnoitered,{},2967358,Willerval,"[2.8445, 50.35661]"
+41,AWD0003z8b,diary,465,3,1917-05-27 00:00:00 UTC,27 May 1917,Willerval,"[2.8445, 50.35661]","",person,Lieutenant Colonel C B Simonds,"{""first""=>[""C B""], ""surname""=>[""Simonds""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""170th Bde Royal Field Artillery"", ""170 Brigade Royal Field Artillery"", ""Recce party""]}",2967358,Willerval,"[2.8445, 50.35661]"
+42,AWD0003z8b,diary,465,2,1917-05-27 00:00:00 UTC,27 May 1917,Willerval,"[2.8445, 50.35661]","",activity,fire,{},2967358,Willerval,"[2.8445, 50.35661]"
+43,AWD0003z8b,diary,465,4,1917-05-27 00:00:00 UTC,27 May 1917,Willerval,"[2.8445, 50.35661]","",weather,fine,{},2967358,Willerval,"[2.8445, 50.35661]"
+45,AWD0003z8b,diary,465,3,1917-05-27 16:15:00 UTC,27 May 1917,Willerval,"[2.8445, 50.35661]",0415PM,time,0415PM,{},2967358,Willerval,"[2.8445, 50.35661]"
+48,AWD0003z8b,diary,465,2,1917-05-27 16:15:00 UTC,27 May 1917,Willerval,"[2.8445, 50.35661]",0415PM,gridRef,C 26 a 3 4,{},2967358,Willerval,"[2.8445, 50.35661]"
+49,AWD0003z8b,diary,465,2,1917-05-27 16:15:00 UTC,27 May 1917,Willerval,"[2.8445, 50.35661]",0415PM,gridRef,C 25 b 8 8,{},2967358,Willerval,"[2.8445, 50.35661]"
+52,AWD0003z8b,diary,465,4,1917-05-28 00:00:00 UTC,28 May 1917,Willerval,"[2.8445, 50.35661]","",diaryDate,28 May 1917,"{""day""=>[""28""], ""month""=>[""May""], ""year""=>[""1917""]}",2967358,Willerval,"[2.8445, 50.35661]"
+53,AWD0003z8b,diary,465,6,1917-05-28 00:00:00 UTC,28 May 1917,Willerval,"[2.8445, 50.35661]","",activity,attack,{},2967358,Willerval,"[2.8445, 50.35661]"
+54,AWD0003z8b,diary,465,2,1917-05-28 00:00:00 UTC,28 May 1917,Bailleul,"[2.73594, 50.73592]","",place,Bailleul,"{""place""=>[""Bailleul""], ""location""=>[""true""], ""name""=>[""Bailleul""], ""lat""=>[""50.73592""], ""long""=>[""2.73594""], ""id""=>[""3035359""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+55,AWD0003z8b,diary,465,2,1917-05-28 00:00:00 UTC,28 May 1917,Willerval,"[2.8445, 50.35661]","",place,Willerval,"{""place""=>[""Willerval""], ""location""=>[""true""], ""name""=>[""Willerval""], ""lat""=>[""50.35661""], ""long""=>[""2.8445""], ""id""=>[""2967358""]}",2967358,Willerval,"[2.8445, 50.35661]"
+57,AWD0003z8b,diary,465,2,1917-05-28 00:00:00 UTC,28 May 1917,Willerval,"[2.8445, 50.35661]","",activity,repair,{},2967358,Willerval,"[2.8445, 50.35661]"
+59,AWD0003z8b,diary,465,3,1917-05-28 00:00:00 UTC,28 May 1917,Willerval,"[2.8445, 50.35661]","",gridRef,B 22 c 5 4,{},2967358,Willerval,"[2.8445, 50.35661]"
+60,AWD0003z8b,diary,465,3,1917-05-28 00:00:00 UTC,28 May 1917,Willerval,"[2.8445, 50.35661]","",unit,"A170, B170, D170","{""name""=>[""A170"", ""B170"", ""D170""], ""context""=>[""other""]}",2967358,Willerval,"[2.8445, 50.35661]"
+61,AWD0003z8b,diary,465,2,1917-05-28 00:00:00 UTC,28 May 1917,Willerval,"[2.8445, 50.35661]","",unit,"A Bty 170 Bde RFA, B Bty 170 Bde RFA","{""name""=>[""A Bty 170 Bde RFA"", ""B Bty 170 Bde RFA""], ""context""=>[""other""]}",2967358,Willerval,"[2.8445, 50.35661]"
+62,AWD0003z8b,diary,465,3,1917-05-28 00:00:00 UTC,28 May 1917,Willerval,"[2.8445, 50.35661]","",gridRef,B 22 a 7 7,{},2967358,Willerval,"[2.8445, 50.35661]"
+67,AWD0003z8b,diary,465,2,1917-05-28 00:00:00 UTC,28 May 1917,Willerval,"[2.8445, 50.35661]","",gridRef,B 22 c 2 7,{},2967358,Willerval,"[2.8445, 50.35661]"
+68,AWD0003z8b,diary,465,3,1917-05-28 00:00:00 UTC,28 May 1917,Willerval,"[2.8445, 50.35661]","",gridRef,B 27 b 8 7,{},2967358,Willerval,"[2.8445, 50.35661]"
+69,AWD0003z8b,diary,465,3,1917-05-28 00:00:00 UTC,28 May 1917,Willerval,"[2.8445, 50.35661]","",weather,fine,{},2967358,Willerval,"[2.8445, 50.35661]"
+70,AWD0003z8b,diary,465,4,1917-05-29 00:00:00 UTC,29 May 1917,Willerval,"[2.8445, 50.35661]","",diaryDate,29 May 1917,"{""day""=>[""29""], ""month""=>[""May""], ""year""=>[""1917""]}",2967358,Willerval,"[2.8445, 50.35661]"
+71,AWD0003z8b,diary,465,2,1917-05-29 00:00:00 UTC,29 May 1917,Bailleul,"[2.73594, 50.73592]","",place,Bailleul,"{""place""=>[""Bailleul""], ""location""=>[""true""], ""name""=>[""Bailleul""], ""lat""=>[""50.73592""], ""long""=>[""2.73594""], ""id""=>[""3035359""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+72,AWD0003z8b,diary,465,2,1917-05-29 00:00:00 UTC,29 May 1917,Willerval,"[2.8445, 50.35661]","",place,Willerval,"{""place""=>[""Willerval""], ""location""=>[""true""], ""name""=>[""Willerval""], ""lat""=>[""50.35661""], ""long""=>[""2.8445""], ""id""=>[""2967358""]}",2967358,Willerval,"[2.8445, 50.35661]"
+73,AWD0003z8b,diary,465,5,1917-05-29 00:00:00 UTC,29 May 1917,Willerval,"[2.8445, 50.35661]","",activity,attack,{},2967358,Willerval,"[2.8445, 50.35661]"
+79,AWD0003z8b,diary,465,2,1917-05-29 00:00:00 UTC,29 May 1917,Willerval,"[2.8445, 50.35661]","",activity,repair,{},2967358,Willerval,"[2.8445, 50.35661]"
+80,AWD0003z8b,diary,465,3,1917-05-29 00:00:00 UTC,29 May 1917,Willerval,"[2.8445, 50.35661]","",gridRef,B 19 B 2 3,{},2967358,Willerval,"[2.8445, 50.35661]"
+82,AWD0003z8b,diary,465,4,1917-05-29 00:00:00 UTC,29 May 1917,Willerval,"[2.8445, 50.35661]","",weather,fine,{},2967358,Willerval,"[2.8445, 50.35661]"
+2,AWD0003zax,diary,466,2,1917-05-30 00:00:00 UTC,30 May 1917,Willerval,"[2.8445, 50.35661]","",diaryDate,30 May 1917,"{""day""=>[""30""], ""month""=>[""May""], ""year""=>[""1917""]}",2967358,Willerval,"[2.8445, 50.35661]"
+5,AWD0003zax,diary,466,3,1917-05-30 00:00:00 UTC,30 May 1917,Willerval,"[2.8445, 50.35661]","",diaryDate,30 May 1917,"{""day""=>[""30""], ""month""=>[""May""], ""year""=>[""1917""]}",2967358,Willerval,"[2.8445, 50.35661]"
+6,AWD0003zax,diary,466,2,1917-05-30 00:00:00 UTC,30 May 1917,Bailleul,"[2.73594, 50.73592]","",place,Bailleul,"{""place""=>[""Bailleul""], ""location""=>[""true""], ""name""=>[""Bailleul""], ""lat""=>[""50.73592""], ""long""=>[""2.73594""], ""id""=>[""3035359""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+7,AWD0003zax,diary,466,4,1917-05-30 00:00:00 UTC,30 May 1917,Bailleul,"[2.73594, 50.73592]","",activity,attack,{},2794579,Kemmel,"[2.82714, 50.78333]"
+9,AWD0003zax,diary,466,2,1917-05-30 00:00:00 UTC,30 May 1917,Willerval,"[2.8445, 50.35661]","",place,Willerval,"{""place""=>[""Willerval""], ""location""=>[""true""], ""name""=>[""Willerval""], ""lat""=>[""50.35661""], ""long""=>[""2.8445""], ""id""=>[""2967358""]}",2967358,Willerval,"[2.8445, 50.35661]"
+10,AWD0003zax,diary,466,4,1917-05-30 00:00:00 UTC,30 May 1917,Willerval,"[2.8445, 50.35661]","",weather,rain,{},2967358,Willerval,"[2.8445, 50.35661]"
+12,AWD0003zax,diary,466,2,1917-05-30 00:00:00 UTC,30 May 1917,Bailleul,"[2.73594, 50.73592]","",place,Bailleul,"{""place""=>[""Bailleul""], ""location""=>[""true""], ""name""=>[""Bailleul""], ""lat""=>[""50.73592""], ""long""=>[""2.73594""], ""id""=>[""3035359""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+13,AWD0003zax,diary,466,4,1917-05-31 00:00:00 UTC,31 May 1917,Bailleul,"[2.73594, 50.73592]","",diaryDate,31 May 1917,"{""day""=>[""31""], ""month""=>[""May""], ""year""=>[""1917""]}",2794579,Kemmel,"[2.82714, 50.78333]"
+15,AWD0003zax,diary,466,4,1917-05-31 00:00:00 UTC,31 May 1917,Bailleul,"[2.73594, 50.73592]","",activity,attack,{},2794579,Kemmel,"[2.82714, 50.78333]"
+16,AWD0003zax,diary,466,2,1917-05-31 00:00:00 UTC,31 May 1917,Willerval,"[2.8445, 50.35661]","",place,Willerval,"{""place""=>[""Willerval""], ""location""=>[""true""], ""name""=>[""Willerval""], ""lat""=>[""50.35661""], ""long""=>[""2.8445""], ""id""=>[""2967358""]}",2967358,Willerval,"[2.8445, 50.35661]"
+19,AWD0003zax,diary,466,3,1917-05-31 00:00:00 UTC,31 May 1917,Willerval,"[2.8445, 50.35661]","",gridRef,C 13 c,{},2967358,Willerval,"[2.8445, 50.35661]"
+20,AWD0003zax,diary,466,3,1917-05-31 00:00:00 UTC,31 May 1917,Willerval,"[2.8445, 50.35661]","",gridRef,C 13 d,{},2967358,Willerval,"[2.8445, 50.35661]"
+23,AWD0003zax,diary,466,5,1917-05-31 00:00:00 UTC,31 May 1917,Willerval,"[2.8445, 50.35661]","",weather,fine,{},2967358,Willerval,"[2.8445, 50.35661]"
+24,AWD0003zax,diary,466,3,1917-05-31 00:00:00 UTC,31 May 1917,Willerval,"[2.8445, 50.35661]","",person,"Lieutenant Colonel C B S,C B,C A Simonds","{""first""=>[""C B S"", ""C B"", ""C A""], ""surname""=>[""Simonds""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""170 Brigade Royal Field Artillery"", ""170th Bde Royal Field Artillery"", ""170th(County Palatine) Brigade RFA""]}",2967358,Willerval,"[2.8445, 50.35661]"
+2,AWD0003z6e,orders,467,2,,,,[],,orders,attack,{},,,
+4,AWD0003z6e,orders,467,5,,,,[],,date,1 May 1917,{},,,
+6,AWD0003z6e,orders,467,4,,,,[],,person,Major  Massy,"{""first""=>[""""], ""surname""=>[""Massy""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+7,AWD0003z6e,orders,467,4,,,,[],,person,Major  Ryan,"{""first""=>[""""], ""surname""=>[""Ryan""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+1,AWD0003z84,report,468,2,,,,[],,title,Casualties during May 1917 - 170th Brigade RFA,{},,,
+2,AWD0003z84,report,468,2,,,,[],,title,Casualties during May 1917,{},,,
+5,AWD0003z84,report,468,4,,,,[],,person,Sergeant T Dickman,"{""first""=>[""T""], ""surname""=>[""Dickman""], ""rank""=>[""Sergeant""], ""number""=>[""L/24569""], ""reason""=>[""casualty_wounded""], ""unit""=>[""D Bty, 170th Bde Royal Field Artillery"", ""D"", ""D Bty"", ""D Bty - 170 Brigade Royal Field Artillery""]}",,,
+7,AWD0003z84,report,468,4,,,,[],,person,Gunner  Pinch,"{""first""=>[""""], ""surname""=>[""Pinch""], ""rank""=>[""Gunner""], ""number""=>[""L/17990""], ""reason""=>[""casualty_kia""], ""unit""=>[""D Bty, 170th Bde Royal Field Artillery"", ""D"", ""D Bty"", ""D Bty - 170 Brigade Royal Field Artillery""]}",,,
+8,AWD0003z84,report,468,2,,,,[],,date,2 May 1917,{},,,
+9,AWD0003z84,report,468,4,,,,[],,person,Bombardier A Jackson,"{""first""=>[""A""], ""surname""=>[""Jackson""], ""rank""=>[""Bombardier""], ""number""=>[""L/17992""], ""reason""=>[""casualty_wounded""], ""unit""=>[""D"", ""D Bty"", ""D Bty - 170 Brigade Royal Field Artillery"", ""D Bty, 170th Bde Royal Field Artillery""]}",,,
+10,AWD0003z84,report,468,4,,,,[],,person,Sergeant J Holloway,"{""first""=>[""J""], ""surname""=>[""Holloway""], ""rank""=>[""Sergeant""], ""number""=>[""L/17998""], ""reason""=>[""casualty_wounded""], ""unit""=>[""D Bty"", ""D Bty, 170th Bde Royal Field Artillery"", ""D Bty - 170 Brigade Royal Field Artillery"", ""D""]}",,,
+12,AWD0003z84,report,468,4,,,,[],,person,Gunner W Pickles,"{""first""=>[""W""], ""surname""=>[""Pickles""], ""rank""=>[""Gunner""], ""number""=>[""L/18134""], ""reason""=>[""casualty_wounded""], ""unit""=>[""D"", ""D Bty"", ""D Bty - 170 Brigade Royal Field Artillery"", ""D Bty, 170th Bde Royal Field Artillery""]}",,,
+14,AWD0003z84,report,468,4,,,,[],,person,"Bombardier M,W Perry","{""first""=>[""M"", ""W""], ""surname""=>[""Perry""], ""rank""=>[""Bombardier""], ""number""=>[""L/18087""], ""reason""=>[""casualty_wounded""], ""unit""=>[""C"", ""C Bty"", ""C Bty - 170 Brigade Royal Field Artillery"", ""C Bty, 170th Bde Royal Field Artillery""]}",,,
+15,AWD0003z84,report,468,4,,,,[],,person,Corporal E Towler,"{""first""=>[""E""], ""surname""=>[""Towler""], ""rank""=>[""Corporal""], ""number""=>[""L/18093""], ""reason""=>[""casualty_wounded""], ""unit""=>[""C Bty, 170th Bde Royal Field Artillery"", ""C"", ""C Bty"", ""C Bty - 170 Brigade Royal Field Artillery""]}",,,
+16,AWD0003z84,report,468,2,,,,[],,date,12 May 1917,{},,,
+17,AWD0003z84,report,468,4,,,,[],,person,Gunner P Duffy,"{""first""=>[""P""], ""surname""=>[""Duffy""], ""rank""=>[""Gunner""], ""number""=>[""L/18171""], ""reason""=>[""casualty_wounded""], ""unit""=>[""C"", ""C Bty"", ""C Bty - 170 Brigade Royal Field Artillery"", ""C Bty, 170th Bde Royal Field Artillery""]}",,,
+18,AWD0003z84,report,468,4,,,,[],,person,"Gunner T,W Horridge","{""first""=>[""T"", ""W""], ""surname""=>[""Horridge""], ""rank""=>[""Gunner""], ""number""=>[""L/24021""], ""reason""=>[""casualty_died""], ""unit""=>[""C Bty"", ""C"", ""C Bty - 170 Brigade Royal Field Artillery"", ""C Bty, 170th Bde Royal Field Artillery""]}",,,
+20,AWD0003z84,report,468,4,,,,[],,person,Driver C F Slinger,"{""first""=>[""C F""], ""surname""=>[""Slinger""], ""rank""=>[""Driver""], ""number""=>[""L/24346""], ""reason""=>[""casualty_kia""], ""unit""=>[""D"", ""D Bty"", ""D Bty, 170th Bde Royal Field Artillery"", ""D Bty - 170 Brigade Royal Field Artillery""]}",,,
+23,AWD0003z84,report,468,2,,,,[],,title,Honours and Awards 170th Brigade RFA,{},,,
+24,AWD0003z84,report,468,4,,,,[],,person,Bombardier F Owen,"{""first""=>[""F""], ""surname""=>[""Owen""], ""rank""=>[""Bombardier""], ""number""=>[""L/18325""], ""reason""=>[""award""], ""unit""=>[""HQ""]}",,,
+26,AWD0003z84,report,468,4,,,,[],,person,Sergeant G Hughes,"{""first""=>[""G""], ""surname""=>[""Hughes""], ""rank""=>[""Sergeant""], ""number""=>[""L/18191""], ""reason""=>[""award""], ""unit""=>[""C"", ""C Bty, 170th Bde Royal Field Artillery"", ""C Bty"", ""C Bty - 170 Brigade Royal Field Artillery""]}",,,
+28,AWD0003z84,report,468,4,,,,[],,person,Major H R S Massy,"{""first""=>[""H R S""], ""surname""=>[""Massy""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""award""], ""unit""=>[""C Bty"", ""C Bty, 170th Bde Royal Field Artillery"", ""C"", ""C Bty - 170 Brigade Royal Field Artillery""]}",,,
+29,AWD0003z84,report,468,4,,,,[],,person,Major J E M Fetherstonhaugh,"{""first""=>[""J E M""], ""surname""=>[""Fetherstonhaugh""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""award""], ""unit""=>[""D Bty"", ""D Bty, 170th Bde Royal Field Artillery"", ""D"", ""D Bty - 170 Brigade Royal Field Artillery""]}",,,
+31,AWD0003z84,report,468,4,,,,[],,person,Lieutenant F E Harrison,"{""first""=>[""F E""], ""surname""=>[""Harrison""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""award""], ""unit""=>[""HQ""]}",,,
+32,AWD0003z84,report,468,3,,,,[],,person,Second Lieutenant P J McKie Hale,"{""first""=>[""P J""], ""surname""=>[""McKie Hale""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""award""], ""unit""=>[""B Bty, 170th Bde Royal Field Artillery"", ""B Bty - 170 Brigade Royal Field Artillery"", ""B Bty""]}",,,
+35,AWD0003z84,report,468,5,,,,[],,person,Gunner W H S Wilkinson,"{""first""=>[""W H S""], ""surname""=>[""Wilkinson""], ""rank""=>[""Gunner""], ""number""=>[""L/17056""], ""reason""=>[""award""], ""unit""=>[""D""]}",,,
+37,AWD0003z84,report,468,3,,,,[],,person,Gunner R Wilson,"{""first""=>[""R""], ""surname""=>[""Wilson""], ""rank""=>[""Gunner""], ""number""=>[""L/16986""], ""reason""=>[""award""], ""unit""=>[""D Bty"", ""D Bty, 170th Bde Royal Field Artillery"", ""D Bty - 170 Brigade Royal Field Artillery""]}",,,
+1,AWD0003z82,orders,469,4,,,,[],,orders,attack,{},,,
+5,AWD0003z82,orders,469,4,,,,[],,person,Major R Carrington,"{""first""=>[""R""], ""surname""=>[""Carrington""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""2nd Div"", ""2nd div"", """", ""BMRA 2nd Div""]}",,,
+6,AWD0003z82,orders,469,5,,,,[],,date,30 Apr 1917,{},,,
+3,AWD0003z91,orders,470,2,,,,[],,orders,attack,{},,,
+4,AWD0003z91,orders,470,2,,,,[],,date,1 May 1917,{},,,
+3,AWD0003z9f,report,471,3,,,,[],,date,4 May 1917,{},,,
+13,AWD0003z9f,report,471,3,,,,[],,activity,fire,{},,,
+16,AWD0003z9f,report,471,2,,,,[],,activity,fire,{},,,
+38,AWD0003z9f,report,471,3,,,,[],,person,General  Kellett,"{""first""=>[""""], ""surname""=>[""Kellett""], ""rank""=>[""General""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+46,AWD0003z9f,report,471,3,,,,[],,person,General  Kellett,"{""first""=>[""""], ""surname""=>[""Kellett""], ""rank""=>[""General""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+47,AWD0003z9f,report,471,4,,,,[],,person,Colonel  Weston,"{""first""=>[""""], ""surname""=>[""Weston""], ""rank""=>[""Colonel""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+15,AWD0003z8l,report,472,3,,,,[],,person,General  Kellett,"{""first""=>[""""], ""surname""=>[""Kellett""], ""rank""=>[""General""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+34,AWD0003z8l,report,472,11,,,,[],,person,"Colonel  Weston, Vernon","{""first""=>[""""], ""surname""=>[""Weston"", ""Vernon""], ""rank""=>[""Colonel""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+42,AWD0003z8l,report,472,3,,,,[],,person,General  Kellett,"{""first""=>[""""], ""surname""=>[""Kellett""], ""rank""=>[""General""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+49,AWD0003z8l,report,472,3,,,,[],,person,General  Kellett,"{""first""=>[""""], ""surname""=>[""Kellett""], ""rank""=>[""General""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+13,AWD0003z97,report,473,4,,,,[],,person,General  Kellett,"{""first""=>[""""], ""surname""=>[""Kellett""], ""rank""=>[""General""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+19,AWD0003z97,report,473,2,,,,[],,person,General  Kellett,"{""first""=>[""""], ""surname""=>[""Kellett""], ""rank""=>[""General""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+23,AWD0003z97,report,473,2,,,,[],,person,General  Kellett,"{""first""=>[""""], ""surname""=>[""Kellett""], ""rank""=>[""General""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+29,AWD0003z97,report,473,3,,,,[],,person,Captain  Lewis,"{""first""=>[""""], ""surname""=>[""Lewis""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+31,AWD0003z97,report,473,2,,,,[],,gridRef,C 1 c 9 5,{},,,
+33,AWD0003z97,report,473,4,,,,[],,person,  Wilson,"{""first""=>[""""], ""surname""=>[""Wilson""], ""rank""=>[""""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+39,AWD0003z97,report,473,3,,,,[],,person,General  Kellett,"{""first""=>[""""], ""surname""=>[""Kellett""], ""rank""=>[""General""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+17,AWD0003z8n,report,474,3,,,,[],,person,General  Kellett,"{""first""=>[""""], ""surname""=>[""Kellett""], ""rank""=>[""General""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+19,AWD0003z8n,report,474,3,,,,[],,person,Colonel  Newcombe,"{""first""=>[""""], ""surname""=>[""Newcombe""], ""rank""=>[""Colonel""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+25,AWD0003z8n,report,474,2,,,,[],,person,General  Kellett,"{""first""=>[""""], ""surname""=>[""Kellett""], ""rank""=>[""General""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+29,AWD0003z8n,report,474,2,,,,[],,person,General  Kellett,"{""first""=>[""""], ""surname""=>[""Kellett""], ""rank""=>[""General""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+33,AWD0003z8n,report,474,3,,,,[],,person,Major  Massy,"{""first""=>[""""], ""surname""=>[""Massy""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""170 Brigade Royal Field Artillery "", ""170th Bde Royal Field Artillery"", """"]}",,,
+36,AWD0003z8n,report,474,3,,,,[],,person,Lieutenant C C Reay,"{""first""=>[""C C""], ""surname""=>[""Reay""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""Adj. 170 Brigade Royal Field Artillery "", ""170th Bde Royal Field Artillery"", """"]}",,,
+3,AWD0003zab,orders,475,2,,,,[],,orders,other,{},,,
+6,AWD0003zab,orders,475,3,,,,[],,date,6 May 1917,{},,,
+9,AWD0003zab,orders,475,2,,,,[],,orders,other,{},,,
+10,AWD0003zab,orders,475,4,,,,[],,person,Captain  Reilly,"{""first""=>[""""], ""surname""=>[""Reilly""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""170th Bde Royal Field Artillery"", """", ""Working Parties"", ""170 Brigade Royal Field Artillery""]}",,,
+11,AWD0003zab,orders,475,3,,,,[],,person,"Major  Fetherstonbaugh, Fetherstonhaugh, Featherstonhaugh","{""first""=>[""""], ""surname""=>[""Fetherstonbaugh"", ""Fetherstonhaugh"", ""Featherstonhaugh""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""170th Bde Royal Field Artillery"", ""D Bty"", ""170 Brigade Royal Field Artillery""]}",,,
+12,AWD0003zab,orders,475,3,,,,[],,person,Lieutenant C C Reay,"{""first""=>[""C C""], ""surname""=>[""Reay""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""Adj. 170 Brigade Royal Field Artillery"", ""170th Bde Royal Field Artillery"", ""170th (County Palatine) Brigade RFA""]}",,,
+2,AWD0003z72,orders,476,2,,,,[],,orders,attack,{},,,
+5,AWD0003z72,orders,476,4,,,,[],,date,7 May 1917,{},,,
+7,AWD0003z72,orders,476,2,,,,[],,person,Lieutenant Colonel P Barton,"{""first""=>[""P""], ""surname""=>[""Barton""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+6,AWD0003z86,orders,478,4,,,,[],,person,Lieutenant C C Reay,"{""first""=>[""C C""], ""surname""=>[""Reay""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other"", ""author""], ""unit""=>[""Adj. 170 Brigade Royal Field Artillery"", ""170th (County Palatine) Brigade RFA"", ""170th Bde Royal Field Artillery"", """"]}",,,
+2,AWD0003z9i,orders,479,2,,,,[],,date,5 May 1917,{},,,
+4,AWD0003z9u,orders,480,5,,,,[],,date,8 May 1917,{},,,
+5,AWD0003z9u,orders,480,3,,,,[],,orders,attack,{},,,
+7,AWD0003z81,orders,481,4,,,,[],,person,Lieutenant C C Reay,"{""first""=>[""C C""], ""surname""=>[""Reay""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other"", ""author""], ""unit""=>[""Adj. 170 Brigade Royal Field Artillery"", ""170th Bde Royal Field Artillery"", ""170th Bde RFA"", """"]}",,,
+1,AWD0003z8z,orders,482,3,,,,[],,orders,attack,{},,,
+2,AWD0003z8z,orders,482,5,,,,[],,date,8 May 1917,{},,,
+7,AWD0003z8z,orders,482,3,,,,[],,orders,attack,{},,,
+8,AWD0003z8z,orders,482,5,,,,[],,person,Lieutenant C C Reay,"{""first""=>[""C C""], ""surname""=>[""Reay""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+3,AWD0003zae,orders,484,4,,,,[],,date,8 May 1917,{},,,
+6,AWD0003zae,orders,484,3,,,,[],,person,Lieutenant C C Reay,"{""first""=>[""C C""], ""surname""=>[""Reay""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>["""", ""Adj. 170 Brigade Royal Field Artillery"", ""170th Bde Royal Field Artillery""]}",,,
+3,AWD0003z8c,orders,486,5,,,,[],,date,8 May 1917,{},,,
+5,AWD0003z8c,orders,486,2,,,,[],,orders,attack,{},,,
+7,AWD0003z8c,orders,486,4,,,,[],,person,Lieutenant C C Reay,"{""first""=>[""C C""], ""surname""=>[""Reay""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other"", ""author""], ""unit""=>[""170th Bde Royal Field Artillery"", ""170th (County Palatine) Brigade RFA"", ""Adj. 170 Brigade Royal Field Artillery"", """"]}",,,
+4,AWD0003z80,orders,487,3,,,,[],,date,9 May 1917,{},,,
+3,AWD0003zak,"orders, other",488,3,,,,[],,date,16 May 1917,{},,,
+3,AWD0003z8o,"orders, other",489,2,,,,[],,person,Captain J H Stafford,"{""first""=>[""J H""], ""surname""=>[""Stafford""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""G.S. - 31st Division"", ""31st Div""]}",,,
+4,AWD0003z8o,"orders, other",489,3,,,,[],,date,12 May 1917,{},,,
+3,AWD0003z7z,orders,490,4,,,,[],,date,31 May 1917,{},,,
+7,AWD0003z7z,orders,490,3,,,,[],,person,Lieutenant C C Reay,"{""first""=>[""C C""], ""surname""=>[""Reay""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""Adj. 170 Brigade Royal Field Artillery"", ""170th Bde Royal Field Artillery"", ""170th Brigade RFA""]}",,,
+5,AWD0003z8g,report,491,3,,,,[],,person,Major General R Wanless O'Gowan,"{""first""=>[""R""], ""surname""=>[""Wanless O'Gowan""], ""rank""=>[""Major General""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""31st Division""]}",,,
+6,AWD0003z8g,report,491,4,,,,[],,date,10 May 1917,{},,,
+4,AWD0003z9s,report,493,3,,,,[],,person,Major General W H Anderson,"{""first""=>[""W H""], ""surname""=>[""Anderson""], ""rank""=>[""Major General""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""General Staff First Army""]}",,,
+6,AWD0003z9s,report,493,2,,,,[],,date,9 May 1917,{},,,
+3,AWD0003z7u,orders,494,4,,,,[],,date,9 May 1917,{},,,
+13,AWD0003z7u,orders,494,3,,,,[],,person,Lieutenant C C Reay,"{""first""=>[""C C""], ""surname""=>[""Reay""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""170th Bde Royal Field Artillery"", ""170th (County Palatine) Brigade RFA"", ""Adj. 170 Brigade Royal Field Artillery""]}",,,
+2,AWD0003z8j,orders,495,4,,,,[],,date,9 May 1917,{},,,
+6,AWD0003z8k,orders,496,3,,,,[],,person,"Lieutenant Colonel C B,C B S,C A Simonds","{""first""=>[""C B"", ""C B S"", ""C A""], ""surname""=>[""Simonds""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""170th Bde Royal Field Artillery"", ""170 Brigade Royal Field Artillery"", ""170th (County Palatine) Brigade RFA""]}",,,
+4,AWD0003z9w,orders,497,4,,,,[],,date,11 May 1917,{},,,
+7,AWD0003z9w,orders,497,3,,,,[],,person,Second Lieutenant R G Turner,"{""first""=>[""R G""], ""surname""=>[""Turner""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""170 Brigade Royal Field Artillery"", ""170th Bde Royal Field Artillery"", ""170th Bde RFA""]}",,,
+4,AWD0003z7i,orders,498,4,,,,[],,date,11 May 1917,{},,,
+3,AWD0003z8d,orders,499,3,,,,[],,date,11 May 1917,{},,,
+5,AWD0003z8d,orders,499,2,,,,[],,orders,other,{},,,
+6,AWD0003z8d,orders,499,2,,,,[],,person,Second Lieutenant A F Rickard,"{""first""=>[""A F""], ""surname""=>[""Rickard""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other"", ""author""], ""unit""=>[""170th Bde Royal Field Artillery"", ""170 Bde RFA""]}",,,
+3,AWD0003z9k,orders,500,3,,,,[],,date,11 May 1917,{},,,
+7,AWD0003z9k,orders,500,2,,,,[],,orders,attack,{},,,
+8,AWD0003z9k,orders,500,3,,,,[],,person,Second Lieutenant A F Rickard,"{""first""=>[""A F""], ""surname""=>[""Rickard""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""A/Adj. 170 Brigade Royal Field Artillery"", ""170th Bde Royal Field Artillery"", ""170th Brigade RFA""]}",,,
+2,AWD0003z8i,report,501,5,,,,[],,date,23 May 1917,{},,,
+6,AWD0003z8i,report,501,4,,,,[],,person,Lieutenant Colonel C B Simonds,"{""first""=>[""C B""], ""surname""=>[""Simonds""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""170th Bde Royal Field Artillery"", ""170 Brigade Royal Field Artillery"", ""170th (County Palatine) brigade RFA"", """"]}",,,
+3,AWD0003z8f,orders,502,4,,,,[],,date,17 May 1917,{},,,
+7,AWD0003z8f,orders,502,3,,,,[],,person,Second Lieutenant A F Rickard,"{""first""=>[""A F""], ""surname""=>[""Rickard""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""170th Bde Royal Field Artillery"", ""A/Adj. 170 Brigade Royal Field Artillery"", ""\""Pip\"" Group""]}",,,
+4,AWD0003zcg,orders,503,4,,,,[],,date,17 May 1917,{},,,
+5,AWD0003zcg,orders,503,2,,,,[],,orders,attack,{},,,
+6,AWD0003zcg,orders,503,3,,,,[],,person,Second Lieutenant A F Rickard,"{""first""=>[""A F""], ""surname""=>[""Rickard""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""170th Bde Royal Field Artillery"", ""A/Adj. 170 Brigade Royal Field Artillery"", ""170th(CP) Brigade RFA""]}",,,
+5,AWD0003z85,orders,504,5,,,,[],,date,17 May 1917,{},,,
+6,AWD0003z85,orders,504,2,,,,[],,orders,attack,{},,,
+7,AWD0003z85,orders,504,3,,,,[],,person,Second Lieutenant A F Rickard,"{""first""=>[""A F""], ""surname""=>[""Rickard""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""170th Bde Royal Field Artillery"", ""A/Adj.  170 Brigade Royal Field Artillery"", ""170th Brigade RFA""]}",,,
+7,AWD0003z9a,orders,505,4,,,,[],,date,17 May 1917,{},,,
+2,AWD0003z8w,orders,506,2,,,,[],,orders,attack,{},,,
+4,AWD0003z8w,orders,506,5,,,,[],,date,18 May 1917,{},,,
+4,AWD0003z9y,orders,507,5,,,,[],,date,26 May 1917,{},,,
+7,AWD0003z9y,orders,507,4,,,,[],,person,Lieutenant C C Reay,"{""first""=>[""C C""], ""surname""=>[""Reay""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other"", ""author""], ""unit""=>[""Adj. 170 Brigade Royal Field Artillery"", ""170th Bde Royal Field Artillery"", ""170th Brigade RFA"", """"]}",,,
+3,AWD0003z7p,orders,508,3,,,,[],,orders,attack,{},,,
+5,AWD0003z7p,orders,508,2,,,,[],,date,26 May 1917,{},,,
+7,AWD0003z7p,orders,508,2,,,,[],,person,Major A K G White,"{""first""=>[""A K G""], ""surname""=>[""White""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other"", ""commander""], ""unit""=>[""63rd Divl Artillery"", ""Bde Major 63rd (RN) Divisional Artillery""]}",,,

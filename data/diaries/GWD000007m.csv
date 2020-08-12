@@ -1,0 +1,849 @@
+Order,Page,Page type,Page number,Count,DateTime,Date,Place,Lat/Lon,Time,Type,Label,Data,GeoID,GeoName,GeoCoords
+1,AWD00014tk,diary,80,4,1915-03-11 00:00:00 UTC,11 Mar 1915,"","[0.0, 0.0]","",diaryDate,11 Mar 1915,"{""day""=>[""11""], ""month""=>[""Mar""], ""year""=>[""1915""]}",2985684,Pozières,"[2.72929, 50.04047]"
+5,AWD00014tk,diary,80,5,1915-03-11 00:00:00 UTC,11 Mar 1915,"","[0.0, 0.0]","",casualties,killed: 1,{},2985684,Pozières,"[2.72929, 50.04047]"
+6,AWD00014tk,diary,80,3,1915-03-11 00:00:00 UTC,11 Mar 1915,"LA CZYTTE, La Czyzze, la czyzze","[0.0, 0.0]","",place,"LA CZYTTE, La Czyzze, la czyzze","{""place""=>[""LA CZYTTE"", ""La Czyzze"", ""la czyzze""], ""location""=>[""true""], ""name""=>[""Arras"", ""Waldorf"", """"], ""lat""=>[""50.29301"", ""50.7613"", """"], ""long""=>[""2.78186"", ""6.94936"", """"], ""id""=>[""3036784"", ""2814839"", """"]}",,,
+9,AWD00014tk,diary,80,2,1915-03-11 00:00:00 UTC,11 Mar 1915,"LA CZYTTE, La Czyzze, la czyzze","[0.0, 0.0]","",activity,line,{},,,
+10,AWD00014tk,diary,80,2,1915-03-12 00:00:00 UTC,12 Mar 1915,"LA CZYTTE, La Czyzze, la czyzze","[0.0, 0.0]","",diaryDate,12 Mar 1915,"{""day""=>[""12""], ""month""=>[""Mar""], ""year""=>[""1915""]}",,,
+11,AWD00014tk,diary,80,5,1915-03-12 00:00:00 UTC,12 Mar 1915,"LA CZYTTE, La Czyzze, la czyzze","[0.0, 0.0]","",casualties,wounded: 2,{},,,
+12,AWD00014tk,diary,80,3,1915-03-13 00:00:00 UTC,13 Mar 1915,"LA CZYTTE, La Czyzze, la czyzze","[0.0, 0.0]","",diaryDate,13 Mar 1915,"{""day""=>[""13""], ""month""=>[""Mar""], ""year""=>[""1915""]}",,,
+13,AWD00014tk,diary,80,2,1915-03-13 00:00:00 UTC,13 Mar 1915,"LA CZYTTE, La Czyzze, la czyzze","[0.0, 0.0]","",unit,1st Gordon High,"{""name""=>[""1st Gordon High""], ""context""=>[""joined""]}",,,
+14,AWD00014tk,diary,80,3,1915-03-13 00:00:00 UTC,13 Mar 1915,"LA CZYTTE, La Czyzze, la czyzze","[0.0, 0.0]","",activity,reconnoitered,{},,,
+16,AWD00014tk,diary,80,5,1915-03-13 00:00:00 UTC,13 Mar 1915,"LA CZYTTE, La Czyzze, la czyzze","[0.0, 0.0]","",casualties,wounded: 1,{},,,
+18,AWD00014tk,diary,80,3,1915-03-14 00:00:00 UTC,14 Mar 1915,"LA CZYTTE, La Czyzze, la czyzze","[0.0, 0.0]","",diaryDate,14 Mar 1915,"{""day""=>[""14""], ""month""=>[""Mar""], ""year""=>[""1915""]}",,,
+25,AWD00014tk,diary,80,3,1915-03-14 00:00:00 UTC,14 Mar 1915,"Locre, locre, LOCRE","[0.0, 0.0]","",place,"Locre, locre, LOCRE","{""place""=>[""Locre"", ""locre"", ""LOCRE""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2792198,Loker,"[2.77234, 50.78166]"
+27,AWD00014tk,diary,80,2,1915-03-14 00:00:00 UTC,14 Mar 1915,"Locre, locre, LOCRE","[0.0, 0.0]","",activity,enemy_activity,{},2792198,Loker,"[2.77234, 50.78166]"
+30,AWD00014tk,diary,80,2,1915-03-14 00:00:00 UTC,14 Mar 1915,"Locre, locre, LOCRE","[0.0, 0.0]","",place,"Sc Elroy, sc elrol","{""place""=>[""Sc Elroy"", ""sc elrol""], ""location""=>[""false"", ""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2792198,Loker,"[2.77234, 50.78166]"
+31,AWD00014tk,diary,80,3,1915-03-14 00:00:00 UTC,14 Mar 1915,"Locre, locre, LOCRE","[0.0, 0.0]","",activity,reconnoitered,{},2792198,Loker,"[2.77234, 50.78166]"
+32,AWD00014tk,diary,80,4,1915-03-14 00:00:00 UTC,14 Mar 1915,"Locre, locre, LOCRE","[0.0, 0.0]","",casualties,wounded: 1,{},2792198,Loker,"[2.77234, 50.78166]"
+33,AWD00014tk,diary,80,3,1915-03-15 00:00:00 UTC,15 Mar 1915,"Locre, locre, LOCRE","[0.0, 0.0]","",diaryDate,15 Mar 1915,"{""day""=>[""15""], ""month""=>[""Mar""], ""year""=>[""1915""]}",2792198,Loker,"[2.77234, 50.78166]"
+35,AWD00014tk,diary,80,2,1915-03-15 00:00:00 UTC,15 Mar 1915,"Locre, locre, LOCRE","[0.0, 0.0]","",domestic,inspections,{},2792198,Loker,"[2.77234, 50.78166]"
+37,AWD00014tk,diary,80,3,1915-03-16 00:00:00 UTC,16 Mar 1915,"Locre, locre, LOCRE","[0.0, 0.0]","",diaryDate,16 Mar 1915,"{""day""=>[""16""], ""month""=>[""Mar""], ""year""=>[""1915""]}",2792198,Loker,"[2.77234, 50.78166]"
+41,AWD00014tk,diary,80,3,1915-03-16 00:00:00 UTC,16 Mar 1915,Rossignal,"[0.0, 0.0]","",place,Rossignal,"{""place""=>[""Rossignal""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+42,AWD00014tk,diary,80,3,1915-03-17 00:00:00 UTC,17 Mar 1915,Rossignal,"[0.0, 0.0]","",diaryDate,17 Mar 1915,"{""day""=>[""17""], ""month""=>[""Mar""], ""year""=>[""1915""]}",,,
+48,AWD00014tk,diary,80,2,1915-03-17 00:00:00 UTC,17 Mar 1915,Rossignal,"[0.0, 0.0]","",casualties,killed: 1,{},,,
+49,AWD00014tk,diary,80,3,1915-03-17 00:00:00 UTC,17 Mar 1915,Rossignal,"[0.0, 0.0]","",activity,reserve,{},,,
+51,AWD00014tk,diary,80,3,1915-03-18 00:00:00 UTC,18 Mar 1915,Rossignal,"[0.0, 0.0]","",diaryDate,18 Mar 1915,"{""day""=>[""18""], ""month""=>[""Mar""], ""year""=>[""1915""]}",,,
+53,AWD00014tk,diary,80,2,1915-03-18 00:00:00 UTC,18 Mar 1915,Rossignal,"[0.0, 0.0]","",activity,line,{},,,
+54,AWD00014tk,diary,80,2,1915-03-18 00:00:00 UTC,18 Mar 1915,Rossignal,"[0.0, 0.0]","",activity,reconnoitered,{},,,
+55,AWD00014tk,diary,80,3,1915-03-19 00:00:00 UTC,19 Mar 1915,Rossignal,"[0.0, 0.0]","",diaryDate,19 Mar 1915,"{""day""=>[""19""], ""month""=>[""Mar""], ""year""=>[""1915""]}",,,
+56,AWD00014tk,diary,80,4,1915-03-19 00:00:00 UTC,19 Mar 1915,Rossignal,"[0.0, 0.0]","",casualties,"killed: 2, wounded: 1",{},,,
+58,AWD00014tk,diary,80,2,1915-03-19 00:00:00 UTC,19 Mar 1915,Rossignal,"[0.0, 0.0]","",place,"Vierstrat, VIERSTRAT","{""place""=>[""Vierstrat"", ""VIERSTRAT""], ""location""=>[""false"", ""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+60,AWD00014tk,diary,80,4,1915-03-19 00:00:00 UTC,19 Mar 1915,Rossignal,"[0.0, 0.0]","",casualties,"killed: 2, wounded: 1",{},,,
+61,AWD00014tk,diary,80,3,1915-03-20 00:00:00 UTC,20 Mar 1915,Rossignal,"[0.0, 0.0]","",diaryDate,20 Mar 1915,"{""day""=>[""20""], ""month""=>[""Mar""], ""year""=>[""1915""]}",,,
+62,AWD00014tk,diary,80,2,1915-03-20 00:00:00 UTC,20 Mar 1915,Rossignal,"[0.0, 0.0]","",activity,line,{},,,
+63,AWD00014tk,diary,80,4,1915-03-20 00:00:00 UTC,20 Mar 1915,Rossignal,"[0.0, 0.0]","",casualties,non_combat: 1,{},,,
+65,AWD00014tk,diary,80,3,1915-03-21 00:00:00 UTC,21 Mar 1915,Rossignal,"[0.0, 0.0]","",diaryDate,21 Mar 1915,"{""day""=>[""21""], ""month""=>[""Mar""], ""year""=>[""1915""]}",,,
+66,AWD00014tk,diary,80,3,1915-03-22 00:00:00 UTC,22 Mar 1915,Rossignal,"[0.0, 0.0]","",diaryDate,22 Mar 1915,"{""day""=>[""22""], ""month""=>[""Mar""], ""year""=>[""1915""]}",,,
+67,AWD00014tk,diary,80,4,1915-03-22 00:00:00 UTC,22 Mar 1915,Rossignal,"[0.0, 0.0]","",casualties,"killed: 1, wounded: 1",{},,,
+69,AWD00014tk,diary,80,3,1915-03-23 00:00:00 UTC,23 Mar 1915,Rossignal,"[0.0, 0.0]","",diaryDate,23 Mar 1915,"{""day""=>[""23""], ""month""=>[""Mar""], ""year""=>[""1915""]}",,,
+70,AWD00014tk,diary,80,4,1915-03-24 00:00:00 UTC,24 Mar 1915,Rossignal,"[0.0, 0.0]","",diaryDate,24 Mar 1915,"{""day""=>[""24""], ""month""=>[""Mar""], ""year""=>[""1915""]}",,,
+72,AWD00014tk,diary,80,4,1915-03-24 00:00:00 UTC,24 Mar 1915,Rossignal,"[0.0, 0.0]","",casualties,killed: 1,{},,,
+1,AWD00014ub,diary,81,7,1915-03-25 00:00:00 UTC,25 Mar 1915,Rossignal,"[0.0, 0.0]","",diaryDate,25 Mar 1915,"{""day""=>[""25""], ""month""=>[""Mar""], ""year""=>[""1915""]}",,,
+2,AWD00014ub,diary,81,6,1915-03-25 00:00:00 UTC,25 Mar 1915,La Clytte,"[0.0, 0.0]","",place,La Clytte,"{""place""=>[""La Clytte""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2799730,De Klijte,"[2.79836, 50.79957]"
+5,AWD00014ub,diary,81,2,1915-03-25 00:00:00 UTC,25 Mar 1915,LA CLYTTE,"[0.0, 0.0]","",place,LA CLYTTE,"{""place""=>[""LA CLYTTE""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2799730,De Klijte,"[2.79836, 50.79957]"
+6,AWD00014ub,diary,81,3,1915-03-25 00:00:00 UTC,25 Mar 1915,LA CLYTTE,"[0.0, 0.0]","",activity,line,{},2799730,De Klijte,"[2.79836, 50.79957]"
+7,AWD00014ub,diary,81,4,1915-03-25 00:00:00 UTC,25 Mar 1915,LA CLYTTE,"[0.0, 0.0]","",activity,movement,{},2799730,De Klijte,"[2.79836, 50.79957]"
+9,AWD00014ub,diary,81,6,1915-03-26 00:00:00 UTC,26 Mar 1915,LA CLYTTE,"[0.0, 0.0]","",diaryDate,26 Mar 1915,"{""day""=>[""26""], ""month""=>[""Mar""], ""year""=>[""1915""]}",2799730,De Klijte,"[2.79836, 50.79957]"
+12,AWD00014ub,diary,81,2,1915-03-26 00:00:00 UTC,26 Mar 1915,La Clytte,"[0.0, 0.0]","",place,La Clytte,"{""place""=>[""La Clytte""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2799730,De Klijte,"[2.79836, 50.79957]"
+13,AWD00014ub,diary,81,5,1915-03-27 00:00:00 UTC,27 Mar 1915,La Clytte,"[0.0, 0.0]","",diaryDate,27 Mar 1915,"{""day""=>[""27""], ""month""=>[""Mar""], ""year""=>[""1915""]}",2799730,De Klijte,"[2.79836, 50.79957]"
+14,AWD00014ub,diary,81,3,1915-03-27 00:00:00 UTC,27 Mar 1915,La Clytte,"[0.0, 0.0]","",activity,resting,{},2799730,De Klijte,"[2.79836, 50.79957]"
+15,AWD00014ub,diary,81,2,1915-03-27 00:00:00 UTC,27 Mar 1915,LA CLYTTE,"[0.0, 0.0]","",place,LA CLYTTE,"{""place""=>[""LA CLYTTE""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2799730,De Klijte,"[2.79836, 50.79957]"
+18,AWD00014ub,diary,81,5,1915-03-28 00:00:00 UTC,28 Mar 1915,LA CLYTTE,"[0.0, 0.0]","",diaryDate,28 Mar 1915,"{""day""=>[""28""], ""month""=>[""Mar""], ""year""=>[""1915""]}",2799730,De Klijte,"[2.79836, 50.79957]"
+19,AWD00014ub,diary,81,6,1915-03-29 00:00:00 UTC,29 Mar 1915,LA CLYTTE,"[0.0, 0.0]","",diaryDate,29 Mar 1915,"{""day""=>[""29""], ""month""=>[""Mar""], ""year""=>[""1915""]}",2799730,De Klijte,"[2.79836, 50.79957]"
+22,AWD00014ub,diary,81,3,1915-03-29 00:00:00 UTC,29 Mar 1915,LA CLYTTE,"[0.0, 0.0]","",activity,line,{},2799730,De Klijte,"[2.79836, 50.79957]"
+24,AWD00014ub,diary,81,2,1915-03-29 00:00:00 UTC,29 Mar 1915,La Clytte,"[0.0, 0.0]","",place,La Clytte,"{""place""=>[""La Clytte""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2799730,De Klijte,"[2.79836, 50.79957]"
+25,AWD00014ub,diary,81,2,1915-03-29 00:00:00 UTC,29 Mar 1915,La Clytte,"[0.0, 0.0]","",activity,movement,{},2799730,De Klijte,"[2.79836, 50.79957]"
+26,AWD00014ub,diary,81,5,1915-03-30 00:00:00 UTC,30 Mar 1915,La Clytte,"[0.0, 0.0]","",diaryDate,30 Mar 1915,"{""day""=>[""30""], ""month""=>[""Mar""], ""year""=>[""1915""]}",2799730,De Klijte,"[2.79836, 50.79957]"
+29,AWD00014ub,diary,81,5,1915-03-31 00:00:00 UTC,31 Mar 1915,La Clytte,"[0.0, 0.0]","",diaryDate,31 Mar 1915,"{""day""=>[""31""], ""month""=>[""Mar""], ""year""=>[""1915""]}",2799730,De Klijte,"[2.79836, 50.79957]"
+1,AWD00014tt,diary,82,7,1915-06-01 00:00:00 UTC,1 Jun 1915,La Clytte,"[0.0, 0.0]","",diaryDate,1 Jun 1915,"{""day""=>[""1""], ""month""=>[""Jun""], ""year""=>[""1915""]}",2799730,De Klijte,"[2.79836, 50.79957]"
+3,AWD00014tt,diary,82,3,1915-06-01 00:00:00 UTC,1 Jun 1915,La Clytte,"[0.0, 0.0]","",activity,line,{},2799730,De Klijte,"[2.79836, 50.79957]"
+4,AWD00014tt,diary,82,6,1915-06-01 00:00:00 UTC,1 Jun 1915,Vlamertinghe,"[2.82024, 50.85485]","",place,Vlamertinghe,"{""place""=>[""Vlamertinghe""], ""location""=>[""true""], ""name""=>[""Vlamertinge""], ""lat""=>[""50.85485""], ""long""=>[""2.82024""], ""id""=>[""2784504""]}",2899294,Hooge,"[8.54425, 54.56889]"
+6,AWD00014tt,diary,82,2,1915-06-01 00:00:00 UTC,1 Jun 1915,Vlamertinghe,"[2.82024, 50.85485]","",activity,movement,{},2899294,Hooge,"[8.54425, 54.56889]"
+7,AWD00014tt,diary,82,7,1915-06-01 00:00:00 UTC,1 Jun 1915,Vlamertinghe,"[2.82024, 50.85485]","",casualties,"killed: 1, wounded: 1",{},2899294,Hooge,"[8.54425, 54.56889]"
+8,AWD00014tt,diary,82,6,1915-06-02 00:00:00 UTC,2 Jun 1915,Vlamertinghe,"[2.82024, 50.85485]","",diaryDate,2 Jun 1915,"{""day""=>[""2""], ""month""=>[""Jun""], ""year""=>[""1915""]}",2899294,Hooge,"[8.54425, 54.56889]"
+9,AWD00014tt,diary,82,3,1915-06-02 00:00:00 UTC,2 Jun 1915,Vlamertinghe,"[2.82024, 50.85485]","",activity,line,{},2899294,Hooge,"[8.54425, 54.56889]"
+10,AWD00014tt,diary,82,4,1915-06-02 00:00:00 UTC,2 Jun 1915,Vlamertinghe,"[2.82024, 50.85485]","",activity,reserve,{},2899294,Hooge,"[8.54425, 54.56889]"
+11,AWD00014tt,diary,82,2,1915-06-02 00:00:00 UTC,2 Jun 1915,"VLAMERTINGHE, Vlamertinghe","[2.82024, 50.85485]","",place,"VLAMERTINGHE, Vlamertinghe","{""place""=>[""VLAMERTINGHE"", ""Vlamertinghe""], ""location""=>[""true""], ""name""=>[""Vlamertinge"", """"], ""lat""=>[""50.85485"", """"], ""long""=>[""2.82024"", """"], ""id""=>[""2784504"", """"]}",2784504,Vlamertinge,"[2.82024, 50.85485]"
+12,AWD00014tt,diary,82,3,1915-06-02 00:00:00 UTC,2 Jun 1915,HOOGE,"[8.54425, 54.56889]","",place,HOOGE,"{""place""=>[""HOOGE""], ""location""=>[""true""], ""name""=>[""Hooge""], ""lat""=>[""54.56889""], ""long""=>[""8.54425""], ""id""=>[""2899294""]}",2795611,Hoge,"[2.92377, 50.83747]"
+13,AWD00014tt,diary,82,5,1915-06-02 00:00:00 UTC,2 Jun 1915,HOOGE,"[8.54425, 54.56889]","",activity,fire,{},2795611,Hoge,"[2.92377, 50.83747]"
+14,AWD00014tt,diary,82,7,1915-06-02 00:00:00 UTC,2 Jun 1915,HOOGE,"[8.54425, 54.56889]","",casualties,wounded: 11,{},2795611,Hoge,"[2.92377, 50.83747]"
+16,AWD00014tt,diary,82,3,1915-06-02 00:00:00 UTC,2 Jun 1915,HOOGE,"[8.54425, 54.56889]","",activity,fire,{},2795611,Hoge,"[2.92377, 50.83747]"
+17,AWD00014tt,diary,82,2,1915-06-02 00:00:00 UTC,2 Jun 1915,HOOGE,"[8.54425, 54.56889]","",activity,attack,{},2795611,Hoge,"[2.92377, 50.83747]"
+18,AWD00014tt,diary,82,3,1915-06-02 00:00:00 UTC,2 Jun 1915,HOOGE,"[8.54425, 54.56889]","",place,"Hooge , Hooge, HOOGE","{""place""=>[""Hooge "", ""Hooge"", ""HOOGE""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2795611,Hoge,"[2.92377, 50.83747]"
+20,AWD00014tt,diary,82,6,1915-06-03 00:00:00 UTC,3 Jun 1915,HOOGE,"[8.54425, 54.56889]","",diaryDate,3 Jun 1915,"{""day""=>[""3""], ""month""=>[""Jun""], ""year""=>[""1915""]}",2795611,Hoge,"[2.92377, 50.83747]"
+21,AWD00014tt,diary,82,2,1915-06-03 00:00:00 UTC,3 Jun 1915,HOOGE,"[8.54425, 54.56889]","",activity,line,{},2795611,Hoge,"[2.92377, 50.83747]"
+22,AWD00014tt,diary,82,2,1915-06-03 00:00:00 UTC,3 Jun 1915,"VLAMERTINGHE, Vlamertinghe","[2.82024, 50.85485]","",place,"VLAMERTINGHE, Vlamertinghe","{""place""=>[""VLAMERTINGHE"", ""Vlamertinghe""], ""location""=>[""true""], ""name""=>[""Vlamertinge"", """"], ""lat""=>[""50.85485"", """"], ""long""=>[""2.82024"", """"], ""id""=>[""2784504"", """"]}",2784504,Vlamertinge,"[2.82024, 50.85485]"
+24,AWD00014tt,diary,82,6,1915-06-03 00:00:00 UTC,3 Jun 1915,"VLAMERTINGHE, Vlamertinghe","[2.82024, 50.85485]","",casualties,wounded: 2,{},2784504,Vlamertinge,"[2.82024, 50.85485]"
+25,AWD00014tt,diary,82,6,1915-06-04 00:00:00 UTC,4 Jun 1915,"VLAMERTINGHE, Vlamertinghe","[2.82024, 50.85485]","",diaryDate,4 Jun 1915,"{""day""=>[""4""], ""month""=>[""Jun""], ""year""=>[""1915""]}",2784504,Vlamertinge,"[2.82024, 50.85485]"
+26,AWD00014tt,diary,82,2,1915-06-04 00:00:00 UTC,4 Jun 1915,"VLAMERTINGHE, Vlamertinghe","[2.82024, 50.85485]","",activity,line,{},2784504,Vlamertinge,"[2.82024, 50.85485]"
+27,AWD00014tt,diary,82,2,1915-06-04 00:00:00 UTC,4 Jun 1915,"VLAMERTINGHE, Vlamertinghe","[2.82024, 50.85485]","",activity,movement,{},2784504,Vlamertinge,"[2.82024, 50.85485]"
+28,AWD00014tt,diary,82,2,1915-06-04 00:00:00 UTC,4 Jun 1915,"Vlamertinghe, VLAMERTINGHE","[2.82024, 50.85485]","",place,"Vlamertinghe, VLAMERTINGHE","{""place""=>[""Vlamertinghe"", ""VLAMERTINGHE""], ""location""=>[""true""], ""name""=>["""", ""Vlamertinge""], ""lat""=>["""", ""50.85485""], ""long""=>["""", ""2.82024""], ""id""=>["""", ""2784504""]}",2784504,Vlamertinge,"[2.82024, 50.85485]"
+29,AWD00014tt,diary,82,2,1915-06-04 00:00:00 UTC,4 Jun 1915,"Vlamertinghe, VLAMERTINGHE","[2.82024, 50.85485]","",casualties,wounded: 1,{},2784504,Vlamertinge,"[2.82024, 50.85485]"
+30,AWD00014tt,diary,82,3,1915-06-04 00:00:00 UTC,4 Jun 1915,"Vlamertinghe, VLAMERTINGHE","[2.82024, 50.85485]","",activity,fire,{},2784504,Vlamertinge,"[2.82024, 50.85485]"
+32,AWD00014tt,diary,82,5,1915-06-04 00:00:00 UTC,4 Jun 1915,"Vlamertinghe, VLAMERTINGHE","[2.82024, 50.85485]","",person,Second Lieutenant  Simpson,"{""first""=>[""""], ""surname""=>[""Simpson""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",2784504,Vlamertinge,"[2.82024, 50.85485]"
+34,AWD00014tt,diary,82,5,1915-06-05 00:00:00 UTC,5 Jun 1915,"Vlamertinghe, VLAMERTINGHE","[2.82024, 50.85485]","",diaryDate,5 Jun 1915,"{""day""=>[""5""], ""month""=>[""Jun""], ""year""=>[""1915""]}",2784504,Vlamertinge,"[2.82024, 50.85485]"
+35,AWD00014tt,diary,82,2,1915-06-05 00:00:00 UTC,5 Jun 1915,"VLAMERTINGHE, Vlamertinghe","[2.82024, 50.85485]","",place,"VLAMERTINGHE, Vlamertinghe","{""place""=>[""VLAMERTINGHE"", ""Vlamertinghe""], ""location""=>[""true""], ""name""=>[""Vlamertinge"", """"], ""lat""=>[""50.85485"", """"], ""long""=>[""2.82024"", """"], ""id""=>[""2784504"", """"]}",2784504,Vlamertinge,"[2.82024, 50.85485]"
+37,AWD00014tt,diary,82,4,1915-06-05 00:00:00 UTC,5 Jun 1915,"VLAMERTINGHE, Vlamertinghe","[2.82024, 50.85485]","",activity,line,{},2784504,Vlamertinge,"[2.82024, 50.85485]"
+38,AWD00014tt,diary,82,2,1915-06-05 00:00:00 UTC,5 Jun 1915,"VLAMERTINGHE, Vlamertinghe","[2.82024, 50.85485]","",activity,quiet,{},2784504,Vlamertinge,"[2.82024, 50.85485]"
+39,AWD00014tt,diary,82,6,1915-06-06 00:00:00 UTC,6 Jun 1915,"VLAMERTINGHE, Vlamertinghe","[2.82024, 50.85485]","",diaryDate,6 Jun 1915,"{""day""=>[""6""], ""month""=>[""Jun""], ""year""=>[""1915""]}",2784504,Vlamertinge,"[2.82024, 50.85485]"
+40,AWD00014tt,diary,82,2,1915-06-06 00:00:00 UTC,6 Jun 1915,"VLAMERTINGHE, Vlamertinghe","[2.82024, 50.85485]","",place,"VLAMERTINGHE, Vlamertinghe","{""place""=>[""VLAMERTINGHE"", ""Vlamertinghe""], ""location""=>[""true""], ""name""=>[""Vlamertinge"", """"], ""lat""=>[""50.85485"", """"], ""long""=>[""2.82024"", """"], ""id""=>[""2784504"", """"]}",2784504,Vlamertinge,"[2.82024, 50.85485]"
+41,AWD00014tt,diary,82,7,1915-06-06 00:00:00 UTC,6 Jun 1915,"VLAMERTINGHE, Vlamertinghe","[2.82024, 50.85485]","",casualties,wounded: 1,{},2784504,Vlamertinge,"[2.82024, 50.85485]"
+42,AWD00014tt,diary,82,6,1915-06-07 00:00:00 UTC,7 Jun 1915,"VLAMERTINGHE, Vlamertinghe","[2.82024, 50.85485]","",diaryDate,7 Jun 1915,"{""day""=>[""7""], ""month""=>[""Jun""], ""year""=>[""1915""]}",2784504,Vlamertinge,"[2.82024, 50.85485]"
+43,AWD00014tt,diary,82,2,1915-06-07 00:00:00 UTC,7 Jun 1915,"VLAMERTINGHE, Vlamertinghe","[2.82024, 50.85485]","",activity,line,{},2784504,Vlamertinge,"[2.82024, 50.85485]"
+45,AWD00014tt,diary,82,2,1915-06-07 00:00:00 UTC,7 Jun 1915,"VLAMERTINGHE, Vlamertinghe","[2.82024, 50.85485]","",place,"VLAMERTINGHE, Vlamertinghe","{""place""=>[""VLAMERTINGHE"", ""Vlamertinghe""], ""location""=>[""true""], ""name""=>[""Vlamertinge"", """"], ""lat""=>[""50.85485"", """"], ""long""=>[""2.82024"", """"], ""id""=>[""2784504"", """"]}",2784504,Vlamertinge,"[2.82024, 50.85485]"
+46,AWD00014tt,diary,82,3,1915-06-07 00:00:00 UTC,7 Jun 1915,"VLAMERTINGHE, Vlamertinghe","[2.82024, 50.85485]","",person,"Second Lieutenant  Hopkinson, HOPKINSON, KINSON","{""first""=>[""""], ""surname""=>[""Hopkinson"", ""HOPKINSON"", ""KINSON""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",2784504,Vlamertinge,"[2.82024, 50.85485]"
+47,AWD00014tt,diary,82,3,1915-06-07 00:00:00 UTC,7 Jun 1915,"VLAMERTINGHE, Vlamertinghe","[2.82024, 50.85485]","",casualties,wounded: 5,{},2784504,Vlamertinge,"[2.82024, 50.85485]"
+48,AWD00014tt,diary,82,3,1915-06-07 00:00:00 UTC,7 Jun 1915,"VLAMERTINGHE, Vlamertinghe","[2.82024, 50.85485]","",casualties,wounded: 4,{},2784504,Vlamertinge,"[2.82024, 50.85485]"
+50,AWD00014tt,diary,82,6,1915-06-08 00:00:00 UTC,8 Jun 1915,"VLAMERTINGHE, Vlamertinghe","[2.82024, 50.85485]","",diaryDate,8 Jun 1915,"{""day""=>[""8""], ""month""=>[""Jun""], ""year""=>[""1915""]}",2784504,Vlamertinge,"[2.82024, 50.85485]"
+51,AWD00014tt,diary,82,2,1915-06-08 00:00:00 UTC,8 Jun 1915,"VLAMERTINGHE, Vlamertinghe","[2.82024, 50.85485]","",place,"VLAMERTINGHE, Vlamertinghe","{""place""=>[""VLAMERTINGHE"", ""Vlamertinghe""], ""location""=>[""true""], ""name""=>[""Vlamertinge"", """"], ""lat""=>[""50.85485"", """"], ""long""=>[""2.82024"", """"], ""id""=>[""2784504"", """"]}",2784504,Vlamertinge,"[2.82024, 50.85485]"
+52,AWD00014tt,diary,82,2,1915-06-08 00:00:00 UTC,8 Jun 1915,"VLAMERTINGHE, Vlamertinghe","[2.82024, 50.85485]","",activity,line,{},2784504,Vlamertinge,"[2.82024, 50.85485]"
+55,AWD00014tt,diary,82,7,1915-06-08 00:00:00 UTC,8 Jun 1915,"VLAMERTINGHE, Vlamertinghe","[2.82024, 50.85485]","",casualties,wounded: 2,{},2784504,Vlamertinge,"[2.82024, 50.85485]"
+1,AWD00014ts,diary,83,6,1915-06-16 00:00:00 UTC,16 Jun 1915,"VLAMERTINGHE, Vlamertinghe","[2.82024, 50.85485]","",diaryDate,16 Jun 1915,"{""day""=>[""16""], ""month""=>[""Jun""], ""year""=>[""1915""]}",2784504,Vlamertinge,"[2.82024, 50.85485]"
+2,AWD00014ts,diary,83,2,1915-06-16 00:00:00 UTC,16 Jun 1915,"VLAMERTINGHE, Vlamertinghe","[2.82024, 50.85485]","",activity,quiet,{},2784504,Vlamertinge,"[2.82024, 50.85485]"
+3,AWD00014ts,diary,83,5,1915-06-16 00:00:00 UTC,16 Jun 1915,"VLAMERTINGHE, Vlamertinghe","[2.82024, 50.85485]","",weather,fog,{},2784504,Vlamertinge,"[2.82024, 50.85485]"
+4,AWD00014ts,diary,83,6,1915-06-16 02:00:00 UTC,16 Jun 1915,"VLAMERTINGHE, Vlamertinghe","[2.82024, 50.85485]",0200AM,time,0200AM,{},2784504,Vlamertinge,"[2.82024, 50.85485]"
+5,AWD00014ts,diary,83,5,1915-06-16 02:00:00 UTC,16 Jun 1915,"VLAMERTINGHE, Vlamertinghe","[2.82024, 50.85485]",0200AM,activity,attack,{},2784504,Vlamertinge,"[2.82024, 50.85485]"
+6,AWD00014ts,diary,83,3,1915-06-16 02:50:00 UTC,16 Jun 1915,"VLAMERTINGHE, Vlamertinghe","[2.82024, 50.85485]",0250AM,time,0250AM,{},2784504,Vlamertinge,"[2.82024, 50.85485]"
+7,AWD00014ts,diary,83,5,1915-06-16 02:50:00 UTC,16 Jun 1915,Vlamertinghe,"[2.82024, 50.85485]",0250AM,place,Vlamertinghe,"{""place""=>[""Vlamertinghe""], ""location""=>[""true""], ""name""=>[""Vlamertinge"", """"], ""lat""=>[""50.85485"", """"], ""long""=>[""2.82024"", """"], ""id""=>[""2784504"", """"]}",2899294,Hooge,"[8.54425, 54.56889]"
+9,AWD00014ts,diary,83,5,1915-06-16 03:00:00 UTC,16 Jun 1915,Vlamertinghe,"[2.82024, 50.85485]",0300AM,time,0300AM,{},2899294,Hooge,"[8.54425, 54.56889]"
+13,AWD00014ts,diary,83,2,1915-06-16 03:00:00 UTC,16 Jun 1915,Vlamertinghe,"[2.82024, 50.85485]",0300AM,weather,fog,{},2899294,Hooge,"[8.54425, 54.56889]"
+15,AWD00014ts,diary,83,5,1915-06-16 04:00:00 UTC,16 Jun 1915,Vlamertinghe,"[2.82024, 50.85485]",0400AM,time,0400AM,{},2899294,Hooge,"[8.54425, 54.56889]"
+16,AWD00014ts,diary,83,2,1915-06-16 04:15:00 UTC,16 Jun 1915,Vlamertinghe,"[2.82024, 50.85485]",0415AM,time,0415AM,{},2899294,Hooge,"[8.54425, 54.56889]"
+17,AWD00014ts,diary,83,4,1915-06-16 04:15:00 UTC,16 Jun 1915,Vlamertinghe,"[2.82024, 50.85485]",0415AM,activity,attack,{},2899294,Hooge,"[8.54425, 54.56889]"
+23,AWD00014ts,diary,83,2,1915-06-16 07:10:00 UTC,16 Jun 1915,Vlamertinghe,"[2.82024, 50.85485]",0710AM,time,0710AM,{},2899294,Hooge,"[8.54425, 54.56889]"
+24,AWD00014ts,diary,83,3,1915-06-16 07:00:00 UTC,16 Jun 1915,Vlamertinghe,"[2.82024, 50.85485]",0700AM,time,0700AM,{},2899294,Hooge,"[8.54425, 54.56889]"
+26,AWD00014ts,diary,83,3,1915-06-16 07:00:00 UTC,16 Jun 1915,Vlamertinghe,"[2.82024, 50.85485]",0700AM,activity,fire,{},2899294,Hooge,"[8.54425, 54.56889]"
+28,AWD00014ts,diary,83,5,1915-06-16 10:00:00 UTC,16 Jun 1915,Vlamertinghe,"[2.82024, 50.85485]",1000AM,time,1000AM,{},2899294,Hooge,"[8.54425, 54.56889]"
+31,AWD00014ts,diary,83,2,1915-06-16 10:30:00 UTC,16 Jun 1915,Vlamertinghe,"[2.82024, 50.85485]",1030AM,time,1030AM,{},2899294,Hooge,"[8.54425, 54.56889]"
+33,AWD00014ts,diary,83,2,1915-06-16 10:30:00 UTC,16 Jun 1915,Vlamertinghe,"[2.82024, 50.85485]",1030AM,activity,attack,{},2899294,Hooge,"[8.54425, 54.56889]"
+34,AWD00014ts,diary,83,2,1915-06-16 10:30:00 UTC,16 Jun 1915,Vlamertinghe,"[2.82024, 50.85485]",1030AM,activity,fire,{},2899294,Hooge,"[8.54425, 54.56889]"
+37,AWD00014ts,diary,83,5,1915-06-16 11:00:00 UTC,16 Jun 1915,Vlamertinghe,"[2.82024, 50.85485]",1100AM,time,1100AM,{},2899294,Hooge,"[8.54425, 54.56889]"
+38,AWD00014ts,diary,83,3,1915-06-16 11:00:00 UTC,16 Jun 1915,Vlamertinghe,"[2.82024, 50.85485]",1100AM,activity,fire,{},2899294,Hooge,"[8.54425, 54.56889]"
+39,AWD00014ts,diary,83,2,1915-06-16 11:00:00 UTC,16 Jun 1915,Vlamertinghe,"[2.82024, 50.85485]",1100AM,activity,repair,{},2899294,Hooge,"[8.54425, 54.56889]"
+40,AWD00014ts,diary,83,3,1915-06-16 00:00:00 UTC,16 Jun 1915,Vlamertinghe,"[2.82024, 50.85485]",1200AM,time,1200AM,{},2899294,Hooge,"[8.54425, 54.56889]"
+41,AWD00014ts,diary,83,2,1915-06-16 12:00:00 UTC,16 Jun 1915,Vlamertinghe,"[2.82024, 50.85485]",1200PM,time,1200PM,{},2899294,Hooge,"[8.54425, 54.56889]"
+1,AWD00014tv,diary,84,2,1915-06-16 00:00:00 UTC,16 Jun 1915,Vlamertinghe,"[2.82024, 50.85485]","",diaryDate,16 Jun 1915,"{""day""=>[""16""], ""month""=>[""Jun""], ""year""=>[""1915""]}",2899294,Hooge,"[8.54425, 54.56889]"
+2,AWD00014tv,diary,84,8,1915-06-16 00:00:00 UTC,16 Jun 1915,Vlamertinghe,"[0.0, 0.0]","",place,Vlamertinghe,"{""place""=>[""Vlamertinghe""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2899294,Hooge,"[8.54425, 54.56889]"
+3,AWD00014tv,diary,84,2,1915-06-16 12:00:00 UTC,16 Jun 1915,Vlamertinghe,"[0.0, 0.0]",1200PM,time,1200PM,{},2899294,Hooge,"[8.54425, 54.56889]"
+4,AWD00014tv,diary,84,3,1915-06-16 00:00:00 UTC,16 Jun 1915,Vlamertinghe,"[0.0, 0.0]",1200AM,time,1200AM,{},2899294,Hooge,"[8.54425, 54.56889]"
+5,AWD00014tv,diary,84,5,1915-06-16 00:00:00 UTC,16 Jun 1915,Vlamertinghe,"[0.0, 0.0]","",diaryDate,16 Jun 1915,"{""day""=>[""16""], ""month""=>[""Jun""], ""year""=>[""1915""]}",2899294,Hooge,"[8.54425, 54.56889]"
+6,AWD00014tv,diary,84,6,1915-06-16 00:00:00 UTC,16 Jun 1915,Vlamertinghe,"[0.0, 0.0]","",activity,fire,{},2899294,Hooge,"[8.54425, 54.56889]"
+7,AWD00014tv,diary,84,5,1915-06-16 13:00:00 UTC,16 Jun 1915,Vlamertinghe,"[0.0, 0.0]",0100PM,time,0100PM,{},2899294,Hooge,"[8.54425, 54.56889]"
+8,AWD00014tv,diary,84,5,1915-06-16 14:00:00 UTC,16 Jun 1915,Vlamertinghe,"[0.0, 0.0]",0200PM,time,0200PM,{},2899294,Hooge,"[8.54425, 54.56889]"
+9,AWD00014tv,diary,84,2,1915-06-16 14:00:00 UTC,16 Jun 1915,Vlamertinghe,"[0.0, 0.0]",0200PM,activity,fire,{},2899294,Hooge,"[8.54425, 54.56889]"
+12,AWD00014tv,diary,84,5,1915-06-16 15:00:00 UTC,16 Jun 1915,Vlamertinghe,"[0.0, 0.0]",0300PM,time,0300PM,{},2899294,Hooge,"[8.54425, 54.56889]"
+13,AWD00014tv,diary,84,6,1915-06-16 15:00:00 UTC,16 Jun 1915,Vlamertinghe,"[0.0, 0.0]",0300PM,activity,fire,{},2899294,Hooge,"[8.54425, 54.56889]"
+14,AWD00014tv,diary,84,2,1915-06-16 15:00:00 UTC,16 Jun 1915,Vlamertinghe,"[0.0, 0.0]",0300PM,activity,line,{},2899294,Hooge,"[8.54425, 54.56889]"
+15,AWD00014tv,diary,84,5,1915-06-16 16:00:00 UTC,16 Jun 1915,Vlamertinghe,"[0.0, 0.0]",0400PM,time,0400PM,{},2899294,Hooge,"[8.54425, 54.56889]"
+17,AWD00014tv,diary,84,5,1915-06-16 17:00:00 UTC,16 Jun 1915,Vlamertinghe,"[0.0, 0.0]",0500PM,time,0500PM,{},2899294,Hooge,"[8.54425, 54.56889]"
+18,AWD00014tv,diary,84,4,1915-06-16 17:00:00 UTC,16 Jun 1915,Vlamertinghe,"[0.0, 0.0]",0500PM,activity,fire,{},2899294,Hooge,"[8.54425, 54.56889]"
+20,AWD00014tv,diary,84,5,1915-06-16 18:00:00 UTC,16 Jun 1915,Vlamertinghe,"[0.0, 0.0]",0600PM,time,0600PM,{},2899294,Hooge,"[8.54425, 54.56889]"
+21,AWD00014tv,diary,84,5,1915-06-16 18:00:00 UTC,16 Jun 1915,Vlamertinghe,"[0.0, 0.0]",0600PM,activity,fire,{},2899294,Hooge,"[8.54425, 54.56889]"
+22,AWD00014tv,diary,84,5,1915-06-16 19:00:00 UTC,16 Jun 1915,Vlamertinghe,"[0.0, 0.0]",0700PM,time,0700PM,{},2899294,Hooge,"[8.54425, 54.56889]"
+1,AWD00014tr,diary,85,5,1915-06-16 00:00:00 UTC,16 Jun 1915,Vlamertinghe,"[0.0, 0.0]","",diaryDate,16 Jun 1915,"{""day""=>[""16""], ""month""=>[""Jun""], ""year""=>[""1915""]}",2899294,Hooge,"[8.54425, 54.56889]"
+2,AWD00014tr,diary,85,4,1915-06-16 00:00:00 UTC,16 Jun 1915,Vlamertinghe,"[0.0, 0.0]","",place,Vlamertinghe,"{""place""=>[""Vlamertinghe""], ""location""=>[""false""], ""name""=>["""", ""Vlamertinge""], ""lat""=>["""", ""50.85485""], ""long""=>["""", ""2.82024""], ""id""=>["""", ""2784504""]}",2899294,Hooge,"[8.54425, 54.56889]"
+3,AWD00014tr,diary,85,4,1915-06-16 20:00:00 UTC,16 Jun 1915,Vlamertinghe,"[0.0, 0.0]",0800PM,time,0800PM,{},2899294,Hooge,"[8.54425, 54.56889]"
+4,AWD00014tr,diary,85,6,1915-06-16 20:00:00 UTC,16 Jun 1915,Vlamertinghe,"[0.0, 0.0]",0800PM,activity,quiet,{},2899294,Hooge,"[8.54425, 54.56889]"
+5,AWD00014tr,diary,85,4,1915-06-16 20:00:00 UTC,16 Jun 1915,Vlamertinghe,"[0.0, 0.0]",0800PM,activity,fire,{},2899294,Hooge,"[8.54425, 54.56889]"
+6,AWD00014tr,diary,85,4,1915-06-16 21:00:00 UTC,16 Jun 1915,Vlamertinghe,"[0.0, 0.0]",0900PM,time,0900PM,{},2899294,Hooge,"[8.54425, 54.56889]"
+8,AWD00014tr,diary,85,2,1915-06-16 21:00:00 UTC,16 Jun 1915,Vlamertinghe,"[0.0, 0.0]",0900PM,activity,movement,{},2899294,Hooge,"[8.54425, 54.56889]"
+9,AWD00014tr,diary,85,4,1915-06-16 22:00:00 UTC,16 Jun 1915,Vlamertinghe,"[0.0, 0.0]",1000PM,time,1000PM,{},2899294,Hooge,"[8.54425, 54.56889]"
+11,AWD00014tr,diary,85,2,1915-06-16 22:00:00 UTC,16 Jun 1915,Vlamertinghe,"[0.0, 0.0]",1000PM,activity,casualty,{},2899294,Hooge,"[8.54425, 54.56889]"
+12,AWD00014tr,diary,85,2,1915-06-16 12:00:00 UTC,16 Jun 1915,Vlamertinghe,"[0.0, 0.0]",1200PM,time,1200PM,{},2899294,Hooge,"[8.54425, 54.56889]"
+13,AWD00014tr,diary,85,6,1915-06-16 12:00:00 UTC,16 Jun 1915,Vlamertinghe,"[0.0, 0.0]",1200PM,person,"Major S A Smith, SMITH","{""first""=>[""S A""], ""surname""=>[""Smith"", ""SMITH""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",2899294,Hooge,"[8.54425, 54.56889]"
+14,AWD00014tr,diary,85,6,1915-06-16 12:00:00 UTC,16 Jun 1915,Vlamertinghe,"[0.0, 0.0]",1200PM,person,"Lieutenant D S P Douglas, DOUGLAS","{""first""=>[""D S P""], ""surname""=>[""Douglas"", ""DOUGLAS""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",2899294,Hooge,"[8.54425, 54.56889]"
+17,AWD00014tr,diary,85,6,1915-06-16 12:00:00 UTC,16 Jun 1915,Vlamertinghe,"[0.0, 0.0]",1200PM,person,"Lieutenant L A,J A CLARKE","{""first""=>[""L A"", ""J A""], ""surname""=>[""CLARKE""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",2899294,Hooge,"[8.54425, 54.56889]"
+18,AWD00014tr,diary,85,6,1915-06-16 12:00:00 UTC,16 Jun 1915,Vlamertinghe,"[0.0, 0.0]",1200PM,person,"Second Lieutenant D Pratt, PRATT","{""first""=>[""D""], ""surname""=>[""Pratt"", ""PRATT""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",2899294,Hooge,"[8.54425, 54.56889]"
+20,AWD00014tr,diary,85,6,1915-06-16 12:00:00 UTC,16 Jun 1915,Vlamertinghe,"[0.0, 0.0]",1200PM,casualties,"killed: 7, wounded: 46, missing: 1",{},2899294,Hooge,"[8.54425, 54.56889]"
+21,AWD00014tr,diary,85,6,1915-06-17 00:00:00 UTC,17 Jun 1915,Vlamertinghe,"[0.0, 0.0]","",diaryDate,17 Jun 1915,"{""day""=>[""17""], ""month""=>[""Jun""], ""year""=>[""1915""]}",2899294,Hooge,"[8.54425, 54.56889]"
+24,AWD00014tr,diary,85,4,1915-06-17 00:00:00 UTC,17 Jun 1915,Vlamertinghe,"[0.0, 0.0]","",activity,fire,{},2899294,Hooge,"[8.54425, 54.56889]"
+26,AWD00014tr,diary,85,2,1915-06-17 00:00:00 UTC,17 Jun 1915,Vlamertinghe,"[0.0, 0.0]","",activity,fire,{},2899294,Hooge,"[8.54425, 54.56889]"
+27,AWD00014tr,diary,85,6,1915-06-17 00:00:00 UTC,17 Jun 1915,Vlamertinghe,"[0.0, 0.0]","",casualties,"killed: 3, wounded: 5",{},2899294,Hooge,"[8.54425, 54.56889]"
+28,AWD00014tr,diary,85,6,1915-06-18 00:00:00 UTC,18 Jun 1915,Vlamertinghe,"[0.0, 0.0]","",diaryDate,18 Jun 1915,"{""day""=>[""18""], ""month""=>[""Jun""], ""year""=>[""1915""]}",2899294,Hooge,"[8.54425, 54.56889]"
+30,AWD00014tr,diary,85,2,1915-06-18 00:00:00 UTC,18 Jun 1915,Vlamertinghe,"[0.0, 0.0]","",place,Menin Road,"{""place""=>[""Menin Road""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2899294,Hooge,"[8.54425, 54.56889]"
+32,AWD00014tr,diary,85,4,1915-06-18 00:00:00 UTC,18 Jun 1915,Vlamertinghe,"[0.0, 0.0]","",activity,clearing,{},2899294,Hooge,"[8.54425, 54.56889]"
+33,AWD00014tr,diary,85,3,1915-06-18 00:00:00 UTC,18 Jun 1915,Vlamertinghe,"[0.0, 0.0]","",activity,quiet,{},2899294,Hooge,"[8.54425, 54.56889]"
+34,AWD00014tr,diary,85,6,1915-06-19 00:00:00 UTC,19 Jun 1915,Vlamertinghe,"[0.0, 0.0]","",diaryDate,19 Jun 1915,"{""day""=>[""19""], ""month""=>[""Jun""], ""year""=>[""1915""]}",2899294,Hooge,"[8.54425, 54.56889]"
+37,AWD00014tr,diary,85,4,1915-06-19 00:00:00 UTC,19 Jun 1915,Vlamertinghe,"[0.0, 0.0]","",activity,fire,{},2899294,Hooge,"[8.54425, 54.56889]"
+38,AWD00014tr,diary,85,2,1915-06-19 00:00:00 UTC,19 Jun 1915,Vlamertinghe,"[0.0, 0.0]","",unit,"KRR, K.R. R","{""name""=>[""KRR"", ""K.R. R""], ""context""=>[""relieved_by""]}",2899294,Hooge,"[8.54425, 54.56889]"
+39,AWD00014tr,diary,85,3,1915-06-19 21:30:00 UTC,19 Jun 1915,Vlamertinghe,"[0.0, 0.0]",0930PM,time,0930PM,{},2899294,Hooge,"[8.54425, 54.56889]"
+40,AWD00014tr,diary,85,4,1915-06-19 21:30:00 UTC,19 Jun 1915,Vlamertinghe,"[0.0, 0.0]",0930PM,activity,movement,{},2899294,Hooge,"[8.54425, 54.56889]"
+43,AWD00014tr,diary,85,2,1915-06-19 21:30:00 UTC,19 Jun 1915,Vlamertinghe,"[0.0, 0.0]",0930PM,place,Vlamertinghe,"{""place""=>[""Vlamertinghe""], ""location""=>[""false""], ""name""=>["""", ""Vlamertinge""], ""lat""=>["""", ""50.85485""], ""long""=>["""", ""2.82024""], ""id""=>["""", ""2784504""]}",2899294,Hooge,"[8.54425, 54.56889]"
+44,AWD00014tr,diary,85,2,1915-06-19 21:30:00 UTC,19 Jun 1915,Vlamertinghe,"[0.0, 0.0]",0930PM,casualties,"killed: 1, wounded: 4",{},2899294,Hooge,"[8.54425, 54.56889]"
+45,AWD00014tr,diary,85,2,1915-06-19 21:30:00 UTC,19 Jun 1915,Vlamertinghe,"[0.0, 0.0]",0930PM,casualties,"killed: 1, wounded: 5",{},2899294,Hooge,"[8.54425, 54.56889]"
+47,AWD00014tr,diary,85,6,1915-06-20 00:00:00 UTC,20 Jun 1915,Vlamertinghe,"[0.0, 0.0]","",diaryDate,20 Jun 1915,"{""day""=>[""20""], ""month""=>[""Jun""], ""year""=>[""1915""]}",2899294,Hooge,"[8.54425, 54.56889]"
+49,AWD00014tr,diary,85,4,1915-06-20 00:00:00 UTC,20 Jun 1915,Vlamertinghe,"[0.0, 0.0]","",activity,resting,{},2899294,Hooge,"[8.54425, 54.56889]"
+50,AWD00014tr,diary,85,4,1915-06-20 00:00:00 UTC,20 Jun 1915,Vlamertinghe,"[0.0, 0.0]","",casualties,wounded: 1,{},2899294,Hooge,"[8.54425, 54.56889]"
+1,AWD00014tx,diary,86,7,1915-07-19 00:00:00 UTC,19 Jul 1915,Vlamertinghe,"[0.0, 0.0]","",diaryDate,19 Jul 1915,"{""day""=>[""19""], ""month""=>[""Jul""], ""year""=>[""1915""]}",2899294,Hooge,"[8.54425, 54.56889]"
+2,AWD00014tx,diary,86,6,1915-07-19 20:00:00 UTC,19 Jul 1915,Vlamertinghe,"[0.0, 0.0]",0800PM,time,0800PM,{},2899294,Hooge,"[8.54425, 54.56889]"
+3,AWD00014tx,diary,86,4,1915-07-19 20:00:00 UTC,19 Jul 1915,Vlamertinghe,"[0.0, 0.0]",0800PM,activity,enemy_activity,{},2899294,Hooge,"[8.54425, 54.56889]"
+4,AWD00014tx,diary,86,6,1915-07-19 20:00:00 UTC,19 Jul 1915,Vlamertinghe,"[0.0, 0.0]",0800PM,place,Hooge,"{""place""=>[""Hooge""], ""location""=>[""false""], ""name""=>[""Hoge""], ""lat""=>[""50.83747""], ""long""=>[""2.92377""], ""id""=>[""2795611""]}",2899294,Hooge,"[8.54425, 54.56889]"
+5,AWD00014tx,diary,86,6,1915-07-19 20:00:00 UTC,19 Jul 1915,Vlamertinghe,"[0.0, 0.0]",0800PM,activity,fire,{},2899294,Hooge,"[8.54425, 54.56889]"
+6,AWD00014tx,diary,86,6,1915-07-19 21:00:00 UTC,19 Jul 1915,Vlamertinghe,"[0.0, 0.0]",0900PM,time,0900PM,{},2899294,Hooge,"[8.54425, 54.56889]"
+8,AWD00014tx,diary,86,4,1915-07-19 21:00:00 UTC,19 Jul 1915,Vlamertinghe,"[0.0, 0.0]",0900PM,place,Island Point,"{""place""=>[""Island Point""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2899294,Hooge,"[8.54425, 54.56889]"
+11,AWD00014tx,diary,86,6,1915-07-19 21:30:00 UTC,19 Jul 1915,Vlamertinghe,"[0.0, 0.0]",0930PM,time,0930PM,{},2899294,Hooge,"[8.54425, 54.56889]"
+12,AWD00014tx,diary,86,4,1915-07-19 22:30:00 UTC,19 Jul 1915,Vlamertinghe,"[0.0, 0.0]",1030PM,time,1030PM,{},2899294,Hooge,"[8.54425, 54.56889]"
+15,AWD00014tx,diary,86,2,1915-07-19 22:30:00 UTC,19 Jul 1915,Vlamertinghe,"[0.0, 0.0]",1030PM,activity,line,{},2899294,Hooge,"[8.54425, 54.56889]"
+16,AWD00014tx,diary,86,5,1915-07-19 22:30:00 UTC,19 Jul 1915,Vlamertinghe,"[0.0, 0.0]",1030PM,casualties,"killed: 4, wounded: 13",{},2899294,Hooge,"[8.54425, 54.56889]"
+17,AWD00014tx,diary,86,6,1915-07-19 22:30:00 UTC,19 Jul 1915,Vlamertinghe,"[0.0, 0.0]",1030PM,person,Second Lieutenant  Pratt,"{""first""=>[""""], ""surname""=>[""Pratt""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",2899294,Hooge,"[8.54425, 54.56889]"
+18,AWD00014tx,diary,86,6,1915-07-19 23:00:00 UTC,19 Jul 1915,Vlamertinghe,"[0.0, 0.0]",1100PM,time,1100PM,{},2899294,Hooge,"[8.54425, 54.56889]"
+23,AWD00014tx,diary,86,6,1915-07-20 00:00:00 UTC,20 Jul 1915,Vlamertinghe,"[0.0, 0.0]","",diaryDate,20 Jul 1915,"{""day""=>[""20""], ""month""=>[""Jul""], ""year""=>[""1915""]}",2899294,Hooge,"[8.54425, 54.56889]"
+24,AWD00014tx,diary,86,5,1915-07-20 01:00:00 UTC,20 Jul 1915,Vlamertinghe,"[0.0, 0.0]",0100AM,time,0100AM,{},2899294,Hooge,"[8.54425, 54.56889]"
+26,AWD00014tx,diary,86,2,1915-07-20 01:00:00 UTC,20 Jul 1915,Vlamertinghe,"[0.0, 0.0]",0100AM,activity,other,{},2899294,Hooge,"[8.54425, 54.56889]"
+29,AWD00014tx,diary,86,5,1915-07-20 03:00:00 UTC,20 Jul 1915,Vlamertinghe,"[0.0, 0.0]",0300AM,time,0300AM,{},2899294,Hooge,"[8.54425, 54.56889]"
+32,AWD00014tx,diary,86,4,1915-07-20 04:30:00 UTC,20 Jul 1915,Vlamertinghe,"[0.0, 0.0]",0430AM,time,0430AM,{},2899294,Hooge,"[8.54425, 54.56889]"
+33,AWD00014tx,diary,86,3,1915-07-20 04:30:00 UTC,20 Jul 1915,Vlamertinghe,"[0.0, 0.0]",0430AM,person,"Sergeant  Alladyce, Allridyce, Allardyce","{""first""=>[""""], ""surname""=>[""Alladyce"", ""Allridyce"", ""Allardyce""], ""rank""=>[""Sergeant""], ""number""=>[""""], ""reason""=>[""combat"", ""commander"", ""other""], ""unit""=>[""""]}",2899294,Hooge,"[8.54425, 54.56889]"
+34,AWD00014tx,diary,86,5,1915-07-20 04:00:00 UTC,20 Jul 1915,Vlamertinghe,"[0.0, 0.0]",0400AM,time,0400AM,{},2899294,Hooge,"[8.54425, 54.56889]"
+36,AWD00014tx,diary,86,6,1915-07-20 04:00:00 UTC,20 Jul 1915,Vlamertinghe,"[0.0, 0.0]",0400AM,activity,fire,{},2899294,Hooge,"[8.54425, 54.56889]"
+37,AWD00014tx,diary,86,3,1915-07-20 18:00:00 UTC,20 Jul 1915,Vlamertinghe,"[0.0, 0.0]",0600PM,time,0600PM,{},2899294,Hooge,"[8.54425, 54.56889]"
+38,AWD00014tx,diary,86,8,1915-07-20 20:00:00 UTC,20 Jul 1915,Vlamertinghe,"[0.0, 0.0]",0800PM,time,0800PM,{},2899294,Hooge,"[8.54425, 54.56889]"
+39,AWD00014tx,diary,86,2,1915-07-20 20:00:00 UTC,20 Jul 1915,Vlamertinghe,"[0.0, 0.0]",0800PM,activity,fire,{},2899294,Hooge,"[8.54425, 54.56889]"
+40,AWD00014tx,diary,86,2,1915-07-20 20:00:00 UTC,20 Jul 1915,Vlamertinghe,"[0.0, 0.0]",0800PM,unit,"2ND SUFFOLK REGT., 2nd suffolk Regt","{""name""=>[""2ND SUFFOLK REGT."", ""2nd suffolk Regt""], ""context""=>[""joined""]}",2899294,Hooge,"[8.54425, 54.56889]"
+42,AWD00014tx,diary,86,3,1915-07-20 20:00:00 UTC,20 Jul 1915,Vlamertinghe,"[0.0, 0.0]",0800PM,activity,attack,{},2899294,Hooge,"[8.54425, 54.56889]"
+43,AWD00014tx,diary,86,5,1915-07-20 23:30:00 UTC,20 Jul 1915,Vlamertinghe,"[0.0, 0.0]",1130PM,time,1130PM,{},2899294,Hooge,"[8.54425, 54.56889]"
+44,AWD00014tx,diary,86,7,1915-07-20 23:30:00 UTC,20 Jul 1915,Vlamertinghe,"[0.0, 0.0]",1130PM,casualties,"killed: 3, wounded: 18",{},2899294,Hooge,"[8.54425, 54.56889]"
+45,AWD00014tx,diary,86,6,1915-07-21 00:00:00 UTC,21 Jul 1915,Vlamertinghe,"[0.0, 0.0]","",diaryDate,21 Jul 1915,"{""day""=>[""21""], ""month""=>[""Jul""], ""year""=>[""1915""]}",2899294,Hooge,"[8.54425, 54.56889]"
+46,AWD00014tx,diary,86,3,1915-07-21 00:00:00 UTC,21 Jul 1915,Vlamertinghe,"[0.0, 0.0]","",activity,quiet,{},2899294,Hooge,"[8.54425, 54.56889]"
+49,AWD00014tx,diary,86,3,1915-07-21 17:00:00 UTC,21 Jul 1915,Vlamertinghe,"[0.0, 0.0]",0500PM,time,0500PM,{},2899294,Hooge,"[8.54425, 54.56889]"
+50,AWD00014tx,diary,86,7,1915-07-21 17:00:00 UTC,21 Jul 1915,Vlamertinghe,"[0.0, 0.0]",0500PM,casualties,killed: 1,{},2899294,Hooge,"[8.54425, 54.56889]"
+51,AWD00014tx,diary,86,6,1915-07-22 00:00:00 UTC,22 Jul 1915,Vlamertinghe,"[0.0, 0.0]","",diaryDate,22 Jul 1915,"{""day""=>[""22""], ""month""=>[""Jul""], ""year""=>[""1915""]}",2899294,Hooge,"[8.54425, 54.56889]"
+52,AWD00014tx,diary,86,4,1915-07-22 00:00:00 UTC,22 Jul 1915,Vlamertinghe,"[0.0, 0.0]","",activity,quiet,{},2899294,Hooge,"[8.54425, 54.56889]"
+53,AWD00014tx,diary,86,4,1915-07-22 15:30:00 UTC,22 Jul 1915,Vlamertinghe,"[0.0, 0.0]",0330PM,time,0330PM,{},2899294,Hooge,"[8.54425, 54.56889]"
+54,AWD00014tx,diary,86,7,1915-07-22 15:30:00 UTC,22 Jul 1915,Vlamertinghe,"[0.0, 0.0]",0330PM,casualties,"killed: 2, wounded: 1",{},2899294,Hooge,"[8.54425, 54.56889]"
+57,AWD00014tx,diary,86,2,1915-07-22 15:30:00 UTC,22 Jul 1915,Vlamertinghe,"[0.0, 0.0]",0330PM,unit,"8TH K.R.R, 8th K.R.R.","{""name""=>[""8TH K.R.R"", ""8th K.R.R.""], ""context""=>[""relieved_by""]}",2899294,Hooge,"[8.54425, 54.56889]"
+58,AWD00014tx,diary,86,3,1915-07-22 15:30:00 UTC,22 Jul 1915,Vlamertinghe,"[0.0, 0.0]",0330PM,domestic,accomodation,{},2899294,Hooge,"[8.54425, 54.56889]"
+59,AWD00014tx,diary,86,5,1915-07-22 15:30:00 UTC,22 Jul 1915,Vlamertinghe,"[0.0, 0.0]",0330PM,place,Brandhoek,"{""place""=>[""Brandhoek""], ""location""=>[""false""], ""name""=>[""Brandhoek""], ""lat""=>[""50.85307""], ""long""=>[""2.79011""], ""id""=>[""2801133""]}",2899294,Hooge,"[8.54425, 54.56889]"
+60,AWD00014tx,diary,86,7,1915-07-23 00:00:00 UTC,23 Jul 1915,Vlamertinghe,"[0.0, 0.0]","",diaryDate,23 Jul 1915,"{""day""=>[""23""], ""month""=>[""Jul""], ""year""=>[""1915""]}",2899294,Hooge,"[8.54425, 54.56889]"
+63,AWD00014tx,diary,86,3,1915-07-23 00:00:00 UTC,23 Jul 1915,Brandhoek,"[0.0, 0.0]","",place,Brandhoek,"{""place""=>[""Brandhoek""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2801133,Brandhoek,"[2.79011, 50.85307]"
+1,AWD00014tm,diary,87,7,1915-08-01 00:00:00 UTC,1 Aug 1915,Brandhoek,"[0.0, 0.0]","",diaryDate,1 Aug 1915,"{""day""=>[""1""], ""month""=>[""Aug""], ""year""=>[""1915""]}",2801133,Brandhoek,"[2.79011, 50.85307]"
+2,AWD00014tm,diary,87,6,1915-08-01 00:00:00 UTC,1 Aug 1915,Dickiebusche,"[0.0, 0.0]","",place,Dickiebusche,"{""place""=>[""Dickiebusche""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+4,AWD00014tm,diary,87,3,1915-08-01 00:00:00 UTC,1 Aug 1915,Dickiebusche,"[0.0, 0.0]","",place,Dickiebusche,"{""place""=>[""Dickiebusche""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+5,AWD00014tm,diary,87,2,1915-08-01 00:00:00 UTC,1 Aug 1915,Dickiebusche,"[0.0, 0.0]","",activity,line,{},,,
+6,AWD00014tm,diary,87,5,1915-08-01 00:00:00 UTC,1 Aug 1915,Dickiebusche,"[0.0, 0.0]","",domestic,accomodation,{},,,
+8,AWD00014tm,diary,87,6,1915-08-02 00:00:00 UTC,2 Aug 1915,Dickiebusche,"[0.0, 0.0]","",diaryDate,2 Aug 1915,"{""day""=>[""2""], ""month""=>[""Aug""], ""year""=>[""1915""]}",,,
+9,AWD00014tm,diary,87,2,1915-08-02 00:00:00 UTC,2 Aug 1915,Dickiebusche,"[0.0, 0.0]","",activity,construction,{},,,
+10,AWD00014tm,diary,87,3,1915-08-02 00:00:00 UTC,2 Aug 1915,Dickiebusche,"[0.0, 0.0]","",activity,repair,{},,,
+11,AWD00014tm,diary,87,2,1915-08-02 00:00:00 UTC,2 Aug 1915,Dickiebusche,"[0.0, 0.0]","",casualties,"wounded: 4, sick: 1",{},,,
+14,AWD00014tm,diary,87,4,1915-08-02 00:00:00 UTC,2 Aug 1915,Dickiebusche,"[0.0, 0.0]","",casualties,wounded: 4,{},,,
+15,AWD00014tm,diary,87,4,1915-08-02 00:00:00 UTC,2 Aug 1915,Dickiebusche,"[0.0, 0.0]","",person,Lieutenant R A Hughes,"{""first""=>[""R A""], ""surname""=>[""Hughes""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+16,AWD00014tm,diary,87,3,1915-08-02 00:00:00 UTC,2 Aug 1915,Dickiebusche,"[0.0, 0.0]","",place,Dickiebusche,"{""place""=>[""Dickiebusche""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+17,AWD00014tm,diary,87,6,1915-08-03 00:00:00 UTC,3 Aug 1915,Dickiebusche,"[0.0, 0.0]","",diaryDate,3 Aug 1915,"{""day""=>[""3""], ""month""=>[""Aug""], ""year""=>[""1915""]}",,,
+18,AWD00014tm,diary,87,3,1915-08-03 00:00:00 UTC,3 Aug 1915,Dickiebusche,"[0.0, 0.0]","",person,"Captain  Setislain, JETISKIN, SETSKIN","{""first""=>[""""], ""surname""=>[""Setislain"", ""JETISKIN"", ""SETSKIN""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+19,AWD00014tm,diary,87,2,1915-08-03 00:00:00 UTC,3 Aug 1915,Dickiebusche,"[0.0, 0.0]","",activity,line,{},,,
+20,AWD00014tm,diary,87,2,1915-08-03 00:00:00 UTC,3 Aug 1915,Dickiebusche,"[0.0, 0.0]","",activity,support,{},,,
+23,AWD00014tm,diary,87,2,1915-08-03 00:00:00 UTC,3 Aug 1915,Dickiebusche,"[0.0, 0.0]","",unit,"1st Gordon Highlanders, 1st Gordon highlanders","{""name""=>[""1st Gordon Highlanders"", ""1st Gordon highlanders""], ""context""=>[""relieved""]}",,,
+26,AWD00014tm,diary,87,5,1915-08-03 00:00:00 UTC,3 Aug 1915,Dickiebusche,"[0.0, 0.0]","",person,Major  LYON,"{""first""=>[""""], ""surname""=>[""LYON""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""departed_leave""], ""unit""=>[""""]}",,,
+28,AWD00014tm,diary,87,4,1915-08-03 00:00:00 UTC,3 Aug 1915,Dickiebusche,"[0.0, 0.0]","",person,"Captain  mcclitork, MCLINTOCK, McClintock, McClintock ","{""first""=>[""""], ""surname""=>[""mcclitork"", ""MCLINTOCK"", ""McClintock"", ""McClintock ""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+29,AWD00014tm,diary,87,2,1915-08-03 00:00:00 UTC,3 Aug 1915,Dickiebusche,"[0.0, 0.0]","",place,"Ypres, YPRES","{""place""=>[""Ypres"", ""YPRES""], ""location""=>[""false"", ""true""], ""name""=>[""Ieper"", """"], ""lat""=>[""50.85114"", """"], ""long""=>[""2.88569"", """"], ""id""=>[""2795100"", """"]}",,,
+30,AWD00014tm,diary,87,4,1915-08-03 00:00:00 UTC,3 Aug 1915,Dickiebusche,"[0.0, 0.0]","",casualties,sick: 3,{},,,
+31,AWD00014tm,diary,87,4,1915-08-03 00:00:00 UTC,3 Aug 1915,Dickiebusche,"[0.0, 0.0]","",person,Second Lieutenant C R Brander,"{""first""=>[""C R""], ""surname""=>[""Brander""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+35,AWD00014tm,diary,87,2,1915-08-03 00:00:00 UTC,3 Aug 1915,Dickiebusche,"[0.0, 0.0]","",casualties,sick: 40,{},,,
+37,AWD00014tm,diary,87,5,1915-08-04 00:00:00 UTC,4 Aug 1915,Dickiebusche,"[0.0, 0.0]","",diaryDate,4 Aug 1915,"{""day""=>[""4""], ""month""=>[""Aug""], ""year""=>[""1915""]}",,,
+39,AWD00014tm,diary,87,6,1915-08-04 00:00:00 UTC,4 Aug 1915,Dickiebusche,"[0.0, 0.0]","",casualties,sick: 4,{},,,
+40,AWD00014tm,diary,87,6,1915-08-04 00:00:00 UTC,4 Aug 1915,Dickiebusche,"[0.0, 0.0]","",activity,line,{},,,
+41,AWD00014tm,diary,87,2,1915-08-04 00:00:00 UTC,4 Aug 1915,Dickiebusche,"[0.0, 0.0]","",activity,support,{},,,
+42,AWD00014tm,diary,87,6,1915-08-05 00:00:00 UTC,5 Aug 1915,Dickiebusche,"[0.0, 0.0]","",diaryDate,5 Aug 1915,"{""day""=>[""5""], ""month""=>[""Aug""], ""year""=>[""1915""]}",,,
+43,AWD00014tm,diary,87,2,1915-08-05 00:00:00 UTC,5 Aug 1915,Dickiebusche,"[0.0, 0.0]","",place,Dickiebusche,"{""place""=>[""Dickiebusche""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+45,AWD00014tm,diary,87,5,1915-08-05 00:00:00 UTC,5 Aug 1915,Dickiebusche,"[0.0, 0.0]","",casualties,"killed: 1, wounded: 1, sick: 1",{},,,
+48,AWD00014tm,diary,87,6,1915-08-06 00:00:00 UTC,6 Aug 1915,Dickiebusche,"[0.0, 0.0]","",diaryDate,6 Aug 1915,"{""day""=>[""6""], ""month""=>[""Aug""], ""year""=>[""1915""]}",,,
+49,AWD00014tm,diary,87,8,1915-08-06 00:00:00 UTC,6 Aug 1915,Dickiebusche,"[0.0, 0.0]","",casualties,wounded: 1,{},,,
+54,AWD00014tm,diary,87,5,1915-08-06 00:00:00 UTC,6 Aug 1915,Dickiebusche,"[0.0, 0.0]","",activity,line,{},,,
+55,AWD00014tm,diary,87,2,1915-08-06 00:00:00 UTC,6 Aug 1915,Dickiebusche,"[0.0, 0.0]","",activity,support,{},,,
+56,AWD00014tm,diary,87,5,1915-08-07 00:00:00 UTC,7 Aug 1915,Dickiebusche,"[0.0, 0.0]","",diaryDate,7 Aug 1915,"{""day""=>[""7""], ""month""=>[""Aug""], ""year""=>[""1915""]}",,,
+58,AWD00014tm,diary,87,4,1915-08-07 00:00:00 UTC,7 Aug 1915,Dickiebusche,"[0.0, 0.0]","",casualties,"wounded: 2, sick: 4",{},,,
+59,AWD00014tm,diary,87,2,1915-08-07 00:00:00 UTC,7 Aug 1915,Dickiebusche,"[0.0, 0.0]","",place,Dickiebusche,"{""place""=>[""Dickiebusche""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+60,AWD00014tm,diary,87,2,1915-08-07 00:00:00 UTC,7 Aug 1915,Dickiebusche,"[0.0, 0.0]","",casualties,wounded: 1,{},,,
+63,AWD00014tm,diary,87,6,1915-08-08 00:00:00 UTC,8 Aug 1915,Dickiebusche,"[0.0, 0.0]","",diaryDate,8 Aug 1915,"{""day""=>[""8""], ""month""=>[""Aug""], ""year""=>[""1915""]}",,,
+64,AWD00014tm,diary,87,7,1915-08-08 00:00:00 UTC,8 Aug 1915,Dickiebusche,"[0.0, 0.0]","",person,Major  Lyon,"{""first""=>[""""], ""surname""=>[""Lyon""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""returned_leave""], ""unit""=>[""""]}",,,
+65,AWD00014tm,diary,87,6,1915-08-08 00:00:00 UTC,8 Aug 1915,Dickiebusche,"[0.0, 0.0]","",casualties,"wounded: 2, sick: 1",{},,,
+66,AWD00014tm,diary,87,6,1915-08-08 00:00:00 UTC,8 Aug 1915,Dickiebusche,"[0.0, 0.0]","",activity,line,{},,,
+67,AWD00014tm,diary,87,2,1915-08-08 00:00:00 UTC,8 Aug 1915,Dickiebusche,"[0.0, 0.0]","",activity,support,{},,,
+68,AWD00014tm,diary,87,6,1915-08-09 00:00:00 UTC,9 Aug 1915,Dickiebusche,"[0.0, 0.0]","",diaryDate,9 Aug 1915,"{""day""=>[""9""], ""month""=>[""Aug""], ""year""=>[""1915""]}",,,
+72,AWD00014tm,diary,87,3,1915-08-09 00:00:00 UTC,9 Aug 1915,Dickiebusche,"[0.0, 0.0]","",activity,attack,{},,,
+75,AWD00014tm,diary,87,6,1915-08-09 00:00:00 UTC,9 Aug 1915,Dickiebusche,"[0.0, 0.0]","",casualties,"killed: 1, wounded: 2",{},,,
+76,AWD00014tm,diary,87,8,1915-08-09 00:00:00 UTC,9 Aug 1915,Dickiebusche,"[0.0, 0.0]","",activity,fire,{},,,
+77,AWD00014tm,diary,87,2,1915-08-10 00:00:00 UTC,10 Aug 1915,Dickiebusche,"[0.0, 0.0]","",diaryDate,10 Aug 1915,"{""day""=>[""10""], ""month""=>[""Aug""], ""year""=>[""1915""]}",,,
+79,AWD00014tm,diary,87,4,1915-08-10 00:00:00 UTC,10 Aug 1915,Dickiebusche,"[0.0, 0.0]","",diaryDate,10 Aug 1915,"{""day""=>[""10""], ""month""=>[""Aug""], ""year""=>[""1915""]}",,,
+80,AWD00014tm,diary,87,3,1915-08-10 00:00:00 UTC,10 Aug 1915,Dickiebusche,"[0.0, 0.0]","",activity,line,{},,,
+81,AWD00014tm,diary,87,5,1915-08-10 00:00:00 UTC,10 Aug 1915,Dickiebusche,"[0.0, 0.0]","",person,Second Lieutenant  Rose,"{""first""=>[""""], ""surname""=>[""Rose""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",,,
+82,AWD00014tm,diary,87,5,1915-08-10 00:00:00 UTC,10 Aug 1915,Dickiebusche,"[0.0, 0.0]","",casualties,"killed: 2, wounded: 6",{},,,
+86,AWD00014tm,diary,87,2,1915-08-10 00:00:00 UTC,10 Aug 1915,Dickiebusche,"[0.0, 0.0]","",unit,"1ST GORDON HIGHLANDERS, 1st Gordon highlanders","{""name""=>[""1ST GORDON HIGHLANDERS"", ""1st Gordon highlanders""], ""context""=>[""relieved_by""]}",,,
+88,AWD00014tm,diary,87,6,1915-08-11 00:00:00 UTC,11 Aug 1915,Dickiebusche,"[0.0, 0.0]","",diaryDate,11 Aug 1915,"{""day""=>[""11""], ""month""=>[""Aug""], ""year""=>[""1915""]}",,,
+89,AWD00014tm,diary,87,2,1915-08-11 00:00:00 UTC,11 Aug 1915,Dickiebusche,"[0.0, 0.0]","",activity,reserve,{},,,
+90,AWD00014tm,diary,87,5,1915-08-11 00:00:00 UTC,11 Aug 1915,Dickiebusche,"[0.0, 0.0]","",place,Dickiebusche,"{""place""=>[""Dickiebusche""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+91,AWD00014tm,diary,87,6,1915-08-11 00:00:00 UTC,11 Aug 1915,Dickiebusche,"[0.0, 0.0]","",person,"Captain J H Begg, Bigg, BEGG","{""first""=>[""J H""], ""surname""=>[""Begg"", ""Bigg"", ""BEGG""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+92,AWD00014tm,diary,87,5,1915-08-11 00:00:00 UTC,11 Aug 1915,Dickiebusche,"[0.0, 0.0]","",domestic,accomodation,{},,,
+94,AWD00014tm,diary,87,3,1915-08-11 00:00:00 UTC,11 Aug 1915,Dickiebusche,"[0.0, 0.0]","",activity,resting,{},,,
+95,AWD00014tm,diary,87,5,1915-08-12 00:00:00 UTC,12 Aug 1915,Dickiebusche,"[0.0, 0.0]","",diaryDate,12 Aug 1915,"{""day""=>[""12""], ""month""=>[""Aug""], ""year""=>[""1915""]}",,,
+96,AWD00014tm,diary,87,7,1915-08-12 00:00:00 UTC,12 Aug 1915,Dickiebusche,"[0.0, 0.0]","",casualties,sick: 1,{},,,
+97,AWD00014tm,diary,87,6,1915-08-13 00:00:00 UTC,13 Aug 1915,Dickiebusche,"[0.0, 0.0]","",diaryDate,13 Aug 1915,"{""day""=>[""13""], ""month""=>[""Aug""], ""year""=>[""1915""]}",,,
+98,AWD00014tm,diary,87,2,1915-08-13 00:00:00 UTC,13 Aug 1915,Dickiebusche,"[0.0, 0.0]","",activity,reserve,{},,,
+99,AWD00014tm,diary,87,7,1915-08-13 00:00:00 UTC,13 Aug 1915,Dickiebusche,"[0.0, 0.0]","",casualties,sick: 3,{},,,
+100,AWD00014tm,diary,87,2,1915-08-13 00:00:00 UTC,13 Aug 1915,Dickiebusche,"[0.0, 0.0]","",activity,resting,{},,,
+101,AWD00014tm,diary,87,6,1915-08-14 00:00:00 UTC,14 Aug 1915,Dickiebusche,"[0.0, 0.0]","",diaryDate,14 Aug 1915,"{""day""=>[""14""], ""month""=>[""Aug""], ""year""=>[""1915""]}",,,
+102,AWD00014tm,diary,87,2,1915-08-14 00:00:00 UTC,14 Aug 1915,Dickiebusche,"[0.0, 0.0]","",place,Dickiebusche,"{""place""=>[""Dickiebusche""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+103,AWD00014tm,diary,87,3,1915-08-14 00:00:00 UTC,14 Aug 1915,Dickiebusche,"[0.0, 0.0]","",domestic,accomodation,{},,,
+104,AWD00014tm,diary,87,2,1915-08-14 00:00:00 UTC,14 Aug 1915,Dickiebusche,"[0.0, 0.0]","",activity,working,{},,,
+105,AWD00014tm,diary,87,2,1915-08-14 00:00:00 UTC,14 Aug 1915,Dickiebusche,"[0.0, 0.0]","",activity,reserve,{},,,
+112,AWD00014tm,diary,87,5,1915-08-15 00:00:00 UTC,15 Aug 1915,Dickiebusche,"[0.0, 0.0]","",diaryDate,15 Aug 1915,"{""day""=>[""15""], ""month""=>[""Aug""], ""year""=>[""1915""]}",,,
+114,AWD00014tm,diary,87,3,1915-08-15 00:00:00 UTC,15 Aug 1915,Dickiebusche,"[0.0, 0.0]","",place,Dickiebusche,"{""place""=>[""Dickiebusche""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+115,AWD00014tm,diary,87,6,1915-08-15 00:00:00 UTC,15 Aug 1915,Dickiebusche,"[0.0, 0.0]","",casualties,sick: 2,{},,,
+117,AWD00014tm,diary,87,2,1915-08-15 00:00:00 UTC,15 Aug 1915,Dickiebusche,"[0.0, 0.0]","",place,Dickiebusche,"{""place""=>[""Dickiebusche""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+118,AWD00014tm,diary,87,3,1915-08-15 00:00:00 UTC,15 Aug 1915,Dickiebusche,"[0.0, 0.0]","",activity,resting,{},,,
+119,AWD00014tm,diary,87,5,1915-08-15 00:00:00 UTC,15 Aug 1915,Dickiebusche,"[0.0, 0.0]","",domestic,accomodation,{},,,
+120,AWD00014tm,diary,87,6,1915-08-16 00:00:00 UTC,16 Aug 1915,Dickiebusche,"[0.0, 0.0]","",diaryDate,16 Aug 1915,"{""day""=>[""16""], ""month""=>[""Aug""], ""year""=>[""1915""]}",,,
+1,AWD00014ty,diary,88,2,1915-08-17 00:00:00 UTC,17 Aug 1915,Dickiebusche,"[0.0, 0.0]","",diaryDate,17 Aug 1915,"{""day""=>[""17""], ""month""=>[""Aug""], ""year""=>[""1915""]}",,,
+3,AWD00014ty,diary,88,4,1915-08-17 00:00:00 UTC,17 Aug 1915,Dickiebusche,"[0.0, 0.0]","",diaryDate,17 Aug 1915,"{""day""=>[""17""], ""month""=>[""Aug""], ""year""=>[""1915""]}",,,
+4,AWD00014ty,diary,88,7,1915-08-17 00:00:00 UTC,17 Aug 1915,Dickiebusche,"[0.0, 0.0]","",casualties,sick: 2,{},,,
+5,AWD00014ty,diary,88,7,1915-08-17 00:00:00 UTC,17 Aug 1915,Dickiebusche,"[0.0, 0.0]","",place,Dickiebusche,"{""place""=>[""Dickiebusche""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+6,AWD00014ty,diary,88,6,1915-08-17 00:00:00 UTC,17 Aug 1915,Dickiebusche,"[0.0, 0.0]","",activity,resting,{},,,
+7,AWD00014ty,diary,88,7,1915-08-17 00:00:00 UTC,17 Aug 1915,Dickiebusche,"[0.0, 0.0]","",domestic,accomodation,{},,,
+8,AWD00014ty,diary,88,5,1915-08-18 00:00:00 UTC,18 Aug 1915,Dickiebusche,"[0.0, 0.0]","",diaryDate,18 Aug 1915,"{""day""=>[""18""], ""month""=>[""Aug""], ""year""=>[""1915""]}",,,
+9,AWD00014ty,diary,88,2,1915-08-18 00:00:00 UTC,18 Aug 1915,DICKIEBUSCHE,"[0.0, 0.0]","",place,DICKIEBUSCHE,"{""place""=>[""DICKIEBUSCHE""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+11,AWD00014ty,diary,88,14,1915-08-18 00:00:00 UTC,18 Aug 1915,DICKIEBUSCHE,"[0.0, 0.0]","",casualties,sick: 3,{},,,
+12,AWD00014ty,diary,88,4,1915-08-19 00:00:00 UTC,19 Aug 1915,DICKIEBUSCHE,"[0.0, 0.0]","",diaryDate,19 Aug 1915,"{""day""=>[""19""], ""month""=>[""Aug""], ""year""=>[""1915""]}",,,
+14,AWD00014ty,diary,88,5,1915-08-20 00:00:00 UTC,20 Aug 1915,DICKIEBUSCHE,"[0.0, 0.0]","",diaryDate,20 Aug 1915,"{""day""=>[""20""], ""month""=>[""Aug""], ""year""=>[""1915""]}",,,
+15,AWD00014ty,diary,88,5,1915-08-20 00:00:00 UTC,20 Aug 1915,DICKIEBUSCHE,"[0.0, 0.0]","",activity,resting,{},,,
+16,AWD00014ty,diary,88,4,1915-08-20 00:00:00 UTC,20 Aug 1915,DICKIEBUSCHE,"[0.0, 0.0]","",domestic,accomodation,{},,,
+17,AWD00014ty,diary,88,2,1915-08-20 00:00:00 UTC,20 Aug 1915,DICKIEBUSCHE,"[0.0, 0.0]","",place,DICKIEBUSCHE,"{""place""=>[""DICKIEBUSCHE""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+18,AWD00014ty,diary,88,2,1915-08-20 00:00:00 UTC,20 Aug 1915,DICKIEBUSCHE,"[0.0, 0.0]","",casualties,casualties: 0,{},,,
+19,AWD00014ty,diary,88,7,1915-08-20 00:00:00 UTC,20 Aug 1915,DICKIEBUSCHE,"[0.0, 0.0]","",casualties,sick: 1,{},,,
+20,AWD00014ty,diary,88,5,1915-08-21 00:00:00 UTC,21 Aug 1915,DICKIEBUSCHE,"[0.0, 0.0]","",diaryDate,21 Aug 1915,"{""day""=>[""21""], ""month""=>[""Aug""], ""year""=>[""1915""]}",,,
+22,AWD00014ty,diary,88,4,1915-08-21 00:00:00 UTC,21 Aug 1915,DICKIEBUSCHE,"[0.0, 0.0]","",activity,resting,{},,,
+24,AWD00014ty,diary,88,2,1915-08-21 00:00:00 UTC,21 Aug 1915,Dickiebusche,"[0.0, 0.0]","",place,Dickiebusche,"{""place""=>[""Dickiebusche""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+25,AWD00014ty,diary,88,4,1915-08-22 00:00:00 UTC,22 Aug 1915,Dickiebusche,"[0.0, 0.0]","",diaryDate,22 Aug 1915,"{""day""=>[""22""], ""month""=>[""Aug""], ""year""=>[""1915""]}",,,
+26,AWD00014ty,diary,88,6,1915-08-22 00:00:00 UTC,22 Aug 1915,Dickiebusche,"[0.0, 0.0]","",casualties,sick: 2,{},,,
+27,AWD00014ty,diary,88,3,1915-08-22 00:00:00 UTC,22 Aug 1915,Dickiebusche,"[0.0, 0.0]","",domestic,accomodation,{},,,
+29,AWD00014ty,diary,88,2,1915-08-23 00:00:00 UTC,23 Aug 1915,Dickiebusche,"[0.0, 0.0]","",diaryDate,23 Aug 1915,"{""day""=>[""23""], ""month""=>[""Aug""], ""year""=>[""1915""]}",,,
+31,AWD00014ty,diary,88,3,1915-08-23 00:00:00 UTC,23 Aug 1915,Dickiebusche,"[0.0, 0.0]","",diaryDate,23 Aug 1915,"{""day""=>[""23""], ""month""=>[""Aug""], ""year""=>[""1915""]}",,,
+32,AWD00014ty,diary,88,2,1915-08-23 00:00:00 UTC,23 Aug 1915,Dickiebusche,"[0.0, 0.0]","",strength,other: 59,{},,,
+33,AWD00014ty,diary,88,2,1915-08-23 00:00:00 UTC,23 Aug 1915,Dickiebusche,"[0.0, 0.0]","",place,Dickiebusche,"{""place""=>[""Dickiebusche""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+34,AWD00014ty,diary,88,5,1915-08-24 00:00:00 UTC,24 Aug 1915,Dickiebusche,"[0.0, 0.0]","",diaryDate,24 Aug 1915,"{""day""=>[""24""], ""month""=>[""Aug""], ""year""=>[""1915""]}",,,
+35,AWD00014ty,diary,88,5,1915-08-24 00:00:00 UTC,24 Aug 1915,Dickiebusche,"[0.0, 0.0]","",activity,resting,{},,,
+36,AWD00014ty,diary,88,3,1915-08-24 00:00:00 UTC,24 Aug 1915,Dickiebusche,"[0.0, 0.0]","",place,"Ypres, ypres, YPRES","{""place""=>[""Ypres"", ""ypres"", ""YPRES""], ""location""=>[""false""], ""name""=>[""Ieper""], ""lat""=>[""50.85114""], ""long""=>[""2.88569""], ""id""=>[""2795100""]}",,,
+37,AWD00014ty,diary,88,10,1915-08-24 00:00:00 UTC,24 Aug 1915,Dickiebusche,"[0.0, 0.0]","",casualties,sick: 1,{},,,
+38,AWD00014ty,diary,88,5,1915-08-25 00:00:00 UTC,25 Aug 1915,Dickiebusche,"[0.0, 0.0]","",diaryDate,25 Aug 1915,"{""day""=>[""25""], ""month""=>[""Aug""], ""year""=>[""1915""]}",,,
+39,AWD00014ty,diary,88,5,1915-08-25 00:00:00 UTC,25 Aug 1915,Dickiebusche,"[0.0, 0.0]","",domestic,accomodation,{},,,
+40,AWD00014ty,diary,88,4,1915-08-25 00:00:00 UTC,25 Aug 1915,Dickiebusche,"[0.0, 0.0]","",activity,repair,{},,,
+41,AWD00014ty,diary,88,7,1915-08-25 00:00:00 UTC,25 Aug 1915,Dickiebusche,"[0.0, 0.0]","",activity,working,{},,,
+42,AWD00014ty,diary,88,2,1915-08-25 00:00:00 UTC,25 Aug 1915,Dickiebusche,"[0.0, 0.0]","",place,"ZILLEBEKE, Zillibeke ","{""place""=>[""ZILLEBEKE"", ""Zillibeke ""], ""location""=>[""true"", ""false""], ""name""=>[""Zillebeke"", """"], ""lat""=>[""50.83464"", """"], ""long""=>[""2.92249"", """"], ""id""=>[""2783222"", """"]}",,,
+43,AWD00014ty,diary,88,2,1915-08-26 00:00:00 UTC,26 Aug 1915,Dickiebusche,"[0.0, 0.0]","",diaryDate,26 Aug 1915,"{""day""=>[""26""], ""month""=>[""Aug""], ""year""=>[""1915""]}",,,
+45,AWD00014ty,diary,88,3,1915-08-26 00:00:00 UTC,26 Aug 1915,Dickiebusche,"[0.0, 0.0]","",diaryDate,26 Aug 1915,"{""day""=>[""26""], ""month""=>[""Aug""], ""year""=>[""1915""]}",,,
+46,AWD00014ty,diary,88,2,1915-08-26 00:00:00 UTC,26 Aug 1915,Dickiebusche,"[0.0, 0.0]","",activity,resting,{},,,
+49,AWD00014ty,diary,88,5,1915-08-26 00:00:00 UTC,26 Aug 1915,Dickiebusche,"[0.0, 0.0]","",casualties,sick: 1,{},,,
+50,AWD00014ty,diary,88,2,1915-08-26 00:00:00 UTC,26 Aug 1915,Dickiebusche,"[0.0, 0.0]","",place,Dickiebusche,"{""place""=>[""Dickiebusche""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+53,AWD00014ty,diary,88,2,1915-08-26 00:00:00 UTC,26 Aug 1915,Dickiebusche,"[0.0, 0.0]","",domestic,accomodation,{},,,
+54,AWD00014ty,diary,88,4,1915-08-27 00:00:00 UTC,27 Aug 1915,Dickiebusche,"[0.0, 0.0]","",diaryDate,27 Aug 1915,"{""day""=>[""27""], ""month""=>[""Aug""], ""year""=>[""1915""]}",,,
+55,AWD00014ty,diary,88,4,1915-08-27 00:00:00 UTC,27 Aug 1915,Dickiebusche,"[0.0, 0.0]","",activity,resting,{},,,
+56,AWD00014ty,diary,88,14,1915-08-27 00:00:00 UTC,27 Aug 1915,Dickiebusche,"[0.0, 0.0]","",casualties,sick: 1,{},,,
+57,AWD00014ty,diary,88,5,1915-08-28 00:00:00 UTC,28 Aug 1915,Dickiebusche,"[0.0, 0.0]","",diaryDate,28 Aug 1915,"{""day""=>[""28""], ""month""=>[""Aug""], ""year""=>[""1915""]}",,,
+58,AWD00014ty,diary,88,3,1915-08-28 00:00:00 UTC,28 Aug 1915,Dickiebusche,"[0.0, 0.0]","",domestic,sport,{},,,
+61,AWD00014ty,diary,88,3,1915-08-28 00:00:00 UTC,28 Aug 1915,Dickiebusche,"[0.0, 0.0]","",domestic,accomodation,{},,,
+62,AWD00014ty,diary,88,5,1915-08-29 00:00:00 UTC,29 Aug 1915,Dickiebusche,"[0.0, 0.0]","",diaryDate,29 Aug 1915,"{""day""=>[""29""], ""month""=>[""Aug""], ""year""=>[""1915""]}",,,
+63,AWD00014ty,diary,88,9,1915-08-29 00:00:00 UTC,29 Aug 1915,Dickiebusche,"[0.0, 0.0]","",casualties,sick: 1,{},,,
+64,AWD00014ty,diary,88,3,1915-08-29 00:00:00 UTC,29 Aug 1915,Dickiebusche,"[0.0, 0.0]","",activity,resting,{},,,
+65,AWD00014ty,diary,88,2,1915-08-29 00:00:00 UTC,29 Aug 1915,Dickiebusche,"[0.0, 0.0]","",casualties,casualties: 0,{},,,
+67,AWD00014ty,diary,88,2,1915-08-29 00:00:00 UTC,29 Aug 1915,Dickiebusche,"[0.0, 0.0]","",place,Dickiebusche,"{""place""=>[""Dickiebusche""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+68,AWD00014ty,diary,88,3,1915-08-29 00:00:00 UTC,29 Aug 1915,Dickiebusche,"[0.0, 0.0]","",domestic,accomodation,{},,,
+69,AWD00014ty,diary,88,4,1915-08-30 00:00:00 UTC,30 Aug 1915,Dickiebusche,"[0.0, 0.0]","",diaryDate,30 Aug 1915,"{""day""=>[""30""], ""month""=>[""Aug""], ""year""=>[""1915""]}",,,
+70,AWD00014ty,diary,88,5,1915-08-30 00:00:00 UTC,30 Aug 1915,Dickiebusche,"[0.0, 0.0]","",casualties,sick: 1,{},,,
+71,AWD00014ty,diary,88,6,1915-08-31 00:00:00 UTC,31 Aug 1915,Dickiebusche,"[0.0, 0.0]","",diaryDate,31 Aug 1915,"{""day""=>[""31""], ""month""=>[""Aug""], ""year""=>[""1915""]}",,,
+72,AWD00014ty,diary,88,3,1915-08-31 00:00:00 UTC,31 Aug 1915,Dickiebusche,"[0.0, 0.0]","",activity,resting,{},,,
+73,AWD00014ty,diary,88,3,1915-08-31 00:00:00 UTC,31 Aug 1915,Dickiebusche,"[0.0, 0.0]","",domestic,accomodation,{},,,
+75,AWD00014ty,diary,88,2,1915-08-31 00:00:00 UTC,31 Aug 1915,Dickiebusche,"[0.0, 0.0]","",person,"Captain S R M, McClintock","{""first""=>[""S R M"", """"], ""surname""=>[""McClintock""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author"", ""commander""], ""unit""=>["""", ""4th Gordan Highlanders""]}",,,
+77,AWD00014ty,diary,88,2,1915-08-31 00:00:00 UTC,31 Aug 1915,Dickiebusche,"[0.0, 0.0]","",diaryDate,31 Aug 1915,"{""day""=>[""31""], ""month""=>[""Aug""], ""year""=>[""1915""]}",,,
+4,AWD00014th,other,89,2,,,,[],,diaryDate,24 Jul 1915,"{""day""=>[""24""], ""month""=>[""Jul""], ""year""=>[""1915""]}",,,
+8,AWD00014th,other,89,2,,,,[],,diaryDate,31 Jul 1915,"{""day""=>[""31""], ""month""=>[""Jul""], ""year""=>[""1915""]}",,,
+12,AWD00014th,other,89,2,,,,[],,diaryDate,7 Aug 1915,"{""day""=>[""7""], ""month""=>[""Aug""], ""year""=>[""1915""]}",,,
+13,AWD00014th,other,89,2,,,,[],,strength,"officer: 21, other: 606",{},,,
+14,AWD00014th,other,89,2,,,,[],,diaryDate,14 Aug 1915,"{""day""=>[""14""], ""month""=>[""Aug""], ""year""=>[""1915""]}",,,
+18,AWD00014th,other,89,2,,,,[],,diaryDate,21 Aug 1915,"{""day""=>[""21""], ""month""=>[""Aug""], ""year""=>[""1915""]}",,,
+19,AWD00014th,other,89,2,,,,[],,strength,"officer: 25, other: 568",{},,,
+1,AWD00014tz,diary,90,7,1915-09-17 00:00:00 UTC,17 Sep 1915,Dickiebusche,"[0.0, 0.0]","",diaryDate,17 Sep 1915,"{""day""=>[""17""], ""month""=>[""Sep""], ""year""=>[""1915""]}",,,
+2,AWD00014tz,diary,90,4,1915-09-17 00:00:00 UTC,17 Sep 1915,Sanctuary Wood,"[0.0, 0.0]","",place,Sanctuary Wood,"{""place""=>[""Sanctuary Wood""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2795100,Ieper,"[2.88569, 50.85114]"
+3,AWD00014tz,diary,90,2,1915-09-17 00:00:00 UTC,17 Sep 1915,Sanctuary Wood,"[0.0, 0.0]","",activity,line,{},2795100,Ieper,"[2.88569, 50.85114]"
+4,AWD00014tz,diary,90,7,1915-09-17 00:00:00 UTC,17 Sep 1915,Sanctuary Wood,"[0.0, 0.0]","",weather,fine,{},2795100,Ieper,"[2.88569, 50.85114]"
+5,AWD00014tz,diary,90,2,1915-09-17 00:00:00 UTC,17 Sep 1915,Sanctuary Wood,"[0.0, 0.0]","",activity,attack,{},2795100,Ieper,"[2.88569, 50.85114]"
+6,AWD00014tz,diary,90,5,1915-09-17 00:00:00 UTC,17 Sep 1915,Sanctuary Wood,"[0.0, 0.0]","",activity,enemy_activity,{},2795100,Ieper,"[2.88569, 50.85114]"
+7,AWD00014tz,diary,90,2,1915-09-17 00:00:00 UTC,17 Sep 1915,Sanctuary Wood,"[0.0, 0.0]","",place,Sanctuary Wood,"{""place""=>[""Sanctuary Wood""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2795100,Ieper,"[2.88569, 50.85114]"
+9,AWD00014tz,diary,90,7,1915-09-18 00:00:00 UTC,18 Sep 1915,Sanctuary Wood,"[0.0, 0.0]","",diaryDate,18 Sep 1915,"{""day""=>[""18""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2795100,Ieper,"[2.88569, 50.85114]"
+10,AWD00014tz,diary,90,7,1915-09-18 00:00:00 UTC,18 Sep 1915,Sanctuary Wood,"[0.0, 0.0]","",weather,fine,{},2795100,Ieper,"[2.88569, 50.85114]"
+12,AWD00014tz,diary,90,5,1915-09-18 00:00:00 UTC,18 Sep 1915,Sanctuary Wood,"[0.0, 0.0]","",activity,attack,{},2795100,Ieper,"[2.88569, 50.85114]"
+13,AWD00014tz,diary,90,4,1915-09-18 17:30:00 UTC,18 Sep 1915,Sanctuary Wood,"[0.0, 0.0]",0530PM,time,0530PM,{},2795100,Ieper,"[2.88569, 50.85114]"
+14,AWD00014tz,diary,90,2,1915-09-18 17:30:00 UTC,18 Sep 1915,Sanctuary Wood,"[0.0, 0.0]",0530PM,place,"Menin Road, MENIN WOOD","{""place""=>[""Menin Road"", ""MENIN WOOD""], ""location""=>[""false"", ""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2795100,Ieper,"[2.88569, 50.85114]"
+15,AWD00014tz,diary,90,2,1915-09-18 17:30:00 UTC,18 Sep 1915,Sanctuary Wood,"[2.78226, 50.8243]",0530PM,place,Sanctuary Wood,"{""place""=>[""Sanctuary Wood""], ""location""=>[""true""], ""name""=>[""Ouderdom"", """"], ""lat""=>[""50.8243"", """"], ""long""=>[""2.78226"", """"], ""id""=>[""2789504"", """"]}",2795100,Ieper,"[2.88569, 50.85114]"
+18,AWD00014tz,diary,90,4,1915-09-18 14:00:00 UTC,18 Sep 1915,Sanctuary Wood,"[2.78226, 50.8243]",0200PM,time,0200PM,{},2795100,Ieper,"[2.88569, 50.85114]"
+20,AWD00014tz,diary,90,4,1915-09-18 14:00:00 UTC,18 Sep 1915,Sanctuary Wood,"[2.78226, 50.8243]",0200PM,activity,fire,{},2795100,Ieper,"[2.88569, 50.85114]"
+21,AWD00014tz,diary,90,2,1915-09-18 14:00:00 UTC,18 Sep 1915,Sanctuary Wood,"[2.78226, 50.8243]",0200PM,unit,"1st line regement, 1st Line Regiment","{""name""=>[""1st line regement"", ""1st Line Regiment""], ""context""=>[""relieved"", ""relieved_by""]}",2795100,Ieper,"[2.88569, 50.85114]"
+24,AWD00014tz,diary,90,4,1915-09-18 14:00:00 UTC,18 Sep 1915,Sanctuary Wood,"[2.78226, 50.8243]",0200PM,activity,working,{},2795100,Ieper,"[2.88569, 50.85114]"
+26,AWD00014tz,diary,90,4,1915-09-18 14:00:00 UTC,18 Sep 1915,Sanctuary Wood,"[2.78226, 50.8243]",0200PM,activity,movement,{},2795100,Ieper,"[2.88569, 50.85114]"
+27,AWD00014tz,diary,90,3,1915-09-18 14:00:00 UTC,18 Sep 1915,Sanctuary Wood,"[2.78226, 50.8243]",0200PM,domestic,accomodation,{},2795100,Ieper,"[2.88569, 50.85114]"
+28,AWD00014tz,diary,90,3,1915-09-18 14:00:00 UTC,18 Sep 1915,Ouderdom,"[2.78226, 50.8243]",0200PM,place,Ouderdom,"{""place""=>[""Ouderdom""], ""location""=>[""true""], ""name""=>[""Ouderdom""], ""lat""=>[""50.8243""], ""long""=>[""2.78226""], ""id""=>[""2789504""]}",2789504,Ouderdom,"[2.78226, 50.8243]"
+29,AWD00014tz,diary,90,2,1915-09-18 14:00:00 UTC,18 Sep 1915,Ouderdom,"[2.78226, 50.8243]",0200PM,casualties,"wounded: 2, sick: 2",{},2789504,Ouderdom,"[2.78226, 50.8243]"
+32,AWD00014tz,diary,90,3,1915-09-18 14:00:00 UTC,18 Sep 1915,Ouderdom,"[2.78226, 50.8243]",0200PM,casualties,sick: 2,{},2789504,Ouderdom,"[2.78226, 50.8243]"
+33,AWD00014tz,diary,90,7,1915-09-19 00:00:00 UTC,19 Sep 1915,Ouderdom,"[2.78226, 50.8243]","",diaryDate,19 Sep 1915,"{""day""=>[""19""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2789504,Ouderdom,"[2.78226, 50.8243]"
+34,AWD00014tz,diary,90,3,1915-09-19 00:00:00 UTC,19 Sep 1915,Ouderdom,"[2.78226, 50.8243]","",activity,resting,{},2789504,Ouderdom,"[2.78226, 50.8243]"
+35,AWD00014tz,diary,90,3,1915-09-19 00:00:00 UTC,19 Sep 1915,Ouderdom,"[2.78226, 50.8243]","",domestic,accomodation,{},2789504,Ouderdom,"[2.78226, 50.8243]"
+36,AWD00014tz,diary,90,3,1915-09-19 00:00:00 UTC,19 Sep 1915,Ouderdom,"[2.78226, 50.8243]","",person,Sergeant  Forbes,"{""first""=>[""""], ""surname""=>[""Forbes""], ""rank""=>[""Sergeant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2789504,Ouderdom,"[2.78226, 50.8243]"
+37,AWD00014tz,diary,90,2,1915-09-19 00:00:00 UTC,19 Sep 1915,Ouderdom,"[2.78226, 50.8243]","",activity,reconnoitered,{},2789504,Ouderdom,"[2.78226, 50.8243]"
+38,AWD00014tz,diary,90,2,1915-09-19 00:00:00 UTC,19 Sep 1915,Ouderdom,"[2.78226, 50.8243]","",place,Ouderdom,"{""place""=>[""Ouderdom""], ""location""=>[""false"", ""true""], ""name""=>[""Ouderdom""], ""lat""=>[""50.8243""], ""long""=>[""2.78226""], ""id""=>[""2789504""]}",2789504,Ouderdom,"[2.78226, 50.8243]"
+39,AWD00014tz,diary,90,6,1915-09-19 00:00:00 UTC,19 Sep 1915,Ouderdom,"[2.78226, 50.8243]","",weather,fine,{},2789504,Ouderdom,"[2.78226, 50.8243]"
+40,AWD00014tz,diary,90,3,1915-09-19 00:00:00 UTC,19 Sep 1915,"Ovederdom, OUDERDOM, Ouderdom","[2.78226, 50.8243]","",place,"Ovederdom, OUDERDOM, Ouderdom","{""place""=>[""Ovederdom"", ""OUDERDOM"", ""Ouderdom""], ""location""=>[""true""], ""name""=>[""Ouderdom""], ""lat""=>[""50.8243""], ""long""=>[""2.78226""], ""id""=>[""2789504""]}",2789504,Ouderdom,"[2.78226, 50.8243]"
+41,AWD00014tz,diary,90,6,1915-09-20 00:00:00 UTC,20 Sep 1915,"Ovederdom, OUDERDOM, Ouderdom","[2.78226, 50.8243]","",diaryDate,20 Sep 1915,"{""day""=>[""20""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2789504,Ouderdom,"[2.78226, 50.8243]"
+42,AWD00014tz,diary,90,3,1915-09-20 00:00:00 UTC,20 Sep 1915,"Ovederdom, OUDERDOM, Ouderdom","[2.78226, 50.8243]","",activity,resting,{},2789504,Ouderdom,"[2.78226, 50.8243]"
+43,AWD00014tz,diary,90,3,1915-09-20 00:00:00 UTC,20 Sep 1915,"Ovederdom, OUDERDOM, Ouderdom","[2.78226, 50.8243]","",domestic,accomodation,{},2789504,Ouderdom,"[2.78226, 50.8243]"
+44,AWD00014tz,diary,90,7,1915-09-20 00:00:00 UTC,20 Sep 1915,"Ovederdom, OUDERDOM, Ouderdom","[2.78226, 50.8243]","",weather,fine,{},2789504,Ouderdom,"[2.78226, 50.8243]"
+45,AWD00014tz,diary,90,5,1915-09-20 00:00:00 UTC,20 Sep 1915,"Ovederdom, OUDERDOM, Ouderdom","[2.78226, 50.8243]","",casualties,sick: 1,{},2789504,Ouderdom,"[2.78226, 50.8243]"
+46,AWD00014tz,diary,90,7,1915-09-21 00:00:00 UTC,21 Sep 1915,"Ovederdom, OUDERDOM, Ouderdom","[2.78226, 50.8243]","",diaryDate,21 Sep 1915,"{""day""=>[""21""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2789504,Ouderdom,"[2.78226, 50.8243]"
+47,AWD00014tz,diary,90,3,1915-09-21 00:00:00 UTC,21 Sep 1915,"Ovederdom, OUDERDOM, Ouderdom","[2.78226, 50.8243]","",activity,working,{},2789504,Ouderdom,"[2.78226, 50.8243]"
+48,AWD00014tz,diary,90,3,1915-09-21 00:00:00 UTC,21 Sep 1915,"Ovederdom, OUDERDOM, Ouderdom","[2.78226, 50.8243]","",activity,resting,{},2789504,Ouderdom,"[2.78226, 50.8243]"
+50,AWD00014tz,diary,90,2,1915-09-21 00:00:00 UTC,21 Sep 1915,"Ovederdom, OUDERDOM, Ouderdom","[2.78226, 50.8243]","",domestic,accomodation,{},2789504,Ouderdom,"[2.78226, 50.8243]"
+51,AWD00014tz,diary,90,2,1915-09-21 00:00:00 UTC,21 Sep 1915,"Ovederdom, OUDERDOM, Ouderdom","[2.78226, 50.8243]","",activity,repair,{},2789504,Ouderdom,"[2.78226, 50.8243]"
+53,AWD00014tz,diary,90,6,1915-09-21 00:00:00 UTC,21 Sep 1915,"Ovederdom, OUDERDOM, Ouderdom","[2.78226, 50.8243]","",person,Sergeant  Forbes,"{""first""=>[""""], ""surname""=>[""Forbes""], ""rank""=>[""Sergeant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2789504,Ouderdom,"[2.78226, 50.8243]"
+56,AWD00014tz,diary,90,5,1915-09-21 00:00:00 UTC,21 Sep 1915,"Ovederdom, OUDERDOM, Ouderdom","[2.78226, 50.8243]","",casualties,sick: 2,{},2789504,Ouderdom,"[2.78226, 50.8243]"
+1,AWD00014tj,diary,91,6,1915-09-22 00:00:00 UTC,22 Sep 1915,"Ovederdom, OUDERDOM, Ouderdom","[2.78226, 50.8243]","",diaryDate,22 Sep 1915,"{""day""=>[""22""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2789504,Ouderdom,"[2.78226, 50.8243]"
+2,AWD00014tj,diary,91,4,1915-09-22 00:00:00 UTC,22 Sep 1915,"Ovederdom, OUDERDOM, Ouderdom","[2.78226, 50.8243]","",person,Field Marshal Lord Kitchener,"{""first""=>[""Lord""], ""surname""=>[""Kitchener""], ""rank""=>[""Field Marshal""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2789504,Ouderdom,"[2.78226, 50.8243]"
+4,AWD00014tj,diary,91,3,1915-09-22 00:00:00 UTC,22 Sep 1915,"Ovederdom, OUDERDOM, Ouderdom","[2.78226, 50.8243]","",activity,resting,{},2789504,Ouderdom,"[2.78226, 50.8243]"
+6,AWD00014tj,diary,91,4,1915-09-22 00:00:00 UTC,22 Sep 1915,"Ovederdom, OUDERDOM, Ouderdom","[2.78226, 50.8243]","",domestic,inspections,{},2789504,Ouderdom,"[2.78226, 50.8243]"
+9,AWD00014tj,diary,91,5,1915-09-22 00:00:00 UTC,22 Sep 1915,Ouderdom,"[2.78226, 50.8243]","",place,Ouderdom,"{""place""=>[""Ouderdom""], ""location""=>[""true""], ""name""=>[""Ouderdom""], ""lat""=>[""50.8243""], ""long""=>[""2.78226""], ""id""=>[""2789504""]}",2789504,Ouderdom,"[2.78226, 50.8243]"
+10,AWD00014tj,diary,91,5,1915-09-22 00:00:00 UTC,22 Sep 1915,Ouderdom,"[2.78226, 50.8243]","",weather,fine,{},2789504,Ouderdom,"[2.78226, 50.8243]"
+11,AWD00014tj,diary,91,5,1915-09-22 00:00:00 UTC,22 Sep 1915,Ouderdom,"[2.78226, 50.8243]","",casualties,sick: 3,{},2789504,Ouderdom,"[2.78226, 50.8243]"
+12,AWD00014tj,diary,91,6,1915-09-23 00:00:00 UTC,23 Sep 1915,Ouderdom,"[2.78226, 50.8243]","",diaryDate,23 Sep 1915,"{""day""=>[""23""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2789504,Ouderdom,"[2.78226, 50.8243]"
+13,AWD00014tj,diary,91,5,1915-09-23 00:00:00 UTC,23 Sep 1915,Ouderdom,"[2.78226, 50.8243]","",strength,"officer: 27, other: 614",{},2789504,Ouderdom,"[2.78226, 50.8243]"
+14,AWD00014tj,diary,91,2,1915-09-23 00:00:00 UTC,23 Sep 1915,Ouderdom,"[2.78226, 50.8243]","",place,Ouderdom,"{""place""=>[""Ouderdom""], ""location""=>[""true""], ""name""=>[""Ouderdom""], ""lat""=>[""50.8243""], ""long""=>[""2.78226""], ""id""=>[""2789504""]}",2789504,Ouderdom,"[2.78226, 50.8243]"
+15,AWD00014tj,diary,91,4,1915-09-23 00:00:00 UTC,23 Sep 1915,Ouderdom,"[2.78226, 50.8243]","",activity,movement,{},2789504,Ouderdom,"[2.78226, 50.8243]"
+16,AWD00014tj,diary,91,3,1915-09-23 00:00:00 UTC,23 Sep 1915,Ouderdom,"[2.78226, 50.8243]","",activity,line,{},2789504,Ouderdom,"[2.78226, 50.8243]"
+21,AWD00014tj,diary,91,3,1915-09-23 00:00:00 UTC,23 Sep 1915,Ouderdom,"[2.78226, 50.8243]","",place,Sanctuary Wood,"{""place""=>[""Sanctuary Wood""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2789504,Ouderdom,"[2.78226, 50.8243]"
+22,AWD00014tj,diary,91,6,1915-09-24 00:00:00 UTC,24 Sep 1915,Ouderdom,"[2.78226, 50.8243]","",diaryDate,24 Sep 1915,"{""day""=>[""24""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2789504,Ouderdom,"[2.78226, 50.8243]"
+23,AWD00014tj,diary,91,3,1915-09-24 00:00:00 UTC,24 Sep 1915,Sanctuary Wood,"[0.0, 0.0]","",place,Sanctuary Wood,"{""place""=>[""Sanctuary Wood""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2795100,Ieper,"[2.88569, 50.85114]"
+24,AWD00014tj,diary,91,5,1915-09-24 00:00:00 UTC,24 Sep 1915,Sanctuary Wood,"[0.0, 0.0]","",activity,line,{},2795100,Ieper,"[2.88569, 50.85114]"
+26,AWD00014tj,diary,91,5,1915-09-25 00:00:00 UTC,25 Sep 1915,Sanctuary Wood,"[0.0, 0.0]","",diaryDate,25 Sep 1915,"{""day""=>[""25""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2795100,Ieper,"[2.88569, 50.85114]"
+27,AWD00014tj,diary,91,3,1915-09-25 13:30:00 UTC,25 Sep 1915,Sanctuary Wood,"[0.0, 0.0]",0130PM,time,0130PM,{},2795100,Ieper,"[2.88569, 50.85114]"
+28,AWD00014tj,diary,91,5,1915-09-25 13:30:00 UTC,25 Sep 1915,Sanctuary Wood,"[0.0, 0.0]",0130PM,domestic,rations,{},2795100,Ieper,"[2.88569, 50.85114]"
+29,AWD00014tj,diary,91,2,1915-09-25 01:30:00 UTC,25 Sep 1915,Sanctuary Wood,"[0.0, 0.0]",0130AM,time,0130AM,{},2795100,Ieper,"[2.88569, 50.85114]"
+32,AWD00014tj,diary,91,2,1915-09-25 01:30:00 UTC,25 Sep 1915,Sanctuary Wood,"[2.78226, 50.8243]",0130AM,place,Sanctuary Wood,"{""place""=>[""Sanctuary Wood""], ""location""=>[""true""], ""name""=>[""Ouderdom"", """"], ""lat""=>[""50.8243"", """"], ""long""=>[""2.78226"", """"], ""id""=>[""2789504"", """"]}",2795100,Ieper,"[2.88569, 50.85114]"
+35,AWD00014tj,diary,91,3,1915-09-25 03:40:00 UTC,25 Sep 1915,Sanctuary Wood,"[2.78226, 50.8243]",0340AM,time,0340AM,{},2795100,Ieper,"[2.88569, 50.85114]"
+36,AWD00014tj,diary,91,2,1915-09-25 15:50:00 UTC,25 Sep 1915,Sanctuary Wood,"[2.78226, 50.8243]",0350PM,time,0350PM,{},2795100,Ieper,"[2.88569, 50.85114]"
+37,AWD00014tj,diary,91,5,1915-09-25 15:50:00 UTC,25 Sep 1915,Sanctuary Wood,"[2.78226, 50.8243]",0350PM,activity,attack,{},2795100,Ieper,"[2.88569, 50.85114]"
+38,AWD00014tj,diary,91,3,1915-09-25 03:50:00 UTC,25 Sep 1915,Sanctuary Wood,"[2.78226, 50.8243]",0350AM,time,0350AM,{},2795100,Ieper,"[2.88569, 50.85114]"
+39,AWD00014tj,diary,91,6,1915-09-25 03:50:00 UTC,25 Sep 1915,Sanctuary Wood,"[2.78226, 50.8243]",0350AM,activity,fire,{},2795100,Ieper,"[2.88569, 50.85114]"
+42,AWD00014tj,diary,91,2,1915-09-25 04:05:00 UTC,25 Sep 1915,Sanctuary Wood,"[2.78226, 50.8243]",0405AM,time,0405AM,{},2795100,Ieper,"[2.88569, 50.85114]"
+45,AWD00014tj,diary,91,3,1915-09-25 04:05:00 UTC,25 Sep 1915,Sanctuary Wood,"[2.78226, 50.8243]",0405AM,activity,attack,{},2795100,Ieper,"[2.88569, 50.85114]"
+46,AWD00014tj,diary,91,2,1915-09-25 16:10:00 UTC,25 Sep 1915,Sanctuary Wood,"[2.78226, 50.8243]",0410PM,time,0410PM,{},2795100,Ieper,"[2.88569, 50.85114]"
+47,AWD00014tj,diary,91,3,1915-09-25 04:10:00 UTC,25 Sep 1915,Sanctuary Wood,"[2.78226, 50.8243]",0410AM,time,0410AM,{},2795100,Ieper,"[2.88569, 50.85114]"
+48,AWD00014tj,diary,91,4,1915-09-25 04:10:00 UTC,25 Sep 1915,Sanctuary Wood,"[2.78226, 50.8243]",0410AM,activity,movement,{},2795100,Ieper,"[2.88569, 50.85114]"
+49,AWD00014tj,diary,91,4,1915-09-25 04:10:00 UTC,25 Sep 1915,Sanctuary Wood,"[2.78226, 50.8243]",0410AM,activity,attack,{},2795100,Ieper,"[2.88569, 50.85114]"
+50,AWD00014tj,diary,91,3,1915-09-25 04:18:00 UTC,25 Sep 1915,Sanctuary Wood,"[2.78226, 50.8243]",0418AM,time,0418AM,{},2795100,Ieper,"[2.88569, 50.85114]"
+51,AWD00014tj,diary,91,2,1915-09-25 16:18:00 UTC,25 Sep 1915,Sanctuary Wood,"[2.78226, 50.8243]",0418PM,time,0418PM,{},2795100,Ieper,"[2.88569, 50.85114]"
+3,AWD00014te,diary,92,5,1915-09-25 16:18:00 UTC,25 Sep 1915,Sanctuary Wood,"[2.78226, 50.8243]",0418PM,person,Sergeant  Forbes,"{""first""=>[""""], ""surname""=>[""Forbes""], ""rank""=>[""Sergeant""], ""number""=>[""""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",2795100,Ieper,"[2.88569, 50.85114]"
+6,AWD00014te,diary,92,7,1915-09-25 16:18:00 UTC,25 Sep 1915,Sanctuary Wood,"[2.78226, 50.8243]",0418PM,person,Captain  Reid,"{""first""=>[""""], ""surname""=>[""Reid""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",2795100,Ieper,"[2.88569, 50.85114]"
+7,AWD00014te,diary,92,7,1915-09-25 16:18:00 UTC,25 Sep 1915,Sanctuary Wood,"[2.78226, 50.8243]",0418PM,person,Lieutenant  Henderson,"{""first""=>[""""], ""surname""=>[""Henderson""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",2795100,Ieper,"[2.88569, 50.85114]"
+8,AWD00014te,diary,92,3,1915-09-25 16:18:00 UTC,25 Sep 1915,Sanctuary Wood,"[2.78226, 50.8243]",0418PM,gridRef,J 13 C 7 9,{},2795100,Ieper,"[2.88569, 50.85114]"
+10,AWD00014te,diary,92,3,1915-09-25 16:50:00 UTC,25 Sep 1915,Sanctuary Wood,"[2.78226, 50.8243]",0450PM,time,0450PM,{},2795100,Ieper,"[2.88569, 50.85114]"
+11,AWD00014te,diary,92,3,1915-09-25 04:50:00 UTC,25 Sep 1915,Sanctuary Wood,"[2.78226, 50.8243]",0450AM,time,0450AM,{},2795100,Ieper,"[2.88569, 50.85114]"
+12,AWD00014te,diary,92,6,1915-09-25 04:50:00 UTC,25 Sep 1915,Sanctuary Wood,"[2.78226, 50.8243]",0450AM,activity,fire,{},2795100,Ieper,"[2.88569, 50.85114]"
+13,AWD00014te,diary,92,2,1915-09-25 00:00:00 UTC,25 Sep 1915,Sanctuary Wood,"[2.78226, 50.8243]",1200AM,time,1200AM,{},2795100,Ieper,"[2.88569, 50.85114]"
+14,AWD00014te,diary,92,2,1915-09-25 12:00:00 UTC,25 Sep 1915,Sanctuary Wood,"[2.78226, 50.8243]",1200PM,time,1200PM,{},2795100,Ieper,"[2.88569, 50.85114]"
+16,AWD00014te,diary,92,9,1915-09-25 12:00:00 UTC,25 Sep 1915,Sanctuary Wood,"[2.78226, 50.8243]",1200PM,person,Captain  Watson,"{""first""=>[""""], ""surname""=>[""Watson""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",2795100,Ieper,"[2.88569, 50.85114]"
+19,AWD00014te,diary,92,6,1915-09-25 05:00:00 UTC,25 Sep 1915,Sanctuary Wood,"[2.78226, 50.8243]",0500AM,time,0500AM,{},2795100,Ieper,"[2.88569, 50.85114]"
+23,AWD00014te,diary,92,3,1915-09-25 05:30:00 UTC,25 Sep 1915,Sanctuary Wood,"[2.78226, 50.8243]",0530AM,time,0530AM,{},2795100,Ieper,"[2.88569, 50.85114]"
+24,AWD00014te,diary,92,2,1915-09-25 05:30:00 UTC,25 Sep 1915,Sanctuary Wood,"[2.78226, 50.8243]",0530AM,activity,support,{},2795100,Ieper,"[2.88569, 50.85114]"
+25,AWD00014te,diary,92,5,1915-09-25 05:30:00 UTC,25 Sep 1915,Sanctuary Wood,"[2.78226, 50.8243]",0530AM,activity,fire,{},2795100,Ieper,"[2.88569, 50.85114]"
+26,AWD00014te,diary,92,3,1915-09-25 05:30:00 UTC,25 Sep 1915,Sanctuary Wood,"[2.78226, 50.8243]",0530AM,activity,resupplying,{},2795100,Ieper,"[2.88569, 50.85114]"
+28,AWD00014te,diary,92,2,1915-09-25 05:30:00 UTC,25 Sep 1915,Sanctuary Wood,"[2.78226, 50.8243]",0530AM,gridRef,J 13 c 3 9,{},2795100,Ieper,"[2.88569, 50.85114]"
+31,AWD00014te,diary,92,3,1915-09-25 05:30:00 UTC,25 Sep 1915,Sanctuary Wood,"[2.78226, 50.8243]",0530AM,activity,fire,{},2795100,Ieper,"[2.88569, 50.85114]"
+32,AWD00014te,diary,92,4,1915-09-25 11:00:00 UTC,25 Sep 1915,Sanctuary Wood,"[2.78226, 50.8243]",1100AM,time,1100AM,{},2795100,Ieper,"[2.88569, 50.85114]"
+33,AWD00014te,diary,92,2,1915-09-25 11:00:00 UTC,25 Sep 1915,Sanctuary Wood,"[2.78226, 50.8243]",1100AM,activity,enemy_activity,{},2795100,Ieper,"[2.88569, 50.85114]"
+35,AWD00014te,diary,92,3,1915-09-25 12:00:00 UTC,25 Sep 1915,Sanctuary Wood,"[2.78226, 50.8243]",1200PM,time,1200PM,{},2795100,Ieper,"[2.88569, 50.85114]"
+36,AWD00014te,diary,92,2,1915-09-25 12:00:00 UTC,25 Sep 1915,Sanctuary Wood,"[2.78226, 50.8243]",1200PM,activity,enemy_activity,{},2795100,Ieper,"[2.88569, 50.85114]"
+1,AWD00014tw,diary,93,6,1915-09-26 00:00:00 UTC,26 Sep 1915,Sanctuary Wood,"[2.78226, 50.8243]","",diaryDate,26 Sep 1915,"{""day""=>[""26""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2795100,Ieper,"[2.88569, 50.85114]"
+2,AWD00014tw,diary,93,5,1915-09-26 00:00:00 UTC,26 Sep 1915,Sanctuary Wood,"[2.78226, 50.8243]","",activity,resting,{},2795100,Ieper,"[2.88569, 50.85114]"
+4,AWD00014tw,diary,93,4,1915-09-26 00:00:00 UTC,26 Sep 1915,Sanctuary Wood,"[2.78226, 50.8243]","",domestic,religion,{},2795100,Ieper,"[2.88569, 50.85114]"
+5,AWD00014tw,diary,93,4,1915-09-26 18:00:00 UTC,26 Sep 1915,Sanctuary Wood,"[2.78226, 50.8243]",0600PM,time,0600PM,{},2795100,Ieper,"[2.88569, 50.85114]"
+6,AWD00014tw,diary,93,5,1915-09-26 18:00:00 UTC,26 Sep 1915,Ouderdom,"[2.78226, 50.8243]",0600PM,place,Ouderdom,"{""place""=>[""Ouderdom""], ""location""=>[""true""], ""name""=>[""Ouderdom""], ""lat""=>[""50.8243""], ""long""=>[""2.78226""], ""id""=>[""2789504""]}",2789504,Ouderdom,"[2.78226, 50.8243]"
+8,AWD00014tw,diary,93,6,1915-09-27 00:00:00 UTC,27 Sep 1915,Ouderdom,"[2.78226, 50.8243]","",diaryDate,27 Sep 1915,"{""day""=>[""27""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2789504,Ouderdom,"[2.78226, 50.8243]"
+10,AWD00014tw,diary,93,6,1915-09-27 00:00:00 UTC,27 Sep 1915,Ouderdom,"[2.78226, 50.8243]","",person,"Lieutenant General Sir E H H Allenby, ALLENBY","{""first""=>[""Sir E H H""], ""surname""=>[""Allenby"", ""ALLENBY""], ""rank""=>[""Lieutenant General""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2789504,Ouderdom,"[2.78226, 50.8243]"
+11,AWD00014tw,diary,93,2,1915-09-27 00:00:00 UTC,27 Sep 1915,Ouderdom,"[2.78226, 50.8243]","",place,Ouderdom,"{""place""=>[""Ouderdom""], ""location""=>[""true""], ""name""=>[""Ouderdom""], ""lat""=>[""50.8243""], ""long""=>[""2.78226""], ""id""=>[""2789504""]}",2789504,Ouderdom,"[2.78226, 50.8243]"
+13,AWD00014tw,diary,93,4,1915-09-27 00:00:00 UTC,27 Sep 1915,Ouderdom,"[2.78226, 50.8243]","",casualties,sick: 5,{},2789504,Ouderdom,"[2.78226, 50.8243]"
+14,AWD00014tw,diary,93,6,1915-09-28 00:00:00 UTC,28 Sep 1915,Ouderdom,"[2.78226, 50.8243]","",diaryDate,28 Sep 1915,"{""day""=>[""28""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2789504,Ouderdom,"[2.78226, 50.8243]"
+16,AWD00014tw,diary,93,6,1915-09-28 00:00:00 UTC,28 Sep 1915,Ouderdom,"[2.78226, 50.8243]","",person,Lieutenant General J A L Haldane,"{""first""=>[""J A L""], ""surname""=>[""Haldane""], ""rank""=>[""Lieutenant General""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2789504,Ouderdom,"[2.78226, 50.8243]"
+17,AWD00014tw,diary,93,2,1915-09-28 00:00:00 UTC,28 Sep 1915,Ouderdom,"[2.78226, 50.8243]","",place,Ouderdom,"{""place""=>[""Ouderdom""], ""location""=>[""true""], ""name""=>[""Ouderdom""], ""lat""=>[""50.8243""], ""long""=>[""2.78226""], ""id""=>[""2789504""]}",2789504,Ouderdom,"[2.78226, 50.8243]"
+18,AWD00014tw,diary,93,2,1915-09-28 00:00:00 UTC,28 Sep 1915,Ouderdom,"[2.78226, 50.8243]","",activity,other,{},2789504,Ouderdom,"[2.78226, 50.8243]"
+19,AWD00014tw,diary,93,6,1915-09-29 00:00:00 UTC,29 Sep 1915,Ouderdom,"[2.78226, 50.8243]","",diaryDate,29 Sep 1915,"{""day""=>[""29""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2789504,Ouderdom,"[2.78226, 50.8243]"
+20,AWD00014tw,diary,93,4,1915-09-29 00:00:00 UTC,29 Sep 1915,Ouderdom,"[2.78226, 50.8243]","",activity,resting,{},2789504,Ouderdom,"[2.78226, 50.8243]"
+21,AWD00014tw,diary,93,2,1915-09-29 00:00:00 UTC,29 Sep 1915,Ouderdom,"[2.78226, 50.8243]","",place,Ouderdom,"{""place""=>[""Ouderdom""], ""location""=>[""true""], ""name""=>[""Ouderdom""], ""lat""=>[""50.8243""], ""long""=>[""2.78226""], ""id""=>[""2789504""]}",2789504,Ouderdom,"[2.78226, 50.8243]"
+22,AWD00014tw,diary,93,2,1915-09-29 00:00:00 UTC,29 Sep 1915,Ouderdom,"[2.78226, 50.8243]","",domestic,accomodation,{},2789504,Ouderdom,"[2.78226, 50.8243]"
+23,AWD00014tw,diary,93,5,1915-09-30 00:00:00 UTC,30 Sep 1915,Ouderdom,"[2.78226, 50.8243]","",diaryDate,30 Sep 1915,"{""day""=>[""30""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2789504,Ouderdom,"[2.78226, 50.8243]"
+26,AWD00014tw,diary,93,5,1915-09-30 05:00:00 UTC,30 Sep 1915,Ouderdom,"[2.78226, 50.8243]",0500AM,time,0500AM,{},2789504,Ouderdom,"[2.78226, 50.8243]"
+29,AWD00014tw,diary,93,3,1915-09-30 05:00:00 UTC,30 Sep 1915,Ouderdom,"[2.78226, 50.8243]",0500AM,activity,movement,{},2789504,Ouderdom,"[2.78226, 50.8243]"
+30,AWD00014tw,diary,93,2,1915-09-30 05:00:00 UTC,30 Sep 1915,Ouderdom,"[2.78226, 50.8243]",0500AM,activity,line,{},2789504,Ouderdom,"[2.78226, 50.8243]"
+32,AWD00014tw,diary,93,5,1915-09-30 05:00:00 UTC,30 Sep 1915,Kruisstraat,"[0.0, 0.0]",0500AM,place,Kruisstraat,"{""place""=>[""Kruisstraat""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",0,Kruisstraat,"[0.0, 0.0]"
+35,AWD00014tw,diary,93,4,1915-09-30 20:30:00 UTC,30 Sep 1915,Kruisstraat,"[0.0, 0.0]",0830PM,time,0830PM,{},0,Kruisstraat,"[0.0, 0.0]"
+36,AWD00014tw,diary,93,4,1915-09-30 08:30:00 UTC,30 Sep 1915,Kruisstraat,"[0.0, 0.0]",0830AM,time,0830AM,{},0,Kruisstraat,"[0.0, 0.0]"
+37,AWD00014tw,diary,93,2,1915-09-30 21:30:00 UTC,30 Sep 1915,Kruisstraat,"[0.0, 0.0]",0930PM,time,0930PM,{},0,Kruisstraat,"[0.0, 0.0]"
+38,AWD00014tw,diary,93,3,1915-09-30 09:30:00 UTC,30 Sep 1915,Kruisstraat,"[0.0, 0.0]",0930AM,time,0930AM,{},0,Kruisstraat,"[0.0, 0.0]"
+42,AWD00014tw,diary,93,4,1915-09-30 09:30:00 UTC,30 Sep 1915,Kruisstraat,"[0.0, 0.0]",0930AM,activity,working,{},0,Kruisstraat,"[0.0, 0.0]"
+44,AWD00014tw,diary,93,3,1915-09-30 09:30:00 UTC,30 Sep 1915,Kruisstraat,"[0.0, 0.0]",0930AM,place,Kruisstraat,"{""place""=>[""Kruisstraat""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",0,Kruisstraat,"[0.0, 0.0]"
+46,AWD00014tw,diary,93,2,1915-09-30 09:30:00 UTC,30 Sep 1915,Kruisstraat,"[0.0, 0.0]",0930AM,place,"Maple, maple","{""place""=>[""Maple"", ""maple""], ""location""=>[""true"", ""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",0,Kruisstraat,"[0.0, 0.0]"
+49,AWD00014tw,diary,93,2,1915-09-30 09:30:00 UTC,30 Sep 1915,Kruisstraat,"[0.0, 0.0]",0930AM,strength,other: 300,{},0,Kruisstraat,"[0.0, 0.0]"
+55,AWD00014tw,diary,93,6,1915-09-30 09:30:00 UTC,30 Sep 1915,Kruisstraat,"[0.0, 0.0]",0930AM,casualties,wounded: 3,{},0,Kruisstraat,"[0.0, 0.0]"
+1,AWD00014u9,diary,94,6,1915-11-02 00:00:00 UTC,2 Nov 1915,Kruisstraat,"[0.0, 0.0]","",diaryDate,2 Nov 1915,"{""day""=>[""2""], ""month""=>[""Nov""], ""year""=>[""1915""]}",0,Kruisstraat,"[0.0, 0.0]"
+2,AWD00014u9,diary,94,2,1915-11-02 00:00:00 UTC,2 Nov 1915,Kruisstraat,"[0.0, 0.0]","",domestic,accomodation,{},0,Kruisstraat,"[0.0, 0.0]"
+3,AWD00014u9,diary,94,4,1915-11-02 00:00:00 UTC,2 Nov 1915,Kruisstraat,"[0.0, 0.0]","",domestic,parades,{},0,Kruisstraat,"[0.0, 0.0]"
+7,AWD00014u9,diary,94,6,1915-11-02 00:00:00 UTC,2 Nov 1915,Eecke,"[2.59656, 50.77861]","",place,Eecke,"{""place""=>[""Eecke""], ""location""=>[""true""], ""name""=>[""Eecke""], ""lat""=>[""50.77861""], ""long""=>[""2.59656""], ""id""=>[""3020369""]}",8556090,Ecke,"[7.46075, 49.08876]"
+8,AWD00014u9,diary,94,7,1915-11-02 00:00:00 UTC,2 Nov 1915,Eecke,"[2.59656, 50.77861]","",activity,resting,{},8556090,Ecke,"[7.46075, 49.08876]"
+9,AWD00014u9,diary,94,3,1915-11-02 00:00:00 UTC,2 Nov 1915,Eecke,"[2.59656, 50.77861]","",casualties,sick: 2,{},8556090,Ecke,"[7.46075, 49.08876]"
+11,AWD00014u9,diary,94,6,1915-11-03 00:00:00 UTC,3 Nov 1915,Eecke,"[2.59656, 50.77861]","",diaryDate,3 Nov 1915,"{""day""=>[""3""], ""month""=>[""Nov""], ""year""=>[""1915""]}",8556090,Ecke,"[7.46075, 49.08876]"
+12,AWD00014u9,diary,94,2,1915-11-03 00:00:00 UTC,3 Nov 1915,Eecke,"[2.59656, 50.77861]","",domestic,inspections,{},8556090,Ecke,"[7.46075, 49.08876]"
+14,AWD00014u9,diary,94,3,1915-11-03 00:00:00 UTC,3 Nov 1915,Eecke,"[2.59656, 50.77861]","",casualties,other: 1,{},8556090,Ecke,"[7.46075, 49.08876]"
+15,AWD00014u9,diary,94,3,1915-11-04 00:00:00 UTC,4 Nov 1915,Eecke,"[2.59656, 50.77861]","",diaryDate,4 Nov 1915,"{""day""=>[""4""], ""month""=>[""Nov""], ""year""=>[""1915""]}",8556090,Ecke,"[7.46075, 49.08876]"
+16,AWD00014u9,diary,94,6,1915-11-04 00:00:00 UTC,4 Nov 1915,Eecke,"[2.59656, 50.77861]","",casualties,sick: 1,{},8556090,Ecke,"[7.46075, 49.08876]"
+17,AWD00014u9,diary,94,3,1915-11-04 00:00:00 UTC,4 Nov 1915,Eecke,"[2.59656, 50.77861]","",diaryDate,4 Nov 1915,"{""day""=>[""4""], ""month""=>[""Nov""], ""year""=>[""1915""]}",8556090,Ecke,"[7.46075, 49.08876]"
+18,AWD00014u9,diary,94,4,1915-11-04 00:00:00 UTC,4 Nov 1915,Eecke,"[2.59656, 50.77861]","",domestic,parades,{},8556090,Ecke,"[7.46075, 49.08876]"
+19,AWD00014u9,diary,94,5,1915-11-04 00:00:00 UTC,4 Nov 1915,Eecke,"[2.59656, 50.77861]","",activity,resting,{},8556090,Ecke,"[7.46075, 49.08876]"
+20,AWD00014u9,diary,94,2,1915-11-04 00:00:00 UTC,4 Nov 1915,Eecke,"[2.59656, 50.77861]","",place,EECKE,"{""place""=>[""EECKE""], ""location""=>[""false""], ""name""=>[""Eecke""], ""lat""=>[""50.77861""], ""long""=>[""2.59656""], ""id""=>[""3020369""]}",8556090,Ecke,"[7.46075, 49.08876]"
+21,AWD00014u9,diary,94,6,1915-11-05 00:00:00 UTC,5 Nov 1915,Eecke,"[2.59656, 50.77861]","",diaryDate,5 Nov 1915,"{""day""=>[""5""], ""month""=>[""Nov""], ""year""=>[""1915""]}",8556090,Ecke,"[7.46075, 49.08876]"
+26,AWD00014u9,diary,94,6,1915-11-06 00:00:00 UTC,6 Nov 1915,Eecke,"[2.59656, 50.77861]","",diaryDate,6 Nov 1915,"{""day""=>[""6""], ""month""=>[""Nov""], ""year""=>[""1915""]}",8556090,Ecke,"[7.46075, 49.08876]"
+28,AWD00014u9,diary,94,3,1915-11-06 00:00:00 UTC,6 Nov 1915,Eecke,"[2.59656, 50.77861]","",activity,resting,{},8556090,Ecke,"[7.46075, 49.08876]"
+29,AWD00014u9,diary,94,7,1915-11-06 00:00:00 UTC,6 Nov 1915,Eecke,"[2.59656, 50.77861]","",domestic,sport,{},8556090,Ecke,"[7.46075, 49.08876]"
+30,AWD00014u9,diary,94,2,1915-11-06 00:00:00 UTC,6 Nov 1915,Eecke,"[2.59656, 50.77861]","",place,Steenvoorde,"{""place""=>[""Steenvoorde""], ""location""=>[""true"", ""false""], ""name""=>[""Steenvoorde""], ""lat""=>[""50.81046""], ""long""=>[""2.58244""], ""id""=>[""2973823""]}",8556090,Ecke,"[7.46075, 49.08876]"
+31,AWD00014u9,diary,94,6,1915-11-06 00:00:00 UTC,6 Nov 1915,Eecke,"[2.59656, 50.77861]","",person,Lance Sergeant  Bridges,"{""first""=>[""""], ""surname""=>[""Bridges""], ""rank""=>[""Lance Sergeant""], ""number""=>[""""], ""reason""=>[""award""], ""unit""=>[""""]}",8556090,Ecke,"[7.46075, 49.08876]"
+36,AWD00014u9,diary,94,5,1915-11-07 00:00:00 UTC,7 Nov 1915,Eecke,"[2.59656, 50.77861]","",diaryDate,7 Nov 1915,"{""day""=>[""7""], ""month""=>[""Nov""], ""year""=>[""1915""]}",8556090,Ecke,"[7.46075, 49.08876]"
+37,AWD00014u9,diary,94,4,1915-11-07 00:00:00 UTC,7 Nov 1915,Eecke,"[2.59656, 50.77861]","",domestic,religion,{},8556090,Ecke,"[7.46075, 49.08876]"
+38,AWD00014u9,diary,94,3,1915-11-07 00:00:00 UTC,7 Nov 1915,Eecke,"[2.59656, 50.77861]","",activity,resting,{},8556090,Ecke,"[7.46075, 49.08876]"
+39,AWD00014u9,diary,94,2,1915-11-07 00:00:00 UTC,7 Nov 1915,Eecke,"[2.59656, 50.77861]","",casualties,other: 2,{},8556090,Ecke,"[7.46075, 49.08876]"
+40,AWD00014u9,diary,94,3,1915-11-07 00:00:00 UTC,7 Nov 1915,Eecke,"[2.59656, 50.77861]","",casualties,sick: 2,{},8556090,Ecke,"[7.46075, 49.08876]"
+42,AWD00014u9,diary,94,4,1915-11-07 00:00:00 UTC,7 Nov 1915,Eecke,"[2.59656, 50.77861]","",domestic,inspections,{},8556090,Ecke,"[7.46075, 49.08876]"
+45,AWD00014u9,diary,94,6,1915-11-08 00:00:00 UTC,8 Nov 1915,Eecke,"[2.59656, 50.77861]","",diaryDate,8 Nov 1915,"{""day""=>[""8""], ""month""=>[""Nov""], ""year""=>[""1915""]}",8556090,Ecke,"[7.46075, 49.08876]"
+46,AWD00014u9,diary,94,3,1915-11-08 00:00:00 UTC,8 Nov 1915,Eecke,"[2.59656, 50.77861]","",activity,resting,{},8556090,Ecke,"[7.46075, 49.08876]"
+47,AWD00014u9,diary,94,5,1915-11-08 00:00:00 UTC,8 Nov 1915,Eecke,"[2.59656, 50.77861]","",activity,training,{},8556090,Ecke,"[7.46075, 49.08876]"
+49,AWD00014u9,diary,94,6,1915-11-09 00:00:00 UTC,9 Nov 1915,Eecke,"[2.59656, 50.77861]","",diaryDate,9 Nov 1915,"{""day""=>[""9""], ""month""=>[""Nov""], ""year""=>[""1915""]}",8556090,Ecke,"[7.46075, 49.08876]"
+51,AWD00014u9,diary,94,5,1915-11-09 00:00:00 UTC,9 Nov 1915,Eecke,"[2.59656, 50.77861]","",activity,resting,{},8556090,Ecke,"[7.46075, 49.08876]"
+52,AWD00014u9,diary,94,3,1915-11-09 00:00:00 UTC,9 Nov 1915,Eecke,"[2.59656, 50.77861]","",activity,working,{},8556090,Ecke,"[7.46075, 49.08876]"
+53,AWD00014u9,diary,94,3,1915-11-10 00:00:00 UTC,10 Nov 1915,Eecke,"[2.59656, 50.77861]","",diaryDate,10 Nov 1915,"{""day""=>[""10""], ""month""=>[""Nov""], ""year""=>[""1915""]}",8556090,Ecke,"[7.46075, 49.08876]"
+54,AWD00014u9,diary,94,2,1915-11-10 00:00:00 UTC,10 Nov 1915,Eecke,"[2.59656, 50.77861]","",activity,movement,{},8556090,Ecke,"[7.46075, 49.08876]"
+55,AWD00014u9,diary,94,3,1915-11-10 00:00:00 UTC,10 Nov 1915,Eecke,"[2.59656, 50.77861]","",diaryDate,10 Nov 1915,"{""day""=>[""10""], ""month""=>[""Nov""], ""year""=>[""1915""]}",8556090,Ecke,"[7.46075, 49.08876]"
+56,AWD00014u9,diary,94,2,1915-11-10 00:00:00 UTC,10 Nov 1915,Eecke,"[2.59656, 50.77861]","",person,"other,  Jacquenin, Jacqueineu","{""first""=>[""""], ""surname""=>[""Jacquenin"", ""Jacqueineu""], ""rank""=>[""other"", """"], ""number""=>[""""], ""reason""=>[""departed_posted""], ""unit""=>[""8th Bde"", """"]}",8556090,Ecke,"[7.46075, 49.08876]"
+59,AWD00014u9,diary,94,6,1915-11-10 00:00:00 UTC,10 Nov 1915,Eecke,"[2.59656, 50.77861]","",person,Sergeant  Burns,"{""first""=>[""""], ""surname""=>[""Burns""], ""rank""=>[""Sergeant""], ""number""=>[""""], ""reason""=>[""promotion""], ""unit""=>[""""]}",8556090,Ecke,"[7.46075, 49.08876]"
+62,AWD00014u9,diary,94,2,1915-11-10 00:00:00 UTC,10 Nov 1915,Eecke,"[2.59656, 50.77861]","",activity,training,{},8556090,Ecke,"[7.46075, 49.08876]"
+63,AWD00014u9,diary,94,6,1915-11-11 00:00:00 UTC,11 Nov 1915,Eecke,"[2.59656, 50.77861]","",diaryDate,11 Nov 1915,"{""day""=>[""11""], ""month""=>[""Nov""], ""year""=>[""1915""]}",8556090,Ecke,"[7.46075, 49.08876]"
+65,AWD00014u9,diary,94,3,1915-11-11 00:00:00 UTC,11 Nov 1915,Eecke,"[2.59656, 50.77861]","",activity,resting,{},8556090,Ecke,"[7.46075, 49.08876]"
+66,AWD00014u9,diary,94,6,1915-11-11 00:00:00 UTC,11 Nov 1915,Eecke,"[2.59656, 50.77861]","",activity,training,{},8556090,Ecke,"[7.46075, 49.08876]"
+67,AWD00014u9,diary,94,5,1915-11-12 00:00:00 UTC,12 Nov 1915,Eecke,"[2.59656, 50.77861]","",diaryDate,12 Nov 1915,"{""day""=>[""12""], ""month""=>[""Nov""], ""year""=>[""1915""]}",8556090,Ecke,"[7.46075, 49.08876]"
+68,AWD00014u9,diary,94,4,1915-11-12 00:00:00 UTC,12 Nov 1915,Eecke,"[2.59656, 50.77861]","",domestic,parades,{},8556090,Ecke,"[7.46075, 49.08876]"
+69,AWD00014u9,diary,94,5,1915-11-12 00:00:00 UTC,12 Nov 1915,Eecke,"[2.59656, 50.77861]","",domestic,sport,{},8556090,Ecke,"[7.46075, 49.08876]"
+70,AWD00014u9,diary,94,3,1915-11-12 00:00:00 UTC,12 Nov 1915,Eecke,"[2.59656, 50.77861]","",activity,resting,{},8556090,Ecke,"[7.46075, 49.08876]"
+1,AWD00014t9,diary,95,7,1915-11-13 00:00:00 UTC,13 Nov 1915,Eecke,"[2.59656, 50.77861]","",diaryDate,13 Nov 1915,"{""day""=>[""13""], ""month""=>[""Nov""], ""year""=>[""1915""]}",8556090,Ecke,"[7.46075, 49.08876]"
+2,AWD00014t9,diary,95,7,1915-11-13 00:00:00 UTC,13 Nov 1915,Eecke,"[2.59656, 50.77861]","",activity,training,{},8556090,Ecke,"[7.46075, 49.08876]"
+3,AWD00014t9,diary,95,4,1915-11-13 00:00:00 UTC,13 Nov 1915,Eecke,"[2.59656, 50.77861]","",activity,resting,{},8556090,Ecke,"[7.46075, 49.08876]"
+4,AWD00014t9,diary,95,2,1915-11-13 00:00:00 UTC,13 Nov 1915,Eecke,"[2.59656, 50.77861]","",domestic,accomodation,{},8556090,Ecke,"[7.46075, 49.08876]"
+5,AWD00014t9,diary,95,7,1915-11-13 00:00:00 UTC,13 Nov 1915,Eecke,"[2.59656, 50.77861]","",place,Eecke,"{""place""=>[""Eecke""], ""location""=>[""true""], ""name""=>[""Eecke""], ""lat""=>[""50.77861""], ""long""=>[""2.59656""], ""id""=>[""3020369""]}",8556090,Ecke,"[7.46075, 49.08876]"
+6,AWD00014t9,diary,95,2,1915-11-14 00:00:00 UTC,14 Nov 1915,Eecke,"[2.59656, 50.77861]","",diaryDate,14 Nov 1915,"{""day""=>[""14""], ""month""=>[""Nov""], ""year""=>[""1915""]}",8556090,Ecke,"[7.46075, 49.08876]"
+8,AWD00014t9,diary,95,5,1915-11-14 00:00:00 UTC,14 Nov 1915,Eecke,"[2.59656, 50.77861]","",diaryDate,14 Nov 1915,"{""day""=>[""14""], ""month""=>[""Nov""], ""year""=>[""1915""]}",8556090,Ecke,"[7.46075, 49.08876]"
+9,AWD00014t9,diary,95,4,1915-11-14 00:00:00 UTC,14 Nov 1915,Eecke,"[2.59656, 50.77861]","",domestic,inspections,{},8556090,Ecke,"[7.46075, 49.08876]"
+10,AWD00014t9,diary,95,2,1915-11-14 00:00:00 UTC,14 Nov 1915,Eecke,"[2.59656, 50.77861]","",domestic,accomodation,{},8556090,Ecke,"[7.46075, 49.08876]"
+11,AWD00014t9,diary,95,2,1915-11-14 00:00:00 UTC,14 Nov 1915,Eecke,"[2.59656, 50.77861]","",domestic,parades,{},8556090,Ecke,"[7.46075, 49.08876]"
+12,AWD00014t9,diary,95,2,1915-11-14 00:00:00 UTC,14 Nov 1915,Eecke,"[2.59656, 50.77861]","",activity,resting,{},8556090,Ecke,"[7.46075, 49.08876]"
+14,AWD00014t9,diary,95,5,1915-11-14 00:00:00 UTC,14 Nov 1915,Eecke,"[2.59656, 50.77861]","",domestic,religion,{},8556090,Ecke,"[7.46075, 49.08876]"
+15,AWD00014t9,diary,95,2,1915-11-14 00:00:00 UTC,14 Nov 1915,Eecke,"[2.59656, 50.77861]","",place,Eecke,"{""place""=>[""Eecke""], ""location""=>[""true"", ""false""], ""name""=>[""Eecke""], ""lat""=>[""50.77861""], ""long""=>[""2.59656""], ""id""=>[""3020369""]}",8556090,Ecke,"[7.46075, 49.08876]"
+20,AWD00014t9,diary,95,6,1915-11-15 00:00:00 UTC,15 Nov 1915,Eecke,"[2.59656, 50.77861]","",diaryDate,15 Nov 1915,"{""day""=>[""15""], ""month""=>[""Nov""], ""year""=>[""1915""]}",8556090,Ecke,"[7.46075, 49.08876]"
+21,AWD00014t9,diary,95,6,1915-11-15 00:00:00 UTC,15 Nov 1915,Eecke,"[2.59656, 50.77861]","",domestic,parades,{},8556090,Ecke,"[7.46075, 49.08876]"
+22,AWD00014t9,diary,95,2,1915-11-15 00:00:00 UTC,15 Nov 1915,Eecke,"[2.59656, 50.77861]","",domestic,inspections,{},8556090,Ecke,"[7.46075, 49.08876]"
+23,AWD00014t9,diary,95,3,1915-11-15 00:00:00 UTC,15 Nov 1915,Eecke,"[2.59656, 50.77861]","",domestic,sport,{},8556090,Ecke,"[7.46075, 49.08876]"
+24,AWD00014t9,diary,95,2,1915-11-15 00:00:00 UTC,15 Nov 1915,Eecke,"[2.59656, 50.77861]","",activity,resting,{},8556090,Ecke,"[7.46075, 49.08876]"
+26,AWD00014t9,diary,95,3,1915-11-15 00:00:00 UTC,15 Nov 1915,Eecke,"[2.59656, 50.77861]","",activity,training,{},8556090,Ecke,"[7.46075, 49.08876]"
+28,AWD00014t9,diary,95,2,1915-11-15 00:00:00 UTC,15 Nov 1915,Eecke,"[2.59656, 50.77861]","",place,Eecke,"{""place""=>[""Eecke""], ""location""=>[""true"", ""false""], ""name""=>[""Eecke""], ""lat""=>[""50.77861""], ""long""=>[""2.59656""], ""id""=>[""3020369""]}",8556090,Ecke,"[7.46075, 49.08876]"
+29,AWD00014t9,diary,95,2,1915-11-15 00:00:00 UTC,15 Nov 1915,Eecke,"[2.59656, 50.77861]","",casualties,other: 1,{},8556090,Ecke,"[7.46075, 49.08876]"
+30,AWD00014t9,diary,95,3,1915-11-15 00:00:00 UTC,15 Nov 1915,Eecke,"[2.59656, 50.77861]","",casualties,sick: 1,{},8556090,Ecke,"[7.46075, 49.08876]"
+31,AWD00014t9,diary,95,4,1915-11-15 00:00:00 UTC,15 Nov 1915,Eecke,"[2.59656, 50.77861]","",domestic,sport,{},8556090,Ecke,"[7.46075, 49.08876]"
+32,AWD00014t9,diary,95,7,1915-11-16 00:00:00 UTC,16 Nov 1915,Eecke,"[2.59656, 50.77861]","",diaryDate,16 Nov 1915,"{""day""=>[""16""], ""month""=>[""Nov""], ""year""=>[""1915""]}",8556090,Ecke,"[7.46075, 49.08876]"
+33,AWD00014t9,diary,95,5,1915-11-16 00:00:00 UTC,16 Nov 1915,Eecke,"[2.59656, 50.77861]","",person,Captain  Brander,"{""first""=>[""""], ""surname""=>[""Brander""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",8556090,Ecke,"[7.46075, 49.08876]"
+34,AWD00014t9,diary,95,3,1915-11-16 00:00:00 UTC,16 Nov 1915,Eecke,"[2.59656, 50.77861]","",activity,training,{},8556090,Ecke,"[7.46075, 49.08876]"
+36,AWD00014t9,diary,95,2,1915-11-16 00:00:00 UTC,16 Nov 1915,Eecke,"[2.59656, 50.77861]","",place,Eecke,"{""place""=>[""Eecke""], ""location""=>[""false"", ""true""], ""name""=>[""Eecke""], ""lat""=>[""50.77861""], ""long""=>[""2.59656""], ""id""=>[""3020369""]}",8556090,Ecke,"[7.46075, 49.08876]"
+37,AWD00014t9,diary,95,2,1915-11-16 00:00:00 UTC,16 Nov 1915,Eecke,"[2.59656, 50.77861]","",activity,resting,{},8556090,Ecke,"[7.46075, 49.08876]"
+39,AWD00014t9,diary,95,4,1915-11-16 00:00:00 UTC,16 Nov 1915,Eecke,"[2.59656, 50.77861]","",domestic,parades,{},8556090,Ecke,"[7.46075, 49.08876]"
+40,AWD00014t9,diary,95,11,1915-11-16 00:00:00 UTC,16 Nov 1915,Eecke,"[2.59656, 50.77861]","",domestic,sport,{},8556090,Ecke,"[7.46075, 49.08876]"
+41,AWD00014t9,diary,95,7,1915-11-17 00:00:00 UTC,17 Nov 1915,Eecke,"[2.59656, 50.77861]","",diaryDate,17 Nov 1915,"{""day""=>[""17""], ""month""=>[""Nov""], ""year""=>[""1915""]}",8556090,Ecke,"[7.46075, 49.08876]"
+46,AWD00014t9,diary,95,2,1915-11-17 00:00:00 UTC,17 Nov 1915,Eecke,"[2.59656, 50.77861]","",place,Eecke,"{""place""=>[""Eecke""], ""location""=>[""true"", ""false""], ""name""=>[""Eecke""], ""lat""=>[""50.77861""], ""long""=>[""2.59656""], ""id""=>[""3020369""]}",8556090,Ecke,"[7.46075, 49.08876]"
+47,AWD00014t9,diary,95,2,1915-11-17 00:00:00 UTC,17 Nov 1915,Eecke,"[2.59656, 50.77861]","",activity,resting,{},8556090,Ecke,"[7.46075, 49.08876]"
+49,AWD00014t9,diary,95,4,1915-11-17 00:00:00 UTC,17 Nov 1915,Eecke,"[2.59656, 50.77861]","",person,Major A Lyon,"{""first""=>[""A""], ""surname""=>[""Lyon""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other"", ""returned_training""], ""unit""=>[""""]}",8556090,Ecke,"[7.46075, 49.08876]"
+52,AWD00014t9,diary,95,6,1915-11-18 00:00:00 UTC,18 Nov 1915,Eecke,"[2.59656, 50.77861]","",diaryDate,18 Nov 1915,"{""day""=>[""18""], ""month""=>[""Nov""], ""year""=>[""1915""]}",8556090,Ecke,"[7.46075, 49.08876]"
+54,AWD00014t9,diary,95,2,1915-11-18 00:00:00 UTC,18 Nov 1915,Eecke,"[2.59656, 50.77861]","",activity,resting,{},8556090,Ecke,"[7.46075, 49.08876]"
+56,AWD00014t9,diary,95,9,1915-11-18 00:00:00 UTC,18 Nov 1915,Eecke,"[2.59656, 50.77861]","",domestic,inspections,{},8556090,Ecke,"[7.46075, 49.08876]"
+59,AWD00014t9,diary,95,3,1915-11-18 00:00:00 UTC,18 Nov 1915,Eecke,"[2.59656, 50.77861]","",activity,working,{},8556090,Ecke,"[7.46075, 49.08876]"
+66,AWD00014t9,diary,95,4,1915-11-18 00:00:00 UTC,18 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",place,Reninghelst,"{""place""=>[""Reninghelst""], ""location""=>[""true""], ""name""=>[""Reningelst""], ""lat""=>[""50.81514""], ""long""=>[""2.77066""], ""id""=>[""2788176""]}",2788176,Reningelst,"[2.77066, 50.81514]"
+68,AWD00014t9,diary,95,4,1915-11-18 00:00:00 UTC,18 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",casualties,sick: 1,{},2788176,Reningelst,"[2.77066, 50.81514]"
+70,AWD00014t9,diary,95,7,1915-11-18 00:00:00 UTC,18 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",weather,cold,{},2788176,Reningelst,"[2.77066, 50.81514]"
+71,AWD00014t9,diary,95,2,1915-11-18 00:00:00 UTC,18 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",weather,rain,{},2788176,Reningelst,"[2.77066, 50.81514]"
+1,AWD00014tn,diary,96,7,1915-11-19 00:00:00 UTC,19 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",diaryDate,19 Nov 1915,"{""day""=>[""19""], ""month""=>[""Nov""], ""year""=>[""1915""]}",2788176,Reningelst,"[2.77066, 50.81514]"
+2,AWD00014tn,diary,96,4,1915-11-19 00:00:00 UTC,19 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",activity,resting,{},2788176,Reningelst,"[2.77066, 50.81514]"
+3,AWD00014tn,diary,96,2,1915-11-19 00:00:00 UTC,19 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",domestic,accomodation,{},2788176,Reningelst,"[2.77066, 50.81514]"
+5,AWD00014tn,diary,96,7,1915-11-19 00:00:00 UTC,19 Nov 1915,Eecke,"[2.59656, 50.77861]","",place,Eecke,"{""place""=>[""Eecke""], ""location""=>[""true""], ""name""=>[""Eecke""], ""lat""=>[""50.77861""], ""long""=>[""2.59656""], ""id""=>[""3020369""]}",8556090,Ecke,"[7.46075, 49.08876]"
+8,AWD00014tn,diary,96,2,1915-11-19 00:00:00 UTC,19 Nov 1915,Eecke,"[2.59656, 50.77861]","",activity,working,{},8556090,Ecke,"[7.46075, 49.08876]"
+9,AWD00014tn,diary,96,6,1915-11-19 00:00:00 UTC,19 Nov 1915,Eecke,"[2.59656, 50.77861]","",weather,cold,{},8556090,Ecke,"[7.46075, 49.08876]"
+10,AWD00014tn,diary,96,7,1915-11-20 00:00:00 UTC,20 Nov 1915,Eecke,"[2.59656, 50.77861]","",diaryDate,20 Nov 1915,"{""day""=>[""20""], ""month""=>[""Nov""], ""year""=>[""1915""]}",8556090,Ecke,"[7.46075, 49.08876]"
+11,AWD00014tn,diary,96,4,1915-11-20 10:00:00 UTC,20 Nov 1915,Eecke,"[2.59656, 50.77861]",1000AM,time,1000AM,{},8556090,Ecke,"[7.46075, 49.08876]"
+12,AWD00014tn,diary,96,3,1915-11-20 10:00:00 UTC,20 Nov 1915,Eecke,"[2.59656, 50.77861]",1000AM,domestic,accomodation,{},8556090,Ecke,"[7.46075, 49.08876]"
+13,AWD00014tn,diary,96,6,1915-11-20 10:00:00 UTC,20 Nov 1915,Reninghelst,"[2.77066, 50.81514]",1000AM,place,Reninghelst,"{""place""=>[""Reninghelst""], ""location""=>[""true""], ""name""=>[""Reningelst""], ""lat""=>[""50.81514""], ""long""=>[""2.77066""], ""id""=>[""2788176""]}",2788176,Reningelst,"[2.77066, 50.81514]"
+14,AWD00014tn,diary,96,2,1915-11-20 10:00:00 UTC,20 Nov 1915,Reninghelst,"[2.77066, 50.81514]",1000AM,activity,movement,{},2788176,Reningelst,"[2.77066, 50.81514]"
+15,AWD00014tn,diary,96,2,1915-11-20 10:00:00 UTC,20 Nov 1915,Reninghelst,"[2.77066, 50.81514]",1000AM,activity,resting,{},2788176,Reningelst,"[2.77066, 50.81514]"
+16,AWD00014tn,diary,96,3,1915-11-20 10:00:00 UTC,20 Nov 1915,Reninghelst,"[2.77066, 50.81514]",1000AM,activity,movement,{},2788176,Reningelst,"[2.77066, 50.81514]"
+17,AWD00014tn,diary,96,3,1915-11-20 10:00:00 UTC,20 Nov 1915,Reninghelst,"[2.77066, 50.81514]",1000AM,weather,fine,{},2788176,Reningelst,"[2.77066, 50.81514]"
+18,AWD00014tn,diary,96,3,1915-11-20 10:00:00 UTC,20 Nov 1915,Reninghelst,"[2.77066, 50.81514]",1000AM,weather,cold,{},2788176,Reningelst,"[2.77066, 50.81514]"
+20,AWD00014tn,diary,96,5,1915-11-20 14:00:00 UTC,20 Nov 1915,Reninghelst,"[2.77066, 50.81514]",0200PM,time,0200PM,{},2788176,Reningelst,"[2.77066, 50.81514]"
+22,AWD00014tn,diary,96,3,1915-11-20 14:00:00 UTC,20 Nov 1915,Reninghelst,"[2.77066, 50.81514]",0200PM,unit,8th East Surreys,"{""name""=>[""8th East Surreys""], ""context""=>[""other""]}",2788176,Reningelst,"[2.77066, 50.81514]"
+23,AWD00014tn,diary,96,3,1915-11-20 14:00:00 UTC,20 Nov 1915,Reninghelst,"[2.77066, 50.81514]",0200PM,domestic,rations,{},2788176,Reningelst,"[2.77066, 50.81514]"
+25,AWD00014tn,diary,96,3,1915-11-20 22:00:00 UTC,20 Nov 1915,Reninghelst,"[2.77066, 50.81514]",1000PM,time,1000PM,{},2788176,Reningelst,"[2.77066, 50.81514]"
+26,AWD00014tn,diary,96,2,1915-11-20 22:00:00 UTC,20 Nov 1915,Reninghelst,"[2.77066, 50.81514]",1000PM,place,Reninghelst,"{""place""=>[""Reninghelst""], ""location""=>[""false"", ""true""], ""name""=>[""Reningelst""], ""lat""=>[""50.81514""], ""long""=>[""2.77066""], ""id""=>[""2788176""]}",2788176,Reningelst,"[2.77066, 50.81514]"
+27,AWD00014tn,diary,96,2,1915-11-20 22:00:00 UTC,20 Nov 1915,"Eecke, EEcke","[2.59656, 50.77861]",1000PM,place,"Eecke, EEcke","{""place""=>[""Eecke"", ""EEcke""], ""location""=>[""true""], ""name""=>["""", ""Eecke""], ""lat""=>["""", ""50.77861""], ""long""=>["""", ""2.59656""], ""id""=>["""", ""3020369""]}",3020369,Eecke,"[2.59656, 50.77861]"
+29,AWD00014tn,diary,96,4,1915-11-20 02:30:00 UTC,20 Nov 1915,"Eecke, EEcke","[2.59656, 50.77861]",0230AM,time,0230AM,{},3020369,Eecke,"[2.59656, 50.77861]"
+30,AWD00014tn,diary,96,3,1915-11-20 02:30:00 UTC,20 Nov 1915,"Eecke, EEcke","[2.59656, 50.77861]",0230AM,unit,"2nd London Regt., 2nd London Regt, 2ND LONDON REGT","{""name""=>[""2nd London Regt."", ""2nd London Regt"", ""2ND LONDON REGT""], ""context""=>[""other""]}",3020369,Eecke,"[2.59656, 50.77861]"
+31,AWD00014tn,diary,96,3,1915-11-20 02:30:00 UTC,20 Nov 1915,"Eecke, EEcke","[2.59656, 50.77861]",0230AM,domestic,accomodation,{},3020369,Eecke,"[2.59656, 50.77861]"
+33,AWD00014tn,diary,96,4,1915-11-20 02:30:00 UTC,20 Nov 1915,"Eecke, EEcke","[2.59656, 50.77861]",0230AM,domestic,religion,{},3020369,Eecke,"[2.59656, 50.77861]"
+34,AWD00014tn,diary,96,2,1915-11-20 10:00:00 UTC,20 Nov 1915,"Eecke, EEcke","[2.59656, 50.77861]",1000AM,time,1000AM,{},3020369,Eecke,"[2.59656, 50.77861]"
+35,AWD00014tn,diary,96,2,1915-11-20 10:00:00 UTC,20 Nov 1915,"Eecke, EEcke","[2.59656, 50.77861]",1000AM,activity,other,{},3020369,Eecke,"[2.59656, 50.77861]"
+36,AWD00014tn,diary,96,7,1915-11-21 00:00:00 UTC,21 Nov 1915,"Eecke, EEcke","[2.59656, 50.77861]","",diaryDate,21 Nov 1915,"{""day""=>[""21""], ""month""=>[""Nov""], ""year""=>[""1915""]}",3020369,Eecke,"[2.59656, 50.77861]"
+37,AWD00014tn,diary,96,2,1915-11-21 02:30:00 UTC,21 Nov 1915,"Eecke, EEcke","[2.59656, 50.77861]",0230AM,time,0230AM,{},3020369,Eecke,"[2.59656, 50.77861]"
+38,AWD00014tn,diary,96,5,1915-11-21 02:30:00 UTC,21 Nov 1915,Reninghelst,"[2.77066, 50.81514]",0230AM,place,Reninghelst,"{""place""=>[""Reninghelst""], ""location""=>[""true""], ""name""=>[""Reningelst""], ""lat""=>[""50.81514""], ""long""=>[""2.77066""], ""id""=>[""2788176""]}",2788176,Reningelst,"[2.77066, 50.81514]"
+39,AWD00014tn,diary,96,2,1915-11-21 02:30:00 UTC,21 Nov 1915,Reninghelst,"[2.77066, 50.81514]",0230AM,activity,movement,{},2788176,Reningelst,"[2.77066, 50.81514]"
+40,AWD00014tn,diary,96,4,1915-11-21 14:40:00 UTC,21 Nov 1915,Reninghelst,"[2.77066, 50.81514]",0240PM,time,0240PM,{},2788176,Reningelst,"[2.77066, 50.81514]"
+44,AWD00014tn,diary,96,2,1915-11-21 14:40:00 UTC,21 Nov 1915,Reninghelst,"[2.77066, 50.81514]",0240PM,activity,line,{},2788176,Reningelst,"[2.77066, 50.81514]"
+45,AWD00014tn,diary,96,3,1915-11-21 14:40:00 UTC,21 Nov 1915,Reninghelst,"[2.77066, 50.81514]",0240PM,unit,"2nd London Regt., 2ND LONDON REGT, 2nd London Regt","{""name""=>[""2nd London Regt."", ""2ND LONDON REGT"", ""2nd London Regt""], ""context""=>[""relieved""]}",2788176,Reningelst,"[2.77066, 50.81514]"
+46,AWD00014tn,diary,96,5,1915-11-21 15:00:00 UTC,21 Nov 1915,Reninghelst,"[2.77066, 50.81514]",0300PM,time,0300PM,{},2788176,Reningelst,"[2.77066, 50.81514]"
+47,AWD00014tn,diary,96,4,1915-11-21 15:00:00 UTC,21 Nov 1915,Reninghelst,"[2.77066, 50.81514]",0300PM,activity,movement,{},2788176,Reningelst,"[2.77066, 50.81514]"
+48,AWD00014tn,diary,96,4,1915-11-21 00:00:00 UTC,21 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",diaryDate,21 Nov 1915,"{""day""=>[""21""], ""month""=>[""Nov""], ""year""=>[""1915""]}",2788176,Reningelst,"[2.77066, 50.81514]"
+54,AWD00014tn,diary,96,3,1915-11-21 00:00:00 UTC,21 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",weather,cold,{},2788176,Reningelst,"[2.77066, 50.81514]"
+55,AWD00014tn,diary,96,3,1915-11-21 19:39:00 UTC,21 Nov 1915,Reninghelst,"[2.77066, 50.81514]",0739PM,time,0739PM,{},2788176,Reningelst,"[2.77066, 50.81514]"
+57,AWD00014tn,diary,96,3,1915-11-21 19:39:00 UTC,21 Nov 1915,Reninghelst,"[2.77066, 50.81514]",0739PM,weather,cold,{},2788176,Reningelst,"[2.77066, 50.81514]"
+60,AWD00014tn,diary,96,3,1915-11-21 19:39:00 UTC,21 Nov 1915,Reninghelst,"[2.77066, 50.81514]",0739PM,casualties,sick: 1,{},2788176,Reningelst,"[2.77066, 50.81514]"
+1,AWD00014tg,diary,97,6,1915-11-22 00:00:00 UTC,22 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",diaryDate,22 Nov 1915,"{""day""=>[""22""], ""month""=>[""Nov""], ""year""=>[""1915""]}",2788176,Reningelst,"[2.77066, 50.81514]"
+2,AWD00014tg,diary,97,4,1915-11-22 00:00:00 UTC,22 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",activity,quiet,{},2788176,Reningelst,"[2.77066, 50.81514]"
+3,AWD00014tg,diary,97,5,1915-11-22 00:00:00 UTC,22 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",weather,cold,{},2788176,Reningelst,"[2.77066, 50.81514]"
+4,AWD00014tg,diary,97,5,1915-11-22 00:00:00 UTC,22 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",activity,repair,{},2788176,Reningelst,"[2.77066, 50.81514]"
+5,AWD00014tg,diary,97,6,1915-11-22 00:00:00 UTC,22 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",place,Reninghelst,"{""place""=>[""Reninghelst""], ""location""=>[""true""], ""name""=>[""Reningelst""], ""lat""=>[""50.81514""], ""long""=>[""2.77066""], ""id""=>[""2788176""]}",2788176,Reningelst,"[2.77066, 50.81514]"
+6,AWD00014tg,diary,97,2,1915-11-22 00:00:00 UTC,22 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",activity,working,{},2788176,Reningelst,"[2.77066, 50.81514]"
+8,AWD00014tg,diary,97,3,1915-11-22 00:00:00 UTC,22 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",casualties,sick: 1,{},2788176,Reningelst,"[2.77066, 50.81514]"
+10,AWD00014tg,diary,97,2,1915-11-22 00:00:00 UTC,22 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",gridRef,G 35 c 3 2,{},2788176,Reningelst,"[2.77066, 50.81514]"
+11,AWD00014tg,diary,97,2,1915-11-22 00:00:00 UTC,22 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",domestic,accomodation,{},2788176,Reningelst,"[2.77066, 50.81514]"
+14,AWD00014tg,diary,97,6,1915-11-23 00:00:00 UTC,23 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",diaryDate,23 Nov 1915,"{""day""=>[""23""], ""month""=>[""Nov""], ""year""=>[""1915""]}",2788176,Reningelst,"[2.77066, 50.81514]"
+15,AWD00014tg,diary,97,3,1915-11-23 00:00:00 UTC,23 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",activity,movement,{},2788176,Reningelst,"[2.77066, 50.81514]"
+16,AWD00014tg,diary,97,2,1915-11-23 00:00:00 UTC,23 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",activity,repair,{},2788176,Reningelst,"[2.77066, 50.81514]"
+20,AWD00014tg,diary,97,7,1915-11-23 00:00:00 UTC,23 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",person,Private  Beggs,"{""first""=>[""""], ""surname""=>[""Beggs""], ""rank""=>[""Private""], ""number""=>[""""], ""reason""=>[""discipline""], ""unit""=>[""""]}",2788176,Reningelst,"[2.77066, 50.81514]"
+21,AWD00014tg,diary,97,2,1915-11-23 00:00:00 UTC,23 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",activity,construction,{},2788176,Reningelst,"[2.77066, 50.81514]"
+23,AWD00014tg,diary,97,4,1915-11-23 00:00:00 UTC,23 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",activity,quiet,{},2788176,Reningelst,"[2.77066, 50.81514]"
+24,AWD00014tg,diary,97,4,1915-11-23 00:00:00 UTC,23 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",weather,cold,{},2788176,Reningelst,"[2.77066, 50.81514]"
+26,AWD00014tg,diary,97,4,1915-11-23 00:00:00 UTC,23 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",activity,repair,{},2788176,Reningelst,"[2.77066, 50.81514]"
+28,AWD00014tg,diary,97,4,1915-11-23 00:00:00 UTC,23 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",casualties,wounded: 1,{},2788176,Reningelst,"[2.77066, 50.81514]"
+31,AWD00014tg,diary,97,6,1915-11-24 00:00:00 UTC,24 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",diaryDate,24 Nov 1915,"{""day""=>[""24""], ""month""=>[""Nov""], ""year""=>[""1915""]}",2788176,Reningelst,"[2.77066, 50.81514]"
+32,AWD00014tg,diary,97,3,1915-11-24 00:00:00 UTC,24 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",casualties,sick: 3,{},2788176,Reningelst,"[2.77066, 50.81514]"
+37,AWD00014tg,diary,97,5,1915-11-24 00:00:00 UTC,24 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",casualties,sick: 20,{},2788176,Reningelst,"[2.77066, 50.81514]"
+40,AWD00014tg,diary,97,2,1915-11-24 00:00:00 UTC,24 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",activity,resupplying,{},2788176,Reningelst,"[2.77066, 50.81514]"
+43,AWD00014tg,diary,97,4,1915-11-24 00:00:00 UTC,24 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",activity,quiet,{},2788176,Reningelst,"[2.77066, 50.81514]"
+44,AWD00014tg,diary,97,6,1915-11-24 00:00:00 UTC,24 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",activity,attack,{},2788176,Reningelst,"[2.77066, 50.81514]"
+45,AWD00014tg,diary,97,2,1915-11-24 00:00:00 UTC,24 Nov 1915,Bluff,"[0.0, 0.0]","",place,Bluff,"{""place""=>[""Bluff""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+46,AWD00014tg,diary,97,5,1915-11-24 00:00:00 UTC,24 Nov 1915,Bluff,"[0.0, 0.0]","",weather,overcast,{},,,
+48,AWD00014tg,diary,97,2,1915-11-24 00:00:00 UTC,24 Nov 1915,Bluff,"[0.0, 0.0]","",activity,repair,{},,,
+49,AWD00014tg,diary,97,2,1915-11-24 00:00:00 UTC,24 Nov 1915,Bluff,"[0.0, 0.0]","",unit,R W Fusiliers,"{""name""=>[""R W Fusiliers""], ""context""=>[""relieved""]}",,,
+52,AWD00014tg,diary,97,4,1915-11-24 00:00:00 UTC,24 Nov 1915,Bluff,"[0.0, 0.0]","",casualties,sick: 1,{},,,
+1,AWD00014t8,diary,98,6,1915-11-25 00:00:00 UTC,25 Nov 1915,Bluff,"[0.0, 0.0]","",diaryDate,25 Nov 1915,"{""day""=>[""25""], ""month""=>[""Nov""], ""year""=>[""1915""]}",,,
+2,AWD00014t8,diary,98,2,1915-11-25 00:00:00 UTC,25 Nov 1915,Bluff,"[0.0, 0.0]","",activity,construction,{},,,
+3,AWD00014t8,diary,98,2,1915-11-25 00:00:00 UTC,25 Nov 1915,Bluff,"[0.0, 0.0]","",place,Gordon Post,"{""place""=>[""Gordon Post""], ""location""=>[""true"", ""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+4,AWD00014t8,diary,98,2,1915-11-25 00:00:00 UTC,25 Nov 1915,Bluff,"[0.0, 0.0]","",unit,"A Coy, B Coy","{""name""=>[""A Coy"", ""B Coy""], ""context""=>[""relieved"", ""relieved_by""]}",,,
+5,AWD00014t8,diary,98,2,1915-11-25 00:00:00 UTC,25 Nov 1915,Bluff,"[0.0, 0.0]","",activity,line,{},,,
+6,AWD00014t8,diary,98,6,1915-11-25 00:00:00 UTC,25 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",place,Reninghelst,"{""place""=>[""Reninghelst""], ""location""=>[""true""], ""name""=>[""Reningelst""], ""lat""=>[""50.81514""], ""long""=>[""2.77066""], ""id""=>[""2788176""]}",2788176,Reningelst,"[2.77066, 50.81514]"
+7,AWD00014t8,diary,98,3,1915-11-25 00:00:00 UTC,25 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",casualties,sick: 1,{},2788176,Reningelst,"[2.77066, 50.81514]"
+8,AWD00014t8,diary,98,2,1915-11-25 00:00:00 UTC,25 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",casualties,other: 1,{},2788176,Reningelst,"[2.77066, 50.81514]"
+9,AWD00014t8,diary,98,4,1915-11-25 00:00:00 UTC,25 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",activity,repair,{},2788176,Reningelst,"[2.77066, 50.81514]"
+10,AWD00014t8,diary,98,6,1915-11-26 00:00:00 UTC,26 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",diaryDate,26 Nov 1915,"{""day""=>[""26""], ""month""=>[""Nov""], ""year""=>[""1915""]}",2788176,Reningelst,"[2.77066, 50.81514]"
+11,AWD00014t8,diary,98,4,1915-11-26 00:00:00 UTC,26 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",activity,repair,{},2788176,Reningelst,"[2.77066, 50.81514]"
+13,AWD00014t8,diary,98,2,1915-11-26 00:00:00 UTC,26 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",place,"Lankhof Chateau, Lankaof Chateau","{""place""=>[""Lankhof Chateau"", ""Lankaof Chateau""], ""location""=>[""true"", ""false""], ""name""=>[""Reningelst"", """"], ""lat""=>[""50.81514"", """"], ""long""=>[""2.77066"", """"], ""id""=>[""2788176"", """"]}",2788176,Reningelst,"[2.77066, 50.81514]"
+15,AWD00014t8,diary,98,2,1915-11-26 00:00:00 UTC,26 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",activity,fire,{},2788176,Reningelst,"[2.77066, 50.81514]"
+16,AWD00014t8,diary,98,2,1915-11-26 00:00:00 UTC,26 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",casualties,other: 1,{},2788176,Reningelst,"[2.77066, 50.81514]"
+17,AWD00014t8,diary,98,2,1915-11-26 00:00:00 UTC,26 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",casualties,sick: 1,{},2788176,Reningelst,"[2.77066, 50.81514]"
+18,AWD00014t8,diary,98,2,1915-11-26 00:00:00 UTC,26 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",activity,quiet,{},2788176,Reningelst,"[2.77066, 50.81514]"
+19,AWD00014t8,diary,98,6,1915-11-27 00:00:00 UTC,27 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",diaryDate,27 Nov 1915,"{""day""=>[""27""], ""month""=>[""Nov""], ""year""=>[""1915""]}",2788176,Reningelst,"[2.77066, 50.81514]"
+20,AWD00014t8,diary,98,5,1915-11-27 00:00:00 UTC,27 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",person,Major  Smith,"{""first""=>[""""], ""surname""=>[""Smith""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2788176,Reningelst,"[2.77066, 50.81514]"
+21,AWD00014t8,diary,98,3,1915-11-27 00:00:00 UTC,27 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",casualties,other: 2,{},2788176,Reningelst,"[2.77066, 50.81514]"
+22,AWD00014t8,diary,98,3,1915-11-27 00:00:00 UTC,27 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",casualties,sick: 2,{},2788176,Reningelst,"[2.77066, 50.81514]"
+23,AWD00014t8,diary,98,6,1915-11-28 00:00:00 UTC,28 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",diaryDate,28 Nov 1915,"{""day""=>[""28""], ""month""=>[""Nov""], ""year""=>[""1915""]}",2788176,Reningelst,"[2.77066, 50.81514]"
+24,AWD00014t8,diary,98,4,1915-11-28 00:00:00 UTC,28 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",activity,repair,{},2788176,Reningelst,"[2.77066, 50.81514]"
+25,AWD00014t8,diary,98,5,1915-11-28 00:00:00 UTC,28 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",weather,cold,{},2788176,Reningelst,"[2.77066, 50.81514]"
+26,AWD00014t8,diary,98,3,1915-11-28 00:00:00 UTC,28 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",casualties,other: 2,{},2788176,Reningelst,"[2.77066, 50.81514]"
+27,AWD00014t8,diary,98,3,1915-11-28 00:00:00 UTC,28 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",activity,quiet,{},2788176,Reningelst,"[2.77066, 50.81514]"
+30,AWD00014t8,diary,98,2,1915-11-28 00:00:00 UTC,28 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",casualties,sick: 2,{},2788176,Reningelst,"[2.77066, 50.81514]"
+32,AWD00014t8,diary,98,5,1915-11-29 00:00:00 UTC,29 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",diaryDate,29 Nov 1915,"{""day""=>[""29""], ""month""=>[""Nov""], ""year""=>[""1915""]}",2788176,Reningelst,"[2.77066, 50.81514]"
+34,AWD00014t8,diary,98,3,1915-11-29 00:00:00 UTC,29 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",casualties,sick: 1,{},2788176,Reningelst,"[2.77066, 50.81514]"
+35,AWD00014t8,diary,98,3,1915-11-29 00:00:00 UTC,29 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",casualties,other: 1,{},2788176,Reningelst,"[2.77066, 50.81514]"
+36,AWD00014t8,diary,98,2,1915-11-29 00:00:00 UTC,29 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",activity,repair,{},2788176,Reningelst,"[2.77066, 50.81514]"
+37,AWD00014t8,diary,98,6,1915-11-30 00:00:00 UTC,30 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",diaryDate,30 Nov 1915,"{""day""=>[""30""], ""month""=>[""Nov""], ""year""=>[""1915""]}",2788176,Reningelst,"[2.77066, 50.81514]"
+39,AWD00014t8,diary,98,4,1915-11-30 00:00:00 UTC,30 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",activity,attack,{},2788176,Reningelst,"[2.77066, 50.81514]"
+41,AWD00014t8,diary,98,3,1915-11-30 00:00:00 UTC,30 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",activity,repair,{},2788176,Reningelst,"[2.77066, 50.81514]"
+42,AWD00014t8,diary,98,3,1915-11-30 00:00:00 UTC,30 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",casualties,other: 3,{},2788176,Reningelst,"[2.77066, 50.81514]"
+43,AWD00014t8,diary,98,2,1915-11-30 00:00:00 UTC,30 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",casualties,sick: 3,{},2788176,Reningelst,"[2.77066, 50.81514]"
+44,AWD00014t8,diary,98,3,1915-11-30 00:00:00 UTC,30 Nov 1915,Reninghelst,"[2.77066, 50.81514]","",person,"Major Alexander LYM, Lynn, Lyon","{""first""=>[""Alexander""], ""surname""=>[""LYM"", ""Lynn"", ""Lyon""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",2788176,Reningelst,"[2.77066, 50.81514]"
+1,AWD00014u0,diary,99,7,1915-12-01 00:00:00 UTC,1 Dec 1915,Reninghelst,"[2.77066, 50.81514]","",diaryDate,1 Dec 1915,"{""day""=>[""1""], ""month""=>[""Dec""], ""year""=>[""1915""]}",2788176,Reningelst,"[2.77066, 50.81514]"
+3,AWD00014u0,diary,99,6,1915-12-01 00:00:00 UTC,1 Dec 1915,Reninghelst,"[2.77066, 50.81514]","",weather,fine,{},2788176,Reningelst,"[2.77066, 50.81514]"
+4,AWD00014u0,diary,99,3,1915-12-01 00:00:00 UTC,1 Dec 1915,Reninghelst,"[2.77066, 50.81514]","",weather,rain,{},2788176,Reningelst,"[2.77066, 50.81514]"
+5,AWD00014u0,diary,99,7,1915-12-01 00:00:00 UTC,1 Dec 1915,Reninghelst,"[2.77066, 50.81514]","",place,Reninghelst,"{""place""=>[""Reninghelst""], ""location""=>[""true""], ""name""=>[""Reningelst""], ""lat""=>[""50.81514""], ""long""=>[""2.77066""], ""id""=>[""2788176""]}",2788176,Reningelst,"[2.77066, 50.81514]"
+6,AWD00014u0,diary,99,3,1915-12-01 00:00:00 UTC,1 Dec 1915,Reninghelst,"[2.77066, 50.81514]","",activity,repair,{},2788176,Reningelst,"[2.77066, 50.81514]"
+7,AWD00014u0,diary,99,2,1915-12-01 00:00:00 UTC,1 Dec 1915,Reninghelst,"[2.77066, 50.81514]","",place,Kemmel,"{""place""=>[""Kemmel""], ""location""=>[""false"", ""true""], ""name""=>[""Kemmel"", """"], ""lat""=>[""50.78333"", """"], ""long""=>[""2.82714"", """"], ""id""=>[""2794579"", """"]}",2788176,Reningelst,"[2.77066, 50.81514]"
+9,AWD00014u0,diary,99,3,1915-12-01 00:00:00 UTC,1 Dec 1915,Reninghelst,"[2.77066, 50.81514]","",casualties,sick: 1,{},2788176,Reningelst,"[2.77066, 50.81514]"
+10,AWD00014u0,diary,99,2,1915-12-01 00:00:00 UTC,1 Dec 1915,Reninghelst,"[2.77066, 50.81514]","",casualties,other: 1,{},2788176,Reningelst,"[2.77066, 50.81514]"
+11,AWD00014u0,diary,99,7,1915-12-02 00:00:00 UTC,2 Dec 1915,Reninghelst,"[2.77066, 50.81514]","",diaryDate,2 Dec 1915,"{""day""=>[""2""], ""month""=>[""Dec""], ""year""=>[""1915""]}",2788176,Reningelst,"[2.77066, 50.81514]"
+12,AWD00014u0,diary,99,4,1915-12-02 00:00:00 UTC,2 Dec 1915,Reninghelst,"[2.77066, 50.81514]","",activity,attack,{},2788176,Reningelst,"[2.77066, 50.81514]"
+14,AWD00014u0,diary,99,4,1915-12-02 00:00:00 UTC,2 Dec 1915,Reninghelst,"[2.77066, 50.81514]","",activity,repair,{},2788176,Reningelst,"[2.77066, 50.81514]"
+16,AWD00014u0,diary,99,6,1915-12-02 00:00:00 UTC,2 Dec 1915,Reninghelst,"[2.77066, 50.81514]","",weather,fine,{},2788176,Reningelst,"[2.77066, 50.81514]"
+18,AWD00014u0,diary,99,2,1915-12-02 00:00:00 UTC,2 Dec 1915,Reninghelst,"[2.77066, 50.81514]","",casualties,sick: 4,{},2788176,Reningelst,"[2.77066, 50.81514]"
+19,AWD00014u0,diary,99,2,1915-12-02 00:00:00 UTC,2 Dec 1915,Reninghelst,"[2.77066, 50.81514]","",casualties,other: 4,{},2788176,Reningelst,"[2.77066, 50.81514]"
+20,AWD00014u0,diary,99,5,1915-12-02 00:00:00 UTC,2 Dec 1915,Reninghelst,"[2.77066, 50.81514]","",casualties,wounded: 1,{},2788176,Reningelst,"[2.77066, 50.81514]"
+22,AWD00014u0,diary,99,7,1915-12-03 00:00:00 UTC,3 Dec 1915,Reninghelst,"[2.77066, 50.81514]","",diaryDate,3 Dec 1915,"{""day""=>[""3""], ""month""=>[""Dec""], ""year""=>[""1915""]}",2788176,Reningelst,"[2.77066, 50.81514]"
+23,AWD00014u0,diary,99,2,1915-12-03 00:00:00 UTC,3 Dec 1915,Reninghelst,"[2.77066, 50.81514]","",unit,"C Coy, D Coy","{""name""=>[""C Coy"", ""D Coy""], ""context""=>[""relieved"", ""relieved_by""]}",2788176,Reningelst,"[2.77066, 50.81514]"
+26,AWD00014u0,diary,99,3,1915-12-03 00:00:00 UTC,3 Dec 1915,Reninghelst,"[2.77066, 50.81514]","",activity,repair,{},2788176,Reningelst,"[2.77066, 50.81514]"
+27,AWD00014u0,diary,99,3,1915-12-03 00:00:00 UTC,3 Dec 1915,Reninghelst,"[2.77066, 50.81514]","",weather,overcast,{},2788176,Reningelst,"[2.77066, 50.81514]"
+28,AWD00014u0,diary,99,3,1915-12-03 00:00:00 UTC,3 Dec 1915,Reninghelst,"[2.77066, 50.81514]","",weather,rain,{},2788176,Reningelst,"[2.77066, 50.81514]"
+31,AWD00014u0,diary,99,6,1915-12-04 00:00:00 UTC,4 Dec 1915,Reninghelst,"[2.77066, 50.81514]","",diaryDate,4 Dec 1915,"{""day""=>[""4""], ""month""=>[""Dec""], ""year""=>[""1915""]}",2788176,Reningelst,"[2.77066, 50.81514]"
+32,AWD00014u0,diary,99,4,1915-12-04 00:00:00 UTC,4 Dec 1915,Reninghelst,"[2.77066, 50.81514]","",activity,attack,{},2788176,Reningelst,"[2.77066, 50.81514]"
+35,AWD00014u0,diary,99,5,1915-12-04 00:00:00 UTC,4 Dec 1915,Reninghelst,"[2.77066, 50.81514]","",person,Lieutenant  Bains,"{""first""=>[""""], ""surname""=>[""Bains""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2788176,Reningelst,"[2.77066, 50.81514]"
+37,AWD00014u0,diary,99,6,1915-12-04 00:00:00 UTC,4 Dec 1915,Reninghelst,"[2.77066, 50.81514]","",person,Captain  Brander,"{""first""=>[""""], ""surname""=>[""Brander""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""departed_posted""], ""unit""=>[""""]}",2788176,Reningelst,"[2.77066, 50.81514]"
+39,AWD00014u0,diary,99,4,1915-12-04 00:00:00 UTC,4 Dec 1915,Reninghelst,"[2.77066, 50.81514]","",person,"Lieutenant R E,R L Mack, Mack~~, Mackay, MACK","{""first""=>[""R E"", ""R L""], ""surname""=>[""Mack"", ""Mack~~"", ""Mackay"", ""MACK""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_posted""], ""unit""=>[""""]}",2788176,Reningelst,"[2.77066, 50.81514]"
+44,AWD00014u0,diary,99,2,1915-12-04 00:00:00 UTC,4 Dec 1915,Reninghelst,"[2.77066, 50.81514]","",unit,"East Yorks, EAST YORKS","{""name""=>[""East Yorks"", ""EAST YORKS""], ""context""=>[""joined""]}",2788176,Reningelst,"[2.77066, 50.81514]"
+45,AWD00014u0,diary,99,5,1915-12-04 00:00:00 UTC,4 Dec 1915,Reninghelst,"[2.77066, 50.81514]","",activity,repair,{},2788176,Reningelst,"[2.77066, 50.81514]"
+1,AWD00014tu,diary,100,6,1915-12-05 00:00:00 UTC,5 Dec 1915,Reninghelst,"[2.77066, 50.81514]","",diaryDate,5 Dec 1915,"{""day""=>[""5""], ""month""=>[""Dec""], ""year""=>[""1915""]}",2788176,Reningelst,"[2.77066, 50.81514]"
+3,AWD00014tu,diary,100,2,1915-12-05 00:00:00 UTC,5 Dec 1915,Reninghelst,"[2.77066, 50.81514]","",activity,fire,{},2788176,Reningelst,"[2.77066, 50.81514]"
+4,AWD00014tu,diary,100,6,1915-12-05 00:00:00 UTC,5 Dec 1915,Reninghelst,"[2.77066, 50.81514]","",place,Reninghelst,"{""place""=>[""Reninghelst""], ""location""=>[""true""], ""name""=>[""Reningelst""], ""lat""=>[""50.81514""], ""long""=>[""2.77066""], ""id""=>[""2788176""]}",2788176,Reningelst,"[2.77066, 50.81514]"
+5,AWD00014tu,diary,100,4,1915-12-05 00:00:00 UTC,5 Dec 1915,Reninghelst,"[2.77066, 50.81514]","",activity,attack,{},2788176,Reningelst,"[2.77066, 50.81514]"
+6,AWD00014tu,diary,100,2,1915-12-05 00:00:00 UTC,5 Dec 1915,Hollebeke Chateau,"[0.0, 0.0]","",place,Hollebeke Chateau,"{""place""=>[""Hollebeke Chateau""], ""location""=>[""true""], ""name""=>[""Reningelst"", ""Rouen""], ""lat""=>[""50.81514"", ""49.44313""], ""long""=>[""2.77066"", ""1.09932""], ""id""=>[""2788176"", ""2982652""]}",,,
+8,AWD00014tu,diary,100,3,1915-12-05 00:00:00 UTC,5 Dec 1915,Hollebeke Chateau,"[0.0, 0.0]","",activity,fire,{},,,
+11,AWD00014tu,diary,100,2,1915-12-05 00:00:00 UTC,5 Dec 1915,Hollebeke Chateau,"[0.0, 0.0]","",unit,"SUFFOLKS, Suffolks","{""name""=>[""SUFFOLKS"", ""Suffolks""], ""context""=>[""relieved_by"", ""relieved""]}",,,
+12,AWD00014tu,diary,100,4,1915-12-05 00:00:00 UTC,5 Dec 1915,Hollebeke Chateau,"[0.0, 0.0]","",domestic,religion,{},,,
+14,AWD00014tu,diary,100,4,1915-12-05 00:00:00 UTC,5 Dec 1915,Hollebeke Chateau,"[0.0, 0.0]","",domestic,inspections,{},,,
+15,AWD00014tu,diary,100,5,1915-12-06 00:00:00 UTC,6 Dec 1915,Hollebeke Chateau,"[0.0, 0.0]","",diaryDate,6 Dec 1915,"{""day""=>[""6""], ""month""=>[""Dec""], ""year""=>[""1915""]}",,,
+16,AWD00014tu,diary,100,5,1915-12-06 00:00:00 UTC,6 Dec 1915,Hollebeke Chateau,"[0.0, 0.0]","",weather,fine,{},,,
+17,AWD00014tu,diary,100,3,1915-12-06 00:00:00 UTC,6 Dec 1915,Hollebeke Chateau,"[0.0, 0.0]","",activity,fire,{},,,
+20,AWD00014tu,diary,100,6,1915-12-07 00:00:00 UTC,7 Dec 1915,Hollebeke Chateau,"[0.0, 0.0]","",diaryDate,7 Dec 1915,"{""day""=>[""7""], ""month""=>[""Dec""], ""year""=>[""1915""]}",,,
+22,AWD00014tu,diary,100,6,1915-12-07 00:00:00 UTC,7 Dec 1915,Hollebeke Chateau,"[0.0, 0.0]","",weather,fine,{},,,
+25,AWD00014tu,diary,100,2,1915-12-07 00:00:00 UTC,7 Dec 1915,Hollebeke Chateau,"[0.0, 0.0]","",activity,fire,{},,,
+27,AWD00014tu,diary,100,6,1915-12-08 00:00:00 UTC,8 Dec 1915,Hollebeke Chateau,"[0.0, 0.0]","",diaryDate,8 Dec 1915,"{""day""=>[""8""], ""month""=>[""Dec""], ""year""=>[""1915""]}",,,
+28,AWD00014tu,diary,100,5,1915-12-08 00:00:00 UTC,8 Dec 1915,Hollebeke Chateau,"[0.0, 0.0]","",weather,cold,{},,,
+29,AWD00014tu,diary,100,3,1915-12-08 10:00:00 UTC,8 Dec 1915,Hollebeke Chateau,"[0.0, 0.0]",1000AM,time,1000AM,{},,,
+31,AWD00014tu,diary,100,5,1915-12-08 10:00:00 UTC,8 Dec 1915,Hollebeke Chateau,"[0.0, 0.0]",1000AM,activity,fire,{},,,
+32,AWD00014tu,diary,100,2,1915-12-08 10:00:00 UTC,8 Dec 1915,Hollebeke Chateau,"[0.0, 0.0]",1000AM,casualties,wounded: 1,{},,,
+33,AWD00014tu,diary,100,2,1915-12-08 10:00:00 UTC,8 Dec 1915,Hollebeke Chateau,"[0.0, 0.0]",1000AM,person,"other,  Welslet, WEBSTER","{""first""=>[""""], ""surname""=>[""Welslet"", ""WEBSTER""], ""rank""=>[""other"", """"], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+36,AWD00014tu,diary,100,4,1915-12-08 10:00:00 UTC,8 Dec 1915,Hollebeke Chateau,"[0.0, 0.0]",1000AM,person,"Major  Lynn, Lyon, Sym, LYON","{""first""=>[""""], ""surname""=>[""Lynn"", ""Lyon"", ""Sym"", ""LYON""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""departed_posted""], ""unit""=>[""""]}",,,
+38,AWD00014tu,diary,100,3,1915-12-08 10:00:00 UTC,8 Dec 1915,Hollebeke Chateau,"[0.0, 0.0]",1000AM,person,",other,Private  Mitchell","{""first""=>[""""], ""surname""=>[""Mitchell""], ""rank""=>["""", ""other"", ""Private""], ""number""=>[""""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",,,
+39,AWD00014tu,diary,100,2,1915-12-08 10:00:00 UTC,8 Dec 1915,Hollebeke Chateau,"[0.0, 0.0]",1000AM,casualties,"killed: 1, wounded: 1",{},,,
+41,AWD00014tu,diary,100,3,1915-12-08 10:00:00 UTC,8 Dec 1915,Hollebeke Chateau,"[0.0, 0.0]",1000AM,person,",Private,other  Logan","{""first""=>[""""], ""surname""=>[""Logan""], ""rank""=>["""", ""Private"", ""other""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+42,AWD00014tu,diary,100,3,1915-12-08 14:00:00 UTC,8 Dec 1915,Hollebeke Chateau,"[0.0, 0.0]",0200PM,time,0200PM,{},,,
+43,AWD00014tu,diary,100,2,1915-12-09 00:00:00 UTC,9 Dec 1915,Hollebeke Chateau,"[0.0, 0.0]","",diaryDate,9 Dec 1915,"{""day""=>[""9""], ""month""=>[""Dec""], ""year""=>[""1915""]}",,,
+44,AWD00014tu,diary,100,6,1915-12-09 00:00:00 UTC,9 Dec 1915,Hollebeke Chateau,"[0.0, 0.0]","",activity,fire,{},,,
+45,AWD00014tu,diary,100,3,1915-12-09 00:00:00 UTC,9 Dec 1915,Hollebeke Chateau,"[0.0, 0.0]","",weather,overcast,{},,,
+46,AWD00014tu,diary,100,4,1915-12-09 00:00:00 UTC,9 Dec 1915,Hollebeke Chateau,"[0.0, 0.0]","",diaryDate,9 Dec 1915,"{""day""=>[""9""], ""month""=>[""Dec""], ""year""=>[""1915""]}",,,
+48,AWD00014tu,diary,100,4,1915-12-09 00:00:00 UTC,9 Dec 1915,Hollebeke Chateau,"[0.0, 0.0]","",weather,rain,{},,,
+49,AWD00014tu,diary,100,2,1915-12-09 11:00:00 UTC,9 Dec 1915,Hollebeke Chateau,"[0.0, 0.0]",1100AM,time,1100AM,{},,,
+1,AWD00014tf,diary,101,7,1915-12-15 00:00:00 UTC,15 Dec 1915,Hollebeke Chateau,"[0.0, 0.0]","",diaryDate,15 Dec 1915,"{""day""=>[""15""], ""month""=>[""Dec""], ""year""=>[""1915""]}",,,
+2,AWD00014tf,diary,101,3,1915-12-15 00:00:00 UTC,15 Dec 1915,Hollebeke Chateau,"[0.0, 0.0]","",activity,fire,{},,,
+3,AWD00014tf,diary,101,2,1915-12-15 00:00:00 UTC,15 Dec 1915,"Dig outs, Dugouts","[0.0, 0.0]","",place,"Dig outs, Dugouts","{""place""=>[""Dig outs"", ""Dugouts""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+4,AWD00014tf,diary,101,3,1915-12-15 00:00:00 UTC,15 Dec 1915,"Kruisshaaf, Kruisstraat, KRUISSTRAAT","[0.0, 0.0]","",place,"Kruisshaaf, Kruisstraat, KRUISSTRAAT","{""place""=>[""Kruisshaaf"", ""Kruisstraat"", ""KRUISSTRAAT""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",0,Kruisstraat,"[0.0, 0.0]"
+7,AWD00014tf,diary,101,2,1915-12-15 00:00:00 UTC,15 Dec 1915,"Kruisshaaf, Kruisstraat, KRUISSTRAAT","[0.0, 0.0]","",activity,fire,{},0,Kruisstraat,"[0.0, 0.0]"
+8,AWD00014tf,diary,101,4,1915-12-15 00:00:00 UTC,15 Dec 1915,"Kruisshaaf, Kruisstraat, KRUISSTRAAT","[0.0, 0.0]","",activity,attack,{},0,Kruisstraat,"[0.0, 0.0]"
+9,AWD00014tf,diary,101,4,1915-12-16 00:00:00 UTC,16 Dec 1915,"Kruisshaaf, Kruisstraat, KRUISSTRAAT","[0.0, 0.0]","",diaryDate,16 Dec 1915,"{""day""=>[""16""], ""month""=>[""Dec""], ""year""=>[""1915""]}",0,Kruisstraat,"[0.0, 0.0]"
+10,AWD00014tf,diary,101,3,1915-12-16 00:00:00 UTC,16 Dec 1915,"Kruisshaaf, Kruisstraat, KRUISSTRAAT","[0.0, 0.0]","",activity,fire,{},0,Kruisstraat,"[0.0, 0.0]"
+12,AWD00014tf,diary,101,3,1915-12-16 00:00:00 UTC,16 Dec 1915,"Kruisshaaf, Kruisstraat, KRUISSTRAAT","[0.0, 0.0]","",diaryDate,16 Dec 1915,"{""day""=>[""16""], ""month""=>[""Dec""], ""year""=>[""1915""]}",0,Kruisstraat,"[0.0, 0.0]"
+13,AWD00014tf,diary,101,4,1915-12-16 00:00:00 UTC,16 Dec 1915,"Kruisshaaf, Kruisstraat, KRUISSTRAAT","[0.0, 0.0]","",weather,overcast,{},0,Kruisstraat,"[0.0, 0.0]"
+14,AWD00014tf,diary,101,2,1915-12-16 00:00:00 UTC,16 Dec 1915,"Kruisshaaf, Kruisstraat, KRUISSTRAAT","[0.0, 0.0]","",weather,fog,{},0,Kruisstraat,"[0.0, 0.0]"
+15,AWD00014tf,diary,101,6,1915-12-16 00:00:00 UTC,16 Dec 1915,"Kruisshaaf, Kruisstraat, KRUISSTRAAT","[0.0, 0.0]","",person,Major  Smith,"{""first""=>[""""], ""surname""=>[""Smith""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""promotion"", ""departed_posted"", ""commander""], ""unit""=>[""""]}",0,Kruisstraat,"[0.0, 0.0]"
+18,AWD00014tf,diary,101,7,1915-12-17 00:00:00 UTC,17 Dec 1915,"Kruisshaaf, Kruisstraat, KRUISSTRAAT","[0.0, 0.0]","",diaryDate,17 Dec 1915,"{""day""=>[""17""], ""month""=>[""Dec""], ""year""=>[""1915""]}",0,Kruisstraat,"[0.0, 0.0]"
+19,AWD00014tf,diary,101,4,1915-12-17 00:00:00 UTC,17 Dec 1915,"Kruisshaaf, Kruisstraat, KRUISSTRAAT","[0.0, 0.0]","",activity,quiet,{},0,Kruisstraat,"[0.0, 0.0]"
+20,AWD00014tf,diary,101,2,1915-12-17 00:00:00 UTC,17 Dec 1915,"Kruisshaaf, Kruisstraat, KRUISSTRAAT","[0.0, 0.0]","",place,Reninghelst,"{""place""=>[""Reninghelst""], ""location""=>[""false""], ""name""=>[""Reningelst""], ""lat""=>[""50.81514""], ""long""=>[""2.77066""], ""id""=>[""2788176""]}",0,Kruisstraat,"[0.0, 0.0]"
+21,AWD00014tf,diary,101,7,1915-12-18 00:00:00 UTC,18 Dec 1915,"Kruisshaaf, Kruisstraat, KRUISSTRAAT","[0.0, 0.0]","",diaryDate,18 Dec 1915,"{""day""=>[""18""], ""month""=>[""Dec""], ""year""=>[""1915""]}",0,Kruisstraat,"[0.0, 0.0]"
+24,AWD00014tf,diary,101,5,1915-12-18 00:00:00 UTC,18 Dec 1915,"Kruisshaaf, Kruisstraat, KRUISSTRAAT","[0.0, 0.0]","",activity,quiet,{},0,Kruisstraat,"[0.0, 0.0]"
+26,AWD00014tf,diary,101,7,1915-12-19 00:00:00 UTC,19 Dec 1915,"Kruisshaaf, Kruisstraat, KRUISSTRAAT","[0.0, 0.0]","",diaryDate,19 Dec 1915,"{""day""=>[""19""], ""month""=>[""Dec""], ""year""=>[""1915""]}",0,Kruisstraat,"[0.0, 0.0]"
+27,AWD00014tf,diary,101,7,1915-12-19 00:00:00 UTC,19 Dec 1915,"Kruisshaaf, Kruisstraat, KRUISSTRAAT","[0.0, 0.0]","",activity,fire,{},0,Kruisstraat,"[0.0, 0.0]"
+31,AWD00014tf,diary,101,3,1915-12-19 00:00:00 UTC,19 Dec 1915,"Kruisshaaf, Kruisstraat, KRUISSTRAAT","[0.0, 0.0]","",activity,fire,{},0,Kruisstraat,"[0.0, 0.0]"
+32,AWD00014tf,diary,101,2,1915-12-19 00:00:00 UTC,19 Dec 1915,"Kruisshaaf, Kruisstraat, KRUISSTRAAT","[0.0, 0.0]","",activity,attack,{},0,Kruisstraat,"[0.0, 0.0]"
+33,AWD00014tf,diary,101,7,1915-12-20 00:00:00 UTC,20 Dec 1915,"Kruisshaaf, Kruisstraat, KRUISSTRAAT","[0.0, 0.0]","",diaryDate,20 Dec 1915,"{""day""=>[""20""], ""month""=>[""Dec""], ""year""=>[""1915""]}",0,Kruisstraat,"[0.0, 0.0]"
+34,AWD00014tf,diary,101,5,1915-12-20 00:00:00 UTC,20 Dec 1915,"Kruisshaaf, Kruisstraat, KRUISSTRAAT","[0.0, 0.0]","",activity,fire,{},0,Kruisstraat,"[0.0, 0.0]"
+36,AWD00014tf,diary,101,2,1915-12-20 00:00:00 UTC,20 Dec 1915,"Kruisshaaf, Kruisstraat, KRUISSTRAAT","[0.0, 0.0]","",person,"Lance Corporal,Lieutenant Colonel  Str~nach, STRUACH","{""first""=>[""""], ""surname""=>[""Str~nach"", ""STRUACH""], ""rank""=>[""Lance Corporal"", ""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""casualty_kia""], ""unit""=>[""Brigade Pioneers"", ""Brignill Pioneers""]}",0,Kruisstraat,"[0.0, 0.0]"
+37,AWD00014tf,diary,101,2,1915-12-20 00:00:00 UTC,20 Dec 1915,"Kruisshaaf, Kruisstraat, KRUISSTRAAT","[0.0, 0.0]","",casualties,killed: 1,{},0,Kruisstraat,"[0.0, 0.0]"
+38,AWD00014tf,diary,101,7,1915-12-21 00:00:00 UTC,21 Dec 1915,"Kruisshaaf, Kruisstraat, KRUISSTRAAT","[0.0, 0.0]","",diaryDate,21 Dec 1915,"{""day""=>[""21""], ""month""=>[""Dec""], ""year""=>[""1915""]}",0,Kruisstraat,"[0.0, 0.0]"
+40,AWD00014tf,diary,101,2,1915-12-21 00:00:00 UTC,21 Dec 1915,"Kruisshaaf, Kruisstraat, KRUISSTRAAT","[0.0, 0.0]","",weather,overcast,{},0,Kruisstraat,"[0.0, 0.0]"
+41,AWD00014tf,diary,101,5,1915-12-22 00:00:00 UTC,22 Dec 1915,"Kruisshaaf, Kruisstraat, KRUISSTRAAT","[0.0, 0.0]","",diaryDate,22 Dec 1915,"{""day""=>[""22""], ""month""=>[""Dec""], ""year""=>[""1915""]}",0,Kruisstraat,"[0.0, 0.0]"
+42,AWD00014tf,diary,101,2,1915-12-22 00:00:00 UTC,22 Dec 1915,"Kruisshaaf, Kruisstraat, KRUISSTRAAT","[0.0, 0.0]","",place,Reninghelst,"{""place""=>[""Reninghelst""], ""location""=>[""false""], ""name""=>[""Reningelst""], ""lat""=>[""50.81514""], ""long""=>[""2.77066""], ""id""=>[""2788176""]}",0,Kruisstraat,"[0.0, 0.0]"
+43,AWD00014tf,diary,101,3,1915-12-22 00:00:00 UTC,22 Dec 1915,"Kruisshaaf, Kruisstraat, KRUISSTRAAT","[0.0, 0.0]","",weather,rain,{},0,Kruisstraat,"[0.0, 0.0]"
+44,AWD00014tf,diary,101,5,1915-12-22 00:00:00 UTC,22 Dec 1915,"Kruisshaaf, Kruisstraat, KRUISSTRAAT","[0.0, 0.0]","",weather,fine,{},0,Kruisstraat,"[0.0, 0.0]"
+45,AWD00014tf,diary,101,3,1915-12-22 00:00:00 UTC,22 Dec 1915,"Kruisshaaf, Kruisstraat, KRUISSTRAAT","[0.0, 0.0]","",activity,fire,{},0,Kruisstraat,"[0.0, 0.0]"
+48,AWD00014tf,diary,101,7,1915-12-23 00:00:00 UTC,23 Dec 1915,"Kruisshaaf, Kruisstraat, KRUISSTRAAT","[0.0, 0.0]","",diaryDate,23 Dec 1915,"{""day""=>[""23""], ""month""=>[""Dec""], ""year""=>[""1915""]}",0,Kruisstraat,"[0.0, 0.0]"
+50,AWD00014tf,diary,101,6,1915-12-23 00:00:00 UTC,23 Dec 1915,"Kruisshaaf, Kruisstraat, KRUISSTRAAT","[0.0, 0.0]","",weather,overcast,{},0,Kruisstraat,"[0.0, 0.0]"
+52,AWD00014tf,diary,101,2,1915-12-23 00:00:00 UTC,23 Dec 1915,"Kruisshaaf, Kruisstraat, KRUISSTRAAT","[0.0, 0.0]","",place,Reninghelst,"{""place""=>[""Reninghelst""], ""location""=>[""false"", ""true""], ""name""=>[""Reningelst""], ""lat""=>[""50.81514""], ""long""=>[""2.77066""], ""id""=>[""2788176""]}",0,Kruisstraat,"[0.0, 0.0]"
+53,AWD00014tf,diary,101,6,1915-12-24 00:00:00 UTC,24 Dec 1915,"Kruisshaaf, Kruisstraat, KRUISSTRAAT","[0.0, 0.0]","",diaryDate,24 Dec 1915,"{""day""=>[""24""], ""month""=>[""Dec""], ""year""=>[""1915""]}",0,Kruisstraat,"[0.0, 0.0]"
+54,AWD00014tf,diary,101,3,1915-12-24 00:00:00 UTC,24 Dec 1915,"Kruisshaaf, Kruisstraat, KRUISSTRAAT","[0.0, 0.0]","",weather,fine,{},0,Kruisstraat,"[0.0, 0.0]"
+55,AWD00014tf,diary,101,6,1915-12-24 00:00:00 UTC,24 Dec 1915,"Kruisshaaf, Kruisstraat, KRUISSTRAAT","[0.0, 0.0]","",weather,rain,{},0,Kruisstraat,"[0.0, 0.0]"
+56,AWD00014tf,diary,101,2,1915-12-24 00:00:00 UTC,24 Dec 1915,"Kruisshaaf, Kruisstraat, KRUISSTRAAT","[0.0, 0.0]","",activity,quiet,{},0,Kruisstraat,"[0.0, 0.0]"
+1,AWD00014ti,diary,102,9,1915-12-25 00:00:00 UTC,25 Dec 1915,"Kruisshaaf, Kruisstraat, KRUISSTRAAT","[0.0, 0.0]","",diaryDate,25 Dec 1915,"{""day""=>[""25""], ""month""=>[""Dec""], ""year""=>[""1915""]}",0,Kruisstraat,"[0.0, 0.0]"
+2,AWD00014ti,diary,102,3,1915-12-25 00:00:00 UTC,25 Dec 1915,"Kruisshaaf, Kruisstraat, KRUISSTRAAT","[0.0, 0.0]","",activity,quiet,{},0,Kruisstraat,"[0.0, 0.0]"
+5,AWD00014ti,diary,102,3,1915-12-25 00:00:00 UTC,25 Dec 1915,"Kruisshaaf, Kruisstraat, KRUISSTRAAT","[0.0, 0.0]","",activity,quiet,{},0,Kruisstraat,"[0.0, 0.0]"
+6,AWD00014ti,diary,102,8,1915-12-25 00:00:00 UTC,25 Dec 1915,"Kruisshaaf, Kruisstraat, KRUISSTRAAT","[0.0, 0.0]","",weather,fine,{},0,Kruisstraat,"[0.0, 0.0]"
+8,AWD00014ti,diary,102,9,1915-12-26 00:00:00 UTC,26 Dec 1915,"Kruisshaaf, Kruisstraat, KRUISSTRAAT","[0.0, 0.0]","",diaryDate,26 Dec 1915,"{""day""=>[""26""], ""month""=>[""Dec""], ""year""=>[""1915""]}",0,Kruisstraat,"[0.0, 0.0]"
+9,AWD00014ti,diary,102,3,1915-12-26 00:00:00 UTC,26 Dec 1915,"Kruisshaaf, Kruisstraat, KRUISSTRAAT","[0.0, 0.0]","",activity,quiet,{},0,Kruisstraat,"[0.0, 0.0]"
+10,AWD00014ti,diary,102,8,1915-12-26 00:00:00 UTC,26 Dec 1915,"Kruisshaaf, Kruisstraat, KRUISSTRAAT","[0.0, 0.0]","",weather,fine,{},0,Kruisstraat,"[0.0, 0.0]"
+12,AWD00014ti,diary,102,7,1915-12-26 00:00:00 UTC,26 Dec 1915,"Kruisshaaf, Kruisstraat, KRUISSTRAAT","[0.0, 0.0]","",activity,fire,{},0,Kruisstraat,"[0.0, 0.0]"
+13,AWD00014ti,diary,102,2,1915-12-26 00:00:00 UTC,26 Dec 1915,"Kruisshaaf, Kruisstraat, KRUISSTRAAT","[0.0, 0.0]","",place,"bedford house, Bedford House","{""place""=>[""bedford house"", ""Bedford House""], ""location""=>[""false"", ""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",0,Kruisstraat,"[0.0, 0.0]"
+15,AWD00014ti,diary,102,5,1915-12-26 00:00:00 UTC,26 Dec 1915,"Kruisshaaf, Kruisstraat, KRUISSTRAAT","[0.0, 0.0]","",activity,training,{},0,Kruisstraat,"[0.0, 0.0]"
+16,AWD00014ti,diary,102,3,1915-12-26 23:30:00 UTC,26 Dec 1915,"Kruisshaaf, Kruisstraat, KRUISSTRAAT","[0.0, 0.0]",1130PM,time,1130PM,{},0,Kruisstraat,"[0.0, 0.0]"
+17,AWD00014ti,diary,102,4,1915-12-26 23:30:00 UTC,26 Dec 1915,"Kruisshaaf, Kruisstraat, KRUISSTRAAT","[0.0, 0.0]",1130PM,weather,fine,{},0,Kruisstraat,"[0.0, 0.0]"
+18,AWD00014ti,diary,102,9,1915-12-27 00:00:00 UTC,27 Dec 1915,"Kruisshaaf, Kruisstraat, KRUISSTRAAT","[0.0, 0.0]","",diaryDate,27 Dec 1915,"{""day""=>[""27""], ""month""=>[""Dec""], ""year""=>[""1915""]}",0,Kruisstraat,"[0.0, 0.0]"
+19,AWD00014ti,diary,102,5,1915-12-27 00:00:00 UTC,27 Dec 1915,"Kruisshaaf, Kruisstraat, KRUISSTRAAT","[0.0, 0.0]","",weather,rain,{},0,Kruisstraat,"[0.0, 0.0]"
+21,AWD00014ti,diary,102,2,1915-12-27 00:00:00 UTC,27 Dec 1915,"Kruisshaaf, Kruisstraat, KRUISSTRAAT","[0.0, 0.0]","",weather,fine,{},0,Kruisstraat,"[0.0, 0.0]"
+22,AWD00014ti,diary,102,13,1915-12-27 00:00:00 UTC,27 Dec 1915,"Kruisshaaf, Kruisstraat, KRUISSTRAAT","[0.0, 0.0]","",activity,quiet,{},0,Kruisstraat,"[0.0, 0.0]"
+23,AWD00014ti,diary,102,9,1915-12-28 00:00:00 UTC,28 Dec 1915,"Kruisshaaf, Kruisstraat, KRUISSTRAAT","[0.0, 0.0]","",diaryDate,28 Dec 1915,"{""day""=>[""28""], ""month""=>[""Dec""], ""year""=>[""1915""]}",0,Kruisstraat,"[0.0, 0.0]"
+25,AWD00014ti,diary,102,2,1915-12-28 00:00:00 UTC,28 Dec 1915,Reninghelst,"[2.77066, 50.81514]","",place,Reninghelst,"{""place""=>[""Reninghelst""], ""location""=>[""true""], ""name""=>[""Reningelst""], ""lat""=>[""50.81514""], ""long""=>[""2.77066""], ""id""=>[""2788176""]}",2788176,Reningelst,"[2.77066, 50.81514]"
+26,AWD00014ti,diary,102,4,1915-12-28 00:00:00 UTC,28 Dec 1915,Reninghelst,"[2.77066, 50.81514]","",activity,fire,{},2788176,Reningelst,"[2.77066, 50.81514]"
+27,AWD00014ti,diary,102,9,1915-12-29 00:00:00 UTC,29 Dec 1915,Reninghelst,"[2.77066, 50.81514]","",diaryDate,29 Dec 1915,"{""day""=>[""29""], ""month""=>[""Dec""], ""year""=>[""1915""]}",2788176,Reningelst,"[2.77066, 50.81514]"
+28,AWD00014ti,diary,102,4,1915-12-29 00:00:00 UTC,29 Dec 1915,Reninghelst,"[2.77066, 50.81514]","",activity,quiet,{},2788176,Reningelst,"[2.77066, 50.81514]"
+29,AWD00014ti,diary,102,2,1915-12-29 00:00:00 UTC,29 Dec 1915,Reninghelst,"[2.77066, 50.81514]","",activity,fire,{},2788176,Reningelst,"[2.77066, 50.81514]"
+30,AWD00014ti,diary,102,9,1915-12-30 00:00:00 UTC,30 Dec 1915,Reninghelst,"[2.77066, 50.81514]","",diaryDate,30 Dec 1915,"{""day""=>[""30""], ""month""=>[""Dec""], ""year""=>[""1915""]}",2788176,Reningelst,"[2.77066, 50.81514]"
+34,AWD00014ti,diary,102,6,1915-12-30 00:00:00 UTC,30 Dec 1915,Reninghelst,"[2.77066, 50.81514]","",weather,fine,{},2788176,Reningelst,"[2.77066, 50.81514]"
+35,AWD00014ti,diary,102,4,1915-12-30 00:00:00 UTC,30 Dec 1915,Reninghelst,"[2.77066, 50.81514]","",activity,quiet,{},2788176,Reningelst,"[2.77066, 50.81514]"
+36,AWD00014ti,diary,102,9,1915-12-31 00:00:00 UTC,31 Dec 1915,Reninghelst,"[2.77066, 50.81514]","",diaryDate,31 Dec 1915,"{""day""=>[""31""], ""month""=>[""Dec""], ""year""=>[""1915""]}",2788176,Reningelst,"[2.77066, 50.81514]"
+38,AWD00014ti,diary,102,6,1915-12-31 00:00:00 UTC,31 Dec 1915,Reninghelst,"[2.77066, 50.81514]","",weather,fine,{},2788176,Reningelst,"[2.77066, 50.81514]"
+41,AWD00014ti,diary,102,2,1915-12-31 00:00:00 UTC,31 Dec 1915,Reninghelst,"[2.77066, 50.81514]","",activity,fire,{},2788176,Reningelst,"[2.77066, 50.81514]"
+43,AWD00014ti,diary,102,7,1915-12-31 00:00:00 UTC,31 Dec 1915,Reninghelst,"[2.77066, 50.81514]","",activity,attack,{},2788176,Reningelst,"[2.77066, 50.81514]"
+44,AWD00014ti,diary,102,6,1915-12-31 23:00:00 UTC,31 Dec 1915,Reninghelst,"[2.77066, 50.81514]",1100PM,time,1100PM,{},2788176,Reningelst,"[2.77066, 50.81514]"
+1,AWD00014tq,diary,104,9,1916-01-01 00:00:00 UTC,1 Jan 1916,Reninghelst,"[2.77066, 50.81514]","",diaryDate,1 Jan 1916,"{""day""=>[""1""], ""month""=>[""Jan""], ""year""=>[""1916""]}",2788176,Reningelst,"[2.77066, 50.81514]"
+3,AWD00014tq,diary,104,8,1916-01-01 00:00:00 UTC,1 Jan 1916,Reninghelst,"[2.77066, 50.81514]","",weather,fine,{},2788176,Reningelst,"[2.77066, 50.81514]"
+4,AWD00014tq,diary,104,6,1916-01-01 00:00:00 UTC,1 Jan 1916,Reninghelst,"[2.77066, 50.81514]","",weather,rain,{},2788176,Reningelst,"[2.77066, 50.81514]"
+5,AWD00014tq,diary,104,7,1916-01-01 00:00:00 UTC,1 Jan 1916,Reninghelst,"[2.77066, 50.81514]","",activity,quiet,{},2788176,Reningelst,"[2.77066, 50.81514]"
+7,AWD00014tq,diary,104,8,1916-01-02 00:00:00 UTC,2 Jan 1916,Reninghelst,"[2.77066, 50.81514]","",diaryDate,2 Jan 1916,"{""day""=>[""2""], ""month""=>[""Jan""], ""year""=>[""1916""]}",2788176,Reningelst,"[2.77066, 50.81514]"
+10,AWD00014tq,diary,104,6,1916-01-02 00:00:00 UTC,2 Jan 1916,Reninghelst,"[2.77066, 50.81514]","",activity,fire,{},2788176,Reningelst,"[2.77066, 50.81514]"
+12,AWD00014tq,diary,104,2,1916-01-02 12:00:00 UTC,2 Jan 1916,Reninghelst,"[2.77066, 50.81514]",1200PM,time,1200PM,{},2788176,Reningelst,"[2.77066, 50.81514]"
+13,AWD00014tq,diary,104,5,1916-01-02 12:00:00 UTC,2 Jan 1916,Reninghelst,"[2.77066, 50.81514]",1200PM,weather,fine,{},2788176,Reningelst,"[2.77066, 50.81514]"
+16,AWD00014tq,diary,104,6,1916-01-02 12:00:00 UTC,2 Jan 1916,Reninghelst,"[2.77066, 50.81514]",1200PM,weather,rain,{},2788176,Reningelst,"[2.77066, 50.81514]"
+17,AWD00014tq,diary,104,6,1916-01-02 12:00:00 UTC,2 Jan 1916,Reninghelst,"[2.77066, 50.81514]",1200PM,activity,fire,{},2788176,Reningelst,"[2.77066, 50.81514]"
+18,AWD00014tq,diary,104,4,1916-01-02 12:00:00 UTC,2 Jan 1916,Reninghelst,"[2.77066, 50.81514]",1200PM,place,Bedford House,"{""place""=>[""Bedford House""], ""location""=>[""false"", ""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2788176,Reningelst,"[2.77066, 50.81514]"
+19,AWD00014tq,diary,104,9,1916-01-03 00:00:00 UTC,3 Jan 1916,Reninghelst,"[2.77066, 50.81514]","",diaryDate,3 Jan 1916,"{""day""=>[""3""], ""month""=>[""Jan""], ""year""=>[""1916""]}",2788176,Reningelst,"[2.77066, 50.81514]"
+21,AWD00014tq,diary,104,8,1916-01-03 00:00:00 UTC,3 Jan 1916,Reninghelst,"[2.77066, 50.81514]","",weather,fine,{},2788176,Reningelst,"[2.77066, 50.81514]"
+22,AWD00014tq,diary,104,4,1916-01-03 08:00:00 UTC,3 Jan 1916,Reninghelst,"[2.77066, 50.81514]",0800AM,time,0800AM,{},2788176,Reningelst,"[2.77066, 50.81514]"
+23,AWD00014tq,diary,104,2,1916-01-03 08:00:00 UTC,3 Jan 1916,Reninghelst,"[2.77066, 50.81514]",0800AM,activity,fire,{},2788176,Reningelst,"[2.77066, 50.81514]"
+25,AWD00014tq,diary,104,5,1916-01-03 08:00:00 UTC,3 Jan 1916,Reninghelst,"[2.77066, 50.81514]",0800AM,activity,fire,{},2788176,Reningelst,"[2.77066, 50.81514]"
+27,AWD00014tq,diary,104,2,1916-01-03 08:00:00 UTC,3 Jan 1916,Reninghelst,"[2.77066, 50.81514]",0800AM,place,Lankhof Chateau,"{""place""=>[""Lankhof Chateau""], ""location""=>[""false"", ""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2788176,Reningelst,"[2.77066, 50.81514]"
+29,AWD00014tq,diary,104,2,1916-01-03 08:00:00 UTC,3 Jan 1916,Reninghelst,"[2.77066, 50.81514]",0800AM,weather,fine,{},2788176,Reningelst,"[2.77066, 50.81514]"
+30,AWD00014tq,diary,104,9,1916-01-04 00:00:00 UTC,4 Jan 1916,Reninghelst,"[2.77066, 50.81514]","",diaryDate,4 Jan 1916,"{""day""=>[""4""], ""month""=>[""Jan""], ""year""=>[""1916""]}",2788176,Reningelst,"[2.77066, 50.81514]"
+32,AWD00014tq,diary,104,7,1916-01-04 00:00:00 UTC,4 Jan 1916,Reninghelst,"[2.77066, 50.81514]","",weather,overcast,{},2788176,Reningelst,"[2.77066, 50.81514]"
+33,AWD00014tq,diary,104,4,1916-01-04 00:00:00 UTC,4 Jan 1916,Reninghelst,"[2.77066, 50.81514]","",activity,quiet,{},2788176,Reningelst,"[2.77066, 50.81514]"
+34,AWD00014tq,diary,104,6,1916-01-04 00:00:00 UTC,4 Jan 1916,Reninghelst,"[2.77066, 50.81514]","",activity,attack,{},2788176,Reningelst,"[2.77066, 50.81514]"
+36,AWD00014tq,diary,104,3,1916-01-04 00:00:00 UTC,4 Jan 1916,Reninghelst,"[2.77066, 50.81514]","",place,hollebeke chateau,"{""place""=>[""hollebeke chateau""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2788176,Reningelst,"[2.77066, 50.81514]"
+38,AWD00014tq,diary,104,5,1916-01-04 00:00:00 UTC,4 Jan 1916,Reninghelst,"[2.77066, 50.81514]","",activity,fire,{},2788176,Reningelst,"[2.77066, 50.81514]"
+41,AWD00014tq,diary,104,10,1916-01-05 00:00:00 UTC,5 Jan 1916,Reninghelst,"[2.77066, 50.81514]","",diaryDate,5 Jan 1916,"{""day""=>[""5""], ""month""=>[""Jan""], ""year""=>[""1916""]}",2788176,Reningelst,"[2.77066, 50.81514]"
+43,AWD00014tq,diary,104,5,1916-01-05 00:00:00 UTC,5 Jan 1916,Reninghelst,"[2.77066, 50.81514]","",weather,fine,{},2788176,Reningelst,"[2.77066, 50.81514]"
+44,AWD00014tq,diary,104,2,1916-01-05 00:00:00 UTC,5 Jan 1916,Reninghelst,"[2.77066, 50.81514]","",activity,quiet,{},2788176,Reningelst,"[2.77066, 50.81514]"
+45,AWD00014tq,diary,104,6,1916-01-05 00:00:00 UTC,5 Jan 1916,Reninghelst,"[2.77066, 50.81514]","",activity,fire,{},2788176,Reningelst,"[2.77066, 50.81514]"
+46,AWD00014tq,diary,104,3,1916-01-05 13:45:00 UTC,5 Jan 1916,Reninghelst,"[2.77066, 50.81514]",0145PM,time,0145PM,{},2788176,Reningelst,"[2.77066, 50.81514]"
+2,AWD00014tp,diary,105,9,1916-02-29 00:00:00 UTC,29 Feb 1916,Reninghelst,"[2.77066, 50.81514]","",diaryDate,29 Feb 1916,"{""day""=>[""29""], ""month""=>[""Feb""], ""year""=>[""1916""]}",2788176,Reningelst,"[2.77066, 50.81514]"
+3,AWD00014tp,diary,105,9,1916-02-29 00:00:00 UTC,29 Feb 1916,Mervieux,"[0.0, 0.0]","",place,Mervieux,"{""place""=>[""Mervieux""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+4,AWD00014tp,diary,105,3,1916-02-29 00:00:00 UTC,29 Feb 1916,Mervieux,"[0.0, 0.0]","",activity,movement,{},,,
+5,AWD00014tp,diary,105,4,1916-02-29 00:00:00 UTC,29 Feb 1916,Mervieux,"[0.0, 0.0]","",domestic,accomodation,{},,,
+6,AWD00014tp,diary,105,2,1916-02-29 00:00:00 UTC,29 Feb 1916,Mervieux,"[0.0, 0.0]","",activity,movement,{},,,
+7,AWD00014tp,diary,105,3,1916-02-29 00:00:00 UTC,29 Feb 1916,Mervieux,"[0.0, 0.0]","",place,Mervieux,"{""place""=>[""Mervieux""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+8,AWD00014tp,diary,105,2,1916-03-01 00:00:00 UTC,1 Mar 1916,Mervieux,"[0.0, 0.0]","",diaryDate,1 Mar 1916,"{""day""=>[""1""], ""month""=>[""Mar""], ""year""=>[""1916""]}",,,
+9,AWD00014tp,diary,105,7,1916-03-01 00:00:00 UTC,1 Mar 1916,Mervieux,"[0.0, 0.0]","",person,Captain S R McClintock,"{""first""=>[""S R""], ""surname""=>[""McClintock""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""1/4 Hordon Highlanders""]}",,,
+10,AWD00014tp,diary,105,3,1916-03-01 00:00:00 UTC,1 Mar 1916,Mervieux,"[0.0, 0.0]","",diaryDate,1 Mar 1916,"{""day""=>[""1""], ""month""=>[""Mar""], ""year""=>[""1916""]}",,,

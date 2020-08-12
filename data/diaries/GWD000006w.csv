@@ -1,0 +1,65 @@
+Order,Page,Page type,Page number,Count,DateTime,Date,Place,Lat/Lon,Time,Type,Label,Data,GeoID,GeoName,GeoCoords
+2,AWD00010xi,diary,3,2,,"",MILLENCOURT,"[2.58718, 50.00073]","",place,MILLENCOURT,"{""place""=>[""MILLENCOURT""], ""location""=>[""true""], ""name""=>[""Millencourt""], ""lat""=>[""50.00073""], ""long""=>[""2.58718""], ""id""=>[""2993868""]}",2993868,Millencourt,"[2.58718, 50.00073]"
+8,AWD00010xi,diary,3,3,1916-08-01 00:00:00 UTC,1 Aug 1916,MILLENCOURT,"[2.58718, 50.00073]","",diaryDate,1 Aug 1916,"{""day""=>[""1""], ""month""=>[""Aug""], ""year""=>[""1916""]}",2993868,Millencourt,"[2.58718, 50.00073]"
+9,AWD00010xi,diary,3,4,1916-08-01 00:00:00 UTC,1 Aug 1916,"Millencourt, millencourt","[2.58718, 50.00073]","",place,"Millencourt, millencourt","{""place""=>[""Millencourt"", ""millencourt""], ""location""=>[""true""], ""name""=>[""Millencourt""], ""lat""=>[""50.00073""], ""long""=>[""2.58718""], ""id""=>[""2993868""]}",2993868,Millencourt,"[2.58718, 50.00073]"
+10,AWD00010xi,diary,3,5,1916-08-01 00:00:00 UTC,1 Aug 1916,"Millencourt, millencourt","[2.58718, 50.00073]","",activity,training,{},2993868,Millencourt,"[2.58718, 50.00073]"
+11,AWD00010xi,diary,3,3,1916-08-11 00:00:00 UTC,11 Aug 1916,"Millencourt, millencourt","[2.58718, 50.00073]","",diaryDate,11 Aug 1916,"{""day""=>[""11""], ""month""=>[""Aug""], ""year""=>[""1916""]}",2993868,Millencourt,"[2.58718, 50.00073]"
+14,AWD00010xi,diary,3,2,1916-08-11 10:45:00 UTC,11 Aug 1916,"Millencourt, millencourt","[2.58718, 50.00073]",1045AM,time,1045AM,{},2993868,Millencourt,"[2.58718, 50.00073]"
+15,AWD00010xi,diary,3,3,1916-08-12 00:00:00 UTC,12 Aug 1916,"Millencourt, millencourt","[2.58718, 50.00073]","",diaryDate,12 Aug 1916,"{""day""=>[""12""], ""month""=>[""Aug""], ""year""=>[""1916""]}",2993868,Millencourt,"[2.58718, 50.00073]"
+16,AWD00010xi,diary,3,2,1916-08-12 00:00:00 UTC,12 Aug 1916,"Millencourt, millencourt","[2.58718, 50.00073]","",place,"""","{""place""=>[""\""""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2993868,Millencourt,"[2.58718, 50.00073]"
+17,AWD00010xi,diary,3,4,1916-08-12 00:00:00 UTC,12 Aug 1916,"Millencourt, millencourt","[2.58718, 50.00073]","",activity,training,{},2993868,Millencourt,"[2.58718, 50.00073]"
+19,AWD00010xi,diary,3,3,1916-08-16 00:00:00 UTC,16 Aug 1916,"Millencourt, millencourt","[2.58718, 50.00073]","",diaryDate,16 Aug 1916,"{""day""=>[""16""], ""month""=>[""Aug""], ""year""=>[""1916""]}",2993868,Millencourt,"[2.58718, 50.00073]"
+20,AWD00010xi,diary,3,2,1916-08-16 00:00:00 UTC,16 Aug 1916,"Becourt Wood, becourt wood","[2.58718, 50.00073]","",place,"Becourt Wood, becourt wood","{""place""=>[""Becourt Wood"", ""becourt wood""], ""location""=>[""true""], ""name""=>[""Millencourt""], ""lat""=>[""50.00073""], ""long""=>[""2.58718""], ""id""=>[""2993868""]}",3033925,Bécordel-Bécourt,"[2.68529, 49.98689]"
+21,AWD00010xi,diary,3,3,1916-08-16 00:00:00 UTC,16 Aug 1916,"Becourt Wood, becourt wood","[2.58718, 50.00073]","",domestic,accomodation,{},3033925,Bécordel-Bécourt,"[2.68529, 49.98689]"
+24,AWD00010xi,diary,3,3,1916-08-16 09:10:00 UTC,16 Aug 1916,"Becourt Wood, becourt wood","[2.58718, 50.00073]",0910AM,time,0910AM,{},3033925,Bécordel-Bécourt,"[2.68529, 49.98689]"
+25,AWD00010xi,diary,3,4,1916-08-16 09:10:00 UTC,16 Aug 1916,"Becourt Wood, becourt wood","[2.58718, 50.00073]",0910AM,activity,movement,{},3033925,Bécordel-Bécourt,"[2.68529, 49.98689]"
+26,AWD00010xi,diary,3,3,1916-08-17 00:00:00 UTC,17 Aug 1916,"Becourt Wood, becourt wood","[2.58718, 50.00073]","",diaryDate,17 Aug 1916,"{""day""=>[""17""], ""month""=>[""Aug""], ""year""=>[""1916""]}",3033925,Bécordel-Bécourt,"[2.68529, 49.98689]"
+27,AWD00010xi,diary,3,4,1916-08-17 00:00:00 UTC,17 Aug 1916,Becourt Wood,"[2.58718, 50.00073]","",place,Becourt Wood,"{""place""=>[""Becourt Wood""], ""location""=>[""true""], ""name""=>[""Millencourt"", """"], ""lat""=>[""50.00073"", """"], ""long""=>[""2.58718"", """"], ""id""=>[""2993868"", """"]}",3033925,Bécordel-Bécourt,"[2.68529, 49.98689]"
+28,AWD00010xi,diary,3,3,1916-08-17 00:00:00 UTC,17 Aug 1916,Becourt Wood,"[2.58718, 50.00073]","",activity,reserve,{},3033925,Bécordel-Bécourt,"[2.68529, 49.98689]"
+31,AWD00010xi,diary,3,2,1916-08-17 00:00:00 UTC,17 Aug 1916,Becourt Wood,"[2.58718, 50.00073]","",unit,"1st and 2nd Bde T.M., 1st and @nd Bgde T M","{""name""=>[""1st and 2nd Bde T.M."", ""1st and @nd Bgde T M""], ""context""=>[""relieved""]}",3033925,Bécordel-Bécourt,"[2.68529, 49.98689]"
+32,AWD00010xi,diary,3,2,1916-08-17 00:00:00 UTC,17 Aug 1916,Becourt Wood,"[2.58718, 50.00073]","",activity,line,{},3033925,Bécordel-Bécourt,"[2.68529, 49.98689]"
+33,AWD00010xi,diary,3,3,1916-08-20 00:00:00 UTC,20 Aug 1916,Becourt Wood,"[2.58718, 50.00073]","",diaryDate,20 Aug 1916,"{""day""=>[""20""], ""month""=>[""Aug""], ""year""=>[""1916""]}",3033925,Bécordel-Bécourt,"[2.68529, 49.98689]"
+35,AWD00010xi,diary,3,3,1916-08-20 00:00:00 UTC,20 Aug 1916,Mametz Wood,"[0.0, 0.0]","",place,Mametz Wood,"{""place""=>[""Mametz Wood""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3038271,Albert,"[2.65096, 50.00091]"
+39,AWD00010xi,diary,3,3,1916-08-20 13:00:00 UTC,20 Aug 1916,Mametz Wood,"[0.0, 0.0]",0100PM,time,0100PM,{},3038271,Albert,"[2.65096, 50.00091]"
+41,AWD00010xi,diary,3,2,1916-08-20 13:00:00 UTC,20 Aug 1916,Mametz Wood,"[0.0, 0.0]",0100PM,place,Clarkes Trench,"{""place""=>[""Clarkes Trench""], ""location""=>[""false"", ""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3038271,Albert,"[2.65096, 50.00091]"
+43,AWD00010xi,diary,3,4,1916-08-20 13:00:00 UTC,20 Aug 1916,Mametz Wood,"[0.0, 0.0]",0100PM,place,High Wood,"{""place""=>[""High Wood""], ""location""=>[""false"", ""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3038271,Albert,"[2.65096, 50.00091]"
+52,AWD00010xi,diary,3,4,1916-08-21 00:00:00 UTC,21 Aug 1916,Mametz Wood,"[0.0, 0.0]","",diaryDate,21 Aug 1916,"{""day""=>[""21""], ""month""=>[""Aug""], ""year""=>[""1916""]}",3038271,Albert,"[2.65096, 50.00091]"
+54,AWD00010xi,diary,3,2,1916-08-21 00:00:00 UTC,21 Aug 1916,Mametz Wood,"[0.0, 0.0]","",activity,line,{},3038271,Albert,"[2.65096, 50.00091]"
+56,AWD00010xi,diary,3,2,1916-08-21 00:00:00 UTC,21 Aug 1916,Mametz Wood,"[0.0, 0.0]","",activity,line,{},3038271,Albert,"[2.65096, 50.00091]"
+57,AWD00010xi,diary,3,2,1916-08-22 00:00:00 UTC,22 Aug 1916,Mametz Wood,"[0.0, 0.0]","",diaryDate,22 Aug 1916,"{""day""=>[""22""], ""month""=>[""Aug""], ""year""=>[""1916""]}",3038271,Albert,"[2.65096, 50.00091]"
+58,AWD00010xi,diary,3,2,1916-08-22 00:00:00 UTC,22 Aug 1916,Mametz Wood,"[0.0, 0.0]","",place,"""","{""place""=>[""\""""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3038271,Albert,"[2.65096, 50.00091]"
+60,AWD00010xi,diary,3,4,1916-08-23 00:00:00 UTC,23 Aug 1916,Mametz Wood,"[0.0, 0.0]","",diaryDate,23 Aug 1916,"{""day""=>[""23""], ""month""=>[""Aug""], ""year""=>[""1916""]}",3038271,Albert,"[2.65096, 50.00091]"
+62,AWD00010xi,diary,3,2,1916-08-23 00:00:00 UTC,23 Aug 1916,Mametz Wood,"[0.0, 0.0]","",activity,line,{},3038271,Albert,"[2.65096, 50.00091]"
+64,AWD00010xi,diary,3,2,1916-08-23 00:00:00 UTC,23 Aug 1916,Mametz Wood,"[0.0, 0.0]","",activity,attack,{},3038271,Albert,"[2.65096, 50.00091]"
+65,AWD00010xi,diary,3,2,1916-08-23 00:00:00 UTC,23 Aug 1916,Mametz Wood,"[0.0, 0.0]","",activity,fire,{},3038271,Albert,"[2.65096, 50.00091]"
+2,AWD00010x4,diary,4,5,1916-08-24 00:00:00 UTC,24 Aug 1916,Mametz Wood,"[0.0, 0.0]","",diaryDate,24 Aug 1916,"{""day""=>[""24""], ""month""=>[""Aug""], ""year""=>[""1916""]}",3038271,Albert,"[2.65096, 50.00091]"
+4,AWD00010x4,diary,4,2,1916-08-24 00:00:00 UTC,24 Aug 1916,Mametz Wood,"[0.0, 0.0]","",activity,attack,{},3038271,Albert,"[2.65096, 50.00091]"
+6,AWD00010x4,diary,4,2,1916-08-24 00:00:00 UTC,24 Aug 1916,Clarkes Trench ,"[0.0, 0.0]","",place,Clarkes Trench ,"{""place""=>[""Clarkes Trench ""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+8,AWD00010x4,diary,4,2,1916-08-24 00:00:00 UTC,24 Aug 1916,Clarkes Trench ,"[0.0, 0.0]","",activity,attack,{},,,
+13,AWD00010x4,diary,4,2,1916-08-24 00:00:00 UTC,24 Aug 1916,Clarkes Trench ,"[0.0, 0.0]","",activity,other,{},,,
+15,AWD00010x4,diary,4,2,1916-08-25 00:00:00 UTC,25 Aug 1916,Clarkes Trench ,"[0.0, 0.0]","",diaryDate,25 Aug 1916,"{""day""=>[""25""], ""month""=>[""Aug""], ""year""=>[""1916""]}",,,
+16,AWD00010x4,diary,4,3,1916-08-25 00:00:00 UTC,25 Aug 1916,Clarkes Trench ,"[0.0, 0.0]","",activity,attack,{},,,
+17,AWD00010x4,diary,4,2,1916-08-25 00:00:00 UTC,25 Aug 1916,Clarkes Trench ,"[0.0, 0.0]","",diaryDate,25 Aug 1916,"{""day""=>[""25""], ""month""=>[""Aug""], ""year""=>[""1916""]}",,,
+18,AWD00010x4,diary,4,4,1916-08-25 17:45:00 UTC,25 Aug 1916,Clarkes Trench ,"[0.0, 0.0]",0545PM,time,0545PM,{},,,
+19,AWD00010x4,diary,4,2,1916-08-25 17:45:00 UTC,25 Aug 1916,Clarkes Trench ,"[0.0, 0.0]",0545PM,activity,attack,{},,,
+21,AWD00010x4,diary,4,3,1916-08-25 17:45:00 UTC,25 Aug 1916,Clarkes Trench ,"[0.0, 0.0]",0545PM,unit,"22RMF, 2ND R.M.F., 2nd RMF","{""name""=>[""22RMF"", ""2ND R.M.F."", ""2nd RMF""], ""context""=>[""other""]}",,,
+27,AWD00010x4,diary,4,3,1916-08-26 00:00:00 UTC,26 Aug 1916,Clarkes Trench ,"[0.0, 0.0]","",diaryDate,26 Aug 1916,"{""day""=>[""26""], ""month""=>[""Aug""], ""year""=>[""1916""]}",,,
+28,AWD00010x4,diary,4,2,1916-08-26 00:00:00 UTC,26 Aug 1916,Clarkes Trench ,"[0.0, 0.0]","",activity,attack,{},,,
+30,AWD00010x4,diary,4,2,1916-08-26 00:00:00 UTC,26 Aug 1916,Clarkes Trench ,"[0.0, 0.0]","",activity,repair,{},,,
+31,AWD00010x4,diary,4,3,1916-08-26 00:00:00 UTC,26 Aug 1916,Clarkes Trench ,"[0.0, 0.0]","",activity,attack,{},,,
+32,AWD00010x4,diary,4,4,1916-08-26 18:30:00 UTC,26 Aug 1916,Clarkes Trench ,"[0.0, 0.0]",0630PM,time,0630PM,{},,,
+33,AWD00010x4,diary,4,3,1916-08-26 18:30:00 UTC,26 Aug 1916,Clarkes Trench ,"[0.0, 0.0]",0630PM,unit,"S.W.B, SWB;s, S W B s","{""name""=>[""S.W.B"", ""SWB;s"", ""S W B s""], ""context""=>[""other""]}",,,
+35,AWD00010x4,diary,4,2,1916-08-26 18:30:00 UTC,26 Aug 1916,Clarkes Trench ,"[0.0, 0.0]",0630PM,activity,enemy_activity,{},,,
+36,AWD00010x4,diary,4,2,1916-08-26 18:30:00 UTC,26 Aug 1916,Clarkes Trench ,"[0.0, 0.0]",0630PM,activity,attack,{},,,
+37,AWD00010x4,diary,4,2,1916-08-26 18:30:00 UTC,26 Aug 1916,Clarkes Trench ,"[0.0, 0.0]",0630PM,unit,"S.W.B, SWB;s","{""name""=>[""S.W.B"", ""SWB;s""], ""context""=>[""other""]}",,,
+39,AWD00010x4,diary,4,4,1916-08-27 00:00:00 UTC,27 Aug 1916,Clarkes Trench ,"[0.0, 0.0]","",diaryDate,27 Aug 1916,"{""day""=>[""27""], ""month""=>[""Aug""], ""year""=>[""1916""]}",,,
+41,AWD00010x4,diary,4,4,1916-08-27 15:00:00 UTC,27 Aug 1916,Clarkes Trench ,"[0.0, 0.0]",0300PM,time,0300PM,{},,,
+44,AWD00010x4,diary,4,4,1916-08-27 15:00:00 UTC,27 Aug 1916,Clarkes Trench ,"[0.0, 0.0]",0300PM,unit,"46th T M B, by 46th TMB, 46yh TMB's, 46 T.M.B","{""name""=>[""46th T M B"", ""by 46th TMB"", ""46yh TMB's"", ""46 T.M.B""], ""context""=>[""relieved_by"", ""relieved""]}",,,
+45,AWD00010x4,diary,4,3,1916-08-27 15:00:00 UTC,27 Aug 1916,Clarkes Trench ,"[0.0, 0.0]",0300PM,activity,movement,{},,,
+46,AWD00010x4,diary,4,3,1916-08-27 15:00:00 UTC,27 Aug 1916,Clarkes Trench ,"[0.0, 0.0]",0300PM,domestic,accomodation,{},,,
+47,AWD00010x4,diary,4,4,1916-08-27 15:00:00 UTC,27 Aug 1916,Albert,"[2.65096, 50.00091]",0300PM,place,Albert,"{""place""=>[""Albert""], ""location""=>[""true""], ""name""=>[""Albert"", """"], ""lat""=>[""50.00091"", """"], ""long""=>[""2.65096"", """"], ""id""=>[""3038271"", """"]}",3038271,Albert,"[2.65096, 50.00091]"
+4,AWD00010xc,diary,5,4,1916-08-28 00:00:00 UTC,28 Aug 1916,Albert,"[2.65096, 50.00091]","",diaryDate,28 Aug 1916,"{""day""=>[""28""], ""month""=>[""Aug""], ""year""=>[""1916""]}",3038271,Albert,"[2.65096, 50.00091]"
+5,AWD00010xc,diary,5,4,1916-08-28 00:00:00 UTC,28 Aug 1916,Albert,"[2.65096, 50.00091]","",place,Albert,"{""place""=>[""Albert""], ""location""=>[""true""], ""name""=>["""", ""Albert""], ""lat""=>["""", ""50.00091""], ""long""=>["""", ""2.65096""], ""id""=>["""", ""3038271""]}",3038271,Albert,"[2.65096, 50.00091]"
+6,AWD00010xc,diary,5,5,1916-08-28 00:00:00 UTC,28 Aug 1916,Albert,"[2.65096, 50.00091]","",activity,training,{},3038271,Albert,"[2.65096, 50.00091]"
+9,AWD00010xc,diary,5,4,1916-08-28 00:00:00 UTC,28 Aug 1916,Albert,"[2.65096, 50.00091]","",person,"Captain A P,A F,,G F Ellis","{""first""=>[""A P"", ""A F"", """", ""G F""], ""surname""=>[""Ellis""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author"", ""commander""], ""unit""=>[""3 T M B"", ""STMB"", ""3rd TMB"", """"]}",3038271,Albert,"[2.65096, 50.00091]"
+10,AWD00010xc,diary,5,2,1916-09-01 00:00:00 UTC,1 Sep 1916,Albert,"[2.65096, 50.00091]","",diaryDate,1 Sep 1916,"{""day""=>[""1""], ""month""=>[""Sep""], ""year""=>[""1916""]}",3038271,Albert,"[2.65096, 50.00091]"

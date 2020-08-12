@@ -1,0 +1,735 @@
+Order,Page,Page type,Page number,Count,DateTime,Date,Place,Lat/Lon,Time,Type,Label,Data,GeoID,GeoName,GeoCoords
+1,AWD00015uc,diary,2,2,,"","","[0.0, 0.0]","",place,Cologne,"{""place""=>[""Cologne""], ""location""=>[""false""], ""name""=>[""Cologne"", """"], ""lat""=>[""43.72214"", """"], ""long""=>[""0.9775"", """"], ""id""=>[""3024280"", """"]}",2985684,Pozières,"[2.72929, 50.04047]"
+3,AWD00015uc,diary,2,2,,"","Suly Cologne, Sully Cologne","[2.28957, 50.32302]","",place,"Suly Cologne, Sully Cologne","{""place""=>[""Suly Cologne"", ""Sully Cologne""], ""location""=>[""true""], ""name""=>[""Écoivres"", """"], ""lat""=>[""50.32302"", """"], ""long""=>[""2.28957"", """"], ""id""=>[""3020471"", """"]}",,,
+4,AWD00015uc,diary,2,2,1919-03-17 00:00:00 UTC,17 Mar 1919,"Suly Cologne, Sully Cologne","[2.28957, 50.32302]","",diaryDate,17 Mar 1919,"{""day""=>[""17""], ""month""=>[""Mar""], ""year""=>[""1919""]}",,,
+5,AWD00015uc,diary,2,4,1919-03-17 00:00:00 UTC,17 Mar 1919,"Suly Cologne, Sully Cologne","[2.28957, 50.32302]","",activity,training,{},,,
+6,AWD00015uc,diary,2,6,1919-03-17 00:00:00 UTC,17 Mar 1919,"Suly Cologne, Sully Cologne","[2.28957, 50.32302]","",diaryDate,17 Mar 1919,"{""day""=>[""17""], ""month""=>[""Mar""], ""year""=>[""1919""]}",,,
+7,AWD00015uc,diary,2,4,1919-03-17 00:00:00 UTC,17 Mar 1919,"Suly Cologne, Sully Cologne","[2.28957, 50.32302]","",activity,training,{},,,
+10,AWD00015uc,diary,2,2,1919-03-17 00:00:00 UTC,17 Mar 1919,"Suly Cologne, Sully Cologne","[2.28957, 50.32302]","",domestic,hygiene,{},,,
+11,AWD00015uc,diary,2,7,1919-03-17 00:00:00 UTC,17 Mar 1919,"Suly Cologne, Sully Cologne","[2.28957, 50.32302]","",domestic,sport,{},,,
+12,AWD00015uc,diary,2,5,1919-03-17 00:00:00 UTC,17 Mar 1919,"Suly Cologne, Sully Cologne","[2.28957, 50.32302]","",domestic,hygiene,{},,,
+13,AWD00015uc,diary,2,2,1919-03-17 00:00:00 UTC,17 Mar 1919,"Suly Cologne, Sully Cologne","[2.28957, 50.32302]","",activity,training,{},,,
+15,AWD00015uc,diary,2,2,1919-03-17 00:00:00 UTC,17 Mar 1919,"Suly Cologne, Sully Cologne","[2.28957, 50.32302]","",activity,training,{},,,
+16,AWD00015uc,diary,2,7,1919-03-18 00:00:00 UTC,18 Mar 1919,"Suly Cologne, Sully Cologne","[2.28957, 50.32302]","",diaryDate,18 Mar 1919,"{""day""=>[""18""], ""month""=>[""Mar""], ""year""=>[""1919""]}",,,
+17,AWD00015uc,diary,2,5,1919-03-18 00:00:00 UTC,18 Mar 1919,"Suly Cologne, Sully Cologne","[2.28957, 50.32302]","",activity,training,{},,,
+18,AWD00015uc,diary,2,2,1919-03-18 00:00:00 UTC,18 Mar 1919,"Suly Cologne, Sully Cologne","[2.28957, 50.32302]","",domestic,hygiene,{},,,
+19,AWD00015uc,diary,2,2,1919-03-18 00:00:00 UTC,18 Mar 1919,"Suly Cologne, Sully Cologne","[2.28957, 50.32302]","",domestic,sport,{},,,
+20,AWD00015uc,diary,2,3,1919-03-18 00:00:00 UTC,18 Mar 1919,"Suly Cologne, Sully Cologne","[2.28957, 50.32302]","",domestic,hygiene,{},,,
+21,AWD00015uc,diary,2,7,1919-03-18 00:00:00 UTC,18 Mar 1919,"Suly Cologne, Sully Cologne","[2.28957, 50.32302]","",activity,training,{},,,
+22,AWD00015uc,diary,2,8,1919-03-19 00:00:00 UTC,19 Mar 1919,"Suly Cologne, Sully Cologne","[2.28957, 50.32302]","",diaryDate,19 Mar 1919,"{""day""=>[""19""], ""month""=>[""Mar""], ""year""=>[""1919""]}",,,
+27,AWD00015uc,diary,2,2,1919-03-19 00:00:00 UTC,19 Mar 1919,"Suly Cologne, Sully Cologne","[2.28957, 50.32302]","",domestic,sport,{},,,
+28,AWD00015uc,diary,2,6,1919-03-19 00:00:00 UTC,19 Mar 1919,"Suly Cologne, Sully Cologne","[2.28957, 50.32302]","",domestic,hygiene,{},,,
+29,AWD00015uc,diary,2,6,1919-03-19 00:00:00 UTC,19 Mar 1919,"Suly Cologne, Sully Cologne","[2.28957, 50.32302]","",domestic,sport,{},,,
+31,AWD00015uc,diary,2,3,1919-03-19 00:00:00 UTC,19 Mar 1919,"Suly Cologne, Sully Cologne","[2.28957, 50.32302]","",person,"Brigadier General ,A A,G A Kennedy","{""first""=>["""", ""A A"", ""G A""], ""surname""=>[""Kennedy""], ""rank""=>[""Brigadier General""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+33,AWD00015uc,diary,2,8,1919-03-20 00:00:00 UTC,20 Mar 1919,"Suly Cologne, Sully Cologne","[2.28957, 50.32302]","",diaryDate,20 Mar 1919,"{""day""=>[""20""], ""month""=>[""Mar""], ""year""=>[""1919""]}",,,
+34,AWD00015uc,diary,2,6,1919-03-20 00:00:00 UTC,20 Mar 1919,"Suly Cologne, Sully Cologne","[2.28957, 50.32302]","",activity,training,{},,,
+35,AWD00015uc,diary,2,4,1919-03-20 00:00:00 UTC,20 Mar 1919,"Suly Cologne, Sully Cologne","[2.28957, 50.32302]","",domestic,inspections,{},,,
+38,AWD00015uc,diary,2,6,1919-03-20 00:00:00 UTC,20 Mar 1919,"Suly Cologne, Sully Cologne","[2.28957, 50.32302]","",domestic,hygiene,{},,,
+39,AWD00015uc,diary,2,7,1919-03-20 00:00:00 UTC,20 Mar 1919,"Suly Cologne, Sully Cologne","[2.28957, 50.32302]","",domestic,sport,{},,,
+40,AWD00015uc,diary,2,7,1919-03-21 00:00:00 UTC,21 Mar 1919,"Suly Cologne, Sully Cologne","[2.28957, 50.32302]","",diaryDate,21 Mar 1919,"{""day""=>[""21""], ""month""=>[""Mar""], ""year""=>[""1919""]}",,,
+41,AWD00015uc,diary,2,4,1919-03-21 00:00:00 UTC,21 Mar 1919,"Suly Cologne, Sully Cologne","[2.28957, 50.32302]","",activity,training,{},,,
+43,AWD00015uc,diary,2,2,1919-03-21 00:00:00 UTC,21 Mar 1919,"Suly Cologne, Sully Cologne","[2.28957, 50.32302]","",activity,other,{},,,
+4,AWD00015uv,diary,3,4,1919-03-21 00:00:00 UTC,21 Mar 1919,"Suby Coloyne, Sully Cologne, Soby Cologne, Suly Cologne","[0.0, 0.0]","",place,"Suby Coloyne, Sully Cologne, Soby Cologne, Suly Cologne","{""place""=>[""Suby Coloyne"", ""Sully Cologne"", ""Soby Cologne"", ""Suly Cologne""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",0,",Écoivres","[0.0, 0.0]"
+5,AWD00015uv,diary,3,4,1919-03-22 00:00:00 UTC,22 Mar 1919,"Suby Coloyne, Sully Cologne, Soby Cologne, Suly Cologne","[0.0, 0.0]","",diaryDate,22 Mar 1919,"{""day""=>[""22""], ""month""=>[""Mar""], ""year""=>[""1919""]}",0,",Écoivres","[0.0, 0.0]"
+6,AWD00015uv,diary,3,3,1919-03-22 00:00:00 UTC,22 Mar 1919,"Suby Coloyne, Sully Cologne, Soby Cologne, Suly Cologne","[0.0, 0.0]","",domestic,inspections,{},0,",Écoivres","[0.0, 0.0]"
+11,AWD00015uv,diary,3,5,1919-03-22 00:00:00 UTC,22 Mar 1919,"Suby Coloyne, Sully Cologne, Soby Cologne, Suly Cologne","[0.0, 0.0]","",domestic,sport,{},0,",Écoivres","[0.0, 0.0]"
+13,AWD00015uv,diary,3,5,1919-03-23 00:00:00 UTC,23 Mar 1919,"Suby Coloyne, Sully Cologne, Soby Cologne, Suly Cologne","[0.0, 0.0]","",diaryDate,23 Mar 1919,"{""day""=>[""23""], ""month""=>[""Mar""], ""year""=>[""1919""]}",0,",Écoivres","[0.0, 0.0]"
+14,AWD00015uv,diary,3,4,1919-03-23 00:00:00 UTC,23 Mar 1919,"Suby Coloyne, Sully Cologne, Soby Cologne, Suly Cologne","[0.0, 0.0]","",domestic,religion,{},0,",Écoivres","[0.0, 0.0]"
+20,AWD00015uv,diary,3,3,1919-03-23 00:00:00 UTC,23 Mar 1919,"Suby Coloyne, Sully Cologne, Soby Cologne, Suly Cologne","[0.0, 0.0]","",person,other T Hunter Boyle,"{""first""=>[""T""], ""surname""=>[""Hunter Boyle""], ""rank""=>[""other""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",0,",Écoivres","[0.0, 0.0]"
+21,AWD00015uv,diary,3,4,1919-03-24 00:00:00 UTC,24 Mar 1919,"Suby Coloyne, Sully Cologne, Soby Cologne, Suly Cologne","[0.0, 0.0]","",diaryDate,24 Mar 1919,"{""day""=>[""24""], ""month""=>[""Mar""], ""year""=>[""1919""]}",0,",Écoivres","[0.0, 0.0]"
+23,AWD00015uv,diary,3,8,1919-03-24 00:00:00 UTC,24 Mar 1919,"Suby Coloyne, Sully Cologne, Soby Cologne, Suly Cologne","[0.0, 0.0]","",activity,training,{},0,",Écoivres","[0.0, 0.0]"
+26,AWD00015uv,diary,3,4,1919-03-25 00:00:00 UTC,25 Mar 1919,"Suby Coloyne, Sully Cologne, Soby Cologne, Suly Cologne","[0.0, 0.0]","",diaryDate,25 Mar 1919,"{""day""=>[""25""], ""month""=>[""Mar""], ""year""=>[""1919""]}",0,",Écoivres","[0.0, 0.0]"
+27,AWD00015uv,diary,3,3,1919-03-25 00:00:00 UTC,25 Mar 1919,"Suby Coloyne, Sully Cologne, Soby Cologne, Suly Cologne","[0.0, 0.0]","",activity,training,{},0,",Écoivres","[0.0, 0.0]"
+30,AWD00015uv,diary,3,2,1919-03-25 00:00:00 UTC,25 Mar 1919,"Suby Coloyne, Sully Cologne, Soby Cologne, Suly Cologne","[0.0, 0.0]","",activity,other,{},0,",Écoivres","[0.0, 0.0]"
+31,AWD00015uv,diary,3,3,1919-03-25 00:00:00 UTC,25 Mar 1919,"Suby Coloyne, Sully Cologne, Soby Cologne, Suly Cologne","[0.0, 0.0]","",activity,training,{},0,",Écoivres","[0.0, 0.0]"
+32,AWD00015uv,diary,3,5,1919-03-26 00:00:00 UTC,26 Mar 1919,"Suby Coloyne, Sully Cologne, Soby Cologne, Suly Cologne","[0.0, 0.0]","",diaryDate,26 Mar 1919,"{""day""=>[""26""], ""month""=>[""Mar""], ""year""=>[""1919""]}",0,",Écoivres","[0.0, 0.0]"
+34,AWD00015uv,diary,3,3,1919-03-26 00:00:00 UTC,26 Mar 1919,"Suby Coloyne, Sully Cologne, Soby Cologne, Suly Cologne","[0.0, 0.0]","",domestic,hygiene,{},0,",Écoivres","[0.0, 0.0]"
+35,AWD00015uv,diary,3,2,1919-03-26 00:00:00 UTC,26 Mar 1919,"Suby Coloyne, Sully Cologne, Soby Cologne, Suly Cologne","[0.0, 0.0]","",domestic,sport,{},0,",Écoivres","[0.0, 0.0]"
+38,AWD00015uv,diary,3,5,1919-03-27 00:00:00 UTC,27 Mar 1919,"Suby Coloyne, Sully Cologne, Soby Cologne, Suly Cologne","[0.0, 0.0]","",diaryDate,27 Mar 1919,"{""day""=>[""27""], ""month""=>[""Mar""], ""year""=>[""1919""]}",0,",Écoivres","[0.0, 0.0]"
+41,AWD00015uv,diary,3,3,1919-03-27 00:00:00 UTC,27 Mar 1919,"Suby Coloyne, Sully Cologne, Soby Cologne, Suly Cologne","[0.0, 0.0]","",domestic,parades,{},0,",Écoivres","[0.0, 0.0]"
+42,AWD00015uv,diary,3,2,1919-03-27 00:00:00 UTC,27 Mar 1919,"Suby Coloyne, Sully Cologne, Soby Cologne, Suly Cologne","[0.0, 0.0]","",domestic,hygiene,{},0,",Écoivres","[0.0, 0.0]"
+43,AWD00015uv,diary,3,3,1919-03-27 00:00:00 UTC,27 Mar 1919,"Suby Coloyne, Sully Cologne, Soby Cologne, Suly Cologne","[0.0, 0.0]","",activity,training,{},0,",Écoivres","[0.0, 0.0]"
+44,AWD00015uv,diary,3,2,1919-03-27 00:00:00 UTC,27 Mar 1919,"Suby Coloyne, Sully Cologne, Soby Cologne, Suly Cologne","[0.0, 0.0]","",domestic,sport,{},0,",Écoivres","[0.0, 0.0]"
+47,AWD00015uv,diary,3,2,1919-03-27 00:00:00 UTC,27 Mar 1919,"Suby Coloyne, Sully Cologne, Soby Cologne, Suly Cologne","[0.0, 0.0]","",domestic,hygiene,{},0,",Écoivres","[0.0, 0.0]"
+48,AWD00015uv,diary,3,4,1919-03-28 00:00:00 UTC,28 Mar 1919,"Suby Coloyne, Sully Cologne, Soby Cologne, Suly Cologne","[0.0, 0.0]","",diaryDate,28 Mar 1919,"{""day""=>[""28""], ""month""=>[""Mar""], ""year""=>[""1919""]}",0,",Écoivres","[0.0, 0.0]"
+55,AWD00015uv,diary,3,4,1919-03-29 00:00:00 UTC,29 Mar 1919,"Suby Coloyne, Sully Cologne, Soby Cologne, Suly Cologne","[0.0, 0.0]","",diaryDate,29 Mar 1919,"{""day""=>[""29""], ""month""=>[""Mar""], ""year""=>[""1919""]}",0,",Écoivres","[0.0, 0.0]"
+56,AWD00015uv,diary,3,2,1919-03-29 00:00:00 UTC,29 Mar 1919,"Suby Coloyne, Sully Cologne, Soby Cologne, Suly Cologne","[0.0, 0.0]","",domestic,inspections,{},0,",Écoivres","[0.0, 0.0]"
+57,AWD00015uv,diary,3,2,1919-03-29 00:00:00 UTC,29 Mar 1919,"Suby Coloyne, Sully Cologne, Soby Cologne, Suly Cologne","[0.0, 0.0]","",activity,training,{},0,",Écoivres","[0.0, 0.0]"
+61,AWD00015uv,diary,3,3,1919-03-29 00:00:00 UTC,29 Mar 1919,"Suby Coloyne, Sully Cologne, Soby Cologne, Suly Cologne","[0.0, 0.0]","",person,Colonel F G Adams,"{""first""=>[""F G""], ""surname""=>[""Adams""], ""rank""=>[""Colonel""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",0,",Écoivres","[0.0, 0.0]"
+1,AWD00015uw,diary,4,3,1919-03-30 00:00:00 UTC,30 Mar 1919,"Suby Coloyne, Sully Cologne, Soby Cologne, Suly Cologne","[0.0, 0.0]","",diaryDate,30 Mar 1919,"{""day""=>[""30""], ""month""=>[""Mar""], ""year""=>[""1919""]}",0,",Écoivres","[0.0, 0.0]"
+2,AWD00015uw,diary,4,4,1919-03-30 00:00:00 UTC,30 Mar 1919,"Suby Coloyne, Sully Cologne, Soby Cologne, Suly Cologne","[0.0, 0.0]","",domestic,religion,{},0,",Écoivres","[0.0, 0.0]"
+4,AWD00015uw,diary,4,3,1919-03-31 00:00:00 UTC,31 Mar 1919,"Suby Coloyne, Sully Cologne, Soby Cologne, Suly Cologne","[0.0, 0.0]","",diaryDate,31 Mar 1919,"{""day""=>[""31""], ""month""=>[""Mar""], ""year""=>[""1919""]}",0,",Écoivres","[0.0, 0.0]"
+5,AWD00015uw,diary,4,4,1919-03-31 00:00:00 UTC,31 Mar 1919,"Suby Coloyne, Sully Cologne, Soby Cologne, Suly Cologne","[0.0, 0.0]","",activity,training,{},0,",Écoivres","[0.0, 0.0]"
+6,AWD00015uw,diary,4,3,1919-03-31 00:00:00 UTC,31 Mar 1919,"Suby Coloyne, Sully Cologne, Soby Cologne, Suly Cologne","[0.0, 0.0]","",domestic,sport,{},0,",Écoivres","[0.0, 0.0]"
+7,AWD00015uw,diary,4,4,1919-03-31 00:00:00 UTC,31 Mar 1919,"Suby Coloyne, Sully Cologne, Soby Cologne, Suly Cologne","[0.0, 0.0]","",person,"Lieutenant Colonel ,L Nicholson","{""first""=>["""", ""L""], ""surname""=>[""Nicholson""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""51st Northumberland Fusiliers""]}",0,",Écoivres","[0.0, 0.0]"
+2,AWD00015ul,diary,6,6,1919-04-01 00:00:00 UTC,1 Apr 1919,"Suby Coloyne, Sully Cologne, Soby Cologne, Suly Cologne","[0.0, 0.0]","",diaryDate,1 Apr 1919,"{""day""=>[""1""], ""month""=>[""Apr""], ""year""=>[""1919""]}",0,",Écoivres","[0.0, 0.0]"
+3,AWD00015ul,diary,6,3,1919-04-01 00:00:00 UTC,1 Apr 1919,"Suby Coloyne, Sully Cologne, Soby Cologne, Suly Cologne","[0.0, 0.0]","",activity,other,{},0,",Écoivres","[0.0, 0.0]"
+4,AWD00015ul,diary,6,2,1919-04-01 00:00:00 UTC,1 Apr 1919,"Suly  bologoe, Suly Cologne","[2.28957, 50.32302]","",place,"Suly  bologoe, Suly Cologne","{""place""=>[""Suly  bologoe"", ""Suly Cologne""], ""location""=>[""true""], ""name""=>["""", ""Écoivres""], ""lat""=>["""", ""50.32302""], ""long""=>["""", ""2.28957""], ""id""=>["""", ""3020471""]}",0,",Écoivres","[0.0, 0.0]"
+7,AWD00015ul,diary,6,3,1919-04-01 00:00:00 UTC,1 Apr 1919,Cologne,"[6.95, 50.93333]","",place,Cologne,"{""place""=>[""Cologne""], ""location""=>[""true""], ""name""=>[""Köln""], ""lat""=>[""50.93333""], ""long""=>[""6.95""], ""id""=>[""2886242""]}",3031862,Bologne,"[5.14209, 48.20004]"
+9,AWD00015ul,diary,6,4,1919-04-01 00:00:00 UTC,1 Apr 1919,Cologne,"[6.95, 50.93333]","",person,Captain  Weeks,"{""first""=>[""""], ""surname""=>[""Weeks""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""RAMC""]}",3031862,Bologne,"[5.14209, 48.20004]"
+10,AWD00015ul,diary,6,4,1919-04-01 00:00:00 UTC,1 Apr 1919,Cologne,"[6.95, 50.93333]","",person,Colonel  Fawkes,"{""first""=>[""""], ""surname""=>[""Fawkes""], ""rank""=>[""Colonel""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",3031862,Bologne,"[5.14209, 48.20004]"
+12,AWD00015ul,diary,6,5,1919-04-01 00:00:00 UTC,1 Apr 1919,Cologne,"[6.95, 50.93333]","",domestic,sport,{},3031862,Bologne,"[5.14209, 48.20004]"
+13,AWD00015ul,diary,6,6,1919-04-02 00:00:00 UTC,2 Apr 1919,Cologne,"[6.95, 50.93333]","",diaryDate,2 Apr 1919,"{""day""=>[""2""], ""month""=>[""Apr""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+14,AWD00015ul,diary,6,6,1919-04-02 00:00:00 UTC,2 Apr 1919,Cologne,"[6.95, 50.93333]","",activity,training,{},3031862,Bologne,"[5.14209, 48.20004]"
+17,AWD00015ul,diary,6,4,1919-04-02 00:00:00 UTC,2 Apr 1919,Cologne,"[6.95, 50.93333]","",person, T E Wing,"{""first""=>[""T E""], ""surname""=>[""Wing""], ""rank""=>[""""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",3031862,Bologne,"[5.14209, 48.20004]"
+18,AWD00015ul,diary,6,6,1919-04-02 00:00:00 UTC,2 Apr 1919,Cologne,"[6.95, 50.93333]","",domestic,sport,{},3031862,Bologne,"[5.14209, 48.20004]"
+21,AWD00015ul,diary,6,5,1919-04-03 00:00:00 UTC,3 Apr 1919,Cologne,"[6.95, 50.93333]","",diaryDate,3 Apr 1919,"{""day""=>[""3""], ""month""=>[""Apr""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+22,AWD00015ul,diary,6,3,1919-04-03 00:00:00 UTC,3 Apr 1919,Cologne,"[6.95, 50.93333]","",activity,training,{},3031862,Bologne,"[5.14209, 48.20004]"
+24,AWD00015ul,diary,6,4,1919-04-03 00:00:00 UTC,3 Apr 1919,Cologne,"[6.95, 50.93333]","",activity,training,{},3031862,Bologne,"[5.14209, 48.20004]"
+25,AWD00015ul,diary,6,2,1919-04-03 00:00:00 UTC,3 Apr 1919,Cologne,"[6.95, 50.93333]","",domestic,inspections,{},3031862,Bologne,"[5.14209, 48.20004]"
+26,AWD00015ul,diary,6,3,1919-04-03 00:00:00 UTC,3 Apr 1919,Cologne,"[6.95, 50.93333]","",domestic,hygiene,{},3031862,Bologne,"[5.14209, 48.20004]"
+27,AWD00015ul,diary,6,2,1919-04-03 00:00:00 UTC,3 Apr 1919,Cologne,"[6.95, 50.93333]","",activity,training,{},3031862,Bologne,"[5.14209, 48.20004]"
+31,AWD00015ul,diary,6,6,1919-04-04 00:00:00 UTC,4 Apr 1919,Cologne,"[6.95, 50.93333]","",diaryDate,4 Apr 1919,"{""day""=>[""4""], ""month""=>[""Apr""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+32,AWD00015ul,diary,6,4,1919-04-04 00:00:00 UTC,4 Apr 1919,Cologne,"[6.95, 50.93333]","",domestic,parades,{},3031862,Bologne,"[5.14209, 48.20004]"
+33,AWD00015ul,diary,6,2,1919-04-04 00:00:00 UTC,4 Apr 1919,Cologne,"[6.95, 50.93333]","",activity,other,{},3031862,Bologne,"[5.14209, 48.20004]"
+34,AWD00015ul,diary,6,2,1919-04-04 00:00:00 UTC,4 Apr 1919,Cologne,"[6.95, 50.93333]","",domestic,other,{},3031862,Bologne,"[5.14209, 48.20004]"
+35,AWD00015ul,diary,6,5,1919-04-05 00:00:00 UTC,5 Apr 1919,Cologne,"[6.95, 50.93333]","",diaryDate,5 Apr 1919,"{""day""=>[""5""], ""month""=>[""Apr""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+36,AWD00015ul,diary,6,5,1919-04-05 00:00:00 UTC,5 Apr 1919,Cologne,"[6.95, 50.93333]","",domestic,inspections,{},3031862,Bologne,"[5.14209, 48.20004]"
+38,AWD00015ul,diary,6,6,1919-04-05 00:00:00 UTC,5 Apr 1919,Cologne,"[6.95, 50.93333]","",domestic,sport,{},3031862,Bologne,"[5.14209, 48.20004]"
+39,AWD00015ul,diary,6,6,1919-04-06 00:00:00 UTC,6 Apr 1919,Cologne,"[6.95, 50.93333]","",diaryDate,6 Apr 1919,"{""day""=>[""6""], ""month""=>[""Apr""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+40,AWD00015ul,diary,6,5,1919-04-06 00:00:00 UTC,6 Apr 1919,Cologne,"[6.95, 50.93333]","",domestic,religion,{},3031862,Bologne,"[5.14209, 48.20004]"
+1,AWD00015uj,diary,7,4,1919-04-07 00:00:00 UTC,7 Apr 1919,Cologne,"[6.95, 50.93333]","",diaryDate,7 Apr 1919,"{""day""=>[""7""], ""month""=>[""Apr""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+5,AWD00015uj,diary,7,6,1919-04-07 00:00:00 UTC,7 Apr 1919,Cologne,"[6.95, 50.93333]","",activity,training,{},3031862,Bologne,"[5.14209, 48.20004]"
+6,AWD00015uj,diary,7,2,1919-04-07 00:00:00 UTC,7 Apr 1919,"Sully Cologne, Suly Cologne","[2.28957, 50.32302]","",place,"Sully Cologne, Suly Cologne","{""place""=>[""Sully Cologne"", ""Suly Cologne""], ""location""=>[""true""], ""name""=>["""", ""Écoivres""], ""lat""=>["""", ""50.32302""], ""long""=>["""", ""2.28957""], ""id""=>["""", ""3020471""]}",0,",Écoivres","[0.0, 0.0]"
+8,AWD00015uj,diary,7,3,1919-04-07 00:00:00 UTC,7 Apr 1919,Cologne,"[6.95, 50.93333]","",place,Cologne,"{""place""=>[""Cologne""], ""location""=>[""true""], ""name""=>[""Köln""], ""lat""=>[""50.93333""], ""long""=>[""6.95""], ""id""=>[""2886242""]}",3031862,Bologne,"[5.14209, 48.20004]"
+9,AWD00015uj,diary,7,4,1919-04-07 00:00:00 UTC,7 Apr 1919,Cologne,"[6.95, 50.93333]","",domestic,sport,{},3031862,Bologne,"[5.14209, 48.20004]"
+10,AWD00015uj,diary,7,2,1919-04-07 00:00:00 UTC,7 Apr 1919,Cologne,"[6.95, 50.93333]","",diaryDate,7 Apr 1919,"{""day""=>[""7""], ""month""=>[""Apr""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+11,AWD00015uj,diary,7,6,1919-04-07 00:00:00 UTC,7 Apr 1919,Cologne,"[6.95, 50.93333]","",domestic,hygiene,{},3031862,Bologne,"[5.14209, 48.20004]"
+13,AWD00015uj,diary,7,2,1919-04-07 00:00:00 UTC,7 Apr 1919,Cologne,"[6.95, 50.93333]","",domestic,sport,{},3031862,Bologne,"[5.14209, 48.20004]"
+14,AWD00015uj,diary,7,5,1919-04-08 00:00:00 UTC,8 Apr 1919,Cologne,"[6.95, 50.93333]","",diaryDate,8 Apr 1919,"{""day""=>[""8""], ""month""=>[""Apr""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+16,AWD00015uj,diary,7,5,1919-04-08 00:00:00 UTC,8 Apr 1919,Cologne,"[6.95, 50.93333]","",activity,training,{},3031862,Bologne,"[5.14209, 48.20004]"
+19,AWD00015uj,diary,7,4,1919-04-08 00:00:00 UTC,8 Apr 1919,Cologne,"[6.95, 50.93333]","",domestic,sport,{},3031862,Bologne,"[5.14209, 48.20004]"
+20,AWD00015uj,diary,7,2,1919-04-08 00:00:00 UTC,8 Apr 1919,Cologne,"[6.95, 50.93333]","",domestic,hygiene,{},3031862,Bologne,"[5.14209, 48.20004]"
+22,AWD00015uj,diary,7,3,1919-04-08 00:00:00 UTC,8 Apr 1919,Cologne,"[6.95, 50.93333]","",domestic,hygiene,{},3031862,Bologne,"[5.14209, 48.20004]"
+24,AWD00015uj,diary,7,2,1919-04-08 00:00:00 UTC,8 Apr 1919,Cologne,"[6.95, 50.93333]","",domestic,sport,{},3031862,Bologne,"[5.14209, 48.20004]"
+25,AWD00015uj,diary,7,3,1919-04-09 00:00:00 UTC,9 Apr 1919,Cologne,"[6.95, 50.93333]","",diaryDate,9 Apr 1919,"{""day""=>[""9""], ""month""=>[""Apr""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+26,AWD00015uj,diary,7,3,1919-04-09 00:00:00 UTC,9 Apr 1919,Cologne,"[6.95, 50.93333]","",person,"Lieutenant Colonel B,L S C,L St C Nicholson","{""first""=>[""B"", ""L S C"", ""L St C""], ""surname""=>[""Nicholson""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""departed_posted""], ""unit""=>[""""]}",3031862,Bologne,"[5.14209, 48.20004]"
+29,AWD00015uj,diary,7,3,1919-04-09 00:00:00 UTC,9 Apr 1919,Cologne,"[6.95, 50.93333]","",domestic,parades,{},3031862,Bologne,"[5.14209, 48.20004]"
+30,AWD00015uj,diary,7,3,1919-04-09 00:00:00 UTC,9 Apr 1919,Cologne,"[6.95, 50.93333]","",activity,training,{},3031862,Bologne,"[5.14209, 48.20004]"
+32,AWD00015uj,diary,7,3,1919-04-09 00:00:00 UTC,9 Apr 1919,Cologne,"[6.95, 50.93333]","",diaryDate,9 Apr 1919,"{""day""=>[""9""], ""month""=>[""Apr""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+33,AWD00015uj,diary,7,6,1919-04-09 00:00:00 UTC,9 Apr 1919,Cologne,"[6.95, 50.93333]","",domestic,sport,{},3031862,Bologne,"[5.14209, 48.20004]"
+35,AWD00015uj,diary,7,6,1919-04-10 00:00:00 UTC,10 Apr 1919,Cologne,"[6.95, 50.93333]","",diaryDate,10 Apr 1919,"{""day""=>[""10""], ""month""=>[""Apr""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+38,AWD00015uj,diary,7,6,1919-04-10 00:00:00 UTC,10 Apr 1919,Cologne,"[6.95, 50.93333]","",activity,training,{},3031862,Bologne,"[5.14209, 48.20004]"
+39,AWD00015uj,diary,7,4,1919-04-10 00:00:00 UTC,10 Apr 1919,Cologne,"[6.95, 50.93333]","",domestic,sport,{},3031862,Bologne,"[5.14209, 48.20004]"
+40,AWD00015uj,diary,7,6,1919-04-10 00:00:00 UTC,10 Apr 1919,Cologne,"[6.95, 50.93333]","",domestic,hygiene,{},3031862,Bologne,"[5.14209, 48.20004]"
+43,AWD00015uj,diary,7,5,1919-04-11 00:00:00 UTC,11 Apr 1919,Cologne,"[6.95, 50.93333]","",diaryDate,11 Apr 1919,"{""day""=>[""11""], ""month""=>[""Apr""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+44,AWD00015uj,diary,7,4,1919-04-11 00:00:00 UTC,11 Apr 1919,Cologne,"[6.95, 50.93333]","",person,",other F G Adkins","{""first""=>[""F G""], ""surname""=>[""Adkins""], ""rank""=>["""", ""other""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",3031862,Bologne,"[5.14209, 48.20004]"
+46,AWD00015uj,diary,7,3,1919-04-11 00:00:00 UTC,11 Apr 1919,Cologne,"[6.95, 50.93333]","",domestic,sport,{},3031862,Bologne,"[5.14209, 48.20004]"
+51,AWD00015uj,diary,7,4,1919-04-12 00:00:00 UTC,12 Apr 1919,Cologne,"[6.95, 50.93333]","",diaryDate,12 Apr 1919,"{""day""=>[""12""], ""month""=>[""Apr""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+52,AWD00015uj,diary,7,2,1919-04-12 00:00:00 UTC,12 Apr 1919,Cologne,"[6.95, 50.93333]","",domestic,other,{},3031862,Bologne,"[5.14209, 48.20004]"
+56,AWD00015uj,diary,7,6,1919-04-12 00:00:00 UTC,12 Apr 1919,Cologne,"[6.95, 50.93333]","",domestic,sport,{},3031862,Bologne,"[5.14209, 48.20004]"
+59,AWD00015uj,diary,7,5,1919-04-13 00:00:00 UTC,13 Apr 1919,Cologne,"[6.95, 50.93333]","",diaryDate,13 Apr 1919,"{""day""=>[""13""], ""month""=>[""Apr""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+60,AWD00015uj,diary,7,6,1919-04-13 00:00:00 UTC,13 Apr 1919,Cologne,"[6.95, 50.93333]","",domestic,religion,{},3031862,Bologne,"[5.14209, 48.20004]"
+62,AWD00015uj,diary,7,5,1919-04-14 00:00:00 UTC,14 Apr 1919,Cologne,"[6.95, 50.93333]","",diaryDate,14 Apr 1919,"{""day""=>[""14""], ""month""=>[""Apr""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+64,AWD00015uj,diary,7,5,1919-04-14 00:00:00 UTC,14 Apr 1919,Cologne,"[6.95, 50.93333]","",activity,training,{},3031862,Bologne,"[5.14209, 48.20004]"
+68,AWD00015uj,diary,7,5,1919-04-14 00:00:00 UTC,14 Apr 1919,Cologne,"[6.95, 50.93333]","",domestic,sport,{},3031862,Bologne,"[5.14209, 48.20004]"
+1,AWD00015uk,diary,8,2,1919-04-21 00:00:00 UTC,21 Apr 1919,Cologne,"[6.95, 50.93333]","",diaryDate,21 Apr 1919,"{""day""=>[""21""], ""month""=>[""Apr""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+3,AWD00015uk,diary,8,6,1919-04-15 00:00:00 UTC,15 Apr 1919,Cologne,"[6.95, 50.93333]","",diaryDate,15 Apr 1919,"{""day""=>[""15""], ""month""=>[""Apr""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+4,AWD00015uk,diary,8,2,1919-04-15 00:00:00 UTC,15 Apr 1919,"Sully Cologne, Suly Cologne","[2.28957, 50.32302]","",place,"Sully Cologne, Suly Cologne","{""place""=>[""Sully Cologne"", ""Suly Cologne""], ""location""=>[""true""], ""name""=>["""", ""Écoivres""], ""lat""=>["""", ""50.32302""], ""long""=>["""", ""2.28957""], ""id""=>["""", ""3020471""]}",0,",Écoivres","[0.0, 0.0]"
+5,AWD00015uk,diary,8,6,1919-04-15 00:00:00 UTC,15 Apr 1919,"Sully Cologne, Suly Cologne","[2.28957, 50.32302]","",activity,training,{},0,",Écoivres","[0.0, 0.0]"
+6,AWD00015uk,diary,8,3,1919-04-15 00:00:00 UTC,15 Apr 1919,Cologne,"[6.95, 50.93333]","",place,Cologne,"{""place""=>[""Cologne""], ""location""=>[""true""], ""name""=>[""Köln""], ""lat""=>[""50.93333""], ""long""=>[""6.95""], ""id""=>[""2886242""]}",3031862,Bologne,"[5.14209, 48.20004]"
+8,AWD00015uk,diary,8,6,1919-04-15 00:00:00 UTC,15 Apr 1919,Cologne,"[6.95, 50.93333]","",domestic,sport,{},3031862,Bologne,"[5.14209, 48.20004]"
+9,AWD00015uk,diary,8,5,1919-04-16 00:00:00 UTC,16 Apr 1919,Cologne,"[6.95, 50.93333]","",diaryDate,16 Apr 1919,"{""day""=>[""16""], ""month""=>[""Apr""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+11,AWD00015uk,diary,8,6,1919-04-16 00:00:00 UTC,16 Apr 1919,Cologne,"[6.95, 50.93333]","",activity,training,{},3031862,Bologne,"[5.14209, 48.20004]"
+14,AWD00015uk,diary,8,6,1919-04-16 00:00:00 UTC,16 Apr 1919,Cologne,"[6.95, 50.93333]","",domestic,sport,{},3031862,Bologne,"[5.14209, 48.20004]"
+15,AWD00015uk,diary,8,5,1919-04-17 00:00:00 UTC,17 Apr 1919,Cologne,"[6.95, 50.93333]","",diaryDate,17 Apr 1919,"{""day""=>[""17""], ""month""=>[""Apr""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+18,AWD00015uk,diary,8,4,1919-04-17 00:00:00 UTC,17 Apr 1919,Cologne,"[6.95, 50.93333]","",activity,training,{},3031862,Bologne,"[5.14209, 48.20004]"
+20,AWD00015uk,diary,8,6,1919-04-17 00:00:00 UTC,17 Apr 1919,Cologne,"[6.95, 50.93333]","",domestic,sport,{},3031862,Bologne,"[5.14209, 48.20004]"
+22,AWD00015uk,diary,8,6,1919-04-18 00:00:00 UTC,18 Apr 1919,Cologne,"[6.95, 50.93333]","",diaryDate,18 Apr 1919,"{""day""=>[""18""], ""month""=>[""Apr""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+23,AWD00015uk,diary,8,6,1919-04-18 00:00:00 UTC,18 Apr 1919,Cologne,"[6.95, 50.93333]","",domestic,religion,{},3031862,Bologne,"[5.14209, 48.20004]"
+24,AWD00015uk,diary,8,2,1919-04-18 00:00:00 UTC,18 Apr 1919,Cologne,"[6.95, 50.93333]","",domestic,parades,{},3031862,Bologne,"[5.14209, 48.20004]"
+27,AWD00015uk,diary,8,5,1919-04-18 00:00:00 UTC,18 Apr 1919,Cologne,"[6.95, 50.93333]","",domestic,sport,{},3031862,Bologne,"[5.14209, 48.20004]"
+31,AWD00015uk,diary,8,5,1919-04-19 00:00:00 UTC,19 Apr 1919,Cologne,"[6.95, 50.93333]","",diaryDate,19 Apr 1919,"{""day""=>[""19""], ""month""=>[""Apr""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+34,AWD00015uk,diary,8,6,1919-04-19 00:00:00 UTC,19 Apr 1919,Cologne,"[6.95, 50.93333]","",domestic,sport,{},3031862,Bologne,"[5.14209, 48.20004]"
+36,AWD00015uk,diary,8,6,1919-04-20 00:00:00 UTC,20 Apr 1919,Cologne,"[6.95, 50.93333]","",diaryDate,20 Apr 1919,"{""day""=>[""20""], ""month""=>[""Apr""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+37,AWD00015uk,diary,8,5,1919-04-20 00:00:00 UTC,20 Apr 1919,Cologne,"[6.95, 50.93333]","",domestic,religion,{},3031862,Bologne,"[5.14209, 48.20004]"
+38,AWD00015uk,diary,8,2,1919-04-20 00:00:00 UTC,20 Apr 1919,Cologne,"[6.95, 50.93333]","",domestic,parades,{},3031862,Bologne,"[5.14209, 48.20004]"
+39,AWD00015uk,diary,8,6,1919-04-21 00:00:00 UTC,21 Apr 1919,Cologne,"[6.95, 50.93333]","",diaryDate,21 Apr 1919,"{""day""=>[""21""], ""month""=>[""Apr""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+40,AWD00015uk,diary,8,6,1919-04-21 00:00:00 UTC,21 Apr 1919,Cologne,"[6.95, 50.93333]","",activity,training,{},3031862,Bologne,"[5.14209, 48.20004]"
+43,AWD00015uk,diary,8,6,1919-04-21 00:00:00 UTC,21 Apr 1919,Cologne,"[6.95, 50.93333]","",domestic,sport,{},3031862,Bologne,"[5.14209, 48.20004]"
+1,AWD00015us,diary,9,5,1919-04-22 00:00:00 UTC,22 Apr 1919,Cologne,"[6.95, 50.93333]","",diaryDate,22 Apr 1919,"{""day""=>[""22""], ""month""=>[""Apr""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+2,AWD00015us,diary,9,2,1919-04-22 00:00:00 UTC,22 Apr 1919,"Sully Cologne, Suly Cologne","[2.28957, 50.32302]","",place,"Sully Cologne, Suly Cologne","{""place""=>[""Sully Cologne"", ""Suly Cologne""], ""location""=>[""true""], ""name""=>["""", ""Écoivres""], ""lat""=>["""", ""50.32302""], ""long""=>["""", ""2.28957""], ""id""=>["""", ""3020471""]}",0,",Écoivres","[0.0, 0.0]"
+4,AWD00015us,diary,9,6,1919-04-22 00:00:00 UTC,22 Apr 1919,"Sully Cologne, Suly Cologne","[2.28957, 50.32302]","",activity,training,{},0,",Écoivres","[0.0, 0.0]"
+5,AWD00015us,diary,9,2,1919-04-22 00:00:00 UTC,22 Apr 1919,Cologne,"[6.95, 50.93333]","",place,Cologne,"{""place""=>[""Cologne""], ""location""=>[""true""], ""name""=>[""Köln"", """"], ""lat""=>[""50.93333"", """"], ""long""=>[""6.95"", """"], ""id""=>[""2886242"", """"]}",3031862,Bologne,"[5.14209, 48.20004]"
+6,AWD00015us,diary,9,2,1919-04-22 00:00:00 UTC,22 Apr 1919,Cologne,"[6.95, 50.93333]","",diaryDate,22 Apr 1919,"{""day""=>[""22""], ""month""=>[""Apr""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+8,AWD00015us,diary,9,3,1919-04-22 00:00:00 UTC,22 Apr 1919,Cologne,"[6.95, 50.93333]","",domestic,sport,{},3031862,Bologne,"[5.14209, 48.20004]"
+9,AWD00015us,diary,9,2,1919-04-22 00:00:00 UTC,22 Apr 1919,Cologne,"[6.95, 50.93333]","",activity,training,{},3031862,Bologne,"[5.14209, 48.20004]"
+10,AWD00015us,diary,9,6,1919-04-23 00:00:00 UTC,23 Apr 1919,Cologne,"[6.95, 50.93333]","",diaryDate,23 Apr 1919,"{""day""=>[""23""], ""month""=>[""Apr""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+14,AWD00015us,diary,9,13,1919-04-23 00:00:00 UTC,23 Apr 1919,Cologne,"[6.95, 50.93333]","",domestic,sport,{},3031862,Bologne,"[5.14209, 48.20004]"
+16,AWD00015us,diary,9,6,1919-04-24 00:00:00 UTC,24 Apr 1919,Cologne,"[6.95, 50.93333]","",diaryDate,24 Apr 1919,"{""day""=>[""24""], ""month""=>[""Apr""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+19,AWD00015us,diary,9,7,1919-04-24 00:00:00 UTC,24 Apr 1919,Cologne,"[6.95, 50.93333]","",activity,training,{},3031862,Bologne,"[5.14209, 48.20004]"
+24,AWD00015us,diary,9,3,1919-04-24 00:00:00 UTC,24 Apr 1919,Cologne,"[6.95, 50.93333]","",person,Chaplain G H Heaslett,"{""first""=>[""G H""], ""surname""=>[""Heaslett""], ""rank""=>[""Chaplain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",3031862,Bologne,"[5.14209, 48.20004]"
+27,AWD00015us,diary,9,2,1919-04-24 00:00:00 UTC,24 Apr 1919,Cologne,"[6.95, 50.93333]","",domestic,other,{},3031862,Bologne,"[5.14209, 48.20004]"
+28,AWD00015us,diary,9,6,1919-04-24 00:00:00 UTC,24 Apr 1919,Cologne,"[6.95, 50.93333]","",activity,training,{},3031862,Bologne,"[5.14209, 48.20004]"
+29,AWD00015us,diary,9,6,1919-04-25 00:00:00 UTC,25 Apr 1919,Cologne,"[6.95, 50.93333]","",diaryDate,25 Apr 1919,"{""day""=>[""25""], ""month""=>[""Apr""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+33,AWD00015us,diary,9,5,1919-04-25 00:00:00 UTC,25 Apr 1919,Cologne,"[6.95, 50.93333]","",domestic,sport,{},3031862,Bologne,"[5.14209, 48.20004]"
+1,AWD00015uo,diary,10,3,1919-04-26 00:00:00 UTC,26 Apr 1919,Cologne,"[6.95, 50.93333]","",diaryDate,26 Apr 1919,"{""day""=>[""26""], ""month""=>[""Apr""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+4,AWD00015uo,diary,10,3,1919-04-26 00:00:00 UTC,26 Apr 1919,Suly Cologne,"[0.0, 0.0]","",place,Suly Cologne,"{""place""=>[""Suly Cologne""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",0,",Écoivres","[0.0, 0.0]"
+6,AWD00015uo,diary,10,3,1919-04-26 00:00:00 UTC,26 Apr 1919,Suly Cologne,"[0.0, 0.0]","",diaryDate,26 Apr 1919,"{""day""=>[""26""], ""month""=>[""Apr""], ""year""=>[""1919""]}",0,",Écoivres","[0.0, 0.0]"
+9,AWD00015uo,diary,10,3,1919-04-26 00:00:00 UTC,26 Apr 1919,Suly Cologne,"[0.0, 0.0]","",weather,rain,{},0,",Écoivres","[0.0, 0.0]"
+10,AWD00015uo,diary,10,6,1919-04-27 00:00:00 UTC,27 Apr 1919,Suly Cologne,"[0.0, 0.0]","",diaryDate,27 Apr 1919,"{""day""=>[""27""], ""month""=>[""Apr""], ""year""=>[""1919""]}",0,",Écoivres","[0.0, 0.0]"
+11,AWD00015uo,diary,10,6,1919-04-27 00:00:00 UTC,27 Apr 1919,Suly Cologne,"[0.0, 0.0]","",domestic,religion,{},0,",Écoivres","[0.0, 0.0]"
+12,AWD00015uo,diary,10,3,1919-04-28 00:00:00 UTC,28 Apr 1919,Suly Cologne,"[0.0, 0.0]","",diaryDate,28 Apr 1919,"{""day""=>[""28""], ""month""=>[""Apr""], ""year""=>[""1919""]}",0,",Écoivres","[0.0, 0.0]"
+14,AWD00015uo,diary,10,9,1919-04-28 00:00:00 UTC,28 Apr 1919,Suly Cologne,"[0.0, 0.0]","",activity,training,{},0,",Écoivres","[0.0, 0.0]"
+15,AWD00015uo,diary,10,3,1919-04-28 00:00:00 UTC,28 Apr 1919,Suly Cologne,"[0.0, 0.0]","",diaryDate,28 Apr 1919,"{""day""=>[""28""], ""month""=>[""Apr""], ""year""=>[""1919""]}",0,",Écoivres","[0.0, 0.0]"
+16,AWD00015uo,diary,10,5,1919-04-28 00:00:00 UTC,28 Apr 1919,Suly Cologne,"[0.0, 0.0]","",domestic,hygiene,{},0,",Écoivres","[0.0, 0.0]"
+18,AWD00015uo,diary,10,2,1919-04-28 00:00:00 UTC,28 Apr 1919,Suly Cologne,"[0.0, 0.0]","",domestic,parades,{},0,",Écoivres","[0.0, 0.0]"
+20,AWD00015uo,diary,10,6,1919-04-29 00:00:00 UTC,29 Apr 1919,Suly Cologne,"[0.0, 0.0]","",diaryDate,29 Apr 1919,"{""day""=>[""29""], ""month""=>[""Apr""], ""year""=>[""1919""]}",0,",Écoivres","[0.0, 0.0]"
+21,AWD00015uo,diary,10,2,1919-04-29 00:00:00 UTC,29 Apr 1919,Suly Cologne,"[0.0, 0.0]","",person,",other  Morris","{""first""=>[""""], ""surname""=>[""Morris""], ""rank""=>["""", ""other""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",0,",Écoivres","[0.0, 0.0]"
+22,AWD00015uo,diary,10,2,1919-04-29 00:00:00 UTC,29 Apr 1919,Suly Cologne,"[0.0, 0.0]","",person,"other, Lord, Movri, Lord Morris","{""first""=>[""Lord"", """"], ""surname""=>[""Movri"", ""Lord Morris""], ""rank""=>[""other"", """"], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",0,",Écoivres","[0.0, 0.0]"
+27,AWD00015uo,diary,10,4,1919-04-29 00:00:00 UTC,29 Apr 1919,Suly Cologne,"[0.0, 0.0]","",domestic,hygiene,{},0,",Écoivres","[0.0, 0.0]"
+28,AWD00015uo,diary,10,6,1919-04-29 00:00:00 UTC,29 Apr 1919,Suly Cologne,"[0.0, 0.0]","",activity,training,{},0,",Écoivres","[0.0, 0.0]"
+30,AWD00015uo,diary,10,2,1919-04-29 00:00:00 UTC,29 Apr 1919,Suly Cologne,"[0.0, 0.0]","",domestic,hygiene,{},0,",Écoivres","[0.0, 0.0]"
+31,AWD00015uo,diary,10,2,1919-04-30 00:00:00 UTC,30 Apr 1919,Suly Cologne,"[0.0, 0.0]","",diaryDate,30 Apr 1919,"{""day""=>[""30""], ""month""=>[""Apr""], ""year""=>[""1919""]}",0,",Écoivres","[0.0, 0.0]"
+32,AWD00015uo,diary,10,6,1919-04-30 00:00:00 UTC,30 Apr 1919,Suly Cologne,"[0.0, 0.0]","",activity,training,{},0,",Écoivres","[0.0, 0.0]"
+33,AWD00015uo,diary,10,4,1919-04-30 00:00:00 UTC,30 Apr 1919,Suly Cologne,"[0.0, 0.0]","",diaryDate,30 Apr 1919,"{""day""=>[""30""], ""month""=>[""Apr""], ""year""=>[""1919""]}",0,",Écoivres","[0.0, 0.0]"
+37,AWD00015uo,diary,10,6,1919-04-30 00:00:00 UTC,30 Apr 1919,Suly Cologne,"[0.0, 0.0]","",domestic,sport,{},0,",Écoivres","[0.0, 0.0]"
+1,AWD00015uh,diary,11,2,1919-05-01 00:00:00 UTC,1 May 1919,Suly Cologne,"[0.0, 0.0]","",diaryDate,1 May 1919,"{""day""=>[""1""], ""month""=>[""May""], ""year""=>[""1919""]}",0,",Écoivres","[0.0, 0.0]"
+2,AWD00015uh,diary,11,2,1919-05-01 00:00:00 UTC,1 May 1919,Suly Cologne,"[0.0, 0.0]","",domestic,other,{},0,",Écoivres","[0.0, 0.0]"
+3,AWD00015uh,diary,11,5,1919-05-01 00:00:00 UTC,1 May 1919,Suly Cologne,"[0.0, 0.0]","",person,other  Everrard,"{""first""=>[""""], ""surname""=>[""Everrard""], ""rank""=>[""other""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",0,",Écoivres","[0.0, 0.0]"
+4,AWD00015uh,diary,11,3,1919-05-01 00:00:00 UTC,1 May 1919,Suly Cologne,"[0.0, 0.0]","",activity,training,{},0,",Écoivres","[0.0, 0.0]"
+5,AWD00015uh,diary,11,4,1919-05-01 00:00:00 UTC,1 May 1919,Suly Cologne,"[0.0, 0.0]","",diaryDate,1 May 1919,"{""day""=>[""1""], ""month""=>[""May""], ""year""=>[""1919""]}",0,",Écoivres","[0.0, 0.0]"
+7,AWD00015uh,diary,11,6,1919-05-01 00:00:00 UTC,1 May 1919,Suly Cologne,"[0.0, 0.0]","",domestic,hygiene,{},0,",Écoivres","[0.0, 0.0]"
+8,AWD00015uh,diary,11,5,1919-05-01 00:00:00 UTC,1 May 1919,Suly Cologne,"[0.0, 0.0]","",domestic,sport,{},0,",Écoivres","[0.0, 0.0]"
+9,AWD00015uh,diary,11,2,1919-05-01 00:00:00 UTC,1 May 1919,Suly Cologne,"[0.0, 0.0]","",domestic,other,{},0,",Écoivres","[0.0, 0.0]"
+10,AWD00015uh,diary,11,4,1919-05-01 00:00:00 UTC,1 May 1919,Sulz Cologne,"[0.0, 0.0]","",place,Sulz Cologne,"{""place""=>[""Sulz Cologne""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+11,AWD00015uh,diary,11,3,1919-05-01 00:00:00 UTC,1 May 1919,Sulz Cologne,"[0.0, 0.0]","",activity,training,{},,,
+12,AWD00015uh,diary,11,6,1919-05-02 00:00:00 UTC,2 May 1919,Sulz Cologne,"[0.0, 0.0]","",diaryDate,2 May 1919,"{""day""=>[""2""], ""month""=>[""May""], ""year""=>[""1919""]}",,,
+13,AWD00015uh,diary,11,2,1919-05-02 00:00:00 UTC,2 May 1919,Cologne,"[0.0, 0.0]","",place,Cologne,"{""place""=>[""Cologne""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3031862,Bologne,"[5.14209, 48.20004]"
+14,AWD00015uh,diary,11,2,1919-05-02 00:00:00 UTC,2 May 1919,Cologne,"[0.0, 0.0]","",domestic,other,{},3031862,Bologne,"[5.14209, 48.20004]"
+15,AWD00015uh,diary,11,2,1919-05-02 00:00:00 UTC,2 May 1919,Cologne,"[0.0, 0.0]","",activity,training,{},3031862,Bologne,"[5.14209, 48.20004]"
+17,AWD00015uh,diary,11,6,1919-05-03 00:00:00 UTC,3 May 1919,Cologne,"[0.0, 0.0]","",diaryDate,3 May 1919,"{""day""=>[""3""], ""month""=>[""May""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+19,AWD00015uh,diary,11,2,1919-05-03 00:00:00 UTC,3 May 1919,Cologne,"[0.0, 0.0]","",domestic,inspections,{},3031862,Bologne,"[5.14209, 48.20004]"
+20,AWD00015uh,diary,11,5,1919-05-03 00:00:00 UTC,3 May 1919,Cologne,"[0.0, 0.0]","",person,other W Robertson,"{""first""=>[""W""], ""surname""=>[""Robertson""], ""rank""=>[""other""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",3031862,Bologne,"[5.14209, 48.20004]"
+22,AWD00015uh,diary,11,2,1919-05-03 00:00:00 UTC,3 May 1919,Cologne,"[0.0, 0.0]","",activity,other,{},3031862,Bologne,"[5.14209, 48.20004]"
+23,AWD00015uh,diary,11,6,1919-05-04 00:00:00 UTC,4 May 1919,Cologne,"[0.0, 0.0]","",diaryDate,4 May 1919,"{""day""=>[""4""], ""month""=>[""May""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+24,AWD00015uh,diary,11,4,1919-05-04 00:00:00 UTC,4 May 1919,Cologne,"[0.0, 0.0]","",domestic,religion,{},3031862,Bologne,"[5.14209, 48.20004]"
+25,AWD00015uh,diary,11,6,1919-05-05 00:00:00 UTC,5 May 1919,Cologne,"[0.0, 0.0]","",diaryDate,5 May 1919,"{""day""=>[""5""], ""month""=>[""May""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+28,AWD00015uh,diary,11,3,1919-05-05 00:00:00 UTC,5 May 1919,Cologne,"[0.0, 0.0]","",unit,"52nd Northumberland Fusiliers, 52ND NORTHUMBERLAND FUSILIERS, 52 Northumberland Fusiliers","{""name""=>[""52nd Northumberland Fusiliers"", ""52ND NORTHUMBERLAND FUSILIERS"", ""52 Northumberland Fusiliers""], ""context""=>[""joined""]}",3031862,Bologne,"[5.14209, 48.20004]"
+29,AWD00015uh,diary,11,4,1919-05-05 00:00:00 UTC,5 May 1919,Cologne,"[0.0, 0.0]","",domestic,inspections,{},3031862,Bologne,"[5.14209, 48.20004]"
+30,AWD00015uh,diary,11,6,1919-05-06 00:00:00 UTC,6 May 1919,Cologne,"[0.0, 0.0]","",diaryDate,6 May 1919,"{""day""=>[""6""], ""month""=>[""May""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+32,AWD00015uh,diary,11,6,1919-05-06 00:00:00 UTC,6 May 1919,Cologne,"[0.0, 0.0]","",domestic,sport,{},3031862,Bologne,"[5.14209, 48.20004]"
+33,AWD00015uh,diary,11,6,1919-05-07 00:00:00 UTC,7 May 1919,Cologne,"[0.0, 0.0]","",diaryDate,7 May 1919,"{""day""=>[""7""], ""month""=>[""May""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+36,AWD00015uh,diary,11,2,1919-05-07 00:00:00 UTC,7 May 1919,Cologne,"[0.0, 0.0]","",person,"other ,Duke of Cannaught Duke of Connaught, ","{""first""=>["""", ""Duke of Cannaught""], ""surname""=>[""Duke of Connaught"", """"], ""rank""=>[""other""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",3031862,Bologne,"[5.14209, 48.20004]"
+37,AWD00015uh,diary,11,6,1919-05-08 00:00:00 UTC,8 May 1919,Cologne,"[0.0, 0.0]","",diaryDate,8 May 1919,"{""day""=>[""8""], ""month""=>[""May""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+41,AWD00015uh,diary,11,6,1919-05-09 00:00:00 UTC,9 May 1919,Cologne,"[0.0, 0.0]","",diaryDate,9 May 1919,"{""day""=>[""9""], ""month""=>[""May""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+42,AWD00015uh,diary,11,3,1919-05-09 00:00:00 UTC,9 May 1919,Cologne,"[0.0, 0.0]","",activity,other,{},3031862,Bologne,"[5.14209, 48.20004]"
+43,AWD00015uh,diary,11,6,1919-05-10 00:00:00 UTC,10 May 1919,Cologne,"[0.0, 0.0]","",diaryDate,10 May 1919,"{""day""=>[""10""], ""month""=>[""May""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+45,AWD00015uh,diary,11,6,1919-05-10 00:00:00 UTC,10 May 1919,Cologne,"[0.0, 0.0]","",domestic,sport,{},3031862,Bologne,"[5.14209, 48.20004]"
+46,AWD00015uh,diary,11,2,1919-05-10 00:00:00 UTC,10 May 1919,Cologne,"[0.0, 0.0]","",unit,West Hants,"{""name""=>[""West Hants""], ""context""=>[""joined"", ""other""]}",3031862,Bologne,"[5.14209, 48.20004]"
+47,AWD00015uh,diary,11,6,1919-05-11 00:00:00 UTC,11 May 1919,Cologne,"[0.0, 0.0]","",diaryDate,11 May 1919,"{""day""=>[""11""], ""month""=>[""May""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+48,AWD00015uh,diary,11,4,1919-05-11 00:00:00 UTC,11 May 1919,Cologne,"[0.0, 0.0]","",domestic,religion,{},3031862,Bologne,"[5.14209, 48.20004]"
+49,AWD00015uh,diary,11,6,1919-05-12 00:00:00 UTC,12 May 1919,Cologne,"[0.0, 0.0]","",diaryDate,12 May 1919,"{""day""=>[""12""], ""month""=>[""May""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+50,AWD00015uh,diary,11,5,1919-05-12 00:00:00 UTC,12 May 1919,Cologne,"[0.0, 0.0]","",activity,training,{},3031862,Bologne,"[5.14209, 48.20004]"
+52,AWD00015uh,diary,11,5,1919-05-12 00:00:00 UTC,12 May 1919,Cologne,"[0.0, 0.0]","",person,Signaller L R Moom,"{""first""=>[""L R""], ""surname""=>[""Moom""], ""rank""=>[""Signaller""], ""number""=>[""""], ""reason""=>[""casualty_non""], ""unit""=>[""""]}",3031862,Bologne,"[5.14209, 48.20004]"
+54,AWD00015uh,diary,11,6,1919-05-13 00:00:00 UTC,13 May 1919,Cologne,"[0.0, 0.0]","",diaryDate,13 May 1919,"{""day""=>[""13""], ""month""=>[""May""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+58,AWD00015uh,diary,11,5,1919-05-13 00:00:00 UTC,13 May 1919,Cologne,"[0.0, 0.0]","",domestic,inspections,{},3031862,Bologne,"[5.14209, 48.20004]"
+60,AWD00015uh,diary,11,5,1919-05-14 00:00:00 UTC,14 May 1919,Cologne,"[0.0, 0.0]","",diaryDate,14 May 1919,"{""day""=>[""14""], ""month""=>[""May""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+61,AWD00015uh,diary,11,5,1919-05-14 00:00:00 UTC,14 May 1919,Cologne,"[0.0, 0.0]","",domestic,sport,{},3031862,Bologne,"[5.14209, 48.20004]"
+1,AWD00015v3,diary,12,3,1919-05-14 00:00:00 UTC,14 May 1919,Cologne,"[0.0, 0.0]","",activity,training,{},3031862,Bologne,"[5.14209, 48.20004]"
+2,AWD00015v3,diary,12,2,1919-05-14 00:00:00 UTC,14 May 1919,Cologne,"[0.0, 0.0]","",domestic,other,{},3031862,Bologne,"[5.14209, 48.20004]"
+3,AWD00015v3,diary,12,2,1919-05-14 00:00:00 UTC,14 May 1919,Cologne,"[0.0, 0.0]","",person, Ven Archdeacon Jones,"{""first""=>[""Ven Archdeacon""], ""surname""=>[""Jones""], ""rank""=>[""""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",3031862,Bologne,"[5.14209, 48.20004]"
+5,AWD00015v3,diary,12,4,1919-05-14 00:00:00 UTC,14 May 1919,Cologne,"[0.0, 0.0]","",domestic,inspections,{},3031862,Bologne,"[5.14209, 48.20004]"
+6,AWD00015v3,diary,12,2,1919-05-14 00:00:00 UTC,14 May 1919,Cologne,"[0.0, 0.0]","",activity,other,{},3031862,Bologne,"[5.14209, 48.20004]"
+8,AWD00015v3,diary,12,5,1919-05-14 00:00:00 UTC,14 May 1919,Cologne,"[0.0, 0.0]","",domestic,sport,{},3031862,Bologne,"[5.14209, 48.20004]"
+9,AWD00015v3,diary,12,4,1919-05-14 00:00:00 UTC,14 May 1919,Cologne,"[0.0, 0.0]","",domestic,religion,{},3031862,Bologne,"[5.14209, 48.20004]"
+11,AWD00015v3,diary,12,2,1919-05-14 00:00:00 UTC,14 May 1919,Cologne,"[0.0, 0.0]","",activity,training,{},3031862,Bologne,"[5.14209, 48.20004]"
+12,AWD00015v3,diary,12,2,1919-05-14 00:00:00 UTC,14 May 1919,Cologne,"[0.0, 0.0]","",activity,other,{},3031862,Bologne,"[5.14209, 48.20004]"
+13,AWD00015v3,diary,12,3,1919-05-14 00:00:00 UTC,14 May 1919,Cologne,"[0.0, 0.0]","",activity,movement,{},3031862,Bologne,"[5.14209, 48.20004]"
+14,AWD00015v3,diary,12,2,1919-05-14 00:00:00 UTC,14 May 1919,Cologne,"[0.0, 0.0]","",activity,other,{},3031862,Bologne,"[5.14209, 48.20004]"
+18,AWD00015v3,diary,12,3,1919-05-14 00:00:00 UTC,14 May 1919,Cologne,"[0.0, 0.0]","",activity,other,{},3031862,Bologne,"[5.14209, 48.20004]"
+19,AWD00015v3,diary,12,4,1919-05-14 00:00:00 UTC,14 May 1919,Cologne,"[0.0, 0.0]","",domestic,religion,{},3031862,Bologne,"[5.14209, 48.20004]"
+20,AWD00015v3,diary,12,5,1919-05-14 00:00:00 UTC,14 May 1919,Cologne,"[0.0, 0.0]","",activity,training,{},3031862,Bologne,"[5.14209, 48.20004]"
+21,AWD00015v3,diary,12,3,1919-05-14 00:00:00 UTC,14 May 1919,Cologne,"[0.0, 0.0]","",activity,other,{},3031862,Bologne,"[5.14209, 48.20004]"
+24,AWD00015v3,diary,12,3,1919-05-14 00:00:00 UTC,14 May 1919,Cologne,"[0.0, 0.0]","",domestic,sport,{},3031862,Bologne,"[5.14209, 48.20004]"
+1,AWD00015up,diary,13,3,1919-05-14 00:00:00 UTC,14 May 1919,Cologne,"[0.0, 0.0]","",activity,other,{},3031862,Bologne,"[5.14209, 48.20004]"
+5,AWD00015up,diary,13,2,1919-05-14 00:00:00 UTC,14 May 1919,Cologne,"[0.0, 0.0]","",person,Lieutenant Colonel A C Girdwood,"{""first""=>[""A C""], ""surname""=>[""Girdwood""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""51st Northumberland Fusiliers""]}",3031862,Bologne,"[5.14209, 48.20004]"
+8,AWD00015up,diary,13,3,1919-05-31 00:00:00 UTC,31 May 1919,Cologne,"[0.0, 0.0]","",diaryDate,31 May 1919,"{""day""=>[""31""], ""month""=>[""May""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+4,AWD00015v4,diary,14,4,1919-05-31 00:00:00 UTC,31 May 1919,Sulz Cologne,"[0.0, 0.0]","",place,Sulz Cologne,"{""place""=>[""Sulz Cologne""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+5,AWD00015v4,diary,14,4,1919-06-01 00:00:00 UTC,1 Jun 1919,Sulz Cologne,"[0.0, 0.0]","",diaryDate,1 Jun 1919,"{""day""=>[""1""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+6,AWD00015v4,diary,14,5,1919-06-01 00:00:00 UTC,1 Jun 1919,Sulz Cologne,"[0.0, 0.0]","",domestic,religion,{},,,
+8,AWD00015v4,diary,14,4,1919-06-02 00:00:00 UTC,2 Jun 1919,Sulz Cologne,"[0.0, 0.0]","",diaryDate,2 Jun 1919,"{""day""=>[""2""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+9,AWD00015v4,diary,14,3,1919-06-02 00:00:00 UTC,2 Jun 1919,Sulz Cologne,"[0.0, 0.0]","",activity,training,{},,,
+10,AWD00015v4,diary,14,4,1919-06-03 00:00:00 UTC,3 Jun 1919,Sulz Cologne,"[0.0, 0.0]","",diaryDate,3 Jun 1919,"{""day""=>[""3""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+12,AWD00015v4,diary,14,4,1919-06-03 00:00:00 UTC,3 Jun 1919,Sulz Cologne,"[0.0, 0.0]","",activity,training,{},,,
+13,AWD00015v4,diary,14,6,1919-06-03 00:00:00 UTC,3 Jun 1919,Sulz Cologne,"[0.0, 0.0]","",domestic,sport,{},,,
+14,AWD00015v4,diary,14,3,1919-06-04 00:00:00 UTC,4 Jun 1919,Sulz Cologne,"[0.0, 0.0]","",diaryDate,4 Jun 1919,"{""day""=>[""4""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+17,AWD00015v4,diary,14,3,1919-06-05 00:00:00 UTC,5 Jun 1919,Sulz Cologne,"[0.0, 0.0]","",diaryDate,5 Jun 1919,"{""day""=>[""5""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+18,AWD00015v4,diary,14,4,1919-06-06 00:00:00 UTC,6 Jun 1919,Sulz Cologne,"[0.0, 0.0]","",diaryDate,6 Jun 1919,"{""day""=>[""6""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+19,AWD00015v4,diary,14,10,1919-06-06 00:00:00 UTC,6 Jun 1919,Sulz Cologne,"[0.0, 0.0]","",activity,training,{},,,
+21,AWD00015v4,diary,14,4,1919-06-07 00:00:00 UTC,7 Jun 1919,Sulz Cologne,"[0.0, 0.0]","",diaryDate,7 Jun 1919,"{""day""=>[""7""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+22,AWD00015v4,diary,14,4,1919-06-07 00:00:00 UTC,7 Jun 1919,Sulz Cologne,"[0.0, 0.0]","",domestic,sport,{},,,
+23,AWD00015v4,diary,14,5,1919-06-08 00:00:00 UTC,8 Jun 1919,Sulz Cologne,"[0.0, 0.0]","",diaryDate,8 Jun 1919,"{""day""=>[""8""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+24,AWD00015v4,diary,14,4,1919-06-08 00:00:00 UTC,8 Jun 1919,Sulz Cologne,"[0.0, 0.0]","",domestic,religion,{},,,
+25,AWD00015v4,diary,14,4,1919-06-09 00:00:00 UTC,9 Jun 1919,Sulz Cologne,"[0.0, 0.0]","",diaryDate,9 Jun 1919,"{""day""=>[""9""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+27,AWD00015v4,diary,14,2,1919-06-09 00:00:00 UTC,9 Jun 1919,Sulz Cologne,"[0.0, 0.0]","",domestic,other,{},,,
+28,AWD00015v4,diary,14,3,1919-06-10 00:00:00 UTC,10 Jun 1919,Sulz Cologne,"[0.0, 0.0]","",diaryDate,10 Jun 1919,"{""day""=>[""10""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+29,AWD00015v4,diary,14,4,1919-06-11 00:00:00 UTC,11 Jun 1919,Sulz Cologne,"[0.0, 0.0]","",diaryDate,11 Jun 1919,"{""day""=>[""11""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+30,AWD00015v4,diary,14,8,1919-06-11 00:00:00 UTC,11 Jun 1919,Sulz Cologne,"[0.0, 0.0]","",activity,training,{},,,
+31,AWD00015v4,diary,14,4,1919-06-11 00:00:00 UTC,11 Jun 1919,Sulz Cologne,"[0.0, 0.0]","",domestic,sport,{},,,
+32,AWD00015v4,diary,14,4,1919-06-12 00:00:00 UTC,12 Jun 1919,Sulz Cologne,"[0.0, 0.0]","",diaryDate,12 Jun 1919,"{""day""=>[""12""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+34,AWD00015v4,diary,14,4,1919-06-13 00:00:00 UTC,13 Jun 1919,Sulz Cologne,"[0.0, 0.0]","",diaryDate,13 Jun 1919,"{""day""=>[""13""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+38,AWD00015v4,diary,14,3,1919-06-14 00:00:00 UTC,14 Jun 1919,Sulz Cologne,"[0.0, 0.0]","",diaryDate,14 Jun 1919,"{""day""=>[""14""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+40,AWD00015v4,diary,14,2,1919-06-14 00:00:00 UTC,14 Jun 1919,Sulz Cologne,"[0.0, 0.0]","",activity,other,{},,,
+41,AWD00015v4,diary,14,4,1919-06-15 00:00:00 UTC,15 Jun 1919,Sulz Cologne,"[0.0, 0.0]","",diaryDate,15 Jun 1919,"{""day""=>[""15""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+42,AWD00015v4,diary,14,5,1919-06-15 00:00:00 UTC,15 Jun 1919,Sulz Cologne,"[0.0, 0.0]","",domestic,religion,{},,,
+43,AWD00015v4,diary,14,4,1919-06-16 00:00:00 UTC,16 Jun 1919,Sulz Cologne,"[0.0, 0.0]","",diaryDate,16 Jun 1919,"{""day""=>[""16""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+44,AWD00015v4,diary,14,4,1919-06-17 00:00:00 UTC,17 Jun 1919,Sulz Cologne,"[0.0, 0.0]","",diaryDate,17 Jun 1919,"{""day""=>[""17""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+45,AWD00015v4,diary,14,4,1919-06-18 00:00:00 UTC,18 Jun 1919,Sulz Cologne,"[0.0, 0.0]","",diaryDate,18 Jun 1919,"{""day""=>[""18""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+46,AWD00015v4,diary,14,2,1919-06-18 00:00:00 UTC,18 Jun 1919,Sulz Cologne,"[0.0, 0.0]","",activity,other,{},,,
+47,AWD00015v4,diary,14,2,1919-06-18 00:00:00 UTC,18 Jun 1919,Sulz Cologne,"[0.0, 0.0]","",unit,"9th London Brig, 9th London Regt..","{""name""=>[""9th London Brig"", ""9th London Regt..""], ""context""=>[""relieved"", ""relieved_by""]}",,,
+48,AWD00015v4,diary,14,4,1919-06-19 00:00:00 UTC,19 Jun 1919,Sulz Cologne,"[0.0, 0.0]","",diaryDate,19 Jun 1919,"{""day""=>[""19""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+49,AWD00015v4,diary,14,6,1919-06-19 00:00:00 UTC,19 Jun 1919,Sulz Cologne,"[0.0, 0.0]","",activity,movement,{},,,
+52,AWD00015v4,diary,14,3,1919-06-19 00:00:00 UTC,19 Jun 1919,Durschied,"[0.0, 0.0]","",place,Durschied,"{""place""=>[""Durschied""], ""location""=>[""true""], ""name""=>[""Sulz"", ""Dürscheid"", """"], ""lat""=>[""48.6425"", ""51.07148"", """"], ""long""=>[""10.92167"", ""7.08538"", """"], ""id""=>[""2824862"", ""2934272"", """"]}",,,
+55,AWD00015v4,diary,14,3,1919-06-19 00:00:00 UTC,19 Jun 1919,Durschied,"[0.0, 0.0]","",domestic,accomodation,{},,,
+56,AWD00015v4,diary,14,4,1919-06-20 00:00:00 UTC,20 Jun 1919,Durschied,"[0.0, 0.0]","",diaryDate,20 Jun 1919,"{""day""=>[""20""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+57,AWD00015v4,diary,14,2,1919-06-20 00:00:00 UTC,20 Jun 1919,Durschied,"[0.0, 0.0]","",domestic,parades,{},,,
+58,AWD00015v4,diary,14,5,1919-06-20 00:00:00 UTC,20 Jun 1919,Durschied,"[0.0, 0.0]","",activity,training,{},,,
+59,AWD00015v4,diary,14,2,1919-06-20 00:00:00 UTC,20 Jun 1919,Durschied,"[0.0, 0.0]","",activity,movement,{},,,
+61,AWD00015v4,diary,14,4,1919-06-20 00:00:00 UTC,20 Jun 1919,Broich,"[6.34065, 51.15689]","",place,Broich,"{""place""=>[""Broich""], ""location""=>[""true""], ""name""=>[""Broich""], ""lat""=>[""51.15689""], ""long""=>[""6.34065""], ""id""=>[""2943871""]}",,,
+62,AWD00015v4,diary,14,3,1919-06-20 15:15:00 UTC,20 Jun 1919,Broich,"[6.34065, 51.15689]",0315PM,time,0315PM,{},,,
+64,AWD00015v4,diary,14,2,1919-06-20 15:15:00 UTC,20 Jun 1919,Broich,"[6.34065, 51.15689]",0315PM,domestic,accomodation,{},,,
+65,AWD00015v4,diary,14,3,1919-06-21 00:00:00 UTC,21 Jun 1919,Broich,"[6.34065, 51.15689]","",diaryDate,21 Jun 1919,"{""day""=>[""21""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+66,AWD00015v4,diary,14,5,1919-06-21 00:00:00 UTC,21 Jun 1919,Broich,"[6.34065, 51.15689]","",activity,training,{},,,
+67,AWD00015v4,diary,14,5,1919-06-21 00:00:00 UTC,21 Jun 1919,Broich,"[6.34065, 51.15689]","",domestic,accomodation,{},,,
+68,AWD00015v4,diary,14,5,1919-06-21 00:00:00 UTC,21 Jun 1919,Broich,"[6.34065, 51.15689]","",domestic,sport,{},,,
+69,AWD00015v4,diary,14,5,1919-06-22 00:00:00 UTC,22 Jun 1919,Broich,"[6.34065, 51.15689]","",diaryDate,22 Jun 1919,"{""day""=>[""22""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+71,AWD00015v4,diary,14,4,1919-06-22 00:00:00 UTC,22 Jun 1919,Broich,"[6.34065, 51.15689]","",domestic,religion,{},,,
+72,AWD00015v4,diary,14,4,1919-06-23 00:00:00 UTC,23 Jun 1919,Broich,"[6.34065, 51.15689]","",diaryDate,23 Jun 1919,"{""day""=>[""23""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+73,AWD00015v4,diary,14,4,1919-06-23 00:00:00 UTC,23 Jun 1919,Broich,"[6.34065, 51.15689]","",domestic,parades,{},,,
+77,AWD00015v4,diary,14,3,1919-06-23 00:00:00 UTC,23 Jun 1919,Broich,"[6.34065, 51.15689]","",activity,reserve,{},,,
+79,AWD00015v4,diary,14,5,1919-06-23 00:00:00 UTC,23 Jun 1919,Broich,"[6.34065, 51.15689]","",domestic,sport,{},,,
+2,AWD00015ut,diary,15,5,1919-06-23 00:00:00 UTC,23 Jun 1919,Broich,"[6.34065, 51.15689]","",domestic,sport,{},,,
+4,AWD00015ut,diary,15,3,1919-06-23 00:00:00 UTC,23 Jun 1919,Broich,"[6.34065, 51.15689]","",domestic,parades,{},,,
+5,AWD00015ut,diary,15,6,1919-06-23 00:00:00 UTC,23 Jun 1919,Broich,"[6.34065, 51.15689]","",activity,training,{},,,
+6,AWD00015ut,diary,15,6,1919-06-23 00:00:00 UTC,23 Jun 1919,Broich,"[6.34065, 51.15689]","",domestic,sport,{},,,
+8,AWD00015ut,diary,15,7,1919-06-23 00:00:00 UTC,23 Jun 1919,Broich,"[6.34065, 51.15689]","",activity,training,{},,,
+9,AWD00015ut,diary,15,3,1919-06-23 00:00:00 UTC,23 Jun 1919,Broich,"[6.34065, 51.15689]","",domestic,sport,{},,,
+11,AWD00015ut,diary,15,3,1919-06-23 00:00:00 UTC,23 Jun 1919,Cologne,"[0.0, 0.0]","",place,Cologne,"{""place""=>[""Cologne""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3031862,Bologne,"[5.14209, 48.20004]"
+12,AWD00015ut,diary,15,2,1919-06-23 09:00:00 UTC,23 Jun 1919,Cologne,"[0.0, 0.0]",0900AM,time,0900AM,{},3031862,Bologne,"[5.14209, 48.20004]"
+13,AWD00015ut,diary,15,3,1919-06-23 09:00:00 UTC,23 Jun 1919,Cologne,"[0.0, 0.0]",0900AM,activity,movement,{},3031862,Bologne,"[5.14209, 48.20004]"
+16,AWD00015ut,diary,15,2,1919-06-23 09:00:00 UTC,23 Jun 1919,Cologne,"[0.0, 0.0]",0900AM,activity,other,{},3031862,Bologne,"[5.14209, 48.20004]"
+17,AWD00015ut,diary,15,2,1919-06-23 09:00:00 UTC,23 Jun 1919,Cologne,"[0.0, 0.0]",0900AM,unit,"9th London Regt.., 9th London Brig","{""name""=>[""9th London Regt.."", ""9th London Brig""], ""context""=>[""relieved""]}",3031862,Bologne,"[5.14209, 48.20004]"
+19,AWD00015ut,diary,15,2,1919-06-23 09:00:00 UTC,23 Jun 1919,Cologne,"[0.0, 0.0]",0900AM,person,Major G G Carpenter,"{""first""=>[""G G""], ""surname""=>[""Carpenter""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""51st Bn Northd Fusrs"", """"]}",3031862,Bologne,"[5.14209, 48.20004]"
+1,AWD00015ux,diary,16,2,1919-06-23 09:00:00 UTC,23 Jun 1919,Sulz Cologne,"[0.0, 0.0]",0900AM,place,Sulz Cologne,"{""place""=>[""Sulz Cologne""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+2,AWD00015ux,diary,16,5,1919-06-01 00:00:00 UTC,1 Jun 1919,Sulz Cologne,"[0.0, 0.0]","",diaryDate,1 Jun 1919,"{""day""=>[""1""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+3,AWD00015ux,diary,16,5,1919-06-01 00:00:00 UTC,1 Jun 1919,Sulz Cologne,"[0.0, 0.0]","",domestic,religion,{},,,
+5,AWD00015ux,diary,16,3,1919-06-01 00:00:00 UTC,1 Jun 1919,"COLOGNE, cologne, Cologne","[0.0, 0.0]","",place,"COLOGNE, cologne, Cologne","{""place""=>[""COLOGNE"", ""cologne"", ""Cologne""], ""location""=>[""true""], ""name""=>[""Köln"", ""Cologne"", """"], ""lat""=>[""50.93333"", ""43.72214"", """"], ""long""=>[""6.95"", ""0.9775"", """"], ""id""=>[""2886242"", ""3024280"", """"]}",2886242,Köln,"[6.95, 50.93333]"
+6,AWD00015ux,diary,16,4,1919-06-02 00:00:00 UTC,2 Jun 1919,"COLOGNE, cologne, Cologne","[0.0, 0.0]","",diaryDate,2 Jun 1919,"{""day""=>[""2""], ""month""=>[""Jun""], ""year""=>[""1919""]}",2886242,Köln,"[6.95, 50.93333]"
+7,AWD00015ux,diary,16,4,1919-06-02 00:00:00 UTC,2 Jun 1919,"COLOGNE, cologne, Cologne","[0.0, 0.0]","",activity,training,{},2886242,Köln,"[6.95, 50.93333]"
+8,AWD00015ux,diary,16,4,1919-06-03 00:00:00 UTC,3 Jun 1919,"COLOGNE, cologne, Cologne","[0.0, 0.0]","",diaryDate,3 Jun 1919,"{""day""=>[""3""], ""month""=>[""Jun""], ""year""=>[""1919""]}",2886242,Köln,"[6.95, 50.93333]"
+10,AWD00015ux,diary,16,3,1919-06-03 00:00:00 UTC,3 Jun 1919,"COLOGNE, cologne, Cologne","[0.0, 0.0]","",domestic,sport,{},2886242,Köln,"[6.95, 50.93333]"
+11,AWD00015ux,diary,16,4,1919-06-04 00:00:00 UTC,4 Jun 1919,"COLOGNE, cologne, Cologne","[0.0, 0.0]","",diaryDate,4 Jun 1919,"{""day""=>[""4""], ""month""=>[""Jun""], ""year""=>[""1919""]}",2886242,Köln,"[6.95, 50.93333]"
+12,AWD00015ux,diary,16,4,1919-06-05 00:00:00 UTC,5 Jun 1919,"COLOGNE, cologne, Cologne","[0.0, 0.0]","",diaryDate,5 Jun 1919,"{""day""=>[""5""], ""month""=>[""Jun""], ""year""=>[""1919""]}",2886242,Köln,"[6.95, 50.93333]"
+13,AWD00015ux,diary,16,13,1919-06-05 00:00:00 UTC,5 Jun 1919,"COLOGNE, cologne, Cologne","[0.0, 0.0]","",activity,training,{},2886242,Köln,"[6.95, 50.93333]"
+14,AWD00015ux,diary,16,4,1919-06-06 00:00:00 UTC,6 Jun 1919,"COLOGNE, cologne, Cologne","[0.0, 0.0]","",diaryDate,6 Jun 1919,"{""day""=>[""6""], ""month""=>[""Jun""], ""year""=>[""1919""]}",2886242,Köln,"[6.95, 50.93333]"
+15,AWD00015ux,diary,16,4,1919-06-07 00:00:00 UTC,7 Jun 1919,"COLOGNE, cologne, Cologne","[0.0, 0.0]","",diaryDate,7 Jun 1919,"{""day""=>[""7""], ""month""=>[""Jun""], ""year""=>[""1919""]}",2886242,Köln,"[6.95, 50.93333]"
+17,AWD00015ux,diary,16,5,1919-06-07 00:00:00 UTC,7 Jun 1919,"COLOGNE, cologne, Cologne","[0.0, 0.0]","",domestic,sport,{},2886242,Köln,"[6.95, 50.93333]"
+18,AWD00015ux,diary,16,5,1919-06-08 00:00:00 UTC,8 Jun 1919,"COLOGNE, cologne, Cologne","[0.0, 0.0]","",diaryDate,8 Jun 1919,"{""day""=>[""8""], ""month""=>[""Jun""], ""year""=>[""1919""]}",2886242,Köln,"[6.95, 50.93333]"
+19,AWD00015ux,diary,16,5,1919-06-08 00:00:00 UTC,8 Jun 1919,"COLOGNE, cologne, Cologne","[0.0, 0.0]","",domestic,religion,{},2886242,Köln,"[6.95, 50.93333]"
+20,AWD00015ux,diary,16,2,1919-06-08 00:00:00 UTC,8 Jun 1919,"COLOGNE, cologne, Cologne","[0.0, 0.0]","",domestic,other,{},2886242,Köln,"[6.95, 50.93333]"
+21,AWD00015ux,diary,16,4,1919-06-09 00:00:00 UTC,9 Jun 1919,"COLOGNE, cologne, Cologne","[0.0, 0.0]","",diaryDate,9 Jun 1919,"{""day""=>[""9""], ""month""=>[""Jun""], ""year""=>[""1919""]}",2886242,Köln,"[6.95, 50.93333]"
+22,AWD00015ux,diary,16,4,1919-06-10 00:00:00 UTC,10 Jun 1919,"COLOGNE, cologne, Cologne","[0.0, 0.0]","",diaryDate,10 Jun 1919,"{""day""=>[""10""], ""month""=>[""Jun""], ""year""=>[""1919""]}",2886242,Köln,"[6.95, 50.93333]"
+23,AWD00015ux,diary,16,4,1919-06-11 00:00:00 UTC,11 Jun 1919,"COLOGNE, cologne, Cologne","[0.0, 0.0]","",diaryDate,11 Jun 1919,"{""day""=>[""11""], ""month""=>[""Jun""], ""year""=>[""1919""]}",2886242,Köln,"[6.95, 50.93333]"
+24,AWD00015ux,diary,16,7,1919-06-11 00:00:00 UTC,11 Jun 1919,"COLOGNE, cologne, Cologne","[0.0, 0.0]","",activity,training,{},2886242,Köln,"[6.95, 50.93333]"
+25,AWD00015ux,diary,16,4,1919-06-11 00:00:00 UTC,11 Jun 1919,"COLOGNE, cologne, Cologne","[0.0, 0.0]","",domestic,sport,{},2886242,Köln,"[6.95, 50.93333]"
+26,AWD00015ux,diary,16,4,1919-06-12 00:00:00 UTC,12 Jun 1919,"COLOGNE, cologne, Cologne","[0.0, 0.0]","",diaryDate,12 Jun 1919,"{""day""=>[""12""], ""month""=>[""Jun""], ""year""=>[""1919""]}",2886242,Köln,"[6.95, 50.93333]"
+27,AWD00015ux,diary,16,4,1919-06-13 00:00:00 UTC,13 Jun 1919,"COLOGNE, cologne, Cologne","[0.0, 0.0]","",diaryDate,13 Jun 1919,"{""day""=>[""13""], ""month""=>[""Jun""], ""year""=>[""1919""]}",2886242,Köln,"[6.95, 50.93333]"
+29,AWD00015ux,diary,16,4,1919-06-14 00:00:00 UTC,14 Jun 1919,"COLOGNE, cologne, Cologne","[0.0, 0.0]","",diaryDate,14 Jun 1919,"{""day""=>[""14""], ""month""=>[""Jun""], ""year""=>[""1919""]}",2886242,Köln,"[6.95, 50.93333]"
+31,AWD00015ux,diary,16,5,1919-06-15 00:00:00 UTC,15 Jun 1919,"COLOGNE, cologne, Cologne","[0.0, 0.0]","",diaryDate,15 Jun 1919,"{""day""=>[""15""], ""month""=>[""Jun""], ""year""=>[""1919""]}",2886242,Köln,"[6.95, 50.93333]"
+32,AWD00015ux,diary,16,5,1919-06-15 00:00:00 UTC,15 Jun 1919,"COLOGNE, cologne, Cologne","[0.0, 0.0]","",domestic,religion,{},2886242,Köln,"[6.95, 50.93333]"
+33,AWD00015ux,diary,16,4,1919-06-16 00:00:00 UTC,16 Jun 1919,"COLOGNE, cologne, Cologne","[0.0, 0.0]","",diaryDate,16 Jun 1919,"{""day""=>[""16""], ""month""=>[""Jun""], ""year""=>[""1919""]}",2886242,Köln,"[6.95, 50.93333]"
+34,AWD00015ux,diary,16,2,1919-06-16 00:00:00 UTC,16 Jun 1919,"COLOGNE, cologne, Cologne","[0.0, 0.0]","",unit,"9th London Brig, 9th London Regt..","{""name""=>[""9th London Brig"", ""9th London Regt..""], ""context""=>[""relieved_by""]}",2886242,Köln,"[6.95, 50.93333]"
+35,AWD00015ux,diary,16,4,1919-06-17 00:00:00 UTC,17 Jun 1919,"COLOGNE, cologne, Cologne","[0.0, 0.0]","",diaryDate,17 Jun 1919,"{""day""=>[""17""], ""month""=>[""Jun""], ""year""=>[""1919""]}",2886242,Köln,"[6.95, 50.93333]"
+37,AWD00015ux,diary,16,4,1919-06-18 00:00:00 UTC,18 Jun 1919,"COLOGNE, cologne, Cologne","[0.0, 0.0]","",diaryDate,18 Jun 1919,"{""day""=>[""18""], ""month""=>[""Jun""], ""year""=>[""1919""]}",2886242,Köln,"[6.95, 50.93333]"
+38,AWD00015ux,diary,16,4,1919-06-18 00:00:00 UTC,18 Jun 1919,"Durschied, durschied, Durscheid, DURSCHIED","[6.34065, 51.15689]","",place,"Durschied, durschied, Durscheid, DURSCHIED","{""place""=>[""Durschied"", ""durschied"", ""Durscheid"", ""DURSCHIED""], ""location""=>[""true""], ""name""=>[""Broich""], ""lat""=>[""51.15689""], ""long""=>[""6.34065""], ""id""=>[""2943871""]}",,,
+40,AWD00015ux,diary,16,4,1919-06-19 00:00:00 UTC,19 Jun 1919,"Durschied, durschied, Durscheid, DURSCHIED","[6.34065, 51.15689]","",diaryDate,19 Jun 1919,"{""day""=>[""19""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+41,AWD00015ux,diary,16,5,1919-06-19 00:00:00 UTC,19 Jun 1919,"Durschied, durschied, Durscheid, DURSCHIED","[6.34065, 51.15689]","",activity,movement,{},,,
+44,AWD00015ux,diary,16,4,1919-06-20 00:00:00 UTC,20 Jun 1919,"Durschied, durschied, Durscheid, DURSCHIED","[6.34065, 51.15689]","",diaryDate,20 Jun 1919,"{""day""=>[""20""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+45,AWD00015ux,diary,16,2,1919-06-20 00:00:00 UTC,20 Jun 1919,"Durschied, durschied, Durscheid, DURSCHIED","[6.34065, 51.15689]","",activity,training,{},,,
+46,AWD00015ux,diary,16,2,1919-06-20 00:00:00 UTC,20 Jun 1919,"Durschied, durschied, Durscheid, DURSCHIED","[6.34065, 51.15689]","",domestic,parades,{},,,
+47,AWD00015ux,diary,16,2,1919-06-20 00:00:00 UTC,20 Jun 1919,"Durschied, durschied, Durscheid, DURSCHIED","[6.34065, 51.15689]","",activity,training,{},,,
+48,AWD00015ux,diary,16,2,1919-06-20 00:00:00 UTC,20 Jun 1919,"Durschied, durschied, Durscheid, DURSCHIED","[6.34065, 51.15689]","",activity,movement,{},,,
+49,AWD00015ux,diary,16,3,1919-06-20 00:00:00 UTC,20 Jun 1919,"Broich, Brioch, BROICH","[6.34065, 51.15689]","",place,"Broich, Brioch, BROICH","{""place""=>[""Broich"", ""Brioch"", ""BROICH""], ""location""=>[""true""], ""name""=>[""Broich""], ""lat""=>[""51.15689""], ""long""=>[""6.34065""], ""id""=>[""2943871""]}",,,
+52,AWD00015ux,diary,16,4,1919-06-21 00:00:00 UTC,21 Jun 1919,"Broich, Brioch, BROICH","[6.34065, 51.15689]","",diaryDate,21 Jun 1919,"{""day""=>[""21""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+53,AWD00015ux,diary,16,5,1919-06-21 00:00:00 UTC,21 Jun 1919,"Broich, Brioch, BROICH","[6.34065, 51.15689]","",activity,training,{},,,
+54,AWD00015ux,diary,16,4,1919-06-21 00:00:00 UTC,21 Jun 1919,"Broich, Brioch, BROICH","[6.34065, 51.15689]","",domestic,sport,{},,,
+56,AWD00015ux,diary,16,5,1919-06-22 00:00:00 UTC,22 Jun 1919,"Broich, Brioch, BROICH","[6.34065, 51.15689]","",diaryDate,22 Jun 1919,"{""day""=>[""22""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+57,AWD00015ux,diary,16,2,1919-06-22 00:00:00 UTC,22 Jun 1919,"Broich, Brioch, BROICH","[6.34065, 51.15689]","",domestic,accomodation,{},,,
+59,AWD00015ux,diary,16,3,1919-06-22 00:00:00 UTC,22 Jun 1919,"Broich, Brioch, BROICH","[6.34065, 51.15689]","",domestic,religion,{},,,
+60,AWD00015ux,diary,16,4,1919-06-23 00:00:00 UTC,23 Jun 1919,"Broich, Brioch, BROICH","[6.34065, 51.15689]","",diaryDate,23 Jun 1919,"{""day""=>[""23""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+61,AWD00015ux,diary,16,3,1919-06-23 00:00:00 UTC,23 Jun 1919,"Broich, Brioch, BROICH","[6.34065, 51.15689]","",domestic,parades,{},,,
+66,AWD00015ux,diary,16,3,1919-06-23 00:00:00 UTC,23 Jun 1919,"Broich, Brioch, BROICH","[6.34065, 51.15689]","",domestic,sport,{},,,
+1,AWD00015uy,diary,17,2,1919-06-23 00:00:00 UTC,23 Jun 1919,Sulz Cologne,"[0.0, 0.0]","",place,Sulz Cologne,"{""place""=>[""Sulz Cologne""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+2,AWD00015uy,diary,17,5,1919-06-24 00:00:00 UTC,24 Jun 1919,Sulz Cologne,"[0.0, 0.0]","",diaryDate,24 Jun 1919,"{""day""=>[""24""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+5,AWD00015uy,diary,17,5,1919-06-24 00:00:00 UTC,24 Jun 1919,Sulz Cologne,"[0.0, 0.0]","",domestic,sport,{},,,
+6,AWD00015uy,diary,17,2,1919-06-24 00:00:00 UTC,24 Jun 1919,"COLOGNE, cologne","[0.0, 0.0]","",place,"COLOGNE, cologne","{""place""=>[""COLOGNE"", ""cologne""], ""location""=>[""true""], ""name""=>[""Köln"", ""Cologne""], ""lat""=>[""50.93333"", ""43.72214""], ""long""=>[""6.95"", ""0.9775""], ""id""=>[""2886242"", ""3024280""]}",2886242,Köln,"[6.95, 50.93333]"
+7,AWD00015uy,diary,17,4,1919-06-25 00:00:00 UTC,25 Jun 1919,"COLOGNE, cologne","[0.0, 0.0]","",diaryDate,25 Jun 1919,"{""day""=>[""25""], ""month""=>[""Jun""], ""year""=>[""1919""]}",2886242,Köln,"[6.95, 50.93333]"
+9,AWD00015uy,diary,17,4,1919-06-25 00:00:00 UTC,25 Jun 1919,"COLOGNE, cologne","[0.0, 0.0]","",domestic,parades,{},2886242,Köln,"[6.95, 50.93333]"
+10,AWD00015uy,diary,17,5,1919-06-25 00:00:00 UTC,25 Jun 1919,"COLOGNE, cologne","[0.0, 0.0]","",activity,training,{},2886242,Köln,"[6.95, 50.93333]"
+12,AWD00015uy,diary,17,4,1919-06-26 00:00:00 UTC,26 Jun 1919,"COLOGNE, cologne","[0.0, 0.0]","",diaryDate,26 Jun 1919,"{""day""=>[""26""], ""month""=>[""Jun""], ""year""=>[""1919""]}",2886242,Köln,"[6.95, 50.93333]"
+13,AWD00015uy,diary,17,2,1919-06-26 00:00:00 UTC,26 Jun 1919,"COLOGNE, cologne","[0.0, 0.0]","",activity,training,{},2886242,Köln,"[6.95, 50.93333]"
+14,AWD00015uy,diary,17,4,1919-06-27 00:00:00 UTC,27 Jun 1919,"COLOGNE, cologne","[0.0, 0.0]","",diaryDate,27 Jun 1919,"{""day""=>[""27""], ""month""=>[""Jun""], ""year""=>[""1919""]}",2886242,Köln,"[6.95, 50.93333]"
+15,AWD00015uy,diary,17,8,1919-06-27 00:00:00 UTC,27 Jun 1919,"COLOGNE, cologne","[0.0, 0.0]","",domestic,sport,{},2886242,Köln,"[6.95, 50.93333]"
+16,AWD00015uy,diary,17,5,1919-06-27 00:00:00 UTC,27 Jun 1919,"COLOGNE, cologne","[0.0, 0.0]","",activity,training,{},2886242,Köln,"[6.95, 50.93333]"
+17,AWD00015uy,diary,17,3,1919-06-27 00:00:00 UTC,27 Jun 1919,"COLOGNE, cologne","[0.0, 0.0]","",domestic,sport,{},2886242,Köln,"[6.95, 50.93333]"
+18,AWD00015uy,diary,17,4,1919-06-28 00:00:00 UTC,28 Jun 1919,"COLOGNE, cologne","[0.0, 0.0]","",diaryDate,28 Jun 1919,"{""day""=>[""28""], ""month""=>[""Jun""], ""year""=>[""1919""]}",2886242,Köln,"[6.95, 50.93333]"
+20,AWD00015uy,diary,17,2,1919-06-28 00:00:00 UTC,28 Jun 1919,COLOGNE,"[6.95, 50.93333]","",place,COLOGNE,"{""place""=>[""COLOGNE""], ""location""=>[""true""], ""name""=>[""Köln""], ""lat""=>[""50.93333""], ""long""=>[""6.95""], ""id""=>[""2886242""]}",2886242,Köln,"[6.95, 50.93333]"
+21,AWD00015uy,diary,17,2,1919-06-28 00:00:00 UTC,28 Jun 1919,sulz,"[0.0, 0.0]","",place,sulz,"{""place""=>[""sulz""], ""location""=>[""true""], ""name""=>[""Sulz"", ""Sülz""], ""lat""=>[""48.6425"", ""50.91819""], ""long""=>[""10.92167"", ""6.92156""], ""id""=>[""2824862"", ""2824860""]}",2824860,Sülz,"[6.92156, 50.91819]"
+22,AWD00015uy,diary,17,4,1919-06-29 00:00:00 UTC,29 Jun 1919,sulz,"[0.0, 0.0]","",diaryDate,29 Jun 1919,"{""day""=>[""29""], ""month""=>[""Jun""], ""year""=>[""1919""]}",2824860,Sülz,"[6.92156, 50.91819]"
+26,AWD00015uy,diary,17,4,1919-06-29 00:00:00 UTC,29 Jun 1919,sulz,"[0.0, 0.0]","",activity,movement,{},2824860,Sülz,"[6.92156, 50.91819]"
+29,AWD00015uy,diary,17,5,1919-06-30 00:00:00 UTC,30 Jun 1919,sulz,"[0.0, 0.0]","",diaryDate,30 Jun 1919,"{""day""=>[""30""], ""month""=>[""Jun""], ""year""=>[""1919""]}",2824860,Sülz,"[6.92156, 50.91819]"
+2,AWD00015u8,diary,18,2,1919-07-01 00:00:00 UTC,1 Jul 1919,sulz,"[0.0, 0.0]","",diaryDate,1 Jul 1919,"{""day""=>[""1""], ""month""=>[""Jul""], ""year""=>[""1919""]}",2824860,Sülz,"[6.92156, 50.91819]"
+4,AWD00015u8,diary,18,5,1919-07-01 00:00:00 UTC,1 Jul 1919,sulz,"[0.0, 0.0]","",person,Major C G Arkwright,"{""first""=>[""C G""], ""surname""=>[""Arkwright""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",2824860,Sülz,"[6.92156, 50.91819]"
+5,AWD00015u8,diary,18,2,1919-07-01 00:00:00 UTC,1 Jul 1919,sulz,"[0.0, 0.0]","",diaryDate,1 Jul 1919,"{""day""=>[""1""], ""month""=>[""Jul""], ""year""=>[""1919""]}",2824860,Sülz,"[6.92156, 50.91819]"
+6,AWD00015u8,diary,18,2,1919-07-01 00:00:00 UTC,1 Jul 1919,"Sulz Cologne, sulz colgne","[10.92167, 48.6425]","",place,"Sulz Cologne, sulz colgne","{""place""=>[""Sulz Cologne"", ""sulz colgne""], ""location""=>[""true""], ""name""=>["""", ""Sulz""], ""lat""=>["""", ""48.6425""], ""long""=>["""", ""10.92167""], ""id""=>["""", ""2824862""]}",,,
+10,AWD00015u8,diary,18,3,1919-07-02 00:00:00 UTC,2 Jul 1919,"Sulz Cologne, sulz colgne","[10.92167, 48.6425]","",diaryDate,2 Jul 1919,"{""day""=>[""2""], ""month""=>[""Jul""], ""year""=>[""1919""]}",,,
+11,AWD00015u8,diary,18,2,1919-07-02 00:00:00 UTC,2 Jul 1919,"Sulz Cologne, sulz colgne","[10.92167, 48.6425]","",activity,other,{},,,
+13,AWD00015u8,diary,18,3,1919-07-03 00:00:00 UTC,3 Jul 1919,"Sulz Cologne, sulz colgne","[10.92167, 48.6425]","",diaryDate,3 Jul 1919,"{""day""=>[""3""], ""month""=>[""Jul""], ""year""=>[""1919""]}",,,
+14,AWD00015u8,diary,18,2,1919-07-03 00:00:00 UTC,3 Jul 1919,"Sulz Cologne, sulz colgne","[10.92167, 48.6425]","",activity,other,{},,,
+16,AWD00015u8,diary,18,3,1919-07-04 00:00:00 UTC,4 Jul 1919,"Sulz Cologne, sulz colgne","[10.92167, 48.6425]","",diaryDate,4 Jul 1919,"{""day""=>[""4""], ""month""=>[""Jul""], ""year""=>[""1919""]}",,,
+20,AWD00015u8,diary,18,3,1919-07-05 00:00:00 UTC,5 Jul 1919,"Sulz Cologne, sulz colgne","[10.92167, 48.6425]","",diaryDate,5 Jul 1919,"{""day""=>[""5""], ""month""=>[""Jul""], ""year""=>[""1919""]}",,,
+22,AWD00015u8,diary,18,3,1919-07-06 00:00:00 UTC,6 Jul 1919,"Sulz Cologne, sulz colgne","[10.92167, 48.6425]","",diaryDate,6 Jul 1919,"{""day""=>[""6""], ""month""=>[""Jul""], ""year""=>[""1919""]}",,,
+23,AWD00015u8,diary,18,5,1919-07-06 00:00:00 UTC,6 Jul 1919,"Sulz Cologne, sulz colgne","[10.92167, 48.6425]","",domestic,religion,{},,,
+24,AWD00015u8,diary,18,4,1919-07-06 00:00:00 UTC,6 Jul 1919,"Sulz Cologne, sulz colgne","[10.92167, 48.6425]","",person,Brigadier General J W Sandilands,"{""first""=>[""J W""], ""surname""=>[""Sandilands""], ""rank""=>[""Brigadier General""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+25,AWD00015u8,diary,18,3,1919-07-07 00:00:00 UTC,7 Jul 1919,"Sulz Cologne, sulz colgne","[10.92167, 48.6425]","",diaryDate,7 Jul 1919,"{""day""=>[""7""], ""month""=>[""Jul""], ""year""=>[""1919""]}",,,
+26,AWD00015u8,diary,18,4,1919-07-07 00:00:00 UTC,7 Jul 1919,"Sulz Cologne, sulz colgne","[10.92167, 48.6425]","",domestic,parades,{},,,
+28,AWD00015u8,diary,18,4,1919-07-08 00:00:00 UTC,8 Jul 1919,"Sulz Cologne, sulz colgne","[10.92167, 48.6425]","",diaryDate,8 Jul 1919,"{""day""=>[""8""], ""month""=>[""Jul""], ""year""=>[""1919""]}",,,
+29,AWD00015u8,diary,18,5,1919-07-08 00:00:00 UTC,8 Jul 1919,"Sulz Cologne, sulz colgne","[10.92167, 48.6425]","",activity,training,{},,,
+30,AWD00015u8,diary,18,3,1919-07-09 00:00:00 UTC,9 Jul 1919,"Sulz Cologne, sulz colgne","[10.92167, 48.6425]","",diaryDate,9 Jul 1919,"{""day""=>[""9""], ""month""=>[""Jul""], ""year""=>[""1919""]}",,,
+31,AWD00015u8,diary,18,2,1919-07-09 00:00:00 UTC,9 Jul 1919,"Sulz Cologne, sulz colgne","[10.92167, 48.6425]","",place,"Reihl, Relhl","{""place""=>[""Reihl"", ""Relhl""], ""location""=>[""false"", ""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+33,AWD00015u8,diary,18,2,1919-07-09 00:00:00 UTC,9 Jul 1919,"Sulz Cologne, sulz colgne","[10.92167, 48.6425]","",activity,training,{},,,
+34,AWD00015u8,diary,18,3,1919-07-10 00:00:00 UTC,10 Jul 1919,"Sulz Cologne, sulz colgne","[10.92167, 48.6425]","",diaryDate,10 Jul 1919,"{""day""=>[""10""], ""month""=>[""Jul""], ""year""=>[""1919""]}",,,
+2,AWD00015uq,diary,19,6,1919-07-11 00:00:00 UTC,11 Jul 1919,"Sulz Cologne, sulz colgne","[10.92167, 48.6425]","",diaryDate,11 Jul 1919,"{""day""=>[""11""], ""month""=>[""Jul""], ""year""=>[""1919""]}",,,
+3,AWD00015uq,diary,19,2,1919-07-11 00:00:00 UTC,11 Jul 1919,Sulz,"[6.92156, 50.91819]","",place,Sulz,"{""place""=>[""Sulz""], ""location""=>[""true""], ""name""=>["""", ""Sülz""], ""lat""=>["""", ""50.91819""], ""long""=>["""", ""6.92156""], ""id""=>["""", ""2824860""]}",2824860,Sülz,"[6.92156, 50.91819]"
+4,AWD00015uq,diary,19,2,1919-07-11 00:00:00 UTC,11 Jul 1919,Sulz Cologne,"[0.0, 0.0]","",place,Sulz Cologne,"{""place""=>[""Sulz Cologne""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+5,AWD00015uq,diary,19,5,1919-07-11 00:00:00 UTC,11 Jul 1919,Sulz Cologne,"[0.0, 0.0]","",activity,training,{},,,
+7,AWD00015uq,diary,19,5,1919-07-12 00:00:00 UTC,12 Jul 1919,Sulz Cologne,"[0.0, 0.0]","",diaryDate,12 Jul 1919,"{""day""=>[""12""], ""month""=>[""Jul""], ""year""=>[""1919""]}",,,
+8,AWD00015uq,diary,19,2,1919-07-12 00:00:00 UTC,12 Jul 1919,Sulz Cologne,"[0.0, 0.0]","",activity,other,{},,,
+9,AWD00015uq,diary,19,5,1919-07-13 00:00:00 UTC,13 Jul 1919,Sulz Cologne,"[0.0, 0.0]","",diaryDate,13 Jul 1919,"{""day""=>[""13""], ""month""=>[""Jul""], ""year""=>[""1919""]}",,,
+10,AWD00015uq,diary,19,4,1919-07-13 00:00:00 UTC,13 Jul 1919,Sulz Cologne,"[0.0, 0.0]","",domestic,religion,{},,,
+12,AWD00015uq,diary,19,5,1919-07-14 00:00:00 UTC,14 Jul 1919,Sulz Cologne,"[0.0, 0.0]","",diaryDate,14 Jul 1919,"{""day""=>[""14""], ""month""=>[""Jul""], ""year""=>[""1919""]}",,,
+13,AWD00015uq,diary,19,5,1919-07-14 00:00:00 UTC,14 Jul 1919,Sulz Cologne,"[0.0, 0.0]","",person, James Burns,"{""first""=>[""James""], ""surname""=>[""Burns""], ""rank""=>[""""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+14,AWD00015uq,diary,19,2,1919-07-14 00:00:00 UTC,14 Jul 1919,Sulz Cologne,"[0.0, 0.0]","",domestic,sport,{},,,
+16,AWD00015uq,diary,19,2,1919-07-14 00:00:00 UTC,14 Jul 1919,Sulz Cologne,"[0.0, 0.0]","",person,"Lieutenant Colonel A C Girwood CMG DSO, Girdwood CMG DSO","{""first""=>[""A C""], ""surname""=>[""Girwood CMG DSO"", ""Girdwood CMG DSO""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+18,AWD00015uq,diary,19,3,1919-07-14 00:00:00 UTC,14 Jul 1919,Sulz Cologne,"[0.0, 0.0]","",person,Lieutenant Colonel A C Girdwood,"{""first""=>[""A C""], ""surname""=>[""Girdwood""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+19,AWD00015uq,diary,19,2,1919-07-14 00:00:00 UTC,14 Jul 1919,Sulz Cologne,"[0.0, 0.0]","",person,Captain  Pigg DSO MC,"{""first""=>[""""], ""surname""=>[""Pigg DSO MC""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+20,AWD00015uq,diary,19,3,1919-07-14 00:00:00 UTC,14 Jul 1919,Sulz Cologne,"[0.0, 0.0]","",person,"Captain  Pigg, Figg, pigg","{""first""=>[""""], ""surname""=>[""Pigg"", ""Figg"", ""pigg""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+21,AWD00015uq,diary,19,5,1919-07-15 00:00:00 UTC,15 Jul 1919,Sulz Cologne,"[0.0, 0.0]","",diaryDate,15 Jul 1919,"{""day""=>[""15""], ""month""=>[""Jul""], ""year""=>[""1919""]}",,,
+22,AWD00015uq,diary,19,2,1919-07-15 00:00:00 UTC,15 Jul 1919,Sulz Cologne,"[0.0, 0.0]","",domestic,other,{},,,
+24,AWD00015uq,diary,19,2,1919-07-15 00:00:00 UTC,15 Jul 1919,Sulz Cologne,"[0.0, 0.0]","",activity,training,{},,,
+28,AWD00015uq,diary,19,5,1919-07-16 00:00:00 UTC,16 Jul 1919,Sulz Cologne,"[0.0, 0.0]","",diaryDate,16 Jul 1919,"{""day""=>[""16""], ""month""=>[""Jul""], ""year""=>[""1919""]}",,,
+29,AWD00015uq,diary,19,6,1919-07-16 00:00:00 UTC,16 Jul 1919,Sulz Cologne,"[0.0, 0.0]","",activity,training,{},,,
+30,AWD00015uq,diary,19,5,1919-07-17 00:00:00 UTC,17 Jul 1919,Sulz Cologne,"[0.0, 0.0]","",diaryDate,17 Jul 1919,"{""day""=>[""17""], ""month""=>[""Jul""], ""year""=>[""1919""]}",,,
+31,AWD00015uq,diary,19,6,1919-07-17 00:00:00 UTC,17 Jul 1919,Sulz Cologne,"[0.0, 0.0]","",domestic,sport,{},,,
+32,AWD00015uq,diary,19,6,1919-07-18 00:00:00 UTC,18 Jul 1919,Sulz Cologne,"[0.0, 0.0]","",diaryDate,18 Jul 1919,"{""day""=>[""18""], ""month""=>[""Jul""], ""year""=>[""1919""]}",,,
+34,AWD00015uq,diary,19,7,1919-07-18 00:00:00 UTC,18 Jul 1919,Sulz Cologne,"[0.0, 0.0]","",domestic,sport,{},,,
+35,AWD00015uq,diary,19,4,1919-07-18 00:00:00 UTC,18 Jul 1919,Sulz Cologne,"[0.0, 0.0]","",weather,fine,{},,,
+38,AWD00015uq,diary,19,3,1919-07-18 00:00:00 UTC,18 Jul 1919,Sulz Cologne,"[0.0, 0.0]","",domestic,sport,{},,,
+2,AWD00015ue,diary,20,6,1919-07-19 00:00:00 UTC,19 Jul 1919,Sulz Cologne,"[0.0, 0.0]","",diaryDate,19 Jul 1919,"{""day""=>[""19""], ""month""=>[""Jul""], ""year""=>[""1919""]}",,,
+4,AWD00015ue,diary,20,3,1919-07-19 00:00:00 UTC,19 Jul 1919,Sulz,"[0.0, 0.0]","",place,Sulz,"{""place""=>[""Sulz""], ""location""=>[""true""], ""name""=>[""Sulz"", """", ""Sülz""], ""lat""=>[""48.6425"", """", ""50.91819""], ""long""=>[""10.92167"", """", ""6.92156""], ""id""=>[""2824862"", """", ""2824860""]}",2824860,Sülz,"[6.92156, 50.91819]"
+5,AWD00015ue,diary,20,2,1919-07-19 00:00:00 UTC,19 Jul 1919,Sulz,"[0.0, 0.0]","",activity,other,{},2824860,Sülz,"[6.92156, 50.91819]"
+6,AWD00015ue,diary,20,2,1919-07-19 00:00:00 UTC,19 Jul 1919,Sulz Cologne,"[0.0, 0.0]","",place,Sulz Cologne,"{""place""=>[""Sulz Cologne""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+7,AWD00015ue,diary,20,2,1919-07-19 00:00:00 UTC,19 Jul 1919,Cologne,"[0.0, 0.0]","",place,Cologne,"{""place""=>[""Cologne""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3031862,Bologne,"[5.14209, 48.20004]"
+8,AWD00015ue,diary,20,6,1919-07-20 00:00:00 UTC,20 Jul 1919,Cologne,"[0.0, 0.0]","",diaryDate,20 Jul 1919,"{""day""=>[""20""], ""month""=>[""Jul""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+9,AWD00015ue,diary,20,5,1919-07-20 00:00:00 UTC,20 Jul 1919,Cologne,"[0.0, 0.0]","",domestic,religion,{},3031862,Bologne,"[5.14209, 48.20004]"
+10,AWD00015ue,diary,20,5,1919-07-21 00:00:00 UTC,21 Jul 1919,Cologne,"[0.0, 0.0]","",diaryDate,21 Jul 1919,"{""day""=>[""21""], ""month""=>[""Jul""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+14,AWD00015ue,diary,20,2,1919-07-21 00:00:00 UTC,21 Jul 1919,Cologne,"[0.0, 0.0]","",domestic,other,{},3031862,Bologne,"[5.14209, 48.20004]"
+15,AWD00015ue,diary,20,3,1919-07-21 00:00:00 UTC,21 Jul 1919,Cologne,"[0.0, 0.0]","",activity,other,{},3031862,Bologne,"[5.14209, 48.20004]"
+16,AWD00015ue,diary,20,4,1919-07-22 00:00:00 UTC,22 Jul 1919,Cologne,"[0.0, 0.0]","",diaryDate,22 Jul 1919,"{""day""=>[""22""], ""month""=>[""Jul""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+21,AWD00015ue,diary,20,5,1919-07-23 00:00:00 UTC,23 Jul 1919,Cologne,"[0.0, 0.0]","",diaryDate,23 Jul 1919,"{""day""=>[""23""], ""month""=>[""Jul""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+23,AWD00015ue,diary,20,2,1919-07-23 00:00:00 UTC,23 Jul 1919,Cologne,"[0.0, 0.0]","",activity,other,{},3031862,Bologne,"[5.14209, 48.20004]"
+24,AWD00015ue,diary,20,2,1919-07-23 00:00:00 UTC,23 Jul 1919,Cologne,"[0.0, 0.0]","",activity,reconnoitered,{},3031862,Bologne,"[5.14209, 48.20004]"
+25,AWD00015ue,diary,20,5,1919-07-24 00:00:00 UTC,24 Jul 1919,Cologne,"[0.0, 0.0]","",diaryDate,24 Jul 1919,"{""day""=>[""24""], ""month""=>[""Jul""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+27,AWD00015ue,diary,20,2,1919-07-24 00:00:00 UTC,24 Jul 1919,Cologne,"[0.0, 0.0]","",domestic,other,{},3031862,Bologne,"[5.14209, 48.20004]"
+28,AWD00015ue,diary,20,4,1919-07-25 00:00:00 UTC,25 Jul 1919,Cologne,"[0.0, 0.0]","",diaryDate,25 Jul 1919,"{""day""=>[""25""], ""month""=>[""Jul""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+31,AWD00015ue,diary,20,5,1919-07-26 00:00:00 UTC,26 Jul 1919,Cologne,"[0.0, 0.0]","",diaryDate,26 Jul 1919,"{""day""=>[""26""], ""month""=>[""Jul""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+32,AWD00015ue,diary,20,2,1919-07-26 00:00:00 UTC,26 Jul 1919,Cologne,"[0.0, 0.0]","",activity,other,{},3031862,Bologne,"[5.14209, 48.20004]"
+35,AWD00015ue,diary,20,6,1919-07-27 00:00:00 UTC,27 Jul 1919,Cologne,"[0.0, 0.0]","",diaryDate,27 Jul 1919,"{""day""=>[""27""], ""month""=>[""Jul""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+37,AWD00015ue,diary,20,4,1919-07-27 00:00:00 UTC,27 Jul 1919,Cologne,"[0.0, 0.0]","",domestic,religion,{},3031862,Bologne,"[5.14209, 48.20004]"
+38,AWD00015ue,diary,20,5,1919-07-28 00:00:00 UTC,28 Jul 1919,Cologne,"[0.0, 0.0]","",diaryDate,28 Jul 1919,"{""day""=>[""28""], ""month""=>[""Jul""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+40,AWD00015ue,diary,20,5,1919-07-28 00:00:00 UTC,28 Jul 1919,Cologne,"[0.0, 0.0]","",activity,training,{},3031862,Bologne,"[5.14209, 48.20004]"
+1,AWD00015u9,diary,21,5,1919-07-28 00:00:00 UTC,28 Jul 1919,Cologne,"[0.0, 0.0]","",activity,training,{},3031862,Bologne,"[5.14209, 48.20004]"
+7,AWD00015u9,diary,21,2,1919-07-28 00:00:00 UTC,28 Jul 1919,Cologne,"[0.0, 0.0]","",domestic,parades,{},3031862,Bologne,"[5.14209, 48.20004]"
+9,AWD00015u9,diary,21,5,1919-07-28 00:00:00 UTC,28 Jul 1919,Cologne,"[0.0, 0.0]","",activity,training,{},3031862,Bologne,"[5.14209, 48.20004]"
+11,AWD00015u9,diary,21,3,1919-07-28 00:00:00 UTC,28 Jul 1919,Cologne,"[0.0, 0.0]","",person,"Major C G,G, Arkwright","{""first""=>[""C G"", ""G"", """"], ""surname""=>[""Arkwright""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""1st Battalion Northumberland Fusiliers"", """", ""51 Bat Northumberland  Fus""]}",3031862,Bologne,"[5.14209, 48.20004]"
+2,AWD00015v0,diary,22,3,1919-08-01 00:00:00 UTC,1 Aug 1919,Cologne,"[0.0, 0.0]","",diaryDate,1 Aug 1919,"{""day""=>[""1""], ""month""=>[""Aug""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+4,AWD00015v0,diary,22,3,1919-08-01 00:00:00 UTC,1 Aug 1919,Cologne,"[0.0, 0.0]","",diaryDate,1 Aug 1919,"{""day""=>[""1""], ""month""=>[""Aug""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+5,AWD00015v0,diary,22,3,1919-08-01 00:00:00 UTC,1 Aug 1919,Sulz,"[0.0, 0.0]","",place,Sulz,"{""place""=>[""Sulz""], ""location""=>[""true""], ""name""=>["""", ""Sulz"", ""Sülz""], ""lat""=>["""", ""48.6425"", ""50.91819""], ""long""=>["""", ""10.92167"", ""6.92156""], ""id""=>["""", ""2824862"", ""2824860""]}",2824860,Sülz,"[6.92156, 50.91819]"
+6,AWD00015v0,diary,22,7,1919-08-01 00:00:00 UTC,1 Aug 1919,Sulz,"[0.0, 0.0]","",activity,training,{},2824860,Sülz,"[6.92156, 50.91819]"
+9,AWD00015v0,diary,22,2,1919-08-01 00:00:00 UTC,1 Aug 1919,Sulz,"[0.0, 0.0]","",place,Cologne,"{""place""=>[""Cologne""], ""location""=>[""false"", ""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2824860,Sülz,"[6.92156, 50.91819]"
+10,AWD00015v0,diary,22,5,1919-08-02 00:00:00 UTC,2 Aug 1919,Sulz,"[0.0, 0.0]","",diaryDate,2 Aug 1919,"{""day""=>[""2""], ""month""=>[""Aug""], ""year""=>[""1919""]}",2824860,Sülz,"[6.92156, 50.91819]"
+12,AWD00015v0,diary,22,4,1919-08-02 00:00:00 UTC,2 Aug 1919,Sulz,"[0.0, 0.0]","",activity,other,{},2824860,Sülz,"[6.92156, 50.91819]"
+13,AWD00015v0,diary,22,5,1919-08-03 00:00:00 UTC,3 Aug 1919,Sulz,"[0.0, 0.0]","",diaryDate,3 Aug 1919,"{""day""=>[""3""], ""month""=>[""Aug""], ""year""=>[""1919""]}",2824860,Sülz,"[6.92156, 50.91819]"
+14,AWD00015v0,diary,22,5,1919-08-03 00:00:00 UTC,3 Aug 1919,Sulz,"[0.0, 0.0]","",domestic,religion,{},2824860,Sülz,"[6.92156, 50.91819]"
+15,AWD00015v0,diary,22,5,1919-08-04 00:00:00 UTC,4 Aug 1919,Sulz,"[0.0, 0.0]","",diaryDate,4 Aug 1919,"{""day""=>[""4""], ""month""=>[""Aug""], ""year""=>[""1919""]}",2824860,Sülz,"[6.92156, 50.91819]"
+16,AWD00015v0,diary,22,2,1919-08-04 00:00:00 UTC,4 Aug 1919,Sulz,"[0.0, 0.0]","",activity,training,{},2824860,Sülz,"[6.92156, 50.91819]"
+17,AWD00015v0,diary,22,4,1919-08-04 00:00:00 UTC,4 Aug 1919,Sulz,"[0.0, 0.0]","",person,Captain N B Pigg,"{""first""=>[""N B""], ""surname""=>[""Pigg""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2824860,Sülz,"[6.92156, 50.91819]"
+18,AWD00015v0,diary,22,5,1919-08-04 00:00:00 UTC,4 Aug 1919,Sulz,"[0.0, 0.0]","",person,Lieutenant G P Gale,"{""first""=>[""G P""], ""surname""=>[""Gale""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2824860,Sülz,"[6.92156, 50.91819]"
+23,AWD00015v0,diary,22,2,1919-08-04 00:00:00 UTC,4 Aug 1919,Sulz,"[0.0, 0.0]","",place,Lachem,"{""place""=>[""Lachem""], ""location""=>[""false""], ""name""=>[""Lachem""], ""lat""=>[""52.14036""], ""long""=>[""9.27196""], ""id""=>[""2882043""]}",2824860,Sülz,"[6.92156, 50.91819]"
+24,AWD00015v0,diary,22,5,1919-08-05 00:00:00 UTC,5 Aug 1919,Sulz,"[0.0, 0.0]","",diaryDate,5 Aug 1919,"{""day""=>[""5""], ""month""=>[""Aug""], ""year""=>[""1919""]}",2824860,Sülz,"[6.92156, 50.91819]"
+25,AWD00015v0,diary,22,6,1919-08-05 00:00:00 UTC,5 Aug 1919,Sulz,"[0.0, 0.0]","",activity,training,{},2824860,Sülz,"[6.92156, 50.91819]"
+28,AWD00015v0,diary,22,2,1919-08-05 00:00:00 UTC,5 Aug 1919,Sulz,"[0.0, 0.0]","",domestic,parades,{},2824860,Sülz,"[6.92156, 50.91819]"
+29,AWD00015v0,diary,22,5,1919-08-06 00:00:00 UTC,6 Aug 1919,Sulz,"[0.0, 0.0]","",diaryDate,6 Aug 1919,"{""day""=>[""6""], ""month""=>[""Aug""], ""year""=>[""1919""]}",2824860,Sülz,"[6.92156, 50.91819]"
+30,AWD00015v0,diary,22,5,1919-08-06 00:00:00 UTC,6 Aug 1919,Sulz,"[0.0, 0.0]","",domestic,parades,{},2824860,Sülz,"[6.92156, 50.91819]"
+32,AWD00015v0,diary,22,6,1919-08-07 00:00:00 UTC,7 Aug 1919,Sulz,"[0.0, 0.0]","",diaryDate,7 Aug 1919,"{""day""=>[""7""], ""month""=>[""Aug""], ""year""=>[""1919""]}",2824860,Sülz,"[6.92156, 50.91819]"
+33,AWD00015v0,diary,22,4,1919-08-07 00:00:00 UTC,7 Aug 1919,Sulz,"[0.0, 0.0]","",place,Merheim,"{""place""=>[""Merheim""], ""location""=>[""false""], ""name""=>[""Merheim""], ""lat""=>[""50.98333""], ""long""=>[""6.93333""], ""id""=>[""2871814""]}",2824860,Sülz,"[6.92156, 50.91819]"
+37,AWD00015v0,diary,22,6,1919-08-07 00:00:00 UTC,7 Aug 1919,Sulz,"[0.0, 0.0]","",person,Sergeant G Wake,"{""first""=>[""G""], ""surname""=>[""Wake""], ""rank""=>[""Sergeant""], ""number""=>[""""], ""reason""=>[""award""], ""unit""=>[""""]}",2824860,Sülz,"[6.92156, 50.91819]"
+3,AWD00015uu,diary,23,7,1919-08-08 00:00:00 UTC,8 Aug 1919,Sulz,"[0.0, 0.0]","",diaryDate,8 Aug 1919,"{""day""=>[""8""], ""month""=>[""Aug""], ""year""=>[""1919""]}",2824860,Sülz,"[6.92156, 50.91819]"
+4,AWD00015uu,diary,23,2,1919-08-08 00:00:00 UTC,8 Aug 1919,Sulz,"[0.0, 0.0]","",place,Sulz,"{""place""=>[""Sulz""], ""location""=>[""false"", ""true""], ""name""=>["""", ""Sülz""], ""lat""=>["""", ""50.91819""], ""long""=>["""", ""6.92156""], ""id""=>["""", ""2824860""]}",2824860,Sülz,"[6.92156, 50.91819]"
+5,AWD00015uu,diary,23,3,1919-08-08 00:00:00 UTC,8 Aug 1919,Sulz Cologne,"[0.0, 0.0]","",place,Sulz Cologne,"{""place""=>[""Sulz Cologne""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+6,AWD00015uu,diary,23,2,1919-08-08 00:00:00 UTC,8 Aug 1919,Sulz Cologne,"[0.0, 0.0]","",place,Cologne,"{""place""=>[""Cologne""], ""location""=>[""true"", ""false""], ""name""=>[""Cologne"", """"], ""lat""=>[""43.72214"", """"], ""long""=>[""0.9775"", """"], ""id""=>[""3024280"", """"]}",,,
+7,AWD00015uu,diary,23,7,1919-08-08 00:00:00 UTC,8 Aug 1919,Sulz Cologne,"[0.0, 0.0]","",activity,training,{},,,
+8,AWD00015uu,diary,23,4,1919-08-08 00:00:00 UTC,8 Aug 1919,Sulz Cologne,"[0.0, 0.0]","",domestic,sport,{},,,
+9,AWD00015uu,diary,23,6,1919-08-08 00:00:00 UTC,8 Aug 1919,Sulz Cologne,"[0.0, 0.0]","",person,Private  Norcliffe,"{""first""=>[""""], ""surname""=>[""Norcliffe""], ""rank""=>[""Private""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""B Company""]}",,,
+10,AWD00015uu,diary,23,6,1919-08-09 00:00:00 UTC,9 Aug 1919,Sulz Cologne,"[0.0, 0.0]","",diaryDate,9 Aug 1919,"{""day""=>[""9""], ""month""=>[""Aug""], ""year""=>[""1919""]}",,,
+13,AWD00015uu,diary,23,3,1919-08-09 00:00:00 UTC,9 Aug 1919,Sulz Cologne,"[0.0, 0.0]","",activity,other,{},,,
+14,AWD00015uu,diary,23,6,1919-08-10 00:00:00 UTC,10 Aug 1919,Sulz Cologne,"[0.0, 0.0]","",diaryDate,10 Aug 1919,"{""day""=>[""10""], ""month""=>[""Aug""], ""year""=>[""1919""]}",,,
+15,AWD00015uu,diary,23,5,1919-08-10 00:00:00 UTC,10 Aug 1919,Sulz Cologne,"[0.0, 0.0]","",domestic,religion,{},,,
+17,AWD00015uu,diary,23,4,1919-08-10 00:00:00 UTC,10 Aug 1919,Sulz Cologne,"[0.0, 0.0]","",activity,other,{},,,
+18,AWD00015uu,diary,23,5,1919-08-11 00:00:00 UTC,11 Aug 1919,Sulz Cologne,"[0.0, 0.0]","",diaryDate,11 Aug 1919,"{""day""=>[""11""], ""month""=>[""Aug""], ""year""=>[""1919""]}",,,
+19,AWD00015uu,diary,23,2,1919-08-11 00:00:00 UTC,11 Aug 1919,Sulz Cologne,"[0.0, 0.0]","",domestic,other,{},,,
+20,AWD00015uu,diary,23,3,1919-08-11 00:00:00 UTC,11 Aug 1919,Sulz Cologne,"[0.0, 0.0]","",activity,other,{},,,
+21,AWD00015uu,diary,23,6,1919-08-12 00:00:00 UTC,12 Aug 1919,Sulz Cologne,"[0.0, 0.0]","",diaryDate,12 Aug 1919,"{""day""=>[""12""], ""month""=>[""Aug""], ""year""=>[""1919""]}",,,
+22,AWD00015uu,diary,23,7,1919-08-12 00:00:00 UTC,12 Aug 1919,Sulz Cologne,"[0.0, 0.0]","",person,Lieutenant C D Lockwood,"{""first""=>[""C D""], ""surname""=>[""Lockwood""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+23,AWD00015uu,diary,23,7,1919-08-12 00:00:00 UTC,12 Aug 1919,Sulz Cologne,"[0.0, 0.0]","",person,Captain W E Richardson,"{""first""=>[""W E""], ""surname""=>[""Richardson""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+24,AWD00015uu,diary,23,6,1919-08-13 00:00:00 UTC,13 Aug 1919,Sulz Cologne,"[0.0, 0.0]","",diaryDate,13 Aug 1919,"{""day""=>[""13""], ""month""=>[""Aug""], ""year""=>[""1919""]}",,,
+25,AWD00015uu,diary,23,2,1919-08-13 00:00:00 UTC,13 Aug 1919,Sulz Cologne,"[0.0, 0.0]","",domestic,other,{},,,
+26,AWD00015uu,diary,23,7,1919-08-13 00:00:00 UTC,13 Aug 1919,Sulz Cologne,"[0.0, 0.0]","",activity,other,{},,,
+27,AWD00015uu,diary,23,6,1919-08-14 00:00:00 UTC,14 Aug 1919,Sulz Cologne,"[0.0, 0.0]","",diaryDate,14 Aug 1919,"{""day""=>[""14""], ""month""=>[""Aug""], ""year""=>[""1919""]}",,,
+28,AWD00015uu,diary,23,6,1919-08-15 00:00:00 UTC,15 Aug 1919,Sulz Cologne,"[0.0, 0.0]","",diaryDate,15 Aug 1919,"{""day""=>[""15""], ""month""=>[""Aug""], ""year""=>[""1919""]}",,,
+29,AWD00015uu,diary,23,4,1919-08-15 00:00:00 UTC,15 Aug 1919,Sulz Cologne,"[0.0, 0.0]","",activity,other,{},,,
+31,AWD00015uu,diary,23,2,1919-08-15 00:00:00 UTC,15 Aug 1919,Sulz Cologne,"[0.0, 0.0]","",activity,training,{},,,
+32,AWD00015uu,diary,23,2,1919-08-15 00:00:00 UTC,15 Aug 1919,Sulz Cologne,"[0.0, 0.0]","",activity,other,{},,,
+34,AWD00015uu,diary,23,7,1919-08-16 00:00:00 UTC,16 Aug 1919,Sulz Cologne,"[0.0, 0.0]","",diaryDate,16 Aug 1919,"{""day""=>[""16""], ""month""=>[""Aug""], ""year""=>[""1919""]}",,,
+36,AWD00015uu,diary,23,2,1919-08-16 00:00:00 UTC,16 Aug 1919,Sulz Cologne,"[0.0, 0.0]","",domestic,other,{},,,
+37,AWD00015uu,diary,23,3,1919-08-16 00:00:00 UTC,16 Aug 1919,Sulz Cologne,"[0.0, 0.0]","",activity,other,{},,,
+38,AWD00015uu,diary,23,2,1919-08-16 00:00:00 UTC,16 Aug 1919,Sulz Cologne,"[0.0, 0.0]","",unit,"2nd  Northern Brig, 2nd Northern Brigade","{""name""=>[""2nd  Northern Brig"", ""2nd Northern Brigade""], ""context""=>[""relieved"", ""relieved_by""]}",,,
+2,AWD00015ua,diary,24,7,1919-08-17 00:00:00 UTC,17 Aug 1919,Sulz Cologne,"[0.0, 0.0]","",diaryDate,17 Aug 1919,"{""day""=>[""17""], ""month""=>[""Aug""], ""year""=>[""1919""]}",,,
+3,AWD00015ua,diary,24,2,1919-08-17 00:00:00 UTC,17 Aug 1919,Sulz Cologne,"[0.0, 0.0]","",place,Sulz Cologne,"{""place""=>[""Sulz Cologne""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+5,AWD00015ua,diary,24,4,1919-08-17 00:00:00 UTC,17 Aug 1919,Sulz Cologne,"[0.0, 0.0]","",activity,other,{},,,
+7,AWD00015ua,diary,24,3,1919-08-17 00:00:00 UTC,17 Aug 1919,Cologne,"[0.9775, 43.72214]","",place,Cologne,"{""place""=>[""Cologne""], ""location""=>[""true""], ""name""=>[""Cologne""], ""lat""=>[""43.72214""], ""long""=>[""0.9775""], ""id""=>[""3024280""]}",3031862,Bologne,"[5.14209, 48.20004]"
+9,AWD00015ua,diary,24,4,1919-08-17 00:00:00 UTC,17 Aug 1919,Cologne,"[0.9775, 43.72214]","",domestic,religion,{},3031862,Bologne,"[5.14209, 48.20004]"
+11,AWD00015ua,diary,24,3,1919-08-17 00:00:00 UTC,17 Aug 1919,Cologne,"[0.9775, 43.72214]","",activity,other,{},3031862,Bologne,"[5.14209, 48.20004]"
+12,AWD00015ua,diary,24,7,1919-08-18 00:00:00 UTC,18 Aug 1919,Cologne,"[0.9775, 43.72214]","",diaryDate,18 Aug 1919,"{""day""=>[""18""], ""month""=>[""Aug""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+14,AWD00015ua,diary,24,3,1919-08-18 00:00:00 UTC,18 Aug 1919,Cologne,"[0.9775, 43.72214]","",person,Brigadier General C D Hamilton Moore,"{""first""=>[""C D""], ""surname""=>[""Hamilton Moore""], ""rank""=>[""Brigadier General""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",3031862,Bologne,"[5.14209, 48.20004]"
+17,AWD00015ua,diary,24,2,1919-08-18 00:00:00 UTC,18 Aug 1919,Cologne,"[0.9775, 43.72214]","",person,"Brigadier General Hamilton,C D Moore, Hamilton Moore","{""first""=>[""Hamilton"", ""C D""], ""surname""=>[""Moore"", ""Hamilton Moore""], ""rank""=>[""Brigadier General""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""51st Battalion Northumberland Fusiliers"", """"]}",3031862,Bologne,"[5.14209, 48.20004]"
+18,AWD00015ua,diary,24,5,1919-08-18 00:00:00 UTC,18 Aug 1919,Cologne,"[0.9775, 43.72214]","",person,Second Lieutenant J W Hunt,"{""first""=>[""J W""], ""surname""=>[""Hunt""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",3031862,Bologne,"[5.14209, 48.20004]"
+20,AWD00015ua,diary,24,2,1919-08-18 00:00:00 UTC,18 Aug 1919,Cologne,"[0.9775, 43.72214]","",person,Second Lieutenant J W Hunt,"{""first""=>[""J W""], ""surname""=>[""Hunt""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other"", ""commander""], ""unit""=>["""", ""51st Battalion Northumberland Fusiliers""]}",3031862,Bologne,"[5.14209, 48.20004]"
+22,AWD00015ua,diary,24,2,1919-08-18 00:00:00 UTC,18 Aug 1919,Cologne,"[0.9775, 43.72214]","",unit,"53rd Battalion Northumberland Fusiliers, 53st Battalion Northumberland Fusiliers","{""name""=>[""53rd Battalion Northumberland Fusiliers"", ""53st Battalion Northumberland Fusiliers""], ""context""=>[""relieved_by""]}",3031862,Bologne,"[5.14209, 48.20004]"
+24,AWD00015ua,diary,24,6,1919-08-19 00:00:00 UTC,19 Aug 1919,Cologne,"[0.9775, 43.72214]","",diaryDate,19 Aug 1919,"{""day""=>[""19""], ""month""=>[""Aug""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+25,AWD00015ua,diary,24,4,1919-08-19 00:00:00 UTC,19 Aug 1919,Cologne,"[0.9775, 43.72214]","",activity,other,{},3031862,Bologne,"[5.14209, 48.20004]"
+27,AWD00015ua,diary,24,5,1919-08-19 00:00:00 UTC,19 Aug 1919,Cologne,"[0.9775, 43.72214]","",domestic,sport,{},3031862,Bologne,"[5.14209, 48.20004]"
+29,AWD00015ua,diary,24,7,1919-08-20 00:00:00 UTC,20 Aug 1919,Cologne,"[0.9775, 43.72214]","",diaryDate,20 Aug 1919,"{""day""=>[""20""], ""month""=>[""Aug""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+31,AWD00015ua,diary,24,6,1919-08-20 00:00:00 UTC,20 Aug 1919,Cologne,"[0.9775, 43.72214]","",domestic,hygiene,{},3031862,Bologne,"[5.14209, 48.20004]"
+33,AWD00015ua,diary,24,4,1919-08-20 00:00:00 UTC,20 Aug 1919,Cologne,"[0.9775, 43.72214]","",place,Lachem,"{""place""=>[""Lachem""], ""location""=>[""false""], ""name""=>[""Lachem""], ""lat""=>[""52.14036""], ""long""=>[""9.27196""], ""id""=>[""2882043""]}",3031862,Bologne,"[5.14209, 48.20004]"
+34,AWD00015ua,diary,24,7,1919-08-21 00:00:00 UTC,21 Aug 1919,Cologne,"[0.9775, 43.72214]","",diaryDate,21 Aug 1919,"{""day""=>[""21""], ""month""=>[""Aug""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+35,AWD00015ua,diary,24,12,1919-08-21 00:00:00 UTC,21 Aug 1919,Cologne,"[0.9775, 43.72214]","",activity,training,{},3031862,Bologne,"[5.14209, 48.20004]"
+36,AWD00015ua,diary,24,5,1919-08-21 00:00:00 UTC,21 Aug 1919,Cologne,"[0.9775, 43.72214]","",domestic,sport,{},3031862,Bologne,"[5.14209, 48.20004]"
+39,AWD00015ua,diary,24,7,1919-08-22 00:00:00 UTC,22 Aug 1919,Cologne,"[0.9775, 43.72214]","",diaryDate,22 Aug 1919,"{""day""=>[""22""], ""month""=>[""Aug""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+40,AWD00015ua,diary,24,7,1919-08-22 00:00:00 UTC,22 Aug 1919,Cologne,"[0.9775, 43.72214]","",activity,training,{},3031862,Bologne,"[5.14209, 48.20004]"
+41,AWD00015ua,diary,24,8,1919-08-23 00:00:00 UTC,23 Aug 1919,Cologne,"[0.9775, 43.72214]","",diaryDate,23 Aug 1919,"{""day""=>[""23""], ""month""=>[""Aug""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+43,AWD00015ua,diary,24,2,1919-08-23 00:00:00 UTC,23 Aug 1919,Cologne,"[0.9775, 43.72214]","",activity,other,{},3031862,Bologne,"[5.14209, 48.20004]"
+2,AWD00015v2,diary,25,7,1919-08-24 00:00:00 UTC,24 Aug 1919,Cologne,"[0.9775, 43.72214]","",diaryDate,24 Aug 1919,"{""day""=>[""24""], ""month""=>[""Aug""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+3,AWD00015v2,diary,25,5,1919-08-24 00:00:00 UTC,24 Aug 1919,Cologne,"[0.9775, 43.72214]","",domestic,religion,{},3031862,Bologne,"[5.14209, 48.20004]"
+4,AWD00015v2,diary,25,2,1919-08-24 00:00:00 UTC,24 Aug 1919,Cologne,"[0.9775, 43.72214]","",place,Sulz,"{""place""=>[""Sulz""], ""location""=>[""true"", ""false""], ""name""=>[""Sülz"", """"], ""lat""=>[""50.91819"", """"], ""long""=>[""6.92156"", """"], ""id""=>[""2824860"", """"]}",3031862,Bologne,"[5.14209, 48.20004]"
+5,AWD00015v2,diary,25,2,1919-08-24 00:00:00 UTC,24 Aug 1919,Sulz Cologne,"[0.0, 0.0]","",place,Sulz Cologne,"{""place""=>[""Sulz Cologne""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+6,AWD00015v2,diary,25,4,1919-08-24 00:00:00 UTC,24 Aug 1919,Cologne,"[0.9775, 43.72214]","",place,Cologne,"{""place""=>[""Cologne""], ""location""=>[""true""], ""name""=>[""Cologne""], ""lat""=>[""43.72214""], ""long""=>[""0.9775""], ""id""=>[""3024280""]}",3031862,Bologne,"[5.14209, 48.20004]"
+7,AWD00015v2,diary,25,6,1919-08-25 00:00:00 UTC,25 Aug 1919,Cologne,"[0.9775, 43.72214]","",diaryDate,25 Aug 1919,"{""day""=>[""25""], ""month""=>[""Aug""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+8,AWD00015v2,diary,25,8,1919-08-25 00:00:00 UTC,25 Aug 1919,Cologne,"[0.9775, 43.72214]","",activity,training,{},3031862,Bologne,"[5.14209, 48.20004]"
+12,AWD00015v2,diary,25,6,1919-08-26 00:00:00 UTC,26 Aug 1919,Cologne,"[0.9775, 43.72214]","",diaryDate,26 Aug 1919,"{""day""=>[""26""], ""month""=>[""Aug""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+13,AWD00015v2,diary,25,7,1919-08-26 00:00:00 UTC,26 Aug 1919,Cologne,"[0.9775, 43.72214]","",activity,training,{},3031862,Bologne,"[5.14209, 48.20004]"
+14,AWD00015v2,diary,25,5,1919-08-26 00:00:00 UTC,26 Aug 1919,Cologne,"[0.9775, 43.72214]","",domestic,sport,{},3031862,Bologne,"[5.14209, 48.20004]"
+15,AWD00015v2,diary,25,6,1919-08-27 00:00:00 UTC,27 Aug 1919,Cologne,"[0.9775, 43.72214]","",diaryDate,27 Aug 1919,"{""day""=>[""27""], ""month""=>[""Aug""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+16,AWD00015v2,diary,25,3,1919-08-27 00:00:00 UTC,27 Aug 1919,Cologne,"[0.9775, 43.72214]","",activity,other,{},3031862,Bologne,"[5.14209, 48.20004]"
+18,AWD00015v2,diary,25,6,1919-08-27 00:00:00 UTC,27 Aug 1919,Cologne,"[0.9775, 43.72214]","",activity,training,{},3031862,Bologne,"[5.14209, 48.20004]"
+19,AWD00015v2,diary,25,6,1919-08-28 00:00:00 UTC,28 Aug 1919,Cologne,"[0.9775, 43.72214]","",diaryDate,28 Aug 1919,"{""day""=>[""28""], ""month""=>[""Aug""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+20,AWD00015v2,diary,25,2,1919-08-28 00:00:00 UTC,28 Aug 1919,Cologne,"[0.9775, 43.72214]","",activity,training,{},3031862,Bologne,"[5.14209, 48.20004]"
+21,AWD00015v2,diary,25,11,1919-08-28 00:00:00 UTC,28 Aug 1919,Cologne,"[0.9775, 43.72214]","",domestic,sport,{},3031862,Bologne,"[5.14209, 48.20004]"
+22,AWD00015v2,diary,25,6,1919-08-29 00:00:00 UTC,29 Aug 1919,Cologne,"[0.9775, 43.72214]","",diaryDate,29 Aug 1919,"{""day""=>[""29""], ""month""=>[""Aug""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+23,AWD00015v2,diary,25,2,1919-08-29 00:00:00 UTC,29 Aug 1919,Cologne,"[0.9775, 43.72214]","",domestic,other,{},3031862,Bologne,"[5.14209, 48.20004]"
+26,AWD00015v2,diary,25,2,1919-08-29 00:00:00 UTC,29 Aug 1919,Cologne,"[0.9775, 43.72214]","",domestic,hygiene,{},3031862,Bologne,"[5.14209, 48.20004]"
+27,AWD00015v2,diary,25,6,1919-08-30 00:00:00 UTC,30 Aug 1919,Cologne,"[0.9775, 43.72214]","",diaryDate,30 Aug 1919,"{""day""=>[""30""], ""month""=>[""Aug""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+31,AWD00015v2,diary,25,2,1919-08-30 00:00:00 UTC,30 Aug 1919,Cologne,"[0.9775, 43.72214]","",activity,other,{},3031862,Bologne,"[5.14209, 48.20004]"
+1,AWD00015ub,diary,26,3,1919-08-31 00:00:00 UTC,31 Aug 1919,Cologne,"[0.9775, 43.72214]","",diaryDate,31 Aug 1919,"{""day""=>[""31""], ""month""=>[""Aug""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+4,AWD00015ub,diary,26,3,1919-08-31 00:00:00 UTC,31 Aug 1919,Cologne,"[0.9775, 43.72214]","",diaryDate,31 Aug 1919,"{""day""=>[""31""], ""month""=>[""Aug""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+5,AWD00015ub,diary,26,2,1919-08-31 00:00:00 UTC,31 Aug 1919,Cologne,"[0.9775, 43.72214]","",place,Sulz,"{""place""=>[""Sulz""], ""location""=>[""false"", ""true""], ""name""=>["""", ""Sülz""], ""lat""=>["""", ""50.91819""], ""long""=>["""", ""6.92156""], ""id""=>["""", ""2824860""]}",3031862,Bologne,"[5.14209, 48.20004]"
+7,AWD00015ub,diary,26,3,1919-08-31 00:00:00 UTC,31 Aug 1919,Cologne,"[0.9775, 43.72214]","",activity,other,{},3031862,Bologne,"[5.14209, 48.20004]"
+8,AWD00015ub,diary,26,2,1919-08-31 00:00:00 UTC,31 Aug 1919,Sulz Cologne,"[0.0, 0.0]","",place,Sulz Cologne,"{""place""=>[""Sulz Cologne""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+9,AWD00015ub,diary,26,5,1919-08-31 00:00:00 UTC,31 Aug 1919,Sulz Cologne,"[0.0, 0.0]","",domestic,religion,{},,,
+10,AWD00015ub,diary,26,4,1919-08-31 00:00:00 UTC,31 Aug 1919,Cologne,"[0.9775, 43.72214]","",place,Cologne,"{""place""=>[""Cologne""], ""location""=>[""true""], ""name""=>[""Cologne""], ""lat""=>[""43.72214""], ""long""=>[""0.9775""], ""id""=>[""3024280""]}",3031862,Bologne,"[5.14209, 48.20004]"
+11,AWD00015ub,diary,26,6,1919-08-31 00:00:00 UTC,31 Aug 1919,Cologne,"[0.9775, 43.72214]","",person,Major G G Carpenter,"{""first""=>[""G G""], ""surname""=>[""Carpenter""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",3031862,Bologne,"[5.14209, 48.20004]"
+1,AWD00015ur,diary,27,7,1919-09-01 00:00:00 UTC,1 Sep 1919,Cologne,"[0.9775, 43.72214]","",diaryDate,1 Sep 1919,"{""day""=>[""1""], ""month""=>[""Sep""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+2,AWD00015ur,diary,27,2,1919-09-01 00:00:00 UTC,1 Sep 1919,Cologne,"[0.9775, 43.72214]","",place,Sulz,"{""place""=>[""Sulz""], ""location""=>[""false"", ""true""], ""name""=>["""", ""Sülz""], ""lat""=>["""", ""50.91819""], ""long""=>["""", ""6.92156""], ""id""=>["""", ""2824860""]}",3031862,Bologne,"[5.14209, 48.20004]"
+3,AWD00015ur,diary,27,2,1919-09-01 00:00:00 UTC,1 Sep 1919,Sulz Cologne,"[0.0, 0.0]","",place,Sulz Cologne,"{""place""=>[""Sulz Cologne""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+4,AWD00015ur,diary,27,5,1919-09-01 00:00:00 UTC,1 Sep 1919,Cologne,"[0.9775, 43.72214]","",place,Cologne,"{""place""=>[""Cologne""], ""location""=>[""true""], ""name""=>[""Cologne""], ""lat""=>[""43.72214""], ""long""=>[""0.9775""], ""id""=>[""3024280""]}",3031862,Bologne,"[5.14209, 48.20004]"
+7,AWD00015ur,diary,27,3,1919-09-01 00:00:00 UTC,1 Sep 1919,Cologne,"[0.9775, 43.72214]","",activity,other,{},3031862,Bologne,"[5.14209, 48.20004]"
+8,AWD00015ur,diary,27,7,1919-09-02 00:00:00 UTC,2 Sep 1919,Cologne,"[0.9775, 43.72214]","",diaryDate,2 Sep 1919,"{""day""=>[""2""], ""month""=>[""Sep""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+9,AWD00015ur,diary,27,6,1919-09-02 00:00:00 UTC,2 Sep 1919,Cologne,"[0.9775, 43.72214]","",activity,other,{},3031862,Bologne,"[5.14209, 48.20004]"
+10,AWD00015ur,diary,27,2,1919-09-02 00:00:00 UTC,2 Sep 1919,Cologne,"[0.9775, 43.72214]","",domestic,other,{},3031862,Bologne,"[5.14209, 48.20004]"
+11,AWD00015ur,diary,27,7,1919-09-03 00:00:00 UTC,3 Sep 1919,Cologne,"[0.9775, 43.72214]","",diaryDate,3 Sep 1919,"{""day""=>[""3""], ""month""=>[""Sep""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+13,AWD00015ur,diary,27,5,1919-09-03 00:00:00 UTC,3 Sep 1919,Cologne,"[0.9775, 43.72214]","",activity,other,{},3031862,Bologne,"[5.14209, 48.20004]"
+14,AWD00015ur,diary,27,2,1919-09-03 00:00:00 UTC,3 Sep 1919,Cologne,"[0.9775, 43.72214]","",person,"Major C Pannall DSO, MC, Pannall DSO MC","{""first""=>[""C""], ""surname""=>[""Pannall DSO, MC"", ""Pannall DSO MC""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""departed_posted"", ""commander""], ""unit""=>[""""]}",3031862,Bologne,"[5.14209, 48.20004]"
+15,AWD00015ur,diary,27,6,1919-09-03 00:00:00 UTC,3 Sep 1919,Cologne,"[0.9775, 43.72214]","",person,Major C Pannall,"{""first""=>[""C""], ""surname""=>[""Pannall""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",3031862,Bologne,"[5.14209, 48.20004]"
+16,AWD00015ur,diary,27,6,1919-09-04 00:00:00 UTC,4 Sep 1919,Cologne,"[0.9775, 43.72214]","",diaryDate,4 Sep 1919,"{""day""=>[""4""], ""month""=>[""Sep""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+17,AWD00015ur,diary,27,2,1919-09-04 00:00:00 UTC,4 Sep 1919,Cologne,"[0.9775, 43.72214]","",domestic,other,{},3031862,Bologne,"[5.14209, 48.20004]"
+19,AWD00015ur,diary,27,7,1919-09-05 00:00:00 UTC,5 Sep 1919,Cologne,"[0.9775, 43.72214]","",diaryDate,5 Sep 1919,"{""day""=>[""5""], ""month""=>[""Sep""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+21,AWD00015ur,diary,27,4,1919-09-05 00:00:00 UTC,5 Sep 1919,Cologne,"[0.9775, 43.72214]","",activity,other,{},3031862,Bologne,"[5.14209, 48.20004]"
+24,AWD00015ur,diary,27,7,1919-09-06 00:00:00 UTC,6 Sep 1919,Cologne,"[0.9775, 43.72214]","",diaryDate,6 Sep 1919,"{""day""=>[""6""], ""month""=>[""Sep""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+26,AWD00015ur,diary,27,2,1919-09-06 00:00:00 UTC,6 Sep 1919,Cologne,"[0.9775, 43.72214]","",activity,other,{},3031862,Bologne,"[5.14209, 48.20004]"
+28,AWD00015ur,diary,27,8,1919-09-07 00:00:00 UTC,7 Sep 1919,Cologne,"[0.9775, 43.72214]","",diaryDate,7 Sep 1919,"{""day""=>[""7""], ""month""=>[""Sep""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+30,AWD00015ur,diary,27,6,1919-09-07 00:00:00 UTC,7 Sep 1919,Cologne,"[0.9775, 43.72214]","",domestic,religion,{},3031862,Bologne,"[5.14209, 48.20004]"
+31,AWD00015ur,diary,27,7,1919-09-08 00:00:00 UTC,8 Sep 1919,Cologne,"[0.9775, 43.72214]","",diaryDate,8 Sep 1919,"{""day""=>[""8""], ""month""=>[""Sep""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+34,AWD00015ur,diary,27,3,1919-09-08 00:00:00 UTC,8 Sep 1919,Cologne,"[0.9775, 43.72214]","",activity,other,{},3031862,Bologne,"[5.14209, 48.20004]"
+37,AWD00015ur,diary,27,7,1919-09-09 00:00:00 UTC,9 Sep 1919,Cologne,"[0.9775, 43.72214]","",diaryDate,9 Sep 1919,"{""day""=>[""9""], ""month""=>[""Sep""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+38,AWD00015ur,diary,27,5,1919-09-09 00:00:00 UTC,9 Sep 1919,Cologne,"[0.9775, 43.72214]","",domestic,inspections,{},3031862,Bologne,"[5.14209, 48.20004]"
+39,AWD00015ur,diary,27,8,1919-09-10 00:00:00 UTC,10 Sep 1919,Cologne,"[0.9775, 43.72214]","",diaryDate,10 Sep 1919,"{""day""=>[""10""], ""month""=>[""Sep""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+41,AWD00015ur,diary,27,2,1919-09-10 00:00:00 UTC,10 Sep 1919,Cologne,"[0.9775, 43.72214]","",activity,other,{},3031862,Bologne,"[5.14209, 48.20004]"
+43,AWD00015ur,diary,27,8,1919-09-10 00:00:00 UTC,10 Sep 1919,Cologne,"[0.9775, 43.72214]","",domestic,sport,{},3031862,Bologne,"[5.14209, 48.20004]"
+1,AWD00015ui,diary,28,7,1919-09-11 00:00:00 UTC,11 Sep 1919,Cologne,"[0.9775, 43.72214]","",diaryDate,11 Sep 1919,"{""day""=>[""11""], ""month""=>[""Sep""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+2,AWD00015ui,diary,28,3,1919-09-11 00:00:00 UTC,11 Sep 1919,Sulz,"[0.0, 0.0]","",place,Sulz,"{""place""=>[""Sulz""], ""location""=>[""true""], ""name""=>[""Sulz"", """", ""Sülz""], ""lat""=>[""48.6425"", """", ""50.91819""], ""long""=>[""10.92167"", """", ""6.92156""], ""id""=>[""2824862"", """", ""2824860""]}",2824860,Sülz,"[6.92156, 50.91819]"
+3,AWD00015ui,diary,28,7,1919-09-11 00:00:00 UTC,11 Sep 1919,Sulz,"[0.0, 0.0]","",domestic,sport,{},2824860,Sülz,"[6.92156, 50.91819]"
+4,AWD00015ui,diary,28,2,1919-09-11 00:00:00 UTC,11 Sep 1919,Sulz Cologne,"[0.0, 0.0]","",place,Sulz Cologne,"{""place""=>[""Sulz Cologne""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+7,AWD00015ui,diary,28,2,1919-09-11 00:00:00 UTC,11 Sep 1919,Sulz Cologne,"[0.0, 0.0]","",place,Cologne,"{""place""=>[""Cologne""], ""location""=>[""true"", ""false""], ""name""=>[""Cologne"", """"], ""lat""=>[""43.72214"", """"], ""long""=>[""0.9775"", """"], ""id""=>[""3024280"", """"]}",,,
+8,AWD00015ui,diary,28,2,1919-09-11 00:00:00 UTC,11 Sep 1919,Sulz Cologne,"[0.0, 0.0]","",activity,other,{},,,
+10,AWD00015ui,diary,28,6,1919-09-12 00:00:00 UTC,12 Sep 1919,Sulz Cologne,"[0.0, 0.0]","",diaryDate,12 Sep 1919,"{""day""=>[""12""], ""month""=>[""Sep""], ""year""=>[""1919""]}",,,
+11,AWD00015ui,diary,28,5,1919-09-12 00:00:00 UTC,12 Sep 1919,Sulz Cologne,"[0.0, 0.0]","",domestic,inspections,{},,,
+13,AWD00015ui,diary,28,7,1919-09-12 00:00:00 UTC,12 Sep 1919,Sulz Cologne,"[0.0, 0.0]","",domestic,sport,{},,,
+15,AWD00015ui,diary,28,6,1919-09-13 00:00:00 UTC,13 Sep 1919,Sulz Cologne,"[0.0, 0.0]","",diaryDate,13 Sep 1919,"{""day""=>[""13""], ""month""=>[""Sep""], ""year""=>[""1919""]}",,,
+19,AWD00015ui,diary,28,2,1919-09-13 14:00:00 UTC,13 Sep 1919,Sulz Cologne,"[0.0, 0.0]",0200PM,time,0200PM,{},,,
+20,AWD00015ui,diary,28,6,1919-09-14 00:00:00 UTC,14 Sep 1919,Sulz Cologne,"[0.0, 0.0]","",diaryDate,14 Sep 1919,"{""day""=>[""14""], ""month""=>[""Sep""], ""year""=>[""1919""]}",,,
+22,AWD00015ui,diary,28,2,1919-09-14 00:00:00 UTC,14 Sep 1919,Sulz Cologne,"[0.0, 0.0]","",domestic,medical,{},,,
+23,AWD00015ui,diary,28,2,1919-09-14 00:00:00 UTC,14 Sep 1919,Sulz Cologne,"[0.0, 0.0]","",activity,other,{},,,
+24,AWD00015ui,diary,28,2,1919-09-14 00:00:00 UTC,14 Sep 1919,Sulz Cologne,"[0.0, 0.0]","",activity,quiet,{},,,
+26,AWD00015ui,diary,28,2,1919-09-14 00:00:00 UTC,14 Sep 1919,Sulz Cologne,"[0.0, 0.0]","",domestic,other,{},,,
+27,AWD00015ui,diary,28,6,1919-09-15 00:00:00 UTC,15 Sep 1919,Sulz Cologne,"[0.0, 0.0]","",diaryDate,15 Sep 1919,"{""day""=>[""15""], ""month""=>[""Sep""], ""year""=>[""1919""]}",,,
+29,AWD00015ui,diary,28,6,1919-09-16 00:00:00 UTC,16 Sep 1919,Sulz Cologne,"[0.0, 0.0]","",diaryDate,16 Sep 1919,"{""day""=>[""16""], ""month""=>[""Sep""], ""year""=>[""1919""]}",,,
+30,AWD00015ui,diary,28,9,1919-09-16 00:00:00 UTC,16 Sep 1919,Sulz Cologne,"[0.0, 0.0]","",activity,training,{},,,
+31,AWD00015ui,diary,28,6,1919-09-17 00:00:00 UTC,17 Sep 1919,Sulz Cologne,"[0.0, 0.0]","",diaryDate,17 Sep 1919,"{""day""=>[""17""], ""month""=>[""Sep""], ""year""=>[""1919""]}",,,
+32,AWD00015ui,diary,28,4,1919-09-17 00:00:00 UTC,17 Sep 1919,Sulz Cologne,"[0.0, 0.0]","",activity,training,{},,,
+33,AWD00015ui,diary,28,2,1919-09-17 00:00:00 UTC,17 Sep 1919,Sulz Cologne,"[0.0, 0.0]","",domestic,other,{},,,
+34,AWD00015ui,diary,28,6,1919-09-18 00:00:00 UTC,18 Sep 1919,Sulz Cologne,"[0.0, 0.0]","",diaryDate,18 Sep 1919,"{""day""=>[""18""], ""month""=>[""Sep""], ""year""=>[""1919""]}",,,
+35,AWD00015ui,diary,28,4,1919-09-18 00:00:00 UTC,18 Sep 1919,Sulz Cologne,"[0.0, 0.0]","",activity,training,{},,,
+36,AWD00015ui,diary,28,6,1919-09-19 00:00:00 UTC,19 Sep 1919,Sulz Cologne,"[0.0, 0.0]","",diaryDate,19 Sep 1919,"{""day""=>[""19""], ""month""=>[""Sep""], ""year""=>[""1919""]}",,,
+38,AWD00015ui,diary,28,4,1919-09-19 00:00:00 UTC,19 Sep 1919,Sulz Cologne,"[0.0, 0.0]","",activity,training,{},,,
+39,AWD00015ui,diary,28,6,1919-09-20 00:00:00 UTC,20 Sep 1919,Sulz Cologne,"[0.0, 0.0]","",diaryDate,20 Sep 1919,"{""day""=>[""20""], ""month""=>[""Sep""], ""year""=>[""1919""]}",,,
+40,AWD00015ui,diary,28,3,1919-09-20 00:00:00 UTC,20 Sep 1919,Sulz Cologne,"[0.0, 0.0]","",activity,other,{},,,
+41,AWD00015ui,diary,28,7,1919-09-21 00:00:00 UTC,21 Sep 1919,Sulz Cologne,"[0.0, 0.0]","",diaryDate,21 Sep 1919,"{""day""=>[""21""], ""month""=>[""Sep""], ""year""=>[""1919""]}",,,
+42,AWD00015ui,diary,28,6,1919-09-21 00:00:00 UTC,21 Sep 1919,Sulz Cologne,"[0.0, 0.0]","",domestic,religion,{},,,
+44,AWD00015ui,diary,28,2,1919-09-21 00:00:00 UTC,21 Sep 1919,Sulz Cologne,"[0.0, 0.0]","",activity,other,{},,,
+2,AWD00015ug,diary,29,6,1919-09-22 00:00:00 UTC,22 Sep 1919,Sulz Cologne,"[0.0, 0.0]","",diaryDate,22 Sep 1919,"{""day""=>[""22""], ""month""=>[""Sep""], ""year""=>[""1919""]}",,,
+3,AWD00015ug,diary,29,2,1919-09-22 00:00:00 UTC,22 Sep 1919,Sulz Cologne,"[0.0, 0.0]","",domestic,other,{},,,
+5,AWD00015ug,diary,29,2,1919-09-22 00:00:00 UTC,22 Sep 1919,Sulz Cologne,"[0.0, 0.0]","",place,Sulz,"{""place""=>[""Sulz""], ""location""=>[""false"", ""true""], ""name""=>["""", ""Sülz""], ""lat""=>["""", ""50.91819""], ""long""=>["""", ""6.92156""], ""id""=>["""", ""2824860""]}",,,
+6,AWD00015ug,diary,29,2,1919-09-22 00:00:00 UTC,22 Sep 1919,Sulz Cologne,"[0.0, 0.0]","",place,Sulz Cologne,"{""place""=>[""Sulz Cologne""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+7,AWD00015ug,diary,29,3,1919-09-22 00:00:00 UTC,22 Sep 1919,Cologne,"[0.0, 0.0]","",place,Cologne,"{""place""=>[""Cologne""], ""location""=>[""true""], ""name""=>[""Cologne"", """", ""Köln""], ""lat""=>[""43.72214"", """", ""50.93333""], ""long""=>[""0.9775"", """", ""6.95""], ""id""=>[""3024280"", """", ""2886242""]}",3031862,Bologne,"[5.14209, 48.20004]"
+8,AWD00015ug,diary,29,5,1919-09-23 00:00:00 UTC,23 Sep 1919,Cologne,"[0.0, 0.0]","",diaryDate,23 Sep 1919,"{""day""=>[""23""], ""month""=>[""Sep""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+10,AWD00015ug,diary,29,3,1919-09-23 00:00:00 UTC,23 Sep 1919,Cologne,"[0.0, 0.0]","",domestic,other,{},3031862,Bologne,"[5.14209, 48.20004]"
+13,AWD00015ug,diary,29,5,1919-09-24 00:00:00 UTC,24 Sep 1919,Cologne,"[0.0, 0.0]","",diaryDate,24 Sep 1919,"{""day""=>[""24""], ""month""=>[""Sep""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+14,AWD00015ug,diary,29,5,1919-09-24 00:00:00 UTC,24 Sep 1919,Cologne,"[0.0, 0.0]","",activity,other,{},3031862,Bologne,"[5.14209, 48.20004]"
+15,AWD00015ug,diary,29,2,1919-09-24 00:00:00 UTC,24 Sep 1919,Cologne,"[0.0, 0.0]","",domestic,other,{},3031862,Bologne,"[5.14209, 48.20004]"
+16,AWD00015ug,diary,29,5,1919-09-25 00:00:00 UTC,25 Sep 1919,Cologne,"[0.0, 0.0]","",diaryDate,25 Sep 1919,"{""day""=>[""25""], ""month""=>[""Sep""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+18,AWD00015ug,diary,29,3,1919-09-25 00:00:00 UTC,25 Sep 1919,Cologne,"[0.0, 0.0]","",activity,other,{},3031862,Bologne,"[5.14209, 48.20004]"
+19,AWD00015ug,diary,29,4,1919-09-26 00:00:00 UTC,26 Sep 1919,Cologne,"[0.0, 0.0]","",diaryDate,26 Sep 1919,"{""day""=>[""26""], ""month""=>[""Sep""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+20,AWD00015ug,diary,29,2,1919-09-26 00:00:00 UTC,26 Sep 1919,Cologne,"[0.0, 0.0]","",domestic,other,{},3031862,Bologne,"[5.14209, 48.20004]"
+21,AWD00015ug,diary,29,2,1919-09-26 00:00:00 UTC,26 Sep 1919,Cologne,"[0.0, 0.0]","",activity,other,{},3031862,Bologne,"[5.14209, 48.20004]"
+23,AWD00015ug,diary,29,5,1919-09-27 00:00:00 UTC,27 Sep 1919,Cologne,"[0.0, 0.0]","",diaryDate,27 Sep 1919,"{""day""=>[""27""], ""month""=>[""Sep""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+24,AWD00015ug,diary,29,5,1919-09-27 00:00:00 UTC,27 Sep 1919,Cologne,"[0.0, 0.0]","",domestic,sport,{},3031862,Bologne,"[5.14209, 48.20004]"
+25,AWD00015ug,diary,29,5,1919-09-28 00:00:00 UTC,28 Sep 1919,Cologne,"[0.0, 0.0]","",diaryDate,28 Sep 1919,"{""day""=>[""28""], ""month""=>[""Sep""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+26,AWD00015ug,diary,29,5,1919-09-28 00:00:00 UTC,28 Sep 1919,Cologne,"[0.0, 0.0]","",domestic,religion,{},3031862,Bologne,"[5.14209, 48.20004]"
+27,AWD00015ug,diary,29,5,1919-09-29 00:00:00 UTC,29 Sep 1919,Cologne,"[0.0, 0.0]","",diaryDate,29 Sep 1919,"{""day""=>[""29""], ""month""=>[""Sep""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+28,AWD00015ug,diary,29,2,1919-09-29 00:00:00 UTC,29 Sep 1919,Cologne,"[0.0, 0.0]","",activity,other,{},3031862,Bologne,"[5.14209, 48.20004]"
+29,AWD00015ug,diary,29,2,1919-09-29 00:00:00 UTC,29 Sep 1919,Cologne,"[0.0, 0.0]","",domestic,other,{},3031862,Bologne,"[5.14209, 48.20004]"
+30,AWD00015ug,diary,29,6,1919-09-30 00:00:00 UTC,30 Sep 1919,Cologne,"[0.0, 0.0]","",diaryDate,30 Sep 1919,"{""day""=>[""30""], ""month""=>[""Sep""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+31,AWD00015ug,diary,29,2,1919-09-30 00:00:00 UTC,30 Sep 1919,Cologne,"[0.0, 0.0]","",activity,other,{},3031862,Bologne,"[5.14209, 48.20004]"
+32,AWD00015ug,diary,29,4,1919-09-30 00:00:00 UTC,30 Sep 1919,Cologne,"[0.0, 0.0]","",person,"Major ,C Pannall","{""first""=>["""", ""C""], ""surname""=>[""Pannall""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""51 Bat Northumberland Fus"", ""51st Battallion Northumberland Fusille"", ""51st Battalion Northumberland Fusiliers"", """"]}",3031862,Bologne,"[5.14209, 48.20004]"
+3,AWD00015uf,diary,30,3,1919-09-30 00:00:00 UTC,30 Sep 1919,Sulz,"[0.0, 0.0]","",place,Sulz,"{""place""=>[""Sulz""], ""location""=>[""true""], ""name""=>[""Sulz"", """", ""Sülz""], ""lat""=>[""48.6425"", """", ""50.91819""], ""long""=>[""10.92167"", """", ""6.92156""], ""id""=>[""2824862"", """", ""2824860""]}",2824860,Sülz,"[6.92156, 50.91819]"
+4,AWD00015uf,diary,30,3,1919-09-30 00:00:00 UTC,30 Sep 1919,Cologne,"[0.0, 0.0]","",place,Cologne,"{""place""=>[""Cologne""], ""location""=>[""true""], ""name""=>[""Cologne"", ""Köln"", """"], ""lat""=>[""43.72214"", ""50.93333"", """"], ""long""=>[""0.9775"", ""6.95"", """"], ""id""=>[""3024280"", ""2886242"", """"]}",3031862,Bologne,"[5.14209, 48.20004]"
+5,AWD00015uf,diary,30,2,1919-09-30 00:00:00 UTC,30 Sep 1919,Sulz Cologne,"[0.0, 0.0]","",place,Sulz Cologne,"{""place""=>[""Sulz Cologne""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+6,AWD00015uf,diary,30,7,1919-10-01 00:00:00 UTC,1 Oct 1919,Sulz Cologne,"[0.0, 0.0]","",diaryDate,1 Oct 1919,"{""day""=>[""1""], ""month""=>[""Oct""], ""year""=>[""1919""]}",,,
+8,AWD00015uf,diary,30,3,1919-10-01 00:00:00 UTC,1 Oct 1919,Sulz Cologne,"[0.0, 0.0]","",activity,other,{},,,
+10,AWD00015uf,diary,30,2,1919-10-01 00:00:00 UTC,1 Oct 1919,Sulz Cologne,"[0.0, 0.0]","",domestic,other,{},,,
+11,AWD00015uf,diary,30,5,1919-10-02 00:00:00 UTC,2 Oct 1919,Sulz Cologne,"[0.0, 0.0]","",diaryDate,2 Oct 1919,"{""day""=>[""2""], ""month""=>[""Oct""], ""year""=>[""1919""]}",,,
+13,AWD00015uf,diary,30,2,1919-10-02 00:00:00 UTC,2 Oct 1919,Sulz Cologne,"[0.0, 0.0]","",person," Sir H M Thompson KCMG DSO AMS, Thompson KCMG, DSO, AMS","{""first""=>[""Sir H M""], ""surname""=>[""Thompson KCMG DSO AMS"", ""Thompson KCMG, DSO, AMS""], ""rank""=>[""""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+15,AWD00015uf,diary,30,2,1919-10-02 00:00:00 UTC,2 Oct 1919,Sulz Cologne,"[0.0, 0.0]","",domestic,sport,{},,,
+16,AWD00015uf,diary,30,2,1919-10-02 00:00:00 UTC,2 Oct 1919,Sulz Cologne,"[0.0, 0.0]","",person,",other H M, Thompson","{""first""=>[""H M"", """"], ""surname""=>[""Thompson""], ""rank""=>["""", ""other""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+17,AWD00015uf,diary,30,2,1919-10-02 00:00:00 UTC,2 Oct 1919,Sulz Cologne,"[0.0, 0.0]","",activity,other,{},,,
+18,AWD00015uf,diary,30,6,1919-10-03 00:00:00 UTC,3 Oct 1919,Sulz Cologne,"[0.0, 0.0]","",diaryDate,3 Oct 1919,"{""day""=>[""3""], ""month""=>[""Oct""], ""year""=>[""1919""]}",,,
+20,AWD00015uf,diary,30,2,1919-10-03 00:00:00 UTC,3 Oct 1919,Sulz Cologne,"[0.0, 0.0]","",domestic,other,{},,,
+21,AWD00015uf,diary,30,6,1919-10-04 00:00:00 UTC,4 Oct 1919,Sulz Cologne,"[0.0, 0.0]","",diaryDate,4 Oct 1919,"{""day""=>[""4""], ""month""=>[""Oct""], ""year""=>[""1919""]}",,,
+22,AWD00015uf,diary,30,3,1919-10-04 00:00:00 UTC,4 Oct 1919,Sulz Cologne,"[0.0, 0.0]","",activity,other,{},,,
+23,AWD00015uf,diary,30,6,1919-10-04 00:00:00 UTC,4 Oct 1919,Sulz Cologne,"[0.0, 0.0]","",domestic,sport,{},,,
+25,AWD00015uf,diary,30,2,1919-10-04 00:00:00 UTC,4 Oct 1919,Sulz Cologne,"[0.0, 0.0]","",place,"Marlemburg, Marienberg","{""place""=>[""Marlemburg"", ""Marienberg""], ""location""=>[""true"", ""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+27,AWD00015uf,diary,30,7,1919-10-05 00:00:00 UTC,5 Oct 1919,Sulz Cologne,"[0.0, 0.0]","",diaryDate,5 Oct 1919,"{""day""=>[""5""], ""month""=>[""Oct""], ""year""=>[""1919""]}",,,
+28,AWD00015uf,diary,30,4,1919-10-05 00:00:00 UTC,5 Oct 1919,Sulz Cologne,"[0.0, 0.0]","",domestic,religion,{},,,
+32,AWD00015uf,diary,30,2,1919-10-05 00:00:00 UTC,5 Oct 1919,Sulz Cologne,"[0.0, 0.0]","",activity,other,{},,,
+33,AWD00015uf,diary,30,2,1919-10-05 00:00:00 UTC,5 Oct 1919,Sulz Cologne,"[0.0, 0.0]","",activity,reconnoitered,{},,,
+34,AWD00015uf,diary,30,6,1919-10-06 00:00:00 UTC,6 Oct 1919,Sulz Cologne,"[0.0, 0.0]","",diaryDate,6 Oct 1919,"{""day""=>[""6""], ""month""=>[""Oct""], ""year""=>[""1919""]}",,,
+36,AWD00015uf,diary,30,2,1919-10-06 00:00:00 UTC,6 Oct 1919,Sulz Cologne,"[0.0, 0.0]","",activity,other,{},,,
+37,AWD00015uf,diary,30,2,1919-10-06 00:00:00 UTC,6 Oct 1919,Sulz Cologne,"[0.0, 0.0]","",activity,reconnoitered,{},,,
+38,AWD00015uf,diary,30,6,1919-10-07 00:00:00 UTC,7 Oct 1919,Sulz Cologne,"[0.0, 0.0]","",diaryDate,7 Oct 1919,"{""day""=>[""7""], ""month""=>[""Oct""], ""year""=>[""1919""]}",,,
+40,AWD00015uf,diary,30,4,1919-10-07 00:00:00 UTC,7 Oct 1919,Sulz Cologne,"[0.0, 0.0]","",activity,other,{},,,
+41,AWD00015uf,diary,30,2,1919-10-07 00:00:00 UTC,7 Oct 1919,Sulz Cologne,"[0.0, 0.0]","",domestic,other,{},,,
+42,AWD00015uf,diary,30,3,1919-10-07 00:00:00 UTC,7 Oct 1919,Sulz Cologne,"[0.0, 0.0]","",activity,reconnoitered,{},,,
+43,AWD00015uf,diary,30,5,1919-10-08 00:00:00 UTC,8 Oct 1919,Sulz Cologne,"[0.0, 0.0]","",diaryDate,8 Oct 1919,"{""day""=>[""8""], ""month""=>[""Oct""], ""year""=>[""1919""]}",,,
+44,AWD00015uf,diary,30,6,1919-10-09 00:00:00 UTC,9 Oct 1919,Sulz Cologne,"[0.0, 0.0]","",diaryDate,9 Oct 1919,"{""day""=>[""9""], ""month""=>[""Oct""], ""year""=>[""1919""]}",,,
+45,AWD00015uf,diary,30,2,1919-10-09 00:00:00 UTC,9 Oct 1919,Sulz Cologne,"[0.0, 0.0]","",activity,other,{},,,
+47,AWD00015uf,diary,30,4,1919-10-09 00:00:00 UTC,9 Oct 1919,Sulz Cologne,"[0.0, 0.0]","",activity,reconnoitered,{},,,
+48,AWD00015uf,diary,30,7,1919-10-10 00:00:00 UTC,10 Oct 1919,Sulz Cologne,"[0.0, 0.0]","",diaryDate,10 Oct 1919,"{""day""=>[""10""], ""month""=>[""Oct""], ""year""=>[""1919""]}",,,
+49,AWD00015uf,diary,30,2,1919-10-10 00:00:00 UTC,10 Oct 1919,Sulz Cologne,"[0.0, 0.0]","",activity,other,{},,,
+50,AWD00015uf,diary,30,7,1919-10-10 00:00:00 UTC,10 Oct 1919,Sulz Cologne,"[0.0, 0.0]","",person,Private J Benyon,"{""first""=>[""J""], ""surname""=>[""Benyon""], ""rank""=>[""Private""], ""number""=>[""""], ""reason""=>[""casualty_non""], ""unit""=>[""""]}",,,
+51,AWD00015uf,diary,30,5,1919-10-10 00:00:00 UTC,10 Oct 1919,Sudfiedhof,"[0.0, 0.0]","",place,Sudfiedhof,"{""place""=>[""Sudfiedhof""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+1,AWD00015v1,diary,31,7,1919-10-11 00:00:00 UTC,11 Oct 1919,Sudfiedhof,"[0.0, 0.0]","",diaryDate,11 Oct 1919,"{""day""=>[""11""], ""month""=>[""Oct""], ""year""=>[""1919""]}",,,
+2,AWD00015v1,diary,31,3,1919-10-11 00:00:00 UTC,11 Oct 1919,Sulz,"[10.92167, 48.6425]","",place,Sulz,"{""place""=>[""Sulz""], ""location""=>[""true""], ""name""=>[""Sulz""], ""lat""=>[""48.6425""], ""long""=>[""10.92167""], ""id""=>[""2824862""]}",2824860,Sülz,"[6.92156, 50.91819]"
+3,AWD00015v1,diary,31,2,1919-10-11 00:00:00 UTC,11 Oct 1919,Sulz,"[10.92167, 48.6425]","",activity,other,{},2824860,Sülz,"[6.92156, 50.91819]"
+5,AWD00015v1,diary,31,2,1919-10-11 00:00:00 UTC,11 Oct 1919,Sulz Cologne,"[0.0, 0.0]","",place,Sulz Cologne,"{""place""=>[""Sulz Cologne""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+6,AWD00015v1,diary,31,7,1919-10-11 00:00:00 UTC,11 Oct 1919,Sulz Cologne,"[0.0, 0.0]","",domestic,sport,{},,,
+7,AWD00015v1,diary,31,3,1919-10-11 00:00:00 UTC,11 Oct 1919,Cologne,"[0.0, 0.0]","",place,Cologne,"{""place""=>[""Cologne""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3031862,Bologne,"[5.14209, 48.20004]"
+8,AWD00015v1,diary,31,6,1919-10-12 00:00:00 UTC,12 Oct 1919,Cologne,"[0.0, 0.0]","",diaryDate,12 Oct 1919,"{""day""=>[""12""], ""month""=>[""Oct""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+9,AWD00015v1,diary,31,6,1919-10-12 00:00:00 UTC,12 Oct 1919,Cologne,"[0.0, 0.0]","",domestic,religion,{},3031862,Bologne,"[5.14209, 48.20004]"
+10,AWD00015v1,diary,31,6,1919-10-13 00:00:00 UTC,13 Oct 1919,Cologne,"[0.0, 0.0]","",diaryDate,13 Oct 1919,"{""day""=>[""13""], ""month""=>[""Oct""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+14,AWD00015v1,diary,31,2,1919-10-13 00:00:00 UTC,13 Oct 1919,Cologne,"[0.0, 0.0]","",activity,other,{},3031862,Bologne,"[5.14209, 48.20004]"
+15,AWD00015v1,diary,31,6,1919-10-14 00:00:00 UTC,14 Oct 1919,Cologne,"[0.0, 0.0]","",diaryDate,14 Oct 1919,"{""day""=>[""14""], ""month""=>[""Oct""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+16,AWD00015v1,diary,31,6,1919-10-14 00:00:00 UTC,14 Oct 1919,Cologne,"[0.0, 0.0]","",person,Lieutenant Colonel W P S Foord,"{""first""=>[""W P S""], ""surname""=>[""Foord""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",3031862,Bologne,"[5.14209, 48.20004]"
+18,AWD00015v1,diary,31,6,1919-10-14 00:00:00 UTC,14 Oct 1919,Cologne,"[0.0, 0.0]","",domestic,sport,{},3031862,Bologne,"[5.14209, 48.20004]"
+19,AWD00015v1,diary,31,2,1919-10-14 00:00:00 UTC,14 Oct 1919,Cologne,"[0.0, 0.0]","",unit,"Sgt Mess 51st  Northumberland Fusiliers, Sgt Mess 52nd  Northumberland Fusiliers","{""name""=>[""Sgt Mess 51st  Northumberland Fusiliers"", ""Sgt Mess 52nd  Northumberland Fusiliers""], ""context""=>[""other""]}",3031862,Bologne,"[5.14209, 48.20004]"
+21,AWD00015v1,diary,31,6,1919-10-15 00:00:00 UTC,15 Oct 1919,Cologne,"[0.0, 0.0]","",diaryDate,15 Oct 1919,"{""day""=>[""15""], ""month""=>[""Oct""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+25,AWD00015v1,diary,31,2,1919-10-15 00:00:00 UTC,15 Oct 1919,Cologne,"[0.0, 0.0]","",activity,other,{},3031862,Bologne,"[5.14209, 48.20004]"
+26,AWD00015v1,diary,31,2,1919-10-15 00:00:00 UTC,15 Oct 1919,Cologne,"[0.0, 0.0]","",activity,reconnoitered,{},3031862,Bologne,"[5.14209, 48.20004]"
+27,AWD00015v1,diary,31,6,1919-10-16 00:00:00 UTC,16 Oct 1919,Cologne,"[0.0, 0.0]","",diaryDate,16 Oct 1919,"{""day""=>[""16""], ""month""=>[""Oct""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+31,AWD00015v1,diary,31,7,1919-10-16 00:00:00 UTC,16 Oct 1919,Cologne,"[0.0, 0.0]","",domestic,sport,{},3031862,Bologne,"[5.14209, 48.20004]"
+32,AWD00015v1,diary,31,6,1919-10-17 00:00:00 UTC,17 Oct 1919,Cologne,"[0.0, 0.0]","",diaryDate,17 Oct 1919,"{""day""=>[""17""], ""month""=>[""Oct""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+36,AWD00015v1,diary,31,2,1919-10-17 00:00:00 UTC,17 Oct 1919,Cologne,"[0.0, 0.0]","",domestic,other,{},3031862,Bologne,"[5.14209, 48.20004]"
+37,AWD00015v1,diary,31,6,1919-10-18 00:00:00 UTC,18 Oct 1919,Cologne,"[0.0, 0.0]","",diaryDate,18 Oct 1919,"{""day""=>[""18""], ""month""=>[""Oct""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+38,AWD00015v1,diary,31,2,1919-10-18 00:00:00 UTC,18 Oct 1919,Cologne,"[0.0, 0.0]","",activity,other,{},3031862,Bologne,"[5.14209, 48.20004]"
+39,AWD00015v1,diary,31,7,1919-10-18 00:00:00 UTC,18 Oct 1919,Cologne,"[0.0, 0.0]","",domestic,sport,{},3031862,Bologne,"[5.14209, 48.20004]"
+42,AWD00015v1,diary,31,7,1919-10-19 00:00:00 UTC,19 Oct 1919,Cologne,"[0.0, 0.0]","",diaryDate,19 Oct 1919,"{""day""=>[""19""], ""month""=>[""Oct""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+43,AWD00015v1,diary,31,5,1919-10-19 00:00:00 UTC,19 Oct 1919,Cologne,"[0.0, 0.0]","",domestic,religion,{},3031862,Bologne,"[5.14209, 48.20004]"
+45,AWD00015v1,diary,31,7,1919-10-20 00:00:00 UTC,20 Oct 1919,Cologne,"[0.0, 0.0]","",diaryDate,20 Oct 1919,"{""day""=>[""20""], ""month""=>[""Oct""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+46,AWD00015v1,diary,31,2,1919-10-20 00:00:00 UTC,20 Oct 1919,Cologne,"[0.0, 0.0]","",activity,other,{},3031862,Bologne,"[5.14209, 48.20004]"
+47,AWD00015v1,diary,31,2,1919-10-20 00:00:00 UTC,20 Oct 1919,Cologne,"[0.0, 0.0]","",activity,reconnoitered,{},3031862,Bologne,"[5.14209, 48.20004]"
+1,AWD00015un,diary,32,7,1919-10-21 00:00:00 UTC,21 Oct 1919,Cologne,"[0.0, 0.0]","",diaryDate,21 Oct 1919,"{""day""=>[""21""], ""month""=>[""Oct""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+2,AWD00015un,diary,32,3,1919-10-21 00:00:00 UTC,21 Oct 1919,Sulz,"[10.92167, 48.6425]","",place,Sulz,"{""place""=>[""Sulz""], ""location""=>[""true""], ""name""=>[""Sulz""], ""lat""=>[""48.6425""], ""long""=>[""10.92167""], ""id""=>[""2824862""]}",2824860,Sülz,"[6.92156, 50.91819]"
+4,AWD00015un,diary,32,2,1919-10-21 00:00:00 UTC,21 Oct 1919,Sulz Cologne,"[0.0, 0.0]","",place,Sulz Cologne,"{""place""=>[""Sulz Cologne""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+6,AWD00015un,diary,32,4,1919-10-21 00:00:00 UTC,21 Oct 1919,Sulz Cologne,"[0.0, 0.0]","",activity,other,{},,,
+8,AWD00015un,diary,32,3,1919-10-21 00:00:00 UTC,21 Oct 1919,Cologne,"[0.0, 0.0]","",place,Cologne,"{""place""=>[""Cologne""], ""location""=>[""true""], ""name""=>[""Cologne"", """", ""Köln""], ""lat""=>[""43.72214"", """", ""50.93333""], ""long""=>[""0.9775"", """", ""6.95""], ""id""=>[""3024280"", """", ""2886242""]}",3031862,Bologne,"[5.14209, 48.20004]"
+10,AWD00015un,diary,32,6,1919-10-22 00:00:00 UTC,22 Oct 1919,Cologne,"[0.0, 0.0]","",diaryDate,22 Oct 1919,"{""day""=>[""22""], ""month""=>[""Oct""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+13,AWD00015un,diary,32,3,1919-10-22 00:00:00 UTC,22 Oct 1919,Cologne,"[0.0, 0.0]","",activity,other,{},3031862,Bologne,"[5.14209, 48.20004]"
+14,AWD00015un,diary,32,6,1919-10-23 00:00:00 UTC,23 Oct 1919,Cologne,"[0.0, 0.0]","",diaryDate,23 Oct 1919,"{""day""=>[""23""], ""month""=>[""Oct""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+20,AWD00015un,diary,32,2,1919-10-23 00:00:00 UTC,23 Oct 1919,Cologne,"[0.0, 0.0]","",domestic,other,{},3031862,Bologne,"[5.14209, 48.20004]"
+21,AWD00015un,diary,32,2,1919-10-23 00:00:00 UTC,23 Oct 1919,Cologne,"[0.0, 0.0]","",activity,other,{},3031862,Bologne,"[5.14209, 48.20004]"
+22,AWD00015un,diary,32,6,1919-10-24 00:00:00 UTC,24 Oct 1919,Cologne,"[0.0, 0.0]","",diaryDate,24 Oct 1919,"{""day""=>[""24""], ""month""=>[""Oct""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+25,AWD00015un,diary,32,3,1919-10-24 00:00:00 UTC,24 Oct 1919,Cologne,"[0.0, 0.0]","",activity,other,{},3031862,Bologne,"[5.14209, 48.20004]"
+26,AWD00015un,diary,32,5,1919-10-25 00:00:00 UTC,25 Oct 1919,Cologne,"[0.0, 0.0]","",diaryDate,25 Oct 1919,"{""day""=>[""25""], ""month""=>[""Oct""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+30,AWD00015un,diary,32,7,1919-10-26 00:00:00 UTC,26 Oct 1919,Cologne,"[0.0, 0.0]","",diaryDate,26 Oct 1919,"{""day""=>[""26""], ""month""=>[""Oct""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+31,AWD00015un,diary,32,6,1919-10-26 00:00:00 UTC,26 Oct 1919,Cologne,"[0.0, 0.0]","",domestic,religion,{},3031862,Bologne,"[5.14209, 48.20004]"
+32,AWD00015un,diary,32,6,1919-10-27 00:00:00 UTC,27 Oct 1919,Cologne,"[0.0, 0.0]","",diaryDate,27 Oct 1919,"{""day""=>[""27""], ""month""=>[""Oct""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+33,AWD00015un,diary,32,2,1919-10-27 00:00:00 UTC,27 Oct 1919,Cologne,"[0.0, 0.0]","",activity,other,{},3031862,Bologne,"[5.14209, 48.20004]"
+35,AWD00015un,diary,32,2,1919-10-27 00:00:00 UTC,27 Oct 1919,Cologne,"[0.0, 0.0]","",domestic,other,{},3031862,Bologne,"[5.14209, 48.20004]"
+36,AWD00015un,diary,32,6,1919-10-28 00:00:00 UTC,28 Oct 1919,Cologne,"[0.0, 0.0]","",diaryDate,28 Oct 1919,"{""day""=>[""28""], ""month""=>[""Oct""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+38,AWD00015un,diary,32,2,1919-10-28 00:00:00 UTC,28 Oct 1919,Cologne,"[0.0, 0.0]","",activity,other,{},3031862,Bologne,"[5.14209, 48.20004]"
+39,AWD00015un,diary,32,2,1919-10-28 00:00:00 UTC,28 Oct 1919,Cologne,"[0.0, 0.0]","",activity,reconnoitered,{},3031862,Bologne,"[5.14209, 48.20004]"
+40,AWD00015un,diary,32,6,1919-10-29 00:00:00 UTC,29 Oct 1919,Cologne,"[0.0, 0.0]","",diaryDate,29 Oct 1919,"{""day""=>[""29""], ""month""=>[""Oct""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+43,AWD00015un,diary,32,3,1919-10-29 00:00:00 UTC,29 Oct 1919,Cologne,"[0.0, 0.0]","",activity,other,{},3031862,Bologne,"[5.14209, 48.20004]"
+44,AWD00015un,diary,32,5,1919-10-30 00:00:00 UTC,30 Oct 1919,Cologne,"[0.0, 0.0]","",diaryDate,30 Oct 1919,"{""day""=>[""30""], ""month""=>[""Oct""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+48,AWD00015un,diary,32,6,1919-10-31 00:00:00 UTC,31 Oct 1919,Cologne,"[0.0, 0.0]","",diaryDate,31 Oct 1919,"{""day""=>[""31""], ""month""=>[""Oct""], ""year""=>[""1919""]}",3031862,Bologne,"[5.14209, 48.20004]"
+49,AWD00015un,diary,32,2,1919-10-31 00:00:00 UTC,31 Oct 1919,Cologne,"[0.0, 0.0]","",activity,other,{},3031862,Bologne,"[5.14209, 48.20004]"

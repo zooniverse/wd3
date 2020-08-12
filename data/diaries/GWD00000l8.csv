@@ -1,0 +1,560 @@
+Order,Page,Page type,Page number,Count,DateTime,Date,Place,Lat/Lon,Time,Type,Label,Data,GeoID,GeoName,GeoCoords
+2,AWD00032iy,diary,729,2,,"1 Sep,Aug 1918","","[0.0, 0.0]","",diaryDate,"1 Sep,Aug 1918","{""day""=>[""1""], ""month""=>[""Sep"", ""Aug""], ""year""=>[""1918""]}",2985684,Pozières,"[2.72929, 50.04047]"
+4,AWD00032iy,diary,729,3,,"1 Sep,Aug 1918","","[0.0, 0.0]","",activity,movement,{},2985684,Pozières,"[2.72929, 50.04047]"
+5,AWD00032iy,diary,729,4,,"1 Sep,Aug 1918",Arras,"[2.78186, 50.29301]","",place,Arras,"{""place""=>[""Arras""], ""location""=>[""true""], ""name""=>[""Arras""], ""lat""=>[""50.29301""], ""long""=>[""2.78186""], ""id""=>[""3036784""]}",2967451,Warlus,"[2.66872, 50.27482]"
+6,AWD00032iy,diary,729,3,,"1 Sep,Aug 1918",Arras,"[2.78186, 50.29301]",0400AM,time,0400AM,{},2967451,Warlus,"[2.66872, 50.27482]"
+7,AWD00032iy,diary,729,3,,"1 Sep,Aug 1918",Arras,"[2.78186, 50.29301]",0400AM,activity,movement,{},2967451,Warlus,"[2.66872, 50.27482]"
+8,AWD00032iy,diary,729,2,,"1 Sep,Aug 1918",Arras,"[2.78186, 50.29301]",0400AM,activity,reconnoitered,{},2967451,Warlus,"[2.66872, 50.27482]"
+9,AWD00032iy,diary,729,2,,"1 Sep,Aug 1918",Arras,"[2.78186, 50.29301]",0930PM,time,0930PM,{},2967451,Warlus,"[2.66872, 50.27482]"
+11,AWD00032iy,diary,729,4,,"1 Sep,Aug 1918","Guemappe, guemappe","[2.88984, 50.25428]",0930PM,place,"Guemappe, guemappe","{""place""=>[""Guemappe"", ""guemappe""], ""location""=>[""true""], ""name""=>[""Guémappe""], ""lat""=>[""50.25428""], ""long""=>[""2.88984""], ""id""=>[""3014416""]}",3014416,Guémappe,"[2.88984, 50.25428]"
+12,AWD00032iy,diary,729,3,,"1 Sep,Aug 1918","Guemappe, guemappe","[2.88984, 50.25428]",0930PM,weather,cold,{},3014416,Guémappe,"[2.88984, 50.25428]"
+13,AWD00032iy,diary,729,3,,"1 Sep,Aug 1918","Guemappe, guemappe","[2.88984, 50.25428]",0930PM,casualties,casualties: 0,{},3014416,Guémappe,"[2.88984, 50.25428]"
+14,AWD00032iy,diary,729,3,1918-09-02 00:00:00 UTC,2 Sep 1918,"Guemappe, guemappe","[2.88984, 50.25428]","",diaryDate,2 Sep 1918,"{""day""=>[""2""], ""month""=>[""Sep""], ""year""=>[""1918""]}",3014416,Guémappe,"[2.88984, 50.25428]"
+17,AWD00032iy,diary,729,2,1918-09-02 00:00:00 UTC,2 Sep 1918,Drocourt-Queant Line,"[2.88984, 50.25428]","",place,Drocourt-Queant Line,"{""place""=>[""Drocourt-Queant Line""], ""location""=>[""true""], ""name""=>["""", ""Guémappe""], ""lat""=>["""", ""50.25428""], ""long""=>["""", ""2.88984""], ""id""=>["""", ""3014416""]}",,,
+18,AWD00032iy,diary,729,2,1918-09-02 05:00:00 UTC,2 Sep 1918,Drocourt-Queant Line,"[2.88984, 50.25428]",0500AM,time,0500AM,{},,,
+19,AWD00032iy,diary,729,3,1918-09-02 05:00:00 UTC,2 Sep 1918,Drocourt-Queant Line,"[2.88984, 50.25428]",0500AM,place,Dury,"{""place""=>[""Dury""], ""location""=>[""false""], ""name""=>[""Dury""], ""lat""=>[""50.24689""], ""long""=>[""3.00736""], ""id""=>[""3020616""]}",,,
+22,AWD00032iy,diary,729,2,1918-09-02 05:00:00 UTC,2 Sep 1918,Drocourt-Queant Line,"[2.88984, 50.25428]",0500AM,place,drocourt,"{""place""=>[""drocourt""], ""location""=>[""false""], ""name""=>[""Drocourt""], ""lat""=>[""50.39002""], ""long""=>[""2.92425""], ""id""=>[""3020792""]}",,,
+24,AWD00032iy,diary,729,2,1918-09-02 05:00:00 UTC,2 Sep 1918,Drocourt-Queant Line,"[2.88984, 50.25428]",0500AM,unit,British Division,"{""name""=>[""British Division""], ""context""=>[""other""]}",,,
+25,AWD00032iy,diary,729,4,1918-09-02 05:00:00 UTC,2 Sep 1918,Drocourt-Queant Line,"[2.88984, 50.25428]",0500AM,place,Etaing,"{""place""=>[""Etaing""], ""location""=>[""false""], ""name""=>[""Étaing""], ""lat""=>[""50.2737""], ""long""=>[""3.00005""], ""id""=>[""3019472""]}",,,
+30,AWD00032iy,diary,729,4,1918-09-02 05:00:00 UTC,2 Sep 1918,Drocourt-Queant Line,"[2.88984, 50.25428]",0500AM,activity,movement,{},,,
+31,AWD00032iy,diary,729,3,1918-09-02 05:00:00 UTC,2 Sep 1918,Drocourt-Queant Line,"[2.88984, 50.25428]",0500AM,place,Guemappe,"{""place""=>[""Guemappe""], ""location""=>[""false""], ""name""=>[""Guémappe""], ""lat""=>[""50.25428""], ""long""=>[""2.88984""], ""id""=>[""3014416""]}",,,
+32,AWD00032iy,diary,729,2,1918-09-02 09:30:00 UTC,2 Sep 1918,Drocourt-Queant Line,"[2.88984, 50.25428]",0930AM,time,0930AM,{},,,
+33,AWD00032iy,diary,729,2,1918-09-02 09:30:00 UTC,2 Sep 1918,Drocourt-Queant Line,"[2.88984, 50.25428]",0930AM,place,"Vis, vis","{""place""=>[""Vis"", ""vis""], ""location""=>[""true"", ""false""], ""name""=>[""Vis-en-Artois""], ""lat""=>[""50.24779""], ""long""=>[""2.93936""], ""id""=>[""2967909""]}",,,
+34,AWD00032iy,diary,729,2,1918-09-02 09:30:00 UTC,2 Sep 1918,Drocourt-Queant Line,"[2.88984, 50.25428]",0930AM,place,"Havcourt, Harcourt","{""place""=>[""Havcourt"", ""Harcourt""], ""location""=>[""true"", ""false""], ""name""=>[""Vis-en-Artois"", ""Harcourt""], ""lat""=>[""50.24779"", ""49.16717""], ""long""=>[""2.93936"", ""0.78501""], ""id""=>[""2967909"", ""3013948""]}",,,
+36,AWD00032iy,diary,729,3,1918-09-02 09:30:00 UTC,2 Sep 1918,Dury,"[3.00736, 50.24689]",0930AM,place,Dury,"{""place""=>[""Dury""], ""location""=>[""true""], ""name""=>[""Dury""], ""lat""=>[""50.24689""], ""long""=>[""3.00736""], ""id""=>[""3020616""]}",3020616,Dury,"[3.00736, 50.24689]"
+37,AWD00032iy,diary,729,2,1918-09-02 09:30:00 UTC,2 Sep 1918,Dury,"[3.00736, 50.24689]",0930AM,activity,fire,{},3020616,Dury,"[3.00736, 50.24689]"
+39,AWD00032iy,diary,729,4,1918-09-02 09:30:00 UTC,2 Sep 1918,Dury,"[3.00736, 50.24689]",0930AM,place,"Dury, dury","{""place""=>[""Dury"", ""dury""], ""location""=>[""true"", ""false""], ""name""=>[""Dury""], ""lat""=>[""50.24689""], ""long""=>[""3.00736""], ""id""=>[""3020616""]}",3020616,Dury,"[3.00736, 50.24689]"
+40,AWD00032iy,diary,729,2,1918-09-02 09:30:00 UTC,2 Sep 1918,Dury,"[3.00736, 50.24689]",0930AM,activity,movement,{},3020616,Dury,"[3.00736, 50.24689]"
+43,AWD00032iy,diary,729,3,1918-09-02 09:30:00 UTC,2 Sep 1918,Dury,"[3.00736, 50.24689]",0930AM,activity,withdraw,{},3020616,Dury,"[3.00736, 50.24689]"
+48,AWD00032iy,diary,729,2,1918-09-02 09:30:00 UTC,2 Sep 1918,Dury,"[3.00736, 50.24689]",0930AM,casualties,"killed: 4, wounded: 22",{},3020616,Dury,"[3.00736, 50.24689]"
+51,AWD00032iy,diary,729,2,,"3 Sep,Aug 1918",Dury,"[3.00736, 50.24689]","",diaryDate,"3 Sep,Aug 1918","{""day""=>[""3""], ""month""=>[""Sep"", ""Aug""], ""year""=>[""1918""]}",3020616,Dury,"[3.00736, 50.24689]"
+53,AWD00032iy,diary,729,2,,"3 Sep,Aug 1918",Dury,"[3.00736, 50.24689]","",activity,support,{},3020616,Dury,"[3.00736, 50.24689]"
+56,AWD00032iy,diary,729,2,,"3 Sep,Aug 1918",Dury,"[3.00736, 50.24689]","",place,Dury,"{""place""=>[""Dury""], ""location""=>[""true"", ""false""], ""name""=>[""Dury"", """"], ""lat""=>[""50.24689"", """"], ""long""=>[""3.00736"", """"], ""id""=>[""3020616"", """"]}",3020616,Dury,"[3.00736, 50.24689]"
+57,AWD00032iy,diary,729,2,,"3 Sep,Aug 1918",Dury,"[3.00736, 50.24689]",0530PM,time,0530PM,{},3020616,Dury,"[3.00736, 50.24689]"
+58,AWD00032iy,diary,729,3,,"3 Sep,Aug 1918",Dury,"[3.00736, 50.24689]",0530PM,activity,movement,{},3020616,Dury,"[3.00736, 50.24689]"
+61,AWD00032iy,diary,729,2,,"3 Sep,Aug 1918",Dury,"[3.00736, 50.24689]",0530PM,place,Sensee River,"{""place""=>[""Sensee River""], ""location""=>[""true"", ""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3020616,Dury,"[3.00736, 50.24689]"
+63,AWD00032iy,diary,729,2,,"3 Sep,Aug 1918",Dury,"[3.00736, 50.24689]",0530PM,activity,support,{},3020616,Dury,"[3.00736, 50.24689]"
+65,AWD00032iy,diary,729,2,,"3 Sep,Aug 1918",Dury,"[3.00736, 50.24689]",0530PM,place,Drocourt-Queant Line,"{""place""=>[""Drocourt-Queant Line""], ""location""=>[""true"", ""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3020616,Dury,"[3.00736, 50.24689]"
+3,AWD00032i4,diary,730,3,1918-09-03 00:00:00 UTC,3 Sep 1918,Dury,"[3.00736, 50.24689]","",diaryDate,3 Sep 1918,"{""day""=>[""3""], ""month""=>[""Sep""], ""year""=>[""1918""]}",3020616,Dury,"[3.00736, 50.24689]"
+5,AWD00032i4,diary,730,2,1918-09-03 00:00:00 UTC,3 Sep 1918,Dury,"[3.00736, 50.24689]","",activity,movement,{},3020616,Dury,"[3.00736, 50.24689]"
+6,AWD00032i4,diary,730,2,1918-09-03 00:00:00 UTC,3 Sep 1918,Dury,"[3.00736, 50.24689]","",activity,fire,{},3020616,Dury,"[3.00736, 50.24689]"
+11,AWD00032i4,diary,730,4,1918-09-04 00:00:00 UTC,4 Sep 1918,Dury,"[3.00736, 50.24689]","",diaryDate,4 Sep 1918,"{""day""=>[""4""], ""month""=>[""Sep""], ""year""=>[""1918""]}",3020616,Dury,"[3.00736, 50.24689]"
+12,AWD00032i4,diary,730,2,1918-09-04 00:00:00 UTC,4 Sep 1918,Dury,"[3.00736, 50.24689]","",unit,Black Watch,"{""name""=>[""Black Watch""], ""context""=>[""other"", ""joined""]}",3020616,Dury,"[3.00736, 50.24689]"
+13,AWD00032i4,diary,730,2,1918-09-04 00:00:00 UTC,4 Sep 1918,"Sensee River, SENSEE River","[0.0, 0.0]","",place,"Sensee River, SENSEE River","{""place""=>[""Sensee River"", ""SENSEE River""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+14,AWD00032i4,diary,730,2,1918-09-04 00:00:00 UTC,4 Sep 1918,"Sensee River, SENSEE River","[0.0, 0.0]","",unit,2nd Brigade,"{""name""=>[""2nd Brigade""], ""context""=>[""left"", ""joined""]}",,,
+16,AWD00032i4,diary,730,3,1918-09-04 00:00:00 UTC,4 Sep 1918,"Sensee River, SENSEE River","[0.0, 0.0]","",activity,support,{},,,
+25,AWD00032i4,diary,730,2,1918-09-04 00:00:00 UTC,4 Sep 1918,"Sensee River, SENSEE River","[0.0, 0.0]","",person,"other, ,Boy ","{""first""=>["""", ""Boy""], ""surname""=>[""""], ""rank""=>[""other"", """"], ""number""=>[""bboy"", """"], ""reason""=>[""commander"", ""departed_posted""], ""unit""=>[""""]}",,,
+30,AWD00032i4,diary,730,4,1918-09-05 00:00:00 UTC,5 Sep 1918,"Sensee River, SENSEE River","[0.0, 0.0]","",diaryDate,5 Sep 1918,"{""day""=>[""5""], ""month""=>[""Sep""], ""year""=>[""1918""]}",,,
+31,AWD00032i4,diary,730,3,1918-09-05 00:00:00 UTC,5 Sep 1918,"Sensee River, SENSEE River","[0.0, 0.0]","",activity,support,{},,,
+36,AWD00032i4,diary,730,3,1918-09-06 00:00:00 UTC,6 Sep 1918,"Sensee River, SENSEE River","[0.0, 0.0]","",diaryDate,6 Sep 1918,"{""day""=>[""6""], ""month""=>[""Sep""], ""year""=>[""1918""]}",,,
+37,AWD00032i4,diary,730,3,1918-09-06 00:00:00 UTC,6 Sep 1918,"Sensee River, SENSEE River","[0.0, 0.0]","",casualties,"killed: 1, missing: 2",{},,,
+38,AWD00032i4,diary,730,4,1918-09-06 00:00:00 UTC,6 Sep 1918,"Sensee River, SENSEE River","[0.0, 0.0]","",activity,support,{},,,
+39,AWD00032i4,diary,730,2,1918-09-06 00:00:00 UTC,6 Sep 1918,"Sensee River, SENSEE River","[0.0, 0.0]","",activity,fire,{},,,
+40,AWD00032i4,diary,730,4,1918-09-06 00:00:00 UTC,6 Sep 1918,"Sensee River, SENSEE River","[0.0, 0.0]","",place,"Dury, DURK, dury, DURY","{""place""=>[""Dury"", ""DURK"", ""dury"", ""DURY""], ""location""=>[""true"", ""false""], ""name""=>[""Dury""], ""lat""=>[""50.24689""], ""long""=>[""3.00736""], ""id""=>[""3020616""]}",,,
+44,AWD00032i4,diary,730,3,1918-09-06 00:00:00 UTC,6 Sep 1918,"Recourt, recourt, RECOURT","[3.03507, 50.25362]","",place,"Recourt, recourt, RECOURT","{""place""=>[""Recourt"", ""recourt"", ""RECOURT""], ""location""=>[""true""], ""name""=>[""Récourt""], ""lat""=>[""50.25362""], ""long""=>[""3.03507""], ""id""=>[""2984216""]}",2984216,Récourt,"[3.03507, 50.25362]"
+45,AWD00032i4,diary,730,3,1918-09-06 00:00:00 UTC,6 Sep 1918,"Recourt, recourt, RECOURT","[3.03507, 50.25362]","",weather,rain,{},2984216,Récourt,"[3.03507, 50.25362]"
+46,AWD00032i4,diary,730,4,1918-09-07 00:00:00 UTC,7 Sep 1918,"Recourt, recourt, RECOURT","[3.03507, 50.25362]","",diaryDate,7 Sep 1918,"{""day""=>[""7""], ""month""=>[""Sep""], ""year""=>[""1918""]}",2984216,Récourt,"[3.03507, 50.25362]"
+48,AWD00032i4,diary,730,5,1918-09-07 00:00:00 UTC,7 Sep 1918,"Recourt, recourt, RECOURT","[3.03507, 50.25362]","",activity,support,{},2984216,Récourt,"[3.03507, 50.25362]"
+49,AWD00032i4,diary,730,4,1918-09-08 00:00:00 UTC,8 Sep 1918,"Recourt, recourt, RECOURT","[3.03507, 50.25362]","",diaryDate,8 Sep 1918,"{""day""=>[""8""], ""month""=>[""Sep""], ""year""=>[""1918""]}",2984216,Récourt,"[3.03507, 50.25362]"
+53,AWD00032i4,diary,730,3,1918-09-08 00:00:00 UTC,8 Sep 1918,"Recourt, recourt, RECOURT","[3.03507, 50.25362]","",activity,support,{},2984216,Récourt,"[3.03507, 50.25362]"
+55,AWD00032i4,diary,730,2,1918-09-08 21:30:00 UTC,8 Sep 1918,"Recourt, recourt, RECOURT","[3.03507, 50.25362]",0930PM,time,0930PM,{},2984216,Récourt,"[3.03507, 50.25362]"
+56,AWD00032i4,diary,730,2,1918-09-08 21:30:00 UTC,8 Sep 1918,"Arras Cambras, ARRAS - CAMBRAI","[3.03507, 50.25362]",0930PM,place,"Arras Cambras, ARRAS - CAMBRAI","{""place""=>[""Arras Cambras"", ""ARRAS - CAMBRAI""], ""location""=>[""true""], ""name""=>[""Récourt""], ""lat""=>[""50.25362""], ""long""=>[""3.03507""], ""id""=>[""2984216""]}",,,
+57,AWD00032i4,diary,730,3,1918-09-08 21:30:00 UTC,8 Sep 1918,"Guemappe, guemappe, GUEMAPPE","[2.88984, 50.25428]",0930PM,place,"Guemappe, guemappe, GUEMAPPE","{""place""=>[""Guemappe"", ""guemappe"", ""GUEMAPPE""], ""location""=>[""true""], ""name""=>[""Guémappe""], ""lat""=>[""50.25428""], ""long""=>[""2.88984""], ""id""=>[""3014416""]}",3014416,Guémappe,"[2.88984, 50.25428]"
+58,AWD00032i4,diary,730,3,1918-09-08 21:30:00 UTC,8 Sep 1918,"Guemappe, guemappe, GUEMAPPE","[2.88984, 50.25428]",0930PM,activity,movement,{},3014416,Guémappe,"[2.88984, 50.25428]"
+61,AWD00032i4,diary,730,2,1918-09-08 03:00:00 UTC,8 Sep 1918,"Guemappe, guemappe, GUEMAPPE","[2.88984, 50.25428]",0300AM,time,0300AM,{},3014416,Guémappe,"[2.88984, 50.25428]"
+63,AWD00032i4,diary,730,3,1918-09-08 03:00:00 UTC,8 Sep 1918,Etrun,"[2.70258, 50.31529]",0300AM,place,Etrun,"{""place""=>[""Etrun""], ""location""=>[""true""], ""name""=>[""Étrun""], ""lat""=>[""50.31529""], ""long""=>[""2.70258""], ""id""=>[""3019341""]}",3019341,Étrun,"[2.70258, 50.31529]"
+64,AWD00032i4,diary,730,3,1918-09-08 04:30:00 UTC,8 Sep 1918,Etrun,"[2.70258, 50.31529]",0430AM,time,0430AM,{},3019341,Étrun,"[2.70258, 50.31529]"
+65,AWD00032i4,diary,730,5,1918-09-09 00:00:00 UTC,9 Sep 1918,Etrun,"[2.70258, 50.31529]","",diaryDate,9 Sep 1918,"{""day""=>[""9""], ""month""=>[""Sep""], ""year""=>[""1918""]}",3019341,Étrun,"[2.70258, 50.31529]"
+66,AWD00032i4,diary,730,2,1918-09-09 00:00:00 UTC,9 Sep 1918,Etrun,"[2.70258, 50.31529]","",weather,rain,{},3019341,Étrun,"[2.70258, 50.31529]"
+1,AWD00032is,diary,731,3,1918-09-09 00:00:00 UTC,9 Sep 1918,Etrun,"[2.70258, 50.31529]","",diaryDate,9 Sep 1918,"{""day""=>[""9""], ""month""=>[""Sep""], ""year""=>[""1918""]}",3019341,Étrun,"[2.70258, 50.31529]"
+2,AWD00032is,diary,731,3,1918-09-09 00:00:00 UTC,9 Sep 1918,Etrun,"[2.70258, 50.31529]","",person,"Lieutenant Colonel R L Fall, MCALL, McFall","{""first""=>[""R L""], ""surname""=>[""Fall"", ""MCALL"", ""McFall""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",3019341,Étrun,"[2.70258, 50.31529]"
+3,AWD00032is,diary,731,3,1918-09-09 00:00:00 UTC,9 Sep 1918,Etrun,"[2.70258, 50.31529]","",person,Captain J Robertson,"{""first""=>[""J""], ""surname""=>[""Robertson""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",3019341,Étrun,"[2.70258, 50.31529]"
+4,AWD00032is,diary,731,2,1918-09-09 00:00:00 UTC,9 Sep 1918,Etrun,"[2.70258, 50.31529]","",person,"Lieutenant N W Mowbroy, MOWBROY","{""first""=>[""N W""], ""surname""=>[""Mowbroy"", ""MOWBROY""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>["""", ""HEADQUARTERS""]}",3019341,Étrun,"[2.70258, 50.31529]"
+7,AWD00032is,diary,731,2,1918-09-09 00:00:00 UTC,9 Sep 1918,Etrun,"[2.70258, 50.31529]","",person,"Captain A R Mackenzie, MACKENZIE","{""first""=>[""A R""], ""surname""=>[""Mackenzie"", ""MACKENZIE""], ""rank""=>[""Captain""], ""number""=>[""\""A\"" boy"", """"], ""reason""=>[""other"", ""commander""], ""unit""=>["""", ""Headquarters""]}",3019341,Étrun,"[2.70258, 50.31529]"
+8,AWD00032is,diary,731,2,1918-09-09 00:00:00 UTC,9 Sep 1918,Etrun,"[2.70258, 50.31529]","",person,"Lieutenant J A MacInnes, MCKINNEY","{""first""=>[""J A""], ""surname""=>[""MacInnes"", ""MCKINNEY""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>["""", ""A BOY""]}",3019341,Étrun,"[2.70258, 50.31529]"
+9,AWD00032is,diary,731,2,1918-09-09 00:00:00 UTC,9 Sep 1918,Etrun,"[2.70258, 50.31529]","",person,"Second Lieutenant AA,A A Watson, WILSON","{""first""=>[""AA"", ""A A""], ""surname""=>[""Watson"", ""WILSON""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>["""", ""HEADQUARTERS""]}",3019341,Étrun,"[2.70258, 50.31529]"
+10,AWD00032is,diary,731,2,1918-09-09 00:00:00 UTC,9 Sep 1918,Etrun,"[2.70258, 50.31529]","",person,"Captain A S Wakely, WAKELY","{""first""=>[""A S""], ""surname""=>[""Wakely"", ""WAKELY""], ""rank""=>[""Captain""], ""number""=>[""RAMC"", """"], ""reason""=>[""other""], ""unit""=>["""", ""HEADQUARTERS""]}",3019341,Étrun,"[2.70258, 50.31529]"
+12,AWD00032is,diary,731,2,1918-09-09 00:00:00 UTC,9 Sep 1918,Etrun,"[2.70258, 50.31529]","",person,"Lieutenant J H,J Ferguson, FERGUSON","{""first""=>[""J H"", ""J""], ""surname""=>[""Ferguson"", ""FERGUSON""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>["""", ""A BOY""]}",3019341,Étrun,"[2.70258, 50.31529]"
+37,AWD00032is,diary,731,3,1918-09-10 00:00:00 UTC,10 Sep 1918,Etrun,"[2.70258, 50.31529]","",diaryDate,10 Sep 1918,"{""day""=>[""10""], ""month""=>[""Sep""], ""year""=>[""1918""]}",3019341,Étrun,"[2.70258, 50.31529]"
+40,AWD00032is,diary,731,2,1918-09-10 00:00:00 UTC,10 Sep 1918,"MOREUIL, Moreuil","[2.48273, 49.77457]","",place,"MOREUIL, Moreuil","{""place""=>[""MOREUIL"", ""Moreuil""], ""location""=>[""true""], ""name""=>[""Moreuil""], ""lat""=>[""49.77457""], ""long""=>[""2.48273""], ""id""=>[""2991839""]}",2991839,Moreuil,"[2.48273, 49.77457]"
+42,AWD00032is,diary,731,3,1918-09-11 00:00:00 UTC,11 Sep 1918,"MOREUIL, Moreuil","[2.48273, 49.77457]","",diaryDate,11 Sep 1918,"{""day""=>[""11""], ""month""=>[""Sep""], ""year""=>[""1918""]}",2991839,Moreuil,"[2.48273, 49.77457]"
+43,AWD00032is,diary,731,2,1918-09-11 00:00:00 UTC,11 Sep 1918,"MOREUIL, Moreuil","[2.48273, 49.77457]","",activity,movement,{},2991839,Moreuil,"[2.48273, 49.77457]"
+44,AWD00032is,diary,731,2,1918-09-11 00:00:00 UTC,11 Sep 1918,"MORCOURT, Morcourt","[2.65065, 49.89196]","",place,"MORCOURT, Morcourt","{""place""=>[""MORCOURT"", ""Morcourt""], ""location""=>[""true""], ""name""=>[""Morcourt""], ""lat""=>[""49.89196""], ""long""=>[""2.65065""], ""id""=>[""2991869""]}",2991869,Morcourt,"[2.65065, 49.89196]"
+46,AWD00032is,diary,731,3,1918-09-12 00:00:00 UTC,12 Sep 1918,"MORCOURT, Morcourt","[2.65065, 49.89196]","",diaryDate,12 Sep 1918,"{""day""=>[""12""], ""month""=>[""Sep""], ""year""=>[""1918""]}",2991869,Morcourt,"[2.65065, 49.89196]"
+48,AWD00032is,diary,731,3,1918-09-13 00:00:00 UTC,13 Sep 1918,"MORCOURT, Morcourt","[2.65065, 49.89196]","",diaryDate,13 Sep 1918,"{""day""=>[""13""], ""month""=>[""Sep""], ""year""=>[""1918""]}",2991869,Morcourt,"[2.65065, 49.89196]"
+49,AWD00032is,diary,731,4,1918-09-13 00:00:00 UTC,13 Sep 1918,"MORCOURT, Morcourt","[2.65065, 49.89196]","",place,"MORCOURT, Morcourt","{""place""=>[""MORCOURT"", ""Morcourt""], ""location""=>[""true""], ""name""=>[""Morcourt""], ""lat""=>[""49.89196""], ""long""=>[""2.65065""], ""id""=>[""2991869""]}",2991869,Morcourt,"[2.65065, 49.89196]"
+53,AWD00032is,diary,731,3,1918-09-14 00:00:00 UTC,14 Sep 1918,"MORCOURT, Morcourt","[2.65065, 49.89196]","",diaryDate,14 Sep 1918,"{""day""=>[""14""], ""month""=>[""Sep""], ""year""=>[""1918""]}",2991869,Morcourt,"[2.65065, 49.89196]"
+55,AWD00032is,diary,731,2,1918-09-14 00:00:00 UTC,14 Sep 1918,"LAKE WOOD, Lake Wood","[3.07193, 49.86201]","",place,"LAKE WOOD, Lake Wood","{""place""=>[""LAKE WOOD"", ""Lake Wood""], ""location""=>[""true""], ""name""=>[""Tertry""], ""lat""=>[""49.86201""], ""long""=>[""3.07193""], ""id""=>[""2973075""]}",,,
+58,AWD00032is,diary,731,3,1918-09-15 00:00:00 UTC,15 Sep 1918,"LAKE WOOD, Lake Wood","[3.07193, 49.86201]","",diaryDate,15 Sep 1918,"{""day""=>[""15""], ""month""=>[""Sep""], ""year""=>[""1918""]}",,,
+59,AWD00032is,diary,731,4,1918-09-15 00:00:00 UTC,15 Sep 1918,"LAKE WOOD, Lake Wood","[3.07193, 49.86201]","",activity,movement,{},,,
+60,AWD00032is,diary,731,2,1918-09-15 00:00:00 UTC,15 Sep 1918,"MARTEVILLE, Marteville","[0.0, 0.0]","",place,"MARTEVILLE, Marteville","{""place""=>[""MARTEVILLE"", ""Marteville""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2994424,Méréaucourt,"[3.04753, 49.85807]"
+62,AWD00032is,diary,731,3,1918-09-16 00:00:00 UTC,16 Sep 1918,"MARTEVILLE, Marteville","[0.0, 0.0]","",diaryDate,16 Sep 1918,"{""day""=>[""16""], ""month""=>[""Sep""], ""year""=>[""1918""]}",2994424,Méréaucourt,"[3.04753, 49.85807]"
+1,AWD00032iv,diary,732,2,1918-09-17 00:00:00 UTC,17 Sep 1918,"MARTEVILLE, Marteville","[0.0, 0.0]","",diaryDate,17 Sep 1918,"{""day""=>[""17""], ""month""=>[""Sep""], ""year""=>[""1918""]}",2994424,Méréaucourt,"[3.04753, 49.85807]"
+2,AWD00032iv,diary,732,2,1918-09-14 00:00:00 UTC,14 Sep 1918,"MARTEVILLE, Marteville","[0.0, 0.0]","",diaryDate,14 Sep 1918,"{""day""=>[""14""], ""month""=>[""Sep""], ""year""=>[""1918""]}",2994424,Méréaucourt,"[3.04753, 49.85807]"
+3,AWD00032iv,diary,732,2,1918-09-14 00:00:00 UTC,14 Sep 1918,"MARTEVILLE, Marteville","[0.0, 0.0]","",activity,movement,{},2994424,Méréaucourt,"[3.04753, 49.85807]"
+4,AWD00032iv,diary,732,4,1918-09-14 00:00:00 UTC,14 Sep 1918,Maissemy,"[3.18723, 49.89398]","",place,Maissemy,"{""place""=>[""Maissemy""], ""location""=>[""true""], ""name""=>[""Maissemy""], ""lat""=>[""49.89398""], ""long""=>[""3.18723""], ""id""=>[""2996558""]}",2996558,Maissemy,"[3.18723, 49.89398]"
+5,AWD00032iv,diary,732,3,1918-09-18 00:00:00 UTC,18 Sep 1918,Maissemy,"[3.18723, 49.89398]","",diaryDate,18 Sep 1918,"{""day""=>[""18""], ""month""=>[""Sep""], ""year""=>[""1918""]}",2996558,Maissemy,"[3.18723, 49.89398]"
+6,AWD00032iv,diary,732,2,1918-09-18 04:50:00 UTC,18 Sep 1918,Maissemy,"[3.18723, 49.89398]",0450AM,time,0450AM,{},2996558,Maissemy,"[3.18723, 49.89398]"
+9,AWD00032iv,diary,732,2,1918-09-18 04:50:00 UTC,18 Sep 1918,Maissemy,"[3.18723, 49.89398]",0450AM,person,  ,"{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""""], ""number""=>[""""], ""reason""=>[""combat"", ""other""], ""unit""=>[""C & D Boys"", ""A & B Boys""]}",2996558,Maissemy,"[3.18723, 49.89398]"
+12,AWD00032iv,diary,732,2,1918-09-18 04:50:00 UTC,18 Sep 1918,Maissemy,"[3.18723, 49.89398]",0450AM,activity,attack,{},2996558,Maissemy,"[3.18723, 49.89398]"
+15,AWD00032iv,diary,732,5,1918-09-18 04:50:00 UTC,18 Sep 1918,Villemay Trench,"[0.0, 0.0]",0450AM,place,Villemay Trench,"{""place""=>[""Villemay Trench""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+17,AWD00032iv,diary,732,3,1918-09-18 04:50:00 UTC,18 Sep 1918,Villemay Trench,"[0.0, 0.0]",0450AM,activity,achieved,{},,,
+19,AWD00032iv,diary,732,2,1918-09-18 09:50:00 UTC,18 Sep 1918,Villemay Trench,"[0.0, 0.0]",0950AM,time,0950AM,{},,,
+22,AWD00032iv,diary,732,2,1918-09-18 09:50:00 UTC,18 Sep 1918,Berthaucourt,"[0.0, 0.0]",0950AM,place,Berthaucourt,"{""place""=>[""Berthaucourt""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3033210,Bertaucourt-Epourdon,"[3.38333, 49.61667]"
+24,AWD00032iv,diary,732,2,1918-09-18 09:50:00 UTC,18 Sep 1918,Berthaucourt,"[0.0, 0.0]",0950AM,person,  ,"{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""A BOY"", ""B BOY""]}",3033210,Bertaucourt-Epourdon,"[3.38333, 49.61667]"
+25,AWD00032iv,diary,732,2,1918-09-18 08:15:00 UTC,18 Sep 1918,Berthaucourt,"[0.0, 0.0]",0815AM,time,0815AM,{},3033210,Bertaucourt-Epourdon,"[3.38333, 49.61667]"
+1,AWD00032j9,diary,734,5,1918-09-19 00:00:00 UTC,19 Sep 1918,Berthaucourt,"[0.0, 0.0]","",diaryDate,19 Sep 1918,"{""day""=>[""19""], ""month""=>[""Sep""], ""year""=>[""1918""]}",3033210,Bertaucourt-Epourdon,"[3.38333, 49.61667]"
+4,AWD00032j9,diary,734,3,1918-09-19 00:00:00 UTC,19 Sep 1918,Berthaucourt,"[0.0, 0.0]","",activity,enemy_activity,{},3033210,Bertaucourt-Epourdon,"[3.38333, 49.61667]"
+5,AWD00032j9,diary,734,3,1918-09-19 00:00:00 UTC,19 Sep 1918,Berthaucourt,"[0.0, 0.0]","",place,Berthaucourt,"{""place""=>[""Berthaucourt""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3033210,Bertaucourt-Epourdon,"[3.38333, 49.61667]"
+7,AWD00032j9,diary,734,2,1918-09-19 00:00:00 UTC,19 Sep 1918,Berthaucourt,"[0.0, 0.0]","",activity,withdraw,{},3033210,Bertaucourt-Epourdon,"[3.38333, 49.61667]"
+8,AWD00032j9,diary,734,2,1918-09-19 00:00:00 UTC,19 Sep 1918,Berthaucourt,"[0.0, 0.0]","",activity,raid,{},3033210,Bertaucourt-Epourdon,"[3.38333, 49.61667]"
+9,AWD00032j9,diary,734,5,1918-09-20 00:00:00 UTC,20 Sep 1918,Berthaucourt,"[0.0, 0.0]","",diaryDate,20 Sep 1918,"{""day""=>[""20""], ""month""=>[""Sep""], ""year""=>[""1918""]}",3033210,Bertaucourt-Epourdon,"[3.38333, 49.61667]"
+13,AWD00032j9,diary,734,2,1918-09-20 00:00:00 UTC,20 Sep 1918,"Querry, Quarry","[0.0, 0.0]","",place,"Querry, Quarry","{""place""=>[""Querry"", ""Quarry""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+15,AWD00032j9,diary,734,3,1918-09-20 00:00:00 UTC,20 Sep 1918,"Berthaucourt, BERTHAUCOURT, Berthacourt","[0.0, 0.0]","",place,"Berthaucourt, BERTHAUCOURT, Berthacourt","{""place""=>[""Berthaucourt"", ""BERTHAUCOURT"", ""Berthacourt""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+16,AWD00032j9,diary,734,5,1918-09-21 00:00:00 UTC,21 Sep 1918,"Berthaucourt, BERTHAUCOURT, Berthacourt","[0.0, 0.0]","",diaryDate,21 Sep 1918,"{""day""=>[""21""], ""month""=>[""Sep""], ""year""=>[""1918""]}",,,
+23,AWD00032j9,diary,734,5,1918-09-22 00:00:00 UTC,22 Sep 1918,"Berthaucourt, BERTHAUCOURT, Berthacourt","[0.0, 0.0]","",diaryDate,22 Sep 1918,"{""day""=>[""22""], ""month""=>[""Sep""], ""year""=>[""1918""]}",,,
+24,AWD00032j9,diary,734,5,1918-09-23 00:00:00 UTC,23 Sep 1918,"Berthaucourt, BERTHAUCOURT, Berthacourt","[0.0, 0.0]","",diaryDate,23 Sep 1918,"{""day""=>[""23""], ""month""=>[""Sep""], ""year""=>[""1918""]}",,,
+25,AWD00032j9,diary,734,3,1918-09-23 00:00:00 UTC,23 Sep 1918,Vermand,"[3.14959, 49.8755]","",place,Vermand,"{""place""=>[""Vermand""], ""location""=>[""true""], ""name""=>[""Vermand""], ""lat""=>[""49.8755""], ""long""=>[""3.14959""], ""id""=>[""2969868""]}",2969868,Vermand,"[3.14959, 49.8755]"
+26,AWD00032j9,diary,734,5,1918-09-23 00:00:00 UTC,23 Sep 1918,Vermand,"[3.14959, 49.8755]","",activity,movement,{},2969868,Vermand,"[3.14959, 49.8755]"
+27,AWD00032j9,diary,734,5,1918-09-24 00:00:00 UTC,24 Sep 1918,Vermand,"[3.14959, 49.8755]","",diaryDate,24 Sep 1918,"{""day""=>[""24""], ""month""=>[""Sep""], ""year""=>[""1918""]}",2969868,Vermand,"[3.14959, 49.8755]"
+28,AWD00032j9,diary,734,2,1918-09-24 00:00:00 UTC,24 Sep 1918,Vermand,"[3.14959, 49.8755]","",activity,support,{},2969868,Vermand,"[3.14959, 49.8755]"
+32,AWD00032j9,diary,734,5,1918-09-25 00:00:00 UTC,25 Sep 1918,Vermand,"[3.14959, 49.8755]","",diaryDate,25 Sep 1918,"{""day""=>[""25""], ""month""=>[""Sep""], ""year""=>[""1918""]}",2969868,Vermand,"[3.14959, 49.8755]"
+33,AWD00032j9,diary,734,3,1918-09-25 00:00:00 UTC,25 Sep 1918,Vermand,"[3.14959, 49.8755]","",place,Vermand,"{""place""=>[""Vermand""], ""location""=>[""true""], ""name""=>[""Vermand""], ""lat""=>[""49.8755""], ""long""=>[""3.14959""], ""id""=>[""2969868""]}",2969868,Vermand,"[3.14959, 49.8755]"
+35,AWD00032j9,diary,734,5,1918-09-25 00:00:00 UTC,25 Sep 1918,Vermand,"[3.14959, 49.8755]","",activity,movement,{},2969868,Vermand,"[3.14959, 49.8755]"
+36,AWD00032j9,diary,734,4,1918-09-26 00:00:00 UTC,26 Sep 1918,Vermand,"[3.14959, 49.8755]","",diaryDate,26 Sep 1918,"{""day""=>[""26""], ""month""=>[""Sep""], ""year""=>[""1918""]}",2969868,Vermand,"[3.14959, 49.8755]"
+37,AWD00032j9,diary,734,2,1918-09-26 00:00:00 UTC,26 Sep 1918,Vermand,"[3.14959, 49.8755]","",activity,support,{},2969868,Vermand,"[3.14959, 49.8755]"
+1,AWD00032kj,diary,735,5,1918-09-27 00:00:00 UTC,27 Sep 1918,Vermand,"[3.14959, 49.8755]","",diaryDate,27 Sep 1918,"{""day""=>[""27""], ""month""=>[""Sep""], ""year""=>[""1918""]}",2969868,Vermand,"[3.14959, 49.8755]"
+3,AWD00032kj,diary,735,2,1918-09-27 00:00:00 UTC,27 Sep 1918,Vermand,"[3.14959, 49.8755]","",activity,support,{},2969868,Vermand,"[3.14959, 49.8755]"
+7,AWD00032kj,diary,735,2,1918-09-27 00:00:00 UTC,27 Sep 1918,Vermand,"[3.14959, 49.8755]","",activity,movement,{},2969868,Vermand,"[3.14959, 49.8755]"
+9,AWD00032kj,diary,735,4,1918-09-28 00:00:00 UTC,28 Sep 1918,Vermand,"[3.14959, 49.8755]","",diaryDate,28 Sep 1918,"{""day""=>[""28""], ""month""=>[""Sep""], ""year""=>[""1918""]}",2969868,Vermand,"[3.14959, 49.8755]"
+11,AWD00032kj,diary,735,3,1918-09-28 00:00:00 UTC,28 Sep 1918,Vermand,"[3.14959, 49.8755]","",activity,quiet,{},2969868,Vermand,"[3.14959, 49.8755]"
+12,AWD00032kj,diary,735,4,1918-09-29 00:00:00 UTC,29 Sep 1918,Vermand,"[3.14959, 49.8755]","",diaryDate,29 Sep 1918,"{""day""=>[""29""], ""month""=>[""Sep""], ""year""=>[""1918""]}",2969868,Vermand,"[3.14959, 49.8755]"
+13,AWD00032kj,diary,735,3,1918-09-29 00:00:00 UTC,29 Sep 1918,Tumulos,"[0.0, 0.0]","",place,Tumulos,"{""place""=>[""Tumulos""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+14,AWD00032kj,diary,735,2,1918-09-29 00:00:00 UTC,29 Sep 1918,Tumulos,"[0.0, 0.0]","",activity,movement,{},,,
+17,AWD00032kj,diary,735,2,1918-09-29 00:00:00 UTC,29 Sep 1918,Tumulos,"[0.0, 0.0]","",activity,movement,{},,,
+18,AWD00032kj,diary,735,4,1918-09-30 00:00:00 UTC,30 Sep 1918,Tumulos,"[0.0, 0.0]","",diaryDate,30 Sep 1918,"{""day""=>[""30""], ""month""=>[""Sep""], ""year""=>[""1918""]}",,,
+20,AWD00032kj,diary,735,4,1918-09-30 00:00:00 UTC,30 Sep 1918,Tumulos,"[0.0, 0.0]","",casualties,"killed: 4, wounded: 6",{},,,
+23,AWD00032kj,diary,735,2,1918-09-30 00:00:00 UTC,30 Sep 1918,Tumulos,"[0.0, 0.0]","",casualties,"killed: 78, died: 13, wounded: 194, missing: 3",{},,,
+31,AWD00032kj,diary,735,3,1918-10-03 00:00:00 UTC,3 Oct 1918,Tumulos,"[0.0, 0.0]","",diaryDate,3 Oct 1918,"{""day""=>[""3""], ""month""=>[""Oct""], ""year""=>[""1918""]}",,,
+3,AWD00032kx,diary,736,2,1918-10-03 00:00:00 UTC,3 Oct 1918,Tumulos,"[0.0, 0.0]","",activity,movement,{},,,
+41,AWD00032kx,diary,736,2,1918-10-03 02:00:00 UTC,3 Oct 1918,Tumulos,"[0.0, 0.0]",0200AM,time,0200AM,{},,,
+2,AWD00032im,orders,737,2,,,,[],,orders,move,{},,,
+2,AWD00032ix,other,738,6,,,,[],,date,10 Jul 1918,{},,,
+3,AWD00032ix,other,738,11,,,,[],,date,11 Jul 1918,{},,,
+4,AWD00032ix,other,738,2,,,,[],,person,"Captain,Sergeant n,N blackwood, Blackwood","{""first""=>[""n"", ""N""], ""surname""=>[""blackwood"", ""Blackwood""], ""rank""=>[""Captain"", ""Sergeant""], ""number""=>[""""], ""reason""=>[""author"", ""other""], ""unit""=>[""""]}",,,
+6,AWD00032jp,"report, orders",739,2,,,,[],,date,9 Sep 1918,{},,,
+9,AWD00032jp,"report, orders",739,2,,,,[],,person,"Lieutenant Colonel J,J Munder Munder Clay, Clay","{""first""=>[""J"", ""J Munder""], ""surname""=>[""Munder Clay"", ""Clay""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""other"", ""commander""], ""unit""=>["""", ""1st Brit. Division""]}",,,
+11,AWD00032jp,"report, orders",739,3,,,,[],,date,8 Sep 1918,{},,,
+1,AWD00032kn,orders,741,2,,,,[],,date,8 Nov 1918,{},,,
+6,AWD00032kn,orders,741,2,,,,[],,reference,159,{},,,
+14,AWD00032kn,orders,741,2,,,,[],,date,12 Sep 1918,{},,,
+1,AWD00032id,orders,742,2,,,,[],,reference,1st Brigade No. G. 5/53.,{},,,
+2,AWD00032id,orders,742,3,,,,[],,date,8 Nov 1918,{},,,
+12,AWD00032id,orders,742,3,,,,[],,date,14 Sep 1918,{},,,
+3,AWD00032jq,other,744,2,,,,[],,date,12 Sep 1918,{},,,
+4,AWD00032ji,orders,745,2,,,,[],,orders,move,{},,,
+6,AWD00032ji,orders,745,3,,,,[],,date,12 Sep 1918,{},,,
+5,AWD00032jo,orders,746,2,,,,[],,orders,move,{},,,
+9,AWD00032jo,orders,746,2,,,,[],,diaryDate,13 Sep 1918,"{""day""=>[""13""], ""month""=>[""Sep""], ""year""=>[""1918""]}",,,
+10,AWD00032jo,orders,746,3,,,,[],,date,13 Sep 1918,{},,,
+1,AWD00032kk,signals,747,2,,,,[],,date,8 Nov 1918,{},,,
+3,AWD00032kk,signals,747,2,,,,[],,date,15 Sep 1918,{},,,
+5,AWD00032kk,signals,747,2,,,,[],,signals,other,{},,,
+3,AWD00032k7,report,749,2,,,,[],,date,24 Sep 1918,{},,,
+7,AWD00032k7,report,749,3,,,,[],,person,Major General E P Strickland,"{""first""=>[""E P""], ""surname""=>[""Strickland""], ""rank""=>[""Major General""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+8,AWD00032k7,report,749,3,,,,[],,person,"Brigadier General G C,G O,g c Kelly","{""first""=>[""G C"", ""G O"", ""g c""], ""surname""=>[""Kelly""], ""rank""=>[""Brigadier General""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+9,AWD00032k7,report,749,2,,,,[],,person,Brigadier General W A I Kay,"{""first""=>[""W A I""], ""surname""=>[""Kay""], ""rank""=>[""Brigadier General""], ""number""=>[""""], ""reason""=>[""other"", ""commander""], ""unit""=>[""""]}",,,
+10,AWD00032k7,report,749,2,,,,[],,person,Brigadier General H F E Lewin,"{""first""=>[""H F E""], ""surname""=>[""Lewin""], ""rank""=>[""Brigadier General""], ""number""=>[""""], ""reason""=>[""other"", ""commander""], ""unit""=>[""""]}",,,
+4,AWD00032jg,report,755,2,,,,[],,date,18 Sep 1918,{},,,
+5,AWD00032jg,report,755,2,,,,[],,date,19 Sep 1918,{},,,
+7,AWD00032jg,report,755,2,,,,[],,activity,movement,{},,,
+8,AWD00032jg,report,755,3,,,,[],,person,Major General e p strickland,"{""first""=>[""e p""], ""surname""=>[""strickland""], ""rank""=>[""Major General""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+9,AWD00032jg,report,755,2,,,,[],,person,"Brigadier General W B,w b Thornton, thornton","{""first""=>[""W B"", ""w b""], ""surname""=>[""Thornton"", ""thornton""], ""rank""=>[""Brigadier General""], ""number""=>[""""], ""reason""=>[""other"", ""commander""], ""unit""=>["""", ""1st bn the black watch""]}",,,
+11,AWD00032jg,report,755,2,,,,[],,person,"Brigadier General G C,gc Kelly, kelly","{""first""=>[""G C"", ""gc""], ""surname""=>[""Kelly"", ""kelly""], ""rank""=>[""Brigadier General""], ""number""=>[""""], ""reason""=>[""other"", ""commander""], ""unit""=>[""""]}",,,
+12,AWD00032jg,report,755,2,,,,[],,person,"Brigadier General H F E,h f e Lewin, le in","{""first""=>[""H F E"", ""h f e""], ""surname""=>[""Lewin"", ""le in""], ""rank""=>[""Brigadier General""], ""number""=>[""""], ""reason""=>[""other"", ""commander""], ""unit""=>["""", ""artilleery""]}",,,
+3,AWD00032j1,report,757,2,,,,[],,title,Brief plan of the operations,{},,,
+5,AWD00032j1,report,757,2,,,,[],,date,13 Aug 1918,{},,,
+6,AWD00032j5,report,758,3,,,,[],,title,Account of the Action,{},,,
+4,AWD00032kv,orders,760,2,,,,[],,orders,move,{},,,
+9,AWD00032kv,orders,760,2,,,,[],,person,Major L G Miles,"{""first""=>[""L G""], ""surname""=>[""Miles""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""1st Black Watch"", ""1st 'Black Watch'""]}",,,
+10,AWD00032kv,orders,760,2,,,,[],,person,Major S Mann,"{""first""=>[""S""], ""surname""=>[""Mann""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander"", ""other""], ""unit""=>[""1st L.N. Lance"", """"]}",,,
+12,AWD00032kv,orders,760,4,,,,[],,date,7 Sep 1918,{},,,
+13,AWD00032k4,orders,762,3,,,,[],,date,20 Sep 1918,{},,,
+3,AWD00032jc,orders,763,2,,,,[],,date,8 Nov 1918,{},,,
+4,AWD00032jc,orders,763,4,,,,[],,orders,attack,{},,,
+8,AWD00032jc,orders,763,5,,,,[],,date,21 Sep 1918,{},,,
+2,AWD00032jr,orders,764,2,,,,[],,reference,1st Brigade No. G. 163/1,{},,,
+10,AWD00032jr,orders,764,5,,,,[],,date,26 Sep 1918,{},,,
+1,AWD00032jy,orders,765,2,,,,[],,reference,1st Brigade No. G. 774.,{},,,
+6,AWD00032jy,orders,765,4,,,,[],,date,26 Sep 1918,{},,,
+1,AWD00032jn,orders,766,3,,,,[],,reference,1st brigade  no .g. 775,{},,,
+2,AWD00032jn,orders,766,3,,,,[],,orders,move,{},,,
+5,AWD00032jn,orders,766,4,,,,[],,date,26 Sep 1918,{},,,
+3,AWD00032l1,signals,767,4,,,,[],,date,26 Sep 1918,{},,,
+6,AWD00032l1,signals,767,3,,,,[],,time,0350PM,{},,,
+8,AWD00032l1,signals,767,4,,,,[],,person,Captain J Robertson,"{""first""=>[""J""], ""surname""=>[""Robertson""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other"", ""commander""], ""unit""=>[""""]}",,,
+1,AWD00032kg,orders,768,3,,,,[],,reference,1st brigade  no .g. 1. 372,{},,,
+2,AWD00032kg,orders,768,3,,,,[],,orders,attack,{},,,
+5,AWD00032kg,orders,768,4,,,,[],,date,26 Sep 1918,{},,,
+6,AWD00032l7,other,769,2,,,,[],,person,  ,"{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+2,AWD00032i2,signals,770,2,,,,[],,date,8 Nov 1918,{},,,
+4,AWD00032i2,signals,770,2,,,,[],,unit,"1st Blackwatch, 1st black watch","{""name""=>[""1st Blackwatch"", ""1st black watch""], ""context""=>[""other"", ""joined""]}",,,
+8,AWD00032i2,signals,770,2,,,,[],,signals,other,{},,,
+9,AWD00032i2,signals,770,3,,,,[],,date,28 Sep 1918,{},,,
+20,AWD00032i2,signals,770,3,,,,[],,person,",Corporal,Captain C M Barber","{""first""=>[""C M""], ""surname""=>[""Barber""], ""rank""=>["""", ""Corporal"", ""Captain""], ""number""=>[""""], ""reason""=>[""author"", ""other"", ""commander""], ""unit""=>[""1st Brigade""]}",,,
+3,AWD00032ir,orders,771,2,,,,[],,date,8 Nov 1918,{},,,
+5,AWD00032ir,orders,771,2,,,,[],,orders,move,{},,,
+8,AWD00032ir,orders,771,5,,,,[],,date,30 Sep 1918,{},,,
+1,AWD00032kq,other,773,2,,,,[],,orders,attack,{},,,
+2,AWD00032kq,other,773,2,,,,[],,date,18 Sep 1918,{},,,
+4,AWD00032jx,other,774,2,,,,[],,signals,situation,{},,,
+2,AWD00032kb,diary,776,5,1918-10-01 00:00:00 UTC,1 Oct 1918,Tumulos,"[0.0, 0.0]","",diaryDate,1 Oct 1918,"{""day""=>[""1""], ""month""=>[""Oct""], ""year""=>[""1918""]}",,,
+3,AWD00032kb,diary,776,5,1918-10-01 00:00:00 UTC,1 Oct 1918,Tumulos,"[0.0, 0.0]","",activity,movement,{},,,
+4,AWD00032kb,diary,776,3,1918-10-01 00:00:00 UTC,1 Oct 1918,"Le Tronquay, LE TRONQUAY, le tronquay","[0.0, 0.0]","",place,"Le Tronquay, LE TRONQUAY, le tronquay","{""place""=>[""Le Tronquay"", ""LE TRONQUAY"", ""le tronquay""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+14,AWD00032kb,diary,776,2,1918-10-01 00:00:00 UTC,1 Oct 1918,"Le Tronquay, LE TRONQUAY, le tronquay","[0.0, 0.0]","",unit,BLACK WATCH,"{""name""=>[""BLACK WATCH""], ""context""=>[""other""]}",,,
+16,AWD00032kb,diary,776,5,1918-10-02 00:00:00 UTC,2 Oct 1918,"Le Tronquay, LE TRONQUAY, le tronquay","[0.0, 0.0]","",diaryDate,2 Oct 1918,"{""day""=>[""2""], ""month""=>[""Oct""], ""year""=>[""1918""]}",,,
+20,AWD00032kb,diary,776,5,1918-10-03 00:00:00 UTC,3 Oct 1918,"Le Tronquay, LE TRONQUAY, le tronquay","[0.0, 0.0]","",diaryDate,3 Oct 1918,"{""day""=>[""3""], ""month""=>[""Oct""], ""year""=>[""1918""]}",,,
+29,AWD00032kb,diary,776,2,1918-10-03 00:00:00 UTC,3 Oct 1918,"Le Tronquay, LE TRONQUAY, le tronquay","[0.0, 0.0]","",activity,movement,{},,,
+30,AWD00032kb,diary,776,4,1918-10-03 00:00:00 UTC,3 Oct 1918,"Le Tronquay, LE TRONQUAY, le tronquay","[0.0, 0.0]","",activity,fire,{},,,
+31,AWD00032kb,diary,776,2,1918-10-03 00:00:00 UTC,3 Oct 1918,"Le Tronquay, LE TRONQUAY, le tronquay","[0.0, 0.0]","",unit,BLACK WATCH,"{""name""=>[""BLACK WATCH""], ""context""=>[""relieved_by""]}",,,
+33,AWD00032kb,diary,776,6,1918-10-03 00:00:00 UTC,3 Oct 1918,"Le Tronquay, LE TRONQUAY, le tronquay","[0.0, 0.0]","",activity,movement,{},,,
+34,AWD00032kb,diary,776,5,1918-10-04 00:00:00 UTC,4 Oct 1918,"Le Tronquay, LE TRONQUAY, le tronquay","[0.0, 0.0]","",diaryDate,4 Oct 1918,"{""day""=>[""4""], ""month""=>[""Oct""], ""year""=>[""1918""]}",,,
+35,AWD00032kb,diary,776,4,1918-10-04 00:00:00 UTC,4 Oct 1918,VERMAND,"[3.14959, 49.8755]","",place,VERMAND,"{""place""=>[""VERMAND""], ""location""=>[""true""], ""name""=>[""Vermand""], ""lat""=>[""49.8755""], ""long""=>[""3.14959""], ""id""=>[""2969868""]}",2969868,Vermand,"[3.14959, 49.8755]"
+36,AWD00032kb,diary,776,4,1918-10-04 00:00:00 UTC,4 Oct 1918,VERMAND,"[3.14959, 49.8755]","",domestic,accomodation,{},2969868,Vermand,"[3.14959, 49.8755]"
+37,AWD00032kb,diary,776,5,1918-10-05 00:00:00 UTC,5 Oct 1918,VERMAND,"[3.14959, 49.8755]","",diaryDate,5 Oct 1918,"{""day""=>[""5""], ""month""=>[""Oct""], ""year""=>[""1918""]}",2969868,Vermand,"[3.14959, 49.8755]"
+38,AWD00032kb,diary,776,2,1918-10-05 00:00:00 UTC,5 Oct 1918,VERMAND,"[3.14959, 49.8755]","",place,"Vermand, VERMAND","{""place""=>[""Vermand"", ""VERMAND""], ""location""=>[""false"", ""true""], ""name""=>[""Vermand"", """"], ""lat""=>[""49.8755"", """"], ""long""=>[""3.14959"", """"], ""id""=>[""2969868"", """"]}",2969868,Vermand,"[3.14959, 49.8755]"
+39,AWD00032kb,diary,776,3,1918-10-05 00:00:00 UTC,5 Oct 1918,VERMAND,"[3.14959, 49.8755]","",activity,training,{},2969868,Vermand,"[3.14959, 49.8755]"
+40,AWD00032kb,diary,776,5,1918-10-08 00:00:00 UTC,8 Oct 1918,VERMAND,"[3.14959, 49.8755]","",diaryDate,8 Oct 1918,"{""day""=>[""8""], ""month""=>[""Oct""], ""year""=>[""1918""]}",2969868,Vermand,"[3.14959, 49.8755]"
+41,AWD00032kb,diary,776,5,1918-10-09 00:00:00 UTC,9 Oct 1918,VERMAND,"[3.14959, 49.8755]","",diaryDate,9 Oct 1918,"{""day""=>[""9""], ""month""=>[""Oct""], ""year""=>[""1918""]}",2969868,Vermand,"[3.14959, 49.8755]"
+42,AWD00032kb,diary,776,4,1918-10-09 00:00:00 UTC,9 Oct 1918,VERMAND,"[3.14959, 49.8755]","",activity,movement,{},2969868,Vermand,"[3.14959, 49.8755]"
+43,AWD00032kb,diary,776,4,1918-10-09 00:00:00 UTC,9 Oct 1918,VERMAND,"[3.14959, 49.8755]","",place,BELLINGLISE,"{""place""=>[""BELLINGLISE""], ""location""=>[""false"", ""true""], ""name""=>[""Vermand""], ""lat""=>[""49.8755""], ""long""=>[""3.14959""], ""id""=>[""2969868""]}",2969868,Vermand,"[3.14959, 49.8755]"
+1,AWD00032jd,diary,777,6,1918-10-10 00:00:00 UTC,10 Oct 1918,VERMAND,"[3.14959, 49.8755]","",diaryDate,10 Oct 1918,"{""day""=>[""10""], ""month""=>[""Oct""], ""year""=>[""1918""]}",2969868,Vermand,"[3.14959, 49.8755]"
+3,AWD00032jd,diary,777,4,1918-10-10 00:00:00 UTC,10 Oct 1918,VERMAND,"[3.14959, 49.8755]","",domestic,accomodation,{},2969868,Vermand,"[3.14959, 49.8755]"
+4,AWD00032jd,diary,777,8,1918-10-10 00:00:00 UTC,10 Oct 1918,Bellinglise,"[0.0, 0.0]","",place,Bellinglise,"{""place""=>[""Bellinglise""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3033674,Bellenglise,"[3.24648, 49.92054]"
+7,AWD00032jd,diary,777,2,1918-10-15 00:00:00 UTC,15 Oct 1918,Bellinglise,"[0.0, 0.0]","",diaryDate,15 Oct 1918,"{""day""=>[""15""], ""month""=>[""Oct""], ""year""=>[""1918""]}",3033674,Bellenglise,"[3.24648, 49.92054]"
+11,AWD00032jd,diary,777,5,1918-10-16 00:00:00 UTC,16 Oct 1918,Bellinglise,"[0.0, 0.0]","",diaryDate,16 Oct 1918,"{""day""=>[""16""], ""month""=>[""Oct""], ""year""=>[""1918""]}",3033674,Bellenglise,"[3.24648, 49.92054]"
+13,AWD00032jd,diary,777,3,1918-10-16 00:00:00 UTC,16 Oct 1918,"Bellinglise, BELLINGLISE, bellenglise","[0.0, 0.0]","",place,"Bellinglise, BELLINGLISE, bellenglise","{""place""=>[""Bellinglise"", ""BELLINGLISE"", ""bellenglise""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3033674,Bellenglise,"[3.24648, 49.92054]"
+15,AWD00032jd,diary,777,8,1918-10-16 00:00:00 UTC,16 Oct 1918,"Bellinglise, BELLINGLISE, bellenglise","[0.0, 0.0]","",activity,movement,{},3033674,Bellenglise,"[3.24648, 49.92054]"
+16,AWD00032jd,diary,777,11,1918-10-16 00:00:00 UTC,16 Oct 1918,Bohain,"[0.0, 0.0]","",place,Bohain,"{""place""=>[""Bohain""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3032127,Bohain-en-Vermandois,"[3.453, 49.9873]"
+17,AWD00032jd,diary,777,2,1918-10-17 00:00:00 UTC,17 Oct 1918,Bohain,"[0.0, 0.0]","",diaryDate,17 Oct 1918,"{""day""=>[""17""], ""month""=>[""Oct""], ""year""=>[""1918""]}",3032127,Bohain-en-Vermandois,"[3.453, 49.9873]"
+18,AWD00032jd,diary,777,4,1918-10-17 00:00:00 UTC,17 Oct 1918,Bohain,"[0.0, 0.0]","",domestic,accomodation,{},3032127,Bohain-en-Vermandois,"[3.453, 49.9873]"
+19,AWD00032jd,diary,777,3,1918-10-17 00:00:00 UTC,17 Oct 1918,Bohain,"[0.0, 0.0]","",activity,movement,{},3032127,Bohain-en-Vermandois,"[3.453, 49.9873]"
+20,AWD00032jd,diary,777,5,1918-10-17 00:00:00 UTC,17 Oct 1918,Bohain,"[0.0, 0.0]","",diaryDate,17 Oct 1918,"{""day""=>[""17""], ""month""=>[""Oct""], ""year""=>[""1918""]}",3032127,Bohain-en-Vermandois,"[3.453, 49.9873]"
+22,AWD00032jd,diary,777,3,1918-10-17 02:15:00 UTC,17 Oct 1918,Bohain,"[0.0, 0.0]",0215AM,time,0215AM,{},3032127,Bohain-en-Vermandois,"[3.453, 49.9873]"
+24,AWD00032jd,diary,777,5,1918-10-17 02:15:00 UTC,17 Oct 1918,Becquigny,"[3.47332, 50.01708]",0215AM,place,Becquigny,"{""place""=>[""Becquigny""], ""location""=>[""true""], ""name""=>[""Becquigny""], ""lat""=>[""50.01708""], ""long""=>[""3.47332""], ""id""=>[""3033919""]}",3033919,Becquigny,"[3.47332, 50.01708]"
+26,AWD00032jd,diary,777,6,1918-10-17 05:00:00 UTC,17 Oct 1918,Becquigny,"[3.47332, 50.01708]",0500AM,time,0500AM,{},3033919,Becquigny,"[3.47332, 50.01708]"
+27,AWD00032jd,diary,777,6,1918-10-17 05:20:00 UTC,17 Oct 1918,Becquigny,"[3.47332, 50.01708]",0520AM,time,0520AM,{},3033919,Becquigny,"[3.47332, 50.01708]"
+28,AWD00032jd,diary,777,4,1918-10-17 05:20:00 UTC,17 Oct 1918,Becquigny,"[3.47332, 50.01708]",0520AM,weather,cold,{},3033919,Becquigny,"[3.47332, 50.01708]"
+29,AWD00032jd,diary,777,2,1918-10-17 05:20:00 UTC,17 Oct 1918,Becquigny,"[3.47332, 50.01708]",0520AM,weather,overcast,{},3033919,Becquigny,"[3.47332, 50.01708]"
+31,AWD00032jd,diary,777,3,1918-10-17 05:20:00 UTC,17 Oct 1918,Becquigny,"[3.47332, 50.01708]",0520AM,weather,fog,{},3033919,Becquigny,"[3.47332, 50.01708]"
+32,AWD00032jd,diary,777,3,1918-10-17 05:20:00 UTC,17 Oct 1918,Becquigny,"[3.47332, 50.01708]",0520AM,activity,fire,{},3033919,Becquigny,"[3.47332, 50.01708]"
+33,AWD00032jd,diary,777,2,1918-10-17 05:20:00 UTC,17 Oct 1918,Becquigny,"[3.47332, 50.01708]",0520AM,activity,enemy_activity,{},3033919,Becquigny,"[3.47332, 50.01708]"
+35,AWD00032jd,diary,777,5,1918-10-17 05:20:00 UTC,17 Oct 1918,Becquigny,"[3.47332, 50.01708]",0520AM,activity,attack,{},3033919,Becquigny,"[3.47332, 50.01708]"
+36,AWD00032jd,diary,777,2,1918-10-17 05:20:00 UTC,17 Oct 1918,Becquigny,"[3.47332, 50.01708]",0520AM,unit,"6th Division, 46th Division","{""name""=>[""6th Division"", ""46th Division""], ""context""=>[""joined""]}",3033919,Becquigny,"[3.47332, 50.01708]"
+44,AWD00032jd,diary,777,7,1918-10-17 05:20:00 UTC,17 Oct 1918,Becquigny,"[3.47332, 50.01708]",0520AM,activity,fire,{},3033919,Becquigny,"[3.47332, 50.01708]"
+45,AWD00032jd,diary,777,4,1918-10-17 05:20:00 UTC,17 Oct 1918,Becquigny,"[3.47332, 50.01708]",0520AM,activity,attack,{},3033919,Becquigny,"[3.47332, 50.01708]"
+46,AWD00032jd,diary,777,5,1918-10-17 05:20:00 UTC,17 Oct 1918,Bellevue,"[0.0, 0.0]",0520AM,place,Bellevue,"{""place""=>[""Bellevue""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2802310,Belle Vue,"[5.76456, 49.66163]"
+47,AWD00032jd,diary,777,2,1918-10-17 05:20:00 UTC,17 Oct 1918,Bellevue,"[0.0, 0.0]",0520AM,weather,fog,{},2802310,Belle Vue,"[5.76456, 49.66163]"
+48,AWD00032jd,diary,777,3,1918-10-17 05:20:00 UTC,17 Oct 1918,Bellevue,"[0.0, 0.0]",0520AM,activity,attack,{},2802310,Belle Vue,"[5.76456, 49.66163]"
+49,AWD00032jd,diary,777,2,1918-10-17 05:20:00 UTC,17 Oct 1918,Bellevue,"[0.0, 0.0]",0520AM,place,Bellevue,"{""place""=>[""Bellevue""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2802310,Belle Vue,"[5.76456, 49.66163]"
+54,AWD00032jd,diary,777,3,1918-10-17 05:20:00 UTC,17 Oct 1918,Bellevue,"[0.0, 0.0]",0520AM,activity,attack,{},2802310,Belle Vue,"[5.76456, 49.66163]"
+55,AWD00032jd,diary,777,2,1918-10-17 05:20:00 UTC,17 Oct 1918,Bellevue,"[0.0, 0.0]",0520AM,activity,movement,{},2802310,Belle Vue,"[5.76456, 49.66163]"
+1,AWD00032iu,diary,778,6,1918-10-17 00:00:00 UTC,17 Oct 1918,Bellevue,"[0.0, 0.0]","",diaryDate,17 Oct 1918,"{""day""=>[""17""], ""month""=>[""Oct""], ""year""=>[""1918""]}",2802310,Belle Vue,"[5.76456, 49.66163]"
+2,AWD00032iu,diary,778,4,1918-10-17 00:00:00 UTC,17 Oct 1918,Bellevue,"[0.0, 0.0]","",activity,fire,{},2802310,Belle Vue,"[5.76456, 49.66163]"
+5,AWD00032iu,diary,778,4,1918-10-17 00:00:00 UTC,17 Oct 1918,Bellevue,"[0.0, 0.0]","",place,"La Vallée-Mulâtre, LA VALLEE MULATRE, La Vallee Mulatre, la vallee mlatre","{""place""=>[""La Vallée-Mulâtre"", ""LA VALLEE MULATRE"", ""La Vallee Mulatre"", ""la vallee mlatre""], ""location""=>[""false"", ""true""], ""name""=>[""La Vallée-Mulâtre""], ""lat""=>[""50.01941""], ""long""=>[""3.55773""], ""id""=>[""3005802""]}",2802310,Belle Vue,"[5.76456, 49.66163]"
+6,AWD00032iu,diary,778,2,1918-10-17 00:00:00 UTC,17 Oct 1918,Bellevue,"[0.0, 0.0]","",activity,achieved,{},2802310,Belle Vue,"[5.76456, 49.66163]"
+7,AWD00032iu,diary,778,6,1918-10-17 00:00:00 UTC,17 Oct 1918,Bellevue,"[0.0, 0.0]","",activity,fire,{},2802310,Belle Vue,"[5.76456, 49.66163]"
+8,AWD00032iu,diary,778,2,1918-10-17 00:00:00 UTC,17 Oct 1918,Bellevue,"[0.0, 0.0]","",activity,attack,{},2802310,Belle Vue,"[5.76456, 49.66163]"
+11,AWD00032iu,diary,778,2,1918-10-17 00:00:00 UTC,17 Oct 1918,Bellevue,"[0.0, 0.0]","",activity,attack,{},2802310,Belle Vue,"[5.76456, 49.66163]"
+12,AWD00032iu,diary,778,2,1918-10-17 00:00:00 UTC,17 Oct 1918,Bellevue,"[0.0, 0.0]","",activity,achieved,{},2802310,Belle Vue,"[5.76456, 49.66163]"
+14,AWD00032iu,diary,778,5,1918-10-17 00:00:00 UTC,17 Oct 1918,"La Vallée-Mulâtre, LA VALLEE MULATRE, La Vallee Mulatre, la vallee mlatre, La Valee Mulatre","[3.55773, 50.01941]","",place,"La Vallée-Mulâtre, LA VALLEE MULATRE, La Vallee Mulatre, la vallee mlatre, La Valee Mulatre","{""place""=>[""La Vallée-Mulâtre"", ""LA VALLEE MULATRE"", ""La Vallee Mulatre"", ""la vallee mlatre"", ""La Valee Mulatre""], ""location""=>[""true""], ""name""=>[""La Vallée-Mulâtre""], ""lat""=>[""50.01941""], ""long""=>[""3.55773""], ""id""=>[""3005802""]}",,,
+17,AWD00032iu,diary,778,4,1918-10-18 00:00:00 UTC,18 Oct 1918,"La Vallée-Mulâtre, LA VALLEE MULATRE, La Vallee Mulatre, la vallee mlatre, La Valee Mulatre","[3.55773, 50.01941]","",diaryDate,18 Oct 1918,"{""day""=>[""18""], ""month""=>[""Oct""], ""year""=>[""1918""]}",,,
+18,AWD00032iu,diary,778,4,1918-10-18 11:30:00 UTC,18 Oct 1918,"La Vallée-Mulâtre, LA VALLEE MULATRE, La Vallee Mulatre, la vallee mlatre, La Valee Mulatre","[3.55773, 50.01941]",1130AM,time,1130AM,{},,,
+19,AWD00032iu,diary,778,4,1918-10-18 11:30:00 UTC,18 Oct 1918,"La Vallée-Mulâtre, LA VALLEE MULATRE, La Vallee Mulatre, la vallee mlatre, La Valee Mulatre","[3.55773, 50.01941]",1130AM,activity,attack,{},,,
+1,AWD00032jv,diary,779,5,1918-10-18 00:00:00 UTC,18 Oct 1918,"La Vallée-Mulâtre, LA VALLEE MULATRE, La Vallee Mulatre, la vallee mlatre, La Valee Mulatre","[3.55773, 50.01941]","",diaryDate,18 Oct 1918,"{""day""=>[""18""], ""month""=>[""Oct""], ""year""=>[""1918""]}",,,
+5,AWD00032jv,diary,779,4,1918-10-18 00:00:00 UTC,18 Oct 1918,"La Vallée-Mulâtre, LA VALLEE MULATRE, La Vallee Mulatre, la vallee mlatre, La Valee Mulatre","[3.55773, 50.01941]","",place,Foret D'Andigny,"{""place""=>[""Foret D'Andigny""], ""location""=>[""false"", ""true""], ""name""=>[""La Vallée-Mulâtre"", """"], ""lat""=>[""50.01941"", """"], ""long""=>[""3.55773"", """"], ""id""=>[""3005802"", """"]}",,,
+7,AWD00032jv,diary,779,3,1918-10-18 00:00:00 UTC,18 Oct 1918,Wassigny,"[3.59988, 50.01334]","",place,Wassigny,"{""place""=>[""Wassigny""], ""location""=>[""true""], ""name""=>[""Wassigny""], ""lat""=>[""50.01334""], ""long""=>[""3.59988""], ""id""=>[""2967435""]}",2967435,Wassigny,"[3.59988, 50.01334]"
+8,AWD00032jv,diary,779,2,1918-10-18 00:00:00 UTC,18 Oct 1918,Wassigny,"[3.59988, 50.01334]","",activity,achieved,{},2967435,Wassigny,"[3.59988, 50.01334]"
+9,AWD00032jv,diary,779,2,1918-10-18 00:00:00 UTC,18 Oct 1918,Wassigny,"[3.59988, 50.01334]","",place,"Foret D'Andigny, foret dandigny","{""place""=>[""Foret D'Andigny"", ""foret dandigny""], ""location""=>[""false""], ""name""=>[""La Vallée-Mulâtre"", """"], ""lat""=>[""50.01941"", """"], ""long""=>[""3.55773"", """"], ""id""=>[""3005802"", """"]}",2967435,Wassigny,"[3.59988, 50.01334]"
+1,AWD00032ia,diary,780,5,1918-10-18 00:00:00 UTC,18 Oct 1918,Wassigny,"[3.59988, 50.01334]","",diaryDate,18 Oct 1918,"{""day""=>[""18""], ""month""=>[""Oct""], ""year""=>[""1918""]}",2967435,Wassigny,"[3.59988, 50.01334]"
+5,AWD00032ia,diary,780,5,1918-10-19 00:00:00 UTC,19 Oct 1918,Wassigny,"[3.59988, 50.01334]","",diaryDate,19 Oct 1918,"{""day""=>[""19""], ""month""=>[""Oct""], ""year""=>[""1918""]}",2967435,Wassigny,"[3.59988, 50.01334]"
+6,AWD00032ia,diary,780,4,1918-10-19 00:00:00 UTC,19 Oct 1918,Wassigny,"[3.59988, 50.01334]","",activity,movement,{},2967435,Wassigny,"[3.59988, 50.01334]"
+7,AWD00032ia,diary,780,5,1918-10-19 00:00:00 UTC,19 Oct 1918,La Valee Mulatre,"[3.55773, 50.01941]","",place,La Valee Mulatre,"{""place""=>[""La Valee Mulatre""], ""location""=>[""true""], ""name""=>[""La Vallée-Mulâtre"", """"], ""lat""=>[""50.01941"", """"], ""long""=>[""3.55773"", """"], ""id""=>[""3005802"", """"]}",3005802,La Vallée-Mulâtre,"[3.55772, 50.01941]"
+8,AWD00032ia,diary,780,5,1918-10-19 00:00:00 UTC,19 Oct 1918,La Valee Mulatre,"[3.55773, 50.01941]","",domestic,accomodation,{},3005802,La Vallée-Mulâtre,"[3.55772, 50.01941]"
+9,AWD00032ia,diary,780,5,1918-10-20 00:00:00 UTC,20 Oct 1918,La Valee Mulatre,"[3.55773, 50.01941]","",diaryDate,20 Oct 1918,"{""day""=>[""20""], ""month""=>[""Oct""], ""year""=>[""1918""]}",3005802,La Vallée-Mulâtre,"[3.55772, 50.01941]"
+10,AWD00032ia,diary,780,4,1918-10-20 00:00:00 UTC,20 Oct 1918,La Valee Mulatre,"[0.0, 0.0]","",place,La Valee Mulatre,"{""place""=>[""La Valee Mulatre""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3005802,La Vallée-Mulâtre,"[3.55772, 50.01941]"
+11,AWD00032ia,diary,780,3,1918-10-20 00:00:00 UTC,20 Oct 1918,La Valee Mulatre,"[0.0, 0.0]","",domestic,accomodation,{},3005802,La Vallée-Mulâtre,"[3.55772, 50.01941]"
+12,AWD00032ia,diary,780,2,1918-10-22 00:00:00 UTC,22 Oct 1918,La Valee Mulatre,"[0.0, 0.0]","",diaryDate,22 Oct 1918,"{""day""=>[""22""], ""month""=>[""Oct""], ""year""=>[""1918""]}",3005802,La Vallée-Mulâtre,"[3.55772, 50.01941]"
+13,AWD00032ia,diary,780,5,1918-10-23 00:00:00 UTC,23 Oct 1918,La Valee Mulatre,"[0.0, 0.0]","",diaryDate,23 Oct 1918,"{""day""=>[""23""], ""month""=>[""Oct""], ""year""=>[""1918""]}",3005802,La Vallée-Mulâtre,"[3.55772, 50.01941]"
+14,AWD00032ia,diary,780,5,1918-10-23 00:00:00 UTC,23 Oct 1918,La Valee Mulatre,"[0.0, 0.0]","",activity,movement,{},3005802,La Vallée-Mulâtre,"[3.55772, 50.01941]"
+15,AWD00032ia,diary,780,3,1918-10-23 00:00:00 UTC,23 Oct 1918,Mazinghien,"[3.60254, 50.05059]","",place,Mazinghien,"{""place""=>[""Mazinghien""], ""location""=>[""true""], ""name""=>[""Mazinghien""], ""lat""=>[""50.05059""], ""long""=>[""3.60254""], ""id""=>[""2994835""]}",2994835,Mazinghien,"[3.60254, 50.05059]"
+16,AWD00032ia,diary,780,4,1918-10-23 00:00:00 UTC,23 Oct 1918,Mazinghien,"[3.60254, 50.05059]","",activity,support,{},2994835,Mazinghien,"[3.60254, 50.05059]"
+17,AWD00032ia,diary,780,2,1918-10-23 00:00:00 UTC,23 Oct 1918,Mazinghien,"[3.60254, 50.05059]","",domestic,accomodation,{},2994835,Mazinghien,"[3.60254, 50.05059]"
+18,AWD00032ia,diary,780,5,1918-10-24 00:00:00 UTC,24 Oct 1918,Mazinghien,"[3.60254, 50.05059]","",diaryDate,24 Oct 1918,"{""day""=>[""24""], ""month""=>[""Oct""], ""year""=>[""1918""]}",2994835,Mazinghien,"[3.60254, 50.05059]"
+19,AWD00032ia,diary,780,4,1918-10-24 00:00:00 UTC,24 Oct 1918,Mazinghien,"[3.60254, 50.05059]","",activity,support,{},2994835,Mazinghien,"[3.60254, 50.05059]"
+20,AWD00032ia,diary,780,2,1918-10-26 00:00:00 UTC,26 Oct 1918,Mazinghien,"[3.60254, 50.05059]","",diaryDate,26 Oct 1918,"{""day""=>[""26""], ""month""=>[""Oct""], ""year""=>[""1918""]}",2994835,Mazinghien,"[3.60254, 50.05059]"
+21,AWD00032ia,diary,780,4,1918-10-27 00:00:00 UTC,27 Oct 1918,Mazinghien,"[3.60254, 50.05059]","",diaryDate,27 Oct 1918,"{""day""=>[""27""], ""month""=>[""Oct""], ""year""=>[""1918""]}",2994835,Mazinghien,"[3.60254, 50.05059]"
+22,AWD00032ia,diary,780,4,1918-10-27 00:00:00 UTC,27 Oct 1918,Mazinghien,"[3.60254, 50.05059]","",activity,movement,{},2994835,Mazinghien,"[3.60254, 50.05059]"
+23,AWD00032ia,diary,780,5,1918-10-27 00:00:00 UTC,27 Oct 1918,Mazinghien,"[3.60254, 50.05059]","",domestic,accomodation,{},2994835,Mazinghien,"[3.60254, 50.05059]"
+24,AWD00032ia,diary,780,6,1918-10-27 00:00:00 UTC,27 Oct 1918,La Valee Mulatre,"[3.55773, 50.01941]","",place,La Valee Mulatre,"{""place""=>[""La Valee Mulatre""], ""location""=>[""true""], ""name""=>[""La Vallée-Mulâtre""], ""lat""=>[""50.01941""], ""long""=>[""3.55773""], ""id""=>[""3005802""]}",3005802,La Vallée-Mulâtre,"[3.55772, 50.01941]"
+25,AWD00032ia,diary,780,4,1918-10-28 00:00:00 UTC,28 Oct 1918,La Valee Mulatre,"[3.55773, 50.01941]","",diaryDate,28 Oct 1918,"{""day""=>[""28""], ""month""=>[""Oct""], ""year""=>[""1918""]}",3005802,La Vallée-Mulâtre,"[3.55772, 50.01941]"
+27,AWD00032ia,diary,780,4,1918-10-28 00:00:00 UTC,28 Oct 1918,La Valee Mulatre,"[3.55773, 50.01941]","",activity,training,{},3005802,La Vallée-Mulâtre,"[3.55772, 50.01941]"
+29,AWD00032ia,diary,780,2,1918-10-28 00:00:00 UTC,28 Oct 1918,La Valee Mulatre,"[3.60254, 50.05059]","",place,La Valee Mulatre,"{""place""=>[""La Valee Mulatre""], ""location""=>[""true""], ""name""=>[""Mazinghien"", """"], ""lat""=>[""50.05059"", """"], ""long""=>[""3.60254"", """"], ""id""=>[""2994835"", """"]}",3005802,La Vallée-Mulâtre,"[3.55772, 50.01941]"
+32,AWD00032ia,diary,780,3,1918-10-28 00:00:00 UTC,28 Oct 1918,La Valee Mulatre,"[3.60254, 50.05059]","",casualties,other: 206,{},3005802,La Vallée-Mulâtre,"[3.55772, 50.01941]"
+36,AWD00032ia,diary,780,3,1918-10-28 00:00:00 UTC,28 Oct 1918,La Valee Mulatre,"[3.60254, 50.05059]","",person,"Second Lieutenant G Bryson, BRYSON, Ryrson","{""first""=>[""G""], ""surname""=>[""Bryson"", ""BRYSON"", ""Ryrson""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""award""], ""unit""=>[""""]}",3005802,La Vallée-Mulâtre,"[3.55772, 50.01941]"
+37,AWD00032ia,diary,780,4,1918-10-28 00:00:00 UTC,28 Oct 1918,La Valee Mulatre,"[3.60254, 50.05059]","",person,"Second Lieutenant J M,J N,J H,JN Ferguson","{""first""=>[""J M"", ""J N"", ""J H"", ""JN""], ""surname""=>[""Ferguson""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""award""], ""unit""=>[""""]}",3005802,La Vallée-Mulâtre,"[3.55772, 50.01941]"
+38,AWD00032ia,diary,780,5,1918-10-28 00:00:00 UTC,28 Oct 1918,La Valee Mulatre,"[3.60254, 50.05059]","",person,Private W Burnett,"{""first""=>[""W""], ""surname""=>[""Burnett""], ""rank""=>[""Private""], ""number""=>[""11869""], ""reason""=>[""award""], ""unit""=>[""""]}",3005802,La Vallée-Mulâtre,"[3.55772, 50.01941]"
+39,AWD00032ia,diary,780,5,1918-10-28 00:00:00 UTC,28 Oct 1918,La Valee Mulatre,"[3.60254, 50.05059]","",person,Company Sergeant Major W Smith,"{""first""=>[""W""], ""surname""=>[""Smith""], ""rank""=>[""Company Sergeant Major""], ""number""=>[""8093""], ""reason""=>[""award""], ""unit""=>[""""]}",3005802,La Vallée-Mulâtre,"[3.55772, 50.01941]"
+40,AWD00032ia,diary,780,5,1918-10-28 00:00:00 UTC,28 Oct 1918,La Valee Mulatre,"[3.60254, 50.05059]","",person,Private J Scobie,"{""first""=>[""J""], ""surname""=>[""Scobie""], ""rank""=>[""Private""], ""number""=>[""17128""], ""reason""=>[""award""], ""unit""=>[""""]}",3005802,La Vallée-Mulâtre,"[3.55772, 50.01941]"
+41,AWD00032ia,diary,780,3,1918-10-28 00:00:00 UTC,28 Oct 1918,La Valee Mulatre,"[3.60254, 50.05059]","",person,Lance Corporal W Smith,"{""first""=>[""W""], ""surname""=>[""Smith""], ""rank""=>[""Lance Corporal""], ""number""=>[""9747""], ""reason""=>[""award""], ""unit""=>[""""]}",3005802,La Vallée-Mulâtre,"[3.55772, 50.01941]"
+43,AWD00032ia,diary,780,2,1918-10-31 00:00:00 UTC,31 Oct 1918,La Valee Mulatre,"[3.60254, 50.05059]","",diaryDate,31 Oct 1918,"{""day""=>[""31""], ""month""=>[""Oct""], ""year""=>[""1918""]}",3005802,La Vallée-Mulâtre,"[3.55772, 50.01941]"
+1,AWD00032kh,diary,781,2,1918-10-28 00:00:00 UTC,28 Oct 1918,La Valee Mulatre,"[3.60254, 50.05059]","",diaryDate,28 Oct 1918,"{""day""=>[""28""], ""month""=>[""Oct""], ""year""=>[""1918""]}",3005802,La Vallée-Mulâtre,"[3.55772, 50.01941]"
+3,AWD00032kh,diary,781,4,1918-10-28 00:00:00 UTC,28 Oct 1918,La Valee Mulatre,"[3.60254, 50.05059]","",person,Lance Corporal S Graham,"{""first""=>[""S""], ""surname""=>[""Graham""], ""rank""=>[""Lance Corporal""], ""number""=>[""11218""], ""reason""=>[""award""], ""unit""=>[""""]}",3005802,La Vallée-Mulâtre,"[3.55772, 50.01941]"
+4,AWD00032kh,diary,781,4,1918-10-28 00:00:00 UTC,28 Oct 1918,La Valee Mulatre,"[3.60254, 50.05059]","",person,Corporal J Maden,"{""first""=>[""J""], ""surname""=>[""Maden""], ""rank""=>[""Corporal""], ""number""=>[""40243""], ""reason""=>[""award""], ""unit""=>[""""]}",3005802,La Vallée-Mulâtre,"[3.55772, 50.01941]"
+5,AWD00032kh,diary,781,3,1918-10-28 00:00:00 UTC,28 Oct 1918,La Valee Mulatre,"[3.60254, 50.05059]","",person,Corporal K McKenzie,"{""first""=>[""K""], ""surname""=>[""McKenzie""], ""rank""=>[""Corporal""], ""number""=>[""9396""], ""reason""=>[""award""], ""unit""=>[""""]}",3005802,La Vallée-Mulâtre,"[3.55772, 50.01941]"
+7,AWD00032kh,diary,781,3,1918-10-28 00:00:00 UTC,28 Oct 1918,La Valee Mulatre,"[3.60254, 50.05059]","",person,Private J McIntosh,"{""first""=>[""J""], ""surname""=>[""McIntosh""], ""rank""=>[""Private""], ""number""=>[""43037"", """", ""42037""], ""reason""=>[""award""], ""unit""=>[""""]}",3005802,La Vallée-Mulâtre,"[3.55772, 50.01941]"
+8,AWD00032kh,diary,781,3,1918-10-28 00:00:00 UTC,28 Oct 1918,La Valee Mulatre,"[3.60254, 50.05059]","",person,Sergeant D Stewart,"{""first""=>[""D""], ""surname""=>[""Stewart""], ""rank""=>[""Sergeant""], ""number""=>[""5971""], ""reason""=>[""award""], ""unit""=>[""""]}",3005802,La Vallée-Mulâtre,"[3.55772, 50.01941]"
+10,AWD00032kh,diary,781,3,1918-10-28 00:00:00 UTC,28 Oct 1918,La Valee Mulatre,"[3.60254, 50.05059]","",person,Sergeant R Anderson,"{""first""=>[""R""], ""surname""=>[""Anderson""], ""rank""=>[""Sergeant""], ""number""=>[""7350""], ""reason""=>[""award""], ""unit""=>[""""]}",3005802,La Vallée-Mulâtre,"[3.55772, 50.01941]"
+11,AWD00032kh,diary,781,4,1918-10-28 00:00:00 UTC,28 Oct 1918,La Valee Mulatre,"[3.60254, 50.05059]","",person,"Private W Kendry, Kendy, Hendry, HENDRY","{""first""=>[""W""], ""surname""=>[""Kendry"", ""Kendy"", ""Hendry"", ""HENDRY""], ""rank""=>[""Private""], ""number""=>[""10434""], ""reason""=>[""award""], ""unit""=>[""""]}",3005802,La Vallée-Mulâtre,"[3.55772, 50.01941]"
+12,AWD00032kh,diary,781,3,1918-10-28 00:00:00 UTC,28 Oct 1918,La Valee Mulatre,"[3.60254, 50.05059]","",person,Private W Burrows,"{""first""=>[""W""], ""surname""=>[""Burrows""], ""rank""=>[""Private""], ""number""=>[""40239""], ""reason""=>[""award""], ""unit""=>[""""]}",3005802,La Vallée-Mulâtre,"[3.55772, 50.01941]"
+15,AWD00032kh,diary,781,3,1918-10-28 00:00:00 UTC,28 Oct 1918,La Valee Mulatre,"[3.60254, 50.05059]","",person,Sergeant C McGregor,"{""first""=>[""C""], ""surname""=>[""McGregor""], ""rank""=>[""Sergeant""], ""number""=>[""26308""], ""reason""=>[""award""], ""unit""=>[""""]}",3005802,La Vallée-Mulâtre,"[3.55772, 50.01941]"
+16,AWD00032kh,diary,781,4,1918-10-28 00:00:00 UTC,28 Oct 1918,La Valee Mulatre,"[3.60254, 50.05059]","",person,Private N McDonald,"{""first""=>[""N""], ""surname""=>[""McDonald""], ""rank""=>[""Private""], ""number""=>[""10392""], ""reason""=>[""award""], ""unit""=>[""""]}",3005802,La Vallée-Mulâtre,"[3.55772, 50.01941]"
+19,AWD00032kh,diary,781,3,1918-10-28 00:00:00 UTC,28 Oct 1918,La Valee Mulatre,"[3.60254, 50.05059]","",person,Captain J Robertson,"{""first""=>[""J""], ""surname""=>[""Robertson""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",3005802,La Vallée-Mulâtre,"[3.55772, 50.01941]"
+6,AWD00032l2,diary,782,2,1918-10-28 00:00:00 UTC,28 Oct 1918,La Valee Mulatre,"[3.60254, 50.05059]","",unit,Royal Fussiliers,"{""name""=>[""Royal Fussiliers""], ""context""=>[""relieved""]}",3005802,La Vallée-Mulâtre,"[3.55772, 50.01941]"
+7,AWD00032l2,diary,782,2,1918-10-28 00:00:00 UTC,28 Oct 1918,"Noyelles, noyelles","[0.0, 0.0]","",place,"Noyelles, noyelles","{""place""=>[""Noyelles"", ""noyelles""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2989899,Noyelles-lès-Vermelles,"[2.72628, 50.49001]"
+4,AWD00032i6,orders,783,2,,,,[],,date,3 Oct 1918,{},,,
+22,AWD00032i6,orders,783,2,,,,[],,unit,"25th Brigade R.F.A., 39th Brigade R.F.A.","{""name""=>[""25th Brigade R.F.A."", ""39th Brigade R.F.A.""], ""context""=>[""joined""]}",,,
+3,AWD00032j2,orders,784,2,,,,[],,date,3 Oct 1918,{},,,
+7,AWD00032kl,report,785,2,,,,[],,gridRef,R 23 B 4 5,{},,,
+14,AWD00032kl,report,785,2,,,,[],,unit,"3rd infantry brigade, 1st infantry brigade","{""name""=>[""3rd infantry brigade"", ""1st infantry brigade""], ""context""=>[""other""]}",,,
+15,AWD00032kl,report,785,2,,,,[],,gridRef,R 23 B 4 4,{},,,
+3,AWD00032if,orders,786,3,,,,[],,orders,attack,{},,,
+13,AWD00032if,orders,786,2,,,,[],,orders,other,{},,,
+2,AWD00032ip,orders,787,2,,,,[],,orders,attack,{},,,
+5,AWD00032io,report,789,2,,,,[],,orders,attack,{},,,
+6,AWD00032l4,report,791,2,,,,[],,person,"Brigadier General W A I,Sir WAI Kay","{""first""=>[""W A I"", ""Sir WAI""], ""surname""=>[""Kay""], ""rank""=>[""Brigadier General""], ""number""=>[""""], ""reason""=>[""casualty_kia""], ""unit""=>[""3rd infantry brigade"", ""3rd Infantry Brigade""]}",,,
+8,AWD00032k5,orders,792,3,,,,[],,date,4 Oct 1918,{},,,
+10,AWD00032k5,orders,792,2,,,,[],,orders,move,{},,,
+12,AWD00032k5,orders,792,4,,,,[],,date,4 Oct 1918,{},,,
+1,AWD00032i9,signals,793,2,,,,[],,date,8 Nov 1918,{},,,
+8,AWD00032i9,signals,793,2,,,,[],,signals,situation,{},,,
+9,AWD00032i9,signals,793,2,,,,[],,time,0945AM,{},,,
+5,AWD00032ke,orders,794,4,,,,[],,date,9 Oct 1918,{},,,
+8,AWD00032ke,orders,794,4,,,,[],,person,Major W L Webster,"{""first""=>[""W L""], ""surname""=>[""Webster""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+9,AWD00032ke,orders,794,2,,,,[],,date,9 Oct 1918,{},,,
+2,AWD00032j4,other,796,2,,,,[],,orders,move,{},,,
+8,AWD00032ib,orders,797,2,,,,[],,date,8 Nov 1918,{},,,
+16,AWD00032ib,orders,797,4,,,,[],,date,12 Oct 1918,{},,,
+5,AWD00032j0,orders,798,3,,,,[],,date,14 Nov 1918,{},,,
+6,AWD00032j0,orders,798,3,,,,[],,orders,move,{},,,
+7,AWD00032j0,orders,798,2,,,,[],,orders,attack,{},,,
+8,AWD00032j0,orders,798,3,,,,[],,person,"Lieutenant Olivier,J Oliver,J Ewart","{""first""=>[""Olivier"", ""J Oliver"", ""J""], ""surname""=>[""Ewart""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+9,AWD00032j0,orders,798,4,,,,[],,date,14 Oct 1918,{},,,
+6,AWD00032j7,orders,799,2,,,,[],,date,8 Nov 1918,{},,,
+8,AWD00032j7,orders,799,3,,,,[],,orders,other,{},,,
+5,AWD00032in,orders,800,2,,,,[],,orders,other,{},,,
+8,AWD00032in,orders,800,4,,,,[],,date,15 Oct 1918,{},,,
+4,AWD00032kt,orders,802,2,,,,[],,date,8 Nov 1918,{},,,
+10,AWD00032kt,orders,802,2,,,,[],,orders,attack,{},,,
+13,AWD00032kt,orders,802,5,,,,[],,date,22 Oct 1918,{},,,
+3,AWD00032k1,orders,803,2,,,,[],,date,8 Nov 1918,{},,,
+11,AWD00032k1,orders,803,2,,,,[],,person,Captain  ,"{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""commander"", ""author""], ""unit""=>["""", ""1st Infantry Brigade""]}",,,
+12,AWD00032k1,orders,803,5,,,,[],,date,23 Oct 1918,{},,,
+2,AWD00032jm,orders,804,2,,,,[],,date,8 Nov 1918,{},,,
+3,AWD00032jm,orders,804,2,,,,[],,reference,1st division R.A M. C. Order no. 157,{},,,
+5,AWD00032jm,orders,804,3,,,,[],,date,23 Oct 1918,{},,,
+9,AWD00032jm,orders,804,4,,,,[],,person,Major W L Webster,"{""first""=>[""W L""], ""surname""=>[""Webster""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+10,AWD00032jm,orders,804,3,,,,[],,date,23 Oct 1918,{},,,
+6,AWD00032ks,orders,805,3,,,,[],,orders,attack,{},,,
+9,AWD00032ks,orders,805,3,,,,[],,date,23 Oct 1918,{},,,
+6,AWD00032je,orders,806,2,,,,[],,orders,attack,{},,,
+8,AWD00032je,orders,806,3,,,,[],,date,24 Oct 1918,{},,,
+1,AWD00032ju,orders,808,2,,,,[],,date,8 Nov 1918,{},,,
+2,AWD00032ju,orders,808,2,,,,[],,orders,other,{},,,
+6,AWD00032ju,orders,808,2,,,,[],,orders,move,{},,,
+8,AWD00032ju,orders,808,4,,,,[],,date,24 Oct 1918,{},,,
+3,AWD00032i3,signals,809,3,,,,[],,date,24 Oct 1918,{},,,
+4,AWD00032i3,signals,809,2,,,,[],,signals,other,{},,,
+6,AWD00032i3,signals,809,3,,,,[],,time,0600PM,{},,,
+7,AWD00032i3,signals,809,2,,,,[],,date,25 Oct 1918,{},,,
+12,AWD00032i3,signals,809,2,,,,[],,time,0738PM,{},,,
+4,AWD00032jz,orders,810,2,,,,[],,date,8 Nov 1918,{},,,
+6,AWD00032jz,orders,810,3,,,,[],,orders,move,{},,,
+7,AWD00032jz,orders,810,2,,,,[],,orders,withdraw,{},,,
+8,AWD00032jz,orders,810,2,,,,[],,orders,standing,{},,,
+11,AWD00032jz,orders,810,5,,,,[],,date,24 Oct 1918,{},,,
+2,AWD00032ij,orders,811,2,,,,[],,date,8 Nov 1918,{},,,
+5,AWD00032ij,orders,811,2,,,,[],,reference,1st infantry brigade no. 168,{},,,
+8,AWD00032ij,orders,811,4,,,,[],,orders,move,{},,,
+12,AWD00032ij,orders,811,3,,,,[],,date,26 Oct 1918,{},,,
+2,AWD00032hx,"orders, other",812,2,,,,[],,date,26 Oct 1918,{},,,
+3,AWD00032hx,"orders, other",812,2,,,,[],,orders,move,{},,,
+6,AWD00032i0,orders,813,2,,,,[],,date,8 Nov 1918,{},,,
+8,AWD00032i0,orders,813,2,,,,[],,orders,other,{},,,
+9,AWD00032i0,orders,813,2,,,,[],,person,Lieutenant B C Johnstone,"{""first""=>[""B C""], ""surname""=>[""Johnstone""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+11,AWD00032i0,orders,813,3,,,,[],,date,27 Oct 1918,{},,,
+7,AWD00032k6,orders,814,2,,,,[],,orders,withdraw,{},,,
+10,AWD00032k6,orders,814,3,,,,[],,orders,move,{},,,
+12,AWD00032k6,orders,814,5,,,,[],,date,27 Oct 1918,{},,,
+2,AWD00032il,orders,815,2,,,,[],,reference,1st Brigade No. G. 1/389,{},,,
+8,AWD00032il,orders,815,3,,,,[],,orders,move,{},,,
+11,AWD00032il,orders,815,5,,,,[],,date,28 Oct 1918,{},,,
+2,AWD00032it,diary,819,2,1918-10-28 00:00:00 UTC,28 Oct 1918,"Noyelles, noyelles","[0.0, 0.0]","",place,Hautreve,"{""place""=>[""Hautreve""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2989899,Noyelles-lès-Vermelles,"[2.72628, 50.49001]"
+4,AWD00032it,diary,819,2,1918-10-28 00:00:00 UTC,28 Oct 1918,"Noyelles, noyelles","[0.0, 0.0]","",place,Mezieres,"{""place""=>[""Mezieres""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2989899,Noyelles-lès-Vermelles,"[2.72628, 50.49001]"
+6,AWD00032it,diary,819,2,1918-10-28 00:00:00 UTC,28 Oct 1918,"Noyelles, noyelles","[0.0, 0.0]","",place,"La Groise, La Groise ","{""place""=>[""La Groise"", ""La Groise ""], ""location""=>[""false""], ""name""=>[""La Groise""], ""lat""=>[""50.07478""], ""long""=>[""3.68082""], ""id""=>[""3008875""]}",2989899,Noyelles-lès-Vermelles,"[2.72628, 50.49001]"
+7,AWD00032it,diary,819,2,1918-10-28 00:00:00 UTC,28 Oct 1918,"Noyelles, noyelles","[0.0, 0.0]","",place,Robelmetre,"{""place""=>[""Robelmetre""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2989899,Noyelles-lès-Vermelles,"[2.72628, 50.49001]"
+17,AWD00032it,diary,819,2,1918-10-28 00:00:00 UTC,28 Oct 1918,"Noyelles, noyelles","[0.0, 0.0]","",place,Catillon,"{""place""=>[""Catillon""], ""location""=>[""false""], ""name""=>["""", ""Rouvray-Catillon""], ""lat""=>["""", ""49.57362""], ""long""=>["""", ""1.47986""], ""id""=>["""", ""2982408""]}",2989899,Noyelles-lès-Vermelles,"[2.72628, 50.49001]"
+18,AWD00032it,diary,819,2,1918-10-28 00:00:00 UTC,28 Oct 1918,"Noyelles, noyelles","[0.0, 0.0]","",activity,attack,{},2989899,Noyelles-lès-Vermelles,"[2.72628, 50.49001]"
+20,AWD00032it,diary,819,2,1918-11-04 00:00:00 UTC,4 Nov 1918,"Noyelles, noyelles","[0.0, 0.0]","",diaryDate,4 Nov 1918,"{""day""=>[""4""], ""month""=>[""Nov""], ""year""=>[""1918""]}",2989899,Noyelles-lès-Vermelles,"[2.72628, 50.49001]"
+3,AWD00032kc,diary,820,3,1918-11-04 00:00:00 UTC,4 Nov 1918,"Noyelles, noyelles","[0.0, 0.0]","",weather,fog,{},2989899,Noyelles-lès-Vermelles,"[2.72628, 50.49001]"
+4,AWD00032kc,diary,820,3,1918-11-04 05:45:00 UTC,4 Nov 1918,"Noyelles, noyelles","[0.0, 0.0]",0545AM,time,0545AM,{},2989899,Noyelles-lès-Vermelles,"[2.72628, 50.49001]"
+5,AWD00032kc,diary,820,3,1918-11-04 05:45:00 UTC,4 Nov 1918,"Noyelles, noyelles","[0.0, 0.0]",0545AM,activity,attack,{},2989899,Noyelles-lès-Vermelles,"[2.72628, 50.49001]"
+6,AWD00032kc,diary,820,2,1918-11-04 05:45:00 UTC,4 Nov 1918,"Noyelles, noyelles","[0.0, 0.0]",0545AM,place,Bois de L'Abbaye,"{""place""=>[""Bois de L'Abbaye""], ""location""=>[""false"", ""true""], ""name""=>[""La Groise"", ""Rouvray-Catillon""], ""lat""=>[""50.07478"", ""49.57362""], ""long""=>[""3.68082"", ""1.47986""], ""id""=>[""3008875"", ""2982408""]}",2989899,Noyelles-lès-Vermelles,"[2.72628, 50.49001]"
+8,AWD00032kc,diary,820,3,1918-11-04 05:45:00 UTC,4 Nov 1918,"Noyelles, noyelles","[0.0, 0.0]",0545AM,person,Second Lieutenant G Bryson,"{""first""=>[""G""], ""surname""=>[""Bryson""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""commander"", ""other"", ""combat""], ""unit""=>[""""]}",2989899,Noyelles-lès-Vermelles,"[2.72628, 50.49001]"
+9,AWD00032kc,diary,820,2,1918-11-04 05:45:00 UTC,4 Nov 1918,"Noyelles, noyelles","[0.0, 0.0]",0545AM,activity,movement,{},2989899,Noyelles-lès-Vermelles,"[2.72628, 50.49001]"
+11,AWD00032kc,diary,820,2,1918-11-04 05:45:00 UTC,4 Nov 1918,"Noyelles, noyelles","[0.0, 0.0]",0545AM,activity,movement,{},2989899,Noyelles-lès-Vermelles,"[2.72628, 50.49001]"
+13,AWD00032kc,diary,820,2,1918-11-04 05:45:00 UTC,4 Nov 1918,"Noyelles, noyelles","[0.0, 0.0]",0545AM,person,Second Lieutenant G Bryson,"{""first""=>[""G""], ""surname""=>[""Bryson""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""commander"", ""other""], ""unit""=>[""""]}",2989899,Noyelles-lès-Vermelles,"[2.72628, 50.49001]"
+18,AWD00032kc,diary,820,2,1918-11-04 05:45:00 UTC,4 Nov 1918,"Noyelles, noyelles","[0.0, 0.0]",0545AM,place,Bois de L'Abbaye,"{""place""=>[""Bois de L'Abbaye""], ""location""=>[""false"", ""true""], ""name""=>[""La Groise"", ""Rouvray-Catillon""], ""lat""=>[""50.07478"", ""49.57362""], ""long""=>[""3.68082"", ""1.47986""], ""id""=>[""3008875"", ""2982408""]}",2989899,Noyelles-lès-Vermelles,"[2.72628, 50.49001]"
+19,AWD00032kc,diary,820,2,1918-11-04 07:00:00 UTC,4 Nov 1918,"Noyelles, noyelles","[0.0, 0.0]",0700AM,time,0700AM,{},2989899,Noyelles-lès-Vermelles,"[2.72628, 50.49001]"
+21,AWD00032kc,diary,820,2,1918-11-04 07:00:00 UTC,4 Nov 1918,"Noyelles, noyelles","[0.0, 0.0]",0700AM,place,Bois de L'Abbaye,"{""place""=>[""Bois de L'Abbaye""], ""location""=>[""false"", ""true""], ""name""=>[""La Groise"", ""Rouvray-Catillon""], ""lat""=>[""50.07478"", ""49.57362""], ""long""=>[""3.68082"", ""1.47986""], ""id""=>[""3008875"", ""2982408""]}",2989899,Noyelles-lès-Vermelles,"[2.72628, 50.49001]"
+1,AWD00032iw,diary,821,3,1918-11-04 07:00:00 UTC,4 Nov 1918,"Noyelles, noyelles","[0.0, 0.0]",0700AM,activity,movement,{},2989899,Noyelles-lès-Vermelles,"[2.72628, 50.49001]"
+2,AWD00032iw,diary,821,2,1918-11-04 08:30:00 UTC,4 Nov 1918,"Noyelles, noyelles","[0.0, 0.0]",0830AM,time,0830AM,{},2989899,Noyelles-lès-Vermelles,"[2.72628, 50.49001]"
+6,AWD00032iw,diary,821,4,1918-11-04 08:30:00 UTC,4 Nov 1918,"Noyelles, noyelles","[0.0, 0.0]",0830AM,weather,fog,{},2989899,Noyelles-lès-Vermelles,"[2.72628, 50.49001]"
+7,AWD00032iw,diary,821,2,1918-11-04 09:00:00 UTC,4 Nov 1918,"Noyelles, noyelles","[0.0, 0.0]",0900AM,time,0900AM,{},2989899,Noyelles-lès-Vermelles,"[2.72628, 50.49001]"
+9,AWD00032iw,diary,821,2,1918-11-04 09:00:00 UTC,4 Nov 1918,"Noyelles, noyelles","[0.0, 0.0]",0900AM,unit,"BLACK WATCH, Black Watch","{""name""=>[""BLACK WATCH"", ""Black Watch""], ""context""=>[""joined"", ""other""]}",2989899,Noyelles-lès-Vermelles,"[2.72628, 50.49001]"
+11,AWD00032iw,diary,821,3,1918-11-04 09:00:00 UTC,4 Nov 1918,"Noyelles, noyelles","[0.0, 0.0]",0900AM,place,Robelmetre,"{""place""=>[""Robelmetre""], ""location""=>[""false""], ""name""=>[""La Groise"", ""Poperinge"", """"], ""lat""=>[""50.07478"", ""50.85386"", """"], ""long""=>[""3.68082"", ""2.72659"", """"], ""id""=>[""3008875"", ""2788726"", """"]}",2989899,Noyelles-lès-Vermelles,"[2.72628, 50.49001]"
+12,AWD00032iw,diary,821,4,1918-11-04 09:00:00 UTC,4 Nov 1918,"Noyelles, noyelles","[0.0, 0.0]",0900AM,activity,fire,{},2989899,Noyelles-lès-Vermelles,"[2.72628, 50.49001]"
+15,AWD00032iw,diary,821,3,1918-11-04 09:00:00 UTC,4 Nov 1918,"Noyelles, noyelles","[0.0, 0.0]",0900AM,unit,2nd Sussex,"{""name""=>[""2nd Sussex""], ""context""=>[""right""]}",2989899,Noyelles-lès-Vermelles,"[2.72628, 50.49001]"
+16,AWD00032iw,diary,821,2,1918-11-04 09:00:00 UTC,4 Nov 1918,"Noyelles, noyelles","[0.0, 0.0]",0900AM,activity,movement,{},2989899,Noyelles-lès-Vermelles,"[2.72628, 50.49001]"
+17,AWD00032iw,diary,821,4,1918-11-04 09:00:00 UTC,4 Nov 1918,"Noyelles, noyelles","[0.0, 0.0]",0900AM,place,Grand Galop Farm,"{""place""=>[""Grand Galop Farm""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2989899,Noyelles-lès-Vermelles,"[2.72628, 50.49001]"
+18,AWD00032iw,diary,821,2,1918-11-04 09:00:00 UTC,4 Nov 1918,"Noyelles, noyelles","[0.0, 0.0]",0900AM,activity,achieved,{},2989899,Noyelles-lès-Vermelles,"[2.72628, 50.49001]"
+19,AWD00032iw,diary,821,3,1918-11-04 09:00:00 UTC,4 Nov 1918,"Noyelles, noyelles","[0.0, 0.0]",0900AM,place,La Gambotte,"{""place""=>[""La Gambotte""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2989899,Noyelles-lès-Vermelles,"[2.72628, 50.49001]"
+22,AWD00032iw,diary,821,3,1918-11-04 09:00:00 UTC,4 Nov 1918,"Noyelles, noyelles","[0.0, 0.0]",0900AM,activity,fire,{},2989899,Noyelles-lès-Vermelles,"[2.72628, 50.49001]"
+24,AWD00032iw,diary,821,3,1918-11-04 09:00:00 UTC,4 Nov 1918,"Noyelles, noyelles","[0.0, 0.0]",0900AM,activity,withdraw,{},2989899,Noyelles-lès-Vermelles,"[2.72628, 50.49001]"
+1,AWD00032km,diary,822,4,1918-11-04 09:00:00 UTC,4 Nov 1918,"Noyelles, noyelles","[0.0, 0.0]",0900AM,place,Robelmetre,"{""place""=>[""Robelmetre""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2989899,Noyelles-lès-Vermelles,"[2.72628, 50.49001]"
+4,AWD00032km,diary,822,2,1918-11-04 09:00:00 UTC,4 Nov 1918,"Noyelles, noyelles","[0.0, 0.0]",0900AM,unit,Black Watch,"{""name""=>[""Black Watch""], ""context""=>[""joined""]}",2989899,Noyelles-lès-Vermelles,"[2.72628, 50.49001]"
+6,AWD00032km,diary,822,3,1918-11-04 09:00:00 UTC,4 Nov 1918,"Noyelles, noyelles","[0.0, 0.0]",0900AM,place,Grand Galop Farm,"{""place""=>[""Grand Galop Farm""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2989899,Noyelles-lès-Vermelles,"[2.72628, 50.49001]"
+7,AWD00032km,diary,822,2,1918-11-04 09:00:00 UTC,4 Nov 1918,"Noyelles, noyelles","[0.0, 0.0]",0900AM,unit,2nd Sussex,"{""name""=>[""2nd Sussex""], ""context""=>[""joined""]}",2989899,Noyelles-lès-Vermelles,"[2.72628, 50.49001]"
+8,AWD00032km,diary,822,2,1918-11-04 09:00:00 UTC,4 Nov 1918,"Noyelles, noyelles","[0.0, 0.0]",0900AM,activity,movement,{},2989899,Noyelles-lès-Vermelles,"[2.72628, 50.49001]"
+9,AWD00032km,diary,822,4,1918-11-04 09:00:00 UTC,4 Nov 1918,"Noyelles, noyelles","[0.0, 0.0]",0900AM,place,Hautreve,"{""place""=>[""Hautreve""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2989899,Noyelles-lès-Vermelles,"[2.72628, 50.49001]"
+12,AWD00032km,diary,822,4,1918-11-04 09:00:00 UTC,4 Nov 1918,"Noyelles, noyelles","[0.0, 0.0]",0900AM,place,Hautreve,"{""place""=>[""Hautreve""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2989899,Noyelles-lès-Vermelles,"[2.72628, 50.49001]"
+13,AWD00032km,diary,822,2,1918-11-04 09:00:00 UTC,4 Nov 1918,"Noyelles, noyelles","[0.0, 0.0]",0900AM,unit,4th Leicesters,"{""name""=>[""4th Leicesters""], ""context""=>[""relieved_by""]}",2989899,Noyelles-lès-Vermelles,"[2.72628, 50.49001]"
+15,AWD00032km,diary,822,4,1918-11-04 09:00:00 UTC,4 Nov 1918,"Noyelles, noyelles","[0.0, 0.0]",0900AM,place,Mazinghien,"{""place""=>[""Mazinghien""], ""location""=>[""false""], ""name""=>[""Mazinghien""], ""lat""=>[""50.05059""], ""long""=>[""3.60254""], ""id""=>[""2994835""]}",2989899,Noyelles-lès-Vermelles,"[2.72628, 50.49001]"
+16,AWD00032km,diary,822,5,1918-11-04 09:00:00 UTC,4 Nov 1918,"Noyelles, noyelles","[0.0, 0.0]",0900AM,place,Vaux Andigny,"{""place""=>[""Vaux Andigny""], ""location""=>[""false""], ""name""=>[""Vaux-Andigny""], ""lat""=>[""50.02287""], ""long""=>[""3.517""], ""id""=>[""2970361""]}",2989899,Noyelles-lès-Vermelles,"[2.72628, 50.49001]"
+18,AWD00032km,diary,822,6,1918-11-04 09:00:00 UTC,4 Nov 1918,"Noyelles, noyelles","[0.0, 0.0]",0900AM,activity,movement,{},2989899,Noyelles-lès-Vermelles,"[2.72628, 50.49001]"
+19,AWD00032km,diary,822,2,1918-11-04 09:00:00 UTC,4 Nov 1918,"Noyelles, noyelles","[0.0, 0.0]",0900AM,place,"FRESNOY LE GRAND, Fresnoy Le Grand","{""place""=>[""FRESNOY LE GRAND"", ""Fresnoy Le Grand""], ""location""=>[""true"", ""false""], ""name""=>[""Fresnoy-le-Grand"", """"], ""lat""=>[""49.94757"", """"], ""long""=>[""3.41841"", """"], ""id""=>[""3017144"", """"]}",2989899,Noyelles-lès-Vermelles,"[2.72628, 50.49001]"
+21,AWD00032km,diary,822,2,1918-11-04 09:00:00 UTC,4 Nov 1918,"Noyelles, noyelles","[0.0, 0.0]",0900AM,activity,movement,{},2989899,Noyelles-lès-Vermelles,"[2.72628, 50.49001]"
+22,AWD00032km,diary,822,6,1918-11-04 09:00:00 UTC,4 Nov 1918,"Noyelles, noyelles","[0.0, 0.0]",0900AM,place,Fresnoy le Grand,"{""place""=>[""Fresnoy le Grand""], ""location""=>[""false"", ""true""], ""name""=>[""Fresnoy-le-Grand""], ""lat""=>[""49.94757""], ""long""=>[""3.41841""], ""id""=>[""3017144""]}",2989899,Noyelles-lès-Vermelles,"[2.72628, 50.49001]"
+24,AWD00032km,diary,822,4,1918-11-04 09:00:00 UTC,4 Nov 1918,"Noyelles, noyelles","[0.0, 0.0]",0900AM,activity,training,{},2989899,Noyelles-lès-Vermelles,"[2.72628, 50.49001]"
+25,AWD00032km,diary,822,2,1918-11-04 09:00:00 UTC,4 Nov 1918,"Noyelles, noyelles","[0.0, 0.0]",0900AM,domestic,accomodation,{},2989899,Noyelles-lès-Vermelles,"[2.72628, 50.49001]"
+28,AWD00032km,diary,822,2,1918-11-04 09:00:00 UTC,4 Nov 1918,"Noyelles, noyelles","[0.0, 0.0]",0900AM,place,"Petit Fayt, PETIT FAYT","{""place""=>[""Petit Fayt"", ""PETIT FAYT""], ""location""=>[""false"", ""true""], ""name""=>["""", ""Petit-Fayt""], ""lat""=>["""", ""50.10773""], ""long""=>["""", ""3.81425""], ""id""=>["""", ""2987690""]}",2989899,Noyelles-lès-Vermelles,"[2.72628, 50.49001]"
+29,AWD00032km,diary,822,4,1918-11-04 09:00:00 UTC,4 Nov 1918,"Noyelles, noyelles","[0.0, 0.0]",0900AM,activity,movement,{},2989899,Noyelles-lès-Vermelles,"[2.72628, 50.49001]"
+30,AWD00032km,diary,822,3,1918-11-04 09:00:00 UTC,4 Nov 1918,"Noyelles, noyelles","[0.0, 0.0]",0900AM,place,Petit Fayt,"{""place""=>[""Petit Fayt""], ""location""=>[""false""], ""name""=>[""Petit-Fayt""], ""lat""=>[""50.10773""], ""long""=>[""3.81425""], ""id""=>[""2987690""]}",2989899,Noyelles-lès-Vermelles,"[2.72628, 50.49001]"
+8,AWD00032k9,orders,824,4,,,,[],,date,2 Nov 1918,{},,,
+3,AWD00032iz,orders,825,3,,,,[],,orders,attack,{},,,
+5,AWD00032iz,orders,825,3,,,,[],,date,2 Nov 1918,{},,,
+3,AWD00032jl,orders,826,2,,,,[],,orders,attack,{},,,
+2,AWD00032k3,orders,827,2,,,,[],,reference,1st Brigade No. 6436,{},,,
+11,AWD00032k3,orders,827,5,,,,[],,date,3 Nov 1918,{},,,
+5,AWD00032ih,orders,828,2,,,,[],,orders,attack,{},,,
+6,AWD00032ih,orders,828,2,,,,[],,date,3 Nov 1918,{},,,
+5,AWD00032ig,orders,830,2,,,,[],,date,9 Nov 1918,{},,,
+8,AWD00032ig,orders,830,5,,,,[],,orders,move,{},,,
+4,AWD00032jk,orders,831,3,,,,[],,date,4 Nov 1918,{},,,
+3,AWD00032ie,orders,832,4,,,,[],,orders,move,{},,,
+2,AWD00032hz,signals,833,3,,,,[],,date,4 Nov 1918,{},,,
+3,AWD00032hz,signals,833,2,,,,[],,signals,other,{},,,
+1,AWD00032k0,signals,834,2,,,,[],,signals,other,{},,,
+2,AWD00032k0,signals,834,2,,,,[],,date,4 Nov 1918,{},,,
+5,AWD00032k0,signals,834,2,,,,[],,gridRef,R 32 c 6 0,{},,,
+2,AWD00032j8,orders,836,2,,,,[],,reference,1st Division RAMC Order No. 159,{},,,
+3,AWD00032j8,orders,836,2,,,,[],,date,4 Nov 1918,{},,,
+4,AWD00032j8,orders,836,2,,,,[],,orders,move,{},,,
+1,AWD00032ja,orders,837,2,,,,[],,reference,1st Brigade No. 6436,{},,,
+2,AWD00032ja,orders,837,2,,,,[],,orders,other,{},,,
+4,AWD00032ja,orders,837,3,,,,[],,date,5 Nov 1918,{},,,
+3,AWD00032js,orders,840,3,,,,[],,orders,move,{},,,
+4,AWD00032js,orders,840,2,,,,[],,person,Lieutenant  Honeyman,"{""first""=>[""""], ""surname""=>[""Honeyman""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+5,AWD00032js,orders,840,2,,,,[],,orders,move,{},,,
+7,AWD00032js,orders,840,4,,,,[],,date,5 Nov 1918,{},,,
+2,AWD00032ko,orders,841,2,,,,[],,orders,move,{},,,
+6,AWD00032ko,orders,841,3,,,,[],,date,5 Nov 1918,{},,,
+1,AWD00032k8,orders,842,2,,,,[],,date,5 Nov 1918,{},,,
+2,AWD00032k8,orders,842,2,,,,[],,orders,move,{},,,
+1,AWD00032jf,orders,849,2,,,,[],,orders,other,{},,,
+1,AWD00032kw,diary,853,4,1918-12-01 00:00:00 UTC,1 Dec 1918,"Noyelles, noyelles","[0.0, 0.0]","",diaryDate,1 Dec 1918,"{""day""=>[""1""], ""month""=>[""Dec""], ""year""=>[""1918""]}",2989899,Noyelles-lès-Vermelles,"[2.72628, 50.49001]"
+3,AWD00032kw,diary,853,4,1918-12-01 00:00:00 UTC,1 Dec 1918,"Noyelles, noyelles","[0.0, 0.0]","",activity,movement,{},2989899,Noyelles-lès-Vermelles,"[2.72628, 50.49001]"
+4,AWD00032kw,diary,853,4,1918-12-01 00:00:00 UTC,1 Dec 1918,Mont Gauthier,"[5.12128, 50.20968]","",place,Mont Gauthier,"{""place""=>[""Mont Gauthier""], ""location""=>[""true""], ""name""=>[""Mont-Gauthier""], ""lat""=>[""50.20968""], ""long""=>[""5.12128""], ""id""=>[""2790812""]}",2790812,Mont-Gauthier,"[5.12128, 50.20968]"
+5,AWD00032kw,diary,853,4,1918-12-02 00:00:00 UTC,2 Dec 1918,Mont Gauthier,"[5.12128, 50.20968]","",diaryDate,2 Dec 1918,"{""day""=>[""2""], ""month""=>[""Dec""], ""year""=>[""1918""]}",2790812,Mont-Gauthier,"[5.12128, 50.20968]"
+6,AWD00032kw,diary,853,3,1918-12-02 00:00:00 UTC,2 Dec 1918,Mont Gauthier,"[5.12128, 50.20968]","",place,Mont Gauthier,"{""place""=>[""Mont Gauthier""], ""location""=>[""true""], ""name""=>[""Mont-Gauthier""], ""lat""=>[""50.20968""], ""long""=>[""5.12128""], ""id""=>[""2790812""]}",2790812,Mont-Gauthier,"[5.12128, 50.20968]"
+8,AWD00032kw,diary,853,2,1918-12-02 00:00:00 UTC,2 Dec 1918,Mont Gauthier,"[5.12128, 50.20968]","",domestic,accomodation,{},2790812,Mont-Gauthier,"[5.12128, 50.20968]"
+10,AWD00032kw,diary,853,4,1918-12-07 00:00:00 UTC,7 Dec 1918,Mont Gauthier,"[5.12128, 50.20968]","",diaryDate,7 Dec 1918,"{""day""=>[""7""], ""month""=>[""Dec""], ""year""=>[""1918""]}",2790812,Mont-Gauthier,"[5.12128, 50.20968]"
+11,AWD00032kw,diary,853,4,1918-12-07 00:00:00 UTC,7 Dec 1918,Mont Gauthier,"[5.12128, 50.20968]","",activity,movement,{},2790812,Mont-Gauthier,"[5.12128, 50.20968]"
+12,AWD00032kw,diary,853,4,1918-12-07 00:00:00 UTC,7 Dec 1918,Haversin,"[5.19437, 50.24967]","",place,Haversin,"{""place""=>[""Haversin""], ""location""=>[""true""], ""name""=>[""Haversin""], ""lat""=>[""50.24967""], ""long""=>[""5.19437""], ""id""=>[""2796362""]}",2796362,Haversin,"[5.19437, 50.24967]"
+16,AWD00032kw,diary,853,3,1918-12-09 00:00:00 UTC,9 Dec 1918,Haversin,"[5.19437, 50.24967]","",diaryDate,9 Dec 1918,"{""day""=>[""9""], ""month""=>[""Dec""], ""year""=>[""1918""]}",2796362,Haversin,"[5.19437, 50.24967]"
+17,AWD00032kw,diary,853,4,1918-12-09 00:00:00 UTC,9 Dec 1918,Haversin,"[5.19437, 50.24967]","",activity,movement,{},2796362,Haversin,"[5.19437, 50.24967]"
+18,AWD00032kw,diary,853,4,1918-12-09 00:00:00 UTC,9 Dec 1918,Noiseaux,"[5.19437, 50.24967]","",place,Noiseaux,"{""place""=>[""Noiseaux""], ""location""=>[""true""], ""name""=>[""Haversin""], ""lat""=>[""50.24967""], ""long""=>[""5.19437""], ""id""=>[""2796362""]}",,,
+19,AWD00032kw,diary,853,4,1918-12-10 00:00:00 UTC,10 Dec 1918,Noiseaux,"[5.19437, 50.24967]","",diaryDate,10 Dec 1918,"{""day""=>[""10""], ""month""=>[""Dec""], ""year""=>[""1918""]}",,,
+21,AWD00032kw,diary,853,4,1918-12-10 00:00:00 UTC,10 Dec 1918,Noiseaux,"[5.19437, 50.24967]","",activity,movement,{},,,
+22,AWD00032kw,diary,853,4,1918-12-10 00:00:00 UTC,10 Dec 1918,Bomal,"[0.0, 0.0]","",place,Bomal,"{""place""=>[""Bomal""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2801575,Bomal,"[4.87319, 50.67005]"
+25,AWD00032kw,diary,853,3,1918-12-11 00:00:00 UTC,11 Dec 1918,Bomal,"[0.0, 0.0]","",diaryDate,11 Dec 1918,"{""day""=>[""11""], ""month""=>[""Dec""], ""year""=>[""1918""]}",2801575,Bomal,"[4.87319, 50.67005]"
+26,AWD00032kw,diary,853,3,1918-12-11 00:00:00 UTC,11 Dec 1918,Bomal,"[0.0, 0.0]","",place,Bomal,"{""place""=>[""Bomal""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2801575,Bomal,"[4.87319, 50.67005]"
+31,AWD00032kw,diary,853,3,1918-12-13 00:00:00 UTC,13 Dec 1918,Bomal,"[0.0, 0.0]","",diaryDate,13 Dec 1918,"{""day""=>[""13""], ""month""=>[""Dec""], ""year""=>[""1918""]}",2801575,Bomal,"[4.87319, 50.67005]"
+32,AWD00032kw,diary,853,4,1918-12-13 00:00:00 UTC,13 Dec 1918,Bomal,"[0.0, 0.0]","",activity,movement,{},2801575,Bomal,"[4.87319, 50.67005]"
+33,AWD00032kw,diary,853,4,1918-12-13 00:00:00 UTC,13 Dec 1918,Grandmenil,"[5.65909, 50.29165]","",place,Grandmenil,"{""place""=>[""Grandmenil""], ""location""=>[""true""], ""name""=>[""Grandmenil""], ""lat""=>[""50.29165""], ""long""=>[""5.65909""], ""id""=>[""2797226""]}",2797226,Grandmenil,"[5.65909, 50.29165]"
+34,AWD00032kw,diary,853,3,1918-12-14 00:00:00 UTC,14 Dec 1918,Grandmenil,"[5.65909, 50.29165]","",diaryDate,14 Dec 1918,"{""day""=>[""14""], ""month""=>[""Dec""], ""year""=>[""1918""]}",2797226,Grandmenil,"[5.65909, 50.29165]"
+36,AWD00032kw,diary,853,4,1918-12-14 00:00:00 UTC,14 Dec 1918,Grandmenil,"[5.65909, 50.29165]","",activity,movement,{},2797226,Grandmenil,"[5.65909, 50.29165]"
+37,AWD00032kw,diary,853,4,1918-12-14 00:00:00 UTC,14 Dec 1918,Bihain,"[5.80849, 50.23946]","",place,Bihain,"{""place""=>[""Bihain""], ""location""=>[""true""], ""name""=>[""Bihain""], ""lat""=>[""50.23946""], ""long""=>[""5.80849""], ""id""=>[""2801942""]}",2801942,Bihain,"[5.80849, 50.23946]"
+39,AWD00032kw,diary,853,4,1918-12-15 00:00:00 UTC,15 Dec 1918,Bihain,"[5.80849, 50.23946]","",diaryDate,15 Dec 1918,"{""day""=>[""15""], ""month""=>[""Dec""], ""year""=>[""1918""]}",2801942,Bihain,"[5.80849, 50.23946]"
+41,AWD00032kw,diary,853,4,1918-12-15 00:00:00 UTC,15 Dec 1918,Rogery,"[5.95009, 50.24248]","",place,Rogery,"{""place""=>[""Rogery""], ""location""=>[""true""], ""name""=>[""Rogery""], ""lat""=>[""50.24248""], ""long""=>[""5.95009""], ""id""=>[""2787875""]}",2787875,Rogery,"[5.95009, 50.24248]"
+42,AWD00032kw,diary,853,6,1918-12-15 00:00:00 UTC,15 Dec 1918,Rogery,"[5.95009, 50.24248]","",activity,movement,{},2787875,Rogery,"[5.95009, 50.24248]"
+43,AWD00032kw,diary,853,4,1918-12-16 00:00:00 UTC,16 Dec 1918,Rogery,"[5.95009, 50.24248]","",diaryDate,16 Dec 1918,"{""day""=>[""16""], ""month""=>[""Dec""], ""year""=>[""1918""]}",2787875,Rogery,"[5.95009, 50.24248]"
+45,AWD00032kw,diary,853,2,1918-12-16 10:20:00 UTC,16 Dec 1918,Rogery,"[5.95009, 50.24248]",1020AM,time,1020AM,{},2787875,Rogery,"[5.95009, 50.24248]"
+46,AWD00032kw,diary,853,2,1918-12-16 10:20:00 UTC,16 Dec 1918,Rogery,"[5.95009, 50.24248]",1020AM,activity,movement,{},2787875,Rogery,"[5.95009, 50.24248]"
+48,AWD00032kw,diary,853,4,1918-12-16 10:20:00 UTC,16 Dec 1918,Aldringen,"[6.02278, 50.22111]",1020AM,place,Aldringen,"{""place""=>[""Aldringen""], ""location""=>[""true""], ""name""=>[""Aldringen""], ""lat""=>[""50.22111""], ""long""=>[""6.02278""], ""id""=>[""2802955""]}",2802955,Aldringen,"[6.02278, 50.22111]"
+49,AWD00032kw,diary,853,3,1918-12-17 00:00:00 UTC,17 Dec 1918,Aldringen,"[6.02278, 50.22111]","",diaryDate,17 Dec 1918,"{""day""=>[""17""], ""month""=>[""Dec""], ""year""=>[""1918""]}",2802955,Aldringen,"[6.02278, 50.22111]"
+51,AWD00032kw,diary,853,4,1918-12-17 00:00:00 UTC,17 Dec 1918,Aldringen,"[6.02278, 50.22111]","",activity,movement,{},2802955,Aldringen,"[6.02278, 50.22111]"
+52,AWD00032kw,diary,853,4,1918-12-17 00:00:00 UTC,17 Dec 1918,Setz,"[6.21123, 50.27734]","",place,Setz,"{""place""=>[""Setz""], ""location""=>[""true""], ""name""=>[""Setz""], ""lat""=>[""50.27734""], ""long""=>[""6.21123""], ""id""=>[""2786804""]}",2786804,Setz,"[6.21123, 50.27734]"
+3,AWD00032hw,diary,854,5,1918-12-18 00:00:00 UTC,18 Dec 1918,Setz,"[6.21123, 50.27734]","",diaryDate,18 Dec 1918,"{""day""=>[""18""], ""month""=>[""Dec""], ""year""=>[""1918""]}",2786804,Setz,"[6.21123, 50.27734]"
+4,AWD00032hw,diary,854,4,1918-12-18 00:00:00 UTC,18 Dec 1918,Hallschlag,"[6.43333, 50.35]","",place,Hallschlag,"{""place""=>[""Hallschlag""], ""location""=>[""true""], ""name""=>[""Hallschlag""], ""lat""=>[""50.35""], ""long""=>[""6.43333""], ""id""=>[""2911464""]}",2911464,Hallschlag,"[6.43333, 50.35]"
+5,AWD00032hw,diary,854,5,1918-12-18 00:00:00 UTC,18 Dec 1918,Hallschlag,"[6.43333, 50.35]","",activity,movement,{},2911464,Hallschlag,"[6.43333, 50.35]"
+6,AWD00032hw,diary,854,2,1918-12-18 00:00:00 UTC,18 Dec 1918,Hallschlag,"[6.43333, 50.35]","",domestic,accomodation,{},2911464,Hallschlag,"[6.43333, 50.35]"
+7,AWD00032hw,diary,854,5,1918-12-19 00:00:00 UTC,19 Dec 1918,Hallschlag,"[6.43333, 50.35]","",diaryDate,19 Dec 1918,"{""day""=>[""19""], ""month""=>[""Dec""], ""year""=>[""1918""]}",2911464,Hallschlag,"[6.43333, 50.35]"
+8,AWD00032hw,diary,854,5,1918-12-19 00:00:00 UTC,19 Dec 1918,Schmidtheim,"[6.55915, 50.41514]","",place,Schmidtheim,"{""place""=>[""Schmidtheim""], ""location""=>[""true""], ""name""=>[""Schmidtheim""], ""lat""=>[""50.41514""], ""long""=>[""6.55915""], ""id""=>[""2837827""]}",2837827,Schmidtheim,"[6.55915, 50.41513]"
+10,AWD00032hw,diary,854,5,1918-12-20 00:00:00 UTC,20 Dec 1918,Schmidtheim,"[6.55915, 50.41514]","",diaryDate,20 Dec 1918,"{""day""=>[""20""], ""month""=>[""Dec""], ""year""=>[""1918""]}",2837827,Schmidtheim,"[6.55915, 50.41513]"
+11,AWD00032hw,diary,854,2,1918-12-20 00:00:00 UTC,20 Dec 1918,Schmidtheim,"[6.55915, 50.41514]","",domestic,accomodation,{},2837827,Schmidtheim,"[6.55915, 50.41513]"
+12,AWD00032hw,diary,854,2,1918-12-20 00:00:00 UTC,20 Dec 1918,Schmidtheim,"[6.55915, 50.41514]","",place,Schmidtheim,"{""place""=>[""Schmidtheim""], ""location""=>[""true""], ""name""=>[""Schmidtheim""], ""lat""=>[""50.41514""], ""long""=>[""6.55915""], ""id""=>[""2837827""]}",2837827,Schmidtheim,"[6.55915, 50.41513]"
+13,AWD00032hw,diary,854,5,1918-12-21 00:00:00 UTC,21 Dec 1918,Schmidtheim,"[6.55915, 50.41514]","",diaryDate,21 Dec 1918,"{""day""=>[""21""], ""month""=>[""Dec""], ""year""=>[""1918""]}",2837827,Schmidtheim,"[6.55915, 50.41513]"
+14,AWD00032hw,diary,854,4,1918-12-21 00:00:00 UTC,21 Dec 1918,Munstereifel,"[6.76424, 50.55667]","",place,Munstereifel,"{""place""=>[""Munstereifel""], ""location""=>[""true""], ""name""=>[""Bad Münstereifel""], ""lat""=>[""50.55667""], ""long""=>[""6.76424""], ""id""=>[""2953398""]}",2953398,Bad Münstereifel,"[6.76424, 50.55667]"
+15,AWD00032hw,diary,854,6,1918-12-21 00:00:00 UTC,21 Dec 1918,Munstereifel,"[6.76424, 50.55667]","",activity,movement,{},2953398,Bad Münstereifel,"[6.76424, 50.55667]"
+16,AWD00032hw,diary,854,5,1918-12-22 00:00:00 UTC,22 Dec 1918,Munstereifel,"[6.76424, 50.55667]","",diaryDate,22 Dec 1918,"{""day""=>[""22""], ""month""=>[""Dec""], ""year""=>[""1918""]}",2953398,Bad Münstereifel,"[6.76424, 50.55667]"
+17,AWD00032hw,diary,854,4,1918-12-22 00:00:00 UTC,22 Dec 1918,Kuchenheim,"[6.82885, 50.64895]","",place,Kuchenheim,"{""place""=>[""Kuchenheim""], ""location""=>[""true""], ""name""=>[""Kuchenheim""], ""lat""=>[""50.64895""], ""long""=>[""6.82885""], ""id""=>[""2883137""]}",2883137,Kuchenheim,"[6.82884, 50.64895]"
+18,AWD00032hw,diary,854,2,1918-12-22 00:00:00 UTC,22 Dec 1918,Kuchenheim,"[6.82885, 50.64895]","",domestic,accomodation,{},2883137,Kuchenheim,"[6.82884, 50.64895]"
+19,AWD00032hw,diary,854,5,1918-12-23 00:00:00 UTC,23 Dec 1918,Kuchenheim,"[6.82885, 50.64895]","",diaryDate,23 Dec 1918,"{""day""=>[""23""], ""month""=>[""Dec""], ""year""=>[""1918""]}",2883137,Kuchenheim,"[6.82884, 50.64895]"
+20,AWD00032hw,diary,854,3,1918-12-23 00:00:00 UTC,23 Dec 1918,Kuchenheim,"[6.82885, 50.64895]","",activity,movement,{},2883137,Kuchenheim,"[6.82884, 50.64895]"
+21,AWD00032hw,diary,854,7,1918-12-23 00:00:00 UTC,23 Dec 1918,Waldorf,"[6.94936, 50.7613]","",place,Waldorf,"{""place""=>[""Waldorf""], ""location""=>[""true""], ""name""=>[""Waldorf""], ""lat""=>[""50.7613""], ""long""=>[""6.94936""], ""id""=>[""2814839""]}",2814839,Waldorf,"[6.94936, 50.7613]"
+22,AWD00032hw,diary,854,4,1918-12-24 00:00:00 UTC,24 Dec 1918,Waldorf,"[6.94936, 50.7613]","",diaryDate,24 Dec 1918,"{""day""=>[""24""], ""month""=>[""Dec""], ""year""=>[""1918""]}",2814839,Waldorf,"[6.94936, 50.7613]"
+24,AWD00032hw,diary,854,2,1918-12-24 00:00:00 UTC,24 Dec 1918,"Dersdorf, DERSDORF","[6.9655, 50.76152]","",place,"Dersdorf, DERSDORF","{""place""=>[""Dersdorf"", ""DERSDORF""], ""location""=>[""true""], ""name""=>[""Dersdorf""], ""lat""=>[""50.76152""], ""long""=>[""6.9655""], ""id""=>[""2938023""]}",2938023,Dersdorf,"[6.9655, 50.76152]"
+25,AWD00032hw,diary,854,4,1918-12-31 00:00:00 UTC,31 Dec 1918,"Dersdorf, DERSDORF","[6.9655, 50.76152]","",diaryDate,31 Dec 1918,"{""day""=>[""31""], ""month""=>[""Dec""], ""year""=>[""1918""]}",2938023,Dersdorf,"[6.9655, 50.76152]"
+26,AWD00032hw,diary,854,5,1918-12-31 00:00:00 UTC,31 Dec 1918,"Dersdorf, DERSDORF","[6.9655, 50.76152]","",person,Captain J Robertson,"{""first""=>[""J""], ""surname""=>[""Robertson""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",2938023,Dersdorf,"[6.9655, 50.76152]"
+1,AWD00032i7,diary,855,3,1919-01-01 00:00:00 UTC,1 Jan 1919,"Dersdorf, DERSDORF","[6.9655, 50.76152]","",diaryDate,1 Jan 1919,"{""day""=>[""1""], ""month""=>[""Jan""], ""year""=>[""1919""]}",2938023,Dersdorf,"[6.9655, 50.76152]"
+2,AWD00032i7,diary,855,2,1919-01-01 00:00:00 UTC,1 Jan 1919,Waldorf,"[6.94936, 50.7613]","",place,Waldorf,"{""place""=>[""Waldorf""], ""location""=>[""true""], ""name""=>["""", ""Waldorf""], ""lat""=>["""", ""50.7613""], ""long""=>["""", ""6.94936""], ""id""=>["""", ""2814839""]}",2814839,Waldorf,"[6.94936, 50.7613]"
+3,AWD00032i7,diary,855,2,1919-01-01 00:00:00 UTC,1 Jan 1919,Waldorf,"[6.94936, 50.7613]","",domestic,accomodation,{},2814839,Waldorf,"[6.94936, 50.7613]"
+4,AWD00032i7,diary,855,3,1919-01-01 00:00:00 UTC,1 Jan 1919,Dersdorf,"[6.9655, 50.76152]","",place,Dersdorf,"{""place""=>[""Dersdorf""], ""location""=>[""true""], ""name""=>[""Dersdorf""], ""lat""=>[""50.76152""], ""long""=>[""6.9655""], ""id""=>[""2938023""]}",2938023,Dersdorf,"[6.9655, 50.76152]"
+6,AWD00032i7,diary,855,2,1919-01-31 00:00:00 UTC,31 Jan 1919,Dersdorf,"[6.9655, 50.76152]","",diaryDate,31 Jan 1919,"{""day""=>[""31""], ""month""=>[""Jan""], ""year""=>[""1919""]}",2938023,Dersdorf,"[6.9655, 50.76152]"
+7,AWD00032i7,diary,855,3,1919-01-31 00:00:00 UTC,31 Jan 1919,Dersdorf,"[6.9655, 50.76152]","",person,Captain J Robertson,"{""first""=>[""J""], ""surname""=>[""Robertson""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""award""], ""unit""=>[""""]}",2938023,Dersdorf,"[6.9655, 50.76152]"
+8,AWD00032i7,diary,855,3,1919-01-31 00:00:00 UTC,31 Jan 1919,Dersdorf,"[6.9655, 50.76152]","",person,",Lance Corporal,Company Sergeant Major J Ford","{""first""=>[""J""], ""surname""=>[""Ford""], ""rank""=>["""", ""Lance Corporal"", ""Company Sergeant Major""], ""number""=>[""4638""], ""reason""=>[""award""], ""unit""=>[""""]}",2938023,Dersdorf,"[6.9655, 50.76152]"
+9,AWD00032i7,diary,855,3,1919-01-31 00:00:00 UTC,31 Jan 1919,Dersdorf,"[6.9655, 50.76152]","",person,"Sergeant A Eagleson, Eaglesim, EGLESIM","{""first""=>[""A""], ""surname""=>[""Eagleson"", ""Eaglesim"", ""EGLESIM""], ""rank""=>[""Sergeant""], ""number""=>[""17707""], ""reason""=>[""award""], ""unit""=>[""""]}",2938023,Dersdorf,"[6.9655, 50.76152]"
+10,AWD00032i7,diary,855,3,1919-01-31 00:00:00 UTC,31 Jan 1919,Dersdorf,"[6.9655, 50.76152]","",person,Sergeant W Pearson,"{""first""=>[""W""], ""surname""=>[""Pearson""], ""rank""=>[""Sergeant""], ""number""=>[""3/6184""], ""reason""=>[""award""], ""unit""=>[""""]}",2938023,Dersdorf,"[6.9655, 50.76152]"
+11,AWD00032i7,diary,855,3,1919-01-31 00:00:00 UTC,31 Jan 1919,Dersdorf,"[6.9655, 50.76152]","",person,"Second Lieutenant M A A Macintosh, MACINTOSH, Mackintosh","{""first""=>[""M A A""], ""surname""=>[""Macintosh"", ""MACINTOSH"", ""Mackintosh""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",2938023,Dersdorf,"[6.9655, 50.76152]"
+1,AWD00032i8,diary,856,4,1919-02-01 00:00:00 UTC,1 Feb 1919,Dersdorf,"[6.9655, 50.76152]","",diaryDate,1 Feb 1919,"{""day""=>[""1""], ""month""=>[""Feb""], ""year""=>[""1919""]}",2938023,Dersdorf,"[6.9655, 50.76152]"
+3,AWD00032i8,diary,856,3,1919-02-01 00:00:00 UTC,1 Feb 1919,Waldorf,"[6.94936, 50.7613]","",place,Waldorf,"{""place""=>[""Waldorf""], ""location""=>[""true""], ""name""=>[""Waldorf""], ""lat""=>[""50.7613""], ""long""=>[""6.94936""], ""id""=>[""2814839""]}",2814839,Waldorf,"[6.94936, 50.7613]"
+7,AWD00032i8,diary,856,4,1919-02-01 00:00:00 UTC,1 Feb 1919,Waldorf,"[6.94936, 50.7613]","",domestic,sport,{},2814839,Waldorf,"[6.94936, 50.7613]"
+8,AWD00032i8,diary,856,2,1919-02-01 00:00:00 UTC,1 Feb 1919,Dersdorf,"[6.9655, 50.76152]","",place,Dersdorf,"{""place""=>[""Dersdorf""], ""location""=>[""true""], ""name""=>[""Dersdorf""], ""lat""=>[""50.76152""], ""long""=>[""6.9655""], ""id""=>[""2938023""]}",2938023,Dersdorf,"[6.9655, 50.76152]"
+12,AWD00032i8,diary,856,3,1919-02-28 00:00:00 UTC,28 Feb 1919,Dersdorf,"[6.9655, 50.76152]","",diaryDate,28 Feb 1919,"{""day""=>[""28""], ""month""=>[""Feb""], ""year""=>[""1919""]}",2938023,Dersdorf,"[6.9655, 50.76152]"
+14,AWD00032i8,diary,856,4,1919-02-28 00:00:00 UTC,28 Feb 1919,Dersdorf,"[6.9655, 50.76152]","",person,"Second Lieutenant,Lieutenant A A Wilson","{""first""=>[""A A""], ""surname""=>[""Wilson""], ""rank""=>[""Second Lieutenant"", ""Lieutenant""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",2938023,Dersdorf,"[6.9655, 50.76152]"
+1,AWD00032iq,diary,857,2,1919-03-01 00:00:00 UTC,1 Mar 1919,Dersdorf,"[6.9655, 50.76152]","",diaryDate,1 Mar 1919,"{""day""=>[""1""], ""month""=>[""Mar""], ""year""=>[""1919""]}",2938023,Dersdorf,"[6.9655, 50.76152]"
+4,AWD00032iq,diary,857,2,1919-03-01 00:00:00 UTC,1 Mar 1919,"Dersdorf, DERSDORF","[6.9655, 50.76152]","",place,"Dersdorf, DERSDORF","{""place""=>[""Dersdorf"", ""DERSDORF""], ""location""=>[""true""], ""name""=>[""Dersdorf""], ""lat""=>[""50.76152""], ""long""=>[""6.9655""], ""id""=>[""2938023""]}",2938023,Dersdorf,"[6.9655, 50.76152]"
+5,AWD00032iq,diary,857,2,1919-03-01 00:00:00 UTC,1 Mar 1919,"Dersdorf, DERSDORF","[6.9655, 50.76152]","",domestic,accomodation,{},2938023,Dersdorf,"[6.9655, 50.76152]"
+6,AWD00032iq,diary,857,2,1919-03-31 00:00:00 UTC,31 Mar 1919,"Dersdorf, DERSDORF","[6.9655, 50.76152]","",diaryDate,31 Mar 1919,"{""day""=>[""31""], ""month""=>[""Mar""], ""year""=>[""1919""]}",2938023,Dersdorf,"[6.9655, 50.76152]"
+7,AWD00032iq,diary,857,2,1919-03-31 00:00:00 UTC,31 Mar 1919,"Dersdorf, DERSDORF","[6.9655, 50.76152]","",person,"Second Lieutenant M A A MACINTOSH, Macintosh","{""first""=>[""M A A""], ""surname""=>[""MACINTOSH"", ""Macintosh""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""author"", ""commander""], ""unit""=>[""""]}",2938023,Dersdorf,"[6.9655, 50.76152]"

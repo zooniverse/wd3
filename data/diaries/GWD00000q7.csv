@@ -1,0 +1,194 @@
+Order,Page,Page type,Page number,Count,DateTime,Date,Place,Lat/Lon,Time,Type,Label,Data,GeoID,GeoName,GeoCoords
+1,AWD0003nue,diary,4,5,1919-03-01 00:00:00 UTC,1 Mar 1919,"","[0.0, 0.0]","",diaryDate,1 Mar 1919,"{""day""=>[""1""], ""month""=>[""Mar""], ""year""=>[""1919""]}",2985684,Pozières,"[2.72929, 50.04047]"
+2,AWD0003nue,diary,4,5,1919-03-01 00:00:00 UTC,1 Mar 1919,"Gladbach, gladbach","[0.0, 0.0]","",place,"Gladbach, gladbach","{""place""=>[""Gladbach"", ""gladbach""], ""location""=>[""true""], ""name""=>[""Aldershot Camp"", ""Dunkerque"", ""Millencourt"", """", ""Gladbach""], ""lat""=>[""51.25987"", ""51.03297"", ""50.00073"", """", ""50.45942""], ""long""=>[""-0.7581"", ""2.377"", ""2.58718"", """", ""7.52073""], ""id""=>[""10109465"", ""3020686"", ""2993868"", """", ""2920241""]}",2920241,Gladbach,"[7.52073, 50.45942]"
+3,AWD0003nue,diary,4,4,1919-03-02 00:00:00 UTC,2 Mar 1919,"Gladbach, gladbach","[0.0, 0.0]","",diaryDate,2 Mar 1919,"{""day""=>[""2""], ""month""=>[""Mar""], ""year""=>[""1919""]}",2920241,Gladbach,"[7.52073, 50.45942]"
+4,AWD0003nue,diary,4,6,1919-03-02 00:00:00 UTC,2 Mar 1919,"Gladbach, gladbach","[0.0, 0.0]","",activity,training,{},2920241,Gladbach,"[7.52073, 50.45942]"
+7,AWD0003nue,diary,4,2,1919-03-02 00:00:00 UTC,2 Mar 1919,gladbach,"[7.52073, 50.45942]","",place,gladbach,"{""place""=>[""gladbach""], ""location""=>[""true""], ""name""=>[""Gladbach""], ""lat""=>[""50.45942""], ""long""=>[""7.52073""], ""id""=>[""2920241""]}",2920241,Gladbach,"[7.52073, 50.45942]"
+8,AWD0003nue,diary,4,3,1919-03-03 00:00:00 UTC,3 Mar 1919,gladbach,"[7.52073, 50.45942]","",diaryDate,3 Mar 1919,"{""day""=>[""3""], ""month""=>[""Mar""], ""year""=>[""1919""]}",2920241,Gladbach,"[7.52073, 50.45942]"
+9,AWD0003nue,diary,4,2,1919-03-04 00:00:00 UTC,4 Mar 1919,gladbach,"[7.52073, 50.45942]","",diaryDate,4 Mar 1919,"{""day""=>[""4""], ""month""=>[""Mar""], ""year""=>[""1919""]}",2920241,Gladbach,"[7.52073, 50.45942]"
+10,AWD0003nue,diary,4,5,1919-03-04 00:00:00 UTC,4 Mar 1919,gladbach,"[7.52073, 50.45942]","",activity,training,{},2920241,Gladbach,"[7.52073, 50.45942]"
+11,AWD0003nue,diary,4,3,1919-03-05 00:00:00 UTC,5 Mar 1919,gladbach,"[7.52073, 50.45942]","",diaryDate,5 Mar 1919,"{""day""=>[""5""], ""month""=>[""Mar""], ""year""=>[""1919""]}",2920241,Gladbach,"[7.52073, 50.45942]"
+12,AWD0003nue,diary,4,2,1919-03-05 00:00:00 UTC,5 Mar 1919,gladbach,"[7.52073, 50.45942]","",place,gladbach,"{""place""=>[""gladbach""], ""location""=>[""true""], ""name""=>[""Gladbach""], ""lat""=>[""50.45942""], ""long""=>[""7.52073""], ""id""=>[""2920241""]}",2920241,Gladbach,"[7.52073, 50.45942]"
+13,AWD0003nue,diary,4,3,1919-03-06 00:00:00 UTC,6 Mar 1919,gladbach,"[7.52073, 50.45942]","",diaryDate,6 Mar 1919,"{""day""=>[""6""], ""month""=>[""Mar""], ""year""=>[""1919""]}",2920241,Gladbach,"[7.52073, 50.45942]"
+14,AWD0003nue,diary,4,3,1919-03-06 00:00:00 UTC,6 Mar 1919,gladbach,"[7.52073, 50.45942]","",activity,training,{},2920241,Gladbach,"[7.52073, 50.45942]"
+16,AWD0003nue,diary,4,5,1919-03-07 00:00:00 UTC,7 Mar 1919,gladbach,"[7.52073, 50.45942]","",diaryDate,7 Mar 1919,"{""day""=>[""7""], ""month""=>[""Mar""], ""year""=>[""1919""]}",2920241,Gladbach,"[7.52073, 50.45942]"
+17,AWD0003nue,diary,4,3,1919-03-07 00:00:00 UTC,7 Mar 1919,gladbach,"[7.52073, 50.45942]","",place,gladbach,"{""place""=>[""gladbach""], ""location""=>[""true""], ""name""=>[""Gladbach""], ""lat""=>[""50.45942""], ""long""=>[""7.52073""], ""id""=>[""2920241""]}",2920241,Gladbach,"[7.52073, 50.45942]"
+21,AWD0003nue,diary,4,3,1919-03-08 00:00:00 UTC,8 Mar 1919,gladbach,"[7.52073, 50.45942]","",diaryDate,8 Mar 1919,"{""day""=>[""8""], ""month""=>[""Mar""], ""year""=>[""1919""]}",2920241,Gladbach,"[7.52073, 50.45942]"
+22,AWD0003nue,diary,4,3,1919-03-08 00:00:00 UTC,8 Mar 1919,gladbach,"[7.52073, 50.45942]","",activity,training,{},2920241,Gladbach,"[7.52073, 50.45942]"
+23,AWD0003nue,diary,4,3,1919-03-08 00:00:00 UTC,8 Mar 1919,gladbach,"[7.52073, 50.45942]","",place,gladbach,"{""place""=>[""gladbach""], ""location""=>[""true""], ""name""=>[""Gladbach""], ""lat""=>[""50.45942""], ""long""=>[""7.52073""], ""id""=>[""2920241""]}",2920241,Gladbach,"[7.52073, 50.45942]"
+24,AWD0003nue,diary,4,3,1919-03-09 00:00:00 UTC,9 Mar 1919,gladbach,"[7.52073, 50.45942]","",diaryDate,9 Mar 1919,"{""day""=>[""9""], ""month""=>[""Mar""], ""year""=>[""1919""]}",2920241,Gladbach,"[7.52073, 50.45942]"
+25,AWD0003nue,diary,4,3,1919-03-10 00:00:00 UTC,10 Mar 1919,gladbach,"[7.52073, 50.45942]","",diaryDate,10 Mar 1919,"{""day""=>[""10""], ""month""=>[""Mar""], ""year""=>[""1919""]}",2920241,Gladbach,"[7.52073, 50.45942]"
+26,AWD0003nue,diary,4,4,1919-03-10 00:00:00 UTC,10 Mar 1919,gladbach,"[7.52073, 50.45942]","",activity,training,{},2920241,Gladbach,"[7.52073, 50.45942]"
+27,AWD0003nue,diary,4,3,1919-03-11 00:00:00 UTC,11 Mar 1919,gladbach,"[7.52073, 50.45942]","",diaryDate,11 Mar 1919,"{""day""=>[""11""], ""month""=>[""Mar""], ""year""=>[""1919""]}",2920241,Gladbach,"[7.52073, 50.45942]"
+28,AWD0003nue,diary,4,2,1919-03-11 00:00:00 UTC,11 Mar 1919,gladbach,"[7.52073, 50.45942]","",place,gladbach,"{""place""=>[""gladbach""], ""location""=>[""true""], ""name""=>[""Gladbach""], ""lat""=>[""50.45942""], ""long""=>[""7.52073""], ""id""=>[""2920241""]}",2920241,Gladbach,"[7.52073, 50.45942]"
+29,AWD0003nue,diary,4,4,1919-03-11 00:00:00 UTC,11 Mar 1919,gladbach,"[7.52073, 50.45942]","",activity,training,{},2920241,Gladbach,"[7.52073, 50.45942]"
+30,AWD0003nue,diary,4,3,1919-03-12 00:00:00 UTC,12 Mar 1919,gladbach,"[7.52073, 50.45942]","",diaryDate,12 Mar 1919,"{""day""=>[""12""], ""month""=>[""Mar""], ""year""=>[""1919""]}",2920241,Gladbach,"[7.52073, 50.45942]"
+31,AWD0003nue,diary,4,3,1919-03-13 00:00:00 UTC,13 Mar 1919,gladbach,"[7.52073, 50.45942]","",diaryDate,13 Mar 1919,"{""day""=>[""13""], ""month""=>[""Mar""], ""year""=>[""1919""]}",2920241,Gladbach,"[7.52073, 50.45942]"
+32,AWD0003nue,diary,4,2,1919-03-13 00:00:00 UTC,13 Mar 1919,gladbach,"[7.52073, 50.45942]","",place,gladbach,"{""place""=>[""gladbach""], ""location""=>[""true""], ""name""=>[""Gladbach""], ""lat""=>[""50.45942""], ""long""=>[""7.52073""], ""id""=>[""2920241""]}",2920241,Gladbach,"[7.52073, 50.45942]"
+33,AWD0003nue,diary,4,2,1919-03-13 00:00:00 UTC,13 Mar 1919,gladbach,"[7.52073, 50.45942]","",activity,training,{},2920241,Gladbach,"[7.52073, 50.45942]"
+34,AWD0003nue,diary,4,4,1919-03-14 00:00:00 UTC,14 Mar 1919,gladbach,"[7.52073, 50.45942]","",diaryDate,14 Mar 1919,"{""day""=>[""14""], ""month""=>[""Mar""], ""year""=>[""1919""]}",2920241,Gladbach,"[7.52073, 50.45942]"
+35,AWD0003nue,diary,4,4,1919-03-14 00:00:00 UTC,14 Mar 1919,gladbach,"[7.52073, 50.45942]","",activity,movement,{},2920241,Gladbach,"[7.52073, 50.45942]"
+37,AWD0003nue,diary,4,2,1919-03-14 00:00:00 UTC,14 Mar 1919,gladbach,"[0.0, 0.0]","",place,gladbach,"{""place""=>[""gladbach""], ""location""=>[""true""], ""name""=>[""Gladbach""], ""lat""=>[""51.11588"", ""50.45942""], ""long""=>[""6.97975"", ""7.52073""], ""id""=>[""2920239"", ""2920241""]}",2920241,Gladbach,"[7.52073, 50.45942]"
+39,AWD0003nue,diary,4,4,1919-03-15 00:00:00 UTC,15 Mar 1919,gladbach,"[0.0, 0.0]","",diaryDate,15 Mar 1919,"{""day""=>[""15""], ""month""=>[""Mar""], ""year""=>[""1919""]}",2920241,Gladbach,"[7.52073, 50.45942]"
+41,AWD0003nue,diary,4,6,1919-03-15 00:00:00 UTC,15 Mar 1919,Freizheim,"[0.0, 0.0]","",place,Freizheim,"{""place""=>[""Freizheim""], ""location""=>[""true""], ""name""=>[""Gladbach"", """"], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+42,AWD0003nue,diary,4,3,1919-03-16 00:00:00 UTC,16 Mar 1919,Freizheim,"[0.0, 0.0]","",diaryDate,16 Mar 1919,"{""day""=>[""16""], ""month""=>[""Mar""], ""year""=>[""1919""]}",,,
+43,AWD0003nue,diary,4,6,1919-03-16 00:00:00 UTC,16 Mar 1919,Freizheim,"[0.0, 0.0]","",activity,training,{},,,
+44,AWD0003nue,diary,4,3,1919-03-17 00:00:00 UTC,17 Mar 1919,Freizheim,"[0.0, 0.0]","",diaryDate,17 Mar 1919,"{""day""=>[""17""], ""month""=>[""Mar""], ""year""=>[""1919""]}",,,
+45,AWD0003nue,diary,4,3,1919-03-18 00:00:00 UTC,18 Mar 1919,Freizheim,"[0.0, 0.0]","",diaryDate,18 Mar 1919,"{""day""=>[""18""], ""month""=>[""Mar""], ""year""=>[""1919""]}",,,
+46,AWD0003nue,diary,4,5,1919-03-18 00:00:00 UTC,18 Mar 1919,Freizheim,"[0.0, 0.0]","",activity,training,{},,,
+47,AWD0003nue,diary,4,3,1919-03-18 00:00:00 UTC,18 Mar 1919,freizheim,"[7.52073, 50.45942]","",place,freizheim,"{""place""=>[""freizheim""], ""location""=>[""true""], ""name""=>[""Gladbach""], ""lat""=>[""50.45942""], ""long""=>[""7.52073""], ""id""=>[""2920241""]}",,,
+48,AWD0003nue,diary,4,3,1919-03-19 00:00:00 UTC,19 Mar 1919,freizheim,"[7.52073, 50.45942]","",diaryDate,19 Mar 1919,"{""day""=>[""19""], ""month""=>[""Mar""], ""year""=>[""1919""]}",,,
+49,AWD0003nue,diary,4,3,1919-03-20 00:00:00 UTC,20 Mar 1919,freizheim,"[7.52073, 50.45942]","",diaryDate,20 Mar 1919,"{""day""=>[""20""], ""month""=>[""Mar""], ""year""=>[""1919""]}",,,
+50,AWD0003nue,diary,4,4,1919-03-20 00:00:00 UTC,20 Mar 1919,freizheim,"[7.52073, 50.45942]","",activity,training,{},,,
+51,AWD0003nue,diary,4,4,1919-03-21 00:00:00 UTC,21 Mar 1919,freizheim,"[7.52073, 50.45942]","",diaryDate,21 Mar 1919,"{""day""=>[""21""], ""month""=>[""Mar""], ""year""=>[""1919""]}",,,
+52,AWD0003nue,diary,4,2,1919-03-21 00:00:00 UTC,21 Mar 1919,freizheim,"[7.52073, 50.45942]","",place,freizheim,"{""place""=>[""freizheim""], ""location""=>[""true""], ""name""=>[""Gladbach""], ""lat""=>[""50.45942""], ""long""=>[""7.52073""], ""id""=>[""2920241""]}",,,
+1,AWD0003ntw,diary,5,2,1919-03-21 00:00:00 UTC,21 Mar 1919,freizheim,"[7.52073, 50.45942]","",activity,movement,{},,,
+3,AWD0003ntw,diary,5,3,1919-03-22 00:00:00 UTC,22 Mar 1919,freizheim,"[7.52073, 50.45942]","",diaryDate,22 Mar 1919,"{""day""=>[""22""], ""month""=>[""Mar""], ""year""=>[""1919""]}",,,
+4,AWD0003ntw,diary,5,4,1919-03-22 00:00:00 UTC,22 Mar 1919,Freizheim,"[0.0, 0.0]","",place,Freizheim,"{""place""=>[""Freizheim""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+7,AWD0003ntw,diary,5,2,,"22,22Mar Mar,1919 1919, ",Freizheim,"[0.0, 0.0]","",diaryDate,"22,22Mar Mar,1919 1919, ","{""day""=>[""22"", ""22Mar""], ""month""=>[""Mar"", ""1919""], ""year""=>[""1919"", nil]}",,,
+11,AWD0003ntw,diary,5,3,1919-03-23 00:00:00 UTC,23 Mar 1919,Freizheim,"[0.0, 0.0]","",diaryDate,23 Mar 1919,"{""day""=>[""23""], ""month""=>[""Mar""], ""year""=>[""1919""]}",,,
+12,AWD0003ntw,diary,5,5,1919-03-23 00:00:00 UTC,23 Mar 1919,Liblar,"[0.0, 0.0]","",place,Liblar,"{""place""=>[""Liblar""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2878175,Liblar,"[6.82263, 50.80813]"
+15,AWD0003ntw,diary,5,5,1919-03-23 00:00:00 UTC,23 Mar 1919,Liblar,"[0.0, 0.0]","",activity,training,{},2878175,Liblar,"[6.82263, 50.80813]"
+16,AWD0003ntw,diary,5,2,1919-03-23 00:00:00 UTC,23 Mar 1919,Liblar,"[0.0, 0.0]","",domestic,inspections,{},2878175,Liblar,"[6.82263, 50.80813]"
+17,AWD0003ntw,diary,5,2,1919-03-24 00:00:00 UTC,24 Mar 1919,Liblar,"[0.0, 0.0]","",diaryDate,24 Mar 1919,"{""day""=>[""24""], ""month""=>[""Mar""], ""year""=>[""1919""]}",2878175,Liblar,"[6.82263, 50.80813]"
+18,AWD0003ntw,diary,5,4,1919-03-24 00:00:00 UTC,24 Mar 1919,Liblar,"[0.0, 0.0]","",person,Brigadier General C W Gwynn,"{""first""=>[""C W""], ""surname""=>[""Gwynn""], ""rank""=>[""Brigadier General""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2878175,Liblar,"[6.82263, 50.80813]"
+19,AWD0003ntw,diary,5,2,1919-03-25 00:00:00 UTC,25 Mar 1919,Liblar,"[0.0, 0.0]","",diaryDate,25 Mar 1919,"{""day""=>[""25""], ""month""=>[""Mar""], ""year""=>[""1919""]}",2878175,Liblar,"[6.82263, 50.80813]"
+20,AWD0003ntw,diary,5,2,1919-03-26 00:00:00 UTC,26 Mar 1919,Liblar,"[0.0, 0.0]","",diaryDate,26 Mar 1919,"{""day""=>[""26""], ""month""=>[""Mar""], ""year""=>[""1919""]}",2878175,Liblar,"[6.82263, 50.80813]"
+21,AWD0003ntw,diary,5,3,1919-03-26 00:00:00 UTC,26 Mar 1919,liblar,"[6.82263, 50.80813]","",place,liblar,"{""place""=>[""liblar""], ""location""=>[""true""], ""name""=>[""Liblar""], ""lat""=>[""50.80813""], ""long""=>[""6.82263""], ""id""=>[""2878175""]}",2878175,Liblar,"[6.82263, 50.80813]"
+22,AWD0003ntw,diary,5,5,1919-03-26 00:00:00 UTC,26 Mar 1919,liblar,"[6.82263, 50.80813]","",activity,training,{},2878175,Liblar,"[6.82263, 50.80813]"
+23,AWD0003ntw,diary,5,2,1919-03-27 00:00:00 UTC,27 Mar 1919,liblar,"[6.82263, 50.80813]","",diaryDate,27 Mar 1919,"{""day""=>[""27""], ""month""=>[""Mar""], ""year""=>[""1919""]}",2878175,Liblar,"[6.82263, 50.80813]"
+25,AWD0003ntw,diary,5,2,1919-03-28 00:00:00 UTC,28 Mar 1919,liblar,"[6.82263, 50.80813]","",diaryDate,28 Mar 1919,"{""day""=>[""28""], ""month""=>[""Mar""], ""year""=>[""1919""]}",2878175,Liblar,"[6.82263, 50.80813]"
+26,AWD0003ntw,diary,5,2,1919-03-28 00:00:00 UTC,28 Mar 1919,liblar,"[6.82263, 50.80813]","",place,liblar,"{""place""=>[""liblar""], ""location""=>[""true""], ""name""=>[""Liblar""], ""lat""=>[""50.80813""], ""long""=>[""6.82263""], ""id""=>[""2878175""]}",2878175,Liblar,"[6.82263, 50.80813]"
+27,AWD0003ntw,diary,5,4,1919-03-28 00:00:00 UTC,28 Mar 1919,liblar,"[6.82263, 50.80813]","",activity,training,{},2878175,Liblar,"[6.82263, 50.80813]"
+28,AWD0003ntw,diary,5,2,1919-03-29 00:00:00 UTC,29 Mar 1919,liblar,"[6.82263, 50.80813]","",diaryDate,29 Mar 1919,"{""day""=>[""29""], ""month""=>[""Mar""], ""year""=>[""1919""]}",2878175,Liblar,"[6.82263, 50.80813]"
+30,AWD0003ntw,diary,5,2,1919-03-30 00:00:00 UTC,30 Mar 1919,liblar,"[6.82263, 50.80813]","",diaryDate,30 Mar 1919,"{""day""=>[""30""], ""month""=>[""Mar""], ""year""=>[""1919""]}",2878175,Liblar,"[6.82263, 50.80813]"
+31,AWD0003ntw,diary,5,2,1919-03-30 00:00:00 UTC,30 Mar 1919,liblar,"[6.82263, 50.80813]","",place,liblar,"{""place""=>[""liblar""], ""location""=>[""true""], ""name""=>[""Liblar""], ""lat""=>[""50.80813""], ""long""=>[""6.82263""], ""id""=>[""2878175""]}",2878175,Liblar,"[6.82263, 50.80813]"
+32,AWD0003ntw,diary,5,3,1919-03-30 00:00:00 UTC,30 Mar 1919,liblar,"[6.82263, 50.80813]","",activity,training,{},2878175,Liblar,"[6.82263, 50.80813]"
+33,AWD0003ntw,diary,5,3,1919-03-31 00:00:00 UTC,31 Mar 1919,liblar,"[6.82263, 50.80813]","",diaryDate,31 Mar 1919,"{""day""=>[""31""], ""month""=>[""Mar""], ""year""=>[""1919""]}",2878175,Liblar,"[6.82263, 50.80813]"
+34,AWD0003ntw,diary,5,2,1919-03-31 00:00:00 UTC,31 Mar 1919,liblar,"[6.82263, 50.80813]","",activity,training,{},2878175,Liblar,"[6.82263, 50.80813]"
+36,AWD0003ntw,diary,5,3,1919-03-31 00:00:00 UTC,31 Mar 1919,liblar,"[6.82263, 50.80813]","",activity,other,{},2878175,Liblar,"[6.82263, 50.80813]"
+37,AWD0003ntw,diary,5,5,1919-03-31 00:00:00 UTC,31 Mar 1919,liblar,"[6.82263, 50.80813]","",person,Captain P Bentley,"{""first""=>[""P""], ""surname""=>[""Bentley""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other"", ""resigned""], ""unit""=>[""""]}",2878175,Liblar,"[6.82263, 50.80813]"
+38,AWD0003ntw,diary,5,2,1919-03-31 00:00:00 UTC,31 Mar 1919,liblar,"[6.82263, 50.80813]","",strength,"officer: 2, other: 80",{},2878175,Liblar,"[6.82263, 50.80813]"
+39,AWD0003ntw,diary,5,5,1919-03-31 00:00:00 UTC,31 Mar 1919,liblar,"[6.82263, 50.80813]","",person,Captain C E Townend,"{""first""=>[""C E""], ""surname""=>[""Townend""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""resigned""], ""unit""=>[""""]}",2878175,Liblar,"[6.82263, 50.80813]"
+1,AWD0003nu0,diary,7,4,1919-04-06 00:00:00 UTC,6 Apr 1919,liblar,"[6.82263, 50.80813]","",diaryDate,6 Apr 1919,"{""day""=>[""6""], ""month""=>[""Apr""], ""year""=>[""1919""]}",2878175,Liblar,"[6.82263, 50.80813]"
+2,AWD0003nu0,diary,7,2,1919-04-06 00:00:00 UTC,6 Apr 1919,liblar,"[6.82263, 50.80813]","",activity,movement,{},2878175,Liblar,"[6.82263, 50.80813]"
+3,AWD0003nu0,diary,7,4,1919-04-06 00:00:00 UTC,6 Apr 1919,"Kuttingen, Köttingen, Kottingen, köttingen","[0.0, 0.0]","",place,"Kuttingen, Köttingen, Kottingen, köttingen","{""place""=>[""Kuttingen"", ""Köttingen"", ""Kottingen"", ""köttingen""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+4,AWD0003nu0,diary,7,4,1919-04-11 00:00:00 UTC,11 Apr 1919,"Kuttingen, Köttingen, Kottingen, köttingen","[0.0, 0.0]","",diaryDate,11 Apr 1919,"{""day""=>[""11""], ""month""=>[""Apr""], ""year""=>[""1919""]}",,,
+6,AWD0003nu0,diary,7,3,1919-04-11 00:00:00 UTC,11 Apr 1919,"Kuttingen, Köttingen, Kottingen, köttingen","[0.0, 0.0]","",person,Major T Sherman,"{""first""=>[""T""], ""surname""=>[""Sherman""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""resigned""], ""unit""=>[""5btn KOYLI"", ""5th Bn K.O.Y.L.I."", """"]}",,,
+7,AWD0003nu0,diary,7,4,1919-04-17 00:00:00 UTC,17 Apr 1919,"Kuttingen, Köttingen, Kottingen, köttingen","[0.0, 0.0]","",diaryDate,17 Apr 1919,"{""day""=>[""17""], ""month""=>[""Apr""], ""year""=>[""1919""]}",,,
+8,AWD0003nu0,diary,7,7,1919-04-17 00:00:00 UTC,17 Apr 1919,"Kuttingen, Köttingen, Kottingen, köttingen","[0.0, 0.0]","",person,Lieutenant Colonel  Trevor,"{""first""=>[""""], ""surname""=>[""Trevor""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""joined"", ""commander""], ""unit""=>[""""]}",,,
+9,AWD0003nu0,diary,7,4,1919-04-18 00:00:00 UTC,18 Apr 1919,"Kuttingen, Köttingen, Kottingen, köttingen","[0.0, 0.0]","",diaryDate,18 Apr 1919,"{""day""=>[""18""], ""month""=>[""Apr""], ""year""=>[""1919""]}",,,
+11,AWD0003nu0,diary,7,2,1919-04-29 00:00:00 UTC,29 Apr 1919,"Kuttingen, Köttingen, Kottingen, köttingen","[0.0, 0.0]","",diaryDate,29 Apr 1919,"{""day""=>[""29""], ""month""=>[""Apr""], ""year""=>[""1919""]}",,,
+12,AWD0003nu0,diary,7,4,1919-04-29 00:00:00 UTC,29 Apr 1919,"Kuttingen, Köttingen, Kottingen, köttingen","[0.0, 0.0]","",person,Lieutenant Colonel F H Peter,"{""first""=>[""F H""], ""surname""=>[""Peter""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+13,AWD0003nu0,diary,7,2,1919-04-20 00:00:00 UTC,20 Apr 1919,"Kuttingen, Köttingen, Kottingen, köttingen","[0.0, 0.0]","",diaryDate,20 Apr 1919,"{""day""=>[""20""], ""month""=>[""Apr""], ""year""=>[""1919""]}",,,
+19,AWD0003nu0,diary,7,2,1919-04-20 00:00:00 UTC,20 Apr 1919,"Kuttingen, Köttingen, Kottingen, köttingen","[0.0, 0.0]","",strength,"officer: 6, other: 109",{},,,
+20,AWD0003nu0,diary,7,2,1919-04-01 00:00:00 UTC,1 Apr 1919,"Kuttingen, Köttingen, Kottingen, köttingen","[0.0, 0.0]","",diaryDate,1 Apr 1919,"{""day""=>[""1""], ""month""=>[""Apr""], ""year""=>[""1919""]}",,,
+21,AWD0003nu0,diary,7,2,1919-04-30 00:00:00 UTC,30 Apr 1919,"Kuttingen, Köttingen, Kottingen, köttingen","[0.0, 0.0]","",diaryDate,30 Apr 1919,"{""day""=>[""30""], ""month""=>[""Apr""], ""year""=>[""1919""]}",,,
+22,AWD0003nu0,diary,7,3,1919-04-30 00:00:00 UTC,30 Apr 1919,"Kuttingen, Köttingen, Kottingen, köttingen","[0.0, 0.0]","",activity,training,{},,,
+1,AWD0003nu7,diary,8,2,1919-05-01 00:00:00 UTC,1 May 1919,"Kuttingen, Köttingen, Kottingen, köttingen","[0.0, 0.0]","",diaryDate,1 May 1919,"{""day""=>[""1""], ""month""=>[""May""], ""year""=>[""1919""]}",,,
+2,AWD0003nu7,diary,8,3,1919-05-01 00:00:00 UTC,1 May 1919,"Kuttingen, Köttingen, Kottingen, köttingen","[0.0, 0.0]","",activity,training,{},,,
+3,AWD0003nu7,diary,8,2,1919-05-31 00:00:00 UTC,31 May 1919,"Kuttingen, Köttingen, Kottingen, köttingen","[0.0, 0.0]","",diaryDate,31 May 1919,"{""day""=>[""31""], ""month""=>[""May""], ""year""=>[""1919""]}",,,
+8,AWD0003nu7,diary,8,3,1919-05-10 00:00:00 UTC,10 May 1919,"Kuttingen, Köttingen, Kottingen, köttingen","[0.0, 0.0]","",diaryDate,10 May 1919,"{""day""=>[""10""], ""month""=>[""May""], ""year""=>[""1919""]}",,,
+9,AWD0003nu7,diary,8,2,1919-05-10 00:00:00 UTC,10 May 1919,"Kuttingen, Köttingen, Kottingen, köttingen","[0.0, 0.0]","",person,"Lieutenant W Cerw, Crow","{""first""=>[""W""], ""surname""=>[""Cerw"", ""Crow""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""resigned""], ""unit""=>[""""]}",,,
+11,AWD0003nu7,diary,8,3,1919-05-08 00:00:00 UTC,8 May 1919,"Kuttingen, Köttingen, Kottingen, köttingen","[0.0, 0.0]","",diaryDate,8 May 1919,"{""day""=>[""8""], ""month""=>[""May""], ""year""=>[""1919""]}",,,
+16,AWD0003nu7,diary,8,3,1919-05-21 00:00:00 UTC,21 May 1919,"Kuttingen, Köttingen, Kottingen, köttingen","[0.0, 0.0]","",diaryDate,21 May 1919,"{""day""=>[""21""], ""month""=>[""May""], ""year""=>[""1919""]}",,,
+17,AWD0003nu7,diary,8,3,1919-05-21 00:00:00 UTC,21 May 1919,"Kuttingen, Köttingen, Kottingen, köttingen","[0.0, 0.0]","",person,Lieutenant E H O Keats,"{""first""=>[""E H O""], ""surname""=>[""Keats""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",,,
+18,AWD0003nu7,diary,8,3,1919-05-26 00:00:00 UTC,26 May 1919,"Kuttingen, Köttingen, Kottingen, köttingen","[0.0, 0.0]","",diaryDate,26 May 1919,"{""day""=>[""26""], ""month""=>[""May""], ""year""=>[""1919""]}",,,
+19,AWD0003nu7,diary,8,3,1919-05-26 00:00:00 UTC,26 May 1919,"Kuttingen, Köttingen, Kottingen, köttingen","[0.0, 0.0]","",person,Captain C Dean,"{""first""=>[""C""], ""surname""=>[""Dean""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",,,
+21,AWD0003nu7,diary,8,2,1919-05-26 00:00:00 UTC,26 May 1919,"Kuttingen, Köttingen, Kottingen, köttingen","[0.0, 0.0]","",person,"Lieutenant Colonel ,H Trevor","{""first""=>["""", ""H""], ""surname""=>[""Trevor""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""author"", ""commander""], ""unit""=>[""""]}",,,
+3,AWD0003nu1,orders,9,4,,,,[],,date,30 May 1919,{},,,
+4,AWD0003nu1,orders,9,2,,,,[],,orders,other,{},,,
+6,AWD0003nu1,orders,9,3,,,,[],,person,Lieutenant W E Laidlaw,"{""first""=>[""W E""], ""surname""=>[""Laidlaw""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other"", ""commander"", ""joined""], ""unit""=>[""""]}",,,
+7,AWD0003nu1,orders,9,3,,,,[],,person,"Second Lieutenant ,W F??,W F Andrews","{""first""=>["""", ""W F??"", ""W F""], ""surname""=>[""Andrews""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other"", ""joined"", ""commander""], ""unit""=>[""""]}",,,
+8,AWD0003nu1,orders,9,3,,,,[],,person,"Lieutenant H E,H E Sharp,R E Sharp","{""first""=>[""H E"", ""H E Sharp"", ""R E""], ""surname""=>[""Sharp""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+9,AWD0003nu1,orders,9,2,,,,[],,person,"Sergeant  Ploss, Plows??","{""first""=>[""""], ""surname""=>[""Ploss"", ""Plows??""], ""rank""=>[""Sergeant""], ""number""=>[""""], ""reason""=>[""commander"", ""joined""], ""unit""=>[""""]}",,,
+5,AWD0003ntq,report,11,2,,,,[],,diaryDate,1 Jun 1919,"{""day""=>[""1""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+6,AWD0003ntq,report,11,2,,,,[],,activity,training,{},,,
+8,AWD0003ntq,report,11,2,,,,[],,diaryDate,9 Jun 1919,"{""day""=>[""9""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+9,AWD0003ntq,report,11,2,,,,[],,place,"Liblar, liblar","{""place""=>[""Liblar"", ""liblar""], ""location""=>[""false"", ""true""], ""name""=>[""Liblar"", """"], ""lat""=>[""50.80813"", """"], ""long""=>[""6.82263"", """"], ""id""=>[""2878175"", """"]}",,,
+10,AWD0003ntq,report,11,2,,,,[],,activity,movement,{},,,
+11,AWD0003ntq,report,11,2,,,,[],,place,"Bruhl, bruhl","{""place""=>[""Bruhl"", ""bruhl""], ""location""=>[""false"", ""true""], ""name""=>[""Liblar"", """"], ""lat""=>[""50.80813"", """"], ""long""=>[""6.82263"", """"], ""id""=>[""2878175"", """"]}",,,
+12,AWD0003ntq,report,11,2,,,,[],,date,9 Jun 1919,{},,,
+13,AWD0003ntq,report,11,2,,,,[],,diaryDate,18 Jun 1919,"{""day""=>[""18""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+14,AWD0003ntq,report,11,2,,,,[],,date,18 Jun 1919,{},,,
+15,AWD0003ntq,report,11,2,,,,[],,place,"Bruhl, bruhl","{""place""=>[""Bruhl"", ""bruhl""], ""location""=>[""false"", ""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+16,AWD0003ntq,report,11,2,,,,[],,place,"Liblar, liblar","{""place""=>[""Liblar"", ""liblar""], ""location""=>[""false"", ""true""], ""name""=>[""Liblar""], ""lat""=>[""50.80813""], ""long""=>[""6.82263""], ""id""=>[""2878175""]}",,,
+17,AWD0003ntq,report,11,3,,,,[],,activity,movement,{},,,
+18,AWD0003ntq,report,11,2,,,,[],,diaryDate,19 Jun 1919,"{""day""=>[""19""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+19,AWD0003ntq,report,11,2,,,,[],,place,"Dettwies, yettwies","{""place""=>[""Dettwies"", ""yettwies""], ""location""=>[""false"", ""true""], ""name""=>[""Liblar""], ""lat""=>[""50.80813""], ""long""=>[""6.82263""], ""id""=>[""2878175""]}",,,
+20,AWD0003ntq,report,11,2,,,,[],,date,19 Jun 1919,{},,,
+22,AWD0003ntq,report,11,2,,,,[],,diaryDate,12 Jun 1919,"{""day""=>[""12""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+23,AWD0003ntq,report,11,3,,,,[],,person,Lieutenant Colonel C E Heatherte,"{""first""=>[""C E""], ""surname""=>[""Heatherte""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+24,AWD0003ntq,report,11,2,,,,[],,date,12 Jun 1919,{},,,
+25,AWD0003ntq,report,11,2,,,,[],,diaryDate,18 Jun 1919,"{""day""=>[""18""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+26,AWD0003ntq,report,11,3,,,,[],,person,Lieutenant Colonel C E Heatherte,"{""first""=>[""C E""], ""surname""=>[""Heatherte""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+27,AWD0003ntq,report,11,2,,,,[],,date,18 Jun 1919,{},,,
+29,AWD0003ntq,report,11,2,,,,[],,diaryDate,20 Jun 1919,"{""day""=>[""20""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+30,AWD0003ntq,report,11,2,,,,[],,date,20 Jun 1919,{},,,
+31,AWD0003ntq,report,11,3,,,,[],,person,Second Lieutenant J H Williamson,"{""first""=>[""J H""], ""surname""=>[""Williamson""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+32,AWD0003ntq,report,11,2,,,,[],,diaryDate,24 Jun 1919,"{""day""=>[""24""], ""month""=>[""Jun""], ""year""=>[""1919""]}",,,
+33,AWD0003ntq,report,11,3,,,,[],,person,Second Lieutenant J H Williamson,"{""first""=>[""J H""], ""surname""=>[""Williamson""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",,,
+34,AWD0003ntq,report,11,2,,,,[],,date,24 Jun 1919,{},,,
+36,AWD0003ntq,report,11,2,,,,[],,person,"Lieutenant Colonel H E Evan, Ivor","{""first""=>[""H E""], ""surname""=>[""Evan"", ""Ivor""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""author"", ""commander""], ""unit""=>[""""]}",,,
+3,AWD0003ntt,orders,12,2,,,,[],,orders,standing,{},,,
+4,AWD0003ntt,orders,12,3,,,,[],,date,30 May 1919,{},,,
+6,AWD0003ntt,orders,12,3,,,,[],,person,Lieutenant W E Laidlaw,"{""first""=>[""W E""], ""surname""=>[""Laidlaw""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",,,
+7,AWD0003ntt,orders,12,2,,,,[],,person,"Second Lieutenant H F,HF Andrews","{""first""=>[""H F"", ""HF""], ""surname""=>[""Andrews""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""joined"", ""other""], ""unit""=>[""""]}",,,
+9,AWD0003ntt,orders,12,2,,,,[],,person,"Lieutenant HE,H E Sharp","{""first""=>[""HE"", ""H E""], ""surname""=>[""Sharp""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+5,AWD0003ntz,"diary, orders",13,3,,,,[],,person,Captain P J Famish,"{""first""=>[""P J""], ""surname""=>[""Famish""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>["""", ""5th Battalion K.O.Y.L.I"", ""5th Bn K.O.Y.L.I.""]}",,,
+6,AWD0003ntz,"diary, orders",13,2,,,,[],,time,0900PM,{},,,
+2,AWD0003ntv,orders,14,5,,,,[],,date,7 Jun 1919,{},,,
+4,AWD0003ntv,orders,14,2,,,,[],,date,30 May 1919,{},,,
+1,AWD0003ntu,orders,15,2,,,,[],,orders,move,{},,,
+6,AWD0003ntu,orders,15,2,,,,[],,person,Captain P Hamish,"{""first""=>[""P""], ""surname""=>[""Hamish""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author"", ""commander""], ""unit""=>[""""]}",,,
+2,AWD0003ntp,orders,16,3,,,,[],,date,7 Jun 1919,{},,,
+7,AWD0003ntp,orders,16,5,,,,[],,orders,move,{},,,
+5,AWD0003ntx,orders,17,5,,,,[],,date,18 Jun 1919,{},,,
+6,AWD0003ntx,orders,17,5,,,,[],,orders,move,{},,,
+9,AWD0003ntx,orders,17,4,,,,[],,person,"Lieutenant E H O,K H O,KMO, Keates","{""first""=>[""E H O"", ""K H O"", ""KMO"", """"], ""surname""=>[""Keates""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+10,AWD0003ntx,orders,17,4,,,,[],,person,Second Lieutenant G H Needham,"{""first""=>[""G H""], ""surname""=>[""Needham""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+11,AWD0003ntx,orders,17,2,,,,[],,orders,move,{},,,
+12,AWD0003ntx,orders,17,4,,,,[],,person,"Lieutenant ,HE,H E Sharp,H E Sharp","{""first""=>["""", ""HE"", ""H E Sharp"", ""H E""], ""surname""=>[""Sharp""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+13,AWD0003ntx,orders,17,3,,,,[],,person,Sergeant  Ploss,"{""first""=>[""""], ""surname""=>[""Ploss""], ""rank""=>[""Sergeant""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+14,AWD0003ntx,orders,17,7,,,,[],,orders,move,{},,,
+15,AWD0003ntx,orders,17,3,,,,[],,orders,routine,{},,,
+1,AWD0003nuf,orders,19,2,,,,[],,orders,standing,{},,,
+2,AWD0003nuf,orders,19,3,,,,[],,date,14 Jun 1919,{},,,
+2,AWD0003ntr,"other, report",22,2,,,,[],,title,Amandment to operation order No 1,{},,,
+3,AWD0003ntr,"other, report",22,2,,,,[],,date,17 Jun 1919,{},,,
+1,AWD0003nts,orders,23,2,,,,[],,orders,other,{},,,
+2,AWD0003nts,orders,23,2,,,,[],,date,20 Jun 1919,{},,,
+1,AWD0003ntn,diary,24,4,1919-07-01 00:00:00 UTC,1 Jul 1919,"Kuttingen, Köttingen, Kottingen, köttingen","[0.0, 0.0]","",diaryDate,1 Jul 1919,"{""day""=>[""1""], ""month""=>[""Jul""], ""year""=>[""1919""]}",,,
+2,AWD0003ntn,diary,24,4,1919-07-01 00:00:00 UTC,1 Jul 1919,"Kuttingen, Köttingen, Kottingen, köttingen","[0.0, 0.0]","",activity,training,{},,,
+3,AWD0003ntn,diary,24,3,1919-07-01 00:00:00 UTC,1 Jul 1919,bruhl,"[6.90499, 50.82928]","",place,bruhl,"{""place""=>[""bruhl""], ""location""=>[""true""], ""name""=>[""Brühl""], ""lat""=>[""50.82928""], ""long""=>[""6.90499""], ""id""=>[""2943320""]}",2943320,Brühl,"[6.90499, 50.82928]"
+4,AWD0003ntn,diary,24,3,1919-07-07 00:00:00 UTC,7 Jul 1919,bruhl,"[6.90499, 50.82928]","",diaryDate,7 Jul 1919,"{""day""=>[""7""], ""month""=>[""Jul""], ""year""=>[""1919""]}",2943320,Brühl,"[6.90499, 50.82928]"
+5,AWD0003ntn,diary,24,4,1919-07-08 00:00:00 UTC,8 Jul 1919,bruhl,"[6.90499, 50.82928]","",diaryDate,8 Jul 1919,"{""day""=>[""8""], ""month""=>[""Jul""], ""year""=>[""1919""]}",2943320,Brühl,"[6.90499, 50.82928]"
+6,AWD0003ntn,diary,24,3,1919-07-08 00:00:00 UTC,8 Jul 1919,weilerswist,"[6.83333, 50.76667]","",place,weilerswist,"{""place""=>[""weilerswist""], ""location""=>[""true""], ""name""=>[""Weilerswist""], ""lat""=>[""50.76667""], ""long""=>[""6.83333""], ""id""=>[""2812522""]}",2812522,Weilerswist,"[6.83333, 50.76667]"
+7,AWD0003ntn,diary,24,4,1919-07-08 00:00:00 UTC,8 Jul 1919,weilerswist,"[6.83333, 50.76667]","",activity,movement,{},2812522,Weilerswist,"[6.83333, 50.76667]"
+8,AWD0003ntn,diary,24,4,1919-07-09 00:00:00 UTC,9 Jul 1919,weilerswist,"[6.83333, 50.76667]","",diaryDate,9 Jul 1919,"{""day""=>[""9""], ""month""=>[""Jul""], ""year""=>[""1919""]}",2812522,Weilerswist,"[6.83333, 50.76667]"
+12,AWD0003ntn,diary,24,4,1919-07-18 00:00:00 UTC,18 Jul 1919,weilerswist,"[6.83333, 50.76667]","",diaryDate,18 Jul 1919,"{""day""=>[""18""], ""month""=>[""Jul""], ""year""=>[""1919""]}",2812522,Weilerswist,"[6.83333, 50.76667]"
+13,AWD0003ntn,diary,24,3,1919-07-18 00:00:00 UTC,18 Jul 1919,liblar,"[6.82263, 50.80813]","",place,liblar,"{""place""=>[""liblar""], ""location""=>[""true""], ""name""=>[""Liblar""], ""lat""=>[""50.80813""], ""long""=>[""6.82263""], ""id""=>[""2878175""]}",2878175,Liblar,"[6.82263, 50.80813]"
+14,AWD0003ntn,diary,24,5,1919-07-18 00:00:00 UTC,18 Jul 1919,liblar,"[6.82263, 50.80813]","",activity,movement,{},2878175,Liblar,"[6.82263, 50.80813]"
+15,AWD0003ntn,diary,24,4,1919-07-23 00:00:00 UTC,23 Jul 1919,liblar,"[6.82263, 50.80813]","",diaryDate,23 Jul 1919,"{""day""=>[""23""], ""month""=>[""Jul""], ""year""=>[""1919""]}",2878175,Liblar,"[6.82263, 50.80813]"
+16,AWD0003ntn,diary,24,3,1919-07-23 00:00:00 UTC,23 Jul 1919,liblar,"[6.82263, 50.80813]","",domestic,sport,{},2878175,Liblar,"[6.82263, 50.80813]"
+18,AWD0003ntn,diary,24,2,1919-07-23 00:00:00 UTC,23 Jul 1919,liblar,"[6.82263, 50.80813]","",person," Lady Robinson, Robeitson","{""first""=>[""Lady""], ""surname""=>[""Robinson"", ""Robeitson""], ""rank""=>[""""], ""number""=>[""""], ""reason""=>[""award"", ""other""], ""unit""=>[""""]}",2878175,Liblar,"[6.82263, 50.80813]"
+19,AWD0003ntn,diary,24,4,1919-07-30 00:00:00 UTC,30 Jul 1919,liblar,"[6.82263, 50.80813]","",diaryDate,30 Jul 1919,"{""day""=>[""30""], ""month""=>[""Jul""], ""year""=>[""1919""]}",2878175,Liblar,"[6.82263, 50.80813]"
+20,AWD0003ntn,diary,24,2,1919-07-30 00:00:00 UTC,30 Jul 1919,"ROMERHOF, romerhof","[6.82263, 50.80813]","",place,"ROMERHOF, romerhof","{""place""=>[""ROMERHOF"", ""romerhof""], ""location""=>[""true""], ""name""=>[""Liblar""], ""lat""=>[""50.80813""], ""long""=>[""6.82263""], ""id""=>[""2878175""]}",,,
+21,AWD0003ntn,diary,24,2,1919-07-30 00:00:00 UTC,30 Jul 1919,"ROMERHOF, romerhof","[6.82263, 50.80813]","",domestic,sport,{},,,
+23,AWD0003ntn,diary,24,3,1919-07-30 00:00:00 UTC,30 Jul 1919,"ROMERHOF, romerhof","[6.82263, 50.80813]","",person,Captain P Bentley,"{""first""=>[""P""], ""surname""=>[""Bentley""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""award""], ""unit""=>[""""]}",,,
+24,AWD0003ntn,diary,24,2,1919-07-30 00:00:00 UTC,30 Jul 1919,"ROMERHOF, romerhof","[6.82263, 50.80813]","",person,"Captain P F,PF FAUWIST, Farrish","{""first""=>[""P F"", ""PF""], ""surname""=>[""FAUWIST"", ""Farrish""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""award""], ""unit""=>["""", ""5 KOYLI""]}",,,
+26,AWD0003ntn,diary,24,2,1919-07-30 00:00:00 UTC,30 Jul 1919,"ROMERHOF, romerhof","[6.82263, 50.80813]","",person,"Company Sergeant Major,Major W Paves","{""first""=>[""W""], ""surname""=>[""Paves""], ""rank""=>[""Company Sergeant Major"", ""Major""], ""number""=>[""""], ""reason""=>[""award"", ""resigned""], ""unit""=>[""5 KOYLI"", """"]}",,,
+1,AWD0003nuh,diary,25,3,1919-07-30 00:00:00 UTC,30 Jul 1919,"ROMERHOF, romerhof","[6.82263, 50.80813]","",activity,training,{},,,
+2,AWD0003nuh,diary,25,4,1919-08-01 00:00:00 UTC,1 Aug 1919,"ROMERHOF, romerhof","[6.82263, 50.80813]","",diaryDate,1 Aug 1919,"{""day""=>[""1""], ""month""=>[""Aug""], ""year""=>[""1919""]}",,,
+3,AWD0003nuh,diary,25,3,1919-08-01 00:00:00 UTC,1 Aug 1919,liblar,"[6.82263, 50.80813]","",place,liblar,"{""place""=>[""liblar""], ""location""=>[""true""], ""name""=>[""Liblar""], ""lat""=>[""50.80813""], ""long""=>[""6.82263""], ""id""=>[""2878175""]}",2878175,Liblar,"[6.82263, 50.80813]"
+4,AWD0003nuh,diary,25,2,1919-08-31 00:00:00 UTC,31 Aug 1919,liblar,"[6.82263, 50.80813]","",diaryDate,31 Aug 1919,"{""day""=>[""31""], ""month""=>[""Aug""], ""year""=>[""1919""]}",2878175,Liblar,"[6.82263, 50.80813]"
+6,AWD0003nuh,diary,25,4,1919-08-19 00:00:00 UTC,19 Aug 1919,liblar,"[6.82263, 50.80813]","",diaryDate,19 Aug 1919,"{""day""=>[""19""], ""month""=>[""Aug""], ""year""=>[""1919""]}",2878175,Liblar,"[6.82263, 50.80813]"
+7,AWD0003nuh,diary,25,2,1919-08-19 00:00:00 UTC,19 Aug 1919,liblar,"[6.82263, 50.80813]","",domestic,inspections,{},2878175,Liblar,"[6.82263, 50.80813]"
+9,AWD0003nuh,diary,25,2,1919-08-19 00:00:00 UTC,19 Aug 1919,"Romerhof Germany, romerhof germany","[0.0, 0.0]","",place,"Romerhof Germany, romerhof germany","{""place""=>[""Romerhof Germany"", ""romerhof germany""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+11,AWD0003nuh,diary,25,4,1919-08-19 00:00:00 UTC,19 Aug 1919,"Romerhof Germany, romerhof germany","[0.0, 0.0]","",person,"other, Winston Churchill","{""first""=>[""Winston""], ""surname""=>[""Churchill""], ""rank""=>[""other"", """"], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+14,AWD0003nuh,diary,25,3,1919-08-27 00:00:00 UTC,27 Aug 1919,"Romerhof Germany, romerhof germany","[0.0, 0.0]","",diaryDate,27 Aug 1919,"{""day""=>[""27""], ""month""=>[""Aug""], ""year""=>[""1919""]}",,,
+17,AWD0003nuh,diary,25,2,1919-08-27 00:00:00 UTC,27 Aug 1919,"liblar, Libar","[6.82263, 50.80813]","",place,"liblar, Libar","{""place""=>[""liblar"", ""Libar""], ""location""=>[""true""], ""name""=>[""Liblar"", """"], ""lat""=>[""50.80813"", """"], ""long""=>[""6.82263"", """"], ""id""=>[""2878175"", """"]}",,,
+18,AWD0003nuh,diary,25,3,1919-08-27 00:00:00 UTC,27 Aug 1919,antwerp,"[0.0, 0.0]","",place,antwerp,"{""place""=>[""antwerp""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2803138,Antwerpen,"[4.40346, 51.21989]"
+19,AWD0003nuh,diary,25,3,1919-08-27 00:00:00 UTC,27 Aug 1919,georgetown,"[-4.46667, 55.86667]","",place,georgetown,"{""place""=>[""georgetown""], ""location""=>[""true""], ""name""=>[""Georgetown""], ""lat""=>[""55.86667""], ""long""=>[""-4.46667""], ""id""=>[""2648718""]}",2648718,Georgetown,"[-4.46667, 55.86667]"
+20,AWD0003nuh,diary,25,4,1919-08-28 00:00:00 UTC,28 Aug 1919,georgetown,"[-4.46667, 55.86667]","",diaryDate,28 Aug 1919,"{""day""=>[""28""], ""month""=>[""Aug""], ""year""=>[""1919""]}",2648718,Georgetown,"[-4.46667, 55.86667]"
+22,AWD0003nuh,diary,25,3,1919-08-28 00:00:00 UTC,28 Aug 1919,calais,"[1.85635, 50.95194]","",place,calais,"{""place""=>[""calais""], ""location""=>[""true""], ""name""=>[""Calais""], ""lat""=>[""50.95194""], ""long""=>[""1.85635""], ""id""=>[""3029162""]}",3029162,Calais,"[1.85635, 50.95194]"

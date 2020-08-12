@@ -1,0 +1,1037 @@
+Order,Page,Page type,Page number,Count,DateTime,Date,Place,Lat/Lon,Time,Type,Label,Data,GeoID,GeoName,GeoCoords
+5,AWD0000u8k,diary,4,4,1916-06-01 00:00:00 UTC,1 Jun 1916,"","[0.0, 0.0]","",diaryDate,1 Jun 1916,"{""day""=>[""1""], ""month""=>[""Jun""], ""year""=>[""1916""]}",2985684,Pozières,"[2.72929, 50.04047]"
+7,AWD0000u8k,diary,4,2,1916-06-01 00:00:00 UTC,1 Jun 1916,"","[0.0, 0.0]","",activity,line,{},2985684,Pozières,"[2.72929, 50.04047]"
+8,AWD0000u8k,diary,4,2,1916-06-01 00:00:00 UTC,1 Jun 1916,"","[0.0, 0.0]","",reference,Appendix 1,{},2985684,Pozières,"[2.72929, 50.04047]"
+11,AWD0000u8k,diary,4,5,1916-06-02 00:00:00 UTC,2 Jun 1916,"","[0.0, 0.0]","",diaryDate,2 Jun 1916,"{""day""=>[""2""], ""month""=>[""Jun""], ""year""=>[""1916""]}",2985684,Pozières,"[2.72929, 50.04047]"
+14,AWD0000u8k,diary,4,2,1916-06-02 00:00:00 UTC,2 Jun 1916,"","[0.0, 0.0]","",reference,Operation Order No 25,{},2985684,Pozières,"[2.72929, 50.04047]"
+15,AWD0000u8k,diary,4,3,1916-06-02 00:00:00 UTC,2 Jun 1916,"","[0.0, 0.0]","",unit,"2nd Royal Warickshire Regt, 2/Royal Warwickshire Regt, 2/ Royal Warwickshire Regt","{""name""=>[""2nd Royal Warickshire Regt"", ""2/Royal Warwickshire Regt"", ""2/ Royal Warwickshire Regt""], ""context""=>[""relieved_by""]}",2985684,Pozières,"[2.72929, 50.04047]"
+21,AWD0000u8k,diary,4,3,1916-06-07 00:00:00 UTC,7 Jun 1916,"","[0.0, 0.0]","",diaryDate,7 Jun 1916,"{""day""=>[""7""], ""month""=>[""Jun""], ""year""=>[""1916""]}",2985684,Pozières,"[2.72929, 50.04047]"
+22,AWD0000u8k,diary,4,5,1916-06-07 00:00:00 UTC,7 Jun 1916,Bois des Tailles,"[1.18406, 46.56723]","",place,Bois des Tailles,"{""place""=>[""Bois des Tailles""], ""location""=>[""true""], ""name""=>[""Bois des Tailles""], ""lat""=>[""46.56723""], ""long""=>[""1.18406""], ""id""=>[""2973544""]}",2973544,Bois des Tailles,"[1.18406, 46.56723]"
+24,AWD0000u8k,diary,4,4,1916-06-07 00:00:00 UTC,7 Jun 1916,Bois des Tailles,"[1.18406, 46.56723]","",activity,resting,{},2973544,Bois des Tailles,"[1.18406, 46.56723]"
+25,AWD0000u8k,diary,4,4,1916-06-08 00:00:00 UTC,8 Jun 1916,Bois des Tailles,"[1.18406, 46.56723]","",diaryDate,8 Jun 1916,"{""day""=>[""8""], ""month""=>[""Jun""], ""year""=>[""1916""]}",2973544,Bois des Tailles,"[1.18406, 46.56723]"
+26,AWD0000u8k,diary,4,2,1916-06-08 00:00:00 UTC,8 Jun 1916,Bois des Tailles,"[1.18406, 46.56723]","",reference,Operation Order No 26,{},2973544,Bois des Tailles,"[1.18406, 46.56723]"
+28,AWD0000u8k,diary,4,3,1916-06-08 00:00:00 UTC,8 Jun 1916,Bois des Tailles,"[1.18406, 46.56723]","",unit,"2/ Royal Warwickshire Regt, 2nd Royal Warickshire Regt, 2/Royal Warwickshire Regt","{""name""=>[""2/ Royal Warwickshire Regt"", ""2nd Royal Warickshire Regt"", ""2/Royal Warwickshire Regt""], ""context""=>[""relieved""]}",2973544,Bois des Tailles,"[1.18406, 46.56723]"
+31,AWD0000u8k,diary,4,4,1916-06-08 00:00:00 UTC,8 Jun 1916,Bois des Tailles,"[1.18406, 46.56723]","",place,Fricourt,"{""place""=>[""Fricourt""], ""location""=>[""false""], ""name""=>["""", ""Fricourt""], ""lat""=>["""", ""49.99811""], ""long""=>["""", ""2.71357""], ""id""=>["""", ""3017041""]}",2973544,Bois des Tailles,"[1.18406, 46.56723]"
+32,AWD0000u8k,diary,4,2,1916-06-08 00:00:00 UTC,8 Jun 1916,Bois des Tailles,"[1.18406, 46.56723]","",reference,Appendix II,{},2973544,Bois des Tailles,"[1.18406, 46.56723]"
+34,AWD0000u8k,diary,4,4,1916-06-09 00:00:00 UTC,9 Jun 1916,Bois des Tailles,"[1.18406, 46.56723]","",diaryDate,9 Jun 1916,"{""day""=>[""9""], ""month""=>[""Jun""], ""year""=>[""1916""]}",2973544,Bois des Tailles,"[1.18406, 46.56723]"
+40,AWD0000u8k,diary,4,2,1916-06-10 00:00:00 UTC,10 Jun 1916,Bois des Tailles,"[1.18406, 46.56723]","",diaryDate,10 Jun 1916,"{""day""=>[""10""], ""month""=>[""Jun""], ""year""=>[""1916""]}",2973544,Bois des Tailles,"[1.18406, 46.56723]"
+41,AWD0000u8k,diary,4,2,,"11 Jun,Jul 1916",Bois des Tailles,"[1.18406, 46.56723]","",diaryDate,"11 Jun,Jul 1916","{""day""=>[""11""], ""month""=>[""Jun"", ""Jul""], ""year""=>[""1916""]}",2973544,Bois des Tailles,"[1.18406, 46.56723]"
+42,AWD0000u8k,diary,4,5,,"11 Jun,Jul 1916",Bois des Tailles,"[1.18406, 46.56723]","",person,Lieutenant T B Forster,"{""first""=>[""T B""], ""surname""=>[""Forster""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_died""], ""unit""=>[""""]}",2973544,Bois des Tailles,"[1.18406, 46.56723]"
+43,AWD0000u8k,diary,4,3,,"11 Jun,Jul 1916",Bois des Tailles,"[1.18406, 46.56723]","",casualties,died: 1,{},2973544,Bois des Tailles,"[1.18406, 46.56723]"
+45,AWD0000u8k,diary,4,2,,"11 Jun,Jul 1916",Bois des Tailles,"[1.18406, 46.56723]","",activity,reconnoitered,{},2973544,Bois des Tailles,"[1.18406, 46.56723]"
+48,AWD0000u8k,diary,4,3,1916-06-12 00:00:00 UTC,12 Jun 1916,Bois des Tailles,"[1.18406, 46.56723]","",diaryDate,12 Jun 1916,"{""day""=>[""12""], ""month""=>[""Jun""], ""year""=>[""1916""]}",2973544,Bois des Tailles,"[1.18406, 46.56723]"
+51,AWD0000u8k,diary,4,4,1916-06-12 00:00:00 UTC,12 Jun 1916,Bois des Tailles,"[1.18406, 46.56723]","",person,Private  Reardon,"{""first""=>[""""], ""surname""=>[""Reardon""], ""rank""=>[""Private""], ""number""=>[""""], ""reason""=>[""award""], ""unit""=>[""""]}",2973544,Bois des Tailles,"[1.18406, 46.56723]"
+53,AWD0000u8k,diary,4,2,1916-06-12 00:00:00 UTC,12 Jun 1916,Bois des Tailles,"[1.18406, 46.56723]","",activity,quiet,{},2973544,Bois des Tailles,"[1.18406, 46.56723]"
+55,AWD0000u8k,diary,4,3,1916-06-13 00:00:00 UTC,13 Jun 1916,Bois des Tailles,"[1.18406, 46.56723]","",diaryDate,13 Jun 1916,"{""day""=>[""13""], ""month""=>[""Jun""], ""year""=>[""1916""]}",2973544,Bois des Tailles,"[1.18406, 46.56723]"
+57,AWD0000u8k,diary,4,3,1916-06-13 00:00:00 UTC,13 Jun 1916,Bois des Tailles,"[1.18406, 46.56723]","",unit,17/ East Yorkshire Regt,"{""name""=>[""17/ East Yorkshire Regt""], ""context""=>[""relieved_by""]}",2973544,Bois des Tailles,"[1.18406, 46.56723]"
+58,AWD0000u8k,diary,4,2,1916-06-13 00:00:00 UTC,13 Jun 1916,Bois des Tailles,"[1.18406, 46.56723]","",reference,Operation Order No 27,{},2973544,Bois des Tailles,"[1.18406, 46.56723]"
+62,AWD0000u8k,diary,4,2,1916-06-13 00:00:00 UTC,13 Jun 1916,Bois des Tailles,"[1.18406, 46.56723]","",place,Bois des Tailles,"{""place""=>[""Bois des Tailles""], ""location""=>[""true""], ""name""=>[""Bois des Tailles""], ""lat""=>[""46.56723""], ""long""=>[""1.18406""], ""id""=>[""2973544""]}",2973544,Bois des Tailles,"[1.18406, 46.56723]"
+63,AWD0000u8k,diary,4,4,1916-06-14 00:00:00 UTC,14 Jun 1916,Bois des Tailles,"[1.18406, 46.56723]","",diaryDate,14 Jun 1916,"{""day""=>[""14""], ""month""=>[""Jun""], ""year""=>[""1916""]}",2973544,Bois des Tailles,"[1.18406, 46.56723]"
+65,AWD0000u8k,diary,4,4,1916-06-14 00:00:00 UTC,14 Jun 1916,Bois des Tailles,"[1.18406, 46.56723]","",place,Bois des Tailles,"{""place""=>[""Bois des Tailles""], ""location""=>[""true"", ""false""], ""name""=>[""Bois des Tailles""], ""lat""=>[""46.56723""], ""long""=>[""1.18406""], ""id""=>[""2973544""]}",2973544,Bois des Tailles,"[1.18406, 46.56723]"
+66,AWD0000u8k,diary,4,5,1916-06-14 00:00:00 UTC,14 Jun 1916,Bussy,"[2.98232, 49.62534]","",place,Bussy,"{""place""=>[""Bussy""], ""location""=>[""true""], ""name""=>[""Bussy""], ""lat""=>[""49.62534""], ""long""=>[""2.98232""], ""id""=>[""3029408""]}",3029408,Bussy,"[2.98232, 49.62534]"
+67,AWD0000u8k,diary,4,2,1916-06-14 00:00:00 UTC,14 Jun 1916,Bussy,"[2.98232, 49.62534]","",reference,Operation Order No 28,{},3029408,Bussy,"[2.98232, 49.62534]"
+69,AWD0000u8k,diary,4,4,1916-06-14 00:00:00 UTC,14 Jun 1916,Bussy,"[2.98232, 49.62534]","",activity,movement,{},3029408,Bussy,"[2.98232, 49.62534]"
+70,AWD0000u8k,diary,4,3,1916-06-15 00:00:00 UTC,15 Jun 1916,Bussy,"[2.98232, 49.62534]","",diaryDate,15 Jun 1916,"{""day""=>[""15""], ""month""=>[""Jun""], ""year""=>[""1916""]}",3029408,Bussy,"[2.98232, 49.62534]"
+71,AWD0000u8k,diary,4,3,1916-06-20 00:00:00 UTC,20 Jun 1916,Bussy,"[2.98232, 49.62534]","",diaryDate,20 Jun 1916,"{""day""=>[""20""], ""month""=>[""Jun""], ""year""=>[""1916""]}",3029408,Bussy,"[2.98232, 49.62534]"
+72,AWD0000u8k,diary,4,4,1916-06-20 00:00:00 UTC,20 Jun 1916,Bussy,"[2.98232, 49.62534]","",place,Bussy,"{""place""=>[""Bussy""], ""location""=>[""true"", ""false""], ""name""=>[""Bussy""], ""lat""=>[""49.62534""], ""long""=>[""2.98232""], ""id""=>[""3029408""]}",3029408,Bussy,"[2.98232, 49.62534]"
+73,AWD0000u8k,diary,4,4,1916-06-20 00:00:00 UTC,20 Jun 1916,Bussy,"[2.98232, 49.62534]","",domestic,sport,{},3029408,Bussy,"[2.98232, 49.62534]"
+74,AWD0000u8k,diary,4,4,1916-06-20 00:00:00 UTC,20 Jun 1916,Bussy,"[2.98232, 49.62534]","",activity,resting,{},3029408,Bussy,"[2.98232, 49.62534]"
+75,AWD0000u8k,diary,4,3,1916-06-20 00:00:00 UTC,20 Jun 1916,Bussy,"[2.98232, 49.62534]","",activity,training,{},3029408,Bussy,"[2.98232, 49.62534]"
+2,AWD0000u6v,diary,5,5,1916-06-22 00:00:00 UTC,22 Jun 1916,Bussy,"[2.98232, 49.62534]","",diaryDate,22 Jun 1916,"{""day""=>[""22""], ""month""=>[""Jun""], ""year""=>[""1916""]}",3029408,Bussy,"[2.98232, 49.62534]"
+3,AWD0000u6v,diary,5,5,1916-06-22 00:00:00 UTC,22 Jun 1916,Bussy,"[2.98232, 49.62534]","",activity,movement,{},3029408,Bussy,"[2.98232, 49.62534]"
+4,AWD0000u6v,diary,5,6,1916-06-22 00:00:00 UTC,22 Jun 1916,Bussy,"[2.98232, 49.62534]","",place,Bussy,"{""place""=>[""Bussy""], ""location""=>[""true"", ""false""], ""name""=>[""Bussy""], ""lat""=>[""49.62534""], ""long""=>[""2.98232""], ""id""=>[""3029408""]}",3029408,Bussy,"[2.98232, 49.62534]"
+5,AWD0000u6v,diary,5,6,1916-06-22 00:00:00 UTC,22 Jun 1916,Bussy,"[2.98232, 49.62534]","",place,Bois des Tailles,"{""place""=>[""Bois des Tailles""], ""location""=>[""true"", ""false""], ""name""=>[""Bois des Tailles""], ""lat""=>[""46.56723""], ""long""=>[""1.18406""], ""id""=>[""2973544""]}",3029408,Bussy,"[2.98232, 49.62534]"
+6,AWD0000u6v,diary,5,4,1916-06-22 00:00:00 UTC,22 Jun 1916,Bussy,"[2.98232, 49.62534]","",reference,Operation Order No. 29,{},3029408,Bussy,"[2.98232, 49.62534]"
+9,AWD0000u6v,diary,5,5,1916-06-23 00:00:00 UTC,23 Jun 1916,Bussy,"[2.98232, 49.62534]","",diaryDate,23 Jun 1916,"{""day""=>[""23""], ""month""=>[""Jun""], ""year""=>[""1916""]}",3029408,Bussy,"[2.98232, 49.62534]"
+10,AWD0000u6v,diary,5,2,1916-06-22 00:00:00 UTC,22 Jun 1916,Bussy,"[2.98232, 49.62534]","",diaryDate,22 Jun 1916,"{""day""=>[""22""], ""month""=>[""Jun""], ""year""=>[""1916""]}",3029408,Bussy,"[2.98232, 49.62534]"
+11,AWD0000u6v,diary,5,5,1916-06-22 00:00:00 UTC,22 Jun 1916,Bussy,"[2.98232, 49.62534]","",activity,movement,{},3029408,Bussy,"[2.98232, 49.62534]"
+13,AWD0000u6v,diary,5,5,1916-06-22 00:00:00 UTC,22 Jun 1916,Bussy,"[2.98232, 49.62534]","",place,Bois des Tailles,"{""place""=>[""Bois des Tailles""], ""location""=>[""false""], ""name""=>[""Bois des Tailles""], ""lat""=>[""46.56723""], ""long""=>[""1.18406""], ""id""=>[""2973544""]}",3029408,Bussy,"[2.98232, 49.62534]"
+16,AWD0000u6v,diary,5,3,1916-06-22 00:00:00 UTC,22 Jun 1916,Bussy,"[2.98232, 49.62534]","",reference,Operation Order No. 30,{},3029408,Bussy,"[2.98232, 49.62534]"
+19,AWD0000u6v,diary,5,5,1916-06-24 00:00:00 UTC,24 Jun 1916,Bussy,"[2.98232, 49.62534]","",diaryDate,24 Jun 1916,"{""day""=>[""24""], ""month""=>[""Jun""], ""year""=>[""1916""]}",3029408,Bussy,"[2.98232, 49.62534]"
+21,AWD0000u6v,diary,5,2,1916-06-24 00:00:00 UTC,24 Jun 1916,Bussy,"[2.98232, 49.62534]","",reference,Operation Order No. 31,{},3029408,Bussy,"[2.98232, 49.62534]"
+22,AWD0000u6v,diary,5,2,1916-06-24 00:00:00 UTC,24 Jun 1916,Bussy,"[2.98232, 49.62534]","",activity,line,{},3029408,Bussy,"[2.98232, 49.62534]"
+25,AWD0000u6v,diary,5,5,1916-06-25 00:00:00 UTC,25 Jun 1916,Bussy,"[2.98232, 49.62534]","",diaryDate,25 Jun 1916,"{""day""=>[""25""], ""month""=>[""Jun""], ""year""=>[""1916""]}",3029408,Bussy,"[2.98232, 49.62534]"
+26,AWD0000u6v,diary,5,3,1916-06-25 00:00:00 UTC,25 Jun 1916,Bussy,"[2.98232, 49.62534]","",reference,Appendix III,{},3029408,Bussy,"[2.98232, 49.62534]"
+29,AWD0000u6v,diary,5,5,1916-06-26 00:00:00 UTC,26 Jun 1916,Bussy,"[2.98232, 49.62534]","",diaryDate,26 Jun 1916,"{""day""=>[""26""], ""month""=>[""Jun""], ""year""=>[""1916""]}",3029408,Bussy,"[2.98232, 49.62534]"
+31,AWD0000u6v,diary,5,2,1916-06-26 00:00:00 UTC,26 Jun 1916,Bussy,"[2.98232, 49.62534]","",activity,line,{},3029408,Bussy,"[2.98232, 49.62534]"
+32,AWD0000u6v,diary,5,2,1916-06-26 00:00:00 UTC,26 Jun 1916,Bussy,"[2.98232, 49.62534]","",place,71 North,"{""place""=>[""71 North""], ""location""=>[""true"", ""false""], ""name""=>[""Bois des Tailles""], ""lat""=>[""46.56723""], ""long""=>[""1.18406""], ""id""=>[""2973544""]}",3029408,Bussy,"[2.98232, 49.62534]"
+33,AWD0000u6v,diary,5,5,1916-06-27 00:00:00 UTC,27 Jun 1916,Bussy,"[2.98232, 49.62534]","",diaryDate,27 Jun 1916,"{""day""=>[""27""], ""month""=>[""Jun""], ""year""=>[""1916""]}",3029408,Bussy,"[2.98232, 49.62534]"
+35,AWD0000u6v,diary,5,2,1916-06-28 00:00:00 UTC,28 Jun 1916,Bussy,"[2.98232, 49.62534]","",diaryDate,28 Jun 1916,"{""day""=>[""28""], ""month""=>[""Jun""], ""year""=>[""1916""]}",3029408,Bussy,"[2.98232, 49.62534]"
+36,AWD0000u6v,diary,5,2,1916-06-28 00:00:00 UTC,28 Jun 1916,Bussy,"[2.98232, 49.62534]","",activity,other,{},3029408,Bussy,"[2.98232, 49.62534]"
+37,AWD0000u6v,diary,5,3,1916-06-28 00:00:00 UTC,28 Jun 1916,Bussy,"[2.98232, 49.62534]","",diaryDate,28 Jun 1916,"{""day""=>[""28""], ""month""=>[""Jun""], ""year""=>[""1916""]}",3029408,Bussy,"[2.98232, 49.62534]"
+38,AWD0000u6v,diary,5,2,1916-06-28 00:00:00 UTC,28 Jun 1916,Bussy,"[2.98232, 49.62534]","",activity,line,{},3029408,Bussy,"[2.98232, 49.62534]"
+39,AWD0000u6v,diary,5,5,1916-06-29 00:00:00 UTC,29 Jun 1916,Bussy,"[2.98232, 49.62534]","",diaryDate,29 Jun 1916,"{""day""=>[""29""], ""month""=>[""Jun""], ""year""=>[""1916""]}",3029408,Bussy,"[2.98232, 49.62534]"
+40,AWD0000u6v,diary,5,2,1916-06-29 00:00:00 UTC,29 Jun 1916,71 North,"[1.18406, 46.56723]","",place,71 North,"{""place""=>[""71 North""], ""location""=>[""true""], ""name""=>[""Bois des Tailles""], ""lat""=>[""46.56723""], ""long""=>[""1.18406""], ""id""=>[""2973544""]}",2973544,Bois des Tailles,"[1.18406, 46.56723]"
+42,AWD0000u6v,diary,5,6,1916-06-30 00:00:00 UTC,30 Jun 1916,71 North,"[1.18406, 46.56723]","",diaryDate,30 Jun 1916,"{""day""=>[""30""], ""month""=>[""Jun""], ""year""=>[""1916""]}",2973544,Bois des Tailles,"[1.18406, 46.56723]"
+44,AWD0000u6v,diary,5,5,1916-06-30 00:00:00 UTC,30 Jun 1916,71 North,"[1.18406, 46.56723]","",activity,movement,{},2973544,Bois des Tailles,"[1.18406, 46.56723]"
+45,AWD0000u6v,diary,5,2,1916-06-30 00:00:00 UTC,30 Jun 1916,71 North,"[1.18406, 46.56723]","",place,71 North,"{""place""=>[""71 North""], ""location""=>[""true""], ""name""=>[""Bois des Tailles""], ""lat""=>[""46.56723""], ""long""=>[""1.18406""], ""id""=>[""2973544""]}",2973544,Bois des Tailles,"[1.18406, 46.56723]"
+7,AWD0000ua9,other,6,2,,,,[],,place,Bois des Tailles,"{""place""=>[""Bois des Tailles""], ""location""=>[""false""], ""name""=>[""Bois des Tailles""], ""lat""=>[""46.56723""], ""long""=>[""1.18406""], ""id""=>[""2973544""]}",,,
+22,AWD0000ua9,other,6,2,,,,[],,activity,other,{},,,
+26,AWD0000ua9,other,6,2,,,,[],,diaryDate,30 Jun 1916,"{""day""=>[""30""], ""month""=>[""Jun""], ""year""=>[""1916""]}",,,
+5,AWD0000ua1,"diary, report",7,2,,,,[],,title,Daily Summary,{},,,
+6,AWD0000ua1,"diary, report",7,3,,,,[],,date,1 Jun 1916,{},,,
+8,AWD0000ua1,"diary, report",7,3,,,,[],,diaryDate,1 Jun 1916,"{""day""=>[""1""], ""month""=>[""Jun""], ""year""=>[""1916""]}",,,
+9,AWD0000ua1,"diary, report",7,3,,,,[],,place,Kingston Road,"{""place""=>[""Kingston Road""], ""location""=>[""true""], ""name""=>[""Bussy"", ""Bois des Tailles"", ""Tailles""], ""lat""=>[""49.62534"", ""46.56723"", ""50.22673""], ""long""=>[""2.98232"", ""1.18406"", ""5.74662""], ""id""=>[""3029408"", ""2973544"", ""2785851""]}",,,
+11,AWD0000ua1,"diary, report",7,7,,,,[],,person,Second Lieutenant T B Forster,"{""first""=>[""T B""], ""surname""=>[""Forster""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""""]}",,,
+12,AWD0000ua1,"diary, report",7,2,,,,[],,time,0945PM,{},,,
+18,AWD0000ua1,"diary, report",7,3,,,,[],,place,Fricourt,"{""place""=>[""Fricourt""], ""location""=>[""true""], ""name""=>[""Fricourt""], ""lat""=>[""49.99811""], ""long""=>[""2.71357""], ""id""=>[""3017041""]}",,,
+2,AWD0000u9u,diary,8,2,1916-06-02 00:00:00 UTC,2 Jun 1916,71 North,"[1.18406, 46.56723]","",diaryDate,2 Jun 1916,"{""day""=>[""2""], ""month""=>[""Jun""], ""year""=>[""1916""]}",2973544,Bois des Tailles,"[1.18406, 46.56723]"
+7,AWD0000u9u,diary,8,3,1916-06-02 00:00:00 UTC,2 Jun 1916,71 North,"[1.18406, 46.56723]","",diaryDate,2 Jun 1916,"{""day""=>[""2""], ""month""=>[""Jun""], ""year""=>[""1916""]}",2973544,Bois des Tailles,"[1.18406, 46.56723]"
+9,AWD0000u9u,diary,8,4,1916-06-02 15:30:00 UTC,2 Jun 1916,71 North,"[1.18406, 46.56723]",0330PM,time,0330PM,{},2973544,Bois des Tailles,"[1.18406, 46.56723]"
+10,AWD0000u9u,diary,8,3,1916-06-02 15:30:00 UTC,2 Jun 1916,Kingston Avenue,"[2.98232, 49.62534]",0330PM,place,Kingston Avenue,"{""place""=>[""Kingston Avenue""], ""location""=>[""true""], ""name""=>[""Bussy""], ""lat""=>[""49.62534""], ""long""=>[""2.98232""], ""id""=>[""3029408""]}",,,
+11,AWD0000u9u,diary,8,3,1916-06-02 18:00:00 UTC,2 Jun 1916,Kingston Avenue,"[2.98232, 49.62534]",0600PM,time,0600PM,{},,,
+12,AWD0000u9u,diary,8,3,1916-06-02 21:00:00 UTC,2 Jun 1916,Kingston Avenue,"[2.98232, 49.62534]",0900PM,time,0900PM,{},,,
+14,AWD0000u9u,diary,8,2,1916-06-02 01:30:00 UTC,2 Jun 1916,Kingston Avenue,"[2.98232, 49.62534]",0130AM,time,0130AM,{},,,
+16,AWD0000u9u,diary,8,5,1916-06-02 01:30:00 UTC,2 Jun 1916,Kingston Avenue,"[2.98232, 49.62534]",0130AM,person,Second Lieutenant T B Forster,"{""first""=>[""T B""], ""surname""=>[""Forster""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""""]}",,,
+17,AWD0000u9u,diary,8,3,1916-06-02 21:45:00 UTC,2 Jun 1916,Kingston Avenue,"[2.98232, 49.62534]",0945PM,time,0945PM,{},,,
+19,AWD0000u9u,diary,8,3,1916-06-02 23:45:00 UTC,2 Jun 1916,Kingston Avenue,"[2.98232, 49.62534]",1145PM,time,1145PM,{},,,
+20,AWD0000u9u,diary,8,3,1916-06-02 23:45:00 UTC,2 Jun 1916,Fricourt,"[2.71357, 49.99811]",1145PM,place,Fricourt,"{""place""=>[""Fricourt""], ""location""=>[""true""], ""name""=>[""Fricourt""], ""lat""=>[""49.99811""], ""long""=>[""2.71357""], ""id""=>[""3017041""]}",3017041,Fricourt,"[2.71357, 49.99811]"
+24,AWD0000u9u,diary,8,2,1916-06-02 23:45:00 UTC,2 Jun 1916,Fricourt,"[2.71357, 49.99811]",1145PM,person,"Lieutenant,Second Lieutenant T B Forster","{""first""=>[""T B""], ""surname""=>[""Forster""], ""rank""=>[""Lieutenant"", ""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""""]}",3017041,Fricourt,"[2.71357, 49.99811]"
+25,AWD0000u9u,diary,8,2,1916-06-02 23:45:00 UTC,2 Jun 1916,Fricourt,"[2.71357, 49.99811]",1145PM,place,Aeroplane trench,"{""place""=>[""Aeroplane trench""], ""location""=>[""false""], ""name""=>[""Bussy""], ""lat""=>[""49.62534""], ""long""=>[""2.98232""], ""id""=>[""3029408""]}",3017041,Fricourt,"[2.71357, 49.99811]"
+27,AWD0000u9u,diary,8,2,1916-06-02 23:45:00 UTC,2 Jun 1916,Fricourt,"[2.71357, 49.99811]",1145PM,place,Sunken Road,"{""place""=>[""Sunken Road""], ""location""=>[""false"", ""true""], ""name""=>[""Bussy"", """"], ""lat""=>[""49.62534"", """"], ""long""=>[""2.98232"", """"], ""id""=>[""3029408"", """"]}",3017041,Fricourt,"[2.71357, 49.99811]"
+31,AWD0000u9u,diary,8,2,1916-06-02 23:45:00 UTC,2 Jun 1916,Fricourt,"[2.71357, 49.99811]",1145PM,activity,withdraw,{},3017041,Fricourt,"[2.71357, 49.99811]"
+32,AWD0000u9u,diary,8,2,1916-06-02 23:45:00 UTC,2 Jun 1916,Fricourt,"[2.71357, 49.99811]",1145PM,casualties,wounded: 1,{},3017041,Fricourt,"[2.71357, 49.99811]"
+33,AWD0000u9u,diary,8,2,1916-06-02 23:45:00 UTC,2 Jun 1916,Fricourt,"[2.71357, 49.99811]",1145PM,activity,line,{},3017041,Fricourt,"[2.71357, 49.99811]"
+36,AWD0000u9u,diary,8,2,1916-06-02 23:45:00 UTC,2 Jun 1916,Cemetery Road,"[0.0, 0.0]",1145PM,place,Cemetery Road,"{""place""=>[""Cemetery Road""], ""location""=>[""true""], ""name""=>[""Bussy"", ""Fricourt""], ""lat""=>[""49.62534"", ""49.99811""], ""long""=>[""2.98232"", ""2.71357""], ""id""=>[""3029408"", ""3017041""]}",,,
+37,AWD0000u9u,diary,8,2,1916-06-02 23:45:00 UTC,2 Jun 1916,Sandown Avenue,"[0.0, 0.0]",1145PM,place,Sandown Avenue,"{""place""=>[""Sandown Avenue""], ""location""=>[""true""], ""name""=>[""Bussy"", ""Fricourt""], ""lat""=>[""49.62534"", ""49.99811""], ""long""=>[""2.98232"", ""2.71357""], ""id""=>[""3029408"", ""3017041""]}",,,
+5,AWD0000u9d,orders,9,2,,,,[],,reference,Operation Order no. 25,{},,,
+9,AWD0000u9d,orders,9,5,,,,[],,date,1 Jun 1916,{},,,
+12,AWD0000u9d,orders,9,3,,,,[],,diaryDate,1 Jun 1916,"{""day""=>[""1""], ""month""=>[""Jun""], ""year""=>[""1916""]}",,,
+14,AWD0000u9d,orders,9,2,,,,[],,orders,move,{},,,
+18,AWD0000u9d,orders,9,3,,,,[],,place,Bois des Tailles,"{""place""=>[""Bois des Tailles""], ""location""=>[""true""], ""name""=>[""Bussy""], ""lat""=>[""49.62534""], ""long""=>[""2.98232""], ""id""=>[""3029408""]}",,,
+20,AWD0000u9d,orders,9,3,,,,[],,place,Bois des Tailles,"{""place""=>[""Bois des Tailles""], ""location""=>[""true""], ""name""=>[""Bussy""], ""lat""=>[""49.62534""], ""long""=>[""2.98232""], ""id""=>[""3029408""]}",,,
+6,AWD0000u9i,orders,10,2,,,,[],,date,1 Jun 1916,{},,,
+8,AWD0000u9i,orders,10,2,,,,[],,reference,-2-,{},,,
+9,AWD0000u9i,orders,10,2,,,,[],,place,Bois des Tailles,"{""place""=>[""Bois des Tailles""], ""location""=>[""true""], ""name""=>[""Bussy""], ""lat""=>[""49.62534""], ""long""=>[""2.98232""], ""id""=>[""3029408""]}",,,
+10,AWD0000u9i,orders,10,2,,,,[],,place,Morlancourt,"{""place""=>[""Morlancourt""], ""location""=>[""true""], ""name""=>[""Bussy""], ""lat""=>[""49.62534""], ""long""=>[""2.98232""], ""id""=>[""3029408""]}",,,
+11,AWD0000u9i,orders,10,2,,,,[],,time,1200AM,{},,,
+15,AWD0000u9i,orders,10,2,,,,[],,reference,The Royal Irish Regiment,{},,,
+10,AWD0000u8d,orders,11,3,,,,[],,date,7 Jun 1916,{},,,
+17,AWD0000u8d,orders,11,2,,,,[],,place,Morlancourt,"{""place""=>[""Morlancourt""], ""location""=>[""true""], ""name""=>[""Bussy""], ""lat""=>[""49.62534""], ""long""=>[""2.98232""], ""id""=>[""3029408""]}",,,
+21,AWD0000u8d,orders,11,2,,,,[],,person,"Lieutenant,Second Lieutenant A M Swyny","{""first""=>[""A M""], ""surname""=>[""Swyny""], ""rank""=>[""Lieutenant"", ""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""A/Adjt 2 Bn Royal Irish Regiment"", """"]}",,,
+3,AWD0000u8r,diary,13,2,1916-06-02 23:45:00 UTC,2 Jun 1916,Sandown Avenue,"[0.0, 0.0]",1145PM,title,"2nd Bn. Royal Irish Regiment Daily Summary 9th  June, 1916",{},,,
+6,AWD0000u8r,diary,13,2,1916-06-02 23:45:00 UTC,2 Jun 1916,Sandown Avenue,"[0.0, 0.0]",1145PM,reference,2nd Bn. Royal Irish Regiment Daily Summary 9th June 1916,{},,,
+8,AWD0000u8r,diary,13,2,1916-06-09 00:00:00 UTC,9 Jun 1916,Sandown Avenue,"[0.0, 0.0]","",diaryDate,9 Jun 1916,"{""day""=>[""9""], ""month""=>[""Jun""], ""year""=>[""1916""]}",,,
+9,AWD0000u8r,diary,13,2,1916-06-09 00:00:00 UTC,9 Jun 1916,Sandown Avenue,"[0.0, 0.0]","",date,9 Jun 1916,{},,,
+13,AWD0000u8r,diary,13,2,1916-06-09 02:00:00 UTC,9 Jun 1916,Sandown Avenue,"[0.0, 0.0]",0200AM,time,0200AM,{},,,
+16,AWD0000u8r,diary,13,2,1916-06-09 02:00:00 UTC,9 Jun 1916,Sandown Avenue,"[0.0, 0.0]",0200AM,activity,reconnoitered,{},,,
+17,AWD0000u8r,diary,13,5,1916-06-09 02:00:00 UTC,9 Jun 1916,Sandown Avenue,"[0.0, 0.0]",0200AM,person,Second Lieutenant T B Forster,"{""first""=>[""T B""], ""surname""=>[""Forster""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""""]}",,,
+21,AWD0000u8r,diary,13,2,1916-06-09 02:00:00 UTC,9 Jun 1916,Sandown Avenue,"[0.0, 0.0]",0200AM,place,Aeroplane Trench,"{""place""=>[""Aeroplane Trench""], ""location""=>[""false""], ""name""=>[""Bussy""], ""lat""=>[""49.62534""], ""long""=>[""2.98232""], ""id""=>[""3029408""]}",,,
+31,AWD0000u8r,diary,13,2,1916-06-09 02:00:00 UTC,9 Jun 1916,Sandown Avenue,"[0.0, 0.0]",0200AM,person,"Lieutenant Colonel  Dugan, Dugan ?","{""first""=>[""""], ""surname""=>[""Dugan"", ""Dugan ?""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>["""", ""Commanding 2 Bn Royal Irish Regiment""]}",,,
+33,AWD0000u8r,diary,13,3,1916-06-09 02:00:00 UTC,9 Jun 1916,Sandown Avenue,"[0.0, 0.0]",0200AM,person,Lieutenant Colonel A Dugan,"{""first""=>[""A""], ""surname""=>[""Dugan""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+7,AWD0000uay,report,14,4,,,,[],,person,Second Lieutenant T B Forster,"{""first""=>[""T B""], ""surname""=>[""Forster""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""combat"", ""other""], ""unit""=>[""""]}",,,
+9,AWD0000uay,report,14,4,,,,[],,person,Lance Corporal  Wright,"{""first""=>[""""], ""surname""=>[""Wright""], ""rank""=>[""Lance Corporal""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""2 Bn Royal Irish Regiment"", ""2nd Battalion The Royal Irish Regiment"", ""2nd Bn. The Royal Irish Regiment"", """"]}",,,
+10,AWD0000uay,report,14,3,,,,[],,person,Second Lieutenant T B Forster,"{""first""=>[""T B""], ""surname""=>[""Forster""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""2nd Battalion The Royal Irish Regiment"", ""2nd Bn. The Royal Irish Regiment"", """"]}",,,
+11,AWD0000uay,report,14,8,,,,[],,person,Sergeant  Dreeling,"{""first""=>[""""], ""surname""=>[""Dreeling""], ""rank""=>[""Sergeant""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""""]}",,,
+12,AWD0000uay,report,14,3,,,,[],,person,Lance Corporal  Green,"{""first""=>[""""], ""surname""=>[""Green""], ""rank""=>[""Lance Corporal""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""2nd Battalion The Royal Irish Regiment"", ""2nd Bn. The Royal Irish Regiment"", """"]}",,,
+13,AWD0000uay,report,14,4,,,,[],,person,Lance Corporal  Jenkins,"{""first""=>[""""], ""surname""=>[""Jenkins""], ""rank""=>[""Lance Corporal""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+16,AWD0000uay,report,14,3,,,,[],,person,Sergeant  Dreeling,"{""first""=>[""""], ""surname""=>[""Dreeling""], ""rank""=>[""Sergeant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""2nd Battalion The Royal Irish Regiment"", ""2nd Bn. The Royal Irish Regiment"", """"]}",,,
+17,AWD0000uay,report,14,5,,,,[],,person,Second Lieutenant T B Forster,"{""first""=>[""T B""], ""surname""=>[""Forster""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""2nd Bn. The Royal Irish Regiment""]}",,,
+20,AWD0000uay,report,14,5,,,,[],,person,Lance Corporal  Walsh,"{""first""=>[""""], ""surname""=>[""Walsh""], ""rank""=>[""Lance Corporal""], ""number""=>[""""], ""reason""=>[""casualty_mia""], ""unit""=>[""""]}",,,
+21,AWD0000uay,report,14,3,,,,[],,person,Second Lieutenant T B Forster,"{""first""=>[""T B""], ""surname""=>[""Forster""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""2nd Battalion The Royal Irish Regiment"", ""2nd Bn. The Royal Irish Regiment"", """"]}",,,
+22,AWD0000uay,report,14,3,,,,[],,person,Sergeant  Dreeling,"{""first""=>[""""], ""surname""=>[""Dreeling""], ""rank""=>[""Sergeant""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""2nd Battalion The Royal Irish Regiment"", ""2nd Bn. The Royal Irish Regiment"", """"]}",,,
+23,AWD0000uay,report,14,6,,,,[],,person,Lance Corporal  Walsh,"{""first""=>[""""], ""surname""=>[""Walsh""], ""rank""=>[""Lance Corporal""], ""number""=>[""""], ""reason""=>[""casualty_mia""], ""unit""=>[""2nd Battalion The Royal Irish Regiment"", ""2nd Bn. The Royal Irish Regiment"", """"]}",,,
+24,AWD0000uay,report,14,4,,,,[],,person,Second Lieutenant T B Forster,"{""first""=>[""T B""], ""surname""=>[""Forster""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_died""], ""unit""=>[""""]}",,,
+26,AWD0000uay,report,14,4,,,,[],,person,Sergeant  Dreeling,"{""first""=>[""""], ""surname""=>[""Dreeling""], ""rank""=>[""Sergeant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""2 Bn Royal Irish Regiment"", ""2nd Battalion The Royal Irish Regiment"", ""2nd Bn. The Royal Irish Regiment"", """"]}",,,
+27,AWD0000uay,report,14,5,,,,[],,person,Private  Lush,"{""first""=>[""""], ""surname""=>[""Lush""], ""rank""=>[""Private""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""2nd Battalion The Royal Irish Regiment""]}",,,
+28,AWD0000uay,report,14,4,,,,[],,person,Private  Sheppard,"{""first""=>[""""], ""surname""=>[""Sheppard""], ""rank""=>[""Private""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""2 Bn Royal Irish Regiment"", ""2nd Battalion The Royal Irish Regiment"", ""2nd Bn. The Royal Irish Regiment"", """"]}",,,
+29,AWD0000uay,report,14,2,,,,[],,person,Lance Corporal  Walsh,"{""first""=>[""""], ""surname""=>[""Walsh""], ""rank""=>[""Lance Corporal""], ""number""=>[""""], ""reason""=>[""casualty_mia"", ""casualty_wounded""], ""unit""=>[""2nd Bn. The Royal Irish Regiment"", """"]}",,,
+31,AWD0000uay,report,14,4,,,,[],,person,Second Lieutenant T B Forster,"{""first""=>[""T B""], ""surname""=>[""Forster""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_died""], ""unit""=>["""", ""2nd Battalion The Royal Irish Regiment"", ""2nd Bn. The Royal Irish Regiment"", ""2 Bn Royal Irish Regiment""]}",,,
+32,AWD0000uay,report,14,5,,,,[],,person,Lieutenant Colonel  Dugan,"{""first""=>[""""], ""surname""=>[""Dugan""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""2nd bat royal irish"", ""2nd Bn Royal Irish Regiment"", ""2nd Battalion Royal Irish Regiment"", ""2nd Bn. The Royal Irish Regiment"", ""2nd Battalion The Royal Irish Regiment""]}",,,
+34,AWD0000uay,report,14,3,,,,[],,date,11 Jun 1916,{},,,
+3,AWD0000u92,report,15,2,,,,[],,reference,Copy of Correspondence re the conduct of the patrol on the 10/11th inst,{},,,
+4,AWD0000u92,report,15,3,,,,[],,reference,Headquarters 22nd Infantry Brigade,{},,,
+10,AWD0000u92,report,15,2,,,,[],,reference,Gallant and Distinguished conduct in the field,{},,,
+13,AWD0000u92,report,15,2,,,,[],,person,"Lance Sergeant,Sergeant  Dreeling","{""first""=>[""""], ""surname""=>[""Dreeling""], ""rank""=>[""Lance Sergeant"", ""Sergeant""], ""number""=>[""8967""], ""reason""=>[""award""], ""unit""=>[""2 Btn Royal Irish Regiment"", """"]}",,,
+14,AWD0000u92,report,15,3,,,,[],,person,Lance Sergeant Michael Dreeling,"{""first""=>[""Michael""], ""surname""=>[""Dreeling""], ""rank""=>[""Lance Sergeant""], ""number""=>[""8967""], ""reason""=>[""award""], ""unit""=>[""2 Bn Royal Irish Regiment""]}",,,
+16,AWD0000u92,report,15,4,,,,[],,person,Private  Lush,"{""first""=>[""""], ""surname""=>[""Lush""], ""rank""=>[""Private""], ""number""=>[""8361""], ""reason""=>[""award""], ""unit""=>[""2 Bn Royal Irish Regiment"", ""2nd Bn. The Royal Irish Regiment"", ""2nd Battalion The Royal Irish Regiment"", """"]}",,,
+19,AWD0000u92,report,15,2,,,,[],,person,Private  Lush,"{""first""=>[""""], ""surname""=>[""Lush""], ""rank""=>[""Private""], ""number""=>[""8361""], ""reason""=>[""award""], ""unit""=>[""2 Bn Royal Irish Regiment""]}",,,
+20,AWD0000u92,report,15,5,,,,[],,person,Private  Sheppard,"{""first""=>[""""], ""surname""=>[""Sheppard""], ""rank""=>[""Private""], ""number""=>[""8396""], ""reason""=>[""award""], ""unit""=>[""2 Bn Royal Irish Regiment""]}",,,
+21,AWD0000u92,report,15,3,,,,[],,person,Lieutenant Colonel W J Dugan,"{""first""=>[""W J""], ""surname""=>[""Dugan""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""2nd Battalion The Royal Irish Regiment"", ""2nd Battalion Royal Irish Regiment"", ""2nd Bn. The Royal Irish Regiment""]}",,,
+22,AWD0000u92,report,15,3,,,,[],,date,13 Jun 1916,{},,,
+24,AWD0000u92,report,15,2,,,,[],,person,Lance Sergeant Michael Dreeling,"{""first""=>[""Michael""], ""surname""=>[""Dreeling""], ""rank""=>[""Lance Sergeant""], ""number""=>[""8967""], ""reason""=>[""award""], ""unit""=>[""2nd Bn. The Royal Irish Regiment"", """"]}",,,
+27,AWD0000u92,report,15,5,,,,[],,person,Lance Corporal  Wright,"{""first""=>[""""], ""surname""=>[""Wright""], ""rank""=>[""Lance Corporal""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""2 Bn Royal Irish Regiment""]}",,,
+28,AWD0000u92,report,15,2,,,,[],,person,"Lance Sergeant,Sergeant  Deeling, Dreeling","{""first""=>[""""], ""surname""=>[""Deeling"", ""Dreeling""], ""rank""=>[""Lance Sergeant"", ""Sergeant""], ""number""=>[""8967"", """"], ""reason""=>[""award""], ""unit""=>[""2nd Battalion The Royal Irish Regiment"", """"]}",,,
+31,AWD0000u92,report,15,8,,,,[],,person,Lieutenant  Forster,"{""first""=>[""""], ""surname""=>[""Forster""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_died"", ""casualty_wounded""], ""unit""=>[""2 Bn Royal Irish Regiment"", ""2nd Battalion The Royal Irish Regiment"", ""2nd Bn. The Royal Irish Regiment"", """"]}",,,
+32,AWD0000u92,report,15,2,,,,[],,person,"Lance Sergeant,Sergeant  Deeling, Dreeling","{""first""=>[""""], ""surname""=>[""Deeling"", ""Dreeling""], ""rank""=>[""Lance Sergeant"", ""Sergeant""], ""number""=>[""8967"", """"], ""reason""=>[""award"", ""other""], ""unit""=>[""2nd Battalion The Royal Irish Regiment"", """"]}",,,
+34,AWD0000u92,report,15,4,,,,[],,person,Lance Corporal  Walsh,"{""first""=>[""""], ""surname""=>[""Walsh""], ""rank""=>[""Lance Corporal""], ""number""=>[""""], ""reason""=>[""casualty_mia""], ""unit""=>[""2 Bn Royal Irish Regiment""]}",,,
+36,AWD0000u92,report,15,2,,,,[],,person,Lance Corporal  Walsh,"{""first""=>[""""], ""surname""=>[""Walsh""], ""rank""=>[""Lance Corporal""], ""number""=>[""""], ""reason""=>[""casualty_wounded"", ""casualty_mia""], ""unit""=>[""2nd Bn. The Royal Irish Regiment"", """"]}",,,
+39,AWD0000u92,report,15,6,,,,[],,person,Lieutenant  Forster,"{""first""=>[""""], ""surname""=>[""Forster""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_died""], ""unit""=>[""2nd Battalion The Royal Irish Regiment"", ""2nd Bn. The Royal Irish Regiment"", """"]}",,,
+40,AWD0000u92,report,15,3,,,,[],,reference,Victoria Cross,{},,,
+41,AWD0000u92,report,15,4,,,,[],,person,Lieutenant Colonel W J Dugan,"{""first""=>[""W J""], ""surname""=>[""Dugan""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""2 Bn Royal Irish Regiment"", ""2nd Battalion The Royal Irish Regiment"", """", ""2nd Bn. The Royal Irish Regiment""]}",,,
+1,AWD0000u8a,report,16,2,,,,[],,reference,Immediate Award,{},,,
+6,AWD0000u8a,report,16,5,,,,[],,person,Private Albert Sheppard,"{""first""=>[""Albert""], ""surname""=>[""Sheppard""], ""rank""=>[""Private""], ""number""=>[""8396""], ""reason""=>[""award""], ""unit""=>[""2nd Bn. The Royal Irish Regiment"", ""2nd Battalion The Royal Irish Regiment""]}",,,
+7,AWD0000u8a,report,16,2,,,,[],,person,Lance Corporal  Jenkins,"{""first""=>[""""], ""surname""=>[""Jenkins""], ""rank""=>[""Lance Corporal""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""2nd Battalion The Royal Irish Regiment"", ""2nd Bn. The Royal Irish Regiment""]}",,,
+8,AWD0000u8a,report,16,2,,,,[],,person,Private  Sheppard,"{""first""=>[""""], ""surname""=>[""Sheppard""], ""rank""=>[""Private""], ""number""=>["""", ""8396""], ""reason""=>[""combat"", ""award""], ""unit""=>[""""]}",,,
+9,AWD0000u8a,report,16,2,,,,[],,person,"Sergeant,Lance Sergeant Michael Deeling, Dreeling","{""first""=>[""Michael""], ""surname""=>[""Deeling"", ""Dreeling""], ""rank""=>[""Sergeant"", ""Lance Sergeant""], ""number""=>[""8967"", """"], ""reason""=>[""award""], ""unit""=>[""2nd Battalion The Royal Irish Regiment"", ""2nd Bn. The Royal Irish Regiment""]}",,,
+11,AWD0000u8a,report,16,2,,,,[],,person,Private Albert Sheppard,"{""first""=>[""Albert""], ""surname""=>[""Sheppard""], ""rank""=>[""Private""], ""number""=>[""8395""], ""reason""=>[""award""], ""unit""=>[""2 Bn Royal Irish Regiment"", ""2nd bat royal irish""]}",,,
+13,AWD0000u8a,report,16,3,,,,[],,person,Lance Corporal  Walsh,"{""first""=>[""""], ""surname""=>[""Walsh""], ""rank""=>[""Lance Corporal""], ""number""=>[""""], ""reason""=>[""casualty_mia""], ""unit""=>["""", ""2nd Battalion The Royal Irish Regiment"", ""2nd Bn. The Royal Irish Regiment""]}",,,
+15,AWD0000u8a,report,16,2,,,,[],,reference,Distinguished Conduct Medal,{},,,
+16,AWD0000u8a,report,16,4,,,,[],,person,Lieutenant Colonel W J Dugan,"{""first""=>[""W J""], ""surname""=>[""Dugan""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""2nd Battalion The Royal Irish Regiment"", ""2nd Bn. The Royal Irish Regiment"", """", ""2 Bn Royal Irish Regiment""]}",,,
+20,AWD0000u8a,report,16,3,,,,[],,person,Private Harold James Lush,"{""first""=>[""Harold James""], ""surname""=>[""Lush""], ""rank""=>[""Private""], ""number""=>[""8361""], ""reason""=>[""award""], ""unit""=>[""2nd Battalion The Royal Irish Regiment"", ""2nd Bn. The Royal Irish Regiment"", """"]}",,,
+23,AWD0000u8a,report,16,4,,,,[],,person,Private Harold James Lush,"{""first""=>[""Harold James""], ""surname""=>[""Lush""], ""rank""=>[""Private""], ""number""=>[""8361""], ""reason""=>[""award""], ""unit""=>[""2nd Battalion The Royal Irish Regiment"", ""2nd Bn. The Royal Irish Regiment"", """", ""2 Bn Royal Irish Regiment""]}",,,
+24,AWD0000u8a,report,16,6,,,,[],,person,Lance Corporal  Green,"{""first""=>[""""], ""surname""=>[""Green""], ""rank""=>[""Lance Corporal""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""2nd Battalion The Royal Irish Regiment"", ""2nd Bn. The Royal Irish Regiment"", """"]}",,,
+25,AWD0000u8a,report,16,2,,,,[],,person,"Sergeant,Lance Sergeant Michael Deeling, Dreeling","{""first""=>[""Michael""], ""surname""=>[""Deeling"", ""Dreeling""], ""rank""=>[""Sergeant"", ""Lance Sergeant""], ""number""=>[""8967"", """"], ""reason""=>[""award""], ""unit""=>[""2nd Battalion The Royal Irish Regiment"", ""2nd Bn. The Royal Irish Regiment""]}",,,
+28,AWD0000u8a,report,16,3,,,,[],,person,Lance Corporal  Walsh,"{""first""=>[""""], ""surname""=>[""Walsh""], ""rank""=>[""Lance Corporal""], ""number""=>[""""], ""reason""=>[""casualty_mia""], ""unit""=>[""2nd Battalion The Royal Irish Regiment"", """", ""2nd Bn. The Royal Irish Regiment""]}",,,
+29,AWD0000u8a,report,16,2,,,,[],,reference,Distinguished Conduct Medal,{},,,
+30,AWD0000u8a,report,16,3,,,,[],,person,Lieutenant Colonel W J Dugan,"{""first""=>[""W J""], ""surname""=>[""Dugan""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""2nd Battalion The Royal Irish Regiment"", """", ""2nd Bn. The Royal Irish Regiment""]}",,,
+3,AWD0000ua3,report,17,2,,,,[],,title,"2nd Bn. The Royal Irish Regiment Daily Summary, 11th June 1916",{},,,
+6,AWD0000ua3,report,17,3,,,,[],,date,11 Jun 1916,{},,,
+11,AWD0000ua3,report,17,5,,,,[],,person,Second Lieutenant  Forster,"{""first""=>[""""], ""surname""=>[""Forster""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_died"", ""combat""], ""unit""=>[""2nd Bn. The Royal Irish Regiment""]}",,,
+15,AWD0000ua3,report,17,4,,,,[],,person,Second Lieutenant  Forster,"{""first""=>[""""], ""surname""=>[""Forster""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_died""], ""unit""=>[""2nd Bn. The Royal Irish Regiment""]}",,,
+16,AWD0000ua3,report,17,4,,,,[],,person,Lieutenant Colonel W J Dugan,"{""first""=>[""W J""], ""surname""=>[""Dugan""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""author"", ""other""], ""unit""=>[""2nd Bn. The Royal Irish Regiment""]}",,,
+17,AWD0000ua3,report,17,2,,,,[],,date,11 Jun 1916,{},,,
+4,AWD0000uau,report,18,2,,,,[],,title,Daily Summary,{},,,
+5,AWD0000uau,report,18,3,,,,[],,date,12 Jun 1916,{},,,
+13,AWD0000uau,report,18,2,,,,[],,date,12 Jun 1916,{},,,
+2,AWD0000ucx,report,19,2,,,,[],,title,Appendix II,{},,,
+3,AWD0000ucx,report,19,2,,,,[],,title,Fricourt Wood,{},,,
+4,AWD0000ucx,report,19,2,,,,[],,place,"fricourt wood, Fricourt Wood","{""place""=>[""fricourt wood"", ""Fricourt Wood""], ""location""=>[""false""], ""name""=>[""Méaulte"", ""Bussy""], ""lat""=>[""49.98167"", ""49.62534""], ""long""=>[""2.66121"", ""2.98232""], ""id""=>[""2994803"", ""3029408""]}",,,
+6,AWD0000ucx,report,19,4,,,,[],,person, M Danicourt,"{""first""=>[""M""], ""surname""=>[""Danicourt""], ""rank""=>[""""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+4,AWD0000ubq,orders,23,2,,,,[],,reference,7th Divisional Routine Orders No. 492,{},,,
+7,AWD0000ubq,orders,23,3,,,,[],,date,12 Jun 1916,{},,,
+11,AWD0000ubq,orders,23,5,,,,[],,person,Private W Reardon,"{""first""=>[""W""], ""surname""=>[""Reardon""], ""rank""=>[""Private""], ""number""=>[""10086""], ""reason""=>[""award""], ""unit""=>[""2nd royal irish"", ""2 Bn Royal Irish Regiment"", ""2nd Battalion The Royal Irish Regiment"", ""2nd Bn. The Royal Irish Regiment"", ""2nd Royal Irish Regiment""]}",,,
+12,AWD0000ubq,orders,23,2,,,,[],,reference,2nd Battalion The Royal Irish Regiment,{},,,
+14,AWD0000ubq,orders,23,4,,,,[],,person,Lieutenant Colonel M A Wingfield,"{""first""=>[""M A""], ""surname""=>[""Wingfield""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""other"", ""author""], ""unit""=>[""7th Division""]}",,,
+4,AWD0000u9j,orders,24,3,,,,[],,reference,Trench Map MEAULTE,{},,,
+8,AWD0000u9j,orders,24,3,,,,[],,date,12 Jun 1916,{},,,
+10,AWD0000u9j,orders,24,2,,,,[],,orders,move,{},,,
+22,AWD0000u9j,orders,24,2,,,,[],,reference,Bois des Tailles,{},,,
+24,AWD0000u9j,orders,24,5,,,,[],,person,Captain T A Lowe,"{""first""=>[""T A""], ""surname""=>[""Lowe""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""2nd bat royal irish bat."", ""2nd Battalion The Royal Iriish Regiment"", ""2nd Battalion The Royal Irish Regiment"", ""2nd Bn. The Royal Irish Regiment"", ""2 Bn Royal Irish Regiment""]}",,,
+3,AWD0000u6p,report,26,2,,,,[],,title,Situation and Intelligence reports,{},,,
+7,AWD0000u6p,report,26,3,,,,[],,date,12 Jun 1916,{},,,
+3,AWD0000uap,orders,27,3,,,,[],,reference,Order No 28,{},,,
+5,AWD0000uap,orders,27,2,,,,[],,reference,map AMIENS Sheet 12.,{},,,
+6,AWD0000uap,orders,27,3,,,,[],,date,14 Jun 1916,{},,,
+9,AWD0000uap,orders,27,2,,,,[],,orders,move,{},,,
+12,AWD0000uap,orders,27,2,,,,[],,activity,movement,{},,,
+17,AWD0000uap,orders,27,5,,,,[],,person,Captain T A Lowe,"{""first""=>[""T A""], ""surname""=>[""Lowe""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""2nd Battalion The Royal Irish Regiment""]}",,,
+3,AWD0000u9b,orders,28,2,,,,[],,reference,Order No. 29,{},,,
+6,AWD0000u9b,orders,28,4,,,,[],,date,21 Jun 1916,{},,,
+10,AWD0000u9b,orders,28,2,,,,[],,orders,move,{},,,
+12,AWD0000u9b,orders,28,3,,,,[],,person,Captain  Tighe,"{""first""=>[""""], ""surname""=>[""Tighe""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+13,AWD0000u9b,orders,28,3,,,,[],,person,Second Lieutenant  Grant,"{""first""=>[""""], ""surname""=>[""Grant""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+14,AWD0000u9b,orders,28,4,,,,[],,person,Captain T A Lowe,"{""first""=>[""T A""], ""surname""=>[""Lowe""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""2nd bat royal irish reg."", ""2nd Battalion The Royal Irish Regiment"", ""2nd Bn. The Royal Irish Regiment"", ""2 Bn Royal Irish Regiment""]}",,,
+3,AWD0000ubb,orders,29,2,,,,[],,reference,Order No 30,{},,,
+4,AWD0000ubb,orders,29,2,,,,[],,reference,Trench Map LEAULTE,{},,,
+6,AWD0000ubb,orders,29,4,,,,[],,date,22 Jun 1916,{},,,
+8,AWD0000ubb,orders,29,3,,,,[],,orders,move,{},,,
+12,AWD0000ubb,orders,29,3,,,,[],,person,"Second Lieutenant  Swyay, Swyny, swyay","{""first""=>[""""], ""surname""=>[""Swyay"", ""Swyny"", ""swyay""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+15,AWD0000ubb,orders,29,4,,,,[],,person,Captain T A Lowe,"{""first""=>[""T A""], ""surname""=>[""Lowe""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""2 Bn Royal Irish Regiment"", ""2nd Battalion The Royal Irish Regiment"", ""2nd Bn. The Royal Irish Regiment"", """"]}",,,
+1,AWD0000udj,report,30,2,,,,[],,reference,Appendix III,{},,,
+3,AWD0000udj,report,30,5,,,,[],,date,24 Jun 1916,{},,,
+4,AWD0000udj,report,30,2,,,,[],,reference,B.M./393,{},,,
+18,AWD0000udj,report,30,3,,,,[],,person,Major  ,"{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""91st Infantry Brigade""]}",,,
+11,AWD0000uby,orders,31,4,,,,[],,date,24 Jun 1916,{},,,
+15,AWD0000uby,orders,31,2,,,,[],,reference,"62D n,e.2.",{},,,
+17,AWD0000uby,orders,31,2,,,,[],,orders,attack,{},,,
+1,AWD0000ubf,orders,32,2,,,,[],,orders,attack,{},,,
+10,AWD0000ubf,orders,32,6,,,,[],,person,Captain  O'Reilly,"{""first""=>[""""], ""surname""=>[""O'Reilly""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+11,AWD0000ubf,orders,32,3,,,,[],,person,Second Lieutenant  White,"{""first""=>[""""], ""surname""=>[""White""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""C Coy 2 Bn RoyalIrish Regiment"", """", ""2nd Bn. The Royal Irish Regiment""]}",,,
+13,AWD0000ubf,orders,32,12,,,,[],,person,"Second Lieutenant,Lieutenant  Blake, Grant","{""first""=>[""""], ""surname""=>[""Blake"", ""Grant""], ""rank""=>[""Second Lieutenant"", ""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+14,AWD0000ubf,orders,32,4,,,,[],,person,Captain  Moore-Brabezon,"{""first""=>[""""], ""surname""=>[""Moore-Brabezon""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""B Coy Royal Irish Regiment"", ""B Coy"", """", ""2nd Bn. The Royal Irish Regiment""]}",,,
+17,AWD0000ubf,orders,32,3,,,,[],,person,Second Lieutenant  Harrison,"{""first""=>[""""], ""surname""=>[""Harrison""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+18,AWD0000ubf,orders,32,6,,,,[],,person,Captain  Bell,"{""first""=>[""""], ""surname""=>[""Bell""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+19,AWD0000ubf,orders,32,4,,,,[],,person,Lieutenant  Murphy,"{""first""=>[""""], ""surname""=>[""Murphy""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+21,AWD0000ubf,orders,32,2,,,,[],,person,"Second Lieutenant,Lieutenant  Kenny","{""first""=>[""""], ""surname""=>[""Kenny""], ""rank""=>[""Second Lieutenant"", ""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""2nd Bn. The Royal Irish Regiment"", """"]}",,,
+22,AWD0000ubf,orders,32,4,,,,[],,person,Second Lieutenant  Price,"{""first""=>[""""], ""surname""=>[""Price""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+23,AWD0000ubf,orders,32,5,,,,[],,person,Lieutenant  Usher,"{""first""=>[""""], ""surname""=>[""Usher""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+25,AWD0000ubf,orders,32,5,,,,[],,person,Captain  Cotter,"{""first""=>[""""], ""surname""=>[""Cotter""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+26,AWD0000ubf,orders,32,4,,,,[],,person,"Second Lieutenant  Galway, Galwey","{""first""=>[""""], ""surname""=>[""Galway"", ""Galwey""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+27,AWD0000ubf,orders,32,5,,,,[],,person,Captain  Gordon-Ralph,"{""first""=>[""""], ""surname""=>[""Gordon-Ralph""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+28,AWD0000ubf,orders,32,5,,,,[],,person,Second Lieutenant  Perrin,"{""first""=>[""""], ""surname""=>[""Perrin""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+29,AWD0000ubf,orders,32,3,,,,[],,person,Company Sergeant Major  Smith,"{""first""=>[""""], ""surname""=>[""Smith""], ""rank""=>[""Company Sergeant Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+30,AWD0000ubf,orders,32,3,,,,[],,person,Major H G Gregorie,"{""first""=>[""H G""], ""surname""=>[""Gregorie""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+33,AWD0000ubf,orders,32,4,,,,[],,person,Second Lieutenant  Moran,"{""first""=>[""""], ""surname""=>[""Moran""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+5,AWD0000u8c,orders,33,2,,,,[],,orders,move,{},,,
+6,AWD0000u8c,orders,33,4,,,,[],,person,Captain T A Lowe,"{""first""=>[""T A""], ""surname""=>[""Lowe""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""2nd bat royal irish reg."", """", ""2 Bn Royal Irish Regiment"", ""2nd Bn. The Royal Irish Regiment""]}",,,
+1,AWD0000ub9,orders,35,2,,,,[],,orders,attack,{},,,
+4,AWD0000ub9,orders,35,2,,,,[],,date,24 Jun 1916,{},,,
+5,AWD0000ub9,orders,35,4,,,,[],,person,Lieutenant Colonel W J Dugan,"{""first""=>[""W J""], ""surname""=>[""Dugan""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""other"", ""author""], ""unit""=>["""", ""2nd Bn. The Royal Irish Regiment"", ""2nd Battn The Royal Irish Regiment"", ""2 Bn Royal Irish Regiment""]}",,,
+6,AWD0000ub9,orders,35,3,,,,[],,date,24 Jun 1916,{},,,
+5,AWD0000u8m,orders,36,2,,,,[],,orders,other,{},,,
+6,AWD0000u8m,orders,36,2,,,,[],,reference,Battalion Orders part 2,{},,,
+8,AWD0000u8m,orders,36,3,,,,[],,orders,attack,{},,,
+9,AWD0000u8m,orders,36,2,,,,[],,date,24 Jun 1916,{},,,
+16,AWD0000u8m,orders,36,2,,,,[],,person,Lance Sergeant Michael Dreeling,"{""first""=>[""Michael""], ""surname""=>[""Dreeling""], ""rank""=>[""Lance Sergeant""], ""number""=>[""""], ""reason""=>[""promotion""], ""unit""=>[""2nd Bn. The Royal Irish Regiment""]}",,,
+17,AWD0000u8m,orders,36,4,,,,[],,person,Sergeant  Stanley,"{""first""=>[""""], ""surname""=>[""Stanley""], ""rank""=>[""Sergeant""], ""number""=>[""9031""], ""reason""=>[""departed_sick""], ""unit""=>["""", ""2nd Bn. The Royal Irish Regiment""]}",,,
+19,AWD0000u8m,orders,36,4,,,,[],,person,Captain T A Lowe,"{""first""=>[""T A""], ""surname""=>[""Lowe""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>["""", ""2nd Bn. The Royal Irish Regiment""]}",,,
+21,AWD0000u8m,orders,36,2,,,,[],,person,Sergeant  Shanley,"{""first""=>[""""], ""surname""=>[""Shanley""], ""rank""=>[""Sergeant""], ""number""=>[""9031"", """"], ""reason""=>[""departed_sick"", ""author""], ""unit""=>[""2 Bn Royal Irish Regiment"", """"]}",,,
+6,AWD0000uaq,diary,38,4,1916-07-01 00:00:00 UTC,1 Jul 1916,Sandown Avenue,"[0.0, 0.0]","",diaryDate,1 Jul 1916,"{""day""=>[""1""], ""month""=>[""Jul""], ""year""=>[""1916""]}",,,
+19,AWD0000uaq,diary,38,2,1916-07-01 00:00:00 UTC,1 Jul 1916,Sandown Avenue,"[0.0, 0.0]","",unit,20th Brigade,"{""name""=>[""20th Brigade""], ""context""=>[""other"", ""joined""]}",,,
+21,AWD0000uaq,diary,38,2,1916-07-01 00:00:00 UTC,1 Jul 1916,Sandown Avenue,"[0.0, 0.0]","",unit,91st Brigade,"{""name""=>[""91st Brigade""], ""context""=>[""joined"", ""other""]}",,,
+23,AWD0000uaq,diary,38,2,1916-07-01 00:00:00 UTC,1 Jul 1916,Sandown Avenue,"[0.0, 0.0]","",diaryDate,1 Jul 1916,"{""day""=>[""1""], ""month""=>[""Jul""], ""year""=>[""1916""]}",,,
+24,AWD0000uaq,diary,38,3,1916-07-01 01:00:00 UTC,1 Jul 1916,Sandown Avenue,"[0.0, 0.0]",0100AM,time,0100AM,{},,,
+26,AWD0000uaq,diary,38,2,1916-07-01 01:00:00 UTC,1 Jul 1916,Sandown Avenue,"[0.0, 0.0]",0100AM,activity,attack,{},,,
+27,AWD0000uaq,diary,38,2,1916-07-01 07:30:00 UTC,1 Jul 1916,Sandown Avenue,"[0.0, 0.0]",0730AM,time,0730AM,{},,,
+31,AWD0000uaq,diary,38,2,1916-07-01 07:30:00 UTC,1 Jul 1916,Sandown Avenue,"[0.0, 0.0]",0730AM,activity,line,{},,,
+33,AWD0000uaq,diary,38,2,1916-07-01 07:30:00 UTC,1 Jul 1916,Sandown Avenue,"[0.0, 0.0]",0730AM,time,0730AM,{},,,
+35,AWD0000uaq,diary,38,3,1916-07-01 07:30:00 UTC,1 Jul 1916,Sandown Avenue,"[0.0, 0.0]",0730AM,unit,91st Brigade,"{""name""=>[""91st Brigade""], ""context""=>[""other""]}",,,
+36,AWD0000uaq,diary,38,2,1916-07-01 07:30:00 UTC,1 Jul 1916,Sandown Avenue,"[0.0, 0.0]",0730AM,unit,22 Bn Manchester Regt,"{""name""=>[""22 Bn Manchester Regt""], ""context""=>[""other"", ""relieved""]}",,,
+39,AWD0000uaq,diary,38,3,1916-07-01 07:30:00 UTC,1 Jul 1916,Sandown Avenue,"[0.0, 0.0]",0730AM,place,Mametz,"{""place""=>[""Mametz""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+40,AWD0000uaq,diary,38,2,1916-07-01 22:00:00 UTC,1 Jul 1916,Sandown Avenue,"[0.0, 0.0]",1000PM,time,1000PM,{},,,
+43,AWD0000uaq,diary,38,6,1916-07-01 22:00:00 UTC,1 Jul 1916,Sandown Avenue,"[0.0, 0.0]",1000PM,unit,21st Manchester Regt,"{""name""=>[""21st Manchester Regt""], ""context""=>[""joined""]}",,,
+47,AWD0000uaq,diary,38,3,1916-07-01 22:00:00 UTC,1 Jul 1916,Sandown Avenue,"[0.0, 0.0]",1000PM,casualties,wounded: 50,{},,,
+2,AWD0000u8y,diary,39,3,1916-07-01 22:00:00 UTC,1 Jul 1916,Fricourt,"[2.71357, 49.99811]",1000PM,place,Fricourt,"{""place""=>[""Fricourt""], ""location""=>[""true""], ""name""=>[""Fricourt""], ""lat""=>[""49.99811""], ""long""=>[""2.71357""], ""id""=>[""3017041""]}",3017041,Fricourt,"[2.71357, 49.99811]"
+3,AWD0000u8y,diary,39,4,1916-07-02 00:00:00 UTC,2 Jul 1916,Fricourt,"[2.71357, 49.99811]","",diaryDate,2 Jul 1916,"{""day""=>[""2""], ""month""=>[""Jul""], ""year""=>[""1916""]}",3017041,Fricourt,"[2.71357, 49.99811]"
+5,AWD0000u8y,diary,39,3,1916-07-02 00:00:00 UTC,2 Jul 1916,Fricourt,"[2.71357, 49.99811]","",activity,other,{},3017041,Fricourt,"[2.71357, 49.99811]"
+8,AWD0000u8y,diary,39,4,1916-07-03 00:00:00 UTC,3 Jul 1916,Fricourt,"[2.71357, 49.99811]","",diaryDate,3 Jul 1916,"{""day""=>[""3""], ""month""=>[""Jul""], ""year""=>[""1916""]}",3017041,Fricourt,"[2.71357, 49.99811]"
+10,AWD0000u8y,diary,39,3,1916-07-03 00:00:00 UTC,3 Jul 1916,Mansel Copse,"[2.71357, 49.99811]","",place,Mansel Copse,"{""place""=>[""Mansel Copse""], ""location""=>[""true""], ""name""=>[""Fricourt""], ""lat""=>[""49.99811""], ""long""=>[""2.71357""], ""id""=>[""3017041""]}",3030478,Bray,"[1.28272, 49.9086]"
+12,AWD0000u8y,diary,39,2,1916-07-03 00:00:00 UTC,3 Jul 1916,Mansel Copse,"[2.71357, 49.99811]","",unit,"22nd Bridage, 22nd Brigade","{""name""=>[""22nd Bridage"", ""22nd Brigade""], ""context""=>[""joined""]}",3030478,Bray,"[1.28272, 49.9086]"
+18,AWD0000u8y,diary,39,3,1916-07-03 00:00:00 UTC,3 Jul 1916,Mametz,"[0.0, 0.0]","",place,Mametz,"{""place""=>[""Mametz""], ""location""=>[""true""], ""name""=>[""Mametz""], ""lat""=>["""", ""50.63485"", ""49.99718""], ""long""=>["""", ""2.32478"", ""2.73607""], ""id""=>["""", ""2996288"", ""2996289""]}",2996289,Mametz,"[2.73607, 49.99718]"
+19,AWD0000u8y,diary,39,3,1916-07-04 00:00:00 UTC,4 Jul 1916,Mametz,"[0.0, 0.0]","",diaryDate,4 Jul 1916,"{""day""=>[""4""], ""month""=>[""Jul""], ""year""=>[""1916""]}",2996289,Mametz,"[2.73607, 49.99718]"
+24,AWD0000u8y,diary,39,2,1916-07-04 00:00:00 UTC,4 Jul 1916,Quadrangle Trench,"[2.32478, 50.63485]","",place,Quadrangle Trench,"{""place""=>[""Quadrangle Trench""], ""location""=>[""true""], ""name""=>["""", ""Mametz""], ""lat""=>["""", ""50.63485""], ""long""=>["""", ""2.32478""], ""id""=>["""", ""2996288""]}",,,
+25,AWD0000u8y,diary,39,2,1916-07-04 00:00:00 UTC,4 Jul 1916,Wood Trench,"[2.32478, 50.63485]","",place,Wood Trench,"{""place""=>[""Wood Trench""], ""location""=>[""true""], ""name""=>["""", ""Mametz""], ""lat""=>["""", ""50.63485""], ""long""=>["""", ""2.32478""], ""id""=>["""", ""2996288""]}",,,
+26,AWD0000u8y,diary,39,2,1916-07-04 00:00:00 UTC,4 Jul 1916,Strip Trench,"[2.32478, 50.63485]","",place,Strip Trench,"{""place""=>[""Strip Trench""], ""location""=>[""true""], ""name""=>[""Mametz"", """"], ""lat""=>[""50.63485"", """"], ""long""=>[""2.32478"", """"], ""id""=>[""2996288"", """"]}",2970697,Varennes,"[2.53393, 50.04997]"
+27,AWD0000u8y,diary,39,3,1916-07-04 00:00:00 UTC,4 Jul 1916,Strip Trench,"[2.32478, 50.63485]","",activity,movement,{},2970697,Varennes,"[2.53393, 50.04997]"
+31,AWD0000u8y,diary,39,4,1916-07-04 00:00:00 UTC,4 Jul 1916,Mametz Wood,"[0.0, 0.0]","",place,Mametz Wood,"{""place""=>[""Mametz Wood""], ""location""=>[""true""], ""name""=>["""", ""Mametz""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3038271,Albert,"[2.65096, 50.00091]"
+32,AWD0000u8y,diary,39,2,1916-07-04 00:00:00 UTC,4 Jul 1916,Mametz Wood,"[0.0, 0.0]","",activity,reconnoitered,{},3038271,Albert,"[2.65096, 50.00091]"
+34,AWD0000u8y,diary,39,4,1916-07-04 00:00:00 UTC,4 Jul 1916,Mametz Wood,"[0.0, 0.0]","",place,Mametz Wood,"{""place""=>[""Mametz Wood""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3038271,Albert,"[2.65096, 50.00091]"
+36,AWD0000u8y,diary,39,2,1916-07-04 00:00:00 UTC,4 Jul 1916,Mametz Wood,"[0.0, 0.0]","",place,Strip Trench,"{""place""=>[""Strip Trench""], ""location""=>[""true"", ""false""], ""name""=>[""Mametz"", """"], ""lat""=>[""50.63485"", """"], ""long""=>[""2.32478"", """"], ""id""=>[""2996288"", """"]}",3038271,Albert,"[2.65096, 50.00091]"
+37,AWD0000u8y,diary,39,4,1916-07-04 00:00:00 UTC,4 Jul 1916,Mametz Wood,"[0.0, 0.0]","",person,"Lieutenant  Lod, Tod","{""first""=>[""""], ""surname""=>[""Lod"", ""Tod""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""""]}",3038271,Albert,"[2.65096, 50.00091]"
+38,AWD0000u8y,diary,39,3,1916-07-04 00:00:00 UTC,4 Jul 1916,Mametz Wood,"[0.0, 0.0]","",activity,reconnoitered,{},3038271,Albert,"[2.65096, 50.00091]"
+39,AWD0000u8y,diary,39,2,1916-07-04 00:00:00 UTC,4 Jul 1916,Mametz Wood,"[0.0, 0.0]","",activity,resting,{},3038271,Albert,"[2.65096, 50.00091]"
+46,AWD0000u8y,diary,39,2,1916-07-04 00:00:00 UTC,4 Jul 1916,Mametz Wood,"[0.0, 0.0]","",place,Mametz Wood,"{""place""=>[""Mametz Wood""], ""location""=>[""false"", ""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3038271,Albert,"[2.65096, 50.00091]"
+54,AWD0000u8y,diary,39,2,1916-07-04 00:00:00 UTC,4 Jul 1916,Mametz Wood,"[0.0, 0.0]","",place,Mametz Wood,"{""place""=>[""Mametz Wood""], ""location""=>[""true"", ""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3038271,Albert,"[2.65096, 50.00091]"
+3,AWD0000u9p,diary,40,3,1916-07-04 00:00:00 UTC,4 Jul 1916,Mametz Wood,"[0.0, 0.0]","",diaryDate,4 Jul 1916,"{""day""=>[""4""], ""month""=>[""Jul""], ""year""=>[""1916""]}",3038271,Albert,"[2.65096, 50.00091]"
+6,AWD0000u9p,diary,40,4,1916-07-04 00:00:00 UTC,4 Jul 1916,Mametz Wood,"[0.0, 0.0]","",activity,attack,{},3038271,Albert,"[2.65096, 50.00091]"
+7,AWD0000u9p,diary,40,2,1916-07-04 00:00:00 UTC,4 Jul 1916,Mametz Wood,"[0.0, 0.0]","",diaryDate,4 Jul 1916,"{""day""=>[""4""], ""month""=>[""Jul""], ""year""=>[""1916""]}",3038271,Albert,"[2.65096, 50.00091]"
+10,AWD0000u9p,diary,40,2,1916-07-04 00:00:00 UTC,4 Jul 1916,Mametz Wood,"[0.0, 0.0]","",place,"QuadrangleTrench, Quadrangle Trench","{""place""=>[""QuadrangleTrench"", ""Quadrangle Trench""], ""location""=>[""false""], ""name""=>["""", ""Mametz""], ""lat""=>["""", ""50.63485""], ""long""=>["""", ""2.32478""], ""id""=>["""", ""2996288""]}",3038271,Albert,"[2.65096, 50.00091]"
+11,AWD0000u9p,diary,40,2,1916-07-04 00:00:00 UTC,4 Jul 1916,Mametz Wood,"[0.0, 0.0]","",place,"WoodTrench, Wood Trench","{""place""=>[""WoodTrench"", ""Wood Trench""], ""location""=>[""false""], ""name""=>["""", ""Mametz""], ""lat""=>["""", ""50.63485""], ""long""=>["""", ""2.32478""], ""id""=>["""", ""2996288""]}",3038271,Albert,"[2.65096, 50.00091]"
+15,AWD0000u9p,diary,40,2,1916-07-04 00:00:00 UTC,4 Jul 1916,Mametz Wood,"[0.0, 0.0]","",place,Strip Trench,"{""place""=>[""Strip Trench""], ""location""=>[""false""], ""name""=>[""Mametz"", """"], ""lat""=>[""50.63485"", """"], ""long""=>[""2.32478"", """"], ""id""=>[""2996288"", """"]}",3038271,Albert,"[2.65096, 50.00091]"
+16,AWD0000u9p,diary,40,2,1916-07-04 00:00:00 UTC,4 Jul 1916,Mametz Wood,"[0.0, 0.0]","",place,Wood Trench,"{""place""=>[""Wood Trench""], ""location""=>[""false""], ""name""=>["""", ""Mametz""], ""lat""=>["""", ""50.63485""], ""long""=>["""", ""2.32478""], ""id""=>["""", ""2996288""]}",3038271,Albert,"[2.65096, 50.00091]"
+17,AWD0000u9p,diary,40,2,1916-07-04 00:00:00 UTC,4 Jul 1916,Mametz Wood,"[0.0, 0.0]","",activity,fire,{},3038271,Albert,"[2.65096, 50.00091]"
+18,AWD0000u9p,diary,40,2,1916-07-04 00:00:00 UTC,4 Jul 1916,Mametz Wood,"[0.0, 0.0]","",activity,withdraw,{},3038271,Albert,"[2.65096, 50.00091]"
+19,AWD0000u9p,diary,40,2,1916-07-04 00:00:00 UTC,4 Jul 1916,Mametz Wood,"[0.0, 0.0]","",activity,enemy_activity,{},3038271,Albert,"[2.65096, 50.00091]"
+22,AWD0000u9p,diary,40,2,1916-07-04 00:00:00 UTC,4 Jul 1916,Mametz Wood,"[0.0, 0.0]","",place,Mametz Wood,"{""place""=>[""Mametz Wood""], ""location""=>[""false""], ""name""=>[""Mametz"", """"], ""lat""=>[""50.63485"", """"], ""long""=>[""2.32478"", """"], ""id""=>[""2996288"", """"]}",3038271,Albert,"[2.65096, 50.00091]"
+24,AWD0000u9p,diary,40,2,1916-07-04 00:00:00 UTC,4 Jul 1916,Mametz Wood,"[0.0, 0.0]","",activity,withdraw,{},3038271,Albert,"[2.65096, 50.00091]"
+2,AWD0000u96,diary,41,4,1916-07-05 00:00:00 UTC,5 Jul 1916,Mametz Wood,"[0.0, 0.0]","",diaryDate,5 Jul 1916,"{""day""=>[""5""], ""month""=>[""Jul""], ""year""=>[""1916""]}",3038271,Albert,"[2.65096, 50.00091]"
+5,AWD0000u96,diary,41,3,1916-07-05 00:00:00 UTC,5 Jul 1916,"Mametz, Mametz , mametz","[0.0, 0.0]","",place,"Mametz, Mametz , mametz","{""place""=>[""Mametz"", ""Mametz "", ""mametz""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2996289,Mametz,"[2.73607, 49.99718]"
+6,AWD0000u96,diary,41,2,1916-07-05 00:00:00 UTC,5 Jul 1916,"Mametz, Mametz , mametz","[0.0, 0.0]","",diaryDate,5 Jul 1916,"{""day""=>[""5""], ""month""=>[""Jul""], ""year""=>[""1916""]}",2996289,Mametz,"[2.73607, 49.99718]"
+10,AWD0000u96,diary,41,2,1916-07-05 00:00:00 UTC,5 Jul 1916,"Mametz, Mametz , mametz","[0.0, 0.0]","",activity,withdraw,{},2996289,Mametz,"[2.73607, 49.99718]"
+13,AWD0000u96,diary,41,4,1916-07-05 00:00:00 UTC,5 Jul 1916,Mansel Copse,"[0.0, 0.0]","",place,Mansel Copse,"{""place""=>[""Mansel Copse""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3030478,Bray,"[1.28272, 49.9086]"
+15,AWD0000u96,diary,41,2,1916-07-05 00:00:00 UTC,5 Jul 1916,Mansel Copse,"[0.0, 0.0]","",reference,2 field guns captured,{},3030478,Bray,"[1.28272, 49.9086]"
+16,AWD0000u96,diary,41,2,1916-07-05 00:00:00 UTC,5 Jul 1916,Mansel Copse,"[0.0, 0.0]","",activity,enemy_activity,{},3030478,Bray,"[1.28272, 49.9086]"
+21,AWD0000u96,diary,41,3,1916-07-05 00:00:00 UTC,5 Jul 1916,Mansel Copse,"[0.0, 0.0]","",casualties,wounded: 75,{},3030478,Bray,"[1.28272, 49.9086]"
+22,AWD0000u96,diary,41,6,1916-07-05 00:00:00 UTC,5 Jul 1916,Mansel Copse,"[0.0, 0.0]","",person,Lieutenant  Usher,"{""first""=>[""""], ""surname""=>[""Usher""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",3030478,Bray,"[1.28272, 49.9086]"
+23,AWD0000u96,diary,41,6,1916-07-05 00:00:00 UTC,5 Jul 1916,Mansel Copse,"[0.0, 0.0]","",person,Second Lieutenant  Kerr,"{""first""=>[""""], ""surname""=>[""Kerr""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",3030478,Bray,"[1.28272, 49.9086]"
+27,AWD0000u96,diary,41,2,1916-07-05 00:00:00 UTC,5 Jul 1916,Mansel Copse,"[0.0, 0.0]","",place,Strip Trench,"{""place""=>[""Strip Trench""], ""location""=>[""false""], ""name""=>["""", ""Mametz""], ""lat""=>["""", ""50.63485""], ""long""=>["""", ""2.32478""], ""id""=>["""", ""2996288""]}",3030478,Bray,"[1.28272, 49.9086]"
+30,AWD0000u96,diary,41,7,1916-07-05 00:00:00 UTC,5 Jul 1916,Mansel Copse,"[0.0, 0.0]","",person,Second Lieutenant  Perrin,"{""first""=>[""""], ""surname""=>[""Perrin""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3030478,Bray,"[1.28272, 49.9086]"
+31,AWD0000u96,diary,41,2,1916-07-05 00:00:00 UTC,5 Jul 1916,Mansel Copse,"[0.0, 0.0]","",person,",Colour Sergeant C S U,U Hates, Hayes","{""first""=>[""C S U"", ""U""], ""surname""=>[""Hates"", ""Hayes""], ""rank""=>["""", ""Colour Sergeant""], ""number""=>[""""], ""reason""=>[""author"", ""casualty_wounded""], ""unit""=>["""", ""2 Bn Royal Irish Regiment""]}",3030478,Bray,"[1.28272, 49.9086]"
+33,AWD0000u96,diary,41,4,1916-07-05 00:00:00 UTC,5 Jul 1916,Mansel Copse,"[0.0, 0.0]","",person,Company Sergeant Major  Hayes,"{""first""=>[""""], ""surname""=>[""Hayes""], ""rank""=>[""Company Sergeant Major""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3030478,Bray,"[1.28272, 49.9086]"
+34,AWD0000u96,diary,41,4,1916-07-05 00:00:00 UTC,5 Jul 1916,Mansel Copse,"[0.0, 0.0]","",person,Captain  Cotter,"{""first""=>[""""], ""surname""=>[""Cotter""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",3030478,Bray,"[1.28272, 49.9086]"
+2,AWD0000uc6,diary,42,5,1916-07-05 00:00:00 UTC,5 Jul 1916,Mansel Copse,"[0.0, 0.0]","",diaryDate,5 Jul 1916,"{""day""=>[""5""], ""month""=>[""Jul""], ""year""=>[""1916""]}",3030478,Bray,"[1.28272, 49.9086]"
+3,AWD0000uc6,diary,42,3,1916-07-05 00:00:00 UTC,5 Jul 1916,Mansel Copse,"[0.0, 0.0]","",activity,attack,{},3030478,Bray,"[1.28272, 49.9086]"
+4,AWD0000uc6,diary,42,2,1916-07-05 00:00:00 UTC,5 Jul 1916,Mansel Copse,"[0.0, 0.0]","",place,"QUADRANGLE TRENCH, Quadrangle Trench","{""place""=>[""QUADRANGLE TRENCH"", ""Quadrangle Trench""], ""location""=>[""true"", ""false""], ""name""=>[""Brandhoek"", ""Mametz""], ""lat""=>[""51.09614"", ""50.63485""], ""long""=>[""4.75553"", ""2.32478""], ""id""=>[""2801132"", ""2996288""]}",3030478,Bray,"[1.28272, 49.9086]"
+12,AWD0000uc6,diary,42,3,1916-07-05 00:00:00 UTC,5 Jul 1916,Mansel Copse,"[0.0, 0.0]","",place,Wood Trench,"{""place""=>[""Wood Trench""], ""location""=>[""false""], ""name""=>[""Brandhoek"", """", ""Mametz""], ""lat""=>[""51.09614"", """", ""50.63485""], ""long""=>[""4.75553"", """", ""2.32478""], ""id""=>[""2801132"", """", ""2996288""]}",3030478,Bray,"[1.28272, 49.9086]"
+13,AWD0000uc6,diary,42,4,1916-07-05 00:00:00 UTC,5 Jul 1916,Mansel Copse,"[0.0, 0.0]","",place,"mametz Wood, Mametz Wood, NAMETZ WOOD, mametz wood","{""place""=>[""mametz Wood"", ""Mametz Wood"", ""NAMETZ WOOD"", ""mametz wood""], ""location""=>[""false"", ""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3030478,Bray,"[1.28272, 49.9086]"
+14,AWD0000uc6,diary,42,2,1916-07-05 00:00:00 UTC,5 Jul 1916,Mansel Copse,"[0.0, 0.0]","",unit,"I/R warwicks, 1/R Warwicks","{""name""=>[""I/R warwicks"", ""1/R Warwicks""], ""context""=>[""joined""]}",3030478,Bray,"[1.28272, 49.9086]"
+19,AWD0000uc6,diary,42,3,1916-07-05 00:00:00 UTC,5 Jul 1916,Mansel Copse,"[0.0, 0.0]","",place,Bottom Wood,"{""place""=>[""Bottom Wood""], ""location""=>[""false""], ""name""=>[""Mametz"", ""Brandhoek"", """"], ""lat""=>[""50.63485"", ""51.09614"", """"], ""long""=>[""2.32478"", ""4.75553"", """"], ""id""=>[""2996288"", ""2801132"", """"]}",3030478,Bray,"[1.28272, 49.9086]"
+20,AWD0000uc6,diary,42,3,1916-07-05 00:00:00 UTC,5 Jul 1916,Mansel Copse,"[0.0, 0.0]","",place,Wood Trench,"{""place""=>[""Wood Trench""], ""location""=>[""false""], ""name""=>["""", ""Mametz"", ""Brandhoek""], ""lat""=>["""", ""50.63485"", ""51.09614""], ""long""=>["""", ""2.32478"", ""4.75553""], ""id""=>["""", ""2996288"", ""2801132""]}",3030478,Bray,"[1.28272, 49.9086]"
+21,AWD0000uc6,diary,42,3,1916-07-05 00:00:00 UTC,5 Jul 1916,Mansel Copse,"[0.0, 0.0]","",place,Mametz Wood,"{""place""=>[""Mametz Wood""], ""location""=>[""false""], ""name""=>[""Brandhoek"", ""Mametz"", """"], ""lat""=>[""51.09614"", ""50.63485"", """"], ""long""=>[""4.75553"", ""2.32478"", """"], ""id""=>[""2801132"", ""2996288"", """"]}",3030478,Bray,"[1.28272, 49.9086]"
+23,AWD0000uc6,diary,42,5,1916-07-05 22:15:00 UTC,5 Jul 1916,Mansel Copse,"[0.0, 0.0]",1015PM,time,1015PM,{},3030478,Bray,"[1.28272, 49.9086]"
+24,AWD0000uc6,diary,42,5,1916-07-05 22:15:00 UTC,5 Jul 1916,Mansel Copse,"[0.0, 0.0]",1015PM,activity,attack,{},3030478,Bray,"[1.28272, 49.9086]"
+25,AWD0000uc6,diary,42,2,1916-07-05 22:15:00 UTC,5 Jul 1916,"BOTTOM WOOD, Bottom Wood","[0.0, 0.0]",1015PM,place,"BOTTOM WOOD, Bottom Wood","{""place""=>[""BOTTOM WOOD"", ""Bottom Wood""], ""location""=>[""true""], ""name""=>[""Brandhoek"", ""Mametz""], ""lat""=>[""51.09614"", ""50.63485""], ""long""=>[""4.75553"", ""2.32478""], ""id""=>[""2801132"", ""2996288""]}",3033925,Bécordel-Bécourt,"[2.68529, 49.98689]"
+26,AWD0000uc6,diary,42,6,1916-07-05 22:15:00 UTC,5 Jul 1916,"BOTTOM WOOD, Bottom Wood","[0.0, 0.0]",1015PM,person,Captain  Bell,"{""first""=>[""""], ""surname""=>[""Bell""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""""]}",3033925,Bécordel-Bécourt,"[2.68529, 49.98689]"
+27,AWD0000uc6,diary,42,2,1916-07-05 22:15:00 UTC,5 Jul 1916,"BOTTOM WOOD, Bottom Wood","[0.0, 0.0]",1015PM,place,"WOOD TRENCH, Wood Trench","{""place""=>[""WOOD TRENCH"", ""Wood Trench""], ""location""=>[""true"", ""false""], ""name""=>[""Brandhoek"", """"], ""lat""=>[""51.09614"", """"], ""long""=>[""4.75553"", """"], ""id""=>[""2801132"", """"]}",3033925,Bécordel-Bécourt,"[2.68529, 49.98689]"
+28,AWD0000uc6,diary,42,2,1916-07-05 22:15:00 UTC,5 Jul 1916,"BOTTOM WOOD, Bottom Wood","[0.0, 0.0]",1015PM,activity,attack,{},3033925,Bécordel-Bécourt,"[2.68529, 49.98689]"
+29,AWD0000uc6,diary,42,6,1916-07-05 22:15:00 UTC,5 Jul 1916,"BOTTOM WOOD, Bottom Wood","[0.0, 0.0]",1015PM,person,Captain Gordon Ralph,"{""first""=>[""Gordon""], ""surname""=>[""Ralph""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""""]}",3033925,Bécordel-Bécourt,"[2.68529, 49.98689]"
+30,AWD0000uc6,diary,42,2,1916-07-05 22:15:00 UTC,5 Jul 1916,"BOTTOM WOOD, Bottom Wood","[0.0, 0.0]",1015PM,activity,attack,{},3033925,Bécordel-Bécourt,"[2.68529, 49.98689]"
+31,AWD0000uc6,diary,42,3,1916-07-05 22:15:00 UTC,5 Jul 1916,Strip Trench,"[0.0, 0.0]",1015PM,place,Strip Trench,"{""place""=>[""Strip Trench""], ""location""=>[""true""], ""name""=>["""", ""Mametz"", ""Brandhoek""], ""lat""=>["""", ""50.63485"", ""51.09614""], ""long""=>["""", ""2.32478"", ""4.75553""], ""id""=>["""", ""2996288"", ""2801132""]}",2970697,Varennes,"[2.53393, 50.04997]"
+37,AWD0000uc6,diary,42,3,1916-07-05 22:15:00 UTC,5 Jul 1916,Strip Trench,"[0.0, 0.0]",1015PM,place,Quadrangle Trench,"{""place""=>[""Quadrangle Trench""], ""location""=>[""false""], ""name""=>[""Mametz"", ""Brandhoek"", """"], ""lat""=>[""50.63485"", ""51.09614"", """"], ""long""=>[""2.32478"", ""4.75553"", """"], ""id""=>[""2996288"", ""2801132"", """"]}",2970697,Varennes,"[2.53393, 50.04997]"
+38,AWD0000uc6,diary,42,2,1916-07-05 22:15:00 UTC,5 Jul 1916,Strip Trench,"[0.0, 0.0]",1015PM,activity,attack,{},2970697,Varennes,"[2.53393, 50.04997]"
+41,AWD0000uc6,diary,42,2,1916-07-05 22:15:00 UTC,5 Jul 1916,Strip Trench,"[0.0, 0.0]",1015PM,place,"WOOD TRENCH, Wood Trench","{""place""=>[""WOOD TRENCH"", ""Wood Trench""], ""location""=>[""true"", ""false""], ""name""=>[""Brandhoek"", """"], ""lat""=>[""51.09614"", """"], ""long""=>[""4.75553"", """"], ""id""=>[""2801132"", """"]}",2970697,Varennes,"[2.53393, 50.04997]"
+43,AWD0000uc6,diary,42,2,1916-07-05 22:15:00 UTC,5 Jul 1916,Strip Trench,"[0.0, 0.0]",1015PM,place,"Wood Trench, WOOD TRENCH","{""place""=>[""Wood Trench"", ""WOOD TRENCH""], ""location""=>[""false"", ""true""], ""name""=>["""", ""Brandhoek""], ""lat""=>["""", ""51.09614""], ""long""=>["""", ""4.75553""], ""id""=>["""", ""2801132""]}",2970697,Varennes,"[2.53393, 50.04997]"
+46,AWD0000uc6,diary,42,3,1916-07-05 22:15:00 UTC,5 Jul 1916,Strip Trench,"[0.0, 0.0]",1015PM,place,Strip Trench,"{""place""=>[""Strip Trench""], ""location""=>[""true""], ""name""=>[""Mametz"", ""Brandhoek"", """"], ""lat""=>[""50.63485"", ""51.09614"", """"], ""long""=>[""2.32478"", ""4.75553"", """"], ""id""=>[""2996288"", ""2801132"", """"]}",2970697,Varennes,"[2.53393, 50.04997]"
+49,AWD0000uc6,diary,42,3,1916-07-05 22:15:00 UTC,5 Jul 1916,Strip Trench,"[0.0, 0.0]",1015PM,activity,fire,{},2970697,Varennes,"[2.53393, 50.04997]"
+50,AWD0000uc6,diary,42,3,1916-07-05 22:15:00 UTC,5 Jul 1916,Strip Trench,"[0.0, 0.0]",1015PM,casualties,killed: 1,{},2970697,Varennes,"[2.53393, 50.04997]"
+51,AWD0000uc6,diary,42,3,1916-07-05 22:15:00 UTC,5 Jul 1916,Strip Trench,"[0.0, 0.0]",1015PM,casualties,wounded: 2,{},2970697,Varennes,"[2.53393, 50.04997]"
+52,AWD0000uc6,diary,42,6,1916-07-05 22:15:00 UTC,5 Jul 1916,Strip Trench,"[0.0, 0.0]",1015PM,person,Captain  Bell,"{""first""=>[""""], ""surname""=>[""Bell""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",2970697,Varennes,"[2.53393, 50.04997]"
+54,AWD0000uc6,diary,42,3,1916-07-05 22:15:00 UTC,5 Jul 1916,Strip Trench,"[0.0, 0.0]",1015PM,casualties,"killed: 1, wounded: 2",{},2970697,Varennes,"[2.53393, 50.04997]"
+2,AWD0000u8s,diary,43,3,1916-07-05 00:00:00 UTC,5 Jul 1916,Strip Trench,"[0.0, 0.0]","",diaryDate,5 Jul 1916,"{""day""=>[""5""], ""month""=>[""Jul""], ""year""=>[""1916""]}",2970697,Varennes,"[2.53393, 50.04997]"
+6,AWD0000u8s,diary,43,4,1916-07-05 00:00:00 UTC,5 Jul 1916,Strip Trench,"[0.0, 0.0]","",activity,withdraw,{},2970697,Varennes,"[2.53393, 50.04997]"
+11,AWD0000u8s,diary,43,5,1916-07-05 00:00:00 UTC,5 Jul 1916,Strip Trench,"[0.0, 0.0]","",person,Captain  O'Reilly,"{""first""=>[""""], ""surname""=>[""O'Reilly""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""""]}",2970697,Varennes,"[2.53393, 50.04997]"
+12,AWD0000u8s,diary,43,5,1916-07-05 00:00:00 UTC,5 Jul 1916,Strip Trench,"[0.0, 0.0]","",activity,attack,{},2970697,Varennes,"[2.53393, 50.04997]"
+13,AWD0000u8s,diary,43,3,1916-07-05 00:00:00 UTC,5 Jul 1916,Strip Trench,"[0.0, 0.0]","",place,Wood Trench,"{""place""=>[""Wood Trench""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2970697,Varennes,"[2.53393, 50.04997]"
+16,AWD0000u8s,diary,43,3,1916-07-05 00:00:00 UTC,5 Jul 1916,Strip Trench,"[0.0, 0.0]","",activity,fire,{},2970697,Varennes,"[2.53393, 50.04997]"
+23,AWD0000u8s,diary,43,4,1916-07-05 00:00:00 UTC,5 Jul 1916,Strip Trench,"[0.0, 0.0]","",activity,withdraw,{},2970697,Varennes,"[2.53393, 50.04997]"
+24,AWD0000u8s,diary,43,4,1916-07-05 00:00:00 UTC,5 Jul 1916,Strip Trench,"[0.0, 0.0]","",person,Captain  O'Reilly,"{""first""=>[""""], ""surname""=>[""O'Reilly""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""A & G Coys"", ""2 Bn Royal Irish Regiment"", """", ""2  Bn Royal Irish Regiment""]}",2970697,Varennes,"[2.53393, 50.04997]"
+33,AWD0000u8s,diary,43,3,1916-07-05 00:00:00 UTC,5 Jul 1916,Strip Trench,"[0.0, 0.0]","",place,Wood Trench,"{""place""=>[""Wood Trench""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2970697,Varennes,"[2.53393, 50.04997]"
+34,AWD0000u8s,diary,43,3,1916-07-05 00:00:00 UTC,5 Jul 1916,Strip Trench,"[0.0, 0.0]","",place,Quadrangle Trench,"{""place""=>[""Quadrangle Trench""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2970697,Varennes,"[2.53393, 50.04997]"
+35,AWD0000u8s,diary,43,2,1916-07-05 00:00:00 UTC,5 Jul 1916,Strip Trench,"[0.0, 0.0]","",activity,attack,{},2970697,Varennes,"[2.53393, 50.04997]"
+38,AWD0000u8s,diary,43,2,1916-07-05 00:00:00 UTC,5 Jul 1916,Strip Trench,"[0.0, 0.0]","",place,Strip Trench,"{""place""=>[""Strip Trench""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2970697,Varennes,"[2.53393, 50.04997]"
+4,AWD0000ua2,diary,44,5,1916-07-05 00:00:00 UTC,5 Jul 1916,Strip Trench,"[0.0, 0.0]","",person,"Captain Gordon, Ralph, Gordon-Ralph","{""first""=>[""Gordon"", """"], ""surname""=>[""Ralph"", ""Gordon-Ralph""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",2970697,Varennes,"[2.53393, 50.04997]"
+8,AWD0000ua2,diary,44,3,1916-07-05 00:00:00 UTC,5 Jul 1916,Strip Trench,"[0.0, 0.0]","",diaryDate,5 Jul 1916,"{""day""=>[""5""], ""month""=>[""Jul""], ""year""=>[""1916""]}",2970697,Varennes,"[2.53393, 50.04997]"
+9,AWD0000ua2,diary,44,6,1916-07-05 00:00:00 UTC,5 Jul 1916,Strip Trench,"[0.0, 0.0]","",person,Lieutenant  Pike,"{""first""=>[""""], ""surname""=>[""Pike""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""combat"", ""other""], ""unit""=>[""""]}",2970697,Varennes,"[2.53393, 50.04997]"
+10,AWD0000ua2,diary,44,2,1916-07-05 00:00:00 UTC,5 Jul 1916,Strip Trench,"[0.0, 0.0]","",activity,attack,{},2970697,Varennes,"[2.53393, 50.04997]"
+11,AWD0000ua2,diary,44,3,1916-07-05 00:00:00 UTC,5 Jul 1916,Strip Trench,"[0.0, 0.0]","",place,Mametz Wood,"{""place""=>[""Mametz Wood""], ""location""=>[""false""], ""name""=>["""", ""Mametz"", ""Brandhoek""], ""lat""=>["""", ""50.63485"", ""51.09614""], ""long""=>["""", ""2.32478"", ""4.75553""], ""id""=>["""", ""2996288"", ""2801132""]}",2970697,Varennes,"[2.53393, 50.04997]"
+12,AWD0000ua2,diary,44,3,1916-07-05 00:00:00 UTC,5 Jul 1916,Strip Trench,"[0.0, 0.0]","",place,Strip Trench,"{""place""=>[""Strip Trench""], ""location""=>[""false""], ""name""=>["""", ""Mametz"", ""Brandhoek""], ""lat""=>["""", ""50.63485"", ""51.09614""], ""long""=>["""", ""2.32478"", ""4.75553""], ""id""=>["""", ""2996288"", ""2801132""]}",2970697,Varennes,"[2.53393, 50.04997]"
+14,AWD0000ua2,diary,44,2,1916-07-05 00:00:00 UTC,5 Jul 1916,Strip Trench,"[0.0, 0.0]","",activity,attack,{},2970697,Varennes,"[2.53393, 50.04997]"
+20,AWD0000ua2,diary,44,4,1916-07-05 00:00:00 UTC,5 Jul 1916,Strip Trench,"[0.0, 0.0]","",person,Captain  Moore-Brabazon,"{""first""=>[""""], ""surname""=>[""Moore-Brabazon""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",2970697,Varennes,"[2.53393, 50.04997]"
+22,AWD0000ua2,diary,44,5,1916-07-05 00:00:00 UTC,5 Jul 1916,Strip Trench,"[0.0, 0.0]","",person,Lieutenant  Blake,"{""first""=>[""""], ""surname""=>[""Blake""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",2970697,Varennes,"[2.53393, 50.04997]"
+25,AWD0000ua2,diary,44,2,1916-07-05 00:00:00 UTC,5 Jul 1916,Strip Trench,"[0.0, 0.0]","",person,"Lieutenant  Blade, Blake","{""first""=>[""""], ""surname""=>[""Blade"", ""Blake""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_kia"", ""casualty_wounded""], ""unit""=>["""", ""OC B Coy 2Bn Royal Irish Regiment""]}",2970697,Varennes,"[2.53393, 50.04997]"
+26,AWD0000ua2,diary,44,4,1916-07-05 00:00:00 UTC,5 Jul 1916,Strip Trench,"[0.0, 0.0]","",activity,attack,{},2970697,Varennes,"[2.53393, 50.04997]"
+27,AWD0000ua2,diary,44,2,1916-07-06 00:00:00 UTC,6 Jul 1916,Strip Trench,"[0.0, 0.0]","",diaryDate,6 Jul 1916,"{""day""=>[""6""], ""month""=>[""Jul""], ""year""=>[""1916""]}",2970697,Varennes,"[2.53393, 50.04997]"
+29,AWD0000ua2,diary,44,6,1916-07-06 03:30:00 UTC,6 Jul 1916,Strip Trench,"[0.0, 0.0]",0330AM,time,0330AM,{},2970697,Varennes,"[2.53393, 50.04997]"
+33,AWD0000ua2,diary,44,3,1916-07-06 03:30:00 UTC,6 Jul 1916,Strip Trench,"[0.0, 0.0]",0330AM,activity,withdraw,{},2970697,Varennes,"[2.53393, 50.04997]"
+35,AWD0000ua2,diary,44,4,1916-07-06 03:30:00 UTC,6 Jul 1916,Mansel Copse,"[0.0, 0.0]",0330AM,place,Mansel Copse,"{""place""=>[""Mansel Copse""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3030478,Bray,"[1.28272, 49.9086]"
+38,AWD0000ua2,diary,44,5,1916-07-06 03:30:00 UTC,6 Jul 1916,Mansel Copse,"[0.0, 0.0]",0330AM,person,Captain  Bell,"{""first""=>[""""], ""surname""=>[""Bell""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",3030478,Bray,"[1.28272, 49.9086]"
+39,AWD0000ua2,diary,44,4,1916-07-06 03:30:00 UTC,6 Jul 1916,Mansel Copse,"[0.0, 0.0]",0330AM,person,Lieutenant  White,"{""first""=>[""""], ""surname""=>[""White""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",3030478,Bray,"[1.28272, 49.9086]"
+41,AWD0000ua2,diary,44,2,1916-07-06 03:30:00 UTC,6 Jul 1916,Mansel Copse,"[0.0, 0.0]",0330AM,casualties,wounded: 125,{},3030478,Bray,"[1.28272, 49.9086]"
+44,AWD0000ua2,diary,44,4,1916-07-06 03:30:00 UTC,6 Jul 1916,Mansel Copse,"[0.0, 0.0]",0330AM,person,Captain  Moore-Brabazon,"{""first""=>[""""], ""surname""=>[""Moore-Brabazon""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3030478,Bray,"[1.28272, 49.9086]"
+46,AWD0000ua2,diary,44,5,1916-07-06 03:30:00 UTC,6 Jul 1916,Mansel Copse,"[0.0, 0.0]",0330AM,person,Captain  O'Reilly,"{""first""=>[""""], ""surname""=>[""O'Reilly""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3030478,Bray,"[1.28272, 49.9086]"
+48,AWD0000ua2,diary,44,5,1916-07-06 03:30:00 UTC,6 Jul 1916,Mansel Copse,"[0.0, 0.0]",0330AM,person,Company Sergeant Major  Burns,"{""first""=>[""""], ""surname""=>[""Burns""], ""rank""=>[""Company Sergeant Major""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3030478,Bray,"[1.28272, 49.9086]"
+49,AWD0000ua2,diary,44,5,1916-07-06 03:30:00 UTC,6 Jul 1916,Mansel Copse,"[0.0, 0.0]",0330AM,person,Lieutenant  Price,"{""first""=>[""""], ""surname""=>[""Price""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3030478,Bray,"[1.28272, 49.9086]"
+50,AWD0000ua2,diary,44,5,1916-07-06 03:30:00 UTC,6 Jul 1916,Mansel Copse,"[0.0, 0.0]",0330AM,person,Lieutenant  Blake,"{""first""=>[""""], ""surname""=>[""Blake""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3030478,Bray,"[1.28272, 49.9086]"
+52,AWD0000ua2,diary,44,4,1916-07-06 03:30:00 UTC,6 Jul 1916,Mansel Copse,"[0.0, 0.0]",0330AM,person,Captain  Gordon-Ralph,"{""first""=>[""""], ""surname""=>[""Gordon-Ralph""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",3030478,Bray,"[1.28272, 49.9086]"
+56,AWD0000ua2,diary,44,3,1916-07-06 03:30:00 UTC,6 Jul 1916,Mansel Copse,"[0.0, 0.0]",0330AM,person,"Chaplain  Fitzmaurice, FITZMANRIE, Fitzmoore","{""first""=>[""""], ""surname""=>[""Fitzmaurice"", ""FITZMANRIE"", ""Fitzmoore""], ""rank""=>[""Chaplain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",3030478,Bray,"[1.28272, 49.9086]"
+57,AWD0000ua2,diary,44,5,1916-07-06 03:30:00 UTC,6 Jul 1916,Mansel Copse,"[0.0, 0.0]",0330AM,person,Regimental Sergeant Major  Carew,"{""first""=>[""""], ""surname""=>[""Carew""], ""rank""=>[""Regimental Sergeant Major""], ""number""=>[""""], ""reason""=>[""award"", ""other""], ""unit""=>[""""]}",3030478,Bray,"[1.28272, 49.9086]"
+4,AWD0000u91,diary,45,5,1916-07-06 03:30:00 UTC,6 Jul 1916,Mansel Copse,"[0.0, 0.0]",0330AM,place,Mansel Copse,"{""place""=>[""Mansel Copse""], ""location""=>[""true""], ""name""=>[""Mametz""], ""lat""=>["""", ""50.63485"", ""49.99718"", ""49.9531"", ""51.09614""], ""long""=>["""", ""2.32478"", ""2.73607"", ""2.53663"", ""4.75553""], ""id""=>["""", ""2996288"", ""2996289"", ""3013583"", ""2801132""]}",3030478,Bray,"[1.28272, 49.9086]"
+6,AWD0000u91,diary,45,5,1916-07-06 03:30:00 UTC,6 Jul 1916,Heilly,"[2.53663, 49.9531]",0330AM,place,Heilly,"{""place""=>[""Heilly""], ""location""=>[""true""], ""name""=>[""Heilly""], ""lat""=>[""49.9531""], ""long""=>[""2.53663""], ""id""=>[""3013583""]}",2797876,Gailly,"[3.9949, 50.58345]"
+8,AWD0000u91,diary,45,4,1916-07-07 00:00:00 UTC,7 Jul 1916,Heilly,"[2.53663, 49.9531]","",diaryDate,7 Jul 1916,"{""day""=>[""7""], ""month""=>[""Jul""], ""year""=>[""1916""]}",2797876,Gailly,"[3.9949, 50.58345]"
+10,AWD0000u91,diary,45,3,1916-07-07 00:00:00 UTC,7 Jul 1916,Heilly,"[2.53663, 49.9531]","",activity,movement,{},2797876,Gailly,"[3.9949, 50.58345]"
+11,AWD0000u91,diary,45,5,1916-07-07 00:00:00 UTC,7 Jul 1916,Heilly,"[2.53663, 49.9531]","",place,Heilly,"{""place""=>[""Heilly""], ""location""=>[""true""], ""name""=>[""Heilly""], ""lat""=>[""49.9531""], ""long""=>[""2.53663""], ""id""=>[""3013583""]}",2797876,Gailly,"[3.9949, 50.58345]"
+12,AWD0000u91,diary,45,3,1916-07-07 00:00:00 UTC,7 Jul 1916,Heilly,"[2.53663, 49.9531]","",activity,training,{},2797876,Gailly,"[3.9949, 50.58345]"
+13,AWD0000u91,diary,45,5,1916-07-08 00:00:00 UTC,8 Jul 1916,Heilly,"[2.53663, 49.9531]","",diaryDate,8 Jul 1916,"{""day""=>[""8""], ""month""=>[""Jul""], ""year""=>[""1916""]}",2797876,Gailly,"[3.9949, 50.58345]"
+15,AWD0000u91,diary,45,2,1916-07-08 00:00:00 UTC,8 Jul 1916,Heilly,"[2.53663, 49.9531]","",activity,training,{},2797876,Gailly,"[3.9949, 50.58345]"
+18,AWD0000u91,diary,45,4,1916-07-08 00:00:00 UTC,8 Jul 1916,Heilly,"[2.53663, 49.9531]","",place,Heilly,"{""place""=>[""Heilly""], ""location""=>[""false"", ""true""], ""name""=>[""Heilly""], ""lat""=>[""49.9531""], ""long""=>[""2.53663""], ""id""=>[""3013583""]}",2797876,Gailly,"[3.9949, 50.58345]"
+19,AWD0000u91,diary,45,2,1916-07-08 00:00:00 UTC,8 Jul 1916,71 South,"[2.53663, 49.9531]","",place,71 South,"{""place""=>[""71 South""], ""location""=>[""true""], ""name""=>[""Heilly""], ""lat""=>[""49.9531""], ""long""=>[""2.53663""], ""id""=>[""3013583""]}",,,
+20,AWD0000u91,diary,45,5,1916-07-11 00:00:00 UTC,11 Jul 1916,71 South,"[2.53663, 49.9531]","",diaryDate,11 Jul 1916,"{""day""=>[""11""], ""month""=>[""Jul""], ""year""=>[""1916""]}",,,
+23,AWD0000u91,diary,45,2,1916-07-11 00:00:00 UTC,11 Jul 1916,71 South,"[2.53663, 49.9531]","",date,11 Jul 1916,{},,,
+26,AWD0000u91,diary,45,2,1916-07-11 00:00:00 UTC,11 Jul 1916,71 South,"[2.53663, 49.9531]","",place,71 South,"{""place""=>[""71 South""], ""location""=>[""true""], ""name""=>[""Heilly""], ""lat""=>[""49.9531""], ""long""=>[""2.53663""], ""id""=>[""3013583""]}",,,
+27,AWD0000u91,diary,45,4,1916-07-13 00:00:00 UTC,13 Jul 1916,71 South,"[2.53663, 49.9531]","",diaryDate,13 Jul 1916,"{""day""=>[""13""], ""month""=>[""Jul""], ""year""=>[""1916""]}",,,
+28,AWD0000u91,diary,45,5,1916-07-13 04:30:00 UTC,13 Jul 1916,71 South,"[2.53663, 49.9531]",0430AM,time,0430AM,{},,,
+30,AWD0000u91,diary,45,3,1916-07-13 04:30:00 UTC,13 Jul 1916,71 South,"[2.53663, 49.9531]",0430AM,activity,attack,{},,,
+31,AWD0000u91,diary,45,2,1916-07-13 04:30:00 UTC,13 Jul 1916,71 South,"[2.53663, 49.9531]",0430AM,activity,movement,{},,,
+32,AWD0000u91,diary,45,4,1916-07-13 04:30:00 UTC,13 Jul 1916,71 South,"[2.53663, 49.9531]",0430AM,place,Mametz Wood,"{""place""=>[""Mametz Wood""], ""location""=>[""true"", ""false""], ""name""=>[""Heilly""], ""lat""=>[""49.9531""], ""long""=>[""2.53663""], ""id""=>[""3013583""]}",,,
+36,AWD0000u91,diary,45,2,1916-07-14 00:00:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]","",diaryDate,14 Jul 1916,"{""day""=>[""14""], ""month""=>[""Jul""], ""year""=>[""1916""]}",,,
+41,AWD0000u91,diary,45,2,1916-07-14 00:00:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]","",place,"CIRCUS TRENCH, Circus Trench","{""place""=>[""CIRCUS TRENCH"", ""Circus Trench""], ""location""=>[""true"", ""false""], ""name""=>[""Heilly""], ""lat""=>[""49.9531""], ""long""=>[""2.53663""], ""id""=>[""3013583""]}",,,
+42,AWD0000u91,diary,45,2,1916-07-14 04:30:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]",0430AM,time,0430AM,{},,,
+43,AWD0000u91,diary,45,5,1916-07-14 04:30:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]",0430AM,activity,attack,{},,,
+44,AWD0000u91,diary,45,2,1916-07-14 04:30:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]",0430AM,time,0430AM,{},,,
+45,AWD0000u91,diary,45,3,1916-07-14 00:00:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]","",diaryDate,14 Jul 1916,"{""day""=>[""14""], ""month""=>[""Jul""], ""year""=>[""1916""]}",,,
+47,AWD0000u91,diary,45,2,1916-07-14 00:00:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]","",place,"Bezentty, Bezentin","{""place""=>[""Bezentty"", ""Bezentin""], ""location""=>[""true"", ""false""], ""name""=>[""Heilly""], ""lat""=>[""49.9531""], ""long""=>[""2.53663""], ""id""=>[""3013583""]}",,,
+48,AWD0000u91,diary,45,4,1916-07-14 00:00:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]","",place,"BEZENTTY-LE-PETIT, Bazentin-le-Petit, bezentin le-petit, Bezentin le petit","{""place""=>[""BEZENTTY-LE-PETIT"", ""Bazentin-le-Petit"", ""bezentin le-petit"", ""Bezentin le petit""], ""location""=>[""true"", ""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+49,AWD0000u91,diary,45,2,1916-07-14 00:00:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]","",unit,"1/ R. War. Regt, 1/ R War Regt","{""name""=>[""1/ R. War. Regt"", ""1/ R War Regt""], ""context""=>[""other""]}",,,
+54,AWD0000u91,diary,45,3,1916-07-14 00:00:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]","",casualties,prisoner: 150,{},,,
+56,AWD0000u91,diary,45,6,1916-07-14 06:30:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]",0630AM,time,0630AM,{},,,
+62,AWD0000u91,diary,45,2,1916-07-14 06:30:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]",0630AM,unit,"R.E, R E","{""name""=>[""R.E"", ""R E""], ""context""=>[""other"", ""joined""]}",,,
+63,AWD0000u91,diary,45,3,1916-07-14 06:30:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]",0630AM,activity,attack,{},,,
+65,AWD0000u91,diary,45,5,1916-07-14 06:30:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]",0630AM,person,Captain  Lighe,"{""first""=>[""""], ""surname""=>[""Lighe""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""""]}",,,
+66,AWD0000u91,diary,45,2,1916-07-14 06:30:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]",0630AM,unit,"C. Coy, A. Coy","{""name""=>[""C. Coy"", ""A. Coy""], ""context""=>[""other""]}",,,
+67,AWD0000u91,diary,45,2,1916-07-14 06:30:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]",0630AM,activity,attack,{},,,
+68,AWD0000u91,diary,45,6,1916-07-14 06:30:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]",0630AM,person,Lieutenant  Hegarty,"{""first""=>[""""], ""surname""=>[""Hegarty""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""""]}",,,
+1,AWD0000uai,diary,46,6,1916-07-14 00:00:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]","",diaryDate,14 Jul 1916,"{""day""=>[""14""], ""month""=>[""Jul""], ""year""=>[""1916""]}",,,
+3,AWD0000uai,diary,46,2,1916-07-14 00:00:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]","",activity,line,{},,,
+6,AWD0000uai,diary,46,2,1916-07-14 00:00:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]","",gridRef,S 8 a 8 7,{},,,
+12,AWD0000uai,diary,46,2,1916-07-14 11:45:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]",1145AM,time,1145AM,{},,,
+13,AWD0000uai,diary,46,2,1916-07-14 11:45:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]",1145AM,activity,enemy_activity,{},,,
+14,AWD0000uai,diary,46,4,1916-07-14 11:45:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]",1145AM,time,1145AM,{},,,
+15,AWD0000uai,diary,46,2,1916-07-14 11:45:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]",1145AM,activity,attack,{},,,
+19,AWD0000uai,diary,46,2,1916-07-14 11:45:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]",1145AM,activity,withdraw,{},,,
+21,AWD0000uai,diary,46,5,1916-07-14 11:45:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]",1145AM,person,Lieutenant  Finlay,"{""first""=>[""""], ""surname""=>[""Finlay""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",,,
+22,AWD0000uai,diary,46,2,1916-07-14 11:45:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]",1145AM,activity,fire,{},,,
+23,AWD0000uai,diary,46,2,1916-07-14 11:45:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]",1145AM,unit,"R. E, R E","{""name""=>[""R. E"", ""R E""], ""context""=>[""other"", ""joined""]}",,,
+2,AWD0000uaz,diary,47,4,1916-07-14 00:00:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]","",diaryDate,14 Jul 1916,"{""day""=>[""14""], ""month""=>[""Jul""], ""year""=>[""1916""]}",,,
+4,AWD0000uaz,diary,47,5,1916-07-14 00:00:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]","",person,"Captain  Light, Tighe","{""first""=>[""""], ""surname""=>[""Light"", ""Tighe""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""casualty_kia""], ""unit""=>[""C Coy"", ""C Company"", ""C. Coy"", ""C Coy 2 Bn Royal Irish Regiment"", """"]}",,,
+7,AWD0000uaz,diary,47,2,1916-07-14 00:00:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]","",diaryDate,14 Jul 1916,"{""day""=>[""14""], ""month""=>[""Jul""], ""year""=>[""1916""]}",,,
+10,AWD0000uaz,diary,47,5,1916-07-14 00:00:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]","",person,Lieutenant  Stuttaford,"{""first""=>[""""], ""surname""=>[""Stuttaford""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+11,AWD0000uaz,diary,47,5,1916-07-14 00:00:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]","",person,Company Sergeant Major  Smith,"{""first""=>[""""], ""surname""=>[""Smith""], ""rank""=>[""Company Sergeant Major""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+14,AWD0000uaz,diary,47,2,1916-07-14 00:00:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]","",activity,enemy_activity,{},,,
+18,AWD0000uaz,diary,47,2,1916-07-14 00:00:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]","",activity,enemy_activity,{},,,
+19,AWD0000uaz,diary,47,2,1916-07-14 00:00:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]","",activity,fire,{},,,
+20,AWD0000uaz,diary,47,4,1916-07-14 12:45:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]",1245PM,time,1245PM,{},,,
+26,AWD0000uaz,diary,47,2,1916-07-14 12:45:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]",1245PM,place,"Wind Mill, WIND MILL","{""place""=>[""Wind Mill"", ""WIND MILL""], ""location""=>[""true"", ""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+28,AWD0000uaz,diary,47,4,1916-07-14 12:45:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]",1245PM,person,Lieutenant  Deane,"{""first""=>[""""], ""surname""=>[""Deane""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",,,
+29,AWD0000uaz,diary,47,3,1916-07-14 12:45:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]",1245PM,casualties,killed: 4,{},,,
+30,AWD0000uaz,diary,47,3,1916-07-14 12:45:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]",1245PM,activity,attack,{},,,
+32,AWD0000uaz,diary,47,2,1916-07-14 12:45:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]",1245PM,place,"Bezenten le petit, Bazentin-le-Petit","{""place""=>[""Bezenten le petit"", ""Bazentin-le-Petit""], ""location""=>[""false""], ""name""=>["""", ""Heilly""], ""lat""=>["""", ""49.9531""], ""long""=>["""", ""2.53663""], ""id""=>["""", ""3013583""]}",,,
+35,AWD0000uaz,diary,47,2,1916-07-14 12:45:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]",1245PM,unit,21st Division,"{""name""=>[""21st Division""], ""context""=>[""relieved_by"", ""other""]}",,,
+1,AWD0000u8f,diary,48,2,1916-07-01 00:00:00 UTC,1 Jul 1916,71 South,"[2.53663, 49.9531]","",diaryDate,1 Jul 1916,"{""day""=>[""1""], ""month""=>[""Jul""], ""year""=>[""1916""]}",,,
+2,AWD0000u8f,diary,48,4,1916-07-14 00:00:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]","",diaryDate,14 Jul 1916,"{""day""=>[""14""], ""month""=>[""Jul""], ""year""=>[""1916""]}",,,
+3,AWD0000u8f,diary,48,2,1916-07-14 14:00:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]",0200PM,time,0200PM,{},,,
+6,AWD0000u8f,diary,48,2,1916-07-14 14:00:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]",0200PM,activity,fire,{},,,
+7,AWD0000u8f,diary,48,3,1916-07-14 14:00:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]",0200PM,person,Lieutenant  Tod,"{""first""=>[""""], ""surname""=>[""Tod""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+9,AWD0000u8f,diary,48,4,1916-07-14 14:00:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]",0200PM,casualties,wounded: 7,{},,,
+10,AWD0000u8f,diary,48,3,1916-07-14 14:00:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]",0200PM,person,Lieutenant  Hodges,"{""first""=>[""""], ""surname""=>[""Hodges""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+11,AWD0000u8f,diary,48,2,1916-07-14 14:00:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]",0200PM,person,Lieutenant  Ryan,"{""first""=>[""""], ""surname""=>[""Ryan""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+13,AWD0000u8f,diary,48,3,1916-07-14 14:00:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]",0200PM,person,Lieutenant  Pollack,"{""first""=>[""""], ""surname""=>[""Pollack""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+14,AWD0000u8f,diary,48,6,1916-07-14 14:00:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]",0200PM,person,Lieutenant  Grant,"{""first""=>[""""], ""surname""=>[""Grant""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+15,AWD0000u8f,diary,48,3,1916-07-14 14:00:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]",0200PM,person,Lieutenant  Pike,"{""first""=>[""""], ""surname""=>[""Pike""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""2 Bn Royal Irish Regiment""]}",,,
+17,AWD0000u8f,diary,48,4,1916-07-14 17:00:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]",0500PM,time,0500PM,{},,,
+18,AWD0000u8f,diary,48,5,1916-07-14 17:00:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]",0500PM,unit,Gordon Highlanders,"{""name""=>[""Gordon Highlanders""], ""context""=>[""joined""]}",,,
+21,AWD0000u8f,diary,48,2,1916-07-14 17:00:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]",0500PM,unit,"Royal Warwickshire Regiment, 2nd Royal Warwickshire Regiment","{""name""=>[""Royal Warwickshire Regiment"", ""2nd Royal Warwickshire Regiment""], ""context""=>[""other""]}",,,
+22,AWD0000u8f,diary,48,4,1916-07-14 19:00:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]",0700PM,time,0700PM,{},,,
+28,AWD0000u8f,diary,48,2,1916-07-14 19:00:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]",0700PM,activity,movement,{},,,
+29,AWD0000u8f,diary,48,3,1916-07-14 19:00:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]",0700PM,place,Mametz Wood,"{""place""=>[""Mametz Wood""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+30,AWD0000u8f,diary,48,2,1916-07-14 19:00:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]",0700PM,casualties,wounded: 334,{},,,
+31,AWD0000u8f,diary,48,2,1916-07-14 19:00:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]",0700PM,reference,Appendix III,{},,,
+34,AWD0000u8f,diary,48,3,1916-07-14 20:00:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]",0800PM,time,0800PM,{},,,
+38,AWD0000u8f,diary,48,2,1916-07-14 20:00:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]",0800PM,time,0800PM,{},,,
+39,AWD0000u8f,diary,48,2,1916-07-14 20:00:00 UTC,14 Jul 1916,71 South,"[2.53663, 49.9531]",0800PM,unit,"1st Cavalry, Cavalry","{""name""=>[""1st Cavalry"", ""Cavalry""], ""context""=>[""other""]}",,,
+1,AWD0000ubx,diary,49,4,1916-07-15 00:00:00 UTC,15 Jul 1916,71 South,"[2.53663, 49.9531]","",diaryDate,15 Jul 1916,"{""day""=>[""15""], ""month""=>[""Jul""], ""year""=>[""1916""]}",,,
+5,AWD0000ubx,diary,49,2,1916-07-15 00:00:00 UTC,15 Jul 1916,"Mametz Wood, Nametz Wood","[2.53393, 50.04997]","",place,"Mametz Wood, Nametz Wood","{""place""=>[""Mametz Wood"", ""Nametz Wood""], ""location""=>[""true""], ""name""=>["""", ""Varennes""], ""lat""=>["""", ""50.04997""], ""long""=>["""", ""2.53393""], ""id""=>["""", ""2970697""]}",,,
+7,AWD0000ubx,diary,49,2,1916-07-15 00:00:00 UTC,15 Jul 1916,"Mametz Wood, Nametz Wood","[2.53393, 50.04997]","",diaryDate,15 Jul 1916,"{""day""=>[""15""], ""month""=>[""Jul""], ""year""=>[""1916""]}",,,
+8,AWD0000ubx,diary,49,3,1916-07-15 00:00:00 UTC,15 Jul 1916,"Mametz Wood, Nametz Wood","[2.53393, 50.04997]","",activity,resting,{},,,
+9,AWD0000ubx,diary,49,2,1916-07-15 00:00:00 UTC,15 Jul 1916,"Mametz Wood, Nametz Wood","[2.53393, 50.04997]","",domestic,accomodation,{},,,
+11,AWD0000ubx,diary,49,4,1916-07-16 00:00:00 UTC,16 Jul 1916,"Mametz Wood, Nametz Wood","[2.53393, 50.04997]","",diaryDate,16 Jul 1916,"{""day""=>[""16""], ""month""=>[""Jul""], ""year""=>[""1916""]}",,,
+12,AWD0000ubx,diary,49,4,1916-07-20 00:00:00 UTC,20 Jul 1916,"Mametz Wood, Nametz Wood","[2.53393, 50.04997]","",diaryDate,20 Jul 1916,"{""day""=>[""20""], ""month""=>[""Jul""], ""year""=>[""1916""]}",,,
+13,AWD0000ubx,diary,49,3,1916-07-20 00:00:00 UTC,20 Jul 1916,Mametz Wood,"[0.0, 0.0]","",place,Mametz Wood,"{""place""=>[""Mametz Wood""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3038271,Albert,"[2.65096, 50.00091]"
+14,AWD0000ubx,diary,49,2,1916-07-20 00:00:00 UTC,20 Jul 1916,Mametz Wood,"[0.0, 0.0]","",place,mametz,"{""place""=>[""mametz""], ""location""=>[""false""], ""name""=>["""", ""Mametz""], ""lat""=>["""", ""50.63485""], ""long""=>["""", ""2.32478""], ""id""=>["""", ""2996288""]}",3038271,Albert,"[2.65096, 50.00091]"
+15,AWD0000ubx,diary,49,5,1916-07-20 00:00:00 UTC,20 Jul 1916,Mametz Wood,"[0.0, 0.0]","",activity,movement,{},3038271,Albert,"[2.65096, 50.00091]"
+18,AWD0000ubx,diary,49,5,1916-07-20 00:00:00 UTC,20 Jul 1916,Dorlancourt,"[2.53393, 50.04997]","",place,Dorlancourt,"{""place""=>[""Dorlancourt""], ""location""=>[""true""], ""name""=>["""", ""Varennes""], ""lat""=>["""", ""50.04997""], ""long""=>["""", ""2.53393""], ""id""=>["""", ""2970697""]}",,,
+21,AWD0000ubx,diary,49,5,1916-07-21 00:00:00 UTC,21 Jul 1916,Dorlancourt,"[2.53393, 50.04997]","",diaryDate,21 Jul 1916,"{""day""=>[""21""], ""month""=>[""Jul""], ""year""=>[""1916""]}",,,
+24,AWD0000ubx,diary,49,2,1916-07-21 00:00:00 UTC,21 Jul 1916,Dorlancourt,"[2.53393, 50.04997]","",activity,resting,{},,,
+25,AWD0000ubx,diary,49,5,1916-07-21 00:00:00 UTC,21 Jul 1916,dorlancourt,"[0.0, 0.0]","",place,dorlancourt,"{""place""=>[""dorlancourt""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+26,AWD0000ubx,diary,49,5,1916-07-22 00:00:00 UTC,22 Jul 1916,dorlancourt,"[0.0, 0.0]","",diaryDate,22 Jul 1916,"{""day""=>[""22""], ""month""=>[""Jul""], ""year""=>[""1916""]}",,,
+27,AWD0000ubx,diary,49,4,1916-07-22 00:00:00 UTC,22 Jul 1916,Mericourt,"[2.86246, 50.40116]","",place,Mericourt,"{""place""=>[""Mericourt""], ""location""=>[""true""], ""name""=>[""Méricourt""], ""lat""=>[""50.40116""], ""long""=>[""2.86246""], ""id""=>[""2994401""]}",2991869,Morcourt,"[2.65065, 49.89196]"
+28,AWD0000ubx,diary,49,8,1916-07-22 00:00:00 UTC,22 Jul 1916,Mericourt,"[2.86246, 50.40116]","",activity,movement,{},2991869,Morcourt,"[2.65065, 49.89196]"
+29,AWD0000ubx,diary,49,3,1916-07-22 00:00:00 UTC,22 Jul 1916,La Chaussee,"[0.0, 0.0]","",place,La Chaussee,"{""place""=>[""La Chaussee""], ""location""=>[""true""], ""name""=>[""Varennes"", ""La Chaussée"", """"], ""lat""=>[""50.04997"", ""50.49042"", """"], ""long""=>[""2.53393"", ""4.38065"", """"], ""id""=>[""2970697"", ""2793704"", """"]}",2793704,La Chaussée,"[4.38065, 50.49042]"
+31,AWD0000ubx,diary,49,2,1916-07-23 00:00:00 UTC,23 Jul 1916,La Chaussee,"[0.0, 0.0]","",diaryDate,23 Jul 1916,"{""day""=>[""23""], ""month""=>[""Jul""], ""year""=>[""1916""]}",2793704,La Chaussée,"[4.38065, 50.49042]"
+33,AWD0000ubx,diary,49,3,1916-07-23 00:00:00 UTC,23 Jul 1916,La Chaussee,"[0.0, 0.0]","",activity,training,{},2793704,La Chaussée,"[4.38065, 50.49042]"
+34,AWD0000ubx,diary,49,3,1916-07-23 00:00:00 UTC,23 Jul 1916,La Chaussee,"[0.0, 0.0]","",domestic,sport,{},2793704,La Chaussée,"[4.38065, 50.49042]"
+35,AWD0000ubx,diary,49,6,1916-07-23 00:00:00 UTC,23 Jul 1916,la chaussee,"[0.0, 0.0]","",place,la chaussee,"{""place""=>[""la chaussee""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2793704,La Chaussée,"[4.38065, 50.49042]"
+37,AWD0000ubx,diary,49,5,1916-07-23 00:00:00 UTC,23 Jul 1916,la chaussee,"[0.0, 0.0]","",activity,resting,{},2793704,La Chaussée,"[4.38065, 50.49042]"
+38,AWD0000ubx,diary,49,4,1916-07-31 00:00:00 UTC,31 Jul 1916,la chaussee,"[0.0, 0.0]","",diaryDate,31 Jul 1916,"{""day""=>[""31""], ""month""=>[""Jul""], ""year""=>[""1916""]}",2793704,La Chaussée,"[4.38065, 50.49042]"
+7,AWD0000ucy,"signals, orders, report",51,3,,,,[],,date,14 Jun 1916,{},,,
+12,AWD0000ucy,"signals, orders, report",51,6,,,,[],,reference,Somme,{},,,
+13,AWD0000ucy,"signals, orders, report",51,3,,,,[],,reference,Brazentin-le-Petit Wood,{},,,
+14,AWD0000ucy,"signals, orders, report",51,3,,,,[],,reference,Pozieres,{},,,
+15,AWD0000ucy,"signals, orders, report",51,3,,,,[],,reference,Longueval,{},,,
+16,AWD0000ucy,"signals, orders, report",51,3,,,,[],,reference,Brazentin-le-Grand,{},,,
+17,AWD0000ucy,"signals, orders, report",51,3,,,,[],,reference,Quadrangle Trench,{},,,
+18,AWD0000ucy,"signals, orders, report",51,3,,,,[],,reference,Quadrangle,{},,,
+19,AWD0000ucy,"signals, orders, report",51,3,,,,[],,reference,Willow Stream,{},,,
+20,AWD0000ucy,"signals, orders, report",51,3,,,,[],,reference,Willow Avenue Stream,{},,,
+22,AWD0000ucy,"signals, orders, report",51,3,,,,[],,reference,Fricourt Farm,{},,,
+23,AWD0000ucy,"signals, orders, report",51,3,,,,[],,reference,The Poodles,{},,,
+24,AWD0000ucy,"signals, orders, report",51,3,,,,[],,reference,Crucifix Trench,{},,,
+25,AWD0000ucy,"signals, orders, report",51,3,,,,[],,reference,Round Wood,{},,,
+26,AWD0000ucy,"signals, orders, report",51,3,,,,[],,reference,Fricourt,{},,,
+27,AWD0000ucy,"signals, orders, report",51,3,,,,[],,reference,Lozenge Alley,{},,,
+1,AWD0000ubz,orders,52,2,,,,[],,orders,attack,{},,,
+25,AWD0000ubz,orders,52,3,,,,[],,reference,Fricourt Wood,{},,,
+3,AWD0000ua0,orders,53,3,,,,[],,orders,attack,{},,,
+16,AWD0000ua0,orders,53,2,,,,[],,date,14 Jun 1916,{},,,
+17,AWD0000ua0,orders,53,2,,,,[],,person,",Captain H F,H B Chads","{""first""=>[""H F"", ""H B""], ""surname""=>[""Chads""], ""rank""=>["""", ""Captain""], ""number""=>["""", ""Brigade Major""], ""reason""=>[""author""], ""unit""=>[""22nd Infantry Brigade"", ""22nd Brigade""]}",,,
+18,AWD0000ua0,orders,53,2,,,,[],,person,"Captain ,H B ","{""first""=>["""", ""H B""], ""surname""=>[""""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+1,AWD0000ubv,orders,54,3,,,,[],,date,14 Jun 1916,{},,,
+4,AWD0000ubv,orders,54,3,,,,[],,date,14 Jun 1916,{},,,
+10,AWD0000ubv,orders,54,3,,,,[],,person,"Captain H F,H P, Chads","{""first""=>[""H F"", ""H P"", """"], ""surname""=>[""Chads""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""Brig. Maj. 22nd Infantry Brigade"", ""22nd Infantry Brigade"", """"]}",,,
+12,AWD0000ubv,orders,54,2,,,,[],,person,"Captain,  ","{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""Captain"", """"], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+3,AWD0000ubl,report,55,2,,,,[],,reference,Appendix ii,{},,,
+6,AWD0000ubl,report,55,3,,,,[],,date,4 Jul 1916,{},,,
+7,AWD0000ubl,report,55,3,,,,[],,diaryDate,4 Jul 1916,"{""day""=>[""4""], ""month""=>[""Jul""], ""year""=>[""1916""]}",,,
+16,AWD0000ubl,report,55,3,,,,[],,person,Lieutenant  Tod,"{""first""=>[""""], ""surname""=>[""Tod""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""""]}",,,
+17,AWD0000ubl,report,55,2,,,,[],,time,0200AM,{},,,
+10,AWD0000u8g,report,56,3,,,,[],,person,Second Lieutenant  Perrin,"{""first""=>[""""], ""surname""=>[""Perrin""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""""]}",,,
+11,AWD0000u8g,report,56,5,,,,[],,person,Captain S Ralph,"{""first""=>[""S""], ""surname""=>[""Ralph""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""""]}",,,
+13,AWD0000ud9,report,58,5,,,,[],,person,Lieutenant  Usher,"{""first""=>[""""], ""surname""=>[""Usher""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",,,
+14,AWD0000ud9,report,58,4,,,,[],,person,Second Lieutenant  Kerr,"{""first""=>[""""], ""surname""=>[""Kerr""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",,,
+17,AWD0000ud9,report,58,4,,,,[],,person,Second Lieutenant  Perrin,"{""first""=>[""""], ""surname""=>[""Perrin""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""Grenade Company""]}",,,
+4,AWD0000u9z,orders,59,2,,,,[],,orders,attack,{},,,
+6,AWD0000u9z,orders,59,2,,,,[],,reference,appendix 3,{},,,
+7,AWD0000u9z,orders,59,2,,,,[],,reference,Appendix iii,{},,,
+11,AWD0000u9z,orders,59,2,,,,[],,orders,attack,{},,,
+12,AWD0000u9z,orders,59,2,,,,[],,reference,Operation Order 79,{},,,
+13,AWD0000u9z,orders,59,2,,,,[],,date,14 Jul 1916,{},,,
+2,AWD0000u8j,orders,60,2,,,,[],,orders,attack,{},,,
+4,AWD0000u8j,orders,60,2,,,,[],,reference,iii,{},,,
+7,AWD0000u8j,orders,60,2,,,,[],,reference,IV,{},,,
+3,AWD0000u8i,orders,61,3,,,,[],,orders,attack,{},,,
+2,AWD0000ud8,orders,62,4,,,,[],,orders,attack,{},,,
+6,AWD0000ud8,orders,62,2,,,,[],,reference,VII,{},,,
+2,AWD0000u6l,orders,63,2,,,,[],,orders,attack,{},,,
+2,AWD0000u8n,orders,64,3,,,,[],,orders,attack,{},,,
+10,AWD0000u8n,orders,64,2,,,,[],,reference,X,{},,,
+11,AWD0000u8n,orders,64,3,,,,[],,person,Lieutenant  Barton,"{""first""=>[""""], ""surname""=>[""Barton""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>["""", ""2Bn Royal Irish Regiment"", ""2Btn Royal Irish Regiment""]}",,,
+1,AWD0000u90,orders,65,3,,,,[],,orders,attack,{},,,
+3,AWD0000ub7,"signals, other, diary",67,2,,,,[],,unit,"R WAr, RWF","{""name""=>[""R WAr"", ""RWF""], ""context""=>[""other""]}",,,
+20,AWD0000u7t,"signals, other",68,2,,,,[],,time,1045PM,{},,,
+1,AWD0000u9s,orders,69,2,,,,[],,orders,attack,{},,,
+3,AWD0000u9s,orders,69,2,,,,[],,title,Appendix A with Reference to Operation Order 82,{},,,
+1,AWD0000uaj,orders,70,3,,,,[],,orders,attack,{},,,
+1,AWD0000u8e,orders,71,2,,,,[],,orders,attack,{},,,
+4,AWD0000u8e,orders,71,2,,,,[],,person,"Captain ,H F Chads","{""first""=>["""", ""H F""], ""surname""=>[""Chads""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""22 Infantry Bde"", ""22nd Infantry Brigade""]}",,,
+6,AWD0000u8e,orders,71,2,,,,[],,diaryDate,13 Jul 1916,"{""day""=>[""13""], ""month""=>[""Jul""], ""year""=>[""1916""]}",,,
+7,AWD0000u8e,orders,71,3,,,,[],,date,13 Jul 1916,{},,,
+1,AWD0000u7i,signals,72,3,,,,[],,person,Lieutenant  Pike,"{""first""=>[""""], ""surname""=>[""Pike""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>["""", ""2Bn Royal Irish Regiment"", ""2nd Bn Royal Irish Regiment""]}",,,
+3,AWD0000u7i,signals,72,5,,,,[],,person,Colonel  Dugan,"{""first""=>[""""], ""surname""=>[""Dugan""], ""rank""=>[""Colonel""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+11,AWD0000u7i,signals,72,4,,,,[],,time,0610AM,{},,,
+12,AWD0000u7i,signals,72,4,,,,[],,date,14 Jul 1916,{},,,
+15,AWD0000u7i,signals,72,2,,,,[],,signals,situation,{},,,
+3,AWD0000uaa,signals,73,3,,,,[],,signals,situation,{},,,
+5,AWD0000uaa,signals,73,4,,,,[],,person,"Captain J J,,J P,J S Tighe","{""first""=>[""J J"", """", ""J P"", ""J S""], ""surname""=>[""Tighe""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+9,AWD0000uaa,signals,73,2,,,,[],,signals,situation,{},,,
+10,AWD0000uaa,signals,73,2,,,,[],,person,"Second Lieutenant,Lieutenant  Ryan","{""first""=>[""""], ""surname""=>[""Ryan""], ""rank""=>[""Second Lieutenant"", ""Lieutenant""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+4,AWD0000uar,"signals, report",74,2,,,,[],,person,  ,"{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""""], ""number""=>["""", ""'A. Coy""], ""reason""=>[""combat"", ""other""], ""unit""=>[""O Cmdg 2 R I Reg"", """"]}",,,
+7,AWD0000uar,"signals, report",74,4,,,,[],,time,0700AM,{},,,
+11,AWD0000uar,"signals, report",74,4,,,,[],,time,0710AM,{},,,
+12,AWD0000uar,"signals, report",74,5,,,,[],,date,14 Jul 1916,{},,,
+6,AWD0000u79,report,75,5,,,,[],,date,14 Jul 1916,{},,,
+10,AWD0000u79,report,75,3,,,,[],,person,"Second Lieutenant,,Lieutenant  Young","{""first""=>[""""], ""surname""=>[""Young""], ""rank""=>[""Second Lieutenant"", """", ""Lieutenant""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+5,AWD0000u8z,"signals, report",76,2,,,,[],,signals,situation,{},,,
+9,AWD0000u8z,"signals, report",76,6,,,,[],,time,0730AM,{},,,
+11,AWD0000u8z,"signals, report",76,5,,,,[],,date,14 Jul 1916,{},,,
+14,AWD0000u8z,"signals, report",76,2,,,,[],,signals,situation,{},,,
+15,AWD0000u8z,"signals, report",76,3,,,,[],,person,"Lieutenant ,Geo,Geof Finlay","{""first""=>["""", ""Geo"", ""Geof""], ""surname""=>[""Finlay""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+4,AWD0000ua6,signals,77,5,,,,[],,time,0745AM,{},,,
+6,AWD0000ua6,signals,77,2,,,,[],,signals,situation,{},,,
+10,AWD0000ua6,signals,77,2,,,,[],,person,"  Staffaford, Stattaford","{""first""=>[""""], ""surname""=>[""Staffaford"", ""Stattaford""], ""rank""=>[""""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>["""", ""C Coy Supports ""]}",,,
+12,AWD0000ua6,signals,77,5,,,,[],,time,0750AM,{},,,
+13,AWD0000ua6,signals,77,2,,,,[],,signals,situation,{},,,
+18,AWD0000ua6,signals,77,3,,,,[],,person,  Jennison,"{""first""=>[""""], ""surname""=>[""Jennison""], ""rank""=>[""""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""O C Stokes Battery"", ""Stokes Battery"", ""OC Stokes Battery""]}",,,
+5,AWD0000ua7,signals,78,2,,,,[],,signals,situation,{},,,
+7,AWD0000ua7,signals,78,2,,,,[],,person,"Captain J S,J J Tighe","{""first""=>[""J S"", ""J J""], ""surname""=>[""Tighe""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author"", ""combat""], ""unit""=>[""C Coy 2Bn Royal Irish Regiment"", ""C Coy 2nd Bn Royal Irish Regiment""]}",,,
+8,AWD0000ua7,signals,78,4,,,,[],,time,0830AM,{},,,
+10,AWD0000ua7,signals,78,3,,,,[],,date,14 Jul 1916,{},,,
+13,AWD0000ua7,signals,78,2,,,,[],,time,0900AM,{},,,
+14,AWD0000ua7,signals,78,3,,,,[],,person,"Captain J S,J P,J J Tighe","{""first""=>[""J S"", ""J P"", ""J J""], ""surname""=>[""Tighe""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""C Coy 2 Bn Royal Irish Regiment"", """", ""C Coy 2nd Bn Royal Irish Regiment""]}",,,
+16,AWD0000ua7,signals,78,3,,,,[],,date,14 Jul 1916,{},,,
+3,AWD0000u8u,"signals, orders",79,2,,,,[],,orders,attack,{},,,
+1,AWD0000uan,"signals, orders",80,2,,,,[],,orders,attack,{},,,
+13,AWD0000uan,"signals, orders",80,2,,,,[],,person,"Captain, H F Chads","{""first""=>[""H F""], ""surname""=>[""Chads""], ""rank""=>[""Captain"", """"], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""22nd Infantry Brigade"", ""22 Inf Bde""]}",,,
+5,AWD0000ucf,signals,81,3,,,,[],,date,14 Jul 1916,{},,,
+7,AWD0000ucf,signals,81,2,,,,[],,signals,order,{},,,
+8,AWD0000ucf,signals,81,3,,,,[],,signals,request,{},,,
+9,AWD0000ucf,signals,81,2,,,,[],,time,1040AM,{},,,
+1,AWD0000udc,signals,82,3,,,,[],,signals,request,{},,,
+2,AWD0000udc,signals,82,3,,,,[],,unit,7th Division,"{""name""=>[""7th Division""], ""context""=>[""other""]}",,,
+4,AWD0000udc,signals,82,2,,,,[],,signals,request,{},,,
+1,AWD0000uch,signals,83,2,,,,[],,date,14 Jul 1916,{},,,
+3,AWD0000uch,signals,83,3,,,,[],,date,14 Jul 1916,{},,,
+6,AWD0000uch,signals,83,6,,,,[],,time,1120AM,{},,,
+1,AWD0000u8w,signals,84,2,,,,[],,signals,situation,{},,,
+6,AWD0000u8w,signals,84,3,,,,[],,time,1130AM,{},,,
+7,AWD0000u8w,signals,84,2,,,,[],,person,"Captain ,J J Tighe","{""first""=>["""", ""J J""], ""surname""=>[""Tighe""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author"", ""combat""], ""unit""=>["""", ""C Coy 2nd Bn Royal Irish Regiment""]}",,,
+8,AWD0000u8w,signals,84,6,,,,[],,date,14 Jul 1916,{},,,
+10,AWD0000u8w,signals,84,2,,,,[],,person,"Captain ,J S Tighe","{""first""=>["""", ""J S""], ""surname""=>[""Tighe""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other"", ""author""], ""unit""=>[""'C' Coy"", ""C Coy 2 Bn Royal Irish Regiment""]}",,,
+3,AWD0000u8o,signals,85,4,,,,[],,date,14 Jul 1916,{},,,
+4,AWD0000u8o,signals,85,2,,,,[],,signals,warning,{},,,
+5,AWD0000u8o,signals,85,2,,,,[],,signals,order,{},,,
+6,AWD0000u8o,signals,85,2,,,,[],,unit,"warwicks, Warwicks","{""name""=>[""warwicks"", ""Warwicks""], ""context""=>[""other"", ""left""]}",,,
+8,AWD0000u8o,signals,85,2,,,,[],,time,1145AM,{},,,
+10,AWD0000u8o,signals,85,4,,,,[],,time,1145AM,{},,,
+2,AWD0000u6w,signals,86,5,,,,[],,date,14 Jul 1916,{},,,
+4,AWD0000u6w,signals,86,2,,,,[],,signals,situation,{},,,
+6,AWD0000u6w,signals,86,2,,,,[],,person,"  G A B Y, Gaby","{""first""=>[""""], ""surname""=>[""G A B Y"", ""Gaby""], ""rank""=>[""""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+7,AWD0000u6w,signals,86,2,,,,[],,time,1225PM,{},,,
+8,AWD0000u6w,signals,86,2,,,,[],,time,1225AM,{},,,
+9,AWD0000u6w,signals,86,2,,,,[],,time,1225PM,{},,,
+2,AWD0000ub6,signals,87,2,,,,[],,signals,situation,{},,,
+3,AWD0000ub6,signals,87,4,,,,[],,date,14 Jul 1916,{},,,
+5,AWD0000ub6,signals,87,3,,,,[],,signals,other,{},,,
+10,AWD0000ub6,signals,87,4,,,,[],,time,1250PM,{},,,
+11,AWD0000ub6,signals,87,2,,,,[],,time,1250AM,{},,,
+3,AWD0000u9q,signals,88,3,,,,[],,person,"  CAGE, CAFF, Gage","{""first""=>[""""], ""surname""=>[""CAGE"", ""CAFF"", ""Gage""], ""rank""=>[""""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+5,AWD0000u9q,signals,88,2,,,,[],,signals,other,{},,,
+7,AWD0000u9q,signals,88,2,,,,[],,person,"  C A B Y, Gaby","{""first""=>[""""], ""surname""=>[""C A B Y"", ""Gaby""], ""rank""=>[""""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+3,AWD0000u8h,signals,89,3,,,,[],,time,1255PM,{},,,
+8,AWD0000u8h,signals,89,5,,,,[],,signals,request,{},,,
+13,AWD0000u8h,signals,89,2,,,,[],,person,"Captain C H , ??","{""first""=>[""C H""], ""surname""=>["""", ""??""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""combat"", ""author""], ""unit""=>[""24th Manchester Regt""]}",,,
+14,AWD0000u8h,signals,89,5,,,,[],,date,14 Jul 1916,{},,,
+16,AWD0000u8h,signals,89,3,,,,[],,time,1255PM,{},,,
+17,AWD0000u8h,signals,89,2,,,,[],,date,14 Jul 1916,{},,,
+18,AWD0000u8h,signals,89,2,,,,[],,time,1255AM,{},,,
+2,AWD0000ud0,signals,90,2,,,,[],,signals,situation,{},,,
+5,AWD0000ud0,signals,90,5,,,,[],,person,"Company Sergeant Major  Hendy, Hendry","{""first""=>[""""], ""surname""=>[""Hendy"", ""Hendry""], ""rank""=>[""Company Sergeant Major""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""""]}",,,
+6,AWD0000ud0,signals,90,3,,,,[],,person,Captain  Lowe,"{""first""=>[""""], ""surname""=>[""Lowe""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+8,AWD0000ud0,signals,90,3,,,,[],,person,Captain  Lowe,"{""first""=>[""""], ""surname""=>[""Lowe""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+10,AWD0000ud0,signals,90,5,,,,[],,time,0130PM,{},,,
+12,AWD0000ud0,signals,90,2,,,,[],,signals,situation,{},,,
+17,AWD0000ud0,signals,90,2,,,,[],,person,  ,"{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+1,AWD0000u8p,signals,91,2,,,,[],,signals,situation,{},,,
+2,AWD0000u8p,signals,91,2,,,,[],,unit,"9th Leic Regt, 8th Leic Regt","{""name""=>[""9th Leic Regt"", ""8th Leic Regt""], ""context""=>[""other""]}",,,
+3,AWD0000u8p,signals,91,4,,,,[],,unit,"9th Leicestershire, 8th Leicestershire, 7th Leicestershire, 6th Leicestershire","{""name""=>[""9th Leicestershire"", ""8th Leicestershire"", ""7th Leicestershire"", ""6th Leicestershire""], ""context""=>[""other""]}",,,
+4,AWD0000u8p,signals,91,2,,,,[],,unit,"6th Leic Regt, 7th Leic Regt","{""name""=>[""6th Leic Regt"", ""7th Leic Regt""], ""context""=>[""other""]}",,,
+5,AWD0000u8p,signals,91,2,,,,[],,unit,"Manchester Regt, Manchester Reg","{""name""=>[""Manchester Regt"", ""Manchester Reg""], ""context""=>[""other""]}",,,
+8,AWD0000u8p,signals,91,2,,,,[],,signals,situation,{},,,
+9,AWD0000u8p,signals,91,2,,,,[],,date,14 Jul 1916,{},,,
+12,AWD0000u8p,signals,91,3,,,,[],,unit,Gordons,"{""name""=>[""Gordons""], ""context""=>[""left""]}",,,
+15,AWD0000u8p,signals,91,2,,,,[],,unit,"20th Manchesters, 20th Manchester","{""name""=>[""20th Manchesters"", ""20th Manchester""], ""context""=>[""other""]}",,,
+20,AWD0000u8p,signals,91,4,,,,[],,time,0200PM,{},,,
+6,AWD0000u9r,signals,92,3,,,,[],,time,0245PM,{},,,
+8,AWD0000u9r,signals,92,5,,,,[],,date,14 Jul 1916,{},,,
+9,AWD0000u9r,signals,92,2,,,,[],,person,"Captain G,A Forbes, Fowles","{""first""=>[""G"", ""A""], ""surname""=>[""Forbes"", ""Fowles""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""OC A Co R WAr Regt"", ""G A F F""]}",,,
+4,AWD0000uce,signals,93,2,,,,[],,signals,situation,{},,,
+5,AWD0000uce,signals,93,3,,,,[],,gridRef,S 15 a 2 2,{},,,
+7,AWD0000uce,signals,93,2,,,,[],,person,Captain B Lewis,"{""first""=>[""B""], ""surname""=>[""Lewis""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author"", ""other""], ""unit""=>[""1st R W F"", """"]}",,,
+8,AWD0000uce,signals,93,6,,,,[],,time,0310PM,{},,,
+9,AWD0000uce,signals,93,6,,,,[],,date,14 Jul 1916,{},,,
+2,AWD0000uad,signals,94,3,,,,[],,person,Second Lieutenant  Grant,"{""first""=>[""""], ""surname""=>[""Grant""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""2nd Royal Irish Regiment"", """", ""2 RI""]}",,,
+6,AWD0000uad,signals,94,2,,,,[],,unit,"Leicesters, Leicester","{""name""=>[""Leicesters"", ""Leicester""], ""context""=>[""joined""]}",,,
+13,AWD0000uad,signals,94,2,,,,[],,person,"Lieutenant,Second Lieutenant H Grant","{""first""=>[""H""], ""surname""=>[""Grant""], ""rank""=>[""Lieutenant"", ""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""author"", ""combat""], ""unit""=>[""2 Bn Royal Irish Regiment"", """"]}",,,
+14,AWD0000uad,signals,94,3,,,,[],,time,0320PM,{},,,
+15,AWD0000uad,signals,94,6,,,,[],,date,14 Jul 1916,{},,,
+6,AWD0000u8v,signals,95,3,,,,[],,person,"Lieutenant Colonel ,W,W J Dugan","{""first""=>["""", ""W"", ""W J""], ""surname""=>[""Dugan""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""OC 2 R Irish"", ""2nd Royal Irish Regiment"", ""2 R Irish""]}",,,
+9,AWD0000u8v,signals,95,2,,,,[],,signals,situation,{},,,
+10,AWD0000u8v,signals,95,6,,,,[],,date,14 Jul 1916,{},,,
+12,AWD0000u8v,signals,95,6,,,,[],,time,0620PM,{},,,
+15,AWD0000u8v,signals,95,3,,,,[],,unit,Welsh Fusiliers,"{""name""=>[""Welsh Fusiliers""], ""context""=>[""other""]}",,,
+16,AWD0000u8v,signals,95,3,,,,[],,gridRef,S 14 b 9 9,{},,,
+18,AWD0000u8v,signals,95,2,,,,[],,person,",Lieutenant A G Latham, Fentham?","{""first""=>[""A G""], ""surname""=>[""Latham"", ""Fentham?""], ""rank""=>["""", ""Lieutenant""], ""number""=>[""""], ""reason""=>[""author"", ""other""], ""unit""=>[""""]}",,,
+1,AWD0000u95,orders,96,2,,,,[],,signals,order,{},,,
+2,AWD0000u95,orders,96,6,,,,[],,date,14 Jul 1916,{},,,
+8,AWD0000u95,orders,96,2,,,,[],,unit,1st RW Fusiliers,"{""name""=>[""1st RW Fusiliers""], ""context""=>[""right""]}",,,
+14,AWD0000u95,orders,96,3,,,,[],,gridRef,S 8 b 6 8,{},,,
+6,AWD0000u6q,orders,97,2,,,,[],,unit,"122nd Brigade R F A, 122nd Brigade RFA","{""name""=>[""122nd Brigade R F A"", ""122nd Brigade RFA""], ""context""=>[""other"", ""joined""]}",,,
+7,AWD0000u6q,orders,97,2,,,,[],,unit,"35th Brigade R F A, 35th Brigade RFA","{""name""=>[""35th Brigade R F A"", ""35th Brigade RFA""], ""context""=>[""other"", ""joined""]}",,,
+8,AWD0000u6q,orders,97,2,,,,[],,unit,"35 Bde RFA, 122 Bde RFA","{""name""=>[""35 Bde RFA"", ""122 Bde RFA""], ""context""=>[""other""]}",,,
+15,AWD0000u6q,orders,97,2,,,,[],,time,0815PM,{},,,
+16,AWD0000u6q,orders,97,5,,,,[],,person,"Captain H F, Chads","{""first""=>[""H F"", """"], ""surname""=>[""Chads""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+2,AWD0000ual,signals,98,2,,,,[],,date,14 Jul 1916,{},,,
+4,AWD0000ual,signals,98,3,,,,[],,date,14 Jul 1916,{},,,
+6,AWD0000ual,signals,98,3,,,,[],,signals,other,{},,,
+8,AWD0000ual,signals,98,2,,,,[],,signals,other,{},,,
+10,AWD0000ual,signals,98,2,,,,[],,person,"  G A B Y, Gaby","{""first""=>[""""], ""surname""=>[""G A B Y"", ""Gaby""], ""rank""=>[""""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+3,AWD0000u9o,signals,99,2,,,,[],,date,14 Jul 1916,{},,,
+6,AWD0000u9o,signals,99,3,,,,[],,date,14 Jul 1916,{},,,
+7,AWD0000u9o,signals,99,2,,,,[],,signals,other,{},,,
+3,AWD0000ub1,report,100,2,,,,[],,diaryDate,14 Jul 1916,"{""day""=>[""14""], ""month""=>[""Jul""], ""year""=>[""1916""]}",,,
+6,AWD0000ub1,report,100,2,,,,[],,gridRef,X 19 b 8 4,{},,,
+11,AWD0000ub1,report,100,2,,,,[],,time,0430AM,{},,,
+13,AWD0000ub1,report,100,4,,,,[],,gridRef,S 8 b 7 9,{},,,
+6,AWD0000ub5,signals,101,3,,,,[],,person,Lieutenant  Hegarty,"{""first""=>[""""], ""surname""=>[""Hegarty""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""2nd Royal Irish Regiment"", ""A Coy 2 Bn Royal Irish Regiment"", ""Comm 'A' Coy R. I. Reg""]}",,,
+7,AWD0000ub5,signals,101,2,,,,[],,date,14 Jul 1916,{},,,
+10,AWD0000ub5,signals,101,3,,,,[],,date,14 Jul 1916,{},,,
+1,AWD0000ua8,signals,102,2,,,,[],,signals,situation,{},,,
+4,AWD0000ua8,signals,102,2,,,,[],,signals,request,{},,,
+5,AWD0000ua8,signals,102,3,,,,[],,gridRef,S 8 b 5 8,{},,,
+1,AWD0000u8l,signals,103,2,,,,[],,signals,situation,{},,,
+2,AWD0000u8l,signals,103,4,,,,[],,person,  Pritchard,"{""first""=>[""""], ""surname""=>[""Pritchard""], ""rank""=>[""""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+6,AWD0000u8l,signals,103,3,,,,[],,unit,21st Division,"{""name""=>[""21st Division""], ""context""=>[""left""]}",,,
+11,AWD0000u8l,signals,103,3,,,,[],,gridRef,S 8 b 6 8,{},,,
+13,AWD0000u8l,signals,103,3,,,,[],,gridRef,S 8 D 2 7,{},,,
+1,AWD0000u88,signals,104,7,,,,[],,date,14 Jul 1916,{},,,
+2,AWD0000u88,signals,104,2,,,,[],,signals,request,{},,,
+8,AWD0000u88,signals,104,2,,,,[],,person,Captain  Shelton,"{""first""=>[""""], ""surname""=>[""Shelton""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+10,AWD0000u88,signals,104,2,,,,[],,person,"Captain,Corporal W J, Shelton?, Shelton","{""first""=>[""W J"", """"], ""surname""=>[""Shelton?"", ""Shelton""], ""rank""=>[""Captain"", ""Corporal""], ""number""=>[""""], ""reason""=>[""combat"", ""other""], ""unit""=>["""", ""\""Gaff\""""]}",,,
+14,AWD0000u88,signals,104,2,,,,[],,unit,"21 Manchesters, 21st Manchesters","{""name""=>[""21 Manchesters"", ""21st Manchesters""], ""context""=>[""other""]}",,,
+1,AWD0000u98,signals,105,2,,,,[],,signals,situation,{},,,
+4,AWD0000u98,signals,105,2,,,,[],,signals,situation,{},,,
+6,AWD0000u98,signals,105,6,,,,[],,person,"Captain ,Z A Lowe","{""first""=>["""", ""Z A""], ""surname""=>[""Lowe""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+7,AWD0000u98,signals,105,2,,,,[],,signals,other,{},,,
+9,AWD0000u98,signals,105,4,,,,[],,date,14 Jul 1916,{},,,
+12,AWD0000u98,signals,105,3,,,,[],,person,"  Gaby, Gaby?, G A B B Y","{""first""=>[""""], ""surname""=>[""Gaby"", ""Gaby?"", ""G A B B Y""], ""rank""=>[""""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+2,AWD0000u9f,signals,106,6,,,,[],,date,14 Jul 1916,{},,,
+4,AWD0000u9f,signals,106,2,,,,[],,signals,other,{},,,
+7,AWD0000u9f,signals,106,2,,,,[],,unit,"K.W.F, R W F","{""name""=>[""K.W.F"", ""R W F""], ""context""=>[""other""]}",,,
+10,AWD0000u9f,signals,106,3,,,,[],,person,Captain  Shelton,"{""first""=>[""""], ""surname""=>[""Shelton""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+4,AWD0000u9c,"report, diary",107,2,,,,[],,date,15 Jul 1916,{},,,
+10,AWD0000u9c,"report, diary",107,3,,,,[],,activity,strength,{},,,
+3,AWD0000u81,diary,114,6,1916-08-01 00:00:00 UTC,1 Aug 1916,la chaussee,"[0.0, 0.0]","",diaryDate,1 Aug 1916,"{""day""=>[""1""], ""month""=>[""Aug""], ""year""=>[""1916""]}",2793704,La Chaussée,"[4.38065, 50.49042]"
+4,AWD0000u81,diary,114,5,1916-08-01 00:00:00 UTC,1 Aug 1916,"La Ghaussee, La Chausee, La Chausser, La Chausse, la chaussee","[0.0, 0.0]","",place,"La Ghaussee, La Chausee, La Chausser, La Chausse, la chaussee","{""place""=>[""La Ghaussee"", ""La Chausee"", ""La Chausser"", ""La Chausse"", ""la chaussee""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+5,AWD0000u81,diary,114,2,1916-08-01 00:00:00 UTC,1 Aug 1916,"La Ghaussee, La Chausee, La Chausser, La Chausse, la chaussee","[0.0, 0.0]","",activity,resting,{},,,
+9,AWD0000u81,diary,114,5,1916-08-01 00:00:00 UTC,1 Aug 1916,"La Ghaussee, La Chausee, La Chausser, La Chausse, la chaussee","[0.0, 0.0]","",activity,training,{},,,
+10,AWD0000u81,diary,114,6,1916-08-01 00:00:00 UTC,1 Aug 1916,"La Ghaussee, La Chausee, La Chausser, La Chausse, la chaussee","[0.0, 0.0]","",domestic,sport,{},,,
+11,AWD0000u81,diary,114,2,1916-08-11 00:00:00 UTC,11 Aug 1916,"La Ghaussee, La Chausee, La Chausser, La Chausse, la chaussee","[0.0, 0.0]","",diaryDate,11 Aug 1916,"{""day""=>[""11""], ""month""=>[""Aug""], ""year""=>[""1916""]}",,,
+12,AWD0000u81,diary,114,6,1916-08-12 00:00:00 UTC,12 Aug 1916,"La Ghaussee, La Chausee, La Chausser, La Chausse, la chaussee","[0.0, 0.0]","",diaryDate,12 Aug 1916,"{""day""=>[""12""], ""month""=>[""Aug""], ""year""=>[""1916""]}",,,
+13,AWD0000u81,diary,114,2,1916-08-12 00:00:00 UTC,12 Aug 1916,"La Ghaussee, La Chausee, La Chausser, La Chausse, la chaussee","[0.0, 0.0]","",activity,movement,{},,,
+14,AWD0000u81,diary,114,6,1916-08-12 00:00:00 UTC,12 Aug 1916,"La Ghaussee, La Chausee, La Chausser, La Chausse, la chaussee","[0.0, 0.0]","",place,Mericourt,"{""place""=>[""Mericourt""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+15,AWD0000u81,diary,114,5,1916-08-12 00:00:00 UTC,12 Aug 1916,Dernancourt,"[2.6309, 49.97272]","",place,Dernancourt,"{""place""=>[""Dernancourt""], ""location""=>[""true""], ""name""=>[""Dernancourt""], ""lat""=>[""49.97272""], ""long""=>[""2.6309""], ""id""=>[""3021556""]}",2991769,Morlancourt,"[2.6304, 49.95113]"
+18,AWD0000u81,diary,114,2,1916-08-12 00:00:00 UTC,12 Aug 1916,Dernancourt,"[2.6309, 49.97272]","",activity,movement,{},2991769,Morlancourt,"[2.6304, 49.95113]"
+19,AWD0000u81,diary,114,6,1916-08-13 00:00:00 UTC,13 Aug 1916,Dernancourt,"[2.6309, 49.97272]","",diaryDate,13 Aug 1916,"{""day""=>[""13""], ""month""=>[""Aug""], ""year""=>[""1916""]}",2991769,Morlancourt,"[2.6304, 49.95113]"
+20,AWD0000u81,diary,114,3,1916-08-13 00:00:00 UTC,13 Aug 1916,Dernancourt,"[2.6309, 49.97272]","",person,Captain T A Lowe,"{""first""=>[""T A""], ""surname""=>[""Lowe""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""award""], ""unit""=>[""""]}",2991769,Morlancourt,"[2.6304, 49.95113]"
+23,AWD0000u81,diary,114,3,1916-08-13 00:00:00 UTC,13 Aug 1916,Dernancourt,"[2.6309, 49.97272]","",place,Dernancourt,"{""place""=>[""Dernancourt""], ""location""=>[""true""], ""name""=>[""Dernancourt""], ""lat""=>[""49.97272""], ""long""=>[""2.6309""], ""id""=>[""3021556""]}",2991769,Morlancourt,"[2.6304, 49.95113]"
+30,AWD0000u81,diary,114,2,1916-08-13 00:00:00 UTC,13 Aug 1916,Dernancourt,"[2.6309, 49.97272]","",person,"Captain E Hegarty MM, Hegarty","{""first""=>[""E""], ""surname""=>[""Hegarty MM"", ""Hegarty""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""award""], ""unit""=>[""2 Bn Royal Irish Regiment"", """"]}",2991769,Morlancourt,"[2.6304, 49.95113]"
+31,AWD0000u81,diary,114,5,1916-08-26 00:00:00 UTC,26 Aug 1916,Dernancourt,"[2.6309, 49.97272]","",diaryDate,26 Aug 1916,"{""day""=>[""26""], ""month""=>[""Aug""], ""year""=>[""1916""]}",2991769,Morlancourt,"[2.6304, 49.95113]"
+33,AWD0000u81,diary,114,2,1916-08-25 00:00:00 UTC,25 Aug 1916,Dernancourt,"[2.6309, 49.97272]","",diaryDate,25 Aug 1916,"{""day""=>[""25""], ""month""=>[""Aug""], ""year""=>[""1916""]}",2991769,Morlancourt,"[2.6304, 49.95113]"
+36,AWD0000u81,diary,114,6,1916-08-25 00:00:00 UTC,25 Aug 1916,Pommier Redoubt,"[2.6309, 49.97272]","",place,Pommier Redoubt,"{""place""=>[""Pommier Redoubt""], ""location""=>[""true""], ""name""=>[""Dernancourt""], ""lat""=>[""49.97272""], ""long""=>[""2.6309""], ""id""=>[""3021556""]}",,,
+38,AWD0000u81,diary,114,2,1916-08-25 00:00:00 UTC,25 Aug 1916,Pommier Redoubt,"[2.6309, 49.97272]","",activity,movement,{},,,
+39,AWD0000u81,diary,114,6,1916-08-27 00:00:00 UTC,27 Aug 1916,Pommier Redoubt,"[2.6309, 49.97272]","",diaryDate,27 Aug 1916,"{""day""=>[""27""], ""month""=>[""Aug""], ""year""=>[""1916""]}",,,
+40,AWD0000u81,diary,114,3,1916-08-27 00:00:00 UTC,27 Aug 1916,Pommier Redoubt,"[2.6309, 49.97272]","",activity,line,{},,,
+42,AWD0000u81,diary,114,2,1916-08-27 00:00:00 UTC,27 Aug 1916,Pommier Redoubt,"[2.6309, 49.97272]","",activity,repair,{},,,
+43,AWD0000u81,diary,114,2,1916-08-27 00:00:00 UTC,27 Aug 1916,Pommier Redoubt,"[2.6309, 49.97272]","",weather,other,{},,,
+48,AWD0000u81,diary,114,3,1916-08-27 00:00:00 UTC,27 Aug 1916,Pommier Redoubt,"[2.6309, 49.97272]","",place,Ginchy,"{""place""=>[""Ginchy""], ""location""=>[""false""], ""name""=>[""Ginchy""], ""lat""=>[""50.02337""], ""long""=>[""2.83176""], ""id""=>[""3016016""]}",,,
+51,AWD0000u81,diary,114,2,1916-08-29 00:00:00 UTC,29 Aug 1916,Pommier Redoubt,"[2.6309, 49.97272]","",diaryDate,29 Aug 1916,"{""day""=>[""29""], ""month""=>[""Aug""], ""year""=>[""1916""]}",,,
+52,AWD0000u81,diary,114,6,1916-08-30 00:00:00 UTC,30 Aug 1916,Pommier Redoubt,"[2.6309, 49.97272]","",diaryDate,30 Aug 1916,"{""day""=>[""30""], ""month""=>[""Aug""], ""year""=>[""1916""]}",,,
+53,AWD0000u81,diary,114,2,1916-08-30 00:00:00 UTC,30 Aug 1916,Pommier Redoubt,"[2.6309, 49.97272]","",activity,resting,{},,,
+56,AWD0000u81,diary,114,4,1916-08-30 00:00:00 UTC,30 Aug 1916,Pommier Redoubt,"[2.6309, 49.97272]","",activity,resting,{},,,
+58,AWD0000u81,diary,114,2,1916-08-31 00:00:00 UTC,31 Aug 1916,Pommier Redoubt,"[2.6309, 49.97272]","",diaryDate,31 Aug 1916,"{""day""=>[""31""], ""month""=>[""Aug""], ""year""=>[""1916""]}",,,
+1,AWD0000u9k,cover,116,3,,,,[],,diaryDate,4 Oct 1916,"{""day""=>[""4""], ""month""=>[""Oct""], ""year""=>[""1916""]}",,,
+2,AWD0000u9k,cover,116,3,,,,[],,reference,The Field 47076,{},,,
+3,AWD0000u9k,cover,116,3,,,,[],,person,Lieutenant Colonel  ,"{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+3,AWD0000u9v,diary,117,6,1916-09-01 00:00:00 UTC,1 Sep 1916,Pommier Redoubt,"[2.6309, 49.97272]","",diaryDate,1 Sep 1916,"{""day""=>[""1""], ""month""=>[""Sep""], ""year""=>[""1916""]}",,,
+4,AWD0000u9v,diary,117,2,1916-09-01 00:00:00 UTC,1 Sep 1916,Pommier Redoubt,"[2.6309, 49.97272]","",place,71 North,"{""place""=>[""71 North""], ""location""=>[""true"", ""false""], ""name""=>[""Ginchy"", """"], ""lat""=>[""50.02337"", """"], ""long""=>[""2.83176"", """"], ""id""=>[""3016016"", """"]}",,,
+6,AWD0000u9v,diary,117,7,1916-09-01 00:00:00 UTC,1 Sep 1916,Somme,"[2.20799, 47.11798]","",place,Somme,"{""place""=>[""Somme""], ""location""=>[""true""], ""name""=>[""Somme""], ""lat""=>[""47.11798""], ""long""=>[""2.20799""], ""id""=>[""2974311""]}",3023975,Condé,"[1.9865, 46.87882]"
+8,AWD0000u9v,diary,117,2,1916-09-01 00:00:00 UTC,1 Sep 1916,Somme,"[2.20799, 47.11798]","",domestic,accomodation,{},3023975,Condé,"[1.9865, 46.87882]"
+9,AWD0000u9v,diary,117,6,1916-09-01 00:00:00 UTC,1 Sep 1916,Somme,"[2.20799, 47.11798]","",weather,rain,{},3023975,Condé,"[1.9865, 46.87882]"
+10,AWD0000u9v,diary,117,6,1916-09-02 00:00:00 UTC,2 Sep 1916,Somme,"[2.20799, 47.11798]","",diaryDate,2 Sep 1916,"{""day""=>[""2""], ""month""=>[""Sep""], ""year""=>[""1916""]}",3023975,Condé,"[1.9865, 46.87882]"
+11,AWD0000u9v,diary,117,6,1916-09-02 00:00:00 UTC,2 Sep 1916,Pommiers Redoubt,"[2.20799, 47.11798]","",place,Pommiers Redoubt,"{""place""=>[""Pommiers Redoubt""], ""location""=>[""true""], ""name""=>[""Somme""], ""lat""=>[""47.11798""], ""long""=>[""2.20799""], ""id""=>[""2974311""]}",2997659,Longueval,"[2.80387, 50.02544]"
+12,AWD0000u9v,diary,117,5,1916-09-02 00:00:00 UTC,2 Sep 1916,Pommiers Redoubt,"[2.20799, 47.11798]","",activity,movement,{},2997659,Longueval,"[2.80387, 50.02544]"
+13,AWD0000u9v,diary,117,2,1916-09-02 00:00:00 UTC,2 Sep 1916,Pommiers Redoubt,"[2.20799, 47.11798]","",casualties,casualties: 0,{},2997659,Longueval,"[2.80387, 50.02544]"
+14,AWD0000u9v,diary,117,5,1916-09-02 00:00:00 UTC,2 Sep 1916,Montauban Alley,"[2.20799, 47.11798]","",place,Montauban Alley,"{""place""=>[""Montauban Alley""], ""location""=>[""true""], ""name""=>[""Somme""], ""lat""=>[""47.11798""], ""long""=>[""2.20799""], ""id""=>[""2974311""]}",2997659,Longueval,"[2.80387, 50.02544]"
+15,AWD0000u9v,diary,117,6,1916-09-03 00:00:00 UTC,3 Sep 1916,Montauban Alley,"[2.20799, 47.11798]","",diaryDate,3 Sep 1916,"{""day""=>[""3""], ""month""=>[""Sep""], ""year""=>[""1916""]}",2997659,Longueval,"[2.80387, 50.02544]"
+17,AWD0000u9v,diary,117,2,1916-09-03 00:00:00 UTC,3 Sep 1916,Montauban Alley,"[2.20799, 47.11798]","",activity,movement,{},2997659,Longueval,"[2.80387, 50.02544]"
+18,AWD0000u9v,diary,117,6,1916-09-03 00:00:00 UTC,3 Sep 1916,Montauban Alley,"[2.20799, 47.11798]","",unit,"Royal Welsh Fusiliers, 1st Royal Welsh Fusiliers","{""name""=>[""Royal Welsh Fusiliers"", ""1st Royal Welsh Fusiliers""], ""context""=>[""left""]}",2997659,Longueval,"[2.80387, 50.02544]"
+19,AWD0000u9v,diary,117,2,1916-09-03 00:00:00 UTC,3 Sep 1916,Montauban Alley,"[2.20799, 47.11798]","",activity,attack,{},2997659,Longueval,"[2.80387, 50.02544]"
+20,AWD0000u9v,diary,117,6,1916-09-03 00:00:00 UTC,3 Sep 1916,Ginchy,"[2.83176, 50.02337]","",place,Ginchy,"{""place""=>[""Ginchy""], ""location""=>[""true""], ""name""=>[""Ginchy""], ""lat""=>[""50.02337""], ""long""=>[""2.83176""], ""id""=>[""3016016""]}",3022134,Cuinchy,"[2.7488, 50.5175]"
+21,AWD0000u9v,diary,117,4,1916-09-03 00:00:00 UTC,3 Sep 1916,Ginchy,"[2.83176, 50.02337]","",unit,"20 Manchester regiment, 20th Manchester Regiment, 20 Manchester Regiment, Manchester Regiment","{""name""=>[""20 Manchester regiment"", ""20th Manchester Regiment"", ""20 Manchester Regiment"", ""Manchester Regiment""], ""context""=>[""right""]}",3022134,Cuinchy,"[2.7488, 50.5175]"
+22,AWD0000u9v,diary,117,2,1916-09-03 00:00:00 UTC,3 Sep 1916,Ginchy,"[2.83176, 50.02337]","",unit,2nd Royal Warwickshire,"{""name""=>[""2nd Royal Warwickshire""], ""context""=>[""joined"", ""right""]}",3022134,Cuinchy,"[2.7488, 50.5175]"
+24,AWD0000u9v,diary,117,2,1916-09-03 00:00:00 UTC,3 Sep 1916,Ginchy,"[2.83176, 50.02337]","",unit,"20/ Manchester Regt, 20th Manchester Regt","{""name""=>[""20/ Manchester Regt"", ""20th Manchester Regt""], ""context""=>[""right""]}",3022134,Cuinchy,"[2.7488, 50.5175]"
+25,AWD0000u9v,diary,117,2,1916-09-03 00:00:00 UTC,3 Sep 1916,Ginchy,"[2.83176, 50.02337]","",unit,"2nd Royal Irish Regiment, 2 Royal Irish Regiment","{""name""=>[""2nd Royal Irish Regiment"", ""2 Royal Irish Regiment""], ""context""=>[""other"", ""joined""]}",3022134,Cuinchy,"[2.7488, 50.5175]"
+26,AWD0000u9v,diary,117,2,1916-09-03 00:00:00 UTC,3 Sep 1916,Ginchy,"[2.83176, 50.02337]","",unit,"2nd Royal Warwickshire Regiment, Royal Warwickshire Regiment","{""name""=>[""2nd Royal Warwickshire Regiment"", ""Royal Warwickshire Regiment""], ""context""=>[""other"", ""joined""]}",3022134,Cuinchy,"[2.7488, 50.5175]"
+31,AWD0000u9v,diary,117,2,1916-09-03 00:00:00 UTC,3 Sep 1916,Ginchy,"[2.83176, 50.02337]","",activity,movement,{},3022134,Cuinchy,"[2.7488, 50.5175]"
+35,AWD0000u9v,diary,117,2,1916-09-03 00:00:00 UTC,3 Sep 1916,Tolley Trench,"[2.83176, 50.02337]","",place,Tolley Trench,"{""place""=>[""Tolley Trench""], ""location""=>[""true""], ""name""=>[""Ginchy"", """"], ""lat""=>[""50.02337"", """"], ""long""=>[""2.83176"", """"], ""id""=>[""3016016"", """"]}",,,
+37,AWD0000u9v,diary,117,2,1916-09-03 00:00:00 UTC,3 Sep 1916,Tolley Trench,"[2.83176, 50.02337]","",activity,line,{},,,
+2,AWD0000ub2,diary,118,5,1916-09-03 00:00:00 UTC,3 Sep 1916,Tolley Trench,"[2.83176, 50.02337]","",diaryDate,3 Sep 1916,"{""day""=>[""3""], ""month""=>[""Sep""], ""year""=>[""1916""]}",,,
+4,AWD0000ub2,diary,118,5,1916-09-03 00:00:00 UTC,3 Sep 1916,Tolley Trench,"[2.83176, 50.02337]","",person,Captain W L Moore-Brabazon,"{""first""=>[""W L""], ""surname""=>[""Moore-Brabazon""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""""]}",,,
+7,AWD0000ub2,diary,118,4,1916-09-03 00:00:00 UTC,3 Sep 1916,Tolley Trench,"[2.83176, 50.02337]","",place,Ginchy,"{""place""=>[""Ginchy""], ""location""=>[""false""], ""name""=>[""Ginchy""], ""lat""=>[""50.02337""], ""long""=>[""2.83176""], ""id""=>[""3016016""]}",,,
+9,AWD0000ub2,diary,118,2,1916-09-03 00:00:00 UTC,3 Sep 1916,Tolley Trench,"[2.83176, 50.02337]","",person,"Captain  Moore-Brabazon, Moore-Brabozon","{""first""=>[""""], ""surname""=>[""Moore-Brabazon"", ""Moore-Brabozon""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""""]}",,,
+10,AWD0000ub2,diary,118,5,1916-09-03 00:00:00 UTC,3 Sep 1916,Tolley Trench,"[2.83176, 50.02337]","",person,Company Sergeant Major  Power,"{""first""=>[""""], ""surname""=>[""Power""], ""rank""=>[""Company Sergeant Major""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""""]}",,,
+15,AWD0000ub2,diary,118,4,1916-09-03 00:00:00 UTC,3 Sep 1916,Tolley Trench,"[2.83176, 50.02337]","",place,Ginchy,"{""place""=>[""Ginchy""], ""location""=>[""false""], ""name""=>[""Ginchy""], ""lat""=>[""50.02337""], ""long""=>[""2.83176""], ""id""=>[""3016016""]}",,,
+17,AWD0000ub2,diary,118,5,1916-09-03 00:00:00 UTC,3 Sep 1916,Tolley Trench,"[2.83176, 50.02337]","",person,Second Lieutenant S B Griffin,"{""first""=>[""S B""], ""surname""=>[""Griffin""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""""]}",,,
+18,AWD0000ub2,diary,118,2,1916-09-03 00:00:00 UTC,3 Sep 1916,Tolley Trench,"[2.83176, 50.02337]","",reference,Narrative no 3,{},,,
+21,AWD0000ub2,diary,118,4,1916-09-03 00:00:00 UTC,3 Sep 1916,Tolley Trench,"[2.83176, 50.02337]","",person,Lieutenant Colonel  Stockwell,"{""first""=>[""""], ""surname""=>[""Stockwell""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""1st Royal Welsh Fusiliers""]}",,,
+22,AWD0000ub2,diary,118,2,1916-09-03 00:00:00 UTC,3 Sep 1916,Tolley Trench,"[2.83176, 50.02337]","",place,Ale Alley,"{""place""=>[""Ale Alley""], ""location""=>[""false"", ""true""], ""name""=>[""Ginchy""], ""lat""=>[""50.02337""], ""long""=>[""2.83176""], ""id""=>[""3016016""]}",,,
+25,AWD0000ub2,diary,118,2,1916-09-03 00:00:00 UTC,3 Sep 1916,Tolley Trench,"[2.83176, 50.02337]","",activity,fire,{},,,
+26,AWD0000ub2,diary,118,5,1916-09-03 00:00:00 UTC,3 Sep 1916,Tolley Trench,"[2.83176, 50.02337]","",person,Sergeant  Kehoe,"{""first""=>[""""], ""surname""=>[""Kehoe""], ""rank""=>[""Sergeant""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""""]}",,,
+28,AWD0000ub2,diary,118,2,1916-09-03 00:00:00 UTC,3 Sep 1916,Tolley Trench,"[2.83176, 50.02337]","",reference,Narrative no 4,{},,,
+29,AWD0000ub2,diary,118,5,1916-09-03 00:00:00 UTC,3 Sep 1916,Tolley Trench,"[2.83176, 50.02337]","",person,Major  Roche-Kelly,"{""first""=>[""""], ""surname""=>[""Roche-Kelly""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""""]}",,,
+30,AWD0000ub2,diary,118,2,1916-09-03 00:00:00 UTC,3 Sep 1916,Tolley Trench,"[2.83176, 50.02337]","",reference,Narrative no 5,{},,,
+32,AWD0000ub2,diary,118,3,1916-09-03 00:00:00 UTC,3 Sep 1916,Tolley Trench,"[2.83176, 50.02337]","",activity,attack,{},,,
+33,AWD0000ub2,diary,118,4,1916-09-03 00:00:00 UTC,3 Sep 1916,Tolley Trench,"[2.83176, 50.02337]","",place,Ginchy,"{""place""=>[""Ginchy""], ""location""=>[""false""], ""name""=>[""Ginchy""], ""lat""=>[""50.02337""], ""long""=>[""2.83176""], ""id""=>[""3016016""]}",,,
+1,AWD0000uak,diary,119,5,1916-09-03 00:00:00 UTC,3 Sep 1916,Tolley Trench,"[2.83176, 50.02337]","",diaryDate,3 Sep 1916,"{""day""=>[""3""], ""month""=>[""Sep""], ""year""=>[""1916""]}",,,
+2,AWD0000uak,diary,119,5,1916-09-03 00:00:00 UTC,3 Sep 1916,Tolley Trench,"[2.83176, 50.02337]","",person,Lieutenant  Haydon,"{""first""=>[""""], ""surname""=>[""Haydon""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""""]}",,,
+3,AWD0000uak,diary,119,2,1916-09-03 00:00:00 UTC,3 Sep 1916,Tolley Trench,"[2.83176, 50.02337]","",reference,Narrative no 6,{},,,
+6,AWD0000uak,diary,119,2,1916-09-03 00:00:00 UTC,3 Sep 1916,Tolley Trench,"[2.83176, 50.02337]","",casualties,killed: 8,{},,,
+7,AWD0000uak,diary,119,2,1916-09-03 00:00:00 UTC,3 Sep 1916,Tolley Trench,"[2.83176, 50.02337]","",casualties,wounded: 5,{},,,
+8,AWD0000uak,diary,119,2,1916-09-03 00:00:00 UTC,3 Sep 1916,Tolley Trench,"[2.83176, 50.02337]","",casualties,"killed: 8, wounded: 5",{},,,
+12,AWD0000uak,diary,119,3,1916-09-03 00:00:00 UTC,3 Sep 1916,Tolley Trench,"[2.83176, 50.02337]","",casualties,wounded: 218,{},,,
+14,AWD0000uak,diary,119,5,1916-09-04 00:00:00 UTC,4 Sep 1916,Tolley Trench,"[2.83176, 50.02337]","",diaryDate,4 Sep 1916,"{""day""=>[""4""], ""month""=>[""Sep""], ""year""=>[""1916""]}",,,
+15,AWD0000uak,diary,119,3,1916-09-04 00:00:00 UTC,4 Sep 1916,Tolley Trench,"[2.83176, 50.02337]","",place,Folley Trench,"{""place""=>[""Folley Trench""], ""location""=>[""false""], ""name""=>[""Ginchy""], ""lat""=>[""50.02337""], ""long""=>[""2.83176""], ""id""=>[""3016016""]}",,,
+16,AWD0000uak,diary,119,2,1916-09-04 00:00:00 UTC,4 Sep 1916,Tolley Trench,"[2.83176, 50.02337]","",activity,movement,{},,,
+18,AWD0000uak,diary,119,4,1916-09-04 02:30:00 UTC,4 Sep 1916,Tolley Trench,"[2.83176, 50.02337]",0230AM,time,0230AM,{},,,
+20,AWD0000uak,diary,119,2,1916-09-04 02:30:00 UTC,4 Sep 1916,Tolley Trench,"[2.83176, 50.02337]",0230AM,unit,"21/Manchester Regt, 21/ Manchester Regt","{""name""=>[""21/Manchester Regt"", ""21/ Manchester Regt""], ""context""=>[""relieved_by""]}",,,
+24,AWD0000uak,diary,119,2,1916-09-04 02:30:00 UTC,4 Sep 1916,Tolley Trench,"[2.83176, 50.02337]",0230AM,unit,21st Manchester Regiment,"{""name""=>[""21st Manchester Regiment""], ""context""=>[""relieved_by""]}",,,
+25,AWD0000uak,diary,119,5,1916-09-04 02:30:00 UTC,4 Sep 1916,Tolley Trench,"[2.83176, 50.02337]",0230AM,place,Pommier Redoubt,"{""place""=>[""Pommier Redoubt""], ""location""=>[""false""], ""name""=>[""Ginchy""], ""lat""=>[""50.02337""], ""long""=>[""2.83176""], ""id""=>[""3016016""]}",,,
+29,AWD0000uak,diary,119,4,1916-09-04 02:30:00 UTC,4 Sep 1916,Tolley Trench,"[2.83176, 50.02337]",0230AM,activity,movement,{},,,
+30,AWD0000uak,diary,119,2,1916-09-04 02:30:00 UTC,4 Sep 1916,Tolley Trench,"[2.83176, 50.02337]",0230AM,domestic,rations,{},,,
+32,AWD0000uak,diary,119,5,1916-09-05 00:00:00 UTC,5 Sep 1916,Tolley Trench,"[2.83176, 50.02337]","",diaryDate,5 Sep 1916,"{""day""=>[""5""], ""month""=>[""Sep""], ""year""=>[""1916""]}",,,
+34,AWD0000uak,diary,119,4,1916-09-05 17:30:00 UTC,5 Sep 1916,Tolley Trench,"[2.83176, 50.02337]",0530PM,time,0530PM,{},,,
+35,AWD0000uak,diary,119,4,1916-09-05 17:30:00 UTC,5 Sep 1916,Tolley Trench,"[2.83176, 50.02337]",0530PM,person,Captain  Considine,"{""first""=>[""""], ""surname""=>[""Considine""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+36,AWD0000uak,diary,119,2,1916-09-05 17:30:00 UTC,5 Sep 1916,Tolley Trench,"[2.83176, 50.02337]",0530PM,activity,movement,{},,,
+37,AWD0000uak,diary,119,6,1916-09-05 17:30:00 UTC,5 Sep 1916,Tolley Trench,"[2.83176, 50.02337]",0530PM,place,Buire,"{""place""=>[""Buire""], ""location""=>[""false"", ""true""], ""name""=>[""Buire""], ""lat""=>[""49.90301""], ""long""=>[""4.05499""], ""id""=>[""3029611""]}",,,
+42,AWD0000uak,diary,119,4,1916-09-05 17:30:00 UTC,5 Sep 1916,Tolley Trench,"[2.83176, 50.02337]",0530PM,place,Ginchy,"{""place""=>[""Ginchy""], ""location""=>[""false""], ""name""=>[""Ginchy""], ""lat""=>[""50.02337""], ""long""=>[""2.83176""], ""id""=>[""3016016""]}",,,
+43,AWD0000uak,diary,119,2,1916-09-05 17:30:00 UTC,5 Sep 1916,Tolley Trench,"[2.83176, 50.02337]",0530PM,reference,Narrative 6,{},,,
+45,AWD0000uak,diary,119,5,1916-09-06 00:00:00 UTC,6 Sep 1916,Tolley Trench,"[2.83176, 50.02337]","",diaryDate,6 Sep 1916,"{""day""=>[""6""], ""month""=>[""Sep""], ""year""=>[""1916""]}",,,
+48,AWD0000uak,diary,119,3,1916-09-06 00:00:00 UTC,6 Sep 1916,Tolley Trench,"[2.83176, 50.02337]","",domestic,accomodation,{},,,
+49,AWD0000uak,diary,119,2,1916-09-06 00:00:00 UTC,6 Sep 1916,Tolley Trench,"[2.83176, 50.02337]","",activity,resting,{},,,
+50,AWD0000uak,diary,119,6,1916-09-06 00:00:00 UTC,6 Sep 1916,Tolley Trench,"[2.83176, 50.02337]","",place,Buire,"{""place""=>[""Buire""], ""location""=>[""false""], ""name""=>[""Ginchy"", ""Buire""], ""lat""=>[""50.02337"", ""49.90301""], ""long""=>[""2.83176"", ""4.05499""], ""id""=>[""3016016"", ""3029611""]}",,,
+52,AWD0000uak,diary,119,5,1916-09-08 00:00:00 UTC,8 Sep 1916,Tolley Trench,"[2.83176, 50.02337]","",diaryDate,8 Sep 1916,"{""day""=>[""8""], ""month""=>[""Sep""], ""year""=>[""1916""]}",,,
+54,AWD0000uak,diary,119,5,1916-09-08 00:00:00 UTC,8 Sep 1916,Tolley Trench,"[2.83176, 50.02337]","",place,Albert,"{""place""=>[""Albert""], ""location""=>[""false""], ""name""=>[""Albert""], ""lat""=>[""50.00091""], ""long""=>[""2.65096""], ""id""=>[""3038271""]}",,,
+55,AWD0000uak,diary,119,4,1916-09-08 00:00:00 UTC,8 Sep 1916,Arraine,"[2.83176, 50.02337]","",place,Arraine,"{""place""=>[""Arraine""], ""location""=>[""true""], ""name""=>[""Ginchy""], ""lat""=>[""50.02337""], ""long""=>[""2.83176""], ""id""=>[""3016016""]}",,,
+56,AWD0000uak,diary,119,5,1916-09-08 00:00:00 UTC,8 Sep 1916,Arraine,"[2.83176, 50.02337]","",activity,movement,{},,,
+57,AWD0000uak,diary,119,3,1916-09-08 00:00:00 UTC,8 Sep 1916,Arraine,"[2.83176, 50.02337]","",place,Buire,"{""place""=>[""Buire""], ""location""=>[""false""], ""name""=>[""Buire""], ""lat""=>[""49.90301""], ""long""=>[""4.05499""], ""id""=>[""3029611""]}",,,
+59,AWD0000uak,diary,119,4,1916-09-08 00:00:00 UTC,8 Sep 1916,Arraine,"[2.83176, 50.02337]","",place,Novelle-aux-Bois,"{""place""=>[""Novelle-aux-Bois""], ""location""=>[""true"", ""false""], ""name""=>[""Ginchy"", ""Albert""], ""lat""=>[""50.02337"", ""50.00091""], ""long""=>[""2.83176"", ""2.65096""], ""id""=>[""3016016"", ""3038271""]}",,,
+60,AWD0000uak,diary,119,3,1916-09-08 00:00:00 UTC,8 Sep 1916,Arraine,"[2.83176, 50.02337]","",place,Arraine,"{""place""=>[""Arraine""], ""location""=>[""false""], ""name""=>[""Albert""], ""lat""=>[""50.00091""], ""long""=>[""2.65096""], ""id""=>[""3038271""]}",,,
+62,AWD0000uak,diary,119,2,1916-09-08 00:00:00 UTC,8 Sep 1916,Novelle-aux-Bois,"[0.0, 0.0]","",place,Novelle-aux-Bois,"{""place""=>[""Novelle-aux-Bois""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+1,AWD0000u9t,diary,120,5,1916-09-09 00:00:00 UTC,9 Sep 1916,Novelle-aux-Bois,"[0.0, 0.0]","",diaryDate,9 Sep 1916,"{""day""=>[""9""], ""month""=>[""Sep""], ""year""=>[""1916""]}",,,
+3,AWD0000u9t,diary,120,3,1916-09-09 00:00:00 UTC,9 Sep 1916,Somme,"[2.20799, 47.11798]","",place,Somme,"{""place""=>[""Somme""], ""location""=>[""true""], ""name""=>[""Somme""], ""lat""=>[""47.11798""], ""long""=>[""2.20799""], ""id""=>[""2974311""]}",3023975,Condé,"[1.9865, 46.87882]"
+5,AWD0000u9t,diary,120,3,1916-09-09 00:00:00 UTC,9 Sep 1916,Somme,"[2.20799, 47.11798]","",activity,resting,{},3023975,Condé,"[1.9865, 46.87882]"
+6,AWD0000u9t,diary,120,2,1916-09-09 00:00:00 UTC,9 Sep 1916,Somme,"[2.20799, 47.11798]","",activity,training,{},3023975,Condé,"[1.9865, 46.87882]"
+7,AWD0000u9t,diary,120,5,1916-09-09 00:00:00 UTC,9 Sep 1916,Novelle,"[2.20799, 47.11798]","",place,Novelle,"{""place""=>[""Novelle""], ""location""=>[""true""], ""name""=>[""Somme""], ""lat""=>[""47.11798""], ""long""=>[""2.20799""], ""id""=>[""2974311""]}",,,
+8,AWD0000u9t,diary,120,3,1916-09-09 00:00:00 UTC,9 Sep 1916,Novelle,"[2.20799, 47.11798]","",activity,resting,{},,,
+9,AWD0000u9t,diary,120,3,1916-09-09 00:00:00 UTC,9 Sep 1916,Novelle,"[2.20799, 47.11798]","",activity,training,{},,,
+10,AWD0000u9t,diary,120,2,1916-09-17 00:00:00 UTC,17 Sep 1916,Novelle,"[2.20799, 47.11798]","",diaryDate,17 Sep 1916,"{""day""=>[""17""], ""month""=>[""Sep""], ""year""=>[""1916""]}",,,
+11,AWD0000u9t,diary,120,6,1916-09-18 00:00:00 UTC,18 Sep 1916,Novelle,"[2.20799, 47.11798]","",diaryDate,18 Sep 1916,"{""day""=>[""18""], ""month""=>[""Sep""], ""year""=>[""1916""]}",,,
+12,AWD0000u9t,diary,120,5,1916-09-18 00:00:00 UTC,18 Sep 1916,Novelle,"[2.20799, 47.11798]","",activity,movement,{},,,
+13,AWD0000u9t,diary,120,5,1916-09-18 00:00:00 UTC,18 Sep 1916,Novelle,"[2.20799, 47.11798]","",place,Pont Remy,"{""place""=>[""Pont Remy""], ""location""=>[""false""], ""name""=>[""Pont-Remy""], ""lat""=>[""50.05""], ""long""=>[""1.91667""], ""id""=>[""2986122""]}",,,
+14,AWD0000u9t,diary,120,6,1916-09-18 00:00:00 UTC,18 Sep 1916,Novelle,"[2.20799, 47.11798]","",place,Godesvaervelde,"{""place""=>[""Godesvaervelde""], ""location""=>[""true"", ""false""], ""name""=>[""Pont-Remy""], ""lat""=>[""50.05""], ""long""=>[""1.91667""], ""id""=>[""2986122""]}",,,
+15,AWD0000u9t,diary,120,2,1916-09-18 00:00:00 UTC,18 Sep 1916,Novelle,"[2.20799, 47.11798]","",activity,movement,{},,,
+16,AWD0000u9t,diary,120,2,1916-09-18 00:00:00 UTC,18 Sep 1916,Novelle,"[2.20799, 47.11798]","",domestic,accomodation,{},,,
+17,AWD0000u9t,diary,120,6,1916-09-18 00:00:00 UTC,18 Sep 1916,Mettern,"[1.91667, 50.05]","",place,Mettern,"{""place""=>[""Mettern""], ""location""=>[""true""], ""name""=>[""Pont-Remy"", """"], ""lat""=>[""50.05"", """"], ""long""=>[""1.91667"", """"], ""id""=>[""2986122"", """"]}",2994168,Méteren,"[2.7, 50.73333]"
+19,AWD0000u9t,diary,120,6,1916-09-19 00:00:00 UTC,19 Sep 1916,Mettern,"[1.91667, 50.05]","",diaryDate,19 Sep 1916,"{""day""=>[""19""], ""month""=>[""Sep""], ""year""=>[""1916""]}",2994168,Méteren,"[2.7, 50.73333]"
+21,AWD0000u9t,diary,120,5,1916-09-19 00:00:00 UTC,19 Sep 1916,Mettern,"[0.0, 0.0]","",place,Mettern,"{""place""=>[""Mettern""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2994168,Méteren,"[2.7, 50.73333]"
+23,AWD0000u9t,diary,120,6,1916-09-20 00:00:00 UTC,20 Sep 1916,Mettern,"[0.0, 0.0]","",diaryDate,20 Sep 1916,"{""day""=>[""20""], ""month""=>[""Sep""], ""year""=>[""1916""]}",2994168,Méteren,"[2.7, 50.73333]"
+24,AWD0000u9t,diary,120,5,1916-09-20 00:00:00 UTC,20 Sep 1916,Mettern,"[0.0, 0.0]","",place,Bailleul,"{""place""=>[""Bailleul""], ""location""=>[""false""], ""name""=>[""Bailleul""], ""lat""=>[""50.73592""], ""long""=>[""2.73594""], ""id""=>[""3035359""]}",2994168,Méteren,"[2.7, 50.73333]"
+25,AWD0000u9t,diary,120,3,1916-09-20 00:00:00 UTC,20 Sep 1916,Mettern,"[0.0, 0.0]","",activity,movement,{},2994168,Méteren,"[2.7, 50.73333]"
+26,AWD0000u9t,diary,120,5,1916-09-20 00:00:00 UTC,20 Sep 1916,Romerin,"[0.0, 0.0]","",place,Romerin,"{""place""=>[""Romerin""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+28,AWD0000u9t,diary,120,7,1916-09-21 00:00:00 UTC,21 Sep 1916,Romerin,"[0.0, 0.0]","",diaryDate,21 Sep 1916,"{""day""=>[""21""], ""month""=>[""Sep""], ""year""=>[""1916""]}",,,
+29,AWD0000u9t,diary,120,4,1916-09-21 00:00:00 UTC,21 Sep 1916,Romerin,"[0.0, 0.0]","",place,Romerin,"{""place""=>[""Romerin""], ""location""=>[""true""], ""name""=>[""Méteren"", ""Pont-Remy"", """", ""Bailleul""], ""lat""=>[""50.73333"", ""50.05"", """", ""50.73592""], ""long""=>[""2.7"", ""1.91667"", """", ""2.73594""], ""id""=>[""2994168"", ""2986122"", """", ""3035359""]}",,,
+32,AWD0000u9t,diary,120,5,1916-09-21 00:00:00 UTC,21 Sep 1916,Ploegsteert Wood,"[1.91667, 50.05]","",place,Ploegsteert Wood,"{""place""=>[""Ploegsteert Wood""], ""location""=>[""true""], ""name""=>[""Pont-Remy"", """"], ""lat""=>[""50.05"", """"], ""long""=>[""1.91667"", """"], ""id""=>[""2986122"", """"]}",2788854,Ploegsteert,"[2.88019, 50.72659]"
+36,AWD0000u9t,diary,120,2,1916-09-24 00:00:00 UTC,24 Sep 1916,Ploegsteert Wood,"[1.91667, 50.05]","",diaryDate,24 Sep 1916,"{""day""=>[""24""], ""month""=>[""Sep""], ""year""=>[""1916""]}",2788854,Ploegsteert,"[2.88019, 50.72659]"
+38,AWD0000u9t,diary,120,6,1916-09-25 00:00:00 UTC,25 Sep 1916,Ploegsteert Wood,"[1.91667, 50.05]","",diaryDate,25 Sep 1916,"{""day""=>[""25""], ""month""=>[""Sep""], ""year""=>[""1916""]}",2788854,Ploegsteert,"[2.88019, 50.72659]"
+39,AWD0000u9t,diary,120,7,1916-09-25 00:00:00 UTC,25 Sep 1916,Ploegsteert Wood,"[1.91667, 50.05]","",activity,line,{},2788854,Ploegsteert,"[2.88019, 50.72659]"
+41,AWD0000u9t,diary,120,6,1916-09-30 00:00:00 UTC,30 Sep 1916,Ploegsteert Wood,"[1.91667, 50.05]","",diaryDate,30 Sep 1916,"{""day""=>[""30""], ""month""=>[""Sep""], ""year""=>[""1916""]}",2788854,Ploegsteert,"[2.88019, 50.72659]"
+42,AWD0000u9t,diary,120,5,1916-09-30 00:00:00 UTC,30 Sep 1916,Romerin,"[0.0, 0.0]","",place,Romerin,"{""place""=>[""Romerin""], ""location""=>[""true""], ""name""=>[""Ploegsteert"", ""Bailleul"", ""Pont-Remy"", """", ""Bois de Ploegsteert""], ""lat""=>[""50.72659"", ""50.73592"", ""50.05"", """", ""50.73333""], ""long""=>[""2.88019"", ""2.73594"", ""1.91667"", """", ""2.88333""], ""id""=>[""2788854"", ""3035359"", ""2986122"", """", ""2788853""]}",,,
+43,AWD0000u9t,diary,120,5,1916-09-30 00:00:00 UTC,30 Sep 1916,Romerin,"[0.0, 0.0]","",activity,resting,{},,,
+51,AWD0000u9t,diary,120,2,1916-09-30 00:00:00 UTC,30 Sep 1916,Romerin,"[0.0, 0.0]","",person,"Field Marshal,other Viscount French, French F M ","{""first""=>[""Viscount""], ""surname""=>[""French"", ""French F M ""], ""rank""=>[""Field Marshal"", ""other""], ""number""=>[""""], ""reason""=>[""award""], ""unit""=>[""Col in Chief 2 Bn Royal Irish Regiment"", """"]}",,,
+55,AWD0000u9t,diary,120,2,1916-10-04 00:00:00 UTC,4 Oct 1916,Romerin,"[0.0, 0.0]","",diaryDate,4 Oct 1916,"{""day""=>[""4""], ""month""=>[""Oct""], ""year""=>[""1916""]}",,,
+3,AWD0000ubn,orders,121,3,,,,[],,orders,move,{},,,
+6,AWD0000ubn,orders,121,3,,,,[],,reference,Operation Order No. 33,{},,,
+7,AWD0000ubn,orders,121,2,,,,[],,orders,other,{},,,
+8,AWD0000ubn,orders,121,4,,,,[],,date,17 Sep 1916,{},,,
+10,AWD0000ubn,orders,121,3,,,,[],,orders,move,{},,,
+11,AWD0000ubn,orders,121,6,,,,[],,person,Major  Farmer,"{""first""=>[""""], ""surname""=>[""Farmer""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+12,AWD0000ubn,orders,121,2,,,,[],,person,"Lieutenant,Second Lieutenant  Barbour, Harbour","{""first""=>[""""], ""surname""=>[""Barbour"", ""Harbour""], ""rank""=>[""Lieutenant"", ""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""2Bn Royal Irish Regiment"", """"]}",,,
+13,AWD0000ubn,orders,121,2,,,,[],,person,"Lieutenant,Second Lieutenant  Newsham, Newsam","{""first""=>[""""], ""surname""=>[""Newsham"", ""Newsam""], ""rank""=>[""Lieutenant"", ""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""2 Bn Royal Irish Regiment"", """"]}",,,
+14,AWD0000ubn,orders,121,7,,,,[],,person,Captain T A Lowe,"{""first""=>[""T A""], ""surname""=>[""Lowe""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+7,AWD0000ub3,signals,122,3,,,,[],,date,22 Sep 1916,{},,,
+8,AWD0000ub3,signals,122,3,,,,[],,signals,other,{},,,
+3,AWD0000uas,"diary, report",123,2,,,,[],,date,3 Sep 1916,{},,,
+7,AWD0000uas,"diary, report",123,2,,,,[],,title,Battle of Ginchy,{},,,
+9,AWD0000uas,"diary, report",123,2,,,,[],,diaryDate,3 Sep 1916,"{""day""=>[""3""], ""month""=>[""Sep""], ""year""=>[""1916""]}",,,
+11,AWD0000uas,"diary, report",123,3,,,,[],,person,"Lieutenant Colonel  Gregoric, Gregory, Gregorie","{""first""=>[""""], ""surname""=>[""Gregoric"", ""Gregory"", ""Gregorie""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""""]}",,,
+13,AWD0000uas,"diary, report",123,2,,,,[],,unit,"16 Division, 16th Division","{""name""=>[""16 Division"", ""16th Division""], ""context""=>[""other"", ""left""]}",,,
+14,AWD0000uas,"diary, report",123,3,,,,[],,person,Captain  Considine,"{""first""=>[""""], ""surname""=>[""Considine""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""""]}",,,
+15,AWD0000uas,"diary, report",123,2,,,,[],,person,Lieutenant  Royall,"{""first""=>[""""], ""surname""=>[""Royall""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""""]}",,,
+18,AWD0000uas,"diary, report",123,4,,,,[],,person,Second Lieutenant  Hayden,"{""first""=>[""""], ""surname""=>[""Hayden""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""""]}",,,
+19,AWD0000uas,"diary, report",123,4,,,,[],,person,Second Lieutenant  Pilkington,"{""first""=>[""""], ""surname""=>[""Pilkington""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""""]}",,,
+20,AWD0000uas,"diary, report",123,3,,,,[],,person,Second Lieutenant  King,"{""first""=>[""""], ""surname""=>[""King""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other"", ""author"", ""combat""], ""unit""=>[""""]}",,,
+21,AWD0000uas,"diary, report",123,2,,,,[],,person,Lieutenant  Royall,"{""first""=>[""""], ""surname""=>[""Royall""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""2 Bn Royal Irish Regiment"", """"]}",,,
+28,AWD0000uas,"diary, report",123,2,,,,[],,diaryDate,2 Sep 1916,"{""day""=>[""2""], ""month""=>[""Sep""], ""year""=>[""1916""]}",,,
+30,AWD0000uas,"diary, report",123,2,,,,[],,time,0530PM,{},,,
+31,AWD0000uas,"diary, report",123,2,,,,[],,place,Montabon Alley,"{""place""=>[""Montabon Alley""], ""location""=>[""true"", ""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+41,AWD0000uas,"diary, report",123,2,,,,[],,activity,movement,{},,,
+6,AWD0000uah,report,124,2,,,,[],,place,Porter Trench,"{""place""=>[""Porter Trench""], ""location""=>[""true""], ""name""=>["""", ""Ginchy""], ""lat""=>["""", ""50.02337""], ""long""=>["""", ""2.83176""], ""id""=>["""", ""3016016""]}",,,
+11,AWD0000uah,report,124,4,,,,[],,person,Second Lieutenant  King,"{""first""=>[""""], ""surname""=>[""King""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""""]}",,,
+12,AWD0000uah,report,124,4,,,,[],,person,Second Lieutenant  Pilkington,"{""first""=>[""""], ""surname""=>[""Pilkington""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""""]}",,,
+13,AWD0000uah,report,124,4,,,,[],,person,Captain  Considine,"{""first""=>[""""], ""surname""=>[""Considine""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""""]}",,,
+14,AWD0000uah,report,124,4,,,,[],,person,Second Lieutenant  Hayden,"{""first""=>[""""], ""surname""=>[""Hayden""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""""]}",,,
+19,AWD0000uah,report,124,4,,,,[],,person,Lieutenant  Harrison,"{""first""=>[""""], ""surname""=>[""Harrison""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""""]}",,,
+33,AWD0000uah,report,124,2,,,,[],,time,0315PM,{},,,
+34,AWD0000uah,report,124,6,,,,[],,person,Lieutenant  Harrison,"{""first""=>[""""], ""surname""=>[""Harrison""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+40,AWD0000uah,report,124,2,,,,[],,time,0330PM,{},,,
+41,AWD0000uah,report,124,5,,,,[],,person,Company Sergeant Major  Power,"{""first""=>[""""], ""surname""=>[""Power""], ""rank""=>[""Company Sergeant Major""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""""]}",,,
+42,AWD0000uah,report,124,6,,,,[],,person,Lieutenant  Royall,"{""first""=>[""""], ""surname""=>[""Royall""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""""]}",,,
+13,AWD0000u8b,report,125,2,,,,[],,place,"Waterlot Farm, waterlot Farm","{""place""=>[""Waterlot Farm"", ""waterlot Farm""], ""location""=>[""true""], ""name""=>[""Somme"", """"], ""lat""=>[""47.11798"", """"], ""long""=>[""2.20799"", """"], ""id""=>[""2974311"", """"]}",,,
+19,AWD0000u8b,report,125,5,,,,[],,person,Second Lieutenant  Pilkington,"{""first""=>[""""], ""surname""=>[""Pilkington""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""""]}",,,
+28,AWD0000u8b,report,125,2,,,,[],,activity,fire,{},,,
+31,AWD0000u8b,report,125,2,,,,[],,casualties,killed: 1,{},,,
+32,AWD0000u8b,report,125,4,,,,[],,casualties,wounded: 1,{},,,
+34,AWD0000u8b,report,125,4,,,,[],,person,  ,"{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+35,AWD0000u8b,report,125,2,,,,[],,place,Stout trench,"{""place""=>[""Stout trench""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+40,AWD0000u8b,report,125,3,,,,[],,time,0600PM,{},,,
+43,AWD0000u8b,report,125,2,,,,[],,unit,"16th Division, 16th division","{""name""=>[""16th Division"", ""16th division""], ""context""=>[""other""]}",,,
+44,AWD0000u8b,report,125,2,,,,[],,place,Guillemont,"{""place""=>[""Guillemont""], ""location""=>[""true"", ""false""], ""name""=>[""Guillemont""], ""lat""=>[""50.01259""], ""long""=>[""2.82627""], ""id""=>[""3014265""]}",,,
+45,AWD0000u8b,report,125,2,,,,[],,unit,6th Royal Irish,"{""name""=>[""6th Royal Irish""], ""context""=>[""other""]}",,,
+49,AWD0000u8b,report,125,2,,,,[],,place,"Delville Wood, Delville wood","{""place""=>[""Delville Wood"", ""Delville wood""], ""location""=>[""false"", ""true""], ""name""=>["""", ""Guillemont""], ""lat""=>["""", ""50.01259""], ""long""=>["""", ""2.82627""], ""id""=>["""", ""3014265""]}",,,
+50,AWD0000u8b,report,125,2,,,,[],,place,Beer trench,"{""place""=>[""Beer trench""], ""location""=>[""true"", ""false""], ""name""=>[""Guillemont"", """"], ""lat""=>[""50.01259"", """"], ""long""=>[""2.82627"", """"], ""id""=>[""3014265"", """"]}",,,
+4,AWD0000u9a,report,126,2,,,,[],,date,3 Sep 1916,{},,,
+8,AWD0000u9a,report,126,4,,,,[],,person,Company Sergeant Major  Power,"{""first""=>[""""], ""surname""=>[""Power""], ""rank""=>[""Company Sergeant Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+9,AWD0000u9a,report,126,6,,,,[],,person,Lieutenant  Royall,"{""first""=>[""""], ""surname""=>[""Royall""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",,,
+10,AWD0000u9a,report,126,2,,,,[],,person,"Captain W L Moore- Brabazon, Moore-Brabazon","{""first""=>[""W L""], ""surname""=>[""Moore- Brabazon"", ""Moore-Brabazon""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""2 Bn Royal Irish Regiment"", """"]}",,,
+11,AWD0000u9a,report,126,2,,,,[],,person,"Captain  Moore Brabos, Moore-Brabazon","{""first""=>[""""], ""surname""=>[""Moore Brabos"", ""Moore-Brabazon""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other"", ""author""], ""unit""=>[""2 RI ROA"", """"]}",,,
+6,AWD0000uao,report,127,2,,,,[],,reference,No 2,{},,,
+8,AWD0000uao,report,127,3,,,,[],,date,3 Sep 1916,{},,,
+9,AWD0000uao,report,127,4,,,,[],,person,Captain  Moore-Brabazon,"{""first""=>[""""], ""surname""=>[""Moore-Brabazon""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""combat"", ""other""], ""unit""=>[""""]}",,,
+10,AWD0000uao,report,127,4,,,,[],,person,Lieutenant  Harrison,"{""first""=>[""""], ""surname""=>[""Harrison""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""combat"", ""joined""], ""unit""=>[""""]}",,,
+11,AWD0000uao,report,127,2,,,,[],,person,"Captain  Moore-Brabazon, Moore Brabzaw","{""first""=>[""""], ""surname""=>[""Moore-Brabazon"", ""Moore Brabzaw""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""combat"", ""other""], ""unit""=>[""""]}",,,
+12,AWD0000uao,report,127,6,,,,[],,person,Lieutenant  Royall,"{""first""=>[""""], ""surname""=>[""Royall""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other"", ""combat""], ""unit""=>[""""]}",,,
+14,AWD0000uao,report,127,3,,,,[],,person,Lieutenant  Royall,"{""first""=>[""""], ""surname""=>[""Royall""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""""]}",,,
+17,AWD0000uao,report,127,3,,,,[],,person,Lieutenant  Royall,"{""first""=>[""""], ""surname""=>[""Royall""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""""]}",,,
+8,AWD0000ubc,report,128,5,,,,[],,person,Lieutenant  Royall,"{""first""=>[""""], ""surname""=>[""Royall""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",,,
+13,AWD0000ubc,report,128,5,,,,[],,person,Captain  Considine,"{""first""=>[""""], ""surname""=>[""Considine""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""joined"", ""combat""], ""unit""=>[""""]}",,,
+15,AWD0000ubc,report,128,2,,,,[],,person,Company Sergeant Major E Power,"{""first""=>[""E""], ""surname""=>[""Power""], ""rank""=>[""Company Sergeant Major""], ""number""=>[""""], ""reason""=>[""combat"", ""author""], ""unit""=>["""", ""2 Bn Royal Irish Regiment""]}",,,
+17,AWD0000ubc,report,128,2,,,,[],,date,1 Oct 1916,{},,,
+9,AWD0000u99,report,129,3,,,,[],,date,3 Sep 1916,{},,,
+13,AWD0000u99,report,129,2,,,,[],,reference,map: Guillemont,{},,,
+16,AWD0000u99,report,129,6,,,,[],,person,Sergeant  Keogh,"{""first""=>[""""], ""surname""=>[""Keogh""], ""rank""=>[""Sergeant""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""""]}",,,
+20,AWD0000u99,report,129,5,,,,[],,person,Lieutenant  Finlay,"{""first""=>[""""], ""surname""=>[""Finlay""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""""]}",,,
+24,AWD0000u99,report,129,6,,,,[],,person,Captain  Bennett,"{""first""=>[""""], ""surname""=>[""Bennett""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+26,AWD0000u99,report,129,5,,,,[],,person,Second Lieutenant  Nolan,"{""first""=>[""""], ""surname""=>[""Nolan""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",,,
+27,AWD0000u99,report,129,6,,,,[],,person,Lieutenant  Dudley,"{""first""=>[""""], ""surname""=>[""Dudley""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+6,AWD0000u8t,report,130,4,,,,[],,person,Sergeant  Keogh,"{""first""=>[""""], ""surname""=>[""Keogh""], ""rank""=>[""Sergeant""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""""]}",,,
+7,AWD0000u8t,report,130,2,,,,[],,date,4 Sep 1916,{},,,
+8,AWD0000u8t,report,130,5,,,,[],,person,Second Lieutenant  Griffin,"{""first""=>[""""], ""surname""=>[""Griffin""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+9,AWD0000u9w,report,131,3,,,,[],,date,2 Sep 1916,{},,,
+17,AWD0000u9w,report,131,3,,,,[],,date,3 Sep 1916,{},,,
+8,AWD0000uaw,report,132,5,,,,[],,person,Captain  Bennett,"{""first""=>[""""], ""surname""=>[""Bennett""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+8,AWD0000uc1,report,133,4,,,,[],,person,Captain  Bennett,"{""first""=>[""""], ""surname""=>[""Bennett""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""""]}",,,
+8,AWD0000udb,report,134,2,,,,[],,person,Captain  Bennett,"{""first""=>[""""], ""surname""=>[""Bennett""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+9,AWD0000udb,report,134,2,,,,[],,person,Captain  ,"{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+7,AWD0000ua4,report,135,6,,,,[],,person,Second Lieutenant  Nolan,"{""first""=>[""""], ""surname""=>[""Nolan""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",,,
+8,AWD0000ua4,report,135,6,,,,[],,person,Second Lieutenant  Dudley,"{""first""=>[""""], ""surname""=>[""Dudley""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+6,AWD0000u9l,report,136,2,,,,[],,activity,fire,{},,,
+12,AWD0000u9l,report,136,5,,,,[],,person,Second Lieutenant  Griffin,"{""first""=>[""""], ""surname""=>[""Griffin""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""""]}",,,
+13,AWD0000u9l,report,136,2,,,,[],,diaryDate,4 Sep 1916,"{""day""=>[""4""], ""month""=>[""Sep""], ""year""=>[""1916""]}",,,
+14,AWD0000u9l,report,136,2,,,,[],,unit,Manchester Regiment,"{""name""=>[""Manchester Regiment""], ""context""=>[""relieved_by""]}",,,
+15,AWD0000u9l,report,136,6,,,,[],,person,Sergeant W Keogh,"{""first""=>[""W""], ""surname""=>[""Keogh""], ""rank""=>[""Sergeant""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+6,AWD0000ua5,diary,137,2,1916-10-04 00:00:00 UTC,4 Oct 1916,Romerin,"[0.0, 0.0]","",date,3 Sep 1916,{},,,
+7,AWD0000ua5,diary,137,4,1916-10-04 00:00:00 UTC,4 Oct 1916,Romerin,"[0.0, 0.0]","",place,Delville Wood,"{""place""=>[""Delville Wood""], ""location""=>[""true"", ""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+12,AWD0000ua5,diary,137,2,1916-10-04 00:00:00 UTC,4 Oct 1916,Romerin,"[0.0, 0.0]","",activity,attack,{},,,
+13,AWD0000ua5,diary,137,4,1916-10-04 00:00:00 UTC,4 Oct 1916,Hop Alley,"[0.0, 0.0]","",place,Hop Alley,"{""place""=>[""Hop Alley""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3016016,Ginchy,"[2.83176, 50.02337]"
+16,AWD0000ua5,diary,137,3,1916-10-04 12:00:00 UTC,4 Oct 1916,Hop Alley,"[0.0, 0.0]",1200PM,time,1200PM,{},3016016,Ginchy,"[2.83176, 50.02337]"
+17,AWD0000ua5,diary,137,2,1916-10-04 12:00:00 UTC,4 Oct 1916,Hop Alley,"[0.0, 0.0]",1200PM,activity,movement,{},3016016,Ginchy,"[2.83176, 50.02337]"
+18,AWD0000ua5,diary,137,4,1916-10-04 17:00:00 UTC,4 Oct 1916,Hop Alley,"[0.0, 0.0]",0500PM,time,0500PM,{},3016016,Ginchy,"[2.83176, 50.02337]"
+19,AWD0000ua5,diary,137,3,1916-10-04 17:00:00 UTC,4 Oct 1916,Montauban Alley,"[0.0, 0.0]",0500PM,place,Montauban Alley,"{""place""=>[""Montauban Alley""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2997659,Longueval,"[2.80387, 50.02544]"
+22,AWD0000ua5,diary,137,4,1916-10-04 17:00:00 UTC,4 Oct 1916,Folly Trench,"[0.0, 0.0]",0500PM,place,Folly Trench,"{""place""=>[""Folly Trench""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+24,AWD0000ua5,diary,137,3,1916-10-04 17:00:00 UTC,4 Oct 1916,Ginchy,"[2.83176, 50.02337]",0500PM,place,Ginchy,"{""place""=>[""Ginchy""], ""location""=>[""true""], ""name""=>[""Ginchy""], ""lat""=>[""50.02337""], ""long""=>[""2.83176""], ""id""=>[""3016016""]}",3022134,Cuinchy,"[2.7488, 50.5175]"
+26,AWD0000ua5,diary,137,2,1916-10-04 17:00:00 UTC,4 Oct 1916,"Waterloo Farm, Waterlot Farm","[2.83176, 50.02337]",0500PM,place,"Waterloo Farm, Waterlot Farm","{""place""=>[""Waterloo Farm"", ""Waterlot Farm""], ""location""=>[""true""], ""name""=>[""Ginchy""], ""lat""=>[""50.02337""], ""long""=>[""2.83176""], ""id""=>[""3016016""]}",,,
+27,AWD0000ua5,diary,137,2,1916-10-04 17:00:00 UTC,4 Oct 1916,"Waterloo Farm, Waterlot Farm","[2.83176, 50.02337]",0500PM,place,Waterlot Farm (Sucrerie),"{""place""=>[""Waterlot Farm (Sucrerie)""], ""location""=>[""false"", ""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+28,AWD0000ua5,diary,137,2,1916-10-04 17:00:00 UTC,4 Oct 1916,Sucrerie,"[2.83176, 50.02337]",0500PM,place,Sucrerie,"{""place""=>[""Sucrerie""], ""location""=>[""true""], ""name""=>["""", ""Ginchy""], ""lat""=>["""", ""50.02337""], ""long""=>["""", ""2.83176""], ""id""=>["""", ""3016016""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+29,AWD0000ua5,diary,137,4,1916-10-04 16:50:00 UTC,4 Oct 1916,Sucrerie,"[2.83176, 50.02337]",0450PM,time,0450PM,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+30,AWD0000ua5,diary,137,3,1916-10-04 16:50:00 UTC,4 Oct 1916,Ginchy,"[2.83176, 50.02337]",0450PM,place,Ginchy,"{""place""=>[""Ginchy""], ""location""=>[""true""], ""name""=>[""Ginchy""], ""lat""=>[""50.02337""], ""long""=>[""2.83176""], ""id""=>[""3016016""]}",3022134,Cuinchy,"[2.7488, 50.5175]"
+32,AWD0000ua5,diary,137,4,1916-10-04 16:50:00 UTC,4 Oct 1916,Ginchy,"[2.83176, 50.02337]",0450PM,place,Ginchy,"{""place""=>[""Ginchy""], ""location""=>[""false"", ""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3022134,Cuinchy,"[2.7488, 50.5175]"
+35,AWD0000ua5,diary,137,2,1916-10-04 16:50:00 UTC,4 Oct 1916,Ginchy,"[2.83176, 50.02337]",0450PM,unit,Manchester Regiment,"{""name""=>[""Manchester Regiment""], ""context""=>[""other"", ""joined""]}",3022134,Cuinchy,"[2.7488, 50.5175]"
+37,AWD0000ua5,diary,137,4,1916-10-04 16:50:00 UTC,4 Oct 1916,Ginchy,"[2.83176, 50.02337]",0450PM,unit,Welsh Fusiliers,"{""name""=>[""Welsh Fusiliers""], ""context""=>[""other""]}",3022134,Cuinchy,"[2.7488, 50.5175]"
+40,AWD0000ua5,diary,137,3,1916-10-04 16:50:00 UTC,4 Oct 1916,Ginchy,"[2.83176, 50.02337]",0450PM,activity,strength,{},3022134,Cuinchy,"[2.7488, 50.5175]"
+41,AWD0000ua5,diary,137,2,1916-10-04 16:50:00 UTC,4 Oct 1916,Ginchy,"[2.83176, 50.02337]",0450PM,activity,attack,{},3022134,Cuinchy,"[2.7488, 50.5175]"
+42,AWD0000ua5,diary,137,4,1916-10-04 17:05:00 UTC,4 Oct 1916,Ginchy,"[2.83176, 50.02337]",0505PM,time,0505PM,{},3022134,Cuinchy,"[2.7488, 50.5175]"
+43,AWD0000ua5,diary,137,3,1916-10-04 17:05:00 UTC,4 Oct 1916,Ginchy,"[2.83176, 50.02337]",0505PM,activity,fire,{},3022134,Cuinchy,"[2.7488, 50.5175]"
+44,AWD0000ua5,diary,137,2,1916-10-04 17:05:00 UTC,4 Oct 1916,Ginchy,"[2.83176, 50.02337]",0505PM,place,Sucrerie,"{""place""=>[""Sucrerie""], ""location""=>[""true"", ""false""], ""name""=>[""Ginchy"", """"], ""lat""=>[""50.02337"", """"], ""long""=>[""2.83176"", """"], ""id""=>[""3016016"", """"]}",3022134,Cuinchy,"[2.7488, 50.5175]"
+46,AWD0000ua5,diary,137,3,1916-10-04 17:05:00 UTC,4 Oct 1916,Angle Trench,"[2.83176, 50.02337]",0505PM,place,Angle Trench,"{""place""=>[""Angle Trench""], ""location""=>[""true""], ""name""=>[""Ginchy""], ""lat""=>[""50.02337""], ""long""=>[""2.83176""], ""id""=>[""3016016""]}",,,
+6,AWD0000uac,diary,138,4,1916-10-04 17:10:00 UTC,4 Oct 1916,Angle Trench,"[2.83176, 50.02337]",0510PM,time,0510PM,{},,,
+8,AWD0000uac,diary,138,3,1916-10-04 17:10:00 UTC,4 Oct 1916,Angle Trench,"[2.83176, 50.02337]",0510PM,activity,fire,{},,,
+12,AWD0000uac,diary,138,4,1916-10-04 17:10:00 UTC,4 Oct 1916,Stout Trench,"[2.83176, 50.02337]",0510PM,place,Stout Trench,"{""place""=>[""Stout Trench""], ""location""=>[""true""], ""name""=>[""Ginchy""], ""lat""=>[""50.02337""], ""long""=>[""2.83176""], ""id""=>[""3016016""]}",3016016,Ginchy,"[2.83176, 50.02337]"
+14,AWD0000uac,diary,138,3,1916-10-04 17:10:00 UTC,4 Oct 1916,Ginchy,"[2.83176, 50.02337]",0510PM,place,Ginchy,"{""place""=>[""Ginchy""], ""location""=>[""true""], ""name""=>[""Ginchy""], ""lat""=>[""50.02337""], ""long""=>[""2.83176""], ""id""=>[""3016016""]}",3022134,Cuinchy,"[2.7488, 50.5175]"
+16,AWD0000uac,diary,138,4,1916-10-04 17:10:00 UTC,4 Oct 1916,Hop Alley,"[2.83176, 50.02337]",0510PM,place,Hop Alley,"{""place""=>[""Hop Alley""], ""location""=>[""true""], ""name""=>[""Ginchy""], ""lat""=>[""50.02337""], ""long""=>[""2.83176""], ""id""=>[""3016016""]}",3016016,Ginchy,"[2.83176, 50.02337]"
+18,AWD0000uac,diary,138,4,1916-10-04 17:40:00 UTC,4 Oct 1916,Hop Alley,"[2.83176, 50.02337]",0540PM,time,0540PM,{},3016016,Ginchy,"[2.83176, 50.02337]"
+21,AWD0000uac,diary,138,4,1916-10-04 17:40:00 UTC,4 Oct 1916,Stout Trench,"[2.83176, 50.02337]",0540PM,place,Stout Trench,"{""place""=>[""Stout Trench""], ""location""=>[""true""], ""name""=>[""Ginchy""], ""lat""=>[""50.02337""], ""long""=>[""2.83176""], ""id""=>[""3016016""]}",3016016,Ginchy,"[2.83176, 50.02337]"
+25,AWD0000uac,diary,138,4,1916-10-04 17:40:00 UTC,4 Oct 1916,Stout Trench,"[2.83176, 50.02337]",0540PM,place,Stout Trench,"{""place""=>[""Stout Trench""], ""location""=>[""true""], ""name""=>[""Ginchy""], ""lat""=>[""50.02337""], ""long""=>[""2.83176""], ""id""=>[""3016016""]}",3016016,Ginchy,"[2.83176, 50.02337]"
+26,AWD0000uac,diary,138,3,1916-10-04 17:40:00 UTC,4 Oct 1916,Ginchy,"[2.83176, 50.02337]",0540PM,place,Ginchy,"{""place""=>[""Ginchy""], ""location""=>[""true""], ""name""=>[""Ginchy""], ""lat""=>[""50.02337""], ""long""=>[""2.83176""], ""id""=>[""3016016""]}",3022134,Cuinchy,"[2.7488, 50.5175]"
+28,AWD0000uac,diary,138,4,1916-10-04 17:30:00 UTC,4 Oct 1916,Ginchy,"[2.83176, 50.02337]",0530PM,time,0530PM,{},3022134,Cuinchy,"[2.7488, 50.5175]"
+31,AWD0000uac,diary,138,4,1916-10-04 17:45:00 UTC,4 Oct 1916,Ginchy,"[2.83176, 50.02337]",0545PM,time,0545PM,{},3022134,Cuinchy,"[2.7488, 50.5175]"
+33,AWD0000uac,diary,138,4,1916-10-04 17:45:00 UTC,4 Oct 1916,Stout Trench,"[2.83176, 50.02337]",0545PM,place,Stout Trench,"{""place""=>[""Stout Trench""], ""location""=>[""true""], ""name""=>[""Ginchy""], ""lat""=>[""50.02337""], ""long""=>[""2.83176""], ""id""=>[""3016016""]}",3016016,Ginchy,"[2.83176, 50.02337]"
+34,AWD0000uac,diary,138,4,1916-10-04 18:15:00 UTC,4 Oct 1916,Stout Trench,"[2.83176, 50.02337]",0615PM,time,0615PM,{},3016016,Ginchy,"[2.83176, 50.02337]"
+36,AWD0000uac,diary,138,2,1916-10-04 18:15:00 UTC,4 Oct 1916,Stout Trench,"[2.83176, 50.02337]",0615PM,activity,line,{},3016016,Ginchy,"[2.83176, 50.02337]"
+38,AWD0000uac,diary,138,4,1916-10-04 18:15:00 UTC,4 Oct 1916,Porter Trench,"[2.83176, 50.02337]",0615PM,place,Porter Trench,"{""place""=>[""Porter Trench""], ""location""=>[""true""], ""name""=>[""Ginchy""], ""lat""=>[""50.02337""], ""long""=>[""2.83176""], ""id""=>[""3016016""]}",,,
+4,AWD0000uab,diary,139,2,1916-09-03 00:00:00 UTC,3 Sep 1916,Porter Trench,"[2.83176, 50.02337]","",diaryDate,3 Sep 1916,"{""day""=>[""3""], ""month""=>[""Sep""], ""year""=>[""1916""]}",,,
+6,AWD0000uab,diary,139,2,1916-09-03 00:00:00 UTC,3 Sep 1916,Porter Trench,"[2.83176, 50.02337]","",activity,enemy_activity,{},,,
+11,AWD0000uab,diary,139,2,1916-09-03 00:00:00 UTC,3 Sep 1916,Porter Trench,"[2.83176, 50.02337]","",unit,Welsh Fusiliers,"{""name""=>[""Welsh Fusiliers""], ""context""=>[""joined""]}",,,
+13,AWD0000uab,diary,139,4,1916-09-03 19:20:00 UTC,3 Sep 1916,Porter Trench,"[2.83176, 50.02337]",0720PM,time,0720PM,{},,,
+14,AWD0000uab,diary,139,4,1916-09-03 19:20:00 UTC,3 Sep 1916,Porter Trench,"[2.83176, 50.02337]",0720PM,place,Longueval,"{""place""=>[""Longueval""], ""location""=>[""false"", ""true""], ""name""=>["""", ""Longueval""], ""lat""=>["""", ""50.02544""], ""long""=>["""", ""2.80387""], ""id""=>["""", ""2997659""]}",,,
+15,AWD0000uab,diary,139,2,1916-09-03 19:20:00 UTC,3 Sep 1916,Porter Trench,"[2.83176, 50.02337]",0720PM,activity,fire,{},,,
+16,AWD0000uab,diary,139,4,1916-09-03 20:00:00 UTC,3 Sep 1916,Porter Trench,"[2.83176, 50.02337]",0800PM,time,0800PM,{},,,
+17,AWD0000uab,diary,139,5,1916-09-03 20:00:00 UTC,3 Sep 1916,Porter Trench,"[2.83176, 50.02337]",0800PM,place,Ginchy,"{""place""=>[""Ginchy""], ""location""=>[""false""], ""name""=>[""Ginchy""], ""lat""=>[""50.02337""], ""long""=>[""2.83176""], ""id""=>[""3016016""]}",,,
+21,AWD0000uab,diary,139,2,1916-09-03 20:00:00 UTC,3 Sep 1916,Porter Trench,"[2.83176, 50.02337]",0800PM,person,"Captain  Considine, Constidine","{""first""=>[""""], ""surname""=>[""Considine"", ""Constidine""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""""]}",,,
+22,AWD0000uab,diary,139,2,1916-09-03 20:00:00 UTC,3 Sep 1916,Porter Trench,"[2.83176, 50.02337]",0800PM,place,Stout Trench,"{""place""=>[""Stout Trench""], ""location""=>[""false"", ""true""], ""name""=>["""", ""Ginchy""], ""lat""=>["""", ""50.02337""], ""long""=>["""", ""2.83176""], ""id""=>["""", ""3016016""]}",,,
+23,AWD0000uab,diary,139,4,1916-09-03 22:45:00 UTC,3 Sep 1916,Porter Trench,"[2.83176, 50.02337]",1045PM,time,1045PM,{},,,
+24,AWD0000uab,diary,139,3,1916-09-03 22:45:00 UTC,3 Sep 1916,Stout Trench,"[2.83176, 50.02337]",1045PM,place,Stout Trench,"{""place""=>[""Stout Trench""], ""location""=>[""true""], ""name""=>[""Ginchy""], ""lat""=>[""50.02337""], ""long""=>[""2.83176""], ""id""=>[""3016016""]}",3016016,Ginchy,"[2.83176, 50.02337]"
+25,AWD0000uab,diary,139,2,1916-09-03 22:45:00 UTC,3 Sep 1916,Sucrerie,"[2.80387, 50.02544]",1045PM,place,Sucrerie,"{""place""=>[""Sucrerie""], ""location""=>[""true""], ""name""=>[""Longueval"", """"], ""lat""=>[""50.02544"", """"], ""long""=>[""2.80387"", """"], ""id""=>[""2997659"", """"]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+27,AWD0000uab,diary,139,3,1916-09-03 02:00:00 UTC,3 Sep 1916,Sucrerie,"[2.80387, 50.02544]",0200AM,time,0200AM,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+28,AWD0000uab,diary,139,3,1916-09-03 02:00:00 UTC,3 Sep 1916,Waterlot Farm,"[0.0, 0.0]",0200AM,place,Waterlot Farm,"{""place""=>[""Waterlot Farm""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+34,AWD0000uab,diary,139,3,1916-09-03 02:00:00 UTC,3 Sep 1916,Waterlot Farm,"[0.0, 0.0]",0200AM,person,Captain  Considine,"{""first""=>[""""], ""surname""=>[""Considine""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""""]}",,,
+6,AWD0000u9g,diary,140,3,1916-09-03 02:00:00 UTC,3 Sep 1916,Stout Trench,"[2.83176, 50.02337]",0200AM,place,Stout Trench,"{""place""=>[""Stout Trench""], ""location""=>[""true""], ""name""=>[""Ginchy""], ""lat""=>[""50.02337""], ""long""=>[""2.83176""], ""id""=>[""3016016""]}",3016016,Ginchy,"[2.83176, 50.02337]"
+8,AWD0000u9g,diary,140,4,1916-09-03 02:00:00 UTC,3 Sep 1916,Stout Trench,"[2.83176, 50.02337]",0200AM,person,",Major  ","{""first""=>[""""], ""surname""=>[""""], ""rank""=>["""", ""Major""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",3016016,Ginchy,"[2.83176, 50.02337]"
+5,AWD0000u9e,report,141,4,,,,[],,date,3 Sep 1916,{},,,
+6,AWD0000u9e,report,141,3,,,,[],,diaryDate,3 Sep 1916,"{""day""=>[""3""], ""month""=>[""Sep""], ""year""=>[""1916""]}",,,
+9,AWD0000u9e,report,141,2,,,,[],,place,"Ginchy, Guinchy","{""place""=>[""Ginchy"", ""Guinchy""], ""location""=>[""true""], ""name""=>["""", ""Ginchy""], ""lat""=>["""", ""50.02337""], ""long""=>["""", ""2.83176""], ""id""=>["""", ""3016016""]}",,,
+12,AWD0000u9e,report,141,2,,,,[],,activity,attack,{},,,
+13,AWD0000u9e,report,141,3,,,,[],,place,Guinchy,"{""place""=>[""Guinchy""], ""location""=>[""true""], ""name""=>[""Ginchy""], ""lat""=>[""50.02337""], ""long""=>[""2.83176""], ""id""=>[""3016016""]}",,,
+17,AWD0000u9e,report,141,3,,,,[],,time,1230PM,{},,,
+18,AWD0000u9e,report,141,2,,,,[],,diaryDate,3 Sep 1916,"{""day""=>[""3""], ""month""=>[""Sep""], ""year""=>[""1916""]}",,,
+20,AWD0000u9e,report,141,2,,,,[],,activity,attack,{},,,
+21,AWD0000u9e,report,141,2,,,,[],,time,1200PM,{},,,
+23,AWD0000u9e,report,141,3,,,,[],,place,Guillamont,"{""place""=>[""Guillamont""], ""location""=>[""true""], ""name""=>[""Ginchy""], ""lat""=>[""50.02337""], ""long""=>[""2.83176""], ""id""=>[""3016016""]}",,,
+24,AWD0000u9e,report,141,2,,,,[],,place,"Frones wood, Fromes Wood","{""place""=>[""Frones wood"", ""Fromes Wood""], ""location""=>[""true""], ""name""=>[""Ginchy""], ""lat""=>[""50.02337""], ""long""=>[""2.83176""], ""id""=>[""3016016""]}",,,
+25,AWD0000u9e,report,141,2,,,,[],,place,Montauban,"{""place""=>[""Montauban""], ""location""=>[""true"", ""false""], ""name""=>[""Ginchy"", ""Montauban""], ""lat""=>[""50.02337"", ""44.01667""], ""long""=>[""2.83176"", ""1.35""], ""id""=>[""3016016"", ""2993002""]}",,,
+4,AWD0000u94,report,142,2,,,,[],,date,3 Sep 1916,{},,,
+11,AWD0000u94,report,142,4,,,,[],,person,Captain  Considine,"{""first""=>[""""], ""surname""=>[""Considine""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""""]}",,,
+2,AWD0000u97,report,143,2,,,,[],,date,3 Sep 1916,{},,,
+12,AWD0000u97,report,143,5,,,,[],,person,  Harrison,"{""first""=>[""""], ""surname""=>[""Harrison""], ""rank""=>[""""], ""number""=>[""""], ""reason""=>[""casualty_wounded"", ""combat""], ""unit""=>[""""]}",,,
+14,AWD0000u97,report,143,2,,,,[],,unit,"Manchester regiment, Manchester Regiment","{""name""=>[""Manchester regiment"", ""Manchester Regiment""], ""context""=>[""other""]}",,,
+4,AWD0000uat,report,144,2,,,,[],,date,3 Sep 1916,{},,,
+9,AWD0000uat,report,144,2,,,,[],,person," M, Hutchings","{""first""=>[""M"", """"], ""surname""=>[""Hutchings""], ""rank""=>[""""], ""number""=>[""""], ""reason""=>[""combat"", ""other""], ""unit""=>[""Manchester Regiment""]}",,,
+16,AWD0000uat,report,144,2,,,,[],,place,"Stout Trench, Stout trench","{""place""=>[""Stout Trench"", ""Stout trench""], ""location""=>[""true""], ""name""=>[""Ginchy""], ""lat""=>[""50.02337""], ""long""=>[""2.83176""], ""id""=>[""3016016""]}",,,
+17,AWD0000uat,report,144,2,,,,[],,activity,fire,{},,,
+20,AWD0000uat,report,144,2,,,,[],,activity,repair,{},,,
+21,AWD0000uat,report,144,2,,,,[],,time,0900AM,{},,,
+23,AWD0000uat,report,144,2,,,,[],,activity,attack,{},,,
+4,AWD0000u93,report,145,2,,,,[],,date,3 Sep 1916,{},,,
+8,AWD0000u93,report,145,2,,,,[],,place,Guinchy,"{""place""=>[""Guinchy""], ""location""=>[""true""], ""name""=>[""Ginchy""], ""lat""=>[""50.02337""], ""long""=>[""2.83176""], ""id""=>[""3016016""]}",,,
+9,AWD0000u93,report,145,2,,,,[],,activity,fire,{},,,
+11,AWD0000u93,report,145,2,,,,[],,activity,fire,{},,,
+12,AWD0000u93,report,145,2,,,,[],,unit,"^Gordon Highlanders, Gordon Highlander","{""name""=>[""^Gordon Highlanders"", ""Gordon Highlander""], ""context""=>[""relieved_by""]}",,,
+14,AWD0000u93,report,145,6,,,,[],,person,Second Lieutenant L A Hayden,"{""first""=>[""L A""], ""surname""=>[""Hayden""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,

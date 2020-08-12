@@ -1,0 +1,582 @@
+Order,Page,Page type,Page number,Count,DateTime,Date,Place,Lat/Lon,Time,Type,Label,Data,GeoID,GeoName,GeoCoords
+1,AWD0001xwq,diary,338,5,1915-09-01 00:00:00 UTC,1 Sep 1915,"","[0.0, 0.0]","",diaryDate,1 Sep 1915,"{""day""=>[""1""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2985684,Pozières,"[2.72929, 50.04047]"
+3,AWD0001xwq,diary,338,4,1915-09-01 00:00:00 UTC,1 Sep 1915,"","[0.0, 0.0]","",weather,fine,{},2985684,Pozières,"[2.72929, 50.04047]"
+4,AWD0001xwq,diary,338,2,1915-09-01 00:00:00 UTC,1 Sep 1915,"","[0.0, 0.0]","",activity,construction,{},2985684,Pozières,"[2.72929, 50.04047]"
+5,AWD0001xwq,diary,338,3,1915-09-01 00:00:00 UTC,1 Sep 1915,"","[0.0, 0.0]","",activity,repair,{},2985684,Pozières,"[2.72929, 50.04047]"
+12,AWD0001xwq,diary,338,2,1915-09-01 00:00:00 UTC,1 Sep 1915,"","[0.0, 0.0]","",activity,enemy_activity,{},2985684,Pozières,"[2.72929, 50.04047]"
+1,AWD0001xye,diary,339,2,1915-09-02 00:00:00 UTC,2 Sep 1915,"","[0.0, 0.0]","",diaryDate,2 Sep 1915,"{""day""=>[""2""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2985684,Pozières,"[2.72929, 50.04047]"
+9,AWD0001xye,diary,339,3,1915-09-02 00:00:00 UTC,2 Sep 1915,"","[0.0, 0.0]","",weather,overcast,{},2985684,Pozières,"[2.72929, 50.04047]"
+11,AWD0001xye,diary,339,2,1915-09-02 00:00:00 UTC,2 Sep 1915,"","[0.0, 0.0]","",activity,repair,{},2985684,Pozières,"[2.72929, 50.04047]"
+12,AWD0001xye,diary,339,2,1915-09-02 00:00:00 UTC,2 Sep 1915,"","[0.0, 0.0]","",diaryDate,2 Sep 1915,"{""day""=>[""2""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2985684,Pozières,"[2.72929, 50.04047]"
+1,AWD0001xyg,diary,340,7,1915-09-03 00:00:00 UTC,3 Sep 1915,"","[0.0, 0.0]","",diaryDate,3 Sep 1915,"{""day""=>[""3""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2985684,Pozières,"[2.72929, 50.04047]"
+3,AWD0001xyg,diary,340,6,1915-09-03 00:00:00 UTC,3 Sep 1915,"","[0.0, 0.0]","",weather,rain,{},2985684,Pozières,"[2.72929, 50.04047]"
+4,AWD0001xyg,diary,340,2,1915-09-03 01:00:00 UTC,3 Sep 1915,"","[0.0, 0.0]",010AM,time,010AM,{},2985684,Pozières,"[2.72929, 50.04047]"
+5,AWD0001xyg,diary,340,6,1915-09-03 01:00:00 UTC,3 Sep 1915,"","[0.0, 0.0]",010AM,activity,repair,{},2985684,Pozières,"[2.72929, 50.04047]"
+6,AWD0001xyg,diary,340,3,1915-09-03 01:00:00 UTC,3 Sep 1915,"","[0.0, 0.0]",010AM,unit,2/Sussex,"{""name""=>[""2/Sussex""], ""context""=>[""joined""]}",2985684,Pozières,"[2.72929, 50.04047]"
+10,AWD0001xyg,diary,340,2,1915-09-03 01:00:00 UTC,3 Sep 1915,"","[0.0, 0.0]",010AM,activity,movement,{},2985684,Pozières,"[2.72929, 50.04047]"
+11,AWD0001xyg,diary,340,4,1915-09-03 01:00:00 UTC,3 Sep 1915,"","[0.0, 0.0]",010AM,unit,1/Northampton,"{""name""=>[""1/Northampton""], ""context""=>[""joined""]}",2985684,Pozières,"[2.72929, 50.04047]"
+13,AWD0001xyg,diary,340,2,1915-09-03 01:00:00 UTC,3 Sep 1915,"","[0.0, 0.0]",010AM,unit,"2/KRR, 2 KRR","{""name""=>[""2/KRR"", ""2 KRR""], ""context""=>[""other"", ""joined""]}",2985684,Pozières,"[2.72929, 50.04047]"
+14,AWD0001xyg,diary,340,4,1915-09-03 01:00:00 UTC,3 Sep 1915,"","[0.0, 0.0]",010AM,unit,2/Sussex,"{""name""=>[""2/Sussex""], ""context""=>[""joined""]}",2985684,Pozières,"[2.72929, 50.04047]"
+16,AWD0001xyg,diary,340,5,1915-09-03 01:00:00 UTC,3 Sep 1915,"","[0.0, 0.0]",010AM,person,Lieutenant Colonel  Green,"{""first""=>[""""], ""surname""=>[""Green""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+17,AWD0001xyg,diary,340,5,1915-09-03 01:00:00 UTC,3 Sep 1915,"","[0.0, 0.0]",010AM,place,Vermelles,"{""place""=>[""Vermelles""], ""location""=>[""false""], ""name""=>[""Vermelles""], ""lat""=>[""50.48949""], ""long""=>[""2.74739""], ""id""=>[""2969864""]}",2985684,Pozières,"[2.72929, 50.04047]"
+18,AWD0001xyg,diary,340,3,1915-09-03 01:00:00 UTC,3 Sep 1915,"","[0.0, 0.0]",010AM,activity,repair,{},2985684,Pozières,"[2.72929, 50.04047]"
+19,AWD0001xyg,diary,340,2,1915-09-03 01:00:00 UTC,3 Sep 1915,"","[0.0, 0.0]",010AM,person,Captain  ,"{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+1,AWD0001xyi,diary,341,5,1915-09-03 00:00:00 UTC,3 Sep 1915,"","[0.0, 0.0]","",diaryDate,3 Sep 1915,"{""day""=>[""3""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2985684,Pozières,"[2.72929, 50.04047]"
+2,AWD0001xyi,diary,341,3,1915-09-03 00:00:00 UTC,3 Sep 1915,"","[0.0, 0.0]","",activity,enemy_activity,{},2985684,Pozières,"[2.72929, 50.04047]"
+3,AWD0001xyi,diary,341,2,1915-09-03 00:00:00 UTC,3 Sep 1915,"","[0.0, 0.0]","",activity,fire,{},2985684,Pozières,"[2.72929, 50.04047]"
+4,AWD0001xyi,diary,341,3,1915-09-03 00:00:00 UTC,3 Sep 1915,"","[0.0, 0.0]","",place,"bois carre, Bois Carre, Bois Carré","{""place""=>[""bois carre"", ""Bois Carre"", ""Bois Carré""], ""location""=>[""false""], ""name""=>[""Vermelles""], ""lat""=>[""50.48949""], ""long""=>[""2.74739""], ""id""=>[""2969864""]}",2985684,Pozières,"[2.72929, 50.04047]"
+6,AWD0001xyi,diary,341,6,1915-09-03 00:00:00 UTC,3 Sep 1915,"","[0.0, 0.0]","",casualties,sick: 1,{},2985684,Pozières,"[2.72929, 50.04047]"
+8,AWD0001xyi,diary,341,4,1915-09-03 00:00:00 UTC,3 Sep 1915,"","[0.0, 0.0]","",strength,"officer: 19, other: 873",{},2985684,Pozières,"[2.72929, 50.04047]"
+9,AWD0001xyi,diary,341,2,1915-09-03 00:00:00 UTC,3 Sep 1915,"","[0.0, 0.0]","",domestic,rations,{},2985684,Pozières,"[2.72929, 50.04047]"
+10,AWD0001xyi,diary,341,4,1915-09-03 00:00:00 UTC,3 Sep 1915,"","[0.0, 0.0]","",person,Second Lieutenant  Nash,"{""first""=>[""""], ""surname""=>[""Nash""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other"", ""departed_training""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+1,AWD0001xvv,diary,342,7,1915-09-04 00:00:00 UTC,4 Sep 1915,"","[0.0, 0.0]","",diaryDate,4 Sep 1915,"{""day""=>[""4""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2985684,Pozières,"[2.72929, 50.04047]"
+2,AWD0001xvv,diary,342,5,1915-09-04 00:00:00 UTC,4 Sep 1915,"","[0.0, 0.0]","",weather,rain,{},2985684,Pozières,"[2.72929, 50.04047]"
+3,AWD0001xvv,diary,342,11,1915-09-04 00:00:00 UTC,4 Sep 1915,"","[0.0, 0.0]","",activity,repair,{},2985684,Pozières,"[2.72929, 50.04047]"
+4,AWD0001xvv,diary,342,2,1915-09-04 00:00:00 UTC,4 Sep 1915,"","[0.0, 0.0]","",activity,construction,{},2985684,Pozières,"[2.72929, 50.04047]"
+5,AWD0001xvv,diary,342,3,1915-09-04 00:00:00 UTC,4 Sep 1915,"","[0.0, 0.0]","",activity,enemy_activity,{},2985684,Pozières,"[2.72929, 50.04047]"
+7,AWD0001xvv,diary,342,3,1915-09-04 22:30:00 UTC,4 Sep 1915,"","[0.0, 0.0]",1030PM,time,1030PM,{},2985684,Pozières,"[2.72929, 50.04047]"
+8,AWD0001xvv,diary,342,4,1915-09-04 22:30:00 UTC,4 Sep 1915,"","[0.0, 0.0]",1030PM,place,bois carre,"{""place""=>[""bois carre""], ""location""=>[""false""], ""name""=>["""", ""Vermelles""], ""lat""=>["""", ""50.48949""], ""long""=>["""", ""2.74739""], ""id""=>["""", ""2969864""]}",2985684,Pozières,"[2.72929, 50.04047]"
+1,AWD0001xvx,diary,343,6,1915-09-04 00:00:00 UTC,4 Sep 1915,"","[0.0, 0.0]","",diaryDate,4 Sep 1915,"{""day""=>[""4""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2985684,Pozières,"[2.72929, 50.04047]"
+4,AWD0001xvx,diary,343,3,1915-09-04 00:00:00 UTC,4 Sep 1915,"","[0.0, 0.0]","",gridRef,G 23 C 29,{},2985684,Pozières,"[2.72929, 50.04047]"
+7,AWD0001xvx,diary,343,2,1915-09-04 00:00:00 UTC,4 Sep 1915,"","[0.0, 0.0]","",mapRef,"sheet: Auchy Lens, scale: 1:10000",{},2985684,Pozières,"[2.72929, 50.04047]"
+10,AWD0001xvx,diary,343,3,1915-09-04 00:00:00 UTC,4 Sep 1915,"","[0.0, 0.0]","",casualties,wounded: 3,{},2985684,Pozières,"[2.72929, 50.04047]"
+11,AWD0001xvx,diary,343,2,1915-09-04 00:00:00 UTC,4 Sep 1915,"","[0.0, 0.0]","",casualties,sick: 3,{},2985684,Pozières,"[2.72929, 50.04047]"
+12,AWD0001xvx,diary,343,3,1915-09-04 00:00:00 UTC,4 Sep 1915,"","[0.0, 0.0]","",strength,"officer: 19, other: 870",{},2985684,Pozières,"[2.72929, 50.04047]"
+13,AWD0001xvx,diary,343,2,1915-09-04 00:00:00 UTC,4 Sep 1915,"","[0.0, 0.0]","",person,Captain  ,"{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+1,AWD0001xyl,diary,344,7,1915-09-05 00:00:00 UTC,5 Sep 1915,"","[0.0, 0.0]","",diaryDate,5 Sep 1915,"{""day""=>[""5""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2985684,Pozières,"[2.72929, 50.04047]"
+2,AWD0001xyl,diary,344,6,1915-09-05 00:00:00 UTC,5 Sep 1915,"","[0.0, 0.0]","",weather,rain,{},2985684,Pozières,"[2.72929, 50.04047]"
+4,AWD0001xyl,diary,344,9,1915-09-05 00:00:00 UTC,5 Sep 1915,"","[0.0, 0.0]","",activity,repair,{},2985684,Pozières,"[2.72929, 50.04047]"
+6,AWD0001xyl,diary,344,6,1915-09-05 00:00:00 UTC,5 Sep 1915,"","[0.0, 0.0]","",casualties,wounded: 1,{},2985684,Pozières,"[2.72929, 50.04047]"
+10,AWD0001xyl,diary,344,2,1915-09-05 00:00:00 UTC,5 Sep 1915,"","[0.0, 0.0]","",activity,resupplying,{},2985684,Pozières,"[2.72929, 50.04047]"
+13,AWD0001xyl,diary,344,3,1915-09-05 00:00:00 UTC,5 Sep 1915,"","[0.0, 0.0]","",casualties,"wounded: 1, sick: 5",{},2985684,Pozières,"[2.72929, 50.04047]"
+14,AWD0001xyl,diary,344,3,1915-09-05 00:00:00 UTC,5 Sep 1915,"","[0.0, 0.0]","",casualties,sick: 5,{},2985684,Pozières,"[2.72929, 50.04047]"
+15,AWD0001xyl,diary,344,4,1915-09-05 00:00:00 UTC,5 Sep 1915,"","[0.0, 0.0]","",strength,"officer: 19, other: 864",{},2985684,Pozières,"[2.72929, 50.04047]"
+16,AWD0001xyl,diary,344,2,1915-09-05 00:00:00 UTC,5 Sep 1915,"","[0.0, 0.0]","",person,Captain  ,"{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+1,AWD0001xvn,diary,345,6,1915-09-06 00:00:00 UTC,6 Sep 1915,"","[0.0, 0.0]","",diaryDate,6 Sep 1915,"{""day""=>[""6""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2985684,Pozières,"[2.72929, 50.04047]"
+4,AWD0001xvn,diary,345,11,1915-09-06 00:00:00 UTC,6 Sep 1915,"","[0.0, 0.0]","",activity,repair,{},2985684,Pozières,"[2.72929, 50.04047]"
+6,AWD0001xvn,diary,345,4,1915-09-06 00:00:00 UTC,6 Sep 1915,"","[0.0, 0.0]","",person,"Second Lieutenant  Dowdes, Dowdle, Dowdle  DSO, Dow????","{""first""=>[""""], ""surname""=>[""Dowdes"", ""Dowdle"", ""Dowdle  DSO"", ""Dow????""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+7,AWD0001xvn,diary,345,6,1915-09-06 00:00:00 UTC,6 Sep 1915,"","[0.0, 0.0]","",activity,reconnoitered,{},2985684,Pozières,"[2.72929, 50.04047]"
+7,AWD0001xys,diary,346,4,1915-09-06 00:00:00 UTC,6 Sep 1915,"","[0.0, 0.0]","",person,Colonel  Green,"{""first""=>[""""], ""surname""=>[""Green""], ""rank""=>[""Colonel""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+8,AWD0001xys,diary,346,3,1915-09-06 00:00:00 UTC,6 Sep 1915,"","[0.0, 0.0]","",person,Second Lieutenant  Dowden,"{""first""=>[""""], ""surname""=>[""Dowden""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+9,AWD0001xys,diary,346,2,1915-09-06 00:00:00 UTC,6 Sep 1915,"","[0.0, 0.0]","",activity,reconnoitered,{},2985684,Pozières,"[2.72929, 50.04047]"
+10,AWD0001xys,diary,346,3,1915-09-06 00:00:00 UTC,6 Sep 1915,"","[0.0, 0.0]","",gridRef,g 22 b 9 7,{},2985684,Pozières,"[2.72929, 50.04047]"
+11,AWD0001xys,diary,346,3,1915-09-06 00:00:00 UTC,6 Sep 1915,"","[0.0, 0.0]","",gridRef,g 17 c 8 1,{},2985684,Pozières,"[2.72929, 50.04047]"
+13,AWD0001xys,diary,346,2,1915-09-06 00:00:00 UTC,6 Sep 1915,"","[0.0, 0.0]","",gridRef,g 22 d 3,{},2985684,Pozières,"[2.72929, 50.04047]"
+14,AWD0001xys,diary,346,3,1915-09-06 00:00:00 UTC,6 Sep 1915,"","[0.0, 0.0]","",gridRef,G 17 C 4 1,{},2985684,Pozières,"[2.72929, 50.04047]"
+15,AWD0001xys,diary,346,2,1915-09-06 00:00:00 UTC,6 Sep 1915,"","[0.0, 0.0]","",activity,reconnoitered,{},2985684,Pozières,"[2.72929, 50.04047]"
+16,AWD0001xys,diary,346,3,1915-09-06 00:00:00 UTC,6 Sep 1915,"","[0.0, 0.0]","",activity,fire,{},2985684,Pozières,"[2.72929, 50.04047]"
+17,AWD0001xys,diary,346,2,1915-09-06 00:00:00 UTC,6 Sep 1915,"","[0.0, 0.0]","",person,Captain  ,"{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+1,AWD0001xxs,diary,347,5,1915-09-06 00:00:00 UTC,6 Sep 1915,"","[0.0, 0.0]","",diaryDate,6 Sep 1915,"{""day""=>[""6""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2985684,Pozières,"[2.72929, 50.04047]"
+4,AWD0001xxs,diary,347,4,1915-09-06 00:00:00 UTC,6 Sep 1915,"","[0.0, 0.0]","",casualties,"wounded: 1, sick: 2",{},2985684,Pozières,"[2.72929, 50.04047]"
+6,AWD0001xxs,diary,347,5,1915-09-07 00:00:00 UTC,7 Sep 1915,"","[0.0, 0.0]","",diaryDate,7 Sep 1915,"{""day""=>[""7""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2985684,Pozières,"[2.72929, 50.04047]"
+8,AWD0001xxs,diary,347,5,1915-09-07 00:00:00 UTC,7 Sep 1915,"","[0.0, 0.0]","",weather,fine,{},2985684,Pozières,"[2.72929, 50.04047]"
+10,AWD0001xxs,diary,347,5,1915-09-07 00:00:00 UTC,7 Sep 1915,"","[0.0, 0.0]","",activity,repair,{},2985684,Pozières,"[2.72929, 50.04047]"
+11,AWD0001xxs,diary,347,2,1915-09-07 00:00:00 UTC,7 Sep 1915,"","[0.0, 0.0]","",unit,"9th Lancasters, 9/lancasters","{""name""=>[""9th Lancasters"", ""9/lancasters""], ""context""=>[""relieved_by""]}",2985684,Pozières,"[2.72929, 50.04047]"
+14,AWD0001xxs,diary,347,2,1915-09-07 12:15:00 UTC,7 Sep 1915,"","[0.0, 0.0]",1215PM,time,1215PM,{},2985684,Pozières,"[2.72929, 50.04047]"
+15,AWD0001xxs,diary,347,2,1915-09-07 12:15:00 UTC,7 Sep 1915,"","[0.0, 0.0]",1215PM,activity,movement,{},2985684,Pozières,"[2.72929, 50.04047]"
+16,AWD0001xxs,diary,347,3,1915-09-07 12:15:00 UTC,7 Sep 1915,"","[0.0, 0.0]",1215PM,gridRef,K 2 G 7 1,{},2985684,Pozières,"[2.72929, 50.04047]"
+18,AWD0001xxs,diary,347,2,1915-09-07 12:15:00 UTC,7 Sep 1915,"","[0.0, 0.0]",1215PM,domestic,accomodation,{},2985684,Pozières,"[2.72929, 50.04047]"
+21,AWD0001xxs,diary,347,6,1915-09-08 00:00:00 UTC,8 Sep 1915,"","[0.0, 0.0]","",diaryDate,8 Sep 1915,"{""day""=>[""8""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2985684,Pozières,"[2.72929, 50.04047]"
+23,AWD0001xxs,diary,347,6,1915-09-08 00:00:00 UTC,8 Sep 1915,"","[0.0, 0.0]","",weather,hot,{},2985684,Pozières,"[2.72929, 50.04047]"
+24,AWD0001xxs,diary,347,4,1915-09-08 00:00:00 UTC,8 Sep 1915,"","[0.0, 0.0]","",activity,movement,{},2985684,Pozières,"[2.72929, 50.04047]"
+25,AWD0001xxs,diary,347,3,1915-09-08 10:00:00 UTC,8 Sep 1915,"","[0.0, 0.0]",1000AM,time,1000AM,{},2985684,Pozières,"[2.72929, 50.04047]"
+26,AWD0001xxs,diary,347,2,1915-09-08 10:00:00 UTC,8 Sep 1915,"","[0.0, 0.0]",100AM,time,100AM,{},2985684,Pozières,"[2.72929, 50.04047]"
+28,AWD0001xxs,diary,347,5,1915-09-08 10:00:00 UTC,8 Sep 1915,"","[0.0, 0.0]",100AM,place,"Ecguecdecques, ecquecdecques, Ecquedecques, ECQUECDECQUES, Ecquecdecques","{""place""=>[""Ecguecdecques"", ""ecquecdecques"", ""Ecquedecques"", ""ECQUECDECQUES"", ""Ecquecdecques""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+29,AWD0001xxs,diary,347,4,1915-09-08 15:30:00 UTC,8 Sep 1915,"","[0.0, 0.0]",0330PM,time,0330PM,{},2985684,Pozières,"[2.72929, 50.04047]"
+31,AWD0001xxs,diary,347,2,1915-09-08 15:30:00 UTC,8 Sep 1915,"","[0.0, 0.0]",0330PM,person,Captain  ,"{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+1,AWD0001xv5,diary,348,6,1915-09-09 00:00:00 UTC,9 Sep 1915,"","[0.0, 0.0]","",diaryDate,9 Sep 1915,"{""day""=>[""9""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2985684,Pozières,"[2.72929, 50.04047]"
+4,AWD0001xv5,diary,348,2,1915-09-09 00:00:00 UTC,9 Sep 1915,"","[0.0, 0.0]","",weather,fine,{},2985684,Pozières,"[2.72929, 50.04047]"
+5,AWD0001xv5,diary,348,2,1915-09-09 00:00:00 UTC,9 Sep 1915,"","[0.0, 0.0]","",weather,hot,{},2985684,Pozières,"[2.72929, 50.04047]"
+6,AWD0001xv5,diary,348,2,1915-09-09 00:00:00 UTC,9 Sep 1915,"","[0.0, 0.0]","",person,"Major,Captain  Preaulx, Priaulx","{""first""=>[""""], ""surname""=>[""Preaulx"", ""Priaulx""], ""rank""=>[""Major"", ""Captain""], ""number""=>[""""], ""reason""=>[""promotion""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+7,AWD0001xv5,diary,348,2,1915-09-09 00:00:00 UTC,9 Sep 1915,"","[0.0, 0.0]","",person,"Major,Captain  Heseltine","{""first""=>[""""], ""surname""=>[""Heseltine""], ""rank""=>[""Major"", ""Captain""], ""number""=>[""""], ""reason""=>[""promotion""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+11,AWD0001xv5,diary,348,3,1915-09-09 00:00:00 UTC,9 Sep 1915,"","[0.0, 0.0]","",domestic,uniform,{},2985684,Pozières,"[2.72929, 50.04047]"
+12,AWD0001xv5,diary,348,2,1915-09-09 00:00:00 UTC,9 Sep 1915,"","[0.0, 0.0]","",activity,resupplying,{},2985684,Pozières,"[2.72929, 50.04047]"
+13,AWD0001xv5,diary,348,2,1915-09-09 00:00:00 UTC,9 Sep 1915,"","[0.0, 0.0]","",activity,construction,{},2985684,Pozières,"[2.72929, 50.04047]"
+14,AWD0001xv5,diary,348,5,1915-09-10 00:00:00 UTC,10 Sep 1915,"","[0.0, 0.0]","",diaryDate,10 Sep 1915,"{""day""=>[""10""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2985684,Pozières,"[2.72929, 50.04047]"
+16,AWD0001xv5,diary,348,2,1915-09-10 00:00:00 UTC,10 Sep 1915,"","[0.0, 0.0]","",weather,fine,{},2985684,Pozières,"[2.72929, 50.04047]"
+17,AWD0001xv5,diary,348,2,1915-09-10 00:00:00 UTC,10 Sep 1915,"","[0.0, 0.0]","",weather,hot,{},2985684,Pozières,"[2.72929, 50.04047]"
+18,AWD0001xv5,diary,348,5,1915-09-10 00:00:00 UTC,10 Sep 1915,"","[0.0, 0.0]","",domestic,hygiene,{},2985684,Pozières,"[2.72929, 50.04047]"
+21,AWD0001xv5,diary,348,4,1915-09-10 00:00:00 UTC,10 Sep 1915,"","[0.0, 0.0]","",person,Second Lieutenant  Nash,"{""first""=>[""""], ""surname""=>[""Nash""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_training"", ""other""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+22,AWD0001xv5,diary,348,4,1915-09-10 00:00:00 UTC,10 Sep 1915,"","[0.0, 0.0]","",person,"Lieutenant  Hine, Hone, Horne, Home","{""first""=>[""""], ""surname""=>[""Hine"", ""Hone"", ""Horne"", ""Home""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_training"", ""other""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+23,AWD0001xv5,diary,348,2,1915-09-10 00:00:00 UTC,10 Sep 1915,"","[0.0, 0.0]","",weather,fine,{},2985684,Pozières,"[2.72929, 50.04047]"
+24,AWD0001xv5,diary,348,4,1915-09-10 00:00:00 UTC,10 Sep 1915,"","[0.0, 0.0]","",person,Second Lieutenant  Dowden,"{""first""=>[""""], ""surname""=>[""Dowden""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_posted""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+25,AWD0001xv5,diary,348,2,1915-09-10 00:00:00 UTC,10 Sep 1915,"","[0.0, 0.0]","",domestic,uniform,{},2985684,Pozières,"[2.72929, 50.04047]"
+1,AWD0001xvb,diary,349,6,1915-09-11 00:00:00 UTC,11 Sep 1915,"","[0.0, 0.0]","",diaryDate,11 Sep 1915,"{""day""=>[""11""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2985684,Pozières,"[2.72929, 50.04047]"
+3,AWD0001xvb,diary,349,4,1915-09-11 00:00:00 UTC,11 Sep 1915,"","[0.0, 0.0]","",weather,fine,{},2985684,Pozières,"[2.72929, 50.04047]"
+5,AWD0001xvb,diary,349,5,1915-09-11 00:00:00 UTC,11 Sep 1915,"","[0.0, 0.0]","",person,Colonel  ,"{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""Colonel""], ""number""=>[""""], ""reason""=>[""promotion""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+7,AWD0001xvb,diary,349,3,1915-09-11 00:00:00 UTC,11 Sep 1915,"","[0.0, 0.0]","",domestic,parades,{},2985684,Pozières,"[2.72929, 50.04047]"
+11,AWD0001xvb,diary,349,4,1915-09-11 00:00:00 UTC,11 Sep 1915,"","[0.0, 0.0]","",place,St Venant,"{""place""=>[""St Venant""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+13,AWD0001xvb,diary,349,4,1915-09-11 00:00:00 UTC,11 Sep 1915,"","[0.0, 0.0]","",person,Major  Priaulx,"{""first""=>[""""], ""surname""=>[""Priaulx""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+14,AWD0001xvb,diary,349,5,1915-09-12 00:00:00 UTC,12 Sep 1915,"","[0.0, 0.0]","",diaryDate,12 Sep 1915,"{""day""=>[""12""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2985684,Pozières,"[2.72929, 50.04047]"
+16,AWD0001xvb,diary,349,4,1915-09-12 00:00:00 UTC,12 Sep 1915,"","[0.0, 0.0]","",weather,fine,{},2985684,Pozières,"[2.72929, 50.04047]"
+20,AWD0001xvb,diary,349,6,1915-09-13 00:00:00 UTC,13 Sep 1915,"","[0.0, 0.0]","",diaryDate,13 Sep 1915,"{""day""=>[""13""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2985684,Pozières,"[2.72929, 50.04047]"
+22,AWD0001xvb,diary,349,5,1915-09-13 00:00:00 UTC,13 Sep 1915,"","[0.0, 0.0]","",weather,fine,{},2985684,Pozières,"[2.72929, 50.04047]"
+23,AWD0001xvb,diary,349,2,1915-09-13 00:00:00 UTC,13 Sep 1915,"","[0.0, 0.0]","",activity,attack,{},2985684,Pozières,"[2.72929, 50.04047]"
+24,AWD0001xvb,diary,349,3,1915-09-13 00:00:00 UTC,13 Sep 1915,"","[0.0, 0.0]","",activity,training,{},2985684,Pozières,"[2.72929, 50.04047]"
+25,AWD0001xvb,diary,349,3,1915-09-13 19:30:00 UTC,13 Sep 1915,"","[0.0, 0.0]",0730PM,time,0730PM,{},2985684,Pozières,"[2.72929, 50.04047]"
+26,AWD0001xvb,diary,349,6,1915-09-13 19:30:00 UTC,13 Sep 1915,"","[0.0, 0.0]",0730PM,domestic,sport,{},2985684,Pozières,"[2.72929, 50.04047]"
+1,AWD0001xwv,diary,350,6,1915-09-14 00:00:00 UTC,14 Sep 1915,"","[0.0, 0.0]","",diaryDate,14 Sep 1915,"{""day""=>[""14""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2985684,Pozières,"[2.72929, 50.04047]"
+3,AWD0001xwv,diary,350,5,1915-09-14 00:00:00 UTC,14 Sep 1915,"","[0.0, 0.0]","",weather,fine,{},2985684,Pozières,"[2.72929, 50.04047]"
+5,AWD0001xwv,diary,350,4,1915-09-14 00:00:00 UTC,14 Sep 1915,"","[0.0, 0.0]","",domestic,inspections,{},2985684,Pozières,"[2.72929, 50.04047]"
+7,AWD0001xwv,diary,350,6,1915-09-15 00:00:00 UTC,15 Sep 1915,"","[0.0, 0.0]","",diaryDate,15 Sep 1915,"{""day""=>[""15""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2985684,Pozières,"[2.72929, 50.04047]"
+9,AWD0001xwv,diary,350,5,1915-09-15 00:00:00 UTC,15 Sep 1915,"","[0.0, 0.0]","",weather,fine,{},2985684,Pozières,"[2.72929, 50.04047]"
+10,AWD0001xwv,diary,350,3,1915-09-15 00:00:00 UTC,15 Sep 1915,"","[0.0, 0.0]","",activity,training,{},2985684,Pozières,"[2.72929, 50.04047]"
+11,AWD0001xwv,diary,350,4,1915-09-15 00:00:00 UTC,15 Sep 1915,"","[0.0, 0.0]","",domestic,parades,{},2985684,Pozières,"[2.72929, 50.04047]"
+12,AWD0001xwv,diary,350,6,1915-09-16 00:00:00 UTC,16 Sep 1915,"","[0.0, 0.0]","",diaryDate,16 Sep 1915,"{""day""=>[""16""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2985684,Pozières,"[2.72929, 50.04047]"
+14,AWD0001xwv,diary,350,5,1915-09-16 00:00:00 UTC,16 Sep 1915,"","[0.0, 0.0]","",weather,fine,{},2985684,Pozières,"[2.72929, 50.04047]"
+15,AWD0001xwv,diary,350,2,1915-09-16 00:00:00 UTC,16 Sep 1915,"","[0.0, 0.0]","",activity,training,{},2985684,Pozières,"[2.72929, 50.04047]"
+16,AWD0001xwv,diary,350,4,1915-09-16 00:00:00 UTC,16 Sep 1915,"","[0.0, 0.0]","",strength,"officer: 18, other: 859",{},2985684,Pozières,"[2.72929, 50.04047]"
+1,AWD0001xx1,diary,351,6,1915-09-17 00:00:00 UTC,17 Sep 1915,"","[0.0, 0.0]","",diaryDate,17 Sep 1915,"{""day""=>[""17""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2985684,Pozières,"[2.72929, 50.04047]"
+2,AWD0001xx1,diary,351,4,1915-09-17 00:00:00 UTC,17 Sep 1915,"","[0.0, 0.0]","",weather,fine,{},2985684,Pozières,"[2.72929, 50.04047]"
+4,AWD0001xx1,diary,351,4,1915-09-17 00:00:00 UTC,17 Sep 1915,"","[0.0, 0.0]","",activity,training,{},2985684,Pozières,"[2.72929, 50.04047]"
+5,AWD0001xx1,diary,351,3,1915-09-17 00:00:00 UTC,17 Sep 1915,"","[0.0, 0.0]","",person,"Lieutenant  Hone, Home, Howe","{""first""=>[""""], ""surname""=>[""Hone"", ""Home"", ""Howe""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+7,AWD0001xx1,diary,351,6,1915-09-18 00:00:00 UTC,18 Sep 1915,"","[0.0, 0.0]","",diaryDate,18 Sep 1915,"{""day""=>[""18""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2985684,Pozières,"[2.72929, 50.04047]"
+9,AWD0001xx1,diary,351,2,1915-09-18 00:00:00 UTC,18 Sep 1915,"","[0.0, 0.0]","",activity,training,{},2985684,Pozières,"[2.72929, 50.04047]"
+11,AWD0001xx1,diary,351,6,1915-09-19 00:00:00 UTC,19 Sep 1915,"","[0.0, 0.0]","",diaryDate,19 Sep 1915,"{""day""=>[""19""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2985684,Pozières,"[2.72929, 50.04047]"
+13,AWD0001xx1,diary,351,4,1915-09-19 00:00:00 UTC,19 Sep 1915,"","[0.0, 0.0]","",weather,fine,{},2985684,Pozières,"[2.72929, 50.04047]"
+14,AWD0001xx1,diary,351,4,1915-09-19 00:00:00 UTC,19 Sep 1915,"","[0.0, 0.0]","",domestic,religion,{},2985684,Pozières,"[2.72929, 50.04047]"
+15,AWD0001xx1,diary,351,2,1915-09-19 00:00:00 UTC,19 Sep 1915,"","[0.0, 0.0]","",domestic,parades,{},2985684,Pozières,"[2.72929, 50.04047]"
+16,AWD0001xx1,diary,351,6,1915-09-20 00:00:00 UTC,20 Sep 1915,"","[0.0, 0.0]","",diaryDate,20 Sep 1915,"{""day""=>[""20""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2985684,Pozières,"[2.72929, 50.04047]"
+18,AWD0001xx1,diary,351,4,1915-09-20 00:00:00 UTC,20 Sep 1915,"","[0.0, 0.0]","",activity,movement,{},2985684,Pozières,"[2.72929, 50.04047]"
+19,AWD0001xx1,diary,351,3,1915-09-20 18:30:00 UTC,20 Sep 1915,"","[0.0, 0.0]",0630PM,time,0630PM,{},2985684,Pozières,"[2.72929, 50.04047]"
+20,AWD0001xx1,diary,351,4,1915-09-20 18:30:00 UTC,20 Sep 1915,"","[0.0, 0.0]",0630PM,domestic,accomodation,{},2985684,Pozières,"[2.72929, 50.04047]"
+21,AWD0001xx1,diary,351,5,1915-09-20 18:30:00 UTC,20 Sep 1915,"","[0.0, 0.0]",0630PM,place,Marle,"{""place""=>[""Marle""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+22,AWD0001xx1,diary,351,2,1915-09-20 20:15:00 UTC,20 Sep 1915,"","[0.0, 0.0]",0815PM,time,0815PM,{},2985684,Pozières,"[2.72929, 50.04047]"
+23,AWD0001xx1,diary,351,5,1915-09-20 20:15:00 UTC,20 Sep 1915,"","[0.0, 0.0]",0815PM,person,Second Lieutenant  Simpson,"{""first""=>[""""], ""surname""=>[""Simpson""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""returned_posted""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+24,AWD0001xx1,diary,351,6,1915-09-21 00:00:00 UTC,21 Sep 1915,"","[0.0, 0.0]","",diaryDate,21 Sep 1915,"{""day""=>[""21""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2985684,Pozières,"[2.72929, 50.04047]"
+26,AWD0001xx1,diary,351,3,1915-09-21 00:00:00 UTC,21 Sep 1915,"","[0.0, 0.0]","",weather,fine,{},2985684,Pozières,"[2.72929, 50.04047]"
+28,AWD0001xx1,diary,351,4,1915-09-21 00:00:00 UTC,21 Sep 1915,"","[0.0, 0.0]","",place,"La Pougnoir, Lapougnoir","{""place""=>[""La Pougnoir"", ""Lapougnoir""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+29,AWD0001xx1,diary,351,4,1915-09-21 00:00:00 UTC,21 Sep 1915,"","[0.0, 0.0]","",person,Major  Priaulx,"{""first""=>[""""], ""surname""=>[""Priaulx""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""promotion""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+1,AWD0001xyb,diary,352,5,1915-09-22 00:00:00 UTC,22 Sep 1915,"","[0.0, 0.0]","",diaryDate,22 Sep 1915,"{""day""=>[""22""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2985684,Pozières,"[2.72929, 50.04047]"
+4,AWD0001xyb,diary,352,5,1915-09-22 00:00:00 UTC,22 Sep 1915,"","[0.0, 0.0]","",weather,fine,{},2985684,Pozières,"[2.72929, 50.04047]"
+5,AWD0001xyb,diary,352,4,1915-09-22 00:00:00 UTC,22 Sep 1915,"","[0.0, 0.0]","",activity,movement,{},2985684,Pozières,"[2.72929, 50.04047]"
+6,AWD0001xyb,diary,352,3,1915-09-22 00:00:00 UTC,22 Sep 1915,"","[0.0, 0.0]","",place,Minx,"{""place""=>[""Minx""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+7,AWD0001xyb,diary,352,4,1915-09-22 20:30:00 UTC,22 Sep 1915,"","[0.0, 0.0]",0830PM,time,0830PM,{},2985684,Pozières,"[2.72929, 50.04047]"
+9,AWD0001xyb,diary,352,6,1915-09-23 00:00:00 UTC,23 Sep 1915,"","[0.0, 0.0]","",diaryDate,23 Sep 1915,"{""day""=>[""23""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2985684,Pozières,"[2.72929, 50.04047]"
+11,AWD0001xyb,diary,352,4,1915-09-23 23:15:00 UTC,23 Sep 1915,"","[0.0, 0.0]",1115PM,time,1115PM,{},2985684,Pozières,"[2.72929, 50.04047]"
+12,AWD0001xyb,diary,352,2,1915-09-23 23:15:00 UTC,23 Sep 1915,"","[0.0, 0.0]",1115PM,domestic,accomodation,{},2985684,Pozières,"[2.72929, 50.04047]"
+14,AWD0001xyb,diary,352,3,1915-09-23 23:15:00 UTC,23 Sep 1915,"","[0.0, 0.0]",1115PM,activity,movement,{},2985684,Pozières,"[2.72929, 50.04047]"
+15,AWD0001xyb,diary,352,2,1915-09-23 21:15:00 UTC,23 Sep 1915,"","[0.0, 0.0]",0915PM,time,0915PM,{},2985684,Pozières,"[2.72929, 50.04047]"
+17,AWD0001xyb,diary,352,2,1915-09-23 19:15:00 UTC,23 Sep 1915,"","[0.0, 0.0]",0715PM,time,0715PM,{},2985684,Pozières,"[2.72929, 50.04047]"
+1,AWD0001xxi,diary,353,5,1915-09-23 00:00:00 UTC,23 Sep 1915,"","[0.0, 0.0]","",diaryDate,23 Sep 1915,"{""day""=>[""23""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2985684,Pozières,"[2.72929, 50.04047]"
+4,AWD0001xxi,diary,353,4,1915-09-23 00:00:00 UTC,23 Sep 1915,"","[0.0, 0.0]","",strength,"officer: 20, other: 870",{},2985684,Pozières,"[2.72929, 50.04047]"
+5,AWD0001xxi,diary,353,2,1915-09-23 00:00:00 UTC,23 Sep 1915,"","[0.0, 0.0]","",domestic,rations,{},2985684,Pozières,"[2.72929, 50.04047]"
+6,AWD0001xxi,diary,353,5,1915-09-23 00:00:00 UTC,23 Sep 1915,"","[0.0, 0.0]","",person,Second Lieutenant  Dowden,"{""first""=>[""""], ""surname""=>[""Dowden""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_posted""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+7,AWD0001xxi,diary,353,5,1915-09-23 00:00:00 UTC,23 Sep 1915,"","[0.0, 0.0]","",person,Second Lieutenant  Symington,"{""first""=>[""""], ""surname""=>[""Symington""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_posted""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+8,AWD0001xxi,diary,353,3,1915-09-23 00:00:00 UTC,23 Sep 1915,"","[0.0, 0.0]","",person,"Lieutenant  Home, Howe, Hone","{""first""=>[""""], ""surname""=>[""Home"", ""Howe"", ""Hone""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_posted"", ""combat"", ""other""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+9,AWD0001xxi,diary,353,5,1915-09-24 00:00:00 UTC,24 Sep 1915,"","[0.0, 0.0]","",diaryDate,24 Sep 1915,"{""day""=>[""24""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2985684,Pozières,"[2.72929, 50.04047]"
+11,AWD0001xxi,diary,353,5,1915-09-24 00:00:00 UTC,24 Sep 1915,"","[0.0, 0.0]","",weather,rain,{},2985684,Pozières,"[2.72929, 50.04047]"
+13,AWD0001xxi,diary,353,3,1915-09-24 00:00:00 UTC,24 Sep 1915,"","[0.0, 0.0]","",unit,"SWBs, S W B, S.W.B.'s","{""name""=>[""SWBs"", ""S W B"", ""S.W.B.'s""], ""context""=>[""relieved""]}",2985684,Pozières,"[2.72929, 50.04047]"
+14,AWD0001xxi,diary,353,4,1915-09-24 05:30:00 UTC,24 Sep 1915,"","[0.0, 0.0]",0530AM,time,0530AM,{},2985684,Pozières,"[2.72929, 50.04047]"
+15,AWD0001xxi,diary,353,2,1915-09-24 05:30:00 UTC,24 Sep 1915,"","[0.0, 0.0]",0530AM,activity,line,{},2985684,Pozières,"[2.72929, 50.04047]"
+19,AWD0001xxi,diary,353,3,1915-09-24 05:30:00 UTC,24 Sep 1915,"","[0.0, 0.0]",0530AM,activity,movement,{},2985684,Pozières,"[2.72929, 50.04047]"
+20,AWD0001xxi,diary,353,4,1915-09-24 23:00:00 UTC,24 Sep 1915,"","[0.0, 0.0]",1100PM,time,1100PM,{},2985684,Pozières,"[2.72929, 50.04047]"
+22,AWD0001xxi,diary,353,3,1915-09-24 23:00:00 UTC,24 Sep 1915,"","[0.0, 0.0]",1100PM,unit,"46 B O E, 46 Bde, The 46 BOE","{""name""=>[""46 B O E"", ""46 Bde"", ""The 46 BOE""], ""context""=>[""right""]}",2985684,Pozières,"[2.72929, 50.04047]"
+23,AWD0001xxi,diary,353,4,1915-09-24 23:00:00 UTC,24 Sep 1915,"","[0.0, 0.0]",1100PM,unit,"2 N Lancs, 2/N/Lance, 2/N/Lans, L N Lancs","{""name""=>[""2 N Lancs"", ""2/N/Lance"", ""2/N/Lans"", ""L N Lancs""], ""context""=>[""left""]}",2985684,Pozières,"[2.72929, 50.04047]"
+25,AWD0001xxi,diary,353,4,1915-09-24 23:00:00 UTC,24 Sep 1915,"","[0.0, 0.0]",1100PM,unit,"1 N N, 1/N/N, 1 NN, 1NN","{""name""=>[""1 N N"", ""1/N/N"", ""1 NN"", ""1NN""], ""context""=>[""right""]}",2985684,Pozières,"[2.72929, 50.04047]"
+26,AWD0001xxi,diary,353,4,1915-09-24 23:00:00 UTC,24 Sep 1915,"","[0.0, 0.0]",1100PM,unit,2 Sussex,"{""name""=>[""2 Sussex""], ""context""=>[""left""]}",2985684,Pozières,"[2.72929, 50.04047]"
+1,AWD0001xxp,diary,354,6,1915-09-25 00:00:00 UTC,25 Sep 1915,"","[0.0, 0.0]","",diaryDate,25 Sep 1915,"{""day""=>[""25""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2985684,Pozières,"[2.72929, 50.04047]"
+5,AWD0001xxp,diary,354,3,1915-09-25 04:00:00 UTC,25 Sep 1915,"","[0.0, 0.0]",0400AM,time,0400AM,{},2985684,Pozières,"[2.72929, 50.04047]"
+7,AWD0001xxp,diary,354,4,1915-09-25 04:40:00 UTC,25 Sep 1915,"","[0.0, 0.0]",0440AM,time,0440AM,{},2985684,Pozières,"[2.72929, 50.04047]"
+8,AWD0001xxp,diary,354,6,1915-09-25 05:50:00 UTC,25 Sep 1915,"","[0.0, 0.0]",0550AM,time,0550AM,{},2985684,Pozières,"[2.72929, 50.04047]"
+10,AWD0001xxp,diary,354,4,1915-09-25 05:50:00 UTC,25 Sep 1915,"","[0.0, 0.0]",0550AM,activity,attack,{},2985684,Pozières,"[2.72929, 50.04047]"
+11,AWD0001xxp,diary,354,4,1915-09-25 06:00:00 UTC,25 Sep 1915,"","[0.0, 0.0]",0600AM,time,0600AM,{},2985684,Pozières,"[2.72929, 50.04047]"
+15,AWD0001xxp,diary,354,3,1915-09-25 06:20:00 UTC,25 Sep 1915,"","[0.0, 0.0]",0620AM,time,0620AM,{},2985684,Pozières,"[2.72929, 50.04047]"
+16,AWD0001xxp,diary,354,7,1915-09-25 06:34:00 UTC,25 Sep 1915,"","[0.0, 0.0]",0634AM,time,0634AM,{},2985684,Pozières,"[2.72929, 50.04047]"
+17,AWD0001xxp,diary,354,4,1915-09-25 06:34:00 UTC,25 Sep 1915,"","[0.0, 0.0]",0634AM,activity,attack,{},2985684,Pozières,"[2.72929, 50.04047]"
+2,AWD0001xxo,diary,355,5,1915-09-25 06:34:00 UTC,25 Sep 1915,"","[0.0, 0.0]",0634AM,activity,withdraw,{},2985684,Pozières,"[2.72929, 50.04047]"
+4,AWD0001xxo,diary,355,3,1915-09-25 06:34:00 UTC,25 Sep 1915,"","[0.0, 0.0]",0634AM,activity,attack,{},2985684,Pozières,"[2.72929, 50.04047]"
+5,AWD0001xxo,diary,355,2,1915-09-25 06:34:00 UTC,25 Sep 1915,"","[0.0, 0.0]",0634AM,activity,withdraw,{},2985684,Pozières,"[2.72929, 50.04047]"
+6,AWD0001xxo,diary,355,3,1915-09-25 06:34:00 UTC,25 Sep 1915,"","[0.0, 0.0]",0634AM,unit,"15th division, 15th Divsn, 7th division","{""name""=>[""15th division"", ""15th Divsn"", ""7th division""], ""context""=>[""right""]}",2985684,Pozières,"[2.72929, 50.04047]"
+7,AWD0001xxo,diary,355,2,1915-09-25 06:34:00 UTC,25 Sep 1915,"","[0.0, 0.0]",0634AM,place,"Hill 70, hill 70","{""place""=>[""Hill 70"", ""hill 70""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+8,AWD0001xxo,diary,355,4,1915-09-25 06:34:00 UTC,25 Sep 1915,"","[0.0, 0.0]",0634AM,place,Loos,"{""place""=>[""Loos""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+9,AWD0001xxo,diary,355,3,1915-09-25 06:34:00 UTC,25 Sep 1915,"","[0.0, 0.0]",0634AM,activity,achieved,{},2985684,Pozières,"[2.72929, 50.04047]"
+12,AWD0001xxo,diary,355,3,1915-09-25 06:34:00 UTC,25 Sep 1915,"","[0.0, 0.0]",0634AM,unit,Northants,"{""name""=>[""Northants""], ""context""=>[""other""]}",2985684,Pozières,"[2.72929, 50.04047]"
+13,AWD0001xxo,diary,355,3,1915-09-25 07:56:00 UTC,25 Sep 1915,"","[0.0, 0.0]",0756AM,time,0756AM,{},2985684,Pozières,"[2.72929, 50.04047]"
+15,AWD0001xxo,diary,355,3,1915-09-25 07:56:00 UTC,25 Sep 1915,"","[0.0, 0.0]",0756AM,unit,"2/Sussex, 2 Sussex, 2nd Sussex","{""name""=>[""2/Sussex"", ""2 Sussex"", ""2nd Sussex""], ""context""=>[""other""]}",2985684,Pozières,"[2.72929, 50.04047]"
+16,AWD0001xxo,diary,355,3,1915-09-25 07:56:00 UTC,25 Sep 1915,"","[0.0, 0.0]",0756AM,unit,L N Lancs,"{""name""=>[""L N Lancs""], ""context""=>[""other""]}",2985684,Pozières,"[2.72929, 50.04047]"
+19,AWD0001xxo,diary,355,3,1915-09-25 12:00:00 UTC,25 Sep 1915,"","[0.0, 0.0]",1200PM,time,1200PM,{},2985684,Pozières,"[2.72929, 50.04047]"
+24,AWD0001xxo,diary,355,3,1915-09-25 12:00:00 UTC,25 Sep 1915,"","[0.0, 0.0]",1200PM,activity,achieved,{},2985684,Pozières,"[2.72929, 50.04047]"
+27,AWD0001xxo,diary,355,4,1915-09-25 15:30:00 UTC,25 Sep 1915,"","[0.0, 0.0]",0330PM,time,0330PM,{},2985684,Pozières,"[2.72929, 50.04047]"
+28,AWD0001xxo,diary,355,3,1915-09-25 15:30:00 UTC,25 Sep 1915,"","[0.0, 0.0]",0330PM,place,Bois Hugo,"{""place""=>[""Bois Hugo""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+31,AWD0001xxo,diary,355,2,1915-09-25 15:30:00 UTC,25 Sep 1915,"","[0.0, 0.0]",0330PM,unit,"9 Kings, 9/Kings","{""name""=>[""9 Kings"", ""9/Kings""], ""context""=>[""other"", ""joined""]}",2985684,Pozières,"[2.72929, 50.04047]"
+32,AWD0001xxo,diary,355,2,1915-09-25 15:30:00 UTC,25 Sep 1915,"","[0.0, 0.0]",0330PM,unit,"Lowton Scottish, London Scottish","{""name""=>[""Lowton Scottish"", ""London Scottish""], ""context""=>[""joined"", ""other""]}",2985684,Pozières,"[2.72929, 50.04047]"
+36,AWD0001xxo,diary,355,2,1915-09-25 15:30:00 UTC,25 Sep 1915,"","[0.0, 0.0]",0330PM,activity,reserve,{},2985684,Pozières,"[2.72929, 50.04047]"
+1,AWD0001xyj,diary,356,2,1915-09-25 15:30:00 UTC,25 Sep 1915,"","[0.0, 0.0]",0330PM,place,Bois Hugo,"{""place""=>[""Bois Hugo""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+5,AWD0001xyj,diary,356,4,1915-09-25 15:30:00 UTC,25 Sep 1915,"","[0.0, 0.0]",0330PM,activity,achieved,{},2985684,Pozières,"[2.72929, 50.04047]"
+6,AWD0001xyj,diary,356,4,1915-09-25 16:30:00 UTC,25 Sep 1915,"","[0.0, 0.0]",0430PM,time,0430PM,{},2985684,Pozières,"[2.72929, 50.04047]"
+7,AWD0001xyj,diary,356,3,1915-09-25 16:30:00 UTC,25 Sep 1915,"","[0.0, 0.0]",0430PM,activity,repair,{},2985684,Pozières,"[2.72929, 50.04047]"
+12,AWD0001xyj,diary,356,2,1915-09-25 16:30:00 UTC,25 Sep 1915,"","[0.0, 0.0]",0430PM,unit,Northants,"{""name""=>[""Northants""], ""context""=>[""other"", ""right""]}",2985684,Pozières,"[2.72929, 50.04047]"
+16,AWD0001xyj,diary,356,2,1915-09-25 16:30:00 UTC,25 Sep 1915,"","[0.0, 0.0]",0430PM,unit,2 Sussex,"{""name""=>[""2 Sussex""], ""context""=>[""other"", ""right""]}",2985684,Pozières,"[2.72929, 50.04047]"
+19,AWD0001xyj,diary,356,2,1915-09-25 16:30:00 UTC,25 Sep 1915,"","[0.0, 0.0]",0430PM,unit,"London Scottish, london scottish","{""name""=>[""London Scottish"", ""london scottish""], ""context""=>[""other"", ""right""]}",2985684,Pozières,"[2.72929, 50.04047]"
+21,AWD0001xyj,diary,356,5,1915-09-25 16:30:00 UTC,25 Sep 1915,"","[0.0, 0.0]",0430PM,person,Second Lieutenant  Dowden,"{""first""=>[""""], ""surname""=>[""Dowden""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_posted"", ""joined""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+22,AWD0001xyj,diary,356,5,1915-09-25 16:30:00 UTC,25 Sep 1915,"","[0.0, 0.0]",0430PM,person,Lieutenant  Symington,"{""first""=>[""""], ""surname""=>[""Symington""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_posted"", ""joined""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+23,AWD0001xyj,diary,356,4,1915-09-25 16:30:00 UTC,25 Sep 1915,"","[0.0, 0.0]",0430PM,weather,rain,{},2985684,Pozières,"[2.72929, 50.04047]"
+26,AWD0001xyj,diary,356,4,1915-09-25 16:30:00 UTC,25 Sep 1915,"","[0.0, 0.0]",0430PM,person,Lieutenant Colonel  Priaulx,"{""first""=>[""""], ""surname""=>[""Priaulx""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+28,AWD0001xyj,diary,356,4,1915-09-25 16:30:00 UTC,25 Sep 1915,"","[0.0, 0.0]",0430PM,person,Major  Heseltine,"{""first""=>[""""], ""surname""=>[""Heseltine""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+29,AWD0001xyj,diary,356,4,1915-09-25 16:30:00 UTC,25 Sep 1915,"","[0.0, 0.0]",0430PM,person,Captain  Dubs,"{""first""=>[""""], ""surname""=>[""Dubs""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+31,AWD0001xyj,diary,356,3,1915-09-25 16:30:00 UTC,25 Sep 1915,"","[0.0, 0.0]",0430PM,person,"Second Lieutenant  Palmer, Pahur, Parker","{""first""=>[""""], ""surname""=>[""Palmer"", ""Pahur"", ""Parker""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+1,AWD0001xw7,diary,357,2,1915-09-25 00:00:00 UTC,25 Sep 1915,"","[0.0, 0.0]","",diaryDate,25 Sep 1915,"{""day""=>[""25""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2985684,Pozières,"[2.72929, 50.04047]"
+2,AWD0001xw7,diary,357,4,1915-09-25 00:00:00 UTC,25 Sep 1915,"","[0.0, 0.0]","",person,Second Lieutenant  Fowler,"{""first""=>[""""], ""surname""=>[""Fowler""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+4,AWD0001xw7,diary,357,4,1915-09-25 00:00:00 UTC,25 Sep 1915,"","[0.0, 0.0]","",person,Second Lieutenant  Nash,"{""first""=>[""""], ""surname""=>[""Nash""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+5,AWD0001xw7,diary,357,4,1915-09-25 00:00:00 UTC,25 Sep 1915,"","[0.0, 0.0]","",person,Lieutenant  Bristowe,"{""first""=>[""""], ""surname""=>[""Bristowe""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+6,AWD0001xw7,diary,357,4,1915-09-25 00:00:00 UTC,25 Sep 1915,"","[0.0, 0.0]","",person,"Second Lieutenant  Dinn, Dunn","{""first""=>[""""], ""surname""=>[""Dinn"", ""Dunn""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+7,AWD0001xw7,diary,357,3,1915-09-25 00:00:00 UTC,25 Sep 1915,"","[0.0, 0.0]","",person,Lieutenant  Eyre,"{""first""=>[""""], ""surname""=>[""Eyre""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+8,AWD0001xw7,diary,357,5,1915-09-25 00:00:00 UTC,25 Sep 1915,"","[0.0, 0.0]","",person,Second Lieutenant  Scudamore,"{""first""=>[""""], ""surname""=>[""Scudamore""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+9,AWD0001xw7,diary,357,4,1915-09-25 00:00:00 UTC,25 Sep 1915,"","[0.0, 0.0]","",person,Lieutenant  Simpson,"{""first""=>[""""], ""surname""=>[""Simpson""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+10,AWD0001xw7,diary,357,4,1915-09-25 00:00:00 UTC,25 Sep 1915,"","[0.0, 0.0]","",person,Second Lieutenant  Graham-Stuart,"{""first""=>[""""], ""surname""=>[""Graham-Stuart""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+11,AWD0001xw7,diary,357,3,1915-09-25 00:00:00 UTC,25 Sep 1915,"","[0.0, 0.0]","",person,"Lieutenant  Hose, Hone, Home","{""first""=>[""""], ""surname""=>[""Hose"", ""Hone"", ""Home""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+15,AWD0001xw7,diary,357,2,1915-09-25 00:00:00 UTC,25 Sep 1915,"","[0.0, 0.0]","",casualties,"killed: 100, wounded: 250, missing: 237",{},2985684,Pozières,"[2.72929, 50.04047]"
+16,AWD0001xw7,diary,357,2,1915-09-25 00:00:00 UTC,25 Sep 1915,"","[0.0, 0.0]","",casualties,"killed: 100, wounded: 250, missing: 234",{},2985684,Pozières,"[2.72929, 50.04047]"
+21,AWD0001xw7,diary,357,6,1915-09-26 00:00:00 UTC,26 Sep 1915,"","[0.0, 0.0]","",diaryDate,26 Sep 1915,"{""day""=>[""26""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2985684,Pozières,"[2.72929, 50.04047]"
+22,AWD0001xw7,diary,357,2,1915-09-26 00:00:00 UTC,26 Sep 1915,"","[0.0, 0.0]","",unit,21st Divn,"{""name""=>[""21st Divn""], ""context""=>[""relieved_by""]}",2985684,Pozières,"[2.72929, 50.04047]"
+23,AWD0001xw7,diary,357,2,1915-09-26 00:00:00 UTC,26 Sep 1915,"","[0.0, 0.0]","",unit,"21st division, 21st Division","{""name""=>[""21st division"", ""21st Division""], ""context""=>[""relieved_by""]}",2985684,Pozières,"[2.72929, 50.04047]"
+24,AWD0001xw7,diary,357,4,1915-09-26 04:00:00 UTC,26 Sep 1915,"","[0.0, 0.0]",0400AM,time,0400AM,{},2985684,Pozières,"[2.72929, 50.04047]"
+25,AWD0001xw7,diary,357,4,1915-09-26 04:00:00 UTC,26 Sep 1915,"","[0.0, 0.0]",0400AM,activity,movement,{},2985684,Pozières,"[2.72929, 50.04047]"
+27,AWD0001xw7,diary,357,2,1915-09-26 04:00:00 UTC,26 Sep 1915,"","[0.0, 0.0]",0400AM,place,"Dalys keep, Dalys Keep stn","{""place""=>[""Dalys keep"", ""Dalys Keep stn""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+28,AWD0001xw7,diary,357,2,1915-09-26 12:00:00 UTC,26 Sep 1915,"","[0.0, 0.0]",1200PM,time,1200PM,{},2985684,Pozières,"[2.72929, 50.04047]"
+31,AWD0001xw7,diary,357,5,1915-09-26 12:00:00 UTC,26 Sep 1915,"","[0.0, 0.0]",1200PM,place,Souchez,"{""place""=>[""Souchez""], ""location""=>[""false""], ""name""=>[""Souchez""], ""lat""=>[""50.39291""], ""long""=>[""2.73984""], ""id""=>[""2974123""]}",2985684,Pozières,"[2.72929, 50.04047]"
+32,AWD0001xw7,diary,357,5,1915-09-26 15:50:00 UTC,26 Sep 1915,"","[0.0, 0.0]",0350PM,time,0350PM,{},2985684,Pozières,"[2.72929, 50.04047]"
+33,AWD0001xw7,diary,357,4,1915-09-26 15:50:00 UTC,26 Sep 1915,"","[0.0, 0.0]",0350PM,activity,line,{},2985684,Pozières,"[2.72929, 50.04047]"
+34,AWD0001xw7,diary,357,2,1915-09-26 15:50:00 UTC,26 Sep 1915,"","[0.0, 0.0]",0350PM,activity,movement,{},2985684,Pozières,"[2.72929, 50.04047]"
+4,AWD0001xwt,diary,358,2,1915-09-26 15:50:00 UTC,26 Sep 1915,"","[0.0, 0.0]",0350PM,domestic,other,{},2985684,Pozières,"[2.72929, 50.04047]"
+7,AWD0001xva,diary,359,3,1915-09-26 15:50:00 UTC,26 Sep 1915,"","[0.0, 0.0]",0350PM,casualties,"killed: 81, wounded: 193, non_combat: 75, missing: 149",{},2985684,Pozières,"[2.72929, 50.04047]"
+8,AWD0001xva,diary,359,2,1915-09-26 15:50:00 UTC,26 Sep 1915,"","[0.0, 0.0]",0350PM,casualties,"killed: 81, wounded: 193, sick: 75, missing: 149",{},2985684,Pozières,"[2.72929, 50.04047]"
+12,AWD0001xva,diary,359,3,1915-09-28 00:00:00 UTC,28 Sep 1915,"","[0.0, 0.0]","",diaryDate,28 Sep 1915,"{""day""=>[""28""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2985684,Pozières,"[2.72929, 50.04047]"
+13,AWD0001xva,diary,359,5,1915-09-26 00:00:00 UTC,26 Sep 1915,"","[0.0, 0.0]","",diaryDate,26 Sep 1915,"{""day""=>[""26""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2985684,Pozières,"[2.72929, 50.04047]"
+14,AWD0001xva,diary,359,2,1915-09-26 00:00:00 UTC,26 Sep 1915,"","[0.0, 0.0]","",activity,fire,{},2985684,Pozières,"[2.72929, 50.04047]"
+15,AWD0001xva,diary,359,2,1915-09-26 00:00:00 UTC,26 Sep 1915,"","[0.0, 0.0]","",activity,enemy_activity,{},2985684,Pozières,"[2.72929, 50.04047]"
+17,AWD0001xva,diary,359,2,1915-09-26 00:00:00 UTC,26 Sep 1915,"","[0.0, 0.0]","",unit,"21st Division, 21 Division","{""name""=>[""21st Division"", ""21 Division""], ""context""=>[""joined"", ""left""]}",2985684,Pozières,"[2.72929, 50.04047]"
+20,AWD0001xva,diary,359,3,1915-09-26 00:00:00 UTC,26 Sep 1915,"","[0.0, 0.0]","",place,Hulluch,"{""place""=>[""Hulluch""], ""location""=>[""false""], ""name""=>[""Hulluch""], ""lat""=>[""50.48961""], ""long""=>[""2.81232""], ""id""=>[""3013001""]}",2985684,Pozières,"[2.72929, 50.04047]"
+21,AWD0001xva,diary,359,3,1915-09-26 00:00:00 UTC,26 Sep 1915,"","[0.0, 0.0]","",place,Le Rutoire,"{""place""=>[""Le Rutoire""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+22,AWD0001xva,diary,359,2,1915-09-26 17:00:00 UTC,26 Sep 1915,"","[0.0, 0.0]",0500PM,time,0500PM,{},2985684,Pozières,"[2.72929, 50.04047]"
+25,AWD0001xva,diary,359,2,1915-09-26 17:00:00 UTC,26 Sep 1915,"","[0.0, 0.0]",0500PM,unit,"cavalry, Cavalry","{""name""=>[""cavalry"", ""Cavalry""], ""context""=>[""relieved""]}",2985684,Pozières,"[2.72929, 50.04047]"
+26,AWD0001xva,diary,359,3,1915-09-26 17:00:00 UTC,26 Sep 1915,"","[0.0, 0.0]",0500PM,activity,support,{},2985684,Pozières,"[2.72929, 50.04047]"
+1,AWD0001xvr,diary,360,2,1915-09-26 00:00:00 UTC,26 Sep 1915,"","[0.0, 0.0]","",diaryDate,26 Sep 1915,"{""day""=>[""26""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2985684,Pozières,"[2.72929, 50.04047]"
+2,AWD0001xvr,diary,360,2,1915-09-26 00:00:00 UTC,26 Sep 1915,"","[0.0, 0.0]","",unit,"Guards division, Guards Division","{""name""=>[""Guards division"", ""Guards Division""], ""context""=>[""other"", ""relieved""]}",2985684,Pozières,"[2.72929, 50.04047]"
+3,AWD0001xvr,diary,360,2,1915-09-26 00:00:00 UTC,26 Sep 1915,"","[0.0, 0.0]","",place,Loos,"{""place""=>[""Loos""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+6,AWD0001xvr,diary,360,2,1915-09-26 00:00:00 UTC,26 Sep 1915,"","[0.0, 0.0]","",activity,enemy_activity,{},2985684,Pozières,"[2.72929, 50.04047]"
+8,AWD0001xvr,diary,360,6,1915-09-27 00:00:00 UTC,27 Sep 1915,"","[0.0, 0.0]","",diaryDate,27 Sep 1915,"{""day""=>[""27""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2985684,Pozières,"[2.72929, 50.04047]"
+10,AWD0001xvr,diary,360,4,1915-09-27 00:00:00 UTC,27 Sep 1915,"","[0.0, 0.0]","",activity,reserve,{},2985684,Pozières,"[2.72929, 50.04047]"
+11,AWD0001xvr,diary,360,6,1915-09-28 00:00:00 UTC,28 Sep 1915,"","[0.0, 0.0]","",diaryDate,28 Sep 1915,"{""day""=>[""28""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2985684,Pozières,"[2.72929, 50.04047]"
+13,AWD0001xvr,diary,360,6,1915-09-28 00:00:00 UTC,28 Sep 1915,Mazingarbe,"[2.71544, 50.4711]","",place,Mazingarbe,"{""place""=>[""Mazingarbe""], ""location""=>[""true""], ""name""=>[""Mazingarbe""], ""lat""=>[""50.4711""], ""long""=>[""2.71544""], ""id""=>[""2994837""]}",2994837,Mazingarbe,"[2.71544, 50.4711]"
+14,AWD0001xvr,diary,360,3,1915-09-28 00:00:00 UTC,28 Sep 1915,Mazingarbe,"[2.71544, 50.4711]","",activity,movement,{},2994837,Mazingarbe,"[2.71544, 50.4711]"
+15,AWD0001xvr,diary,360,4,1915-09-28 10:30:00 UTC,28 Sep 1915,Mazingarbe,"[2.71544, 50.4711]",1030AM,time,1030AM,{},2994837,Mazingarbe,"[2.71544, 50.4711]"
+16,AWD0001xvr,diary,360,5,1915-09-28 10:30:00 UTC,28 Sep 1915,Mazingarbe,"[2.71544, 50.4711]",1030AM,activity,resting,{},2994837,Mazingarbe,"[2.71544, 50.4711]"
+17,AWD0001xvr,diary,360,5,1915-09-28 20:30:00 UTC,28 Sep 1915,Mazingarbe,"[2.71544, 50.4711]",0830PM,time,0830PM,{},2994837,Mazingarbe,"[2.71544, 50.4711]"
+19,AWD0001xvr,diary,360,4,1915-09-28 20:30:00 UTC,28 Sep 1915,Mazingarbe,"[2.71544, 50.4711]",0830PM,person,Second Lieutenant  Johnston,"{""first""=>[""""], ""surname""=>[""Johnston""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",2994837,Mazingarbe,"[2.71544, 50.4711]"
+22,AWD0001xvr,diary,360,7,1915-09-28 20:30:00 UTC,28 Sep 1915,Mazingarbe,"[2.71544, 50.4711]",0830PM,person,Major  Binham,"{""first""=>[""""], ""surname""=>[""Binham""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",2994837,Mazingarbe,"[2.71544, 50.4711]"
+1,AWD0001xz1,diary,361,5,1915-09-28 00:00:00 UTC,28 Sep 1915,Mazingarbe,"[2.71544, 50.4711]","",diaryDate,28 Sep 1915,"{""day""=>[""28""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2994837,Mazingarbe,"[2.71544, 50.4711]"
+3,AWD0001xz1,diary,361,4,1915-09-28 20:40:00 UTC,28 Sep 1915,Mazingarbe,"[2.71544, 50.4711]",0840PM,time,0840PM,{},2994837,Mazingarbe,"[2.71544, 50.4711]"
+4,AWD0001xz1,diary,361,4,1915-09-28 20:40:00 UTC,28 Sep 1915,Mazingarbe,"[2.71544, 50.4711]",0840PM,activity,movement,{},2994837,Mazingarbe,"[2.71544, 50.4711]"
+5,AWD0001xz1,diary,361,3,1915-09-28 20:40:00 UTC,28 Sep 1915,Mazingarbe,"[2.71544, 50.4711]",0840PM,activity,support,{},2994837,Mazingarbe,"[2.71544, 50.4711]"
+6,AWD0001xz1,diary,361,3,1915-09-28 20:40:00 UTC,28 Sep 1915,Mazingarbe,"[2.71544, 50.4711]",0840PM,place,Loos,"{""place""=>[""Loos""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2994837,Mazingarbe,"[2.71544, 50.4711]"
+7,AWD0001xz1,diary,361,2,1915-09-27 00:00:00 UTC,27 Sep 1915,Mazingarbe,"[2.71544, 50.4711]","",diaryDate,27 Sep 1915,"{""day""=>[""27""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2994837,Mazingarbe,"[2.71544, 50.4711]"
+11,AWD0001xz1,diary,361,6,1915-09-27 00:00:00 UTC,27 Sep 1915,Mazingarbe,"[2.71544, 50.4711]","",person,Brigadier General  Pollard,"{""first""=>[""""], ""surname""=>[""Pollard""], ""rank""=>[""Brigadier General""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2994837,Mazingarbe,"[2.71544, 50.4711]"
+1,AWD0001xym,diary,362,7,1915-09-29 00:00:00 UTC,29 Sep 1915,Mazingarbe,"[2.71544, 50.4711]","",diaryDate,29 Sep 1915,"{""day""=>[""29""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2994837,Mazingarbe,"[2.71544, 50.4711]"
+2,AWD0001xym,diary,362,4,1915-09-29 00:00:00 UTC,29 Sep 1915,Mazingarbe,"[2.71544, 50.4711]","",casualties,"killed: 2, wounded: 1",{},2994837,Mazingarbe,"[2.71544, 50.4711]"
+3,AWD0001xym,diary,362,7,1915-09-29 00:00:00 UTC,29 Sep 1915,Mazingarbe,"[2.71544, 50.4711]","",person,Second Lieutenant  Reid,"{""first""=>[""""], ""surname""=>[""Reid""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",2994837,Mazingarbe,"[2.71544, 50.4711]"
+4,AWD0001xym,diary,362,3,1915-09-29 00:00:00 UTC,29 Sep 1915,Mazingarbe,"[2.71544, 50.4711]","",casualties,killed: 2,{},2994837,Mazingarbe,"[2.71544, 50.4711]"
+5,AWD0001xym,diary,362,7,1915-09-30 00:00:00 UTC,30 Sep 1915,Mazingarbe,"[2.71544, 50.4711]","",diaryDate,30 Sep 1915,"{""day""=>[""30""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2994837,Mazingarbe,"[2.71544, 50.4711]"
+6,AWD0001xym,diary,362,6,1915-09-30 00:00:00 UTC,30 Sep 1915,Mazingarbe,"[2.71544, 50.4711]","",activity,repair,{},2994837,Mazingarbe,"[2.71544, 50.4711]"
+1,AWD0001xvq,diary,363,2,1915-09-30 00:00:00 UTC,30 Sep 1915,Mazingarbe,"[2.71544, 50.4711]","",title,List of Officers,{},2994837,Mazingarbe,"[2.71544, 50.4711]"
+2,AWD0001xvq,diary,363,3,1915-09-23 00:00:00 UTC,23 Sep 1915,Mazingarbe,"[2.71544, 50.4711]","",diaryDate,23 Sep 1915,"{""day""=>[""23""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2994837,Mazingarbe,"[2.71544, 50.4711]"
+3,AWD0001xvq,diary,363,2,1915-09-23 00:00:00 UTC,23 Sep 1915,Mazingarbe,"[2.71544, 50.4711]","",date,23 Sep 1915,{},2994837,Mazingarbe,"[2.71544, 50.4711]"
+5,AWD0001xvq,diary,363,6,1915-09-23 00:00:00 UTC,23 Sep 1915,Mazingarbe,"[2.71544, 50.4711]","",person,Lieutenant Colonel  Priaulx,"{""first""=>[""""], ""surname""=>[""Priaulx""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",2994837,Mazingarbe,"[2.71544, 50.4711]"
+6,AWD0001xvq,diary,363,6,1915-09-23 00:00:00 UTC,23 Sep 1915,Mazingarbe,"[2.71544, 50.4711]","",person,Captain P J R Currie,"{""first""=>[""P J R""], ""surname""=>[""Currie""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other"", ""commander""], ""unit""=>[""""]}",2994837,Mazingarbe,"[2.71544, 50.4711]"
+7,AWD0001xvq,diary,363,6,1915-09-23 00:00:00 UTC,23 Sep 1915,Mazingarbe,"[2.71544, 50.4711]","",person,Lieutenant A Robinson,"{""first""=>[""A""], ""surname""=>[""Robinson""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2994837,Mazingarbe,"[2.71544, 50.4711]"
+9,AWD0001xvq,diary,363,4,1915-09-23 00:00:00 UTC,23 Sep 1915,Mazingarbe,"[2.71544, 50.4711]","",person,Lieutenant H K Ward,"{""first""=>[""H K""], ""surname""=>[""Ward""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",2994837,Mazingarbe,"[2.71544, 50.4711]"
+12,AWD0001xvq,diary,363,5,1915-09-23 00:00:00 UTC,23 Sep 1915,Mazingarbe,"[2.71544, 50.4711]","",person,Second Lieutenant T R Reid,"{""first""=>[""T R""], ""surname""=>[""Reid""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",2994837,Mazingarbe,"[2.71544, 50.4711]"
+13,AWD0001xvq,diary,363,5,1915-09-23 00:00:00 UTC,23 Sep 1915,Mazingarbe,"[2.71544, 50.4711]","",person,Second Lieutenant T B Mahar,"{""first""=>[""T B""], ""surname""=>[""Mahar""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2994837,Mazingarbe,"[2.71544, 50.4711]"
+14,AWD0001xvq,diary,363,6,1915-09-23 00:00:00 UTC,23 Sep 1915,Mazingarbe,"[2.71544, 50.4711]","",person,Captain G R Dubs,"{""first""=>[""G R""], ""surname""=>[""Dubs""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",2994837,Mazingarbe,"[2.71544, 50.4711]"
+15,AWD0001xvq,diary,363,3,1915-09-25 00:00:00 UTC,25 Sep 1915,Mazingarbe,"[2.71544, 50.4711]","",diaryDate,25 Sep 1915,"{""day""=>[""25""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2994837,Mazingarbe,"[2.71544, 50.4711]"
+16,AWD0001xvq,diary,363,5,1915-09-25 00:00:00 UTC,25 Sep 1915,Mazingarbe,"[2.71544, 50.4711]","",person,Lieutenant J C Grahame-Stewart,"{""first""=>[""J C""], ""surname""=>[""Grahame-Stewart""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",2994837,Mazingarbe,"[2.71544, 50.4711]"
+17,AWD0001xvq,diary,363,5,1915-09-25 00:00:00 UTC,25 Sep 1915,Mazingarbe,"[2.71544, 50.4711]","",person,Second Lieutenant G G Fowler,"{""first""=>[""G G""], ""surname""=>[""Fowler""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",2994837,Mazingarbe,"[2.71544, 50.4711]"
+18,AWD0001xvq,diary,363,5,1915-09-25 00:00:00 UTC,25 Sep 1915,Mazingarbe,"[2.71544, 50.4711]","",person,"Second Lieutenant R E Buller, Bullen","{""first""=>[""R E""], ""surname""=>[""Buller"", ""Bullen""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2994837,Mazingarbe,"[2.71544, 50.4711]"
+19,AWD0001xvq,diary,363,5,1915-09-25 00:00:00 UTC,25 Sep 1915,Mazingarbe,"[2.71544, 50.4711]","",person,Lieutenant A W Symington,"{""first""=>[""A W""], ""surname""=>[""Symington""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2994837,Mazingarbe,"[2.71544, 50.4711]"
+20,AWD0001xvq,diary,363,6,1915-09-25 00:00:00 UTC,25 Sep 1915,Mazingarbe,"[2.71544, 50.4711]","",person,Captain J B Brady,"{""first""=>[""J B""], ""surname""=>[""Brady""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2994837,Mazingarbe,"[2.71544, 50.4711]"
+21,AWD0001xvq,diary,363,5,1915-09-25 00:00:00 UTC,25 Sep 1915,Mazingarbe,"[2.71544, 50.4711]","",person,Second Lieutenant L G Nash,"{""first""=>[""L G""], ""surname""=>[""Nash""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",2994837,Mazingarbe,"[2.71544, 50.4711]"
+22,AWD0001xvq,diary,363,2,1915-09-25 00:00:00 UTC,25 Sep 1915,Mazingarbe,"[2.71544, 50.4711]","",diaryDate,25 Sep 1915,"{""day""=>[""25""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2994837,Mazingarbe,"[2.71544, 50.4711]"
+23,AWD0001xvq,diary,363,5,1915-09-25 00:00:00 UTC,25 Sep 1915,Mazingarbe,"[2.71544, 50.4711]","",person,Second Lieutenant C H Dowden,"{""first""=>[""C H""], ""surname""=>[""Dowden""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2994837,Mazingarbe,"[2.71544, 50.4711]"
+24,AWD0001xvq,diary,363,5,1915-09-25 00:00:00 UTC,25 Sep 1915,Mazingarbe,"[2.71544, 50.4711]","",person,Second Lieutenant W H Palmer,"{""first""=>[""W H""], ""surname""=>[""Palmer""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",2994837,Mazingarbe,"[2.71544, 50.4711]"
+25,AWD0001xvq,diary,363,5,1915-09-25 00:00:00 UTC,25 Sep 1915,Mazingarbe,"[2.71544, 50.4711]","",person,Captain  Wenham,"{""first""=>[""""], ""surname""=>[""Wenham""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2994837,Mazingarbe,"[2.71544, 50.4711]"
+26,AWD0001xvq,diary,363,4,1915-09-25 00:00:00 UTC,25 Sep 1915,Mazingarbe,"[2.71544, 50.4711]","",person,Second Lieutenant W P Bristowe,"{""first""=>[""W P""], ""surname""=>[""Bristowe""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",2994837,Mazingarbe,"[2.71544, 50.4711]"
+28,AWD0001xvq,diary,363,2,1915-09-25 00:00:00 UTC,25 Sep 1915,Mazingarbe,"[2.71544, 50.4711]","",diaryDate,25 Sep 1915,"{""day""=>[""25""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2994837,Mazingarbe,"[2.71544, 50.4711]"
+29,AWD0001xvq,diary,363,5,1915-09-25 00:00:00 UTC,25 Sep 1915,Mazingarbe,"[2.71544, 50.4711]","",person,Second Lieutenant T Hone,"{""first""=>[""T""], ""surname""=>[""Hone""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",2994837,Mazingarbe,"[2.71544, 50.4711]"
+30,AWD0001xvq,diary,363,5,1915-09-25 00:00:00 UTC,25 Sep 1915,Mazingarbe,"[2.71544, 50.4711]","",person,"Second Lieutenant H K Dinn, Diver","{""first""=>[""H K""], ""surname""=>[""Dinn"", ""Diver""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",2994837,Mazingarbe,"[2.71544, 50.4711]"
+31,AWD0001xvq,diary,363,5,1915-09-25 00:00:00 UTC,25 Sep 1915,Mazingarbe,"[2.71544, 50.4711]","",person,"Second Lieutenant A G N Dickenson, Dickinson","{""first""=>[""A G N""], ""surname""=>[""Dickenson"", ""Dickinson""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2994837,Mazingarbe,"[2.71544, 50.4711]"
+32,AWD0001xvq,diary,363,4,1915-09-25 00:00:00 UTC,25 Sep 1915,Mazingarbe,"[2.71544, 50.4711]","",person,"Captain J E N Herseltine, Heseltine","{""first""=>[""J E N""], ""surname""=>[""Herseltine"", ""Heseltine""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",2994837,Mazingarbe,"[2.71544, 50.4711]"
+34,AWD0001xvq,diary,363,3,1915-09-25 00:00:00 UTC,25 Sep 1915,Mazingarbe,"[2.71544, 50.4711]","",diaryDate,25 Sep 1915,"{""day""=>[""25""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2994837,Mazingarbe,"[2.71544, 50.4711]"
+35,AWD0001xvq,diary,363,5,1915-09-25 00:00:00 UTC,25 Sep 1915,Mazingarbe,"[2.71544, 50.4711]","",person,Lieutenant C H Eyre,"{""first""=>[""C H""], ""surname""=>[""Eyre""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",2994837,Mazingarbe,"[2.71544, 50.4711]"
+36,AWD0001xvq,diary,363,4,1915-09-25 00:00:00 UTC,25 Sep 1915,Mazingarbe,"[2.71544, 50.4711]","",person,Second Lieutenant J Scudamore,"{""first""=>[""J""], ""surname""=>[""Scudamore""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",2994837,Mazingarbe,"[2.71544, 50.4711]"
+37,AWD0001xvq,diary,363,5,1915-09-25 00:00:00 UTC,25 Sep 1915,Mazingarbe,"[2.71544, 50.4711]","",person,Second Lieutenant J Angell,"{""first""=>[""J""], ""surname""=>[""Angell""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2994837,Mazingarbe,"[2.71544, 50.4711]"
+38,AWD0001xvq,diary,363,5,1915-09-25 00:00:00 UTC,25 Sep 1915,Mazingarbe,"[2.71544, 50.4711]","",person,Lieutenant J H Simpson,"{""first""=>[""J H""], ""surname""=>[""Simpson""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",2994837,Mazingarbe,"[2.71544, 50.4711]"
+40,AWD0001xvq,diary,363,6,1915-09-25 00:00:00 UTC,25 Sep 1915,Mazingarbe,"[2.71544, 50.4711]","",person,Second Lieutenant F H Campbell,"{""first""=>[""F H""], ""surname""=>[""Campbell""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other"", ""departed_posted""], ""unit""=>[""""]}",2994837,Mazingarbe,"[2.71544, 50.4711]"
+3,AWD0001xyr,diary,364,2,1915-09-28 00:00:00 UTC,28 Sep 1915,Mazingarbe,"[2.71544, 50.4711]","",diaryDate,28 Sep 1915,"{""day""=>[""28""], ""month""=>[""Sep""], ""year""=>[""1915""]}",2994837,Mazingarbe,"[2.71544, 50.4711]"
+4,AWD0001xyr,diary,364,6,1915-09-28 00:00:00 UTC,28 Sep 1915,Mazingarbe,"[2.71544, 50.4711]","",person,Major  Bircham,"{""first""=>[""""], ""surname""=>[""Bircham""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2994837,Mazingarbe,"[2.71544, 50.4711]"
+5,AWD0001xyr,diary,364,5,1915-09-28 00:00:00 UTC,28 Sep 1915,Mazingarbe,"[2.71544, 50.4711]","",person,"Second Lieutenant F L J,F L T Johnstone","{""first""=>[""F L J"", ""F L T""], ""surname""=>[""Johnstone""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2994837,Mazingarbe,"[2.71544, 50.4711]"
+2,AWD0001xw9,diary,365,2,1915-08-31 00:00:00 UTC,31 Aug 1915,Mazingarbe,"[2.71544, 50.4711]","",diaryDate,31 Aug 1915,"{""day""=>[""31""], ""month""=>[""Aug""], ""year""=>[""1915""]}",2994837,Mazingarbe,"[2.71544, 50.4711]"
+3,AWD0001xw9,diary,365,5,1915-08-31 00:00:00 UTC,31 Aug 1915,Mazingarbe,"[2.71544, 50.4711]","",person,Rifleman J Bland,"{""first""=>[""J""], ""surname""=>[""Bland""], ""rank""=>[""Rifleman""], ""number""=>[""11781""], ""reason""=>[""casualty_kia""], ""unit""=>[""""]}",2994837,Mazingarbe,"[2.71544, 50.4711]"
+5,AWD0001xw9,diary,365,5,1915-08-31 00:00:00 UTC,31 Aug 1915,Mazingarbe,"[2.71544, 50.4711]","",person,Rifleman J West,"{""first""=>[""J""], ""surname""=>[""West""], ""rank""=>[""Rifleman""], ""number""=>[""1009""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",2994837,Mazingarbe,"[2.71544, 50.4711]"
+7,AWD0001xw9,diary,365,5,1915-08-31 00:00:00 UTC,31 Aug 1915,Mazingarbe,"[2.71544, 50.4711]","",person,Rifleman F Woodcock,"{""first""=>[""F""], ""surname""=>[""Woodcock""], ""rank""=>[""Rifleman""], ""number""=>[""7479""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",2994837,Mazingarbe,"[2.71544, 50.4711]"
+1,AWD0001xwm,orders,367,2,,,,[],,orders,other,{},,,
+6,AWD0001xwm,orders,367,7,,,,[],,date,1 Sep 1915,{},,,
+7,AWD0001xwm,orders,367,7,,,,[],,person,Brigadier General J H W Pollard,"{""first""=>[""J H W""], ""surname""=>[""Pollard""], ""rank""=>[""Brigadier General""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+2,AWD0001xwu,orders,368,4,,,,[],,person,Major R Terry,"{""first""=>[""R""], ""surname""=>[""Terry""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+2,AWD0001xwx,orders,369,7,,,,[],,person,Lieutenant Colonel E W B Green,"{""first""=>[""E W B""], ""surname""=>[""Green""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+8,AWD0001xwx,orders,369,3,,,,[],,person,Captain N G Dobbie,"{""first""=>[""N G""], ""surname""=>[""Dobbie""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+10,AWD0001xwx,orders,369,5,,,,[],,date,2 Sep 1915,{},,,
+11,AWD0001xwx,orders,369,3,,,,[],,person,Lieutenant M Wallington,"{""first""=>[""M""], ""surname""=>[""Wallington""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+5,AWD0001xv2,orders,373,2,,,,[],,orders,other,{},,,
+7,AWD0001xv2,orders,373,2,,,,[],,person,Captain  ,"{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""commander"", ""author""], ""unit""=>[""King's Royal Rifles"", """"]}",,,
+8,AWD0001xv2,orders,373,5,,,,[],,date,5 Sep 1915,{},,,
+1,AWD0001xwz,orders,374,2,,,,[],,orders,move,{},,,
+5,AWD0001xwz,orders,374,4,,,,[],,person,Brigadier J H W Pollard,"{""first""=>[""J H W""], ""surname""=>[""Pollard""], ""rank""=>[""Brigadier""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+6,AWD0001xwz,orders,374,6,,,,[],,date,5 Sep 1915,{},,,
+9,AWD0001xwz,orders,374,2,,,,[],,person,"Captain I H,J H Piston, Preston","{""first""=>[""I H"", ""J H""], ""surname""=>[""Piston"", ""Preston""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""commander"", ""author""], ""unit""=>["""", ""2nd Brigade""]}",,,
+2,AWD0001xx4,signals,375,5,,,,[],,date,10 Sep 1915,{},,,
+6,AWD0001xx4,signals,375,2,,,,[],,unit,"2 Sussex, 2/Sussex","{""name""=>[""2 Sussex"", ""2/Sussex""], ""context""=>[""other""]}",,,
+9,AWD0001xx4,signals,375,2,,,,[],,signals,situation,{},,,
+13,AWD0001xx4,signals,375,5,,,,[],,time,1155AM,{},,,
+3,AWD0001xxh,orders,377,5,,,,[],,date,11 Sep 1915,{},,,
+5,AWD0001xxh,orders,377,3,,,,[],,orders,other,{},,,
+6,AWD0001xxh,orders,377,7,,,,[],,person,Captain T H Preston,"{""first""=>[""T H""], ""surname""=>[""Preston""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""commander"", ""other""], ""unit""=>[""""]}",,,
+2,AWD0001xyc,report,381,3,,,,[],,person,Major V Vivian,"{""first""=>[""V""], ""surname""=>[""Vivian""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other"", ""commander"", ""author""], ""unit""=>[""""]}",,,
+5,AWD0001xyc,report,381,5,,,,[],,date,11 Sep 1915,{},,,
+2,AWD0001xwp,orders,383,2,,,,[],,orders,standing,{},,,
+3,AWD0001xwp,orders,383,2,,,,[],,person,"Captain,  ","{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""Captain"", """"], ""number""=>[""""], ""reason""=>[""commander"", ""author""], ""unit""=>["""", ""Adjutant 2nd Bn Kings Royal Rifles""]}",,,
+4,AWD0001xwp,orders,383,3,,,,[],,date,12 Sep 1915,{},,,
+6,AWD0001xxe,report,384,4,,,,[],,person,Major V Vivian,"{""first""=>[""V""], ""surname""=>[""Vivian""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+7,AWD0001xxe,report,384,4,,,,[],,date,13 Sep 1915,{},,,
+1,AWD0001xxt,report,385,3,,,,[],,title,Reconnaissance Report,{},,,
+6,AWD0001xxt,report,385,4,,,,[],,person,Major V Vivian,"{""first""=>[""V""], ""surname""=>[""Vivian""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+7,AWD0001xxt,report,385,5,,,,[],,date,14 Sep 1915,{},,,
+3,AWD0001xvy,orders,389,2,,,,[],,date,22 Sep 1915,{},,,
+8,AWD0001xvy,orders,389,3,,,,[],,activity,resupplying,{},,,
+6,AWD0001xw8,orders,390,3,,,,[],,person,Major General S Holland,"{""first""=>[""S""], ""surname""=>[""Holland""], ""rank""=>[""Major General""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""1st Division""]}",,,
+8,AWD0001xw8,orders,390,3,,,,[],,date,17 Sep 1915,{},,,
+1,AWD0001xvp,orders,391,2,,,,[],,orders,move,{},,,
+5,AWD0001xvp,orders,391,4,,,,[],,person,Brigadier General J H W Pollard,"{""first""=>[""J H W""], ""surname""=>[""Pollard""], ""rank""=>[""Brigadier General""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+6,AWD0001xvp,orders,391,5,,,,[],,date,19 Sep 1915,{},,,
+7,AWD0001xvp,orders,391,2,,,,[],,orders,move,{},,,
+3,AWD0001xvz,orders,392,2,,,,[],,person,"Captain ,T H Preston","{""first""=>["""", ""T H""], ""surname""=>[""Preston""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""author"", ""commander""], ""unit""=>[""Staff 2nd Infantry Brigade"", ""2nd Infantry Brigade""]}",,,
+4,AWD0001xvz,orders,392,2,,,,[],,date,19 Sep 1915,{},,,
+5,AWD0001xxr,orders,393,3,,,,[],,date,20 Sep 1915,{},,,
+3,AWD0001xzb,report,394,2,,,,[],,date,18 Sep 1915,{},,,
+12,AWD0001xzb,report,394,2,,,,[],,person,Major V Vivian,"{""first""=>[""V""], ""surname""=>[""Vivian""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+13,AWD0001xzb,report,394,4,,,,[],,date,20 Sep 1915,{},,,
+14,AWD0001xzb,report,394,2,,,,[],,person,Major V Vivian,"{""first""=>[""V""], ""surname""=>[""Vivian""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""author"", ""commander""], ""unit""=>[""Genewral Staff 1st Division"", ""1st Division""]}",,,
+2,AWD0001xv9,report,395,2,,,,[],,title,Further topographical information obtained from refugees,{},,,
+3,AWD0001xv9,report,395,2,,,,[],,title,Topographical Information obtained from refugees,{},,,
+4,AWD0001xv9,report,395,2,,,,[],,reference,"Map 36.c.   1/40,000",{},,,
+8,AWD0001xv9,report,395,2,,,,[],,reference,B.30.a.,{},,,
+1,AWD0001xwb,orders,397,2,,,,[],,reference,IV Corps No.HRS 507,{},,,
+2,AWD0001xwb,orders,397,2,,,,[],,reference,1st Army No. ?GS 169(a),{},,,
+4,AWD0001xwb,orders,397,4,,,,[],,orders,attack,{},,,
+1,AWD0001xvw,orders,398,5,,,,[],,orders,attack,{},,,
+1,AWD0001xvk,orders,399,3,,,,[],,orders,attack,{},,,
+1,AWD0001xxf,orders,400,3,,,,[],,orders,attack,{},,,
+3,AWD0001xxf,orders,400,2,,,,[],,date,18 Sep 1915,{},,,
+1,AWD0001xxv,orders,402,5,,,,[],,orders,attack,{},,,
+1,AWD0001xy3,orders,403,3,,,,[],,orders,attack,{},,,
+1,AWD0001xyq,orders,404,3,,,,[],,orders,attack,{},,,
+2,AWD0001xyq,orders,404,3,,,,[],,person,Captain  Dobbin,"{""first""=>[""""], ""surname""=>[""Dobbin""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""commander"", ""other"", ""author""], ""unit""=>[""1st Division"", """", ""General Staff 1st Division""]}",,,
+3,AWD0001xyq,orders,404,3,,,,[],,date,18 Sep 1915,{},,,
+1,AWD0001xxm,orders,406,2,,,,[],,orders,routine,{},,,
+2,AWD0001xxm,orders,406,2,,,,[],,orders,attack,{},,,
+3,AWD0001xy2,orders,407,2,,,,[],,orders,attack,{},,,
+2,AWD0001xvo,orders,409,2,,,,[],,orders,move,{},,,
+6,AWD0001xvo,orders,409,4,,,,[],,person,Brigadier General J H W Pollard,"{""first""=>[""J H W""], ""surname""=>[""Pollard""], ""rank""=>[""Brigadier General""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+7,AWD0001xvo,orders,409,5,,,,[],,date,21 Sep 1915,{},,,
+9,AWD0001xvo,orders,409,2,,,,[],,date,22 Sep 1915,{},,,
+12,AWD0001xvo,orders,409,2,,,,[],,date,23 Sep 1915,{},,,
+14,AWD0001xvo,orders,409,2,,,,[],,person,Major R Terry,"{""first""=>[""R""], ""surname""=>[""Terry""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""author"", ""commander""], ""unit""=>["""", ""2nd Infantry Brigade""]}",,,
+5,AWD0001xxq,orders,411,5,,,,[],,date,22 Sep 1915,{},,,
+8,AWD0001xxq,orders,411,7,,,,[],,person,Brigadier General J H W Pollard,"{""first""=>[""J H W""], ""surname""=>[""Pollard""], ""rank""=>[""Brigadier General""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+10,AWD0001xxq,orders,411,3,,,,[],,time,0830PM,{},,,
+11,AWD0001xxq,orders,411,2,,,,[],,orders,move,{},,,
+12,AWD0001xxq,orders,411,3,,,,[],,diaryDate,23 Sep 1915,"{""day""=>[""23""], ""month""=>[""Sep""], ""year""=>[""1915""]}",,,
+13,AWD0001xxq,orders,411,2,,,,[],,activity,raid,{},,,
+14,AWD0001xxq,orders,411,2,,,,[],,place,"Area 'G', Area 'F'","{""place""=>[""Area 'G'"", ""Area 'F'""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+15,AWD0001xxq,orders,411,3,,,,[],,time,0915PM,{},,,
+17,AWD0001xxq,orders,411,2,,,,[],,diaryDate,23 Sep 1915,"{""day""=>[""23""], ""month""=>[""Sep""], ""year""=>[""1915""]}",,,
+19,AWD0001xxq,orders,411,3,,,,[],,time,0200AM,{},,,
+20,AWD0001xxq,orders,411,3,,,,[],,diaryDate,24 Sep 1915,"{""day""=>[""24""], ""month""=>[""Sep""], ""year""=>[""1915""]}",,,
+22,AWD0001xxq,orders,411,3,,,,[],,diaryDate,23 Sep 1915,"{""day""=>[""23""], ""month""=>[""Sep""], ""year""=>[""1915""]}",,,
+23,AWD0001xxq,orders,411,3,,,,[],,time,0400PM,{},,,
+24,AWD0001xxq,orders,411,2,,,,[],,place,"northampton, Northampton","{""place""=>[""northampton"", ""Northampton""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+26,AWD0001xxq,orders,411,2,,,,[],,place,"Area 'G', Area 'K'","{""place""=>[""Area 'G'"", ""Area 'K'""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+27,AWD0001xxq,orders,411,3,,,,[],,time,1000PM,{},,,
+29,AWD0001xxq,orders,411,2,,,,[],,time,1150PM,{},,,
+30,AWD0001xxq,orders,411,3,,,,[],,diaryDate,24 Sep 1915,"{""day""=>[""24""], ""month""=>[""Sep""], ""year""=>[""1915""]}",,,
+31,AWD0001xxq,orders,411,2,,,,[],,activity,movement,{},,,
+33,AWD0001xxq,orders,411,3,,,,[],,time,1100PM,{},,,
+34,AWD0001xxq,orders,411,2,,,,[],,diaryDate,24 Sep 1915,"{""day""=>[""24""], ""month""=>[""Sep""], ""year""=>[""1915""]}",,,
+36,AWD0001xxq,orders,411,4,,,,[],,diaryDate,24 Sep 1915,"{""day""=>[""24""], ""month""=>[""Sep""], ""year""=>[""1915""]}",,,
+38,AWD0001xxq,orders,411,3,,,,[],,time,0430PM,{},,,
+40,AWD0001xxq,orders,411,3,,,,[],,diaryDate,23 Sep 1915,"{""day""=>[""23""], ""month""=>[""Sep""], ""year""=>[""1915""]}",,,
+43,AWD0001xxq,orders,411,3,,,,[],,time,1000PM,{},,,
+44,AWD0001xxq,orders,411,3,,,,[],,person,Major R Terry,"{""first""=>[""R""], ""surname""=>[""Terry""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+45,AWD0001xxq,orders,411,3,,,,[],,time,1100AM,{},,,
+47,AWD0001xxq,orders,411,2,,,,[],,place,"Northampton, northampton","{""place""=>[""Northampton"", ""northampton""], ""location""=>[""true""], ""name""=>["""", ""Northampton""], ""lat""=>["""", ""52.25""], ""long""=>["""", ""-0.88333""], ""id""=>["""", ""2641430""]}",,,
+3,AWD0001xy5,other,412,2,,,,[],,domestic,accomodation,{},,,
+1,AWD0001xxj,"orders, other, diary",413,2,,,,[],,orders,attack,{},,,
+3,AWD0001xxj,"orders, other, diary",413,2,,,,[],,date,24 Sep 1915,{},,,
+4,AWD0001xxj,"orders, other, diary",413,2,,,,[],,diaryDate,24 Sep 1915,"{""day""=>[""24""], ""month""=>[""Sep""], ""year""=>[""1915""]}",,,
+3,AWD0001xx0,"orders, other, diary",416,2,,,,[],,domestic,accomodation,{},,,
+2,AWD0001xwo,"orders, other, diary",417,2,,,,[],,domestic,accomodation,{},,,
+2,AWD0001xvl,"orders, other, diary",418,2,,,,[],,domestic,medical,{},,,
+2,AWD0001xwg,"orders, other, diary",419,2,,,,[],,person,",other Prisoners ","{""first""=>[""Prisoners""], ""surname""=>[""""], ""rank""=>["""", ""other""], ""number""=>[""""], ""reason""=>[""commander"", ""other""], ""unit""=>[""""]}",,,
+5,AWD0001xvh,"orders, other, diary",422,2,,,,[],,diaryDate,22 Sep 1915,"{""day""=>[""22""], ""month""=>[""Sep""], ""year""=>[""1915""]}",,,
+1,AWD0001xvu,other,423,2,,,,[],,person," MRC,M R C ","{""first""=>[""MRC"", ""M R C""], ""surname""=>[""""], ""rank""=>[""""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+1,AWD0001xyk,other,426,2,,,,[],,title,Stores List,{},,,
+1,AWD0001xw3,signals,431,2,,,,[],,date,24 Sep 1915,{},,,
+3,AWD0001xw3,signals,431,2,,,,[],,signals,situation,{},,,
+4,AWD0001xw3,signals,431,2,,,,[],,time,0530AM,{},,,
+2,AWD0001xxb,signals,432,3,,,,[],,date,24 Sep 1915,{},,,
+6,AWD0001xxb,signals,432,2,,,,[],,time,0600PM,{},,,
+7,AWD0001xxb,signals,432,2,,,,[],,time,0110PM,{},,,
+2,AWD0001xx8,signals,433,2,,,,[],,date,24 Sep 1915,{},,,
+5,AWD0001xx8,signals,433,2,,,,[],,time,0115PM,{},,,
+1,AWD0001xwr,signals,434,4,,,,[],,date,24 Sep 1915,{},,,
+2,AWD0001xwr,signals,434,3,,,,[],,signals,other,{},,,
+3,AWD0001xwr,signals,434,2,,,,[],,time,0305PM,{},,,
+2,AWD0001xvc,signals,435,3,,,,[],,date,24 Sep 1915,{},,,
+1,AWD0001xxn,signals,436,3,,,,[],,date,24 Sep 1915,{},,,
+2,AWD0001xxn,signals,436,2,,,,[],,signals,request,{},,,
+5,AWD0001xxn,signals,436,2,,,,[],,time,0300PM,{},,,
+1,AWD0001xy0,signals,437,3,,,,[],,date,24 Sep 1915,{},,,
+3,AWD0001xy0,signals,437,2,,,,[],,signals,other,{},,,
+4,AWD0001xy0,signals,437,2,,,,[],,time,0430PM,{},,,
+1,AWD0001xx7,signals,438,2,,,,[],,date,24 Sep 1915,{},,,
+2,AWD0001xx7,signals,438,3,,,,[],,signals,situation,{},,,
+3,AWD0001xx7,signals,438,2,,,,[],,time,0500PM,{},,,
+1,AWD0001xv8,signals,439,3,,,,[],,date,24 Sep 1915,{},,,
+5,AWD0001xv8,signals,439,2,,,,[],,time,0540PM,{},,,
+2,AWD0001xyp,signals,440,3,,,,[],,date,24 Sep 1915,{},,,
+4,AWD0001xyp,signals,440,2,,,,[],,signals,other,{},,,
+7,AWD0001xyp,signals,440,3,,,,[],,time,0550PM,{},,,
+2,AWD0001xvf,signals,441,2,,,,[],,date,24 Sep 1915,{},,,
+3,AWD0001xvf,signals,441,2,,,,[],,signals,other,{},,,
+4,AWD0001xvf,signals,441,2,,,,[],,time,0700PM,{},,,
+2,AWD0001xyo,signals,442,3,,,,[],,date,24 Sep 1915,{},,,
+4,AWD0001xyo,signals,442,2,,,,[],,time,0745PM,{},,,
+2,AWD0001xwc,signals,443,2,,,,[],,date,24 Sep 1915,{},,,
+4,AWD0001xwc,signals,443,2,,,,[],,signals,other,{},,,
+5,AWD0001xwc,signals,443,2,,,,[],,time,0750PM,{},,,
+1,AWD0001xw5,signals,444,2,,,,[],,date,24 Sep 1915,{},,,
+3,AWD0001xw5,signals,444,2,,,,[],,signals,other,{},,,
+5,AWD0001xw5,signals,444,2,,,,[],,time,0905PM,{},,,
+1,AWD0001xx2,signals,445,2,,,,[],,date,25 Sep 1915,{},,,
+3,AWD0001xx2,signals,445,2,,,,[],,signals,other,{},,,
+4,AWD0001xx2,signals,445,2,,,,[],,time,1250AM,{},,,
+1,AWD0001xw4,signals,446,3,,,,[],,date,25 Sep 1915,{},,,
+2,AWD0001xw4,signals,446,3,,,,[],,signals,other,{},,,
+1,AWD0001xvj,signals,447,3,,,,[],,date,25 Sep 1915,{},,,
+3,AWD0001xvj,signals,447,2,,,,[],,signals,other,{},,,
+1,AWD0001xwa,signals,448,2,,,,[],,date,25 Sep 1915,{},,,
+3,AWD0001xwa,signals,448,2,,,,[],,signals,other,{},,,
+4,AWD0001xwa,signals,448,2,,,,[],,time,0445AM,{},,,
+1,AWD0001xve,signals,449,2,,,,[],,diaryDate,25 Sep 1915,"{""day""=>[""25""], ""month""=>[""Sep""], ""year""=>[""1915""]}",,,
+2,AWD0001xve,signals,449,2,,,,[],,date,25 Sep 1915,{},,,
+3,AWD0001xve,signals,449,2,,,,[],,signals,other,{},,,
+4,AWD0001xve,signals,449,2,,,,[],,time,0445AM,{},,,
+1,AWD0001xxg,signals,450,3,,,,[],,date,25 Sep 1915,{},,,
+2,AWD0001xxg,signals,450,2,,,,[],,signals,other,{},,,
+3,AWD0001xxg,signals,450,2,,,,[],,time,0445AM,{},,,
+1,AWD0001xwi,signals,451,3,,,,[],,date,25 Sep 1915,{},,,
+4,AWD0001xwi,signals,451,2,,,,[],,signals,situation,{},,,
+5,AWD0001xwi,signals,451,4,,,,[],,time,0515AM,{},,,
+3,AWD0001xx9,signals,452,2,,,,[],,time,0630AM,{},,,
+6,AWD0001xx9,signals,452,2,,,,[],,signals,situation,{},,,
+7,AWD0001xx9,signals,452,2,,,,[],,time,0620AM,{},,,
+1,AWD0001xw6,other,453,2,,,,[],,time,0830AM,{},,,
+2,AWD0001xwd,signals,454,3,,,,[],,date,25 Sep 1915,{},,,
+5,AWD0001xwd,signals,454,2,,,,[],,person,Colonel  Priaulx,"{""first""=>[""""], ""surname""=>[""Priaulx""], ""rank""=>[""Colonel""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+6,AWD0001xwd,signals,454,2,,,,[],,person,Major  Heseltine,"{""first""=>[""""], ""surname""=>[""Heseltine""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+7,AWD0001xwd,signals,454,2,,,,[],,person,Lieutenant  Eyre,"{""first""=>[""""], ""surname""=>[""Eyre""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+8,AWD0001xwd,signals,454,2,,,,[],,person,"Second Lieutenant  Dinn, Binn","{""first""=>[""""], ""surname""=>[""Dinn"", ""Binn""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+9,AWD0001xwd,signals,454,2,,,,[],,person,"Second Lieutenant  Fowler, Fowles","{""first""=>[""""], ""surname""=>[""Fowler"", ""Fowles""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+10,AWD0001xwd,signals,454,2,,,,[],,person,Lieutenant  Bristowe,"{""first""=>[""""], ""surname""=>[""Bristowe""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+11,AWD0001xwd,signals,454,2,,,,[],,person,Second Lieutenant  Palmer,"{""first""=>[""""], ""surname""=>[""Palmer""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+12,AWD0001xwd,signals,454,2,,,,[],,person,Captain  Brady,"{""first""=>[""""], ""surname""=>[""Brady""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",,,
+14,AWD0001xwd,signals,454,4,,,,[],,time,0930AM,{},,,
+1,AWD0001xy6,signals,455,2,,,,[],,date,25 Sep 1915,{},,,
+5,AWD0001xy6,signals,455,3,,,,[],,time,1010AM,{},,,
+1,AWD0001xxa,signals,456,2,,,,[],,date,25 Sep 1915,{},,,
+4,AWD0001xxa,signals,456,3,,,,[],,unit,L-Scottish,"{""name""=>[""L-Scottish""], ""context""=>[""joined""]}",,,
+5,AWD0001xxa,signals,456,2,,,,[],,unit,"9 King's, 9 Kings","{""name""=>[""9 King's"", ""9 Kings""], ""context""=>[""joined"", ""other""]}",,,
+7,AWD0001xxa,signals,456,3,,,,[],,time,1230PM,{},,,
+1,AWD0001xxy,signals,457,2,,,,[],,person,Lance Corporal  Newman,"{""first""=>[""""], ""surname""=>[""Newman""], ""rank""=>[""Lance Corporal""], ""number""=>[""""], ""reason""=>[""combat""], ""unit""=>[""2nd K.R.R."", """"]}",,,
+2,AWD0001xxy,signals,457,3,,,,[],,date,25 Sep 1915,{},,,
+5,AWD0001xxy,signals,457,2,,,,[],,unit,Gloucesters,"{""name""=>[""Gloucesters""], ""context""=>[""joined"", ""right""]}",,,
+7,AWD0001xxy,signals,457,3,,,,[],,time,0220PM,{},,,
+1,AWD0001xy7,signals,458,2,,,,[],,date,26 Sep 1915,{},,,
+2,AWD0001xy7,signals,458,2,,,,[],,signals,situation,{},,,
+2,AWD0001xwn,signals,459,2,,,,[],,date,26 Sep 1915,{},,,
+3,AWD0001xwn,signals,459,2,,,,[],,signals,situation,{},,,
+4,AWD0001xwn,signals,459,3,,,,[],,time,1230PM,{},,,
+1,AWD0001xx6,signals,460,2,,,,[],,person,"other,  Simmons","{""first""=>[""""], ""surname""=>[""Simmons""], ""rank""=>[""other"", """"], ""number""=>[""""], ""reason""=>[""other"", ""commander""], ""unit""=>[""""]}",,,
+6,AWD0001xx6,signals,460,2,,,,[],,date,24 Sep 1915,{},,,
+9,AWD0001xx6,signals,460,3,,,,[],,time,0715PM,{},,,
+1,AWD0001xy8,signals,461,3,,,,[],,date,25 Sep 1915,{},,,
+4,AWD0001xy8,signals,461,2,,,,[],,signals,other,{},,,
+5,AWD0001xy8,signals,461,2,,,,[],,time,0440AM,{},,,
+3,AWD0001xzy,signals,462,2,,,,[],,date,25 Sep 1915,{},,,
+4,AWD0001xzy,signals,462,2,,,,[],,signals,other,{},,,
+5,AWD0001xzy,signals,462,3,,,,[],,time,0455AM,{},,,
+1,AWD0001xwk,signals,463,3,,,,[],,date,25 Sep 1915,{},,,
+2,AWD0001xwk,signals,463,3,,,,[],,signals,order,{},,,
+3,AWD0001xwk,signals,463,2,,,,[],,time,0633AM,{},,,
+5,AWD0001xwk,signals,463,2,,,,[],,time,0635AM,{},,,
+1,AWD0001xwf,signals,464,4,,,,[],,date,25 Sep 1915,{},,,
+3,AWD0001xwf,signals,464,3,,,,[],,unit,"2/ Sussex, 2 sussex, 2nd Sussex","{""name""=>[""2/ Sussex"", ""2 sussex"", ""2nd Sussex""], ""context""=>[""other""]}",,,
+5,AWD0001xwf,signals,464,3,,,,[],,unit,"1/ Northamptons, 1 northamptons, 1st Northamptons","{""name""=>[""1/ Northamptons"", ""1 northamptons"", ""1st Northamptons""], ""context""=>[""other""]}",,,
+6,AWD0001xwf,signals,464,3,,,,[],,unit,N Lancs,"{""name""=>[""N Lancs""], ""context""=>[""other""]}",,,
+8,AWD0001xwf,signals,464,4,,,,[],,time,0756AM,{},,,
+1,AWD0001xv3,signals,465,3,,,,[],,date,25 Sep 1915,{},,,
+3,AWD0001xv3,signals,465,3,,,,[],,time,0756AM,{},,,
+3,AWD0001xv6,signals,466,4,,,,[],,date,25 Sep 1915,{},,,
+1,AWD0001xvg,signals,467,3,,,,[],,date,25 Sep 1915,{},,,
+3,AWD0001xvg,signals,467,2,,,,[],,unit,"Glosters, Gloucesters","{""name""=>[""Glosters"", ""Gloucesters""], ""context""=>[""joined"", ""other""]}",,,
+7,AWD0001xvg,signals,467,2,,,,[],,time,0330PM,{},,,
+1,AWD0001xyd,signals,468,3,,,,[],,date,26 Sep 1915,{},,,
+3,AWD0001xyd,signals,468,2,,,,[],,signals,other,{},,,
+1,AWD0001xyn,signals,469,4,,,,[],,date,26 Sep 1915,{},,,
+2,AWD0001xyn,signals,469,2,,,,[],,signals,other,{},,,
+5,AWD0001xyn,signals,469,4,,,,[],,time,0700AM,{},,,
+2,AWD0001xyh,signals,470,2,,,,[],,date,26 Sep 1915,{},,,
+4,AWD0001xyh,signals,470,2,,,,[],,date,26 Sep 1915,{},,,
+5,AWD0001xyh,signals,470,2,,,,[],,unit,"2 Sussex, 2/ Sussex","{""name""=>[""2 Sussex"", ""2/ Sussex""], ""context""=>[""joined""]}",,,
+8,AWD0001xyh,signals,470,2,,,,[],,signals,other,{},,,
+9,AWD0001xyh,signals,470,4,,,,[],,time,0350PM,{},,,
+2,AWD0001xw1,signals,471,2,,,,[],,date,26 Sep 1915,{},,,
+3,AWD0001xw1,signals,471,3,,,,[],,person,Rifleman F Sullivan,"{""first""=>[""F""], ""surname""=>[""Sullivan""], ""rank""=>[""Rifleman""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+4,AWD0001xw1,signals,471,2,,,,[],,date,26 Sep 1915,{},,,
+5,AWD0001xw1,signals,471,3,,,,[],,signals,other,{},,,
+6,AWD0001xw1,signals,471,3,,,,[],,time,0450PM,{},,,
+3,AWD0001xyw,signals,472,2,,,,[],,person,Sergeant F Walters,"{""first""=>[""F""], ""surname""=>[""Walters""], ""rank""=>[""Sergeant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+4,AWD0001xyw,signals,472,2,,,,[],,date,26 Sep 1915,{},,,
+10,AWD0001xyw,signals,472,2,,,,[],,unit,"1/ North Lancs, 1 north lancs","{""name""=>[""1/ North Lancs"", ""1 north lancs""], ""context""=>[""joined"", ""other""]}",,,
+12,AWD0001xyw,signals,472,2,,,,[],,unit,"2 susssex, 2/ Sussex","{""name""=>[""2 susssex"", ""2/ Sussex""], ""context""=>[""other"", ""joined""]}",,,
+13,AWD0001xyw,signals,472,2,,,,[],,unit,"1/ Northamptons, 1 northamptons","{""name""=>[""1/ Northamptons"", ""1 northamptons""], ""context""=>[""joined"", ""other""]}",,,
+14,AWD0001xyw,signals,472,3,,,,[],,time,0515PM,{},,,
+1,AWD0001xws,signals,473,2,,,,[],,date,26 Sep 1915,{},,,
+2,AWD0001xws,signals,473,3,,,,[],,person,Sergeant  Walters,"{""first""=>[""""], ""surname""=>[""Walters""], ""rank""=>[""Sergeant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+3,AWD0001xws,signals,473,2,,,,[],,date,26 Sep 1915,{},,,
+4,AWD0001xws,signals,473,3,,,,[],,signals,situation,{},,,
+1,AWD0001xv7,signals,474,3,,,,[],,date,27 Sep 1915,{},,,
+2,AWD0001xv7,signals,474,2,,,,[],,signals,other,{},,,
+3,AWD0001xv7,signals,474,2,,,,[],,unit,"2nd Sussex, 2/ Sussex","{""name""=>[""2nd Sussex"", ""2/ Sussex""], ""context""=>[""other"", ""joined""]}",,,
+6,AWD0001xv7,signals,474,2,,,,[],,unit,"9th Liverpools, 9/ Liverpools","{""name""=>[""9th Liverpools"", ""9/ Liverpools""], ""context""=>[""other"", ""joined""]}",,,
+7,AWD0001xv7,signals,474,2,,,,[],,unit,"1st Northamptons, 1/ Northamptons","{""name""=>[""1st Northamptons"", ""1/ Northamptons""], ""context""=>[""other"", ""joined""]}",,,
+4,AWD0001xwj,signals,475,3,,,,[],,date,27 Sep 1915,{},,,
+5,AWD0001xwj,signals,475,3,,,,[],,signals,other,{},,,
+6,AWD0001xwj,signals,475,3,,,,[],,person,Brigadier General  Pollard,"{""first""=>[""""], ""surname""=>[""Pollard""], ""rank""=>[""Brigadier General""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+5,AWD0001xww,signals,476,3,,,,[],,time,1240AM,{},,,
+8,AWD0001xww,signals,476,2,,,,[],,date,27 Sep 1915,{},,,
+9,AWD0001xww,signals,476,2,,,,[],,signals,other,{},,,
+3,AWD0001xw0,signals,477,3,,,,[],,time,0215PM,{},,,
+5,AWD0001xw0,signals,477,3,,,,[],,date,27 Sep 1915,{},,,
+6,AWD0001xw0,signals,477,3,,,,[],,signals,other,{},,,
+1,AWD0001xyx,signals,478,3,,,,[],,date,27 Sep 1915,{},,,

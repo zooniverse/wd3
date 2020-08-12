@@ -1,0 +1,309 @@
+Order,Page,Page type,Page number,Count,DateTime,Date,Place,Lat/Lon,Time,Type,Label,Data,GeoID,GeoName,GeoCoords
+3,AWD0003v1n,diary,2,2,1916-05-08 00:00:00 UTC,8 May 1916,"","[0.0, 0.0]","",diaryDate,8 May 1916,"{""day""=>[""8""], ""month""=>[""May""], ""year""=>[""1916""]}",2985684,Pozières,"[2.72929, 50.04047]"
+4,AWD0003v1n,diary,2,4,1916-05-08 00:00:00 UTC,8 May 1916,"","[0.0, 0.0]","",place,M N O Trenches,"{""place""=>[""M N O Trenches""], ""location""=>[""false"", ""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+5,AWD0003v1n,diary,2,2,1916-05-08 00:00:00 UTC,8 May 1916,"","[0.0, 0.0]","",diaryDate,8 May 1916,"{""day""=>[""8""], ""month""=>[""May""], ""year""=>[""1916""]}",2985684,Pozières,"[2.72929, 50.04047]"
+6,AWD0003v1n,diary,2,4,1916-05-08 14:30:00 UTC,8 May 1916,"","[0.0, 0.0]",0230PM,time,0230PM,{},2985684,Pozières,"[2.72929, 50.04047]"
+8,AWD0003v1n,diary,2,2,1916-05-08 14:30:00 UTC,8 May 1916,"","[0.0, 0.0]",0230PM,activity,enemy_activity,{},2985684,Pozières,"[2.72929, 50.04047]"
+9,AWD0003v1n,diary,2,2,1916-05-08 14:30:00 UTC,8 May 1916,"","[0.0, 0.0]",0230PM,activity,attack,{},2985684,Pozières,"[2.72929, 50.04047]"
+11,AWD0003v1n,diary,2,4,1916-05-09 00:00:00 UTC,9 May 1916,"","[0.0, 0.0]","",diaryDate,9 May 1916,"{""day""=>[""9""], ""month""=>[""May""], ""year""=>[""1916""]}",2985684,Pozières,"[2.72929, 50.04047]"
+12,AWD0003v1n,diary,2,6,1916-05-09 07:30:00 UTC,9 May 1916,"","[0.0, 0.0]",0730AM,time,0730AM,{},2985684,Pozières,"[2.72929, 50.04047]"
+13,AWD0003v1n,diary,2,4,1916-05-09 07:30:00 UTC,9 May 1916,"","[0.0, 0.0]",0730AM,activity,attack,{},2985684,Pozières,"[2.72929, 50.04047]"
+14,AWD0003v1n,diary,2,2,1916-05-09 07:30:00 UTC,9 May 1916,"","[0.0, 0.0]",0730AM,activity,enemy_activity,{},2985684,Pozières,"[2.72929, 50.04047]"
+15,AWD0003v1n,diary,2,5,1916-05-09 07:30:00 UTC,9 May 1916,"","[0.0, 0.0]",0730AM,activity,quiet,{},2985684,Pozières,"[2.72929, 50.04047]"
+16,AWD0003v1n,diary,2,2,1916-05-09 07:30:00 UTC,9 May 1916,"","[0.0, 0.0]",0730AM,activity,enemy_activity,{},2985684,Pozières,"[2.72929, 50.04047]"
+17,AWD0003v1n,diary,2,4,1916-05-09 07:30:00 UTC,9 May 1916,"","[0.0, 0.0]",0730AM,activity,fire,{},2985684,Pozières,"[2.72929, 50.04047]"
+18,AWD0003v1n,diary,2,4,1916-05-10 00:00:00 UTC,10 May 1916,"","[0.0, 0.0]","",diaryDate,10 May 1916,"{""day""=>[""10""], ""month""=>[""May""], ""year""=>[""1916""]}",2985684,Pozières,"[2.72929, 50.04047]"
+19,AWD0003v1n,diary,2,2,1916-05-10 07:30:00 UTC,10 May 1916,"","[0.0, 0.0]",0730AM,time,0730AM,{},2985684,Pozières,"[2.72929, 50.04047]"
+21,AWD0003v1n,diary,2,4,1916-05-10 07:30:00 UTC,10 May 1916,"","[0.0, 0.0]",0730AM,activity,attack,{},2985684,Pozières,"[2.72929, 50.04047]"
+22,AWD0003v1n,diary,2,4,1916-05-11 00:00:00 UTC,11 May 1916,"","[0.0, 0.0]","",diaryDate,11 May 1916,"{""day""=>[""11""], ""month""=>[""May""], ""year""=>[""1916""]}",2985684,Pozières,"[2.72929, 50.04047]"
+23,AWD0003v1n,diary,2,4,1916-05-11 05:30:00 UTC,11 May 1916,"","[0.0, 0.0]",0530AM,time,0530AM,{},2985684,Pozières,"[2.72929, 50.04047]"
+24,AWD0003v1n,diary,2,2,1916-05-11 05:30:00 UTC,11 May 1916,"","[0.0, 0.0]",0530AM,activity,enemy_activity,{},2985684,Pozières,"[2.72929, 50.04047]"
+25,AWD0003v1n,diary,2,2,1916-05-11 05:30:00 UTC,11 May 1916,"","[0.0, 0.0]",0530AM,activity,fire,{},2985684,Pozières,"[2.72929, 50.04047]"
+27,AWD0003v1n,diary,2,4,1916-05-11 05:30:00 UTC,11 May 1916,"","[0.0, 0.0]",0530AM,activity,quiet,{},2985684,Pozières,"[2.72929, 50.04047]"
+28,AWD0003v1n,diary,2,4,1916-05-12 00:00:00 UTC,12 May 1916,"","[0.0, 0.0]","",diaryDate,12 May 1916,"{""day""=>[""12""], ""month""=>[""May""], ""year""=>[""1916""]}",2985684,Pozières,"[2.72929, 50.04047]"
+29,AWD0003v1n,diary,2,3,1916-05-12 12:00:00 UTC,12 May 1916,"","[0.0, 0.0]",1200PM,time,1200PM,{},2985684,Pozières,"[2.72929, 50.04047]"
+30,AWD0003v1n,diary,2,3,1916-05-12 12:00:00 UTC,12 May 1916,"","[0.0, 0.0]",1200PM,activity,attack,{},2985684,Pozières,"[2.72929, 50.04047]"
+31,AWD0003v1n,diary,2,3,1916-05-12 12:00:00 UTC,12 May 1916,"","[0.0, 0.0]",1200PM,activity,quiet,{},2985684,Pozières,"[2.72929, 50.04047]"
+32,AWD0003v1n,diary,2,4,1916-05-12 12:00:00 UTC,12 May 1916,"","[0.0, 0.0]",1200PM,activity,enemy_activity,{},2985684,Pozières,"[2.72929, 50.04047]"
+33,AWD0003v1n,diary,2,2,1916-05-12 12:00:00 UTC,12 May 1916,"","[0.0, 0.0]",1200PM,activity,fire,{},2985684,Pozières,"[2.72929, 50.04047]"
+34,AWD0003v1n,diary,2,4,1916-05-13 00:00:00 UTC,13 May 1916,"","[0.0, 0.0]","",diaryDate,13 May 1916,"{""day""=>[""13""], ""month""=>[""May""], ""year""=>[""1916""]}",2985684,Pozières,"[2.72929, 50.04047]"
+35,AWD0003v1n,diary,2,2,1916-05-13 00:00:00 UTC,13 May 1916,"","[0.0, 0.0]","",activity,fire,{},2985684,Pozières,"[2.72929, 50.04047]"
+36,AWD0003v1n,diary,2,6,1916-05-13 14:30:00 UTC,13 May 1916,"","[0.0, 0.0]",0230PM,time,0230PM,{},2985684,Pozières,"[2.72929, 50.04047]"
+37,AWD0003v1n,diary,2,4,1916-05-14 00:00:00 UTC,14 May 1916,"","[0.0, 0.0]","",diaryDate,14 May 1916,"{""day""=>[""14""], ""month""=>[""May""], ""year""=>[""1916""]}",2985684,Pozières,"[2.72929, 50.04047]"
+38,AWD0003v1n,diary,2,3,1916-05-14 00:00:00 UTC,14 May 1916,"","[0.0, 0.0]","",activity,quiet,{},2985684,Pozières,"[2.72929, 50.04047]"
+39,AWD0003v1n,diary,2,2,1916-05-14 14:30:00 UTC,14 May 1916,"","[0.0, 0.0]",0230PM,time,0230PM,{},2985684,Pozières,"[2.72929, 50.04047]"
+40,AWD0003v1n,diary,2,3,1916-05-14 14:30:00 UTC,14 May 1916,"","[0.0, 0.0]",0230PM,activity,enemy_activity,{},2985684,Pozières,"[2.72929, 50.04047]"
+42,AWD0003v1n,diary,2,2,1916-05-14 14:30:00 UTC,14 May 1916,"","[0.0, 0.0]",0230PM,activity,fire,{},2985684,Pozières,"[2.72929, 50.04047]"
+43,AWD0003v1n,diary,2,4,1916-05-15 00:00:00 UTC,15 May 1916,"","[0.0, 0.0]","",diaryDate,15 May 1916,"{""day""=>[""15""], ""month""=>[""May""], ""year""=>[""1916""]}",2985684,Pozières,"[2.72929, 50.04047]"
+44,AWD0003v1n,diary,2,4,1916-05-15 08:30:00 UTC,15 May 1916,"","[0.0, 0.0]",0830AM,time,0830AM,{},2985684,Pozières,"[2.72929, 50.04047]"
+45,AWD0003v1n,diary,2,4,1916-05-15 08:30:00 UTC,15 May 1916,"","[0.0, 0.0]",0830AM,activity,quiet,{},2985684,Pozières,"[2.72929, 50.04047]"
+47,AWD0003v1n,diary,2,2,1916-05-15 08:30:00 UTC,15 May 1916,"","[0.0, 0.0]",0830AM,activity,fire,{},2985684,Pozières,"[2.72929, 50.04047]"
+48,AWD0003v1n,diary,2,4,1916-05-15 08:30:00 UTC,15 May 1916,"","[0.0, 0.0]",0830AM,activity,enemy_activity,{},2985684,Pozières,"[2.72929, 50.04047]"
+49,AWD0003v1n,diary,2,3,1916-05-16 00:00:00 UTC,16 May 1916,"","[0.0, 0.0]","",diaryDate,16 May 1916,"{""day""=>[""16""], ""month""=>[""May""], ""year""=>[""1916""]}",2985684,Pozières,"[2.72929, 50.04047]"
+56,AWD0003v1n,diary,2,4,1916-05-17 00:00:00 UTC,17 May 1916,"","[0.0, 0.0]","",diaryDate,17 May 1916,"{""day""=>[""17""], ""month""=>[""May""], ""year""=>[""1916""]}",2985684,Pozières,"[2.72929, 50.04047]"
+58,AWD0003v1n,diary,2,3,1916-05-17 00:00:00 UTC,17 May 1916,"","[0.0, 0.0]","",activity,quiet,{},2985684,Pozières,"[2.72929, 50.04047]"
+59,AWD0003v1n,diary,2,5,1916-05-17 07:00:00 UTC,17 May 1916,"","[0.0, 0.0]",0700AM,time,0700AM,{},2985684,Pozières,"[2.72929, 50.04047]"
+60,AWD0003v1n,diary,2,5,1916-05-17 07:00:00 UTC,17 May 1916,"","[0.0, 0.0]",0700AM,activity,attack,{},2985684,Pozières,"[2.72929, 50.04047]"
+61,AWD0003v1n,diary,2,4,1916-05-17 07:00:00 UTC,17 May 1916,"","[0.0, 0.0]",0700AM,activity,enemy_activity,{},2985684,Pozières,"[2.72929, 50.04047]"
+62,AWD0003v1n,diary,2,4,1916-05-18 00:00:00 UTC,18 May 1916,"","[0.0, 0.0]","",diaryDate,18 May 1916,"{""day""=>[""18""], ""month""=>[""May""], ""year""=>[""1916""]}",2985684,Pozières,"[2.72929, 50.04047]"
+63,AWD0003v1n,diary,2,2,1916-05-18 07:00:00 UTC,18 May 1916,"","[0.0, 0.0]",070AM,time,070AM,{},2985684,Pozières,"[2.72929, 50.04047]"
+68,AWD0003v1n,diary,2,7,1916-05-18 07:00:00 UTC,18 May 1916,"","[0.0, 0.0]",070AM,activity,quiet,{},2985684,Pozières,"[2.72929, 50.04047]"
+69,AWD0003v1n,diary,2,4,1916-05-19 00:00:00 UTC,19 May 1916,"","[0.0, 0.0]","",diaryDate,19 May 1916,"{""day""=>[""19""], ""month""=>[""May""], ""year""=>[""1916""]}",2985684,Pozières,"[2.72929, 50.04047]"
+70,AWD0003v1n,diary,2,3,1916-05-19 09:00:00 UTC,19 May 1916,"","[0.0, 0.0]",0900AM,time,0900AM,{},2985684,Pozières,"[2.72929, 50.04047]"
+71,AWD0003v1n,diary,2,3,1916-05-19 09:00:00 UTC,19 May 1916,"","[0.0, 0.0]",0900AM,activity,attack,{},2985684,Pozières,"[2.72929, 50.04047]"
+72,AWD0003v1n,diary,2,2,1916-05-19 09:00:00 UTC,19 May 1916,"","[0.0, 0.0]",0900AM,activity,quiet,{},2985684,Pozières,"[2.72929, 50.04047]"
+74,AWD0003v1n,diary,2,4,1916-05-19 09:00:00 UTC,19 May 1916,"","[0.0, 0.0]",0900AM,activity,enemy_activity,{},2985684,Pozières,"[2.72929, 50.04047]"
+75,AWD0003v1n,diary,2,2,1916-05-19 09:00:00 UTC,19 May 1916,"","[0.0, 0.0]",0900AM,activity,fire,{},2985684,Pozières,"[2.72929, 50.04047]"
+76,AWD0003v1n,diary,2,3,1916-05-19 09:00:00 UTC,19 May 1916,"","[0.0, 0.0]",0900AM,activity,quiet,{},2985684,Pozières,"[2.72929, 50.04047]"
+1,AWD0003v1p,diary,3,5,1916-05-20 00:00:00 UTC,20 May 1916,"","[0.0, 0.0]","",diaryDate,20 May 1916,"{""day""=>[""20""], ""month""=>[""May""], ""year""=>[""1916""]}",2985684,Pozières,"[2.72929, 50.04047]"
+2,AWD0003v1p,diary,3,4,1916-05-20 00:00:00 UTC,20 May 1916,M N O Trenches,"[0.0, 0.0]","",place,M N O Trenches,"{""place""=>[""M N O Trenches""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+3,AWD0003v1p,diary,3,4,1916-05-20 07:00:00 UTC,20 May 1916,M N O Trenches,"[0.0, 0.0]",0700AM,time,0700AM,{},,,
+5,AWD0003v1p,diary,3,3,1916-05-20 07:00:00 UTC,20 May 1916,M N O Trenches,"[0.0, 0.0]",0700AM,activity,quiet,{},,,
+7,AWD0003v1p,diary,3,3,1916-05-20 07:00:00 UTC,20 May 1916,M N O Trenches,"[0.0, 0.0]",0700AM,activity,attack,{},,,
+8,AWD0003v1p,diary,3,3,1916-05-20 07:00:00 UTC,20 May 1916,M N O Trenches,"[0.0, 0.0]",0700AM,activity,fire,{},,,
+9,AWD0003v1p,diary,3,2,1916-05-20 07:00:00 UTC,20 May 1916,M N O Trenches,"[0.0, 0.0]",0700AM,activity,enemy_activity,{},,,
+10,AWD0003v1p,diary,3,2,1916-05-20 07:00:00 UTC,20 May 1916,M N O Trenches,"[0.0, 0.0]",070AM,time,070AM,{},,,
+15,AWD0003v1p,diary,3,4,1916-05-20 07:00:00 UTC,20 May 1916,M N O Trenches,"[0.0, 0.0]",0700AM,time,0700AM,{},,,
+16,AWD0003v1p,diary,3,4,1916-05-21 00:00:00 UTC,21 May 1916,M N O Trenches,"[0.0, 0.0]","",diaryDate,21 May 1916,"{""day""=>[""21""], ""month""=>[""May""], ""year""=>[""1916""]}",,,
+17,AWD0003v1p,diary,3,3,1916-05-21 00:00:00 UTC,21 May 1916,M N O Trenches,"[0.0, 0.0]","",activity,quiet,{},,,
+20,AWD0003v1p,diary,3,5,1916-05-21 00:00:00 UTC,21 May 1916,M N O Trenches,"[0.0, 0.0]","",activity,attack,{},,,
+21,AWD0003v1p,diary,3,2,1916-05-21 00:00:00 UTC,21 May 1916,M N O Trenches,"[0.0, 0.0]","",activity,fire,{},,,
+22,AWD0003v1p,diary,3,2,1916-05-21 00:00:00 UTC,21 May 1916,M N O Trenches,"[0.0, 0.0]","",activity,enemy_activity,{},,,
+26,AWD0003v1p,diary,3,3,1916-05-21 00:00:00 UTC,21 May 1916,M N O Trenches,"[0.0, 0.0]","",activity,attack,{},,,
+27,AWD0003v1p,diary,3,3,1916-05-22 00:00:00 UTC,22 May 1916,M N O Trenches,"[0.0, 0.0]","",diaryDate,22 May 1916,"{""day""=>[""22""], ""month""=>[""May""], ""year""=>[""1916""]}",,,
+30,AWD0003v1p,diary,3,3,1916-05-22 16:00:00 UTC,22 May 1916,M N O Trenches,"[0.0, 0.0]",0400PM,time,0400PM,{},,,
+31,AWD0003v1p,diary,3,2,1916-05-22 16:00:00 UTC,22 May 1916,M N O Trenches,"[0.0, 0.0]",0400PM,activity,enemy_activity,{},,,
+32,AWD0003v1p,diary,3,3,1916-05-22 16:00:00 UTC,22 May 1916,M N O Trenches,"[0.0, 0.0]",0400PM,activity,fire,{},,,
+35,AWD0003v1p,diary,3,3,1916-05-22 16:00:00 UTC,22 May 1916,M N O Trenches,"[0.0, 0.0]",0400PM,activity,attack,{},,,
+40,AWD0003v1p,diary,3,4,1916-05-23 00:00:00 UTC,23 May 1916,M N O Trenches,"[0.0, 0.0]","",diaryDate,23 May 1916,"{""day""=>[""23""], ""month""=>[""May""], ""year""=>[""1916""]}",,,
+41,AWD0003v1p,diary,3,2,1916-05-23 00:00:00 UTC,23 May 1916,M N O Trenches,"[0.0, 0.0]","",activity,enemy_activity,{},,,
+42,AWD0003v1p,diary,3,3,1916-05-23 00:00:00 UTC,23 May 1916,M N O Trenches,"[0.0, 0.0]","",activity,attack,{},,,
+43,AWD0003v1p,diary,3,4,1916-05-23 11:00:00 UTC,23 May 1916,M N O Trenches,"[0.0, 0.0]",1100AM,time,1100AM,{},,,
+50,AWD0003v1p,diary,3,5,1916-05-24 00:00:00 UTC,24 May 1916,M N O Trenches,"[0.0, 0.0]","",diaryDate,24 May 1916,"{""day""=>[""24""], ""month""=>[""May""], ""year""=>[""1916""]}",,,
+51,AWD0003v1p,diary,3,4,1916-05-24 16:00:00 UTC,24 May 1916,M N O Trenches,"[0.0, 0.0]",0400PM,time,0400PM,{},,,
+52,AWD0003v1p,diary,3,3,1916-05-24 16:00:00 UTC,24 May 1916,M N O Trenches,"[0.0, 0.0]",0400PM,activity,attack,{},,,
+55,AWD0003v1p,diary,3,2,1916-05-24 16:00:00 UTC,24 May 1916,M N O Trenches,"[0.0, 0.0]",0400PM,activity,fire,{},,,
+57,AWD0003v1p,diary,3,3,1916-05-24 16:00:00 UTC,24 May 1916,M N O Trenches,"[0.0, 0.0]",0400PM,activity,quiet,{},,,
+58,AWD0003v1p,diary,3,5,1916-05-25 00:00:00 UTC,25 May 1916,M N O Trenches,"[0.0, 0.0]","",diaryDate,25 May 1916,"{""day""=>[""25""], ""month""=>[""May""], ""year""=>[""1916""]}",,,
+60,AWD0003v1p,diary,3,4,1916-05-25 08:00:00 UTC,25 May 1916,M N O Trenches,"[0.0, 0.0]",0800AM,time,0800AM,{},,,
+62,AWD0003v1p,diary,3,4,1916-05-25 08:00:00 UTC,25 May 1916,M N O Trenches,"[0.0, 0.0]",0800AM,activity,enemy_activity,{},,,
+63,AWD0003v1p,diary,3,3,1916-05-25 08:00:00 UTC,25 May 1916,M N O Trenches,"[0.0, 0.0]",0800AM,activity,attack,{},,,
+65,AWD0003v1p,diary,3,2,1916-05-25 08:00:00 UTC,25 May 1916,M N O Trenches,"[0.0, 0.0]",0800AM,activity,fire,{},,,
+68,AWD0003v1p,diary,3,5,1916-05-26 00:00:00 UTC,26 May 1916,M N O Trenches,"[0.0, 0.0]","",diaryDate,26 May 1916,"{""day""=>[""26""], ""month""=>[""May""], ""year""=>[""1916""]}",,,
+69,AWD0003v1p,diary,3,2,1916-05-26 00:00:00 UTC,26 May 1916,M N O Trenches,"[0.0, 0.0]","",activity,enemy_activity,{},,,
+70,AWD0003v1p,diary,3,4,1916-05-26 16:00:00 UTC,26 May 1916,M N O Trenches,"[0.0, 0.0]",0400PM,time,0400PM,{},,,
+71,AWD0003v1p,diary,3,4,1916-05-26 16:00:00 UTC,26 May 1916,M N O Trenches,"[0.0, 0.0]",0400PM,activity,quiet,{},,,
+73,AWD0003v1p,diary,3,5,1916-05-27 00:00:00 UTC,27 May 1916,M N O Trenches,"[0.0, 0.0]","",diaryDate,27 May 1916,"{""day""=>[""27""], ""month""=>[""May""], ""year""=>[""1916""]}",,,
+75,AWD0003v1p,diary,3,4,1916-05-27 00:00:00 UTC,27 May 1916,M N O Trenches,"[0.0, 0.0]","",activity,training,{},,,
+76,AWD0003v1p,diary,3,5,1916-05-31 00:00:00 UTC,31 May 1916,M N O Trenches,"[0.0, 0.0]","",diaryDate,31 May 1916,"{""day""=>[""31""], ""month""=>[""May""], ""year""=>[""1916""]}",,,
+77,AWD0003v1p,diary,3,2,1916-05-30 00:00:00 UTC,30 May 1916,M N O Trenches,"[0.0, 0.0]","",diaryDate,30 May 1916,"{""day""=>[""30""], ""month""=>[""May""], ""year""=>[""1916""]}",,,
+81,AWD0003v1p,diary,3,2,1916-05-30 00:00:00 UTC,30 May 1916,M N O Trenches,"[0.0, 0.0]","",person,"Second Lieutenant C W, Sawer, Sawyer","{""first""=>[""C W"", """"], ""surname""=>[""Sawer"", ""Sawyer""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""8/1 TMB"", """"]}",,,
+1,AWD0003v1l,diary,4,5,1916-07-01 00:00:00 UTC,1 Jul 1916,M N O Trenches,"[0.0, 0.0]","",diaryDate,1 Jul 1916,"{""day""=>[""1""], ""month""=>[""Jul""], ""year""=>[""1916""]}",,,
+2,AWD0003v1l,diary,4,3,1916-07-01 00:00:00 UTC,1 Jul 1916,"Saint Martin-au-Laert, Saint-Martin-au-Laert, St Martin Au Laert","[2.24051, 50.75179]","",place,"Saint Martin-au-Laert, Saint-Martin-au-Laert, St Martin Au Laert","{""place""=>[""Saint Martin-au-Laert"", ""Saint-Martin-au-Laert"", ""St Martin Au Laert""], ""location""=>[""true""], ""name""=>[""Saint-Martin-au-Laërt""], ""lat""=>[""50.75179""], ""long""=>[""2.24051""], ""id""=>[""2978447""]}",,,
+3,AWD0003v1l,diary,4,5,1916-07-01 11:00:00 UTC,1 Jul 1916,"Saint Martin-au-Laert, Saint-Martin-au-Laert, St Martin Au Laert","[2.24051, 50.75179]",1100AM,time,1100AM,{},,,
+4,AWD0003v1l,diary,4,3,1916-07-01 11:00:00 UTC,1 Jul 1916,Wizernes,"[2.24316, 50.7117]",1100AM,place,Wizernes,"{""place""=>[""Wizernes""], ""location""=>[""true""], ""name""=>[""Wizernes""], ""lat""=>[""50.7117""], ""long""=>[""2.24316""], ""id""=>[""2967309""]}",2967309,Wizernes,"[2.24316, 50.7117]"
+6,AWD0003v1l,diary,4,2,1916-07-01 11:00:00 UTC,1 Jul 1916,Wizernes,"[2.24316, 50.7117]",1100AM,place,Saint-Martin-au-Laert,"{""place""=>[""Saint-Martin-au-Laert""], ""location""=>[""false"", ""true""], ""name""=>[""Saint-Martin-au-Laërt""], ""lat""=>[""50.75179""], ""long""=>[""2.24051""], ""id""=>[""2978447""]}",2967309,Wizernes,"[2.24316, 50.7117]"
+7,AWD0003v1l,diary,4,3,1916-07-01 11:00:00 UTC,1 Jul 1916,Wizernes,"[2.24316, 50.7117]",1100AM,place,Candas,"{""place""=>[""Candas""], ""location""=>[""false""], ""name""=>[""Candas""], ""lat""=>[""50.10715""], ""long""=>[""2.25944""], ""id""=>[""3028852""]}",2967309,Wizernes,"[2.24316, 50.7117]"
+10,AWD0003v1l,diary,4,9,1916-07-01 11:00:00 UTC,1 Jul 1916,Wizernes,"[2.24316, 50.7117]",1100AM,activity,movement,{},2967309,Wizernes,"[2.24316, 50.7117]"
+11,AWD0003v1l,diary,4,5,1916-07-02 00:00:00 UTC,2 Jul 1916,Wizernes,"[2.24316, 50.7117]","",diaryDate,2 Jul 1916,"{""day""=>[""2""], ""month""=>[""Jul""], ""year""=>[""1916""]}",2967309,Wizernes,"[2.24316, 50.7117]"
+15,AWD0003v1l,diary,4,3,1916-07-02 02:00:00 UTC,2 Jul 1916,Wizernes,"[2.24316, 50.7117]",0200AM,time,0200AM,{},2967309,Wizernes,"[2.24316, 50.7117]"
+16,AWD0003v1l,diary,4,10,1916-07-02 02:00:00 UTC,2 Jul 1916,Berneuil,"[2.17244, 50.09422]",0200AM,place,Berneuil,"{""place""=>[""Berneuil""], ""location""=>[""true""], ""name""=>[""Berneuil""], ""lat""=>[""50.09422""], ""long""=>[""2.17244""], ""id""=>[""3033289""]}",3033289,Berneuil,"[2.17244, 50.09422]"
+17,AWD0003v1l,diary,4,5,1916-07-03 00:00:00 UTC,3 Jul 1916,Berneuil,"[2.17244, 50.09422]","",diaryDate,3 Jul 1916,"{""day""=>[""3""], ""month""=>[""Jul""], ""year""=>[""1916""]}",3033289,Berneuil,"[2.17244, 50.09422]"
+18,AWD0003v1l,diary,4,5,1916-07-03 08:00:00 UTC,3 Jul 1916,Berneuil,"[2.17244, 50.09422]",0800AM,time,0800AM,{},3033289,Berneuil,"[2.17244, 50.09422]"
+19,AWD0003v1l,diary,4,5,1916-07-03 08:00:00 UTC,3 Jul 1916,Flesselles,"[2.26119, 50.00202]",0800AM,place,Flesselles,"{""place""=>[""Flesselles""], ""location""=>[""true""], ""name""=>[""Flesselles""], ""lat""=>[""50.00202""], ""long""=>[""2.26119""], ""id""=>[""3018332""]}",3018332,Flesselles,"[2.26119, 50.00202]"
+21,AWD0003v1l,diary,4,10,1916-07-03 08:00:00 UTC,3 Jul 1916,Flesselles,"[2.26119, 50.00202]",0800AM,activity,movement,{},3018332,Flesselles,"[2.26119, 50.00202]"
+22,AWD0003v1l,diary,4,5,1916-07-03 08:00:00 UTC,3 Jul 1916,Flesselles,"[2.26119, 50.00202]",0800AM,place,Flesselles,"{""place""=>[""Flesselles""], ""location""=>[""false""], ""name""=>[""Flesselles""], ""lat""=>[""50.00202""], ""long""=>[""2.26119""], ""id""=>[""3018332""]}",3018332,Flesselles,"[2.26119, 50.00202]"
+23,AWD0003v1l,diary,4,5,1916-07-04 00:00:00 UTC,4 Jul 1916,Flesselles,"[2.26119, 50.00202]","",diaryDate,4 Jul 1916,"{""day""=>[""4""], ""month""=>[""Jul""], ""year""=>[""1916""]}",3018332,Flesselles,"[2.26119, 50.00202]"
+24,AWD0003v1l,diary,4,3,1916-07-04 00:00:00 UTC,4 Jul 1916,Flesselles,"[2.26119, 50.00202]","",place,Alonville,"{""place""=>[""Alonville""], ""location""=>[""false""], ""name""=>[""Allonville""], ""lat""=>[""49.94039""], ""long""=>[""2.3633""], ""id""=>[""3038081""]}",3018332,Flesselles,"[2.26119, 50.00202]"
+27,AWD0003v1l,diary,4,6,1916-07-04 00:00:00 UTC,4 Jul 1916,Alonville,"[2.3633, 49.94039]","",place,Alonville,"{""place""=>[""Alonville""], ""location""=>[""true""], ""name""=>[""Allonville""], ""lat""=>[""49.94039""], ""long""=>[""2.3633""], ""id""=>[""3038081""]}",,,
+28,AWD0003v1l,diary,4,9,1916-07-04 20:00:00 UTC,4 Jul 1916,Alonville,"[2.3633, 49.94039]",0800PM,time,0800PM,{},,,
+29,AWD0003v1l,diary,4,5,1916-07-05 00:00:00 UTC,5 Jul 1916,Alonville,"[2.3633, 49.94039]","",diaryDate,5 Jul 1916,"{""day""=>[""5""], ""month""=>[""Jul""], ""year""=>[""1916""]}",,,
+30,AWD0003v1l,diary,4,6,1916-07-05 00:00:00 UTC,5 Jul 1916,Alonville,"[2.3633, 49.94039]","",place,Corbie,"{""place""=>[""Corbie""], ""location""=>[""false"", ""true""], ""name""=>[""Corbie""], ""lat""=>[""49.90672""], ""long""=>[""2.50682""], ""id""=>[""3023742""]}",,,
+32,AWD0003v1l,diary,4,2,1916-07-05 00:00:00 UTC,5 Jul 1916,Alonville,"[2.3633, 49.94039]","",activity,movement,{},,,
+34,AWD0003v1l,diary,4,8,1916-07-05 00:00:00 UTC,5 Jul 1916,Alonville,"[2.3633, 49.94039]","",activity,movement,{},,,
+36,AWD0003v1l,diary,4,3,1916-07-05 00:00:00 UTC,5 Jul 1916,Corbie,"[2.50682, 49.90672]","",place,Corbie,"{""place""=>[""Corbie""], ""location""=>[""true""], ""name""=>[""Corbie""], ""lat""=>[""49.90672""], ""long""=>[""2.50682""], ""id""=>[""3023742""]}",3023742,Corbie,"[2.50682, 49.90672]"
+37,AWD0003v1l,diary,4,4,1916-07-06 00:00:00 UTC,6 Jul 1916,Corbie,"[2.50682, 49.90672]","",diaryDate,6 Jul 1916,"{""day""=>[""6""], ""month""=>[""Jul""], ""year""=>[""1916""]}",3023742,Corbie,"[2.50682, 49.90672]"
+38,AWD0003v1l,diary,4,6,1916-07-06 20:00:00 UTC,6 Jul 1916,Corbie,"[2.50682, 49.90672]",0800PM,time,0800PM,{},3023742,Corbie,"[2.50682, 49.90672]"
+39,AWD0003v1l,diary,4,2,1916-07-06 23:30:00 UTC,6 Jul 1916,Corbie,"[2.50682, 49.90672]",1130PM,time,1130PM,{},3023742,Corbie,"[2.50682, 49.90672]"
+40,AWD0003v1l,diary,4,9,1916-07-06 23:30:00 UTC,6 Jul 1916,Bois de Celestines,"[0.0, 0.0]",1130PM,place,Bois de Celestines,"{""place""=>[""Bois de Celestines""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+41,AWD0003v1l,diary,4,5,1916-07-07 00:00:00 UTC,7 Jul 1916,Bois de Celestines,"[0.0, 0.0]","",diaryDate,7 Jul 1916,"{""day""=>[""7""], ""month""=>[""Jul""], ""year""=>[""1916""]}",,,
+42,AWD0003v1l,diary,4,5,1916-07-07 08:00:00 UTC,7 Jul 1916,Bois de Celestines,"[0.0, 0.0]",0800AM,time,0800AM,{},,,
+43,AWD0003v1l,diary,4,3,1916-07-07 08:00:00 UTC,7 Jul 1916,Bronfay Farm,"[0.0, 0.0]",0800AM,place,Bronfay Farm,"{""place""=>[""Bronfay Farm""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3028556,Carnoy,"[2.7558, 49.98489]"
+49,AWD0003v1l,diary,4,7,1916-07-07 08:00:00 UTC,7 Jul 1916,Bronfay Farm,"[0.0, 0.0]",0800AM,activity,movement,{},3028556,Carnoy,"[2.7558, 49.98489]"
+51,AWD0003v1l,diary,4,2,1916-07-07 08:00:00 UTC,7 Jul 1916,Bronfay Farm,"[0.0, 0.0]",0800AM,place,Bray-sur-somme,"{""place""=>[""Bray-sur-somme""], ""location""=>[""false""], ""name""=>[""Bray-sur-Somme""], ""lat""=>[""49.94085""], ""long""=>[""2.71847""], ""id""=>[""3030459""]}",3028556,Carnoy,"[2.7558, 49.98489]"
+52,AWD0003v1l,diary,4,4,1916-07-07 16:00:00 UTC,7 Jul 1916,Bronfay Farm,"[0.0, 0.0]",0400PM,time,0400PM,{},3028556,Carnoy,"[2.7558, 49.98489]"
+53,AWD0003v1l,diary,4,2,1916-07-07 16:00:00 UTC,7 Jul 1916,Bronfay Farm,"[0.0, 0.0]",0400PM,place,Bronfay Farm,"{""place""=>[""Bronfay Farm""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3028556,Carnoy,"[2.7558, 49.98489]"
+54,AWD0003v1l,diary,4,3,1916-07-07 16:00:00 UTC,7 Jul 1916,Bronfay Farm,"[0.0, 0.0]",0400PM,place,Carnoy,"{""place""=>[""Carnoy""], ""location""=>[""false""], ""name""=>[""Carnoy""], ""lat""=>[""49.98489""], ""long""=>[""2.7558""], ""id""=>[""3028556""]}",3028556,Carnoy,"[2.7558, 49.98489]"
+56,AWD0003v1l,diary,4,4,1916-07-07 16:00:00 UTC,7 Jul 1916,Carnoy,"[2.7558, 49.98489]",0400PM,place,Carnoy,"{""place""=>[""Carnoy""], ""location""=>[""true""], ""name""=>[""Carnoy""], ""lat""=>[""49.98489""], ""long""=>[""2.7558""], ""id""=>[""3028556""]}",3028556,Carnoy,"[2.7558, 49.98489]"
+57,AWD0003v1l,diary,4,5,1916-07-08 00:00:00 UTC,8 Jul 1916,Carnoy,"[2.7558, 49.98489]","",diaryDate,8 Jul 1916,"{""day""=>[""8""], ""month""=>[""Jul""], ""year""=>[""1916""]}",3028556,Carnoy,"[2.7558, 49.98489]"
+58,AWD0003v1l,diary,4,5,1916-07-08 00:00:00 UTC,8 Jul 1916,Montauban,"[1.35, 44.01667]","",place,Montauban,"{""place""=>[""Montauban""], ""location""=>[""true""], ""name""=>[""Montauban""], ""lat""=>[""44.01667""], ""long""=>[""1.35""], ""id""=>[""2993002""]}",2992996,Montauban,"[2.7769, 50.00625]"
+59,AWD0003v1l,diary,4,2,1916-07-08 00:00:00 UTC,8 Jul 1916,Montauban,"[1.35, 44.01667]","",activity,fire,{},2992996,Montauban,"[2.7769, 50.00625]"
+60,AWD0003v1l,diary,4,2,1916-07-08 00:00:00 UTC,8 Jul 1916,Montauban,"[1.35, 44.01667]","",place,Montauban,"{""place""=>[""Montauban""], ""location""=>[""false""], ""name""=>[""Montauban"", ""Montauban-de-Picardie""], ""lat""=>[""44.01667"", ""50.00625""], ""long""=>[""1.35"", ""2.7769""], ""id""=>[""2993002"", ""2992996""]}",2992996,Montauban,"[2.7769, 50.00625]"
+61,AWD0003v1l,diary,4,2,1916-07-08 00:00:00 UTC,8 Jul 1916,Montauban,"[1.35, 44.01667]","",casualties,other: 3,{},2992996,Montauban,"[2.7769, 50.00625]"
+62,AWD0003v1l,diary,4,2,1916-07-08 00:00:00 UTC,8 Jul 1916,Montauban,"[1.35, 44.01667]","",casualties,wounded: 3,{},2992996,Montauban,"[2.7769, 50.00625]"
+63,AWD0003v1l,diary,4,5,1916-07-09 00:00:00 UTC,9 Jul 1916,Montauban,"[1.35, 44.01667]","",diaryDate,9 Jul 1916,"{""day""=>[""9""], ""month""=>[""Jul""], ""year""=>[""1916""]}",2992996,Montauban,"[2.7769, 50.00625]"
+66,AWD0003v1l,diary,4,2,1916-07-09 00:00:00 UTC,9 Jul 1916,Montauban,"[0.0, 0.0]","",place,Montauban,"{""place""=>[""Montauban""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2992996,Montauban,"[2.7769, 50.00625]"
+72,AWD0003v1l,diary,4,4,1916-07-10 00:00:00 UTC,10 Jul 1916,Montauban,"[0.0, 0.0]","",diaryDate,10 Jul 1916,"{""day""=>[""10""], ""month""=>[""Jul""], ""year""=>[""1916""]}",2992996,Montauban,"[2.7769, 50.00625]"
+74,AWD0003v1l,diary,4,4,1916-07-10 00:00:00 UTC,10 Jul 1916,Montauban,"[0.0, 0.0]","",casualties,wounded: 1,{},2992996,Montauban,"[2.7769, 50.00625]"
+75,AWD0003v1l,diary,4,5,1916-07-11 00:00:00 UTC,11 Jul 1916,Montauban,"[0.0, 0.0]","",diaryDate,11 Jul 1916,"{""day""=>[""11""], ""month""=>[""Jul""], ""year""=>[""1916""]}",2992996,Montauban,"[2.7769, 50.00625]"
+78,AWD0003v1l,diary,4,2,1916-07-11 00:00:00 UTC,11 Jul 1916,Montauban,"[0.0, 0.0]","",activity,enemy_activity,{},2992996,Montauban,"[2.7769, 50.00625]"
+80,AWD0003v1l,diary,4,2,1916-07-11 00:00:00 UTC,11 Jul 1916,Montauban,"[0.0, 0.0]","",place,Montauban,"{""place""=>[""Montauban""], ""location""=>[""false""], ""name""=>[""Montauban-de-Picardie"", ""Montauban""], ""lat""=>[""50.00625"", ""44.01667""], ""long""=>[""2.7769"", ""1.35""], ""id""=>[""2992996"", ""2993002""]}",2992996,Montauban,"[2.7769, 50.00625]"
+82,AWD0003v1l,diary,4,4,1916-07-11 00:00:00 UTC,11 Jul 1916,Montauban,"[0.0, 0.0]","",casualties,"killed: 1, wounded: 2",{},2992996,Montauban,"[2.7769, 50.00625]"
+83,AWD0003v1l,diary,4,5,1916-07-12 00:00:00 UTC,12 Jul 1916,Montauban,"[0.0, 0.0]","",diaryDate,12 Jul 1916,"{""day""=>[""12""], ""month""=>[""Jul""], ""year""=>[""1916""]}",2992996,Montauban,"[2.7769, 50.00625]"
+85,AWD0003v1l,diary,4,2,1916-07-12 00:00:00 UTC,12 Jul 1916,Montauban,"[0.0, 0.0]","",activity,enemy_activity,{},2992996,Montauban,"[2.7769, 50.00625]"
+88,AWD0003v1l,diary,4,2,1916-07-12 00:00:00 UTC,12 Jul 1916,Montauban,"[0.0, 0.0]","",place,Montauban,"{""place""=>[""Montauban""], ""location""=>[""false""], ""name""=>[""Montauban"", ""Montauban-de-Picardie""], ""lat""=>[""44.01667"", ""50.00625""], ""long""=>[""1.35"", ""2.7769""], ""id""=>[""2993002"", ""2992996""]}",2992996,Montauban,"[2.7769, 50.00625]"
+1,AWD0003v1q,diary,5,2,1916-07-13 00:00:00 UTC,13 Jul 1916,Montauban,"[0.0, 0.0]","",diaryDate,13 Jul 1916,"{""day""=>[""13""], ""month""=>[""Jul""], ""year""=>[""1916""]}",2992996,Montauban,"[2.7769, 50.00625]"
+3,AWD0003v1q,diary,5,4,1916-07-13 00:00:00 UTC,13 Jul 1916,Montauban,"[0.0, 0.0]","",diaryDate,13 Jul 1916,"{""day""=>[""13""], ""month""=>[""Jul""], ""year""=>[""1916""]}",2992996,Montauban,"[2.7769, 50.00625]"
+5,AWD0003v1q,diary,5,6,1916-07-13 00:00:00 UTC,13 Jul 1916,Montauban,"[1.35, 44.01667]","",place,Montauban,"{""place""=>[""Montauban""], ""location""=>[""true""], ""name""=>[""Montauban""], ""lat""=>[""44.01667""], ""long""=>[""1.35""], ""id""=>[""2993002""]}",2992996,Montauban,"[2.7769, 50.00625]"
+7,AWD0003v1q,diary,5,6,1916-07-14 00:00:00 UTC,14 Jul 1916,Montauban,"[1.35, 44.01667]","",diaryDate,14 Jul 1916,"{""day""=>[""14""], ""month""=>[""Jul""], ""year""=>[""1916""]}",2992996,Montauban,"[2.7769, 50.00625]"
+8,AWD0003v1q,diary,5,2,1916-07-14 00:00:00 UTC,14 Jul 1916,Montauban,"[2.7769, 50.00625]","",place,Montauban,"{""place""=>[""Montauban""], ""location""=>[""true""], ""name""=>[""Montauban-de-Picardie""], ""lat""=>[""50.00625""], ""long""=>[""2.7769""], ""id""=>[""2992996""]}",2992996,Montauban,"[2.7769, 50.00625]"
+9,AWD0003v1q,diary,5,5,1916-07-14 03:20:00 UTC,14 Jul 1916,Montauban,"[2.7769, 50.00625]",0320AM,time,0320AM,{},2992996,Montauban,"[2.7769, 50.00625]"
+16,AWD0003v1q,diary,5,2,1916-07-14 03:20:00 UTC,14 Jul 1916,Montauban,"[2.7769, 50.00625]",0320AM,place,"longueval, Longuavan","{""place""=>[""longueval"", ""Longuavan""], ""location""=>[""true"", ""false""], ""name""=>[""Longueval"", ""Montauban-de-Picardie""], ""lat""=>[""50.02544"", ""50.00625""], ""long""=>[""2.80387"", ""2.7769""], ""id""=>[""2997659"", ""2992996""]}",2992996,Montauban,"[2.7769, 50.00625]"
+23,AWD0003v1q,diary,5,2,1916-07-14 03:20:00 UTC,14 Jul 1916,Montauban,"[2.7769, 50.00625]",0320AM,casualties,wounded: 11,{},2992996,Montauban,"[2.7769, 50.00625]"
+24,AWD0003v1q,diary,5,6,1916-07-15 00:00:00 UTC,15 Jul 1916,Montauban,"[2.7769, 50.00625]","",diaryDate,15 Jul 1916,"{""day""=>[""15""], ""month""=>[""Jul""], ""year""=>[""1916""]}",2992996,Montauban,"[2.7769, 50.00625]"
+29,AWD0003v1q,diary,5,2,1916-07-15 00:00:00 UTC,15 Jul 1916,Montauban,"[2.7769, 50.00625]","",activity,enemy_activity,{},2992996,Montauban,"[2.7769, 50.00625]"
+33,AWD0003v1q,diary,5,5,1916-07-16 00:00:00 UTC,16 Jul 1916,Montauban,"[2.7769, 50.00625]","",diaryDate,16 Jul 1916,"{""day""=>[""16""], ""month""=>[""Jul""], ""year""=>[""1916""]}",2992996,Montauban,"[2.7769, 50.00625]"
+36,AWD0003v1q,diary,5,2,1916-07-16 00:00:00 UTC,16 Jul 1916,Montauban,"[2.7769, 50.00625]","",activity,resupplying,{},2992996,Montauban,"[2.7769, 50.00625]"
+37,AWD0003v1q,diary,5,5,1916-07-16 00:00:00 UTC,16 Jul 1916,Montauban,"[2.7769, 50.00625]","",casualties,"killed: 4, wounded: 4",{},2992996,Montauban,"[2.7769, 50.00625]"
+38,AWD0003v1q,diary,5,6,1916-07-17 00:00:00 UTC,17 Jul 1916,Montauban,"[2.7769, 50.00625]","",diaryDate,17 Jul 1916,"{""day""=>[""17""], ""month""=>[""Jul""], ""year""=>[""1916""]}",2992996,Montauban,"[2.7769, 50.00625]"
+42,AWD0003v1q,diary,5,2,1916-07-17 00:00:00 UTC,17 Jul 1916,Montauban,"[2.7769, 50.00625]","",activity,fire,{},2992996,Montauban,"[2.7769, 50.00625]"
+46,AWD0003v1q,diary,5,6,1916-07-18 00:00:00 UTC,18 Jul 1916,Montauban,"[2.7769, 50.00625]","",diaryDate,18 Jul 1916,"{""day""=>[""18""], ""month""=>[""Jul""], ""year""=>[""1916""]}",2992996,Montauban,"[2.7769, 50.00625]"
+49,AWD0003v1q,diary,5,4,1916-07-18 00:00:00 UTC,18 Jul 1916,Montauban,"[2.7769, 50.00625]","",activity,fire,{},2992996,Montauban,"[2.7769, 50.00625]"
+50,AWD0003v1q,diary,5,4,1916-07-18 15:00:00 UTC,18 Jul 1916,Montauban,"[2.7769, 50.00625]",0300PM,time,0300PM,{},2992996,Montauban,"[2.7769, 50.00625]"
+52,AWD0003v1q,diary,5,3,1916-07-18 15:00:00 UTC,18 Jul 1916,Montauban,"[2.7769, 50.00625]",0300PM,unit,76th Brigade,"{""name""=>[""76th Brigade""], ""context""=>[""joined""]}",2992996,Montauban,"[2.7769, 50.00625]"
+53,AWD0003v1q,diary,5,2,1916-07-18 15:00:00 UTC,18 Jul 1916,Montauban,"[2.7769, 50.00625]",0300PM,place,"Longueval, longueval","{""place""=>[""Longueval"", ""longueval""], ""location""=>[""false"", ""true""], ""name""=>[""Longueval""], ""lat""=>[""50.02544""], ""long""=>[""2.80387""], ""id""=>[""2997659""]}",2992996,Montauban,"[2.7769, 50.00625]"
+55,AWD0003v1q,diary,5,6,1916-07-19 00:00:00 UTC,19 Jul 1916,Montauban,"[2.7769, 50.00625]","",diaryDate,19 Jul 1916,"{""day""=>[""19""], ""month""=>[""Jul""], ""year""=>[""1916""]}",2992996,Montauban,"[2.7769, 50.00625]"
+57,AWD0003v1q,diary,5,2,1916-07-19 00:00:00 UTC,19 Jul 1916,Montauban,"[2.7769, 50.00625]","",activity,fire,{},2992996,Montauban,"[2.7769, 50.00625]"
+58,AWD0003v1q,diary,5,2,1916-07-19 00:00:00 UTC,19 Jul 1916,Montauban,"[2.7769, 50.00625]","",activity,enemy_activity,{},2992996,Montauban,"[2.7769, 50.00625]"
+61,AWD0003v1q,diary,5,3,1916-07-19 00:00:00 UTC,19 Jul 1916,Montauban,"[2.7769, 50.00625]","",activity,withdraw,{},2992996,Montauban,"[2.7769, 50.00625]"
+62,AWD0003v1q,diary,5,2,1916-07-20 00:00:00 UTC,20 Jul 1916,Montauban,"[2.7769, 50.00625]","",diaryDate,20 Jul 1916,"{""day""=>[""20""], ""month""=>[""Jul""], ""year""=>[""1916""]}",2992996,Montauban,"[2.7769, 50.00625]"
+63,AWD0003v1q,diary,5,2,1916-07-20 00:00:00 UTC,20 Jul 1916,Montauban,"[2.7769, 50.00625]","",place,Montauban,"{""place""=>[""Montauban""], ""location""=>[""true""], ""name""=>[""Montauban-de-Picardie""], ""lat""=>[""50.00625""], ""long""=>[""2.7769""], ""id""=>[""2992996""]}",2992996,Montauban,"[2.7769, 50.00625]"
+65,AWD0003v1q,diary,5,4,1916-07-20 00:00:00 UTC,20 Jul 1916,Montauban,"[2.7769, 50.00625]","",diaryDate,20 Jul 1916,"{""day""=>[""20""], ""month""=>[""Jul""], ""year""=>[""1916""]}",2992996,Montauban,"[2.7769, 50.00625]"
+1,AWD0003v1m,diary,6,5,1916-07-21 00:00:00 UTC,21 Jul 1916,Montauban,"[2.7769, 50.00625]","",diaryDate,21 Jul 1916,"{""day""=>[""21""], ""month""=>[""Jul""], ""year""=>[""1916""]}",2992996,Montauban,"[2.7769, 50.00625]"
+2,AWD0003v1m,diary,6,2,1916-07-21 00:00:00 UTC,21 Jul 1916,Montauban,"[2.7769, 50.00625]","",place,Waterlot Farm,"{""place""=>[""Waterlot Farm""], ""location""=>[""true"", ""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2992996,Montauban,"[2.7769, 50.00625]"
+6,AWD0003v1m,diary,6,2,1916-07-21 00:00:00 UTC,21 Jul 1916,Montauban,"[2.7769, 50.00625]","",activity,fire,{},2992996,Montauban,"[2.7769, 50.00625]"
+10,AWD0003v1m,diary,6,3,1916-07-21 00:00:00 UTC,21 Jul 1916,Montauban,"[2.7769, 50.00625]","",casualties,other: 2,{},2992996,Montauban,"[2.7769, 50.00625]"
+11,AWD0003v1m,diary,6,5,1916-07-22 00:00:00 UTC,22 Jul 1916,Montauban,"[2.7769, 50.00625]","",diaryDate,22 Jul 1916,"{""day""=>[""22""], ""month""=>[""Jul""], ""year""=>[""1916""]}",2992996,Montauban,"[2.7769, 50.00625]"
+12,AWD0003v1m,diary,6,2,1916-07-22 00:00:00 UTC,22 Jul 1916,Montauban,"[2.7769, 50.00625]","",activity,quiet,{},2992996,Montauban,"[2.7769, 50.00625]"
+15,AWD0003v1m,diary,6,3,1916-07-22 00:00:00 UTC,22 Jul 1916,Montauban,"[2.7769, 50.00625]","",casualties,other: 2,{},2992996,Montauban,"[2.7769, 50.00625]"
+17,AWD0003v1m,diary,6,5,1916-07-23 00:00:00 UTC,23 Jul 1916,Montauban,"[2.7769, 50.00625]","",diaryDate,23 Jul 1916,"{""day""=>[""23""], ""month""=>[""Jul""], ""year""=>[""1916""]}",2992996,Montauban,"[2.7769, 50.00625]"
+18,AWD0003v1m,diary,6,3,1916-07-23 00:00:00 UTC,23 Jul 1916,Montauban,"[2.7769, 50.00625]","",casualties,other: 2,{},2992996,Montauban,"[2.7769, 50.00625]"
+20,AWD0003v1m,diary,6,4,1916-07-23 00:00:00 UTC,23 Jul 1916,Montauban,"[2.7769, 50.00625]","",activity,fire,{},2992996,Montauban,"[2.7769, 50.00625]"
+21,AWD0003v1m,diary,6,2,1916-07-23 00:00:00 UTC,23 Jul 1916,Montauban,"[2.7769, 50.00625]","",activity,enemy_activity,{},2992996,Montauban,"[2.7769, 50.00625]"
+22,AWD0003v1m,diary,6,5,1916-07-24 00:00:00 UTC,24 Jul 1916,Montauban,"[2.7769, 50.00625]","",diaryDate,24 Jul 1916,"{""day""=>[""24""], ""month""=>[""Jul""], ""year""=>[""1916""]}",2992996,Montauban,"[2.7769, 50.00625]"
+24,AWD0003v1m,diary,6,3,1916-07-24 00:00:00 UTC,24 Jul 1916,Montauban,"[2.7769, 50.00625]","",activity,attack,{},2992996,Montauban,"[2.7769, 50.00625]"
+26,AWD0003v1m,diary,6,3,1916-07-24 00:00:00 UTC,24 Jul 1916,Montauban,"[2.7769, 50.00625]","",casualties,other: 4,{},2992996,Montauban,"[2.7769, 50.00625]"
+27,AWD0003v1m,diary,6,5,1916-07-25 00:00:00 UTC,25 Jul 1916,Montauban,"[2.7769, 50.00625]","",diaryDate,25 Jul 1916,"{""day""=>[""25""], ""month""=>[""Jul""], ""year""=>[""1916""]}",2992996,Montauban,"[2.7769, 50.00625]"
+28,AWD0003v1m,diary,6,4,1916-07-25 00:00:00 UTC,25 Jul 1916,Montauban,"[2.7769, 50.00625]","",unit,5th TMB,"{""name""=>[""5th TMB""], ""context""=>[""relieved_by""]}",2992996,Montauban,"[2.7769, 50.00625]"
+30,AWD0003v1m,diary,6,3,1916-07-25 00:00:00 UTC,25 Jul 1916,HAPPY VALLEY,"[2.76246, 50.03183]","",place,HAPPY VALLEY,"{""place""=>[""HAPPY VALLEY""], ""location""=>[""true""], ""name""=>[""Bazentin""], ""lat""=>[""50.03183""], ""long""=>[""2.76246""], ""id""=>[""3034449""]}",3023742,Corbie,"[2.50682, 49.90672]"
+31,AWD0003v1m,diary,6,5,1916-07-26 00:00:00 UTC,26 Jul 1916,HAPPY VALLEY,"[2.76246, 50.03183]","",diaryDate,26 Jul 1916,"{""day""=>[""26""], ""month""=>[""Jul""], ""year""=>[""1916""]}",3023742,Corbie,"[2.50682, 49.90672]"
+32,AWD0003v1m,diary,6,3,1916-07-26 16:00:00 UTC,26 Jul 1916,HAPPY VALLEY,"[2.76246, 50.03183]",0400PM,time,0400PM,{},3023742,Corbie,"[2.50682, 49.90672]"
+33,AWD0003v1m,diary,6,3,1916-07-26 16:00:00 UTC,26 Jul 1916,HAPPY VALLEY,"[2.76246, 50.03183]",0400PM,activity,movement,{},3023742,Corbie,"[2.50682, 49.90672]"
+34,AWD0003v1m,diary,6,3,1916-07-26 16:00:00 UTC,26 Jul 1916,HAPPY VALLEY,"[2.76246, 50.03183]",0400PM,place,Meaulte,"{""place""=>[""Meaulte""], ""location""=>[""false""], ""name""=>[""Méaulte""], ""lat""=>[""49.98167""], ""long""=>[""2.66121""], ""id""=>[""2994803""]}",3023742,Corbie,"[2.50682, 49.90672]"
+36,AWD0003v1m,diary,6,5,1916-07-27 00:00:00 UTC,27 Jul 1916,HAPPY VALLEY,"[2.76246, 50.03183]","",diaryDate,27 Jul 1916,"{""day""=>[""27""], ""month""=>[""Jul""], ""year""=>[""1916""]}",3023742,Corbie,"[2.50682, 49.90672]"
+37,AWD0003v1m,diary,6,2,1916-07-27 00:00:00 UTC,27 Jul 1916,HAPPY VALLEY,"[2.76246, 50.03183]","",activity,resting,{},3023742,Corbie,"[2.50682, 49.90672]"
+38,AWD0003v1m,diary,6,5,1916-07-28 00:00:00 UTC,28 Jul 1916,HAPPY VALLEY,"[2.76246, 50.03183]","",diaryDate,28 Jul 1916,"{""day""=>[""28""], ""month""=>[""Jul""], ""year""=>[""1916""]}",3023742,Corbie,"[2.50682, 49.90672]"
+39,AWD0003v1m,diary,6,6,1916-07-28 00:00:00 UTC,28 Jul 1916,HAPPY VALLEY,"[2.76246, 50.03183]","",activity,training,{},3023742,Corbie,"[2.50682, 49.90672]"
+40,AWD0003v1m,diary,6,6,1916-07-29 00:00:00 UTC,29 Jul 1916,HAPPY VALLEY,"[2.76246, 50.03183]","",diaryDate,29 Jul 1916,"{""day""=>[""29""], ""month""=>[""Jul""], ""year""=>[""1916""]}",3023742,Corbie,"[2.50682, 49.90672]"
+41,AWD0003v1m,diary,6,5,1916-07-30 00:00:00 UTC,30 Jul 1916,HAPPY VALLEY,"[2.76246, 50.03183]","",diaryDate,30 Jul 1916,"{""day""=>[""30""], ""month""=>[""Jul""], ""year""=>[""1916""]}",3023742,Corbie,"[2.50682, 49.90672]"
+42,AWD0003v1m,diary,6,5,1916-07-30 00:00:00 UTC,30 Jul 1916,HAPPY VALLEY,"[2.76246, 50.03183]","",activity,resting,{},3023742,Corbie,"[2.50682, 49.90672]"
+43,AWD0003v1m,diary,6,5,1916-07-31 00:00:00 UTC,31 Jul 1916,HAPPY VALLEY,"[2.76246, 50.03183]","",diaryDate,31 Jul 1916,"{""day""=>[""31""], ""month""=>[""Jul""], ""year""=>[""1916""]}",3023742,Corbie,"[2.50682, 49.90672]"
+44,AWD0003v1m,diary,6,4,1916-07-31 00:00:00 UTC,31 Jul 1916,HAPPY VALLEY,"[2.76246, 50.03183]","",activity,training,{},3023742,Corbie,"[2.50682, 49.90672]"
+1,AWD0003v1o,diary,7,5,1916-08-01 00:00:00 UTC,1 Aug 1916,HAPPY VALLEY,"[2.76246, 50.03183]","",diaryDate,1 Aug 1916,"{""day""=>[""1""], ""month""=>[""Aug""], ""year""=>[""1916""]}",3023742,Corbie,"[2.50682, 49.90672]"
+2,AWD0003v1o,diary,7,4,1916-08-01 00:00:00 UTC,1 Aug 1916,Meaulte,"[2.66121, 49.98167]","",place,Meaulte,"{""place""=>[""Meaulte""], ""location""=>[""true""], ""name""=>[""Méaulte""], ""lat""=>[""49.98167""], ""long""=>[""2.66121""], ""id""=>[""2994803""]}",2911401,Halte,"[7.35978, 53.10793]"
+3,AWD0003v1o,diary,7,7,1916-08-01 00:00:00 UTC,1 Aug 1916,Meaulte,"[2.66121, 49.98167]","",activity,resting,{},2911401,Halte,"[7.35978, 53.10793]"
+4,AWD0003v1o,diary,7,3,1916-08-01 00:00:00 UTC,1 Aug 1916,Meaulte,"[2.66121, 49.98167]","",activity,training,{},2911401,Halte,"[7.35978, 53.10793]"
+5,AWD0003v1o,diary,7,5,1916-08-02 00:00:00 UTC,2 Aug 1916,Meaulte,"[2.66121, 49.98167]","",diaryDate,2 Aug 1916,"{""day""=>[""2""], ""month""=>[""Aug""], ""year""=>[""1916""]}",2911401,Halte,"[7.35978, 53.10793]"
+6,AWD0003v1o,diary,7,5,1916-08-03 00:00:00 UTC,3 Aug 1916,Meaulte,"[2.66121, 49.98167]","",diaryDate,3 Aug 1916,"{""day""=>[""3""], ""month""=>[""Aug""], ""year""=>[""1916""]}",2911401,Halte,"[7.35978, 53.10793]"
+7,AWD0003v1o,diary,7,4,1916-08-03 00:00:00 UTC,3 Aug 1916,Meaulte,"[2.66121, 49.98167]","",activity,resting,{},2911401,Halte,"[7.35978, 53.10793]"
+8,AWD0003v1o,diary,7,2,1916-08-03 00:00:00 UTC,3 Aug 1916,Meaulte,"[2.66121, 49.98167]","",activity,training,{},2911401,Halte,"[7.35978, 53.10793]"
+9,AWD0003v1o,diary,7,5,1916-08-04 00:00:00 UTC,4 Aug 1916,Meaulte,"[2.66121, 49.98167]","",diaryDate,4 Aug 1916,"{""day""=>[""4""], ""month""=>[""Aug""], ""year""=>[""1916""]}",2911401,Halte,"[7.35978, 53.10793]"
+10,AWD0003v1o,diary,7,5,1916-08-05 00:00:00 UTC,5 Aug 1916,Meaulte,"[2.66121, 49.98167]","",diaryDate,5 Aug 1916,"{""day""=>[""5""], ""month""=>[""Aug""], ""year""=>[""1916""]}",2911401,Halte,"[7.35978, 53.10793]"
+11,AWD0003v1o,diary,7,4,1916-08-05 00:00:00 UTC,5 Aug 1916,Meaulte,"[2.66121, 49.98167]","",activity,resting,{},2911401,Halte,"[7.35978, 53.10793]"
+12,AWD0003v1o,diary,7,2,1916-08-05 00:00:00 UTC,5 Aug 1916,Meaulte,"[2.66121, 49.98167]","",activity,training,{},2911401,Halte,"[7.35978, 53.10793]"
+13,AWD0003v1o,diary,7,5,1916-08-06 00:00:00 UTC,6 Aug 1916,Meaulte,"[2.66121, 49.98167]","",diaryDate,6 Aug 1916,"{""day""=>[""6""], ""month""=>[""Aug""], ""year""=>[""1916""]}",2911401,Halte,"[7.35978, 53.10793]"
+14,AWD0003v1o,diary,7,5,1916-08-07 00:00:00 UTC,7 Aug 1916,Meaulte,"[2.66121, 49.98167]","",diaryDate,7 Aug 1916,"{""day""=>[""7""], ""month""=>[""Aug""], ""year""=>[""1916""]}",2911401,Halte,"[7.35978, 53.10793]"
+16,AWD0003v1o,diary,7,4,1916-08-07 00:00:00 UTC,7 Aug 1916,Meaulte,"[2.66121, 49.98167]","",activity,resting,{},2911401,Halte,"[7.35978, 53.10793]"
+17,AWD0003v1o,diary,7,2,1916-08-07 00:00:00 UTC,7 Aug 1916,Meaulte,"[2.66121, 49.98167]","",activity,training,{},2911401,Halte,"[7.35978, 53.10793]"
+18,AWD0003v1o,diary,7,4,1916-08-08 00:00:00 UTC,8 Aug 1916,Meaulte,"[2.66121, 49.98167]","",diaryDate,8 Aug 1916,"{""day""=>[""8""], ""month""=>[""Aug""], ""year""=>[""1916""]}",2911401,Halte,"[7.35978, 53.10793]"
+19,AWD0003v1o,diary,7,5,1916-08-09 00:00:00 UTC,9 Aug 1916,Meaulte,"[2.66121, 49.98167]","",diaryDate,9 Aug 1916,"{""day""=>[""9""], ""month""=>[""Aug""], ""year""=>[""1916""]}",2911401,Halte,"[7.35978, 53.10793]"
+20,AWD0003v1o,diary,7,4,1916-08-09 00:00:00 UTC,9 Aug 1916,Meaulte,"[2.66121, 49.98167]","",activity,resting,{},2911401,Halte,"[7.35978, 53.10793]"
+21,AWD0003v1o,diary,7,2,1916-08-09 00:00:00 UTC,9 Aug 1916,Meaulte,"[2.66121, 49.98167]","",activity,training,{},2911401,Halte,"[7.35978, 53.10793]"
+22,AWD0003v1o,diary,7,5,1916-08-10 00:00:00 UTC,10 Aug 1916,Meaulte,"[2.66121, 49.98167]","",diaryDate,10 Aug 1916,"{""day""=>[""10""], ""month""=>[""Aug""], ""year""=>[""1916""]}",2911401,Halte,"[7.35978, 53.10793]"
+23,AWD0003v1o,diary,7,5,1916-08-11 00:00:00 UTC,11 Aug 1916,Meaulte,"[2.66121, 49.98167]","",diaryDate,11 Aug 1916,"{""day""=>[""11""], ""month""=>[""Aug""], ""year""=>[""1916""]}",2911401,Halte,"[7.35978, 53.10793]"
+24,AWD0003v1o,diary,7,2,1916-08-11 00:00:00 UTC,11 Aug 1916,Meaulte,"[2.66121, 49.98167]","",activity,resting,{},2911401,Halte,"[7.35978, 53.10793]"
+26,AWD0003v1o,diary,7,5,1916-08-12 00:00:00 UTC,12 Aug 1916,Meaulte,"[2.66121, 49.98167]","",diaryDate,12 Aug 1916,"{""day""=>[""12""], ""month""=>[""Aug""], ""year""=>[""1916""]}",2911401,Halte,"[7.35978, 53.10793]"
+27,AWD0003v1o,diary,7,4,1916-08-12 14:00:00 UTC,12 Aug 1916,Meaulte,"[2.66121, 49.98167]",0200PM,time,0200PM,{},2911401,Halte,"[7.35978, 53.10793]"
+28,AWD0003v1o,diary,7,5,1916-08-12 14:00:00 UTC,12 Aug 1916,Meaulte,"[2.66121, 49.98167]",0200PM,activity,movement,{},2911401,Halte,"[7.35978, 53.10793]"
+31,AWD0003v1o,diary,7,5,1916-08-13 00:00:00 UTC,13 Aug 1916,Meaulte,"[2.66121, 49.98167]","",diaryDate,13 Aug 1916,"{""day""=>[""13""], ""month""=>[""Aug""], ""year""=>[""1916""]}",2911401,Halte,"[7.35978, 53.10793]"
+32,AWD0003v1o,diary,7,3,1916-08-13 00:00:00 UTC,13 Aug 1916,Happy Valley,"[2.66121, 49.98167]","",place,Happy Valley,"{""place""=>[""Happy Valley""], ""location""=>[""true""], ""name""=>[""Méaulte""], ""lat""=>[""49.98167""], ""long""=>[""2.66121""], ""id""=>[""2994803""]}",3023742,Corbie,"[2.50682, 49.90672]"
+34,AWD0003v1o,diary,7,5,1916-08-13 00:00:00 UTC,13 Aug 1916,Happy Valley,"[2.66121, 49.98167]","",activity,training,{},3023742,Corbie,"[2.50682, 49.90672]"
+35,AWD0003v1o,diary,7,5,1916-08-14 00:00:00 UTC,14 Aug 1916,Happy Valley,"[2.66121, 49.98167]","",diaryDate,14 Aug 1916,"{""day""=>[""14""], ""month""=>[""Aug""], ""year""=>[""1916""]}",3023742,Corbie,"[2.50682, 49.90672]"
+36,AWD0003v1o,diary,7,4,1916-08-14 15:15:00 UTC,14 Aug 1916,Happy Valley,"[2.66121, 49.98167]",0315PM,time,0315PM,{},3023742,Corbie,"[2.50682, 49.90672]"
+41,AWD0003v1o,diary,7,9,1916-08-14 15:15:00 UTC,14 Aug 1916,Happy Valley,"[2.66121, 49.98167]",0315PM,activity,movement,{},3023742,Corbie,"[2.50682, 49.90672]"
+42,AWD0003v1o,diary,7,4,1916-08-15 00:00:00 UTC,15 Aug 1916,Happy Valley,"[2.66121, 49.98167]","",diaryDate,15 Aug 1916,"{""day""=>[""15""], ""month""=>[""Aug""], ""year""=>[""1916""]}",3023742,Corbie,"[2.50682, 49.90672]"
+44,AWD0003v1o,diary,7,3,1916-08-15 00:00:00 UTC,15 Aug 1916,Bronfay Farm,"[0.0, 0.0]","",place,Bronfay Farm,"{""place""=>[""Bronfay Farm""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3028556,Carnoy,"[2.7558, 49.98489]"
+45,AWD0003v1o,diary,7,4,1916-08-15 15:00:00 UTC,15 Aug 1916,Bronfay Farm,"[0.0, 0.0]",0300PM,time,0300PM,{},3028556,Carnoy,"[2.7558, 49.98489]"
+46,AWD0003v1o,diary,7,3,1916-08-15 15:00:00 UTC,15 Aug 1916,Carnoy,"[2.7558, 49.98489]",0300PM,place,Carnoy,"{""place""=>[""Carnoy""], ""location""=>[""true""], ""name""=>[""Carnoy""], ""lat""=>[""49.98489""], ""long""=>[""2.7558""], ""id""=>[""3028556""]}",3028556,Carnoy,"[2.7558, 49.98489]"
+48,AWD0003v1o,diary,7,2,1916-08-15 00:00:00 UTC,15 Aug 1916,Carnoy,"[2.7558, 49.98489]","",diaryDate,15 Aug 1916,"{""day""=>[""15""], ""month""=>[""Aug""], ""year""=>[""1916""]}",3028556,Carnoy,"[2.7558, 49.98489]"
+49,AWD0003v1o,diary,7,4,1916-08-15 20:00:00 UTC,15 Aug 1916,Carnoy,"[2.7558, 49.98489]",0800PM,time,0800PM,{},3028556,Carnoy,"[2.7558, 49.98489]"
+51,AWD0003v1o,diary,7,3,1916-08-15 20:00:00 UTC,15 Aug 1916,Guillemont,"[2.82627, 50.01259]",0800PM,place,Guillemont,"{""place""=>[""Guillemont""], ""location""=>[""true""], ""name""=>[""Guillemont""], ""lat""=>[""50.01259""], ""long""=>[""2.82627""], ""id""=>[""3014265""]}",3014265,Guillemont,"[2.82627, 50.01259]"
+52,AWD0003v1o,diary,7,3,1916-08-15 20:00:00 UTC,15 Aug 1916,Guillemont,"[2.82627, 50.01259]",0800PM,unit,"9th Brigades, 76th Brigades, 76th Brigade","{""name""=>[""9th Brigades"", ""76th Brigades"", ""76th Brigade""], ""context""=>[""joined""]}",3014265,Guillemont,"[2.82627, 50.01259]"
+2,AWD0003v1k,diary,8,4,1916-08-16 00:00:00 UTC,16 Aug 1916,Guillemont,"[2.82627, 50.01259]","",diaryDate,16 Aug 1916,"{""day""=>[""16""], ""month""=>[""Aug""], ""year""=>[""1916""]}",3014265,Guillemont,"[2.82627, 50.01259]"
+4,AWD0003v1k,diary,8,2,1916-08-16 00:00:00 UTC,16 Aug 1916,"Gaillemont, Guillemont","[0.0, 0.0]","",place,"Gaillemont, Guillemont","{""place""=>[""Gaillemont"", ""Guillemont""], ""location""=>[""true""], ""name""=>[""Tangry"", ""Guillemont""], ""lat""=>[""50.46553"", ""50.01259""], ""long""=>[""2.35269"", ""2.82627""], ""id""=>[""2973427"", ""3014265""]}",,,
+5,AWD0003v1k,diary,8,2,1916-08-16 17:38:00 UTC,16 Aug 1916,"Gaillemont, Guillemont","[0.0, 0.0]",0538PM,time,0538PM,{},,,
+6,AWD0003v1k,diary,8,5,1916-08-16 17:38:00 UTC,16 Aug 1916,"Gaillemont, Guillemont","[0.0, 0.0]",0538PM,activity,attack,{},,,
+7,AWD0003v1k,diary,8,2,1916-08-16 20:00:00 UTC,16 Aug 1916,"Gaillemont, Guillemont","[0.0, 0.0]",0800PM,time,0800PM,{},,,
+8,AWD0003v1k,diary,8,4,1916-08-17 00:00:00 UTC,17 Aug 1916,"Gaillemont, Guillemont","[0.0, 0.0]","",diaryDate,17 Aug 1916,"{""day""=>[""17""], ""month""=>[""Aug""], ""year""=>[""1916""]}",,,
+10,AWD0003v1k,diary,8,3,1916-08-17 00:00:00 UTC,17 Aug 1916,"Gaillemont, Guillemont","[0.0, 0.0]","",activity,attack,{},,,
+11,AWD0003v1k,diary,8,4,1916-08-17 00:00:00 UTC,17 Aug 1916,"Gaillemont, Guillemont","[0.0, 0.0]","",casualties,wounded: 9,{},,,
+12,AWD0003v1k,diary,8,4,1916-08-18 00:00:00 UTC,18 Aug 1916,"Gaillemont, Guillemont","[0.0, 0.0]","",diaryDate,18 Aug 1916,"{""day""=>[""18""], ""month""=>[""Aug""], ""year""=>[""1916""]}",,,
+13,AWD0003v1k,diary,8,4,1916-08-18 00:00:00 UTC,18 Aug 1916,"Gaillemont, Guillemont","[0.0, 0.0]","",activity,attack,{},,,
+15,AWD0003v1k,diary,8,2,1916-08-18 14:40:00 UTC,18 Aug 1916,"Gaillemont, Guillemont","[0.0, 0.0]",0240PM,time,0240PM,{},,,
+16,AWD0003v1k,diary,8,3,1916-08-18 14:40:00 UTC,18 Aug 1916,"Gaillemont, Guillemont","[0.0, 0.0]",0240PM,casualties,"killed: 2, wounded: 8",{},,,
+17,AWD0003v1k,diary,8,4,1916-08-19 00:00:00 UTC,19 Aug 1916,"Gaillemont, Guillemont","[0.0, 0.0]","",diaryDate,19 Aug 1916,"{""day""=>[""19""], ""month""=>[""Aug""], ""year""=>[""1916""]}",,,
+18,AWD0003v1k,diary,8,3,1916-08-19 00:00:00 UTC,19 Aug 1916,"Gaillemont, Guillemont","[0.0, 0.0]","",activity,attack,{},,,
+19,AWD0003v1k,diary,8,3,1916-08-19 00:00:00 UTC,19 Aug 1916,"Gaillemont, Guillemont","[0.0, 0.0]","",casualties,"killed: 1, wounded: 3",{},,,
+20,AWD0003v1k,diary,8,3,1916-08-19 00:00:00 UTC,19 Aug 1916,"Gaillemont, Guillemont","[0.0, 0.0]","",unit,35th Division,"{""name""=>[""35th Division""], ""context""=>[""relieved_by""]}",,,
+21,AWD0003v1k,diary,8,2,1916-08-19 23:00:00 UTC,19 Aug 1916,"Gaillemont, Guillemont","[0.0, 0.0]",1100PM,time,1100PM,{},,,
+23,AWD0003v1k,diary,8,2,1916-08-19 23:00:00 UTC,19 Aug 1916,"Gaillemont, Guillemont","[0.0, 0.0]",1100PM,time,1100PM,{},,,
+25,AWD0003v1k,diary,8,4,1916-08-20 00:00:00 UTC,20 Aug 1916,"Gaillemont, Guillemont","[0.0, 0.0]","",diaryDate,20 Aug 1916,"{""day""=>[""20""], ""month""=>[""Aug""], ""year""=>[""1916""]}",,,
+27,AWD0003v1k,diary,8,4,1916-08-20 00:00:00 UTC,20 Aug 1916,"Gaillemont, Guillemont","[0.0, 0.0]","",activity,movement,{},,,
+28,AWD0003v1k,diary,8,3,1916-08-20 00:00:00 UTC,20 Aug 1916,"Gaillemont, Guillemont","[0.0, 0.0]","",activity,resting,{},,,
+29,AWD0003v1k,diary,8,2,1916-08-20 00:00:00 UTC,20 Aug 1916,"Gaillemont, Guillemont","[0.0, 0.0]","",place,"Meaulte, meaulte","{""place""=>[""Meaulte"", ""meaulte""], ""location""=>[""false"", ""true""], ""name""=>[""Méaulte""], ""lat""=>[""49.98167""], ""long""=>[""2.66121""], ""id""=>[""2994803""]}",,,
+31,AWD0003v1k,diary,8,4,1916-08-21 00:00:00 UTC,21 Aug 1916,"Gaillemont, Guillemont","[0.0, 0.0]","",diaryDate,21 Aug 1916,"{""day""=>[""21""], ""month""=>[""Aug""], ""year""=>[""1916""]}",,,
+32,AWD0003v1k,diary,8,2,1916-08-21 00:00:00 UTC,21 Aug 1916,"Sand Pit, SAND PIT","[0.0, 0.0]","",place,"Sand Pit, SAND PIT","{""place""=>[""Sand Pit"", ""SAND PIT""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3023742,Corbie,"[2.50682, 49.90672]"
+33,AWD0003v1k,diary,8,4,1916-08-21 00:00:00 UTC,21 Aug 1916,"Sand Pit, SAND PIT","[0.0, 0.0]","",activity,training,{},3023742,Corbie,"[2.50682, 49.90672]"
+34,AWD0003v1k,diary,8,4,1916-08-22 00:00:00 UTC,22 Aug 1916,"Sand Pit, SAND PIT","[0.0, 0.0]","",diaryDate,22 Aug 1916,"{""day""=>[""22""], ""month""=>[""Aug""], ""year""=>[""1916""]}",3023742,Corbie,"[2.50682, 49.90672]"
+35,AWD0003v1k,diary,8,4,1916-08-22 00:00:00 UTC,22 Aug 1916,"Meaulte, Meault","[0.0, 0.0]","",place,"Meaulte, Meault","{""place""=>[""Meaulte"", ""Meault""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+36,AWD0003v1k,diary,8,2,1916-08-22 00:00:00 UTC,22 Aug 1916,"Meaulte, Meault","[0.0, 0.0]","",place,"mericourt, Mericourt","{""place""=>[""mericourt"", ""Mericourt""], ""location""=>[""true"", ""false""], ""name""=>[""Méricourt""], ""lat""=>[""50.40116""], ""long""=>[""2.86246""], ""id""=>[""2994401""]}",,,
+39,AWD0003v1k,diary,8,4,1916-08-23 00:00:00 UTC,23 Aug 1916,"Meaulte, Meault","[0.0, 0.0]","",diaryDate,23 Aug 1916,"{""day""=>[""23""], ""month""=>[""Aug""], ""year""=>[""1916""]}",,,
+41,AWD0003v1k,diary,8,2,1916-08-23 05:15:00 UTC,23 Aug 1916,"Meaulte, Meault","[0.0, 0.0]",0515AM,time,0515AM,{},,,
+44,AWD0003v1k,diary,8,3,1916-08-24 00:00:00 UTC,24 Aug 1916,"Meaulte, Meault","[0.0, 0.0]","",diaryDate,24 Aug 1916,"{""day""=>[""24""], ""month""=>[""Aug""], ""year""=>[""1916""]}",,,
+45,AWD0003v1k,diary,8,4,1916-08-24 00:00:00 UTC,24 Aug 1916,"Meaulte, Meault","[0.0, 0.0]","",activity,training,{},,,
+46,AWD0003v1k,diary,8,4,1916-08-24 00:00:00 UTC,24 Aug 1916,Barlette,"[0.0, 0.0]","",place,Barlette,"{""place""=>[""Barlette""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3038271,Albert,"[2.65096, 50.00091]"
+49,AWD0003v1k,diary,8,2,1916-08-24 07:30:00 UTC,24 Aug 1916,Barlette,"[0.0, 0.0]",0730AM,time,0730AM,{},3038271,Albert,"[2.65096, 50.00091]"
+50,AWD0003v1k,diary,8,4,1916-08-24 07:30:00 UTC,24 Aug 1916,Barlette,"[0.0, 0.0]",0730AM,activity,movement,{},3038271,Albert,"[2.65096, 50.00091]"
+52,AWD0003v1k,diary,8,4,1916-08-25 00:00:00 UTC,25 Aug 1916,Barlette,"[0.0, 0.0]","",diaryDate,25 Aug 1916,"{""day""=>[""25""], ""month""=>[""Aug""], ""year""=>[""1916""]}",3038271,Albert,"[2.65096, 50.00091]"
+53,AWD0003v1k,diary,8,2,1916-08-25 00:00:00 UTC,25 Aug 1916,"Chateau De Beauvoin, Chateau de Beauvoin","[0.0, 0.0]","",place,"Chateau De Beauvoin, Chateau de Beauvoin","{""place""=>[""Chateau De Beauvoin"", ""Chateau de Beauvoin""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+54,AWD0003v1k,diary,8,4,1916-08-26 00:00:00 UTC,26 Aug 1916,"Chateau De Beauvoin, Chateau de Beauvoin","[0.0, 0.0]","",diaryDate,26 Aug 1916,"{""day""=>[""26""], ""month""=>[""Aug""], ""year""=>[""1916""]}",,,
+57,AWD0003v1k,diary,8,2,1916-08-26 08:15:00 UTC,26 Aug 1916,"Chateau De Beauvoin, Chateau de Beauvoin","[0.0, 0.0]",0815AM,time,0815AM,{},,,
+58,AWD0003v1k,diary,8,6,1916-08-26 08:15:00 UTC,26 Aug 1916,"Chateau De Beauvoin, Chateau de Beauvoin","[0.0, 0.0]",0815AM,activity,movement,{},,,
+59,AWD0003v1k,diary,8,2,1916-08-26 08:15:00 UTC,26 Aug 1916,"tangry, Tangry","[2.35269, 50.46553]",0815AM,place,"tangry, Tangry","{""place""=>[""tangry"", ""Tangry""], ""location""=>[""true""], ""name""=>[""Tangry""], ""lat""=>[""50.46553""], ""long""=>[""2.35269""], ""id""=>[""2973427""]}",,,
+61,AWD0003v1k,diary,8,4,1916-08-27 00:00:00 UTC,27 Aug 1916,"tangry, Tangry","[2.35269, 50.46553]","",diaryDate,27 Aug 1916,"{""day""=>[""27""], ""month""=>[""Aug""], ""year""=>[""1916""]}",,,
+62,AWD0003v1k,diary,8,3,1916-08-27 00:00:00 UTC,27 Aug 1916,Blangemont,"[0.0, 0.0]","",place,Blangemont,"{""place""=>[""Blangemont""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+63,AWD0003v1k,diary,8,2,1916-08-27 08:00:00 UTC,27 Aug 1916,Blangemont,"[0.0, 0.0]",0800AM,time,0800AM,{},,,
+1,AWD0003v1r,diary,9,4,1916-08-28 00:00:00 UTC,28 Aug 1916,Blangemont,"[0.0, 0.0]","",diaryDate,28 Aug 1916,"{""day""=>[""28""], ""month""=>[""Aug""], ""year""=>[""1916""]}",,,
+2,AWD0003v1r,diary,9,2,1916-08-28 08:00:00 UTC,28 Aug 1916,Blangemont,"[0.0, 0.0]",0800AM,time,0800AM,{},,,
+5,AWD0003v1r,diary,9,4,1916-08-28 08:00:00 UTC,28 Aug 1916,"Tangry, tangry","[2.35269, 50.46553]",0800AM,place,"Tangry, tangry","{""place""=>[""Tangry"", ""tangry""], ""location""=>[""true""], ""name""=>[""Tangry""], ""lat""=>[""50.46553""], ""long""=>[""2.35269""], ""id""=>[""2973427""]}",,,
+6,AWD0003v1r,diary,9,6,1916-08-28 08:00:00 UTC,28 Aug 1916,"Tangry, tangry","[2.35269, 50.46553]",0800AM,activity,movement,{},,,
+8,AWD0003v1r,diary,9,4,1916-08-29 00:00:00 UTC,29 Aug 1916,"Tangry, tangry","[2.35269, 50.46553]","",diaryDate,29 Aug 1916,"{""day""=>[""29""], ""month""=>[""Aug""], ""year""=>[""1916""]}",,,
+9,AWD0003v1r,diary,9,2,1916-08-29 14:30:00 UTC,29 Aug 1916,"Tangry, tangry","[2.35269, 50.46553]",0230PM,time,0230PM,{},,,
+11,AWD0003v1r,diary,9,4,1916-08-29 14:30:00 UTC,29 Aug 1916,Ruitz,"[2.58876, 50.46643]",0230PM,place,Ruitz,"{""place""=>[""Ruitz""], ""location""=>[""true""], ""name""=>[""Ruitz""], ""lat""=>[""50.46643""], ""long""=>[""2.58876""], ""id""=>[""2982179""]}",2982179,Ruitz,"[2.58876, 50.46643]"
+12,AWD0003v1r,diary,9,6,1916-08-29 14:30:00 UTC,29 Aug 1916,Ruitz,"[2.58876, 50.46643]",0230PM,activity,movement,{},2982179,Ruitz,"[2.58876, 50.46643]"
+13,AWD0003v1r,diary,9,4,1916-08-30 00:00:00 UTC,30 Aug 1916,Ruitz,"[2.58876, 50.46643]","",diaryDate,30 Aug 1916,"{""day""=>[""30""], ""month""=>[""Aug""], ""year""=>[""1916""]}",2982179,Ruitz,"[2.58876, 50.46643]"
+16,AWD0003v1r,diary,9,2,1916-08-30 00:00:00 UTC,30 Aug 1916,Nœux-les-Mines,"[2.66667, 50.48333]","",place,Nœux-les-Mines,"{""place""=>[""Nœux-les-Mines""], ""location""=>[""true""], ""name""=>[""Nœux-les-Mines""], ""lat""=>[""50.48333""], ""long""=>[""2.66667""], ""id""=>[""2990287""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+17,AWD0003v1r,diary,9,2,1916-08-30 13:30:00 UTC,30 Aug 1916,Nœux-les-Mines,"[2.66667, 50.48333]",0130PM,time,0130PM,{},2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+18,AWD0003v1r,diary,9,2,1916-08-30 13:30:00 UTC,30 Aug 1916,Nœux-les-Mines,"[2.66667, 50.48333]",0130PM,place,"Noeux Mines, noeux les mines","{""place""=>[""Noeux Mines"", ""noeux les mines""], ""location""=>[""false"", ""true""], ""name""=>[""Nœux-les-Mines""], ""lat""=>[""50.48333""], ""long""=>[""2.66667""], ""id""=>[""2990287""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+20,AWD0003v1r,diary,9,2,1916-08-30 13:30:00 UTC,30 Aug 1916,Nœux-les-Mines,"[2.66667, 50.48333]",0130PM,unit,"97th T.M.B., 97th TMB","{""name""=>[""97th T.M.B."", ""97th TMB""], ""context""=>[""relieved""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"
+23,AWD0003v1r,diary,9,4,1916-08-31 00:00:00 UTC,31 Aug 1916,Nœux-les-Mines,"[2.66667, 50.48333]","",diaryDate,31 Aug 1916,"{""day""=>[""31""], ""month""=>[""Aug""], ""year""=>[""1916""]}",2990287,Nœux-les-Mines,"[2.66667, 50.48333]"

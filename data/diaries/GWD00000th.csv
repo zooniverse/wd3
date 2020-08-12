@@ -1,0 +1,421 @@
+Order,Page,Page type,Page number,Count,DateTime,Date,Place,Lat/Lon,Time,Type,Label,Data,GeoID,GeoName,GeoCoords
+1,AWD0003yxh,diary,257,2,,"","","[0.0, 0.0]","",place,Egypt,"{""place""=>[""Egypt""], ""location""=>[""true"", ""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+2,AWD0003yxh,diary,257,2,,"","","[0.0, 0.0]","",place,France,"{""place""=>[""France""], ""location""=>[""true"", ""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+3,AWD0003yxh,diary,257,3,,"","","[0.0, 0.0]","",person,Lieutenant F E Harrison,"{""first""=>[""F E""], ""surname""=>[""Harrison""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""commander"", ""other"", ""joined""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+4,AWD0003yxh,diary,257,2,,"","","[0.0, 0.0]","",person,"Lieutenant  Meeson, MEASON","{""first""=>[""""], ""surname""=>[""Meeson"", ""MEASON""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other"", ""joined""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+5,AWD0003yxh,diary,257,4,,"","","[0.0, 0.0]","",person,"Second Lieutenant,Lieutenant  Dann, Hale, DANN, HALE","{""first""=>[""""], ""surname""=>[""Dann"", ""Hale"", ""DANN"", ""HALE""], ""rank""=>[""Second Lieutenant"", ""Lieutenant""], ""number""=>[""""], ""reason""=>[""other"", ""joined""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+6,AWD0003yxh,diary,257,2,,"","","[0.0, 0.0]","",person,"Second Lieutenant,Lieutenant  Reay, REAY","{""first""=>[""""], ""surname""=>[""Reay"", ""REAY""], ""rank""=>[""Second Lieutenant"", ""Lieutenant""], ""number""=>[""""], ""reason""=>[""other"", ""joined""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+7,AWD0003yxh,diary,257,2,,"","","[0.0, 0.0]","",person,"Second Lieutenant,Lieutenant  Frobisher, FROBISHET","{""first""=>[""""], ""surname""=>[""Frobisher"", ""FROBISHET""], ""rank""=>[""Second Lieutenant"", ""Lieutenant""], ""number""=>[""""], ""reason""=>[""other"", ""joined""], ""unit""=>[""""]}",2985684,Pozières,"[2.72929, 50.04047]"
+8,AWD0003yxh,diary,257,4,,"","","[0.0, 0.0]",0100AM,time,0100AM,{},2985684,Pozières,"[2.72929, 50.04047]"
+9,AWD0003yxh,diary,257,2,,"",Kantara,"[0.0, 0.0]",0100AM,place,Kantara,"{""place""=>[""Kantara""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+10,AWD0003yxh,diary,257,5,1916-02-28 00:00:00 UTC,28 Feb 1916,Kantara,"[0.0, 0.0]","",diaryDate,28 Feb 1916,"{""day""=>[""28""], ""month""=>[""Feb""], ""year""=>[""1916""]}",,,
+11,AWD0003yxh,diary,257,3,1916-02-28 00:00:00 UTC,28 Feb 1916,Kantara,"[0.0, 0.0]","",activity,movement,{},,,
+12,AWD0003yxh,diary,257,3,1916-02-28 00:00:00 UTC,28 Feb 1916,Port Said,"[0.0, 0.0]","",place,Port Said,"{""place""=>[""Port Said""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2995469,Marseille,"[5.38107, 43.29695]"
+13,AWD0003yxh,diary,257,5,1916-02-28 04:30:00 UTC,28 Feb 1916,Port Said,"[0.0, 0.0]",0430AM,time,0430AM,{},2995469,Marseille,"[5.38107, 43.29695]"
+14,AWD0003yxh,diary,257,2,1916-02-28 04:30:00 UTC,28 Feb 1916,Port Said,"[0.0, 0.0]",0430AM,activity,movement,{},2995469,Marseille,"[5.38107, 43.29695]"
+16,AWD0003yxh,diary,257,2,1916-02-28 17:50:00 UTC,28 Feb 1916,Port Said,"[0.0, 0.0]",0550PM,time,0550PM,{},2995469,Marseille,"[5.38107, 43.29695]"
+17,AWD0003yxh,diary,257,2,1916-02-28 17:50:00 UTC,28 Feb 1916,Port Said,"[0.0, 0.0]",0550PM,place,Port Said,"{""place""=>[""Port Said""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2995469,Marseille,"[5.38107, 43.29695]"
+18,AWD0003yxh,diary,257,2,1916-02-28 05:50:00 UTC,28 Feb 1916,Port Said,"[0.0, 0.0]",0550AM,time,0550AM,{},2995469,Marseille,"[5.38107, 43.29695]"
+19,AWD0003yxh,diary,257,2,1916-02-28 05:50:00 UTC,28 Feb 1916,Port Said,"[0.0, 0.0]",0550AM,activity,movement,{},2995469,Marseille,"[5.38107, 43.29695]"
+22,AWD0003yxh,diary,257,3,1916-02-29 00:00:00 UTC,29 Feb 1916,Port Said,"[0.0, 0.0]","",diaryDate,29 Feb 1916,"{""day""=>[""29""], ""month""=>[""Feb""], ""year""=>[""1916""]}",2995469,Marseille,"[5.38107, 43.29695]"
+23,AWD0003yxh,diary,257,2,1916-02-29 00:00:00 UTC,29 Feb 1916,Port Said,"[0.0, 0.0]","",place,"at sea, At Sea","{""place""=>[""at sea"", ""At Sea""], ""location""=>[""true"", ""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2995469,Marseille,"[5.38107, 43.29695]"
+29,AWD0003yxh,diary,257,5,1916-02-29 00:00:00 UTC,29 Feb 1916,Port Said,"[0.0, 0.0]","",person,"Second Lieutenant  Hale, HALE, Jann, Dann, DANN","{""first""=>[""""], ""surname""=>[""Hale"", ""HALE"", ""Jann"", ""Dann"", ""DANN""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other"", ""joined""], ""unit""=>[""""]}",2995469,Marseille,"[5.38107, 43.29695]"
+30,AWD0003yxh,diary,257,2,1916-02-29 00:00:00 UTC,29 Feb 1916,Port Said,"[0.0, 0.0]","",person,"Second Lieutenant,Lieutenant  Frobisher, FROBISHET","{""first""=>[""""], ""surname""=>[""Frobisher"", ""FROBISHET""], ""rank""=>[""Second Lieutenant"", ""Lieutenant""], ""number""=>[""""], ""reason""=>[""other"", ""joined""], ""unit""=>[""""]}",2995469,Marseille,"[5.38107, 43.29695]"
+31,AWD0003yxh,diary,257,3,1916-02-29 00:00:00 UTC,29 Feb 1916,Port Said,"[0.0, 0.0]","",person,"Second Lieutenant  Reay, Rey, REAY","{""first""=>[""""], ""surname""=>[""Reay"", ""Rey"", ""REAY""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other"", ""commander"", ""joined""], ""unit""=>[""""]}",2995469,Marseille,"[5.38107, 43.29695]"
+32,AWD0003yxh,diary,257,3,1916-02-29 00:00:00 UTC,29 Feb 1916,Port Said,"[0.0, 0.0]","",person,Lieutenant  Harrison,"{""first""=>[""""], ""surname""=>[""Harrison""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2995469,Marseille,"[5.38107, 43.29695]"
+36,AWD0003yxh,diary,257,2,1916-02-29 00:00:00 UTC,29 Feb 1916,Port Said,"[0.0, 0.0]","",place,"At sea, At Sea","{""place""=>[""At sea"", ""At Sea""], ""location""=>[""true"", ""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2995469,Marseille,"[5.38107, 43.29695]"
+37,AWD0003yxh,diary,257,3,1916-03-01 00:00:00 UTC,1 Mar 1916,Port Said,"[0.0, 0.0]","",diaryDate,1 Mar 1916,"{""day""=>[""1""], ""month""=>[""Mar""], ""year""=>[""1916""]}",2995469,Marseille,"[5.38107, 43.29695]"
+1,AWD0003ywf,diary,258,5,1916-03-01 00:00:00 UTC,1 Mar 1916,Port Said,"[0.0, 0.0]","",diaryDate,1 Mar 1916,"{""day""=>[""1""], ""month""=>[""Mar""], ""year""=>[""1916""]}",2995469,Marseille,"[5.38107, 43.29695]"
+2,AWD0003ywf,diary,258,3,1916-03-01 00:00:00 UTC,1 Mar 1916,Port Said,"[0.0, 0.0]","",place,Ballah,"{""place""=>[""Ballah""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2995469,Marseille,"[5.38107, 43.29695]"
+3,AWD0003ywf,diary,258,2,1916-03-01 00:00:00 UTC,1 Mar 1916,Port Said,"[0.0, 0.0]","",place,"El Feroan, El Perdan","{""place""=>[""El Feroan"", ""El Perdan""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2995469,Marseille,"[5.38107, 43.29695]"
+8,AWD0003ywf,diary,258,4,1916-03-01 00:00:00 UTC,1 Mar 1916,Port Said,"[0.0, 0.0]","",activity,movement,{},2995469,Marseille,"[5.38107, 43.29695]"
+12,AWD0003ywf,diary,258,3,1916-03-01 00:00:00 UTC,1 Mar 1916,Port Said,"[0.0, 0.0]","",place,Alexandria,"{""place""=>[""Alexandria""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2995469,Marseille,"[5.38107, 43.29695]"
+16,AWD0003ywf,diary,258,2,1916-03-01 00:00:00 UTC,1 Mar 1916,Port Said,"[0.0, 0.0]","",strength,"officer: 1, other: 110",{},2995469,Marseille,"[5.38107, 43.29695]"
+17,AWD0003ywf,diary,258,4,1916-03-02 00:00:00 UTC,2 Mar 1916,Port Said,"[0.0, 0.0]","",diaryDate,2 Mar 1916,"{""day""=>[""2""], ""month""=>[""Mar""], ""year""=>[""1916""]}",2995469,Marseille,"[5.38107, 43.29695]"
+18,AWD0003ywf,diary,258,2,1916-03-02 19:00:00 UTC,2 Mar 1916,Port Said,"[0.0, 0.0]",0700PM,time,0700PM,{},2995469,Marseille,"[5.38107, 43.29695]"
+19,AWD0003ywf,diary,258,2,1916-03-02 19:00:00 UTC,2 Mar 1916,Port Said,"[0.0, 0.0]",0700PM,activity,movement,{},2995469,Marseille,"[5.38107, 43.29695]"
+21,AWD0003ywf,diary,258,2,1916-03-02 19:00:00 UTC,2 Mar 1916,Ballah,"[0.0, 0.0]",0700PM,place,Ballah,"{""place""=>[""Ballah""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+22,AWD0003ywf,diary,258,4,1916-03-03 00:00:00 UTC,3 Mar 1916,Ballah,"[0.0, 0.0]","",diaryDate,3 Mar 1916,"{""day""=>[""3""], ""month""=>[""Mar""], ""year""=>[""1916""]}",,,
+23,AWD0003ywf,diary,258,4,1916-03-03 00:00:00 UTC,3 Mar 1916,Alexandria,"[0.0, 0.0]","",place,Alexandria,"{""place""=>[""Alexandria""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2657513,Alexandria,"[-4.5864, 55.99379]"
+29,AWD0003ywf,diary,258,4,1916-03-04 00:00:00 UTC,4 Mar 1916,Alexandria,"[0.0, 0.0]","",diaryDate,4 Mar 1916,"{""day""=>[""4""], ""month""=>[""Mar""], ""year""=>[""1916""]}",2657513,Alexandria,"[-4.5864, 55.99379]"
+30,AWD0003ywf,diary,258,3,1916-03-04 00:00:00 UTC,4 Mar 1916,Alexandria,"[0.0, 0.0]","",place,Alexandria,"{""place""=>[""Alexandria""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2657513,Alexandria,"[-4.5864, 55.99379]"
+31,AWD0003ywf,diary,258,3,1916-03-04 16:00:00 UTC,4 Mar 1916,Alexandria,"[0.0, 0.0]",0400PM,time,0400PM,{},2657513,Alexandria,"[-4.5864, 55.99379]"
+32,AWD0003ywf,diary,258,4,1916-03-04 16:00:00 UTC,4 Mar 1916,Alexandria,"[0.0, 0.0]",0400PM,activity,movement,{},2657513,Alexandria,"[-4.5864, 55.99379]"
+33,AWD0003ywf,diary,258,4,1916-03-05 00:00:00 UTC,5 Mar 1916,Alexandria,"[0.0, 0.0]","",diaryDate,5 Mar 1916,"{""day""=>[""5""], ""month""=>[""Mar""], ""year""=>[""1916""]}",2657513,Alexandria,"[-4.5864, 55.99379]"
+34,AWD0003ywf,diary,258,2,1916-03-10 00:00:00 UTC,10 Mar 1916,Alexandria,"[0.0, 0.0]","",diaryDate,10 Mar 1916,"{""day""=>[""10""], ""month""=>[""Mar""], ""year""=>[""1916""]}",2657513,Alexandria,"[-4.5864, 55.99379]"
+36,AWD0003ywf,diary,258,4,1916-03-11 00:00:00 UTC,11 Mar 1916,Alexandria,"[0.0, 0.0]","",diaryDate,11 Mar 1916,"{""day""=>[""11""], ""month""=>[""Mar""], ""year""=>[""1916""]}",2657513,Alexandria,"[-4.5864, 55.99379]"
+38,AWD0003ywf,diary,258,3,1916-03-11 00:00:00 UTC,11 Mar 1916,Marseilles,"[5.38107, 43.29695]","",place,Marseilles,"{""place""=>[""Marseilles""], ""location""=>[""true""], ""name""=>[""Marseille""], ""lat""=>[""43.29695""], ""long""=>[""5.38107""], ""id""=>[""2995469""]}",2995469,Marseille,"[5.38107, 43.29695]"
+39,AWD0003ywf,diary,258,3,1916-03-11 09:00:00 UTC,11 Mar 1916,Marseilles,"[5.38107, 43.29695]",0900AM,time,0900AM,{},2995469,Marseille,"[5.38107, 43.29695]"
+40,AWD0003ywf,diary,258,2,1916-03-11 09:00:00 UTC,11 Mar 1916,Marseilles,"[5.38107, 43.29695]",0900AM,activity,movement,{},2995469,Marseille,"[5.38107, 43.29695]"
+41,AWD0003ywf,diary,258,2,1916-03-11 23:00:00 UTC,11 Mar 1916,Marseilles,"[5.38107, 43.29695]",1100PM,time,1100PM,{},2995469,Marseille,"[5.38107, 43.29695]"
+44,AWD0003ywf,diary,258,3,1916-03-11 23:00:00 UTC,11 Mar 1916,Marseilles,"[5.38107, 43.29695]",1100PM,place,Port Remy,"{""place""=>[""Port Remy""], ""location""=>[""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2995469,Marseille,"[5.38107, 43.29695]"
+45,AWD0003ywf,diary,258,4,1916-03-12 00:00:00 UTC,12 Mar 1916,Marseilles,"[5.38107, 43.29695]","",diaryDate,12 Mar 1916,"{""day""=>[""12""], ""month""=>[""Mar""], ""year""=>[""1916""]}",2995469,Marseille,"[5.38107, 43.29695]"
+46,AWD0003ywf,diary,258,3,1916-03-12 04:48:00 UTC,12 Mar 1916,Marseilles,"[5.38107, 43.29695]",0448AM,time,0448AM,{},2995469,Marseille,"[5.38107, 43.29695]"
+47,AWD0003ywf,diary,258,3,1916-03-12 04:48:00 UTC,12 Mar 1916,Marseilles,"[5.38107, 43.29695]",0448AM,activity,movement,{},2995469,Marseille,"[5.38107, 43.29695]"
+48,AWD0003ywf,diary,258,3,1916-03-12 09:15:00 UTC,12 Mar 1916,Marseilles,"[5.38107, 43.29695]",0915AM,time,0915AM,{},2995469,Marseille,"[5.38107, 43.29695]"
+49,AWD0003ywf,diary,258,3,1916-03-12 09:15:00 UTC,12 Mar 1916,Marseilles,"[5.38107, 43.29695]",0915AM,place,Marseilles,"{""place""=>[""Marseilles""], ""location""=>[""true""], ""name""=>[""Marseille""], ""lat""=>[""43.29695""], ""long""=>[""5.38107""], ""id""=>[""2995469""]}",2995469,Marseille,"[5.38107, 43.29695]"
+50,AWD0003ywf,diary,258,4,1916-03-13 00:00:00 UTC,13 Mar 1916,Marseilles,"[5.38107, 43.29695]","",diaryDate,13 Mar 1916,"{""day""=>[""13""], ""month""=>[""Mar""], ""year""=>[""1916""]}",2995469,Marseille,"[5.38107, 43.29695]"
+51,AWD0003ywf,diary,258,2,1916-03-13 00:00:00 UTC,13 Mar 1916,Marseilles,"[5.38107, 43.29695]","",activity,movement,{},2995469,Marseille,"[5.38107, 43.29695]"
+52,AWD0003ywf,diary,258,3,1916-03-13 00:00:00 UTC,13 Mar 1916,Port Remy,"[5.38107, 43.29695]","",place,Port Remy,"{""place""=>[""Port Remy""], ""location""=>[""true""], ""name""=>[""Marseille""], ""lat""=>[""43.29695""], ""long""=>[""5.38107""], ""id""=>[""2995469""]}",,,
+54,AWD0003ywf,diary,258,2,1916-03-13 00:00:00 UTC,13 Mar 1916,Port Remy,"[5.38107, 43.29695]","",domestic,accomodation,{},,,
+58,AWD0003ywf,diary,258,3,1916-03-13 00:00:00 UTC,13 Mar 1916,Port Remy,"[5.38107, 43.29695]","",place,Port Remy,"{""place""=>[""Port Remy""], ""location""=>[""true""], ""name""=>[""Marseille""], ""lat""=>[""43.29695""], ""long""=>[""5.38107""], ""id""=>[""2995469""]}",,,
+60,AWD0003ywf,diary,258,4,1916-03-14 00:00:00 UTC,14 Mar 1916,Port Remy,"[5.38107, 43.29695]","",diaryDate,14 Mar 1916,"{""day""=>[""14""], ""month""=>[""Mar""], ""year""=>[""1916""]}",,,
+61,AWD0003ywf,diary,258,2,1916-03-14 00:00:00 UTC,14 Mar 1916,"Bellafontaine, Belafontaine","[0.0, 0.0]","",place,"Bellafontaine, Belafontaine","{""place""=>[""Bellafontaine"", ""Belafontaine""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+1,AWD0003yx5,diary,259,5,1916-03-03 00:00:00 UTC,3 Mar 1916,"Bellafontaine, Belafontaine","[0.0, 0.0]","",diaryDate,3 Mar 1916,"{""day""=>[""3""], ""month""=>[""Mar""], ""year""=>[""1916""]}",,,
+2,AWD0003yx5,diary,259,2,1916-03-03 00:00:00 UTC,3 Mar 1916,Malta,"[1.83333, 50.1]","",place,Malta,"{""place""=>[""Malta""], ""location""=>[""true""], ""name""=>[""Abbeville"", """"], ""lat""=>[""50.1"", """"], ""long""=>[""1.83333"", """"], ""id""=>[""3038789"", """"]}",,,
+4,AWD0003yx5,diary,259,3,1916-03-03 00:00:00 UTC,3 Mar 1916,Malta,"[1.83333, 50.1]","",person,"Second Lieutenant  Hall, Hate, HALE","{""first""=>[""""], ""surname""=>[""Hall"", ""Hate"", ""HALE""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""commander"", ""other"", ""joined""], ""unit""=>[""""]}",,,
+5,AWD0003yx5,diary,259,3,1916-03-03 00:00:00 UTC,3 Mar 1916,Malta,"[1.83333, 50.1]","",person,"Second Lieutenant  Foobesher, Forbisher, FROBISHET","{""first""=>[""""], ""surname""=>[""Foobesher"", ""Forbisher"", ""FROBISHET""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+6,AWD0003yx5,diary,259,4,1916-03-06 00:00:00 UTC,6 Mar 1916,Malta,"[1.83333, 50.1]","",diaryDate,6 Mar 1916,"{""day""=>[""6""], ""month""=>[""Mar""], ""year""=>[""1916""]}",,,
+7,AWD0003yx5,diary,259,3,1916-03-06 00:00:00 UTC,6 Mar 1916,Marseilles,"[5.38107, 43.29695]","",place,Marseilles,"{""place""=>[""Marseilles""], ""location""=>[""true""], ""name""=>[""Marseille""], ""lat""=>[""43.29695""], ""long""=>[""5.38107""], ""id""=>[""2995469""]}",2995469,Marseille,"[5.38107, 43.29695]"
+8,AWD0003yx5,diary,259,2,1916-03-06 00:00:00 UTC,6 Mar 1916,Marseilles,"[5.38107, 43.29695]","",activity,movement,{},2995469,Marseille,"[5.38107, 43.29695]"
+9,AWD0003yx5,diary,259,3,1916-03-06 00:00:00 UTC,6 Mar 1916,Marseilles,"[5.38107, 43.29695]","",person,Second Lieutenant  Reay,"{""first""=>[""""], ""surname""=>[""Reay""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",2995469,Marseille,"[5.38107, 43.29695]"
+12,AWD0003yx5,diary,259,2,1916-03-06 00:00:00 UTC,6 Mar 1916,Marseilles,"[5.38107, 43.29695]","",person,  ,"{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""""], ""number""=>[""""], ""reason""=>[""departed_sick""], ""unit""=>[""""]}",2995469,Marseille,"[5.38107, 43.29695]"
+16,AWD0003yx5,diary,259,2,1916-03-06 16:30:00 UTC,6 Mar 1916,Marseilles,"[5.38107, 43.29695]",0430PM,time,0430PM,{},2995469,Marseille,"[5.38107, 43.29695]"
+17,AWD0003yx5,diary,259,3,1916-03-06 16:30:00 UTC,6 Mar 1916,Marseilles,"[5.38107, 43.29695]",0430PM,place,Marseilles,"{""place""=>[""Marseilles""], ""location""=>[""true""], ""name""=>[""Marseille""], ""lat""=>[""43.29695""], ""long""=>[""5.38107""], ""id""=>[""2995469""]}",2995469,Marseille,"[5.38107, 43.29695]"
+18,AWD0003yx5,diary,259,2,1916-03-06 16:30:00 UTC,6 Mar 1916,Marseilles,"[5.38107, 43.29695]",0430PM,activity,movement,{},2995469,Marseille,"[5.38107, 43.29695]"
+19,AWD0003yx5,diary,259,3,1916-03-06 16:20:00 UTC,6 Mar 1916,Marseilles,"[5.38107, 43.29695]",0420PM,time,0420PM,{},2995469,Marseille,"[5.38107, 43.29695]"
+21,AWD0003yx5,diary,259,2,1916-03-06 16:20:00 UTC,6 Mar 1916,Marseilles,"[5.38107, 43.29695]",0420PM,domestic,rations,{},2995469,Marseille,"[5.38107, 43.29695]"
+22,AWD0003yx5,diary,259,5,1916-03-07 00:00:00 UTC,7 Mar 1916,Marseilles,"[5.38107, 43.29695]","",diaryDate,7 Mar 1916,"{""day""=>[""7""], ""month""=>[""Mar""], ""year""=>[""1916""]}",2995469,Marseille,"[5.38107, 43.29695]"
+31,AWD0003yx5,diary,259,2,1916-03-07 00:00:00 UTC,7 Mar 1916,Marseilles,"[5.38107, 43.29695]","",activity,movement,{},2995469,Marseille,"[5.38107, 43.29695]"
+32,AWD0003yx5,diary,259,5,1916-03-08 00:00:00 UTC,8 Mar 1916,Marseilles,"[5.38107, 43.29695]","",diaryDate,8 Mar 1916,"{""day""=>[""8""], ""month""=>[""Mar""], ""year""=>[""1916""]}",2995469,Marseille,"[5.38107, 43.29695]"
+34,AWD0003yx5,diary,259,3,1916-03-08 00:00:00 UTC,8 Mar 1916,Marseilles,"[5.38107, 43.29695]","",person,Second Lieutenant  Reay,"{""first""=>[""""], ""surname""=>[""Reay""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2995469,Marseille,"[5.38107, 43.29695]"
+35,AWD0003yx5,diary,259,6,1916-03-08 00:00:00 UTC,8 Mar 1916,Abbeville,"[1.83333, 50.1]","",place,Abbeville,"{""place""=>[""Abbeville""], ""location""=>[""true""], ""name""=>[""Abbeville""], ""lat""=>[""50.1""], ""long""=>[""1.83333""], ""id""=>[""3038789""]}",3038789,Abbeville,"[1.83333, 50.1]"
+36,AWD0003yx5,diary,259,5,1916-03-09 00:00:00 UTC,9 Mar 1916,Abbeville,"[1.83333, 50.1]","",diaryDate,9 Mar 1916,"{""day""=>[""9""], ""month""=>[""Mar""], ""year""=>[""1916""]}",3038789,Abbeville,"[1.83333, 50.1]"
+37,AWD0003yx5,diary,259,3,1916-03-09 00:00:00 UTC,9 Mar 1916,Abbeville,"[1.83333, 50.1]","",person,Second Lieutenant  Reay,"{""first""=>[""""], ""surname""=>[""Reay""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",3038789,Abbeville,"[1.83333, 50.1]"
+40,AWD0003yx5,diary,259,5,1916-03-10 00:00:00 UTC,10 Mar 1916,Abbeville,"[1.83333, 50.1]","",diaryDate,10 Mar 1916,"{""day""=>[""10""], ""month""=>[""Mar""], ""year""=>[""1916""]}",3038789,Abbeville,"[1.83333, 50.1]"
+41,AWD0003yx5,diary,259,4,1916-03-10 00:00:00 UTC,10 Mar 1916,Abbeville,"[1.83333, 50.1]","",activity,movement,{},3038789,Abbeville,"[1.83333, 50.1]"
+42,AWD0003yx5,diary,259,3,1916-03-10 00:00:00 UTC,10 Mar 1916,Abbeville,"[1.83333, 50.1]","",place,Abbeville,"{""place""=>[""Abbeville""], ""location""=>[""true""], ""name""=>[""Abbeville""], ""lat""=>[""50.1""], ""long""=>[""1.83333""], ""id""=>[""3038789""]}",3038789,Abbeville,"[1.83333, 50.1]"
+43,AWD0003yx5,diary,259,5,1916-03-10 09:30:00 UTC,10 Mar 1916,Abbeville,"[1.83333, 50.1]",0930AM,time,0930AM,{},3038789,Abbeville,"[1.83333, 50.1]"
+44,AWD0003yx5,diary,259,2,1916-03-10 09:30:00 UTC,10 Mar 1916,Abbeville,"[1.83333, 50.1]",0930AM,place,"Baillent, Billend","{""place""=>[""Baillent"", ""Billend""], ""location""=>[""false"", ""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3038789,Abbeville,"[1.83333, 50.1]"
+1,AWD0003yy1,diary,260,5,1916-03-11 00:00:00 UTC,11 Mar 1916,Abbeville,"[1.83333, 50.1]","",diaryDate,11 Mar 1916,"{""day""=>[""11""], ""month""=>[""Mar""], ""year""=>[""1916""]}",3038789,Abbeville,"[1.83333, 50.1]"
+2,AWD0003yy1,diary,260,2,1916-03-11 00:00:00 UTC,11 Mar 1916,Abbeville,"[1.83333, 50.1]","",activity,movement,{},3038789,Abbeville,"[1.83333, 50.1]"
+3,AWD0003yy1,diary,260,4,1916-03-11 00:00:00 UTC,11 Mar 1916,"Baillent, Bailleud, Bailend, Baillene","[0.0, 0.0]","",place,"Baillent, Bailleud, Bailend, Baillene","{""place""=>[""Baillent"", ""Bailleud"", ""Bailend"", ""Baillene""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+5,AWD0003yy1,diary,260,3,1916-03-11 00:00:00 UTC,11 Mar 1916,Bellafontaine,"[0.0, 0.0]","",place,Bellafontaine,"{""place""=>[""Bellafontaine""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+6,AWD0003yy1,diary,260,2,1916-03-11 00:00:00 UTC,11 Mar 1916,Bellafontaine,"[0.0, 0.0]","",domestic,accomodation,{},,,
+8,AWD0003yy1,diary,260,3,1916-03-11 00:00:00 UTC,11 Mar 1916,"Chateau de Frechecourt, Chateau de Franchencourt, Chateau de Frechencourt","[0.0, 0.0]","",place,"Chateau de Frechecourt, Chateau de Franchencourt, Chateau de Frechencourt","{""place""=>[""Chateau de Frechecourt"", ""Chateau de Franchencourt"", ""Chateau de Frechencourt""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+10,AWD0003yy1,diary,260,3,1916-03-11 00:00:00 UTC,11 Mar 1916,"Baillent, Baillenl, Bailleud","[0.0, 0.0]","",place,"Baillent, Baillenl, Bailleud","{""place""=>[""Baillent"", ""Baillenl"", ""Bailleud""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+11,AWD0003yy1,diary,260,2,1916-03-11 00:00:00 UTC,11 Mar 1916,"Chateau Cocquerelle, Chateau Coquetelle","[0.0, 0.0]","",place,"Chateau Cocquerelle, Chateau Coquetelle","{""place""=>[""Chateau Cocquerelle"", ""Chateau Coquetelle""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+12,AWD0003yy1,diary,260,3,1916-03-11 00:00:00 UTC,11 Mar 1916,Bellafontaine,"[0.0, 0.0]","",place,Bellafontaine,"{""place""=>[""Bellafontaine""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+15,AWD0003yy1,diary,260,3,1916-03-11 00:00:00 UTC,11 Mar 1916,"Baillent, Bailleud, Bailend","[0.0, 0.0]","",place,"Baillent, Bailleud, Bailend","{""place""=>[""Baillent"", ""Bailleud"", ""Bailend""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+17,AWD0003yy1,diary,260,4,1916-03-12 00:00:00 UTC,12 Mar 1916,"Baillent, Bailleud, Bailend","[0.0, 0.0]","",diaryDate,12 Mar 1916,"{""day""=>[""12""], ""month""=>[""Mar""], ""year""=>[""1916""]}",,,
+20,AWD0003yy1,diary,260,3,1916-03-12 00:00:00 UTC,12 Mar 1916,Bellafontaine,"[0.0, 0.0]","",place,Bellafontaine,"{""place""=>[""Bellafontaine""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+21,AWD0003yy1,diary,260,2,1916-03-12 00:00:00 UTC,12 Mar 1916,Bellafontaine,"[0.0, 0.0]","",activity,movement,{},,,
+22,AWD0003yy1,diary,260,3,1916-03-12 00:00:00 UTC,12 Mar 1916,Bellafontaine,"[0.0, 0.0]","",person,Lieutenant F E Harrison,"{""first""=>[""F E""], ""surname""=>[""Harrison""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""other"", ""author"", ""joined""], ""unit""=>[""""]}",,,
+23,AWD0003yy1,diary,260,5,1916-03-13 00:00:00 UTC,13 Mar 1916,Bellafontaine,"[0.0, 0.0]","",diaryDate,13 Mar 1916,"{""day""=>[""13""], ""month""=>[""Mar""], ""year""=>[""1916""]}",,,
+1,AWD0003ywc,diary,261,5,1916-03-15 00:00:00 UTC,15 Mar 1916,Bellafontaine,"[0.0, 0.0]","",diaryDate,15 Mar 1916,"{""day""=>[""15""], ""month""=>[""Mar""], ""year""=>[""1916""]}",,,
+4,AWD0003ywc,diary,261,2,1916-03-15 00:00:00 UTC,15 Mar 1916,Bellafontaine,"[0.0, 0.0]","",domestic,accomodation,{},,,
+6,AWD0003ywc,diary,261,3,1916-03-15 00:00:00 UTC,15 Mar 1916,"Bellafontaine, Bellafontane, Bellanfontaine","[0.0, 0.0]","",place,"Bellafontaine, Bellafontane, Bellanfontaine","{""place""=>[""Bellafontaine"", ""Bellafontane"", ""Bellanfontaine""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+8,AWD0003ywc,diary,261,3,1916-03-15 00:00:00 UTC,15 Mar 1916,"Bellafontaine, Bellafontane, Bellanfontaine","[0.0, 0.0]","",domestic,rations,{},,,
+9,AWD0003ywc,diary,261,2,1916-03-15 00:00:00 UTC,15 Mar 1916,Chateau Coquerelle,"[0.0, 0.0]","",place,Chateau Coquerelle,"{""place""=>[""Chateau Coquerelle""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+12,AWD0003ywc,diary,261,5,1916-03-16 00:00:00 UTC,16 Mar 1916,Chateau Coquerelle,"[0.0, 0.0]","",diaryDate,16 Mar 1916,"{""day""=>[""16""], ""month""=>[""Mar""], ""year""=>[""1916""]}",,,
+13,AWD0003ywc,diary,261,2,1916-03-16 00:00:00 UTC,16 Mar 1916,Chateau Coquerelle,"[0.0, 0.0]","",person,"Lieutenant Colonel,Lieutenant  Organ","{""first""=>[""""], ""surname""=>[""Organ""], ""rank""=>[""Lieutenant Colonel"", ""Lieutenant""], ""number""=>[""""], ""reason""=>[""joined"", ""departed_posted""], ""unit""=>[""\""D\"" Battery"", """"]}",,,
+14,AWD0003ywc,diary,261,2,1916-03-16 00:00:00 UTC,16 Mar 1916,Chateau Coquerelle,"[0.0, 0.0]","",person,"Second Lieutenant  Dann, Damm","{""first""=>[""""], ""surname""=>[""Dann"", ""Damm""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_posted""], ""unit""=>[""HQ"", """"]}",,,
+15,AWD0003ywc,diary,261,5,1916-03-17 00:00:00 UTC,17 Mar 1916,Chateau Coquerelle,"[0.0, 0.0]","",diaryDate,17 Mar 1916,"{""day""=>[""17""], ""month""=>[""Mar""], ""year""=>[""1916""]}",,,
+16,AWD0003ywc,diary,261,2,1916-03-17 00:00:00 UTC,17 Mar 1916,Chateau Coquerelle,"[0.0, 0.0]","",domestic,inspections,{},,,
+18,AWD0003ywc,diary,261,5,1916-03-18 00:00:00 UTC,18 Mar 1916,Chateau Coquerelle,"[0.0, 0.0]","",diaryDate,18 Mar 1916,"{""day""=>[""18""], ""month""=>[""Mar""], ""year""=>[""1916""]}",,,
+20,AWD0003ywc,diary,261,2,1916-03-18 00:00:00 UTC,18 Mar 1916,Chateau Coquerelle,"[0.0, 0.0]","",domestic,other,{},,,
+21,AWD0003ywc,diary,261,5,1916-03-20 00:00:00 UTC,20 Mar 1916,Chateau Coquerelle,"[0.0, 0.0]","",diaryDate,20 Mar 1916,"{""day""=>[""20""], ""month""=>[""Mar""], ""year""=>[""1916""]}",,,
+22,AWD0003ywc,diary,261,2,1916-03-20 00:00:00 UTC,20 Mar 1916,Chateau Coquerelle,"[0.0, 0.0]","",place,Abbeville,"{""place""=>[""Abbeville""], ""location""=>[""false"", ""true""], ""name""=>[""Abbeville"", """"], ""lat""=>[""50.1"", """"], ""long""=>[""1.83333"", """"], ""id""=>[""3038789"", """"]}",,,
+23,AWD0003ywc,diary,261,3,1916-03-20 00:00:00 UTC,20 Mar 1916,Chateau Coquerelle,"[0.0, 0.0]","",activity,resupplying,{},,,
+25,AWD0003ywc,diary,261,5,1916-03-22 00:00:00 UTC,22 Mar 1916,Chateau Coquerelle,"[0.0, 0.0]","",diaryDate,22 Mar 1916,"{""day""=>[""22""], ""month""=>[""Mar""], ""year""=>[""1916""]}",,,
+28,AWD0003ywc,diary,261,5,1916-03-23 00:00:00 UTC,23 Mar 1916,Chateau Coquerelle,"[0.0, 0.0]","",diaryDate,23 Mar 1916,"{""day""=>[""23""], ""month""=>[""Mar""], ""year""=>[""1916""]}",,,
+31,AWD0003ywc,diary,261,4,1916-03-23 22:00:00 UTC,23 Mar 1916,Chateau Coquerelle,"[0.0, 0.0]",1000PM,time,1000PM,{},,,
+33,AWD0003ywc,diary,261,5,1916-03-24 00:00:00 UTC,24 Mar 1916,Chateau Coquerelle,"[0.0, 0.0]","",diaryDate,24 Mar 1916,"{""day""=>[""24""], ""month""=>[""Mar""], ""year""=>[""1916""]}",,,
+38,AWD0003ywc,diary,261,2,1916-03-24 00:00:00 UTC,24 Mar 1916,Chateau Coquerelle,"[0.0, 0.0]","",unit,"169, 165","{""name""=>[""169"", ""165""], ""context""=>[""other""]}",,,
+1,AWD0003yxk,diary,262,2,1916-03-24 00:00:00 UTC,24 Mar 1916,"Bailleu, BAILLEUL","[0.0, 0.0]","",place,"Bailleu, BAILLEUL","{""place""=>[""Bailleu"", ""BAILLEUL""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+2,AWD0003yxk,diary,262,3,1916-03-24 00:00:00 UTC,24 Mar 1916,"Bailleu, BAILLEUL","[0.0, 0.0]","",person,Second Lieutenant  Dunn,"{""first""=>[""""], ""surname""=>[""Dunn""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_posted""], ""unit""=>[""""]}",,,
+5,AWD0003yxk,diary,262,5,1916-03-25 00:00:00 UTC,25 Mar 1916,"Bailleu, BAILLEUL","[0.0, 0.0]","",diaryDate,25 Mar 1916,"{""day""=>[""25""], ""month""=>[""Mar""], ""year""=>[""1916""]}",,,
+8,AWD0003yxk,diary,262,2,1916-03-25 00:00:00 UTC,25 Mar 1916,"Bailleu, BAILLEUL","[0.0, 0.0]","",unit,165 Bde,"{""name""=>[""165 Bde""], ""context""=>[""joined""]}",,,
+9,AWD0003yxk,diary,262,4,1916-03-25 00:00:00 UTC,25 Mar 1916,BELLAFONTAINE,"[0.0, 0.0]","",place,BELLAFONTAINE,"{""place""=>[""BELLAFONTAINE""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+11,AWD0003yxk,diary,262,2,1916-03-25 00:00:00 UTC,25 Mar 1916,"Chateau Coquerelle, CHATEAU COQUERELLE","[0.0, 0.0]","",place,"Chateau Coquerelle, CHATEAU COQUERELLE","{""place""=>[""Chateau Coquerelle"", ""CHATEAU COQUERELLE""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+12,AWD0003yxk,diary,262,3,1916-03-25 00:00:00 UTC,25 Mar 1916,"Chateau Coquerelle, CHATEAU COQUERELLE","[0.0, 0.0]","",person,"Lieutenant  Organ , Organ, DAGON?","{""first""=>[""""], ""surname""=>[""Organ "", ""Organ"", ""DAGON?""], ""rank""=>[""Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_posted""], ""unit""=>[""""]}",,,
+13,AWD0003yxk,diary,262,2,1916-03-25 00:00:00 UTC,25 Mar 1916,"Chateau Coquerelle, CHATEAU COQUERELLE","[0.0, 0.0]","",activity,movement,{},,,
+14,AWD0003yxk,diary,262,5,1916-03-26 00:00:00 UTC,26 Mar 1916,"Chateau Coquerelle, CHATEAU COQUERELLE","[0.0, 0.0]","",diaryDate,26 Mar 1916,"{""day""=>[""26""], ""month""=>[""Mar""], ""year""=>[""1916""]}",,,
+16,AWD0003yxk,diary,262,3,1916-03-26 00:00:00 UTC,26 Mar 1916,"Chateau Coquerelle, CHATEAU COQUERELLE","[0.0, 0.0]","",weather,rain,{},,,
+18,AWD0003yxk,diary,262,2,1916-03-26 15:00:00 UTC,26 Mar 1916,"Chateau Coquerelle, CHATEAU COQUERELLE","[0.0, 0.0]",0300PM,time,0300PM,{},,,
+19,AWD0003yxk,diary,262,5,1916-03-26 07:45:00 UTC,26 Mar 1916,"Chateau Coquerelle, CHATEAU COQUERELLE","[0.0, 0.0]",0745AM,time,0745AM,{},,,
+20,AWD0003yxk,diary,262,3,1916-03-26 07:45:00 UTC,26 Mar 1916,Bellafontaine,"[0.0, 0.0]",0745AM,place,Bellafontaine,"{""place""=>[""Bellafontaine""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+22,AWD0003yxk,diary,262,3,1916-03-26 07:45:00 UTC,26 Mar 1916,"Bourden, Bourdon, BOURDON","[0.0, 0.0]",0745AM,place,"Bourden, Bourdon, BOURDON","{""place""=>[""Bourden"", ""Bourdon"", ""BOURDON""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+23,AWD0003yxk,diary,262,3,1916-03-26 07:45:00 UTC,26 Mar 1916,Yzeux,"[0.0, 0.0]",0745AM,place,Yzeux,"{""place""=>[""Yzeux""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2967164,Yzeux,"[2.10731, 49.97556]"
+24,AWD0003yxk,diary,262,4,1916-03-26 07:45:00 UTC,26 Mar 1916,"Liercourt, LIERCOURT","[0.0, 0.0]",0745AM,place,"Liercourt, LIERCOURT","{""place""=>[""Liercourt"", ""LIERCOURT""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+25,AWD0003yxk,diary,262,3,1916-03-26 07:45:00 UTC,26 Mar 1916,Hangest,"[0.0, 0.0]",0745AM,place,Hangest,"{""place""=>[""Hangest""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3013992,"Hangest-sur-Somme,Sailly","[2.06447, 49.98086]"
+27,AWD0003yxk,diary,262,3,1916-03-26 07:45:00 UTC,26 Mar 1916,Belloy,"[0.0, 0.0]",0745AM,place,Belloy,"{""place""=>[""Belloy""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3033601,Belloy,"[2.65479, 49.53585]"
+30,AWD0003yxk,diary,262,3,1916-03-26 07:45:00 UTC,26 Mar 1916,"La Chausse, La Chausee, LA CHAUSSE","[0.0, 0.0]",0745AM,place,"La Chausse, La Chausee, LA CHAUSSE","{""place""=>[""La Chausse"", ""La Chausee"", ""LA CHAUSSE""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+31,AWD0003yxk,diary,262,3,1916-03-26 07:45:00 UTC,26 Mar 1916,"La Chausse, La Chausee, LA CHAUSSE","[0.0, 0.0]",0745AM,domestic,rations,{},,,
+32,AWD0003yxk,diary,262,3,1916-03-26 07:45:00 UTC,26 Mar 1916,Vignacourt,"[0.0, 0.0]",0745AM,place,Vignacourt,"{""place""=>[""Vignacourt""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2969146,Vignacourt,"[2.19743, 50.01236]"
+33,AWD0003yxk,diary,262,2,1916-03-26 07:45:00 UTC,26 Mar 1916,Vignacourt,"[0.0, 0.0]",0745AM,place,Havena,"{""place""=>[""Havena""], ""location""=>[""false"", ""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2969146,Vignacourt,"[2.19743, 50.01236]"
+34,AWD0003yxk,diary,262,3,1916-03-26 07:45:00 UTC,26 Mar 1916,"on the road, On the road, ON THE ROAD","[0.0, 0.0]",0745AM,place,"on the road, On the road, ON THE ROAD","{""place""=>[""on the road"", ""On the road"", ""ON THE ROAD""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+35,AWD0003yxk,diary,262,5,1916-03-26 07:45:00 UTC,26 Mar 1916,"on the road, On the road, ON THE ROAD","[0.0, 0.0]",0745AM,activity,movement,{},,,
+36,AWD0003yxk,diary,262,5,1916-03-27 00:00:00 UTC,27 Mar 1916,"on the road, On the road, ON THE ROAD","[0.0, 0.0]","",diaryDate,27 Mar 1916,"{""day""=>[""27""], ""month""=>[""Mar""], ""year""=>[""1916""]}",,,
+38,AWD0003yxk,diary,262,3,1916-03-27 00:00:00 UTC,27 Mar 1916,Nadurs,"[0.0, 0.0]","",place,Nadurs,"{""place""=>[""Nadurs""], ""location""=>[""true""], ""name""=>[""Wargnies"", """", ""Vignacourt""], ""lat""=>[""50.03498"", """", ""50.01236""], ""long""=>[""2.25908"", """", ""2.19743""], ""id""=>[""2967463"", """", ""2969146""]}",,,
+39,AWD0003yxk,diary,262,3,1916-03-27 00:00:00 UTC,27 Mar 1916,Nadurs,"[0.0, 0.0]","",weather,rain,{},,,
+40,AWD0003yxk,diary,262,2,1916-03-27 00:00:00 UTC,27 Mar 1916,Nadurs,"[0.0, 0.0]","",place,Wargnies,"{""place""=>[""Wargnies""], ""location""=>[""false"", ""true""], ""name""=>[""Wargnies"", """"], ""lat""=>[""50.03498"", """"], ""long""=>[""2.25908"", """"], ""id""=>[""2967463"", """"]}",,,
+41,AWD0003yxk,diary,262,2,1916-03-27 00:00:00 UTC,27 Mar 1916,Nadurs,"[0.0, 0.0]","",activity,resting,{},,,
+42,AWD0003yxk,diary,262,3,1916-03-27 00:00:00 UTC,27 Mar 1916,Beauquene,"[0.0, 0.0]","",place,Beauquene,"{""place""=>[""Beauquene""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+43,AWD0003yxk,diary,262,3,1916-03-27 00:00:00 UTC,27 Mar 1916,Beauquene,"[0.0, 0.0]","",activity,movement,{},,,
+44,AWD0003yxk,diary,262,3,1916-03-27 00:00:00 UTC,27 Mar 1916,Galand Farm,"[0.0, 0.0]","",place,Galand Farm,"{""place""=>[""Galand Farm""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+45,AWD0003yxk,diary,262,5,1916-03-28 00:00:00 UTC,28 Mar 1916,Galand Farm,"[0.0, 0.0]","",diaryDate,28 Mar 1916,"{""day""=>[""28""], ""month""=>[""Mar""], ""year""=>[""1916""]}",,,
+46,AWD0003yxk,diary,262,3,1916-03-28 00:00:00 UTC,28 Mar 1916,Amplier,"[0.0, 0.0]","",place,Amplier,"{""place""=>[""Amplier""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3037817,Amplier,"[2.39972, 50.13737]"
+47,AWD0003yxk,diary,262,3,1916-03-28 00:00:00 UTC,28 Mar 1916,Orville,"[0.0, 0.0]","",place,Orville,"{""place""=>[""Orville""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3017790,Forceville,"[2.55746, 50.06049]"
+51,AWD0003yxk,diary,262,3,1916-03-28 00:00:00 UTC,28 Mar 1916,"Mailly - Maillet, Mailly-Maillet, MAILLY-MAILLET","[2.60473, 50.08025]","",place,"Mailly - Maillet, Mailly-Maillet, MAILLY-MAILLET","{""place""=>[""Mailly - Maillet"", ""Mailly-Maillet"", ""MAILLY-MAILLET""], ""location""=>[""true""], ""name""=>[""Mailly-Maillet""], ""lat""=>[""50.08025""], ""long""=>[""2.60473""], ""id""=>[""2996685""]}",,,
+52,AWD0003yxk,diary,262,4,1916-03-28 00:00:00 UTC,28 Mar 1916,ORVILLE,"[0.0, 0.0]","",place,ORVILLE,"{""place""=>[""ORVILLE""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2989161,Orville,"[2.41162, 50.13308]"
+53,AWD0003yxk,diary,262,5,1916-03-29 00:00:00 UTC,29 Mar 1916,ORVILLE,"[0.0, 0.0]","",diaryDate,29 Mar 1916,"{""day""=>[""29""], ""month""=>[""Mar""], ""year""=>[""1916""]}",2989161,Orville,"[2.41162, 50.13308]"
+56,AWD0003yxk,diary,262,2,1916-03-29 00:00:00 UTC,29 Mar 1916,ORVILLE,"[0.0, 0.0]","",person,Sergeant  Evans,"{""first""=>[""""], ""surname""=>[""Evans""], ""rank""=>[""Sergeant""], ""number""=>[""""], ""reason""=>[""other"", ""departed_posted""], ""unit""=>[""""]}",2989161,Orville,"[2.41162, 50.13308]"
+60,AWD0003yxk,diary,262,5,1916-03-30 00:00:00 UTC,30 Mar 1916,ORVILLE,"[0.0, 0.0]","",diaryDate,30 Mar 1916,"{""day""=>[""30""], ""month""=>[""Mar""], ""year""=>[""1916""]}",2989161,Orville,"[2.41162, 50.13308]"
+63,AWD0003yxk,diary,262,2,1916-03-30 00:00:00 UTC,30 Mar 1916,ORVILLE,"[0.0, 0.0]","",place,"Mailly - Mallet, Mailly-Maillet","{""place""=>[""Mailly - Mallet"", ""Mailly-Maillet""], ""location""=>[""false"", ""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2989161,Orville,"[2.41162, 50.13308]"
+2,AWD0003ywq,diary,263,3,1916-03-30 00:00:00 UTC,30 Mar 1916,ORVILLE,"[0.0, 0.0]","",person,"Second Lieutenant  Dunn, Dann, DANN","{""first""=>[""""], ""surname""=>[""Dunn"", ""Dann"", ""DANN""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""commander"", ""departed_posted"", ""other""], ""unit""=>[""""]}",2989161,Orville,"[2.41162, 50.13308]"
+5,AWD0003ywq,diary,263,4,1916-03-31 00:00:00 UTC,31 Mar 1916,ORVILLE,"[0.0, 0.0]","",diaryDate,31 Mar 1916,"{""day""=>[""31""], ""month""=>[""Mar""], ""year""=>[""1916""]}",2989161,Orville,"[2.41162, 50.13308]"
+6,AWD0003ywq,diary,263,4,1916-03-31 00:00:00 UTC,31 Mar 1916,MAILLY,"[0.0, 0.0]","",place,MAILLY,"{""place""=>[""MAILLY""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+8,AWD0003ywq,diary,263,3,1916-03-31 00:00:00 UTC,31 Mar 1916,MAILLY,"[0.0, 0.0]","",person,"Second Lieutenant  Frobishet, Frobisher, FROBISHER","{""first""=>[""""], ""surname""=>[""Frobishet"", ""Frobisher"", ""FROBISHER""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""departed_posted"", ""commander"", ""departed_training""], ""unit""=>[""""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+12,AWD0003ywq,diary,263,3,1916-03-31 00:00:00 UTC,31 Mar 1916,MAILLY,"[0.0, 0.0]","",person,Second Lieutenant  Reay,"{""first""=>[""""], ""surname""=>[""Reay""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+13,AWD0003ywq,diary,263,3,1916-03-31 00:00:00 UTC,31 Mar 1916,MAILLY,"[0.0, 0.0]","",person,Second Lieutenant  Lindsey,"{""first""=>[""""], ""surname""=>[""Lindsey""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""returned_posted""], ""unit""=>[""""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+32,AWD0003ywq,diary,263,3,1916-03-31 00:00:00 UTC,31 Mar 1916,Orville,"[0.0, 0.0]","",place,Orville,"{""place""=>[""Orville""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",3017790,Forceville,"[2.55746, 50.06049]"
+1,AWD0003yxi,cover,264,2,,,,[],,diaryDate,1 Apr 1916,"{""day""=>[""1""], ""month""=>[""Apr""], ""year""=>[""1916""]}",,,
+2,AWD0003yxi,cover,264,2,,,,[],,diaryDate,30 Apr 1916,"{""day""=>[""30""], ""month""=>[""Apr""], ""year""=>[""1916""]}",,,
+2,AWD0003ywm,diary,265,6,1916-04-01 00:00:00 UTC,1 Apr 1916,Orville,"[0.0, 0.0]","",diaryDate,1 Apr 1916,"{""day""=>[""1""], ""month""=>[""Apr""], ""year""=>[""1916""]}",3017790,Forceville,"[2.55746, 50.06049]"
+3,AWD0003ywm,diary,265,5,1916-04-01 00:00:00 UTC,1 Apr 1916,mailly,"[4.11503, 46.22391]","",place,mailly,"{""place""=>[""mailly""], ""location""=>[""true""], ""name""=>[""Mailly""], ""lat""=>[""46.22391""], ""long""=>[""4.11503""], ""id""=>[""2996692""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+8,AWD0003ywm,diary,265,5,1916-04-02 00:00:00 UTC,2 Apr 1916,mailly,"[4.11503, 46.22391]","",diaryDate,2 Apr 1916,"{""day""=>[""2""], ""month""=>[""Apr""], ""year""=>[""1916""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+9,AWD0003ywm,diary,265,5,1916-04-02 10:00:00 UTC,2 Apr 1916,mailly,"[4.11503, 46.22391]",1000AM,time,1000AM,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+16,AWD0003ywm,diary,265,4,1916-04-02 09:00:00 UTC,2 Apr 1916,mailly,"[4.11503, 46.22391]",0900AM,time,0900AM,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+17,AWD0003ywm,diary,265,3,1916-04-02 10:00:00 UTC,2 Apr 1916,mailly,"[4.11503, 46.22391]",1000AM,time,1000AM,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+20,AWD0003ywm,diary,265,4,1916-04-02 12:00:00 UTC,2 Apr 1916,mailly,"[4.11503, 46.22391]",1200PM,time,1200PM,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+23,AWD0003ywm,diary,265,5,1916-04-02 14:00:00 UTC,2 Apr 1916,mailly,"[4.11503, 46.22391]",0200PM,time,0200PM,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+25,AWD0003ywm,diary,265,3,1916-04-02 14:00:00 UTC,2 Apr 1916,mailly,"[4.11503, 46.22391]",0200PM,person,"Lieutenant Colonel  Vrianke, Vinake, ??iake","{""first""=>[""""], ""surname""=>[""Vrianke"", ""Vinake"", ""??iake""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+26,AWD0003ywm,diary,265,5,1916-04-03 00:00:00 UTC,3 Apr 1916,mailly,"[4.11503, 46.22391]","",diaryDate,3 Apr 1916,"{""day""=>[""3""], ""month""=>[""Apr""], ""year""=>[""1916""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+28,AWD0003ywm,diary,265,3,1916-04-03 00:00:00 UTC,3 Apr 1916,"Mailly, MAILLY, mailly","[4.11503, 46.22391]","",place,"Mailly, MAILLY, mailly","{""place""=>[""Mailly"", ""MAILLY"", ""mailly""], ""location""=>[""true""], ""name""=>[""Mailly""], ""lat""=>[""46.22391""], ""long""=>[""4.11503""], ""id""=>[""2996692""]}",,,
+30,AWD0003ywm,diary,265,3,1916-04-03 00:00:00 UTC,3 Apr 1916,"Mailly, MAILLY, mailly","[4.11503, 46.22391]","",weather,overcast,{},,,
+32,AWD0003ywm,diary,265,5,1916-04-04 00:00:00 UTC,4 Apr 1916,"Mailly, MAILLY, mailly","[4.11503, 46.22391]","",diaryDate,4 Apr 1916,"{""day""=>[""4""], ""month""=>[""Apr""], ""year""=>[""1916""]}",,,
+33,AWD0003ywm,diary,265,3,1916-04-04 00:00:00 UTC,4 Apr 1916,"Mailly, MAILLY, mailly","[4.11503, 46.22391]","",activity,quiet,{},,,
+34,AWD0003ywm,diary,265,2,1916-04-04 00:00:00 UTC,4 Apr 1916,"Mailly, MAILLY, mailly","[4.11503, 46.22391]","",person," ,FEH F.E.H., ","{""first""=>["""", ""FEH""], ""surname""=>[""F.E.H."", """"], ""rank""=>[""""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+36,AWD0003ywm,diary,265,2,1916-04-04 00:00:00 UTC,4 Apr 1916,"Mailly, MAILLY, mailly","[4.11503, 46.22391]","",person,"Captain  Hu???, ???","{""first""=>[""""], ""surname""=>[""Hu???"", ""???""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""departed_sick""], ""unit""=>[""""]}",,,
+38,AWD0003ywm,diary,265,3,1916-04-04 00:00:00 UTC,4 Apr 1916,"Mailly, MAILLY, mailly","[4.11503, 46.22391]","",person,Second Lieutenant  Butcher,"{""first""=>[""""], ""surname""=>[""Butcher""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",,,
+39,AWD0003ywm,diary,265,2,1916-04-04 00:00:00 UTC,4 Apr 1916,"Mailly, MAILLY, mailly","[4.11503, 46.22391]","",domestic,accomodation,{},,,
+41,AWD0003ywm,diary,265,5,1916-04-05 00:00:00 UTC,5 Apr 1916,"Mailly, MAILLY, mailly","[4.11503, 46.22391]","",diaryDate,5 Apr 1916,"{""day""=>[""5""], ""month""=>[""Apr""], ""year""=>[""1916""]}",,,
+49,AWD0003ywm,diary,265,3,1916-04-06 00:00:00 UTC,6 Apr 1916,"Mailly, MAILLY, mailly","[4.11503, 46.22391]","",diaryDate,6 Apr 1916,"{""day""=>[""6""], ""month""=>[""Apr""], ""year""=>[""1916""]}",,,
+50,AWD0003ywm,diary,265,3,1916-04-06 00:00:00 UTC,6 Apr 1916,"Mailly, MAILLY, mailly","[4.11503, 46.22391]","",activity,reconnoitered,{},,,
+51,AWD0003ywm,diary,265,3,1916-04-06 00:00:00 UTC,6 Apr 1916,"Mailly, MAILLY, mailly","[4.11503, 46.22391]","",weather,overcast,{},,,
+4,AWD0003yxe,diary,266,4,1916-04-06 00:00:00 UTC,6 Apr 1916,"Mailly, MAILLY, mailly","[4.11503, 46.22391]","",diaryDate,6 Apr 1916,"{""day""=>[""6""], ""month""=>[""Apr""], ""year""=>[""1916""]}",,,
+5,AWD0003yxe,diary,266,3,1916-04-06 00:00:00 UTC,6 Apr 1916,Mailly,"[4.11503, 46.22391]","",place,Mailly,"{""place""=>[""Mailly""], ""location""=>[""true""], ""name""=>[""Mailly""], ""lat""=>[""46.22391""], ""long""=>[""4.11503""], ""id""=>[""2996692""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+7,AWD0003yxe,diary,266,2,1916-04-06 00:00:00 UTC,6 Apr 1916,Mailly,"[4.11503, 46.22391]","",activity,fire,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+10,AWD0003yxe,diary,266,5,1916-04-06 22:45:00 UTC,6 Apr 1916,Mailly,"[4.11503, 46.22391]",1045PM,time,1045PM,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+12,AWD0003yxe,diary,266,4,1916-04-06 21:10:00 UTC,6 Apr 1916,Mailly,"[4.11503, 46.22391]",0910PM,time,0910PM,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+14,AWD0003yxe,diary,266,2,1916-04-06 21:10:00 UTC,6 Apr 1916,Mailly,"[4.11503, 46.22391]",0910PM,activity,fire,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+17,AWD0003yxe,diary,266,5,1916-04-06 21:15:00 UTC,6 Apr 1916,Mailly,"[4.11503, 46.22391]",0915PM,time,0915PM,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+18,AWD0003yxe,diary,266,5,1916-04-06 21:30:00 UTC,6 Apr 1916,Mailly,"[4.11503, 46.22391]",0930PM,time,0930PM,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+19,AWD0003yxe,diary,266,4,1916-04-06 21:30:00 UTC,6 Apr 1916,Mailly,"[4.11503, 46.22391]",0930PM,activity,fire,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+20,AWD0003yxe,diary,266,2,1916-04-06 21:30:00 UTC,6 Apr 1916,Mailly,"[4.11503, 46.22391]",0930PM,activity,enemy_activity,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+21,AWD0003yxe,diary,266,2,1916-04-06 21:40:00 UTC,6 Apr 1916,Mailly,"[4.11503, 46.22391]",0940PM,time,0940PM,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+24,AWD0003yxe,diary,266,3,1916-04-06 21:50:00 UTC,6 Apr 1916,Mailly,"[4.11503, 46.22391]",0950PM,time,0950PM,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+29,AWD0003yxe,diary,266,4,1916-04-06 22:00:00 UTC,6 Apr 1916,Mailly,"[4.11503, 46.22391]",1000PM,time,1000PM,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+31,AWD0003yxe,diary,266,3,1916-04-06 22:00:00 UTC,6 Apr 1916,Mailly,"[4.11503, 46.22391]",1000PM,activity,quiet,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+33,AWD0003yxe,diary,266,5,1916-04-06 22:20:00 UTC,6 Apr 1916,Mailly,"[4.11503, 46.22391]",1020PM,time,1020PM,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+36,AWD0003yxe,diary,266,2,1916-04-07 00:00:00 UTC,7 Apr 1916,Mailly,"[4.11503, 46.22391]","",diaryDate,7 Apr 1916,"{""day""=>[""7""], ""month""=>[""Apr""], ""year""=>[""1916""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+38,AWD0003yxe,diary,266,4,1916-04-07 00:00:00 UTC,7 Apr 1916,Mailly,"[4.11503, 46.22391]","",place,Mailly,"{""place""=>[""Mailly""], ""location""=>[""false"", ""true""], ""name""=>[""Mailly""], ""lat""=>[""46.22391""], ""long""=>[""4.11503""], ""id""=>[""2996692""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+39,AWD0003yxe,diary,266,3,1916-04-07 00:00:00 UTC,7 Apr 1916,Mailly,"[4.11503, 46.22391]","",diaryDate,7 Apr 1916,"{""day""=>[""7""], ""month""=>[""Apr""], ""year""=>[""1916""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+41,AWD0003yxe,diary,266,2,1916-04-07 00:00:00 UTC,7 Apr 1916,Mailly,"[4.11503, 46.22391]","",activity,reconnoitered,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+42,AWD0003yxe,diary,266,2,1916-04-07 00:00:00 UTC,7 Apr 1916,Mailly,"[4.11503, 46.22391]","",person,"Colonel,Lieutenant Colonel  Henderson","{""first""=>[""""], ""surname""=>[""Henderson""], ""rank""=>[""Colonel"", ""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""other"", ""commander""], ""unit""=>["""", ""G.O.C. R.A.""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+43,AWD0003yxe,diary,266,2,1916-04-07 00:00:00 UTC,7 Apr 1916,Mailly,"[4.11503, 46.22391]","",person,"Colonel,Lieutenant Colonel  Simonds","{""first""=>[""""], ""surname""=>[""Simonds""], ""rank""=>[""Colonel"", ""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>["""", ""G.O.C. R.A.""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+44,AWD0003yxe,diary,266,4,1916-04-07 09:00:00 UTC,7 Apr 1916,Mailly,"[4.11503, 46.22391]",0900AM,time,0900AM,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+1,AWD0003ywx,diary,267,6,1916-04-08 00:00:00 UTC,8 Apr 1916,Mailly,"[4.11503, 46.22391]","",diaryDate,8 Apr 1916,"{""day""=>[""8""], ""month""=>[""Apr""], ""year""=>[""1916""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+2,AWD0003ywx,diary,267,3,1916-04-08 00:00:00 UTC,8 Apr 1916,Mailly,"[4.11503, 46.22391]","",person,Captain  Fitzgerald,"{""first""=>[""""], ""surname""=>[""Fitzgerald""], ""rank""=>[""Captain""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""25th Div"", """", ""D Battery""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+3,AWD0003ywx,diary,267,6,1916-04-08 00:00:00 UTC,8 Apr 1916,"Mailly, mailly","[4.11503, 46.22391]","",place,"Mailly, mailly","{""place""=>[""Mailly"", ""mailly""], ""location""=>[""true""], ""name""=>[""Mailly"", """"], ""lat""=>[""46.22391"", """"], ""long""=>[""4.11503"", """"], ""id""=>[""2996692"", """"]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+4,AWD0003ywx,diary,267,4,1916-04-08 00:00:00 UTC,8 Apr 1916,"Mailly, mailly","[4.11503, 46.22391]","",activity,quiet,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+6,AWD0003ywx,diary,267,2,1916-04-08 00:00:00 UTC,8 Apr 1916,"Mailly, mailly","[4.11503, 46.22391]","",activity,enemy_activity,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+7,AWD0003ywx,diary,267,2,1916-04-08 00:00:00 UTC,8 Apr 1916,"Mailly, mailly","[4.11503, 46.22391]","",activity,other,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+12,AWD0003ywx,diary,267,3,1916-04-08 00:00:00 UTC,8 Apr 1916,"Mailly, mailly","[4.11503, 46.22391]","",activity,fire,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+13,AWD0003ywx,diary,267,2,1916-04-08 00:00:00 UTC,8 Apr 1916,"Mailly, mailly","[4.11503, 46.22391]","",activity,enemy_activity,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+16,AWD0003ywx,diary,267,2,1916-04-08 00:00:00 UTC,8 Apr 1916,"Mailly, mailly","[4.11503, 46.22391]","",person," ,FEH F.E.H., ","{""first""=>["""", ""FEH""], ""surname""=>[""F.E.H."", """"], ""rank""=>[""""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+18,AWD0003ywx,diary,267,4,1916-04-09 00:00:00 UTC,9 Apr 1916,"Mailly, mailly","[4.11503, 46.22391]","",diaryDate,9 Apr 1916,"{""day""=>[""9""], ""month""=>[""Apr""], ""year""=>[""1916""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+19,AWD0003ywx,diary,267,5,1916-04-09 00:00:00 UTC,9 Apr 1916,Mailly,"[4.11503, 46.22391]","",place,Mailly,"{""place""=>[""Mailly""], ""location""=>[""true""], ""name""=>[""Mailly""], ""lat""=>[""46.22391""], ""long""=>[""4.11503""], ""id""=>[""2996692""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+20,AWD0003ywx,diary,267,4,1916-04-09 00:00:00 UTC,9 Apr 1916,Mailly,"[4.11503, 46.22391]","",activity,quiet,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+21,AWD0003ywx,diary,267,2,1916-04-09 00:00:00 UTC,9 Apr 1916,Mailly,"[4.11503, 46.22391]","",weather,fog,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+22,AWD0003ywx,diary,267,2,1916-04-09 00:00:00 UTC,9 Apr 1916,Mailly,"[4.11503, 46.22391]","",weather,overcast,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+25,AWD0003ywx,diary,267,2,1916-04-09 00:00:00 UTC,9 Apr 1916,Mailly,"[4.11503, 46.22391]","",activity,enemy_activity,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+27,AWD0003ywx,diary,267,2,1916-04-09 00:00:00 UTC,9 Apr 1916,Mailly,"[4.11503, 46.22391]","",activity,reconnoitered,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+28,AWD0003ywx,diary,267,2,1916-04-09 00:00:00 UTC,9 Apr 1916,Mailly,"[4.11503, 46.22391]","",person," ,FEH F.E.H., ","{""first""=>["""", ""FEH""], ""surname""=>[""F.E.H."", """"], ""rank""=>[""""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+29,AWD0003ywx,diary,267,2,1916-04-10 00:00:00 UTC,10 Apr 1916,Mailly,"[4.11503, 46.22391]","",diaryDate,10 Apr 1916,"{""day""=>[""10""], ""month""=>[""Apr""], ""year""=>[""1916""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+30,AWD0003ywx,diary,267,4,1916-04-10 00:00:00 UTC,10 Apr 1916,Mailly,"[4.11503, 46.22391]","",activity,quiet,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+32,AWD0003ywx,diary,267,3,1916-04-10 00:00:00 UTC,10 Apr 1916,Mailly,"[4.11503, 46.22391]","",person,Second Lieutenant  Roberts,"{""first""=>[""""], ""surname""=>[""Roberts""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""from Reserve to B Battery"", """", ""B Battery""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+33,AWD0003ywx,diary,267,2,1916-04-10 00:00:00 UTC,10 Apr 1916,"Mailly , mailly","[4.11503, 46.22391]","",place,"Mailly , mailly","{""place""=>[""Mailly "", ""mailly""], ""location""=>[""true""], ""name""=>[""Mailly""], ""lat""=>[""46.22391""], ""long""=>[""4.11503""], ""id""=>[""2996692""]}",,,
+34,AWD0003ywx,diary,267,3,1916-04-10 00:00:00 UTC,10 Apr 1916,"Mailly , mailly","[4.11503, 46.22391]","",diaryDate,10 Apr 1916,"{""day""=>[""10""], ""month""=>[""Apr""], ""year""=>[""1916""]}",,,
+35,AWD0003ywx,diary,267,4,1916-04-10 00:00:00 UTC,10 Apr 1916,"Mailly , mailly","[4.11503, 46.22391]","",activity,reconnoitered,{},,,
+37,AWD0003ywx,diary,267,4,1916-04-10 00:00:00 UTC,10 Apr 1916,"Mailly , mailly","[4.11503, 46.22391]","",weather,rain,{},,,
+38,AWD0003ywx,diary,267,4,1916-04-11 00:00:00 UTC,11 Apr 1916,"Mailly , mailly","[4.11503, 46.22391]","",diaryDate,11 Apr 1916,"{""day""=>[""11""], ""month""=>[""Apr""], ""year""=>[""1916""]}",,,
+39,AWD0003ywx,diary,267,2,1916-04-11 00:00:00 UTC,11 Apr 1916,"Mailly , mailly","[4.11503, 46.22391]","",place,"Mailly , mailly","{""place""=>[""Mailly "", ""mailly""], ""location""=>[""true""], ""name""=>[""Mailly""], ""lat""=>[""46.22391""], ""long""=>[""4.11503""], ""id""=>[""2996692""]}",,,
+41,AWD0003ywx,diary,267,3,1916-04-11 00:00:00 UTC,11 Apr 1916,"Mailly , mailly","[4.11503, 46.22391]","",person,  F.E.H.,"{""first""=>[""""], ""surname""=>[""F.E.H.""], ""rank""=>[""""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+43,AWD0003ywx,diary,267,4,1916-04-11 00:00:00 UTC,11 Apr 1916,"Mailly , mailly","[4.11503, 46.22391]","",activity,quiet,{},,,
+44,AWD0003ywx,diary,267,4,1916-04-11 00:00:00 UTC,11 Apr 1916,"Mailly , mailly","[4.11503, 46.22391]","",weather,rain,{},,,
+45,AWD0003ywx,diary,267,5,1916-04-12 00:00:00 UTC,12 Apr 1916,"Mailly , mailly","[4.11503, 46.22391]","",diaryDate,12 Apr 1916,"{""day""=>[""12""], ""month""=>[""Apr""], ""year""=>[""1916""]}",,,
+46,AWD0003ywx,diary,267,2,1916-04-12 00:00:00 UTC,12 Apr 1916,"Mailly , mailly","[4.11503, 46.22391]","",activity,reconnoitered,{},,,
+47,AWD0003ywx,diary,267,2,1916-04-12 00:00:00 UTC,12 Apr 1916,"Mailly , mailly","[4.11503, 46.22391]","",person," ,FEH F.E.H., ","{""first""=>["""", ""FEH""], ""surname""=>[""F.E.H."", """"], ""rank""=>[""""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+1,AWD0003yyb,diary,268,4,1916-04-14 00:00:00 UTC,14 Apr 1916,"Mailly , mailly","[4.11503, 46.22391]","",diaryDate,14 Apr 1916,"{""day""=>[""14""], ""month""=>[""Apr""], ""year""=>[""1916""]}",,,
+2,AWD0003yyb,diary,268,5,1916-04-14 00:00:00 UTC,14 Apr 1916,Mailly,"[0.0, 0.0]","",place,Mailly,"{""place""=>[""Mailly""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+3,AWD0003yyb,diary,268,2,1916-04-14 00:00:00 UTC,14 Apr 1916,Mailly,"[0.0, 0.0]","",weather,rain,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+4,AWD0003yyb,diary,268,3,1916-04-14 00:00:00 UTC,14 Apr 1916,Mailly,"[0.0, 0.0]","",weather,cold,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+6,AWD0003yyb,diary,268,3,1916-04-14 00:00:00 UTC,14 Apr 1916,Mailly,"[0.0, 0.0]","",activity,reconnoitered,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+9,AWD0003yyb,diary,268,2,1916-04-14 00:00:00 UTC,14 Apr 1916,Mailly,"[0.0, 0.0]","",activity,working,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+10,AWD0003yyb,diary,268,2,1916-04-14 00:00:00 UTC,14 Apr 1916,Mailly,"[0.0, 0.0]","",weather,cold,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+11,AWD0003yyb,diary,268,3,1916-04-14 00:00:00 UTC,14 Apr 1916,Mailly,"[0.0, 0.0]","",weather,rain,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+12,AWD0003yyb,diary,268,4,1916-04-15 00:00:00 UTC,15 Apr 1916,Mailly,"[0.0, 0.0]","",diaryDate,15 Apr 1916,"{""day""=>[""15""], ""month""=>[""Apr""], ""year""=>[""1916""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+13,AWD0003yyb,diary,268,4,1916-04-15 00:00:00 UTC,15 Apr 1916,Mailly,"[4.11503, 46.22391]","",place,Mailly,"{""place""=>[""Mailly""], ""location""=>[""true""], ""name""=>[""Mailly"", """"], ""lat""=>[""46.22391"", """"], ""long""=>[""4.11503"", """"], ""id""=>[""2996692"", """"]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+14,AWD0003yyb,diary,268,3,1916-04-15 00:00:00 UTC,15 Apr 1916,Mailly,"[4.11503, 46.22391]","",activity,fire,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+18,AWD0003yyb,diary,268,2,1916-04-15 00:00:00 UTC,15 Apr 1916,Mailly,"[4.11503, 46.22391]","",activity,reconnoitered,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+19,AWD0003yyb,diary,268,2,1916-04-15 00:00:00 UTC,15 Apr 1916,Mailly,"[4.11503, 46.22391]","",activity,working,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+20,AWD0003yyb,diary,268,4,1916-04-15 00:00:00 UTC,15 Apr 1916,Mailly,"[4.11503, 46.22391]","",weather,fine,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+21,AWD0003yyb,diary,268,2,1916-04-15 09:00:00 UTC,15 Apr 1916,Mailly,"[4.11503, 46.22391]",0900AM,time,0900AM,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+22,AWD0003yyb,diary,268,4,1916-04-16 00:00:00 UTC,16 Apr 1916,Mailly,"[4.11503, 46.22391]","",diaryDate,16 Apr 1916,"{""day""=>[""16""], ""month""=>[""Apr""], ""year""=>[""1916""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+23,AWD0003yyb,diary,268,4,1916-04-16 00:00:00 UTC,16 Apr 1916,Mailly,"[4.11503, 46.22391]","",place,Mailly,"{""place""=>[""Mailly""], ""location""=>[""true""], ""name""=>[""Mailly"", """"], ""lat""=>[""46.22391"", """"], ""long""=>[""4.11503"", """"], ""id""=>[""2996692"", """"]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+31,AWD0003yyb,diary,268,2,1916-04-16 00:00:00 UTC,16 Apr 1916,Mailly,"[4.11503, 46.22391]","",activity,quiet,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+33,AWD0003yyb,diary,268,4,1916-04-17 00:00:00 UTC,17 Apr 1916,Mailly,"[4.11503, 46.22391]","",diaryDate,17 Apr 1916,"{""day""=>[""17""], ""month""=>[""Apr""], ""year""=>[""1916""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+34,AWD0003yyb,diary,268,4,1916-04-17 00:00:00 UTC,17 Apr 1916,Mailly,"[4.11503, 46.22391]","",place,Mailly,"{""place""=>[""Mailly""], ""location""=>[""true""], ""name""=>[""Mailly"", """"], ""lat""=>[""46.22391"", """"], ""long""=>[""4.11503"", """"], ""id""=>[""2996692"", """"]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+35,AWD0003yyb,diary,268,3,1916-04-17 00:00:00 UTC,17 Apr 1916,Mailly,"[4.11503, 46.22391]","",weather,rain,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+37,AWD0003yyb,diary,268,3,1916-04-17 00:00:00 UTC,17 Apr 1916,Mailly,"[4.11503, 46.22391]","",activity,quiet,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+38,AWD0003yyb,diary,268,2,1916-04-17 00:00:00 UTC,17 Apr 1916,Mailly,"[4.11503, 46.22391]","",person,"Second Lieutenant  Prince, Pierce","{""first""=>[""""], ""surname""=>[""Prince"", ""Pierce""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+39,AWD0003yyb,diary,268,2,1916-04-17 00:00:00 UTC,17 Apr 1916,Mailly,"[4.11503, 46.22391]","",person,"Second Lieutenant  Muller, Miller","{""first""=>[""""], ""surname""=>[""Muller"", ""Miller""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""from reserve Bde"", """"]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+41,AWD0003yyb,diary,268,4,1916-04-17 00:00:00 UTC,17 Apr 1916,Mailly,"[4.11503, 46.22391]","",place,Mailly,"{""place""=>[""Mailly""], ""location""=>[""true""], ""name""=>[""Mailly"", """"], ""lat""=>[""46.22391"", """"], ""long""=>[""4.11503"", """"], ""id""=>[""2996692"", """"]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+42,AWD0003yyb,diary,268,3,1916-04-17 00:00:00 UTC,17 Apr 1916,Mailly,"[4.11503, 46.22391]","",weather,rain,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+43,AWD0003yyb,diary,268,4,1916-04-18 00:00:00 UTC,18 Apr 1916,Mailly,"[4.11503, 46.22391]","",diaryDate,18 Apr 1916,"{""day""=>[""18""], ""month""=>[""Apr""], ""year""=>[""1916""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+44,AWD0003yyb,diary,268,2,1916-04-18 00:00:00 UTC,18 Apr 1916,Mailly,"[4.11503, 46.22391]","",weather,cold,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+46,AWD0003yyb,diary,268,2,1916-04-18 00:00:00 UTC,18 Apr 1916,Mailly,"[4.11503, 46.22391]","",activity,quiet,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+1,AWD0003yy6,diary,269,5,1916-04-19 00:00:00 UTC,19 Apr 1916,Mailly,"[4.11503, 46.22391]","",diaryDate,19 Apr 1916,"{""day""=>[""19""], ""month""=>[""Apr""], ""year""=>[""1916""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+2,AWD0003yy6,diary,269,4,1916-04-19 00:00:00 UTC,19 Apr 1916,Mailly,"[4.11503, 46.22391]","",weather,rain,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+3,AWD0003yy6,diary,269,4,1916-04-19 00:00:00 UTC,19 Apr 1916,Mailly,"[0.0, 0.0]","",place,Mailly,"{""place""=>[""Mailly""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+5,AWD0003yy6,diary,269,3,1916-04-19 00:00:00 UTC,19 Apr 1916,Mailly,"[0.0, 0.0]","",activity,working,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+6,AWD0003yy6,diary,269,3,1916-04-19 00:00:00 UTC,19 Apr 1916,Mailly,"[0.0, 0.0]","",activity,reconnoitered,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+9,AWD0003yy6,diary,269,3,1916-04-20 00:00:00 UTC,20 Apr 1916,Mailly,"[0.0, 0.0]","",diaryDate,20 Apr 1916,"{""day""=>[""20""], ""month""=>[""Apr""], ""year""=>[""1916""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+10,AWD0003yy6,diary,269,3,1916-04-20 00:00:00 UTC,20 Apr 1916,Mailly,"[0.0, 0.0]","",weather,rain,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+11,AWD0003yy6,diary,269,3,1916-04-20 00:00:00 UTC,20 Apr 1916,Mailly,"[0.0, 0.0]","",place,Mailly,"{""place""=>[""Mailly""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+13,AWD0003yy6,diary,269,2,1916-04-20 00:00:00 UTC,20 Apr 1916,Mailly,"[0.0, 0.0]","",activity,quiet,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+15,AWD0003yy6,diary,269,3,1916-04-20 00:00:00 UTC,20 Apr 1916,Mailly,"[0.0, 0.0]","",person,Second Lieutenant  Robinson,"{""first""=>[""""], ""surname""=>[""Robinson""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+16,AWD0003yy6,diary,269,3,1916-04-20 00:00:00 UTC,20 Apr 1916,Mailly,"[0.0, 0.0]","",casualties,wounded: 1,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+17,AWD0003yy6,diary,269,4,1916-04-21 00:00:00 UTC,21 Apr 1916,Mailly,"[0.0, 0.0]","",diaryDate,21 Apr 1916,"{""day""=>[""21""], ""month""=>[""Apr""], ""year""=>[""1916""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+18,AWD0003yy6,diary,269,3,1916-04-21 00:00:00 UTC,21 Apr 1916,Mailly,"[0.0, 0.0]","",place,Mailly,"{""place""=>[""Mailly""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+19,AWD0003yy6,diary,269,3,1916-04-21 00:00:00 UTC,21 Apr 1916,Mailly,"[0.0, 0.0]","",weather,rain,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+20,AWD0003yy6,diary,269,2,1916-04-21 00:00:00 UTC,21 Apr 1916,Mailly,"[0.0, 0.0]","",activity,enemy_activity,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+23,AWD0003yy6,diary,269,4,1916-04-22 00:00:00 UTC,22 Apr 1916,Mailly,"[0.0, 0.0]","",diaryDate,22 Apr 1916,"{""day""=>[""22""], ""month""=>[""Apr""], ""year""=>[""1916""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+24,AWD0003yy6,diary,269,3,1916-04-22 00:00:00 UTC,22 Apr 1916,Mailly,"[0.0, 0.0]","",weather,fine,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+25,AWD0003yy6,diary,269,3,1916-04-22 00:00:00 UTC,22 Apr 1916,Mailly,"[0.0, 0.0]","",place,Mailly,"{""place""=>[""Mailly""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+26,AWD0003yy6,diary,269,2,1916-04-22 00:00:00 UTC,22 Apr 1916,Mailly,"[0.0, 0.0]","",activity,quiet,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+28,AWD0003yy6,diary,269,2,1916-04-22 00:00:00 UTC,22 Apr 1916,Mailly,"[0.0, 0.0]","",person,Second Lieutenant  Robinson,"{""first""=>[""""], ""surname""=>[""Robinson""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""discipline""], ""unit""=>[""""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+32,AWD0003yy6,diary,269,3,1916-04-22 00:00:00 UTC,22 Apr 1916,Mailly,"[0.0, 0.0]","",domestic,religion,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+33,AWD0003yy6,diary,269,2,1916-04-23 00:00:00 UTC,23 Apr 1916,Mailly,"[0.0, 0.0]","",diaryDate,23 Apr 1916,"{""day""=>[""23""], ""month""=>[""Apr""], ""year""=>[""1916""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+34,AWD0003yy6,diary,269,3,1916-04-23 00:00:00 UTC,23 Apr 1916,Mailly,"[0.0, 0.0]","",place,Mailly,"{""place""=>[""Mailly""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+2,AWD0003yx8,diary,270,5,1916-04-23 00:00:00 UTC,23 Apr 1916,Mailly,"[0.0, 0.0]","",weather,fine,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+3,AWD0003yx8,diary,270,4,1916-04-23 00:00:00 UTC,23 Apr 1916,Mailly,"[0.0, 0.0]","",diaryDate,23 Apr 1916,"{""day""=>[""23""], ""month""=>[""Apr""], ""year""=>[""1916""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+4,AWD0003yx8,diary,270,5,1916-04-23 00:00:00 UTC,23 Apr 1916,Mailly,"[0.0, 0.0]","",place,Mailly,"{""place""=>[""Mailly""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+8,AWD0003yx8,diary,270,2,1916-04-23 00:00:00 UTC,23 Apr 1916,Mailly,"[0.0, 0.0]","",person,"Second Lieutenant  Rawling, Rawlings","{""first""=>[""""], ""surname""=>[""Rawling"", ""Rawlings""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""commander"", ""joined""], ""unit""=>[""""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+9,AWD0003yx8,diary,270,4,1916-04-24 00:00:00 UTC,24 Apr 1916,Mailly,"[0.0, 0.0]","",diaryDate,24 Apr 1916,"{""day""=>[""24""], ""month""=>[""Apr""], ""year""=>[""1916""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+10,AWD0003yx8,diary,270,4,1916-04-24 00:00:00 UTC,24 Apr 1916,Mailly,"[4.11503, 46.22391]","",place,Mailly,"{""place""=>[""Mailly""], ""location""=>[""true""], ""name""=>[""Mailly"", """"], ""lat""=>[""46.22391"", """"], ""long""=>[""4.11503"", """"], ""id""=>[""2996692"", """"]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+11,AWD0003yx8,diary,270,4,1916-04-24 00:00:00 UTC,24 Apr 1916,Mailly,"[4.11503, 46.22391]","",weather,fine,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+15,AWD0003yx8,diary,270,2,1916-04-24 00:00:00 UTC,24 Apr 1916,Mailly,"[4.11503, 46.22391]","",activity,attack,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+17,AWD0003yx8,diary,270,4,1916-04-25 00:00:00 UTC,25 Apr 1916,Mailly,"[4.11503, 46.22391]","",diaryDate,25 Apr 1916,"{""day""=>[""25""], ""month""=>[""Apr""], ""year""=>[""1916""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+18,AWD0003yx8,diary,270,4,1916-04-25 00:00:00 UTC,25 Apr 1916,Mailly,"[4.11503, 46.22391]","",place,Mailly,"{""place""=>[""Mailly""], ""location""=>[""true""], ""name""=>["""", ""Mailly""], ""lat""=>["""", ""46.22391""], ""long""=>["""", ""4.11503""], ""id""=>["""", ""2996692""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+19,AWD0003yx8,diary,270,4,1916-04-25 00:00:00 UTC,25 Apr 1916,Mailly,"[4.11503, 46.22391]","",weather,fine,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+25,AWD0003yx8,diary,270,3,1916-04-25 00:00:00 UTC,25 Apr 1916,Mailly,"[4.11503, 46.22391]","",weather,fine,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+26,AWD0003yx8,diary,270,4,1916-04-26 00:00:00 UTC,26 Apr 1916,Mailly,"[4.11503, 46.22391]","",diaryDate,26 Apr 1916,"{""day""=>[""26""], ""month""=>[""Apr""], ""year""=>[""1916""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+27,AWD0003yx8,diary,270,3,1916-04-26 00:00:00 UTC,26 Apr 1916,Mailly,"[4.11503, 46.22391]","",place,Mailly,"{""place""=>[""Mailly""], ""location""=>[""true""], ""name""=>[""Mailly""], ""lat""=>[""46.22391""], ""long""=>[""4.11503""], ""id""=>[""2996692""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+1,AWD0003yyc,diary,271,5,1916-04-27 00:00:00 UTC,27 Apr 1916,Mailly,"[4.11503, 46.22391]","",diaryDate,27 Apr 1916,"{""day""=>[""27""], ""month""=>[""Apr""], ""year""=>[""1916""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+2,AWD0003yyc,diary,271,5,1916-04-27 00:00:00 UTC,27 Apr 1916,Mailly,"[0.0, 0.0]","",place,Mailly,"{""place""=>[""Mailly""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+3,AWD0003yyc,diary,271,5,1916-04-27 00:00:00 UTC,27 Apr 1916,Mailly,"[0.0, 0.0]","",weather,fine,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+4,AWD0003yyc,diary,271,2,1916-04-27 00:00:00 UTC,27 Apr 1916,Mailly,"[0.0, 0.0]","",activity,fire,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+5,AWD0003yyc,diary,271,3,1916-04-27 00:00:00 UTC,27 Apr 1916,Mailly,"[0.0, 0.0]","",activity,enemy_activity,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+8,AWD0003yyc,diary,271,4,1916-04-27 00:00:00 UTC,27 Apr 1916,Mailly,"[0.0, 0.0]","",weather,fine,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+9,AWD0003yyc,diary,271,4,1916-04-28 00:00:00 UTC,28 Apr 1916,Mailly,"[0.0, 0.0]","",diaryDate,28 Apr 1916,"{""day""=>[""28""], ""month""=>[""Apr""], ""year""=>[""1916""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+10,AWD0003yyc,diary,271,4,1916-04-28 00:00:00 UTC,28 Apr 1916,Mailly,"[0.0, 0.0]","",place,Mailly,"{""place""=>[""Mailly""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+11,AWD0003yyc,diary,271,2,1916-04-28 00:00:00 UTC,28 Apr 1916,Mailly,"[0.0, 0.0]","",activity,enemy_activity,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+15,AWD0003yyc,diary,271,3,1916-04-28 00:00:00 UTC,28 Apr 1916,Mailly,"[0.0, 0.0]","",person,Second Lieutenant  McKie Hale,"{""first""=>[""""], ""surname""=>[""McKie Hale""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""casualty_wounded""], ""unit""=>[""""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+17,AWD0003yyc,diary,271,2,1916-04-28 00:00:00 UTC,28 Apr 1916,Mailly,"[0.0, 0.0]","",casualties,wounded: 2,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+20,AWD0003yyc,diary,271,3,1916-04-29 00:00:00 UTC,29 Apr 1916,Mailly,"[0.0, 0.0]","",diaryDate,29 Apr 1916,"{""day""=>[""29""], ""month""=>[""Apr""], ""year""=>[""1916""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+21,AWD0003yyc,diary,271,4,1916-04-29 00:00:00 UTC,29 Apr 1916,Mailly,"[0.0, 0.0]","",place,Mailly,"{""place""=>[""Mailly""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+22,AWD0003yyc,diary,271,4,1916-04-29 00:00:00 UTC,29 Apr 1916,Mailly,"[0.0, 0.0]","",weather,fine,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+26,AWD0003yyc,diary,271,3,1916-04-29 00:00:00 UTC,29 Apr 1916,Mailly,"[0.0, 0.0]","",person,Second Lieutenant  Phillips,"{""first""=>[""""], ""surname""=>[""Phillips""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""joined""], ""unit""=>[""""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+27,AWD0003yyc,diary,271,2,1916-04-29 00:00:00 UTC,29 Apr 1916,Mailly,"[0.0, 0.0]","",unit,"31 Div Artillery, 31 Div. Artillery","{""name""=>[""31 Div Artillery"", ""31 Div. Artillery""], ""context""=>[""joined""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+28,AWD0003yyc,diary,271,3,1916-04-29 00:00:00 UTC,29 Apr 1916,Mailly,"[0.0, 0.0]","",activity,raid,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+29,AWD0003yyc,diary,271,4,1916-04-29 23:30:00 UTC,29 Apr 1916,Mailly,"[0.0, 0.0]",1130PM,time,1130PM,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+30,AWD0003yyc,diary,271,2,1916-04-29 23:30:00 UTC,29 Apr 1916,Mailly,"[0.0, 0.0]",1130PM,activity,enemy_activity,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+32,AWD0003yyc,diary,271,2,1916-04-29 23:30:00 UTC,29 Apr 1916,Mailly,"[0.0, 0.0]",1130PM,activity,fire,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+1,AWD0003ywo,diary,272,5,1916-04-30 00:00:00 UTC,30 Apr 1916,Mailly,"[0.0, 0.0]","",diaryDate,30 Apr 1916,"{""day""=>[""30""], ""month""=>[""Apr""], ""year""=>[""1916""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+2,AWD0003ywo,diary,272,5,1916-04-30 00:00:00 UTC,30 Apr 1916,Mailly,"[0.0, 0.0]","",place,Mailly,"{""place""=>[""Mailly""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+3,AWD0003ywo,diary,272,5,1916-04-30 00:00:00 UTC,30 Apr 1916,Mailly,"[0.0, 0.0]","",weather,fine,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+7,AWD0003ywo,diary,272,3,1916-04-30 00:00:00 UTC,30 Apr 1916,Mailly,"[0.0, 0.0]","",activity,reconnoitered,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+9,AWD0003ywo,diary,272,3,1916-04-30 00:00:00 UTC,30 Apr 1916,Mailly,"[0.0, 0.0]","",activity,working,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+10,AWD0003ywo,diary,272,3,1916-04-30 00:00:00 UTC,30 Apr 1916,Mailly,"[0.0, 0.0]","",activity,repair,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+3,AWD0003yy9,orders,274,2,,,,[],,person,"Lieutenant Colonel W S D,W B D Craven, Cruver","{""first""=>[""W S D"", ""W B D""], ""surname""=>[""Craven"", ""Cruver""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""commander"", ""author""], ""unit""=>[""R.F.A."", """"]}",,,
+8,AWD0003yy9,orders,274,2,,,,[],,person,Major  Rogers,"{""first""=>[""""], ""surname""=>[""Rogers""], ""rank""=>[""Major""], ""number""=>[""""], ""reason""=>[""other""], ""unit""=>[""""]}",,,
+1,AWD0003yxd,diary,277,2,1916-12-13 00:00:00 UTC,13 Dec 1916,Mailly,"[0.0, 0.0]","",diaryDate,13 Dec 1916,"{""day""=>[""13""], ""month""=>[""Dec""], ""year""=>[""1916""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+2,AWD0003yxd,diary,277,2,1916-12-13 00:00:00 UTC,13 Dec 1916,Mailly,"[0.0, 0.0]","",date,13 Dec 1916,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+9,AWD0003yxd,diary,277,2,1916-12-13 19:05:00 UTC,13 Dec 1916,Mailly,"[0.0, 0.0]",0705PM,time,0705PM,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+10,AWD0003yxd,diary,277,2,1916-12-13 19:35:00 UTC,13 Dec 1916,Mailly,"[0.0, 0.0]",0735PM,time,0735PM,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+12,AWD0003yxd,diary,277,2,1916-12-13 19:35:00 UTC,13 Dec 1916,Mailly,"[0.0, 0.0]",0735PM,gridRef,K 18 d 86 41,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+15,AWD0003yxd,diary,277,2,1916-12-13 19:35:00 UTC,13 Dec 1916,Mailly,"[0.0, 0.0]",0735PM,gridRef,K 18 d 81 22,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+16,AWD0003yxd,diary,277,2,1916-12-13 19:45:00 UTC,13 Dec 1916,Mailly,"[0.0, 0.0]",0745PM,time,0745PM,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+18,AWD0003yxd,diary,277,2,1916-12-13 19:45:00 UTC,13 Dec 1916,Mailly,"[0.0, 0.0]",0745PM,place,Louviere Farm,"{""place""=>[""Louviere Farm""], ""location""=>[""false"", ""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+21,AWD0003yxd,diary,277,2,1916-12-13 19:47:00 UTC,13 Dec 1916,Mailly,"[0.0, 0.0]",0747PM,time,0747PM,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+22,AWD0003yxd,diary,277,2,1916-12-13 19:55:00 UTC,13 Dec 1916,Mailly,"[0.0, 0.0]",0755PM,time,0755PM,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+23,AWD0003yxd,diary,277,2,1916-12-13 20:10:00 UTC,13 Dec 1916,Mailly,"[0.0, 0.0]",0810PM,time,0810PM,{},2996685,Mailly-Maillet,"[2.60473, 50.08025]"
+24,AWD0003yxd,diary,277,2,1916-12-13 20:10:00 UTC,13 Dec 1916,"Hair Alley, Star Alley","[0.0, 0.0]",0810PM,place,"Hair Alley, Star Alley","{""place""=>[""Hair Alley"", ""Star Alley""], ""location""=>[""true""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+29,AWD0003yxd,diary,277,2,1916-12-13 20:20:00 UTC,13 Dec 1916,"Hair Alley, Star Alley","[0.0, 0.0]",0820PM,time,0820PM,{},,,
+30,AWD0003yxd,diary,277,2,1916-12-13 20:23:00 UTC,13 Dec 1916,"Hair Alley, Star Alley","[0.0, 0.0]",0823PM,time,0823PM,{},,,
+31,AWD0003yxd,diary,277,2,1916-12-13 20:30:00 UTC,13 Dec 1916,"Hair Alley, Star Alley","[0.0, 0.0]",0830PM,time,0830PM,{},,,
+34,AWD0003yxd,diary,277,2,1916-12-13 20:30:00 UTC,13 Dec 1916,"Hair Alley, Star Alley","[0.0, 0.0]",0830PM,place,Dugout Lane,"{""place""=>[""Dugout Lane""], ""location""=>[""true"", ""false""], ""name""=>[""""], ""lat""=>[""""], ""long""=>[""""], ""id""=>[""""]}",,,
+36,AWD0003yxd,diary,277,2,1916-12-13 20:40:00 UTC,13 Dec 1916,"Hair Alley, Star Alley","[0.0, 0.0]",0840PM,time,0840PM,{},,,
+37,AWD0003yxd,diary,277,2,1916-12-13 20:55:00 UTC,13 Dec 1916,"Hair Alley, Star Alley","[0.0, 0.0]",0855PM,time,0855PM,{},,,
+38,AWD0003yxd,diary,277,2,1916-12-13 21:00:00 UTC,13 Dec 1916,"Hair Alley, Star Alley","[0.0, 0.0]",0900PM,time,0900PM,{},,,
+11,AWD0003ywg,orders,278,2,,,,[],,time,0500PM,{},,,
+12,AWD0003ywg,orders,278,3,,,,[],,person,Lieutenant Colonel  ,"{""first""=>[""""], ""surname""=>[""""], ""rank""=>[""Lieutenant Colonel""], ""number""=>[""""], ""reason""=>[""commander""], ""unit""=>[""""]}",,,
+13,AWD0003ywg,orders,278,2,,,,[],,diaryDate,12 Dec 1916,"{""day""=>[""12""], ""month""=>[""Dec""], ""year""=>[""1916""]}",,,
+14,AWD0003ywg,orders,278,4,,,,[],,date,12 Dec 1916,{},,,
+1,AWD0003yx0,orders,279,2,,,,[],,orders,attack,{},,,
+2,AWD0003yx0,orders,279,2,,,,[],,date,14Dec 1916,{},,,
+3,AWD0003yx0,orders,279,2,,,,[],,date,15 Dec 1916,{},,,
+4,AWD0003yx0,orders,279,2,,,,[],,date,16 Dec 1916,{},,,
+1,AWD0003yx4,"orders, diary",280,2,,,,[],,orders,attack,{},,,
+3,AWD0003yx4,"orders, diary",280,2,,,,[],,diaryDate,16 Dec 1916,"{""day""=>[""16""], ""month""=>[""Dec""], ""year""=>[""1916""]}",,,
+4,AWD0003yx4,"orders, diary",280,2,,,,[],,time,0655PM,{},,,
+10,AWD0003yx4,"orders, diary",280,2,,,,[],,diaryDate,17 Dec 1916,"{""day""=>[""17""], ""month""=>[""Dec""], ""year""=>[""1916""]}",,,
+11,AWD0003yx4,"orders, diary",280,2,,,,[],,activity,construction,{},,,
+12,AWD0003yx4,"orders, diary",280,2,,,,[],,time,0535PM,{},,,
+13,AWD0003yx4,"orders, diary",280,2,,,,[],,time,0525PM,{},,,
+5,AWD0003ywr,orders,281,4,,,,[],,date,20 Dec 1916,{},,,
+1,AWD0003yxn,orders,282,5,,,,[],,orders,attack,{},,,
+3,AWD0003yxn,orders,282,4,,,,[],,date,19 Dec 1916,{},,,
+2,AWD0003ywn,"other, orders",283,2,,,,[],,orders,attack,{},,,
+4,AWD0003ywn,"other, orders",283,2,,,,[],,orders,attack,{},,,
+1,AWD0003yy2,orders,284,3,,,,[],,orders,attack,{},,,
+2,AWD0003yy2,orders,284,3,,,,[],,person,Second Lieutenant C A Pearce,"{""first""=>[""C A""], ""surname""=>[""Pearce""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+3,AWD0003yy2,orders,284,4,,,,[],,date,19 Dec 1916,{},,,
+1,AWD0003ywp,orders,285,3,,,,[],,orders,attack,{},,,
+2,AWD0003yxm,orders,286,2,,,,[],,orders,attack,{},,,
+4,AWD0003yxm,orders,286,2,,,,[],,orders,attack,{},,,
+7,AWD0003yxm,orders,286,2,,,,[],,orders,withdraw,{},,,
+1,AWD0003yw7,"other, orders",287,2,,,,[],,orders,attack,{},,,
+5,AWD0003yw7,"other, orders",287,2,,,,[],,date,21 Dec 1916,{},,,
+1,AWD0003ywz,orders,288,3,,,,[],,orders,attack,{},,,
+1,AWD0003ywt,orders,289,3,,,,[],,orders,attack,{},,,
+3,AWD0003ywu,orders,290,3,,,,[],,orders,attack,{},,,
+4,AWD0003yy3,orders,291,2,,,,[],,person,"Second Lieutenant C A,E A Pearce","{""first""=>[""C A"", ""E A""], ""surname""=>[""Pearce""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""author"", ""other""], ""unit""=>["""", ""170 Brigade Royal Field Artillery""]}",,,
+5,AWD0003yy3,orders,291,3,,,,[],,date,23 Dec 1916,{},,,
+3,AWD0003ywk,orders,292,4,,,,[],,orders,attack,{},,,
+2,AWD0003ywj,orders,294,3,,,,[],,orders,attack,{},,,
+3,AWD0003yxl,other,295,2,,,,[],,date,21 Dec 1916,{},,,
+2,AWD0003yy0,orders,296,2,,,,[],,orders,attack,{},,,
+5,AWD0003yy0,orders,296,2,,,,[],,date,24 Dec 1916,{},,,
+6,AWD0003yy0,orders,296,2,,,,[],,person,"Second Lieutenant ,C A Pearce","{""first""=>["""", ""C A""], ""surname""=>[""Pearce""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""other"", ""author""], ""unit""=>[""170 Brigade Royal Field Artillery"", """"]}",,,
+1,AWD0003ywy,orders,297,2,,,,[],,orders,attack,{},,,
+3,AWD0003ywy,orders,297,2,,,,[],,date,25 Dec 1916,{},,,
+3,AWD0003ywh,orders,298,3,,,,[],,orders,other,{},,,
+4,AWD0003yy7,orders,299,2,,,,[],,person,Second Lieutenant C A Pearce,"{""first""=>[""C A""], ""surname""=>[""Pearce""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""author"", ""other""], ""unit""=>["""", ""170 Brigade Royal Field Artillery""]}",,,
+5,AWD0003yy7,orders,299,3,,,,[],,date,26 Dec 1916,{},,,
+7,AWD0003ywl,orders,300,2,,,,[],,person,Second Lieutenant C A Pearce,"{""first""=>[""C A""], ""surname""=>[""Pearce""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""author"", ""other""], ""unit""=>["""", ""170 Brigade Royal Field Artillery""]}",,,
+8,AWD0003ywl,orders,300,3,,,,[],,date,27 Dec 1916,{},,,
+5,AWD0003yx1,orders,301,3,,,,[],,date,30 Dec 1916,{},,,
+3,AWD0003ywd,orders,302,2,,,,[],,orders,attack,{},,,
+7,AWD0003ywd,orders,302,3,,,,[],,person,Second Lieutenant C A Pearce,"{""first""=>[""C A""], ""surname""=>[""Pearce""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""author""], ""unit""=>[""""]}",,,
+8,AWD0003ywd,orders,302,3,,,,[],,date,31 Dec 1916,{},,,
+2,AWD0003yxj,orders,303,2,,,,[],,orders,attack,{},,,
+5,AWD0003yxj,orders,303,2,,,,[],,orders,attack,{},,,
+6,AWD0003yxj,orders,303,3,,,,[],,person,Second Lieutenant C A Pearce,"{""first""=>[""C A""], ""surname""=>[""Pearce""], ""rank""=>[""Second Lieutenant""], ""number""=>[""""], ""reason""=>[""author"", ""commander"", ""other""], ""unit""=>[""""]}",,,
+7,AWD0003yxj,orders,303,3,,,,[],,date,31 Dec 1916,{},,,
+2,AWD0003yws,orders,304,2,,,,[],,orders,attack,{},,,
+1,AWD0003yxc,orders,305,2,,,,[],,orders,attack,{},,,
+3,AWD0003yxc,orders,305,2,,,,[],,orders,attack,{},,,
