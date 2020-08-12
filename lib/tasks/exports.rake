@@ -1,3 +1,17 @@
+require 'csv'
+
+desc "export places as a CSV"
+task :export_places => :environment do
+  file = "data/places.csv"
+  places = Place.sort(:compare).find_each()
+  CSV.open( file, 'w' ) do |writer|
+    writer << ['Label', 'Name', 'Identifier', 'GeoID', 'Lat', 'Long']
+    places.each do |place|
+      writer << [place.label, place.name, place.compare, place.geoid, place.coords[1], place.coords[0]]
+    end
+  end
+end
+
 desc "export results by group to JSON files"
 task :export_results => :environment do
   counter = 0
